@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002119" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000276.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hysterectomy - laparoscopic - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002119-1" qtype="information">Do you have information about Hysterectomy - laparoscopic - discharge</Question>
-			<Answer></Answer>
+			<Answer>You were in the hospital to have surgery to remove your uterus. The fallopian tubes and ovaries may also have been removed. A laparoscope (a thin tube with a small camera on it) inserted through small cuts in your belly was used for the operation.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

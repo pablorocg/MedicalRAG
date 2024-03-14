@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003787" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000354.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Supporting your child with weight loss</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003787-1" qtype="information">What is (are) Supporting your child with weight loss ?</Question>
-			<Answer></Answer>
+			<Answer>The first step in helping your child have a healthy weight is to talk with their health care provider. Your child's provider can set healthy goals for weight-loss and help with monitoring and support. Getting support from friends and family will also help your child lose weight. Try to get the whole family to join a weight-loss plan, even if weight loss is not the goal for everyone. Weight-loss plans for children focus on healthy lifestyle habits. All family members can benefit from having healthier lifestyles.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002604" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000115.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Mesothelioma - malignant</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,43 +20,49 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002604-1" qtype="information">What is (are) Mesothelioma - malignant ?</Question>
-			<Answer></Answer>
+			<Answer>Malignant mesothelioma is an uncommon cancerous  tumor . It mainly affects the lining of the lung and chest cavity (pleura) or lining of the abdomen (peritoneum). It is due to long-term asbestos exposure.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002604-2" qtype="causes">What causes Mesothelioma - malignant ?</Question>
-			<Answer></Answer>
+			<Answer>Long-term exposure to asbestos is the biggest risk factor. Asbestos is a fire-resistant material. It was once commonly found in insulation, ceiling and roofing vinyls, cement, and car brakes. Even though many asbestos workers smoked, experts do not believe smoking itself is a cause of this condition. Older veterans make up 30% of the cases of mesothelioma due to exposure in the military ship, vehicle, and plane industry. Men are affected more often than women. The average age at diagnosis is 60 years. Most people seem to develop the condition about 30 years after being in contact with the asbestos.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002604-3" qtype="symptoms">What are the symptoms of Mesothelioma - malignant ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may not appear until 20 to 40 years or longer after exposure to asbestos, and may include: Abdominal bloating ,  Abdominal pain ,  Chest pain , especially when taking a deep breath, 
+   Cough
+   , 
+   Fatigue
+   ,  Shortness of breath , 
+   Weight loss
+   , Fever and sweating, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002604-4" qtype="exams and tests">How to diagnose Mesothelioma - malignant ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will do an examination and ask the person about their symptoms and medical history. Tests that may be done include: Chest x-ray , Chest CT scan,  Cytology of pleural fluid ,  Open lung biopsy ,  Pleural biopsy ,  Mesothelioma is often hard to diagnose. Under the microscope, it can be hard to tell this disease apart from similar conditions and tumors.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002604-5" qtype="treatment">What are the treatments for Mesothelioma - malignant ?</Question>
-			<Answer></Answer>
+			<Answer>Malignant mesothelioma is a difficult cancer to treat. There is usually no cure, unless the disease is found very early and the tumor can be completely removed with surgery. Most of the time, when the disease is diagnosed, it is too advanced for surgery.  Chemotherapy  or radiation may be used to reduce symptoms. Combining certain chemotherapy drugs may help decrease symptoms, but it will not cure the cancer. Untreated, most people survive about 9 months. Participating in a clinical trial (test of new treatments), may give the person more treatment options. Pain relief, oxygen, and other supportive treatments may also help relieve symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002604-6" qtype="support groups">Where to find support for people with Mesothelioma - malignant ?</Question>
-			<Answer></Answer>
+			<Answer>You can ease the stress of illness by joining a  support group  where members share common experiences and problems.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002604-7" qtype="outlook">What is the outlook for Mesothelioma - malignant ?</Question>
-			<Answer></Answer>
+			<Answer>The survival time varies greatly from several months to several years. Outlook depends on: The location of the mesothelioma, The cell type of the mesothelioma, The stage of the tumor, The person's age and general health, Whether surgery is an option, The person's response to treatment ,  You and your family may want to start thinking about end-of-life planning, such as: Palliative care ,  Hospice care ,  Advance care directives ,  Health care agents , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002604-8" qtype="complications">What are the complications of Mesothelioma - malignant ?</Question>
-			<Answer></Answer>
+			<Answer>Complications of malignant mesothelioma may include: Side effects of chemotherapy or radiation, Continued spread of cancer to other organs, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002604-9" qtype="when to contact a medical professional">Do I need to see a doctor for Mesothelioma - malignant ?</Question>
-			<Answer></Answer>
+			<Answer>Call for an appointment with your provider if you have symptoms of malignant mesothelioma.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0002604-10" qtype="prevention">How to prevent Mesothelioma - malignant ?</Question>
-			<Answer></Answer>
+			<Answer>Avoid exposure to asbestos.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

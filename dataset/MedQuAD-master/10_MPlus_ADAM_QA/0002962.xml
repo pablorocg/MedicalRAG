@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002962" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000557.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Paroxysmal cold hemoglobinuria (PCH)</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002962-1" qtype="information">What is (are) Paroxysmal cold hemoglobinuria (PCH) ?</Question>
-			<Answer></Answer>
+			<Answer>Paroxysmal cold hemoglobinuria (PCH) is a rare blood disorder in which the body's immune system produces  antibodies  that destroy red blood cells. It occurs when the person is exposed to cold temperatures.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002962-2" qtype="causes">What causes Paroxysmal cold hemoglobinuria (PCH) ?</Question>
-			<Answer></Answer>
+			<Answer>PCH only occurs in the cold, and affects mainly the hands and feet. Antibodies attach (bind) to red blood cells. This allows other proteins in the blood (called complement) to also latch on. The antibodies destroy the red blood cells as they move through the body. As the cells are destroyed, hemoglobin, the part of red blood cells that carries oxygen, is released into the blood and passed in the urine. PCH has been linked to secondary syphilis, tertiary syphilis, and other viral or bacterial infections. Sometimes the cause is unknown. The disorder is rare.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002962-3" qtype="symptoms">What are the symptoms of Paroxysmal cold hemoglobinuria (PCH) ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Chills,  Fever , Back pain,  Leg pain ,  Abdominal pain ,  Headache , General discomfort, uneasiness, or ill feeling ( malaise ),  Blood in the urine  (red urine) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002962-4" qtype="exams and tests">How to diagnose Paroxysmal cold hemoglobinuria (PCH) ?</Question>
-			<Answer></Answer>
+			<Answer>Laboratory tests can help diagnose this condition. Bilirubin levels are high in blood and urine., Complete blood count (CBC) shows anemia., Coombs test is negative.,  Donath-Landsteiner test  is positive., Lactate dehydrogenase level is high. , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002962-5" qtype="treatment">What are the treatments for Paroxysmal cold hemoglobinuria (PCH) ?</Question>
-			<Answer></Answer>
+			<Answer>Treating the underlying condition can help. For example, if PCH is caused by syphilis, symptoms may get better when the syphilis is treated. In some cases, medicines that suppress the immune system are used.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002962-6" qtype="outlook">What is the outlook for Paroxysmal cold hemoglobinuria (PCH) ?</Question>
-			<Answer></Answer>
+			<Answer>People with this disease often get better quickly and do not have symptoms between episodes. In most cases, the attacks end as soon as the damaged cells stop moving through the body.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002962-7" qtype="complications">What are the complications of Paroxysmal cold hemoglobinuria (PCH) ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Continued attacks, Kidney failure, Severe anemia , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002962-8" qtype="when to contact a medical professional">Do I need to see a doctor for Paroxysmal cold hemoglobinuria (PCH) ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have symptoms of this disorder. The provider can rule out other causes of the symptoms and decide whether you need treatment.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002962-9" qtype="prevention">How to prevent Paroxysmal cold hemoglobinuria (PCH) ?</Question>
-			<Answer></Answer>
+			<Answer>People who have been diagnosed with this disease can prevent future attacks by staying out of the cold.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

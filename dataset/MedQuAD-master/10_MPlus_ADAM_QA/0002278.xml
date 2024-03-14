@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002278" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003498.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ketones blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002278-1" qtype="information">Do you have information about Ketones blood test</Question>
-			<Answer></Answer>
+			<Answer>A ketone blood test measures the amount of ketones in the blood. Ketones can also be measured with a  urine test .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

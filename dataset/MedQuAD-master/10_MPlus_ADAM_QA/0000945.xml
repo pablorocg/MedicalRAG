@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000945" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000411.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Congenital adrenal hyperplasia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000945-1" qtype="information">What is (are) Congenital adrenal hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Congenital adrenal hyperplasia is the name given to&#160;a group of inherited disorders of the  adrenal gland . Inherited means they are passed down from parent to child.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000945-2" qtype="causes">What causes Congenital adrenal hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Your adrenal glands are 2 walnut-sized organs that sit one on top of each kidney. The adrenal glands make the following hormones that are essential for life. Cortisol  regulates blood pressure, blood sugar, and energy levels. It also helps your body respond to illness and stress.,  Aldosterone  helps manage sodium and potassium levels in your blood to help regulate blood pressure.,  Androgens  are male sex hormones, such as testosterone. These hormones play a role in growth and development in both males and females.,  Most people with congenital adrenal hyperplasia (CAH) lack an  enzyme  called 21-hydroxylase. The adrenal glands need this enzyme to make enough cortisol and aldosterone. Because of low cortisol levels, the body stimulates the adrenal gland, which then produces more androgen. This results in an imbalance of these hormones. There are two main types of CAH that make up most of all cases: classic CAH and nonclassic CAH. Classic CAH  is rarer and more serious. It is often found at birth or early infancy. The body makes too little aldosterone and cortisol and too much androgen. There are two subtypes of classic CAH: Salt-wasting CAH. This is the most serious form, and it can cause life-threatening symptoms. The body makes too little aldosterone to regulate the sodium levels in the blood. This results in loss of sodium through the urine. It can be life-threatening without treatment., Simple-virilizing CAH. This more moderate form of CAH does not cause life-threatening symptoms. The body makes enough aldosterone to regulate sodium levels, but it still produces too little cortisol and too much androgen.,  Nonclassic CAH  is the mildest and most common form. The body produces enough aldosterone and cortisol, but too much androgen. It often is not diagnosed until later in childhood or adulthood. The person may not have any or only mild symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000945-3" qtype="symptoms">What are the symptoms of Congenital adrenal hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms will vary, depending on the type of CAH someone has and their age when the disorder is diagnosed. Females with classic CAH often have  ambiguous genitalia  at birth and may be diagnosed before symptoms appear., Males will appear normal at birth, even if they have a more severe form. ,  In children classic, salt-wasting CAH, several adrenal symptoms often develop within 2 or 3 weeks after birth. They may include: Poor feeding or vomiting, Diarrhea, Dehydration, Electrolyte changes (abnormal levels of sodium and potassium in the blood), Abnormal heart rhythm , Low blood glucose, Too much acid in the blood (metabolic acidosis), Weight loss, Shock,  Females with nonclassic CAH will usually have normal female reproductive organs (ovaries, uterus, and fallopian tubes). They may also have the following changes: Abnormal menstrual periods or failure to menstruate, Early appearance of pubic or armpit hair, Severe acne,  Excessive hair growth  or facial hair, Some enlargement of the clitoris ,  Males with nonclassic CAH often appear normal at birth. However, they may appear to enter puberty early. Symptoms may include: Deepening voice, Severe acne, Early appearance of pubic or armpit hair, Enlarged penis but normal testes, Well-developed muscles ,  Both males and females will be grow rapidly as children, but be much shorter than normal as adults.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000945-4" qtype="exams and tests">How to diagnose Congenital adrenal hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>If you have a family history of CAH, you may want to talk with your health care provider about having prenatal tests to check for the disorder in your unborn baby: Amniocentesis ,  Chorionic villus sampling ,  At birth, your child will be screened for CAH as part of newborn screening tests. This is done with a heel stick to draw blood (as part of the routine screenings done on newborns). However, this can only detect classic CAH. If a person has symptoms of any type of CAH, the provider will do an exam and order certain tests. Common blood tests include: Serum electrolytes ,  Aldosterone ,  Renin ,  Cortisol ,  Genetic tests can help diagnose or confirm the disorder, but they are rarely needed.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000945-5" qtype="treatment">What are the treatments for Congenital adrenal hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to return hormone levels to normal, or near normal. Treatment may include taking: Hydrocortisone to replace cortisol, Fludrocortisone to replace aldosterone, Salt supplements,  Medicine should be taken daily. People may need additional doses of medicine during times of stress, such as severe illness or surgery. Lifelong monitoring is needed to ensure that proper hormone levels are maintained.
+ Steroids (such as hydrocortisone and fludrocortisone) used to treat CAH do not usually cause side effects such as obesity or weak bones, because the doses replace the hormones that the body cannot make. Steroids cannot be stopped suddenly because doing so may lead to  adrenal crisis . People with nonclassic CAH may not need medicine or just need low doses of medicine. A team of health care professionals with expertise in CAH will work together to treat the child and support the family. This team may include neonatologists, geneticists, endocrinologists, and psychiatrists or social workers. Female children with ambiguous genitalia may need surgery to improve function and to create a more typical female appearance. Many health experts suggest waiting until the child is old enough to be involved in the decision, unless surgery is needed for the health of the infant. Talk with your child&#8217;s health care providers about what may be best for your child. Working with a mental health professional is an important part of a treatment plan for children with CAH and their families.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000945-6" qtype="support groups">Where to find support for people with Congenital adrenal hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>More information and support for people with CAH and their families can be found at: National Adrenal Diseases Foundation --  www.nadf.us , The MAGIC Foundation --  www.magicfoundation.org , The CARES Foundation --  caresfoundation.org , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000945-7" qtype="outlook">What is the outlook for Congenital adrenal hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Most people with this disorder must take medicine their entire life. They most often have good health. However, they may be shorter than normal adults, even with treatment. In some cases, CAH can affect fertility.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000945-8" qtype="complications">What are the complications of Congenital adrenal hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer> 
+ Adrenal crisis&#160;is a serious complication of classic CAH.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000945-9" qtype="prevention">How to prevent Congenital adrenal hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Because this is a genetic condition, there is no way to prevent it. However, parents with a family history of CAH (of any type) or a child who has the condition should consider genetic counseling.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

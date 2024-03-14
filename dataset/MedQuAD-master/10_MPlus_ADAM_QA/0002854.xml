@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002854" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003861.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Open lung biopsy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002854-1" qtype="information">Do you have information about Open lung biopsy</Question>
-			<Answer></Answer>
+			<Answer>An open lung biopsy is surgery to remove a small piece of tissue from the lung. The sample is then examined for  cancer , infection, or  lung disease .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

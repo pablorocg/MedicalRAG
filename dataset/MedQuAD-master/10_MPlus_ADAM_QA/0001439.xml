@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001439" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003225.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Erosion</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,7 +18,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001439-1" qtype="information">What is (are) Erosion ?</Question>
-			<Answer></Answer>
+			<Answer>Erosion is a breakdown of the outer layers of the skin, usually because of a:  Cut, Scrape, Inflammation, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

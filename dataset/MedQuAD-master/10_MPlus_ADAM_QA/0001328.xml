@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001328" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002171.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Eating disorders - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,7 +24,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001328-1" qtype="information">What is (are) Eating disorders - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations provide information on eating disorders: Academy for Eating Disorders --  www.aedweb.org , Overeaters Anonymous --  oa.org , National Eating Disorders Association --  www.nationaleatingdisorders.org , National Institute of Mental Health --  www.nimh.nih.gov/health/topics/eating-disorders , Office on Women's Health, US Department of Health and Human Services --  www.womenshealth.gov/mental-health/body-image-and-mental-health , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

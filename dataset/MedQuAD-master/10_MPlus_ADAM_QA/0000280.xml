@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000280" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003557.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Antithyroglobulin antibody</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000280-1" qtype="information">Do you have information about Antithyroglobulin antibody</Question>
-			<Answer></Answer>
+			<Answer>Antithyroglobulin antibody is a test to measure  antibodies  to a protein called thyroglobulin. This protein is found in thyroid cells, but a small amount leaks out into the bloodstream. Sometimes the immune system produces antibodies against this protein.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

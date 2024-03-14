@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002342" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000525.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lasik eye surgery - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002342-1" qtype="information">Do you have information about Lasik eye surgery - discharge</Question>
-			<Answer></Answer>
+			<Answer>Lasik eye surgery permanently changes the shape of the cornea (the clear covering on the front of the eye). It is done to improve vision and reduce the need for glasses or contact lenses.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

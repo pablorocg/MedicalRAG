@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000484" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001124.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Blood clots</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000484-1" qtype="information">Do you have information about Blood clots</Question>
-			<Answer></Answer>
+			<Answer>Blood clots are clumps that occur when blood hardens from a liquid to a solid.  A blood clot that forms inside one of your veins or arteries is called a thrombus. A thrombus may also form in your heart. , A thrombus that breaks loose and travels from one location in the body to another is called an  embolus .,  A thrombus or embolus can partly or completely block the flow of blood in a blood vessel. A blockage in an artery may prevent oxygen from reaching the tissues in that area. This is called ischemia. If ischemia is not treated promptly, it can lead to tissue damage or death., A blockage in the vein will often cause fluid buildup and swelling. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

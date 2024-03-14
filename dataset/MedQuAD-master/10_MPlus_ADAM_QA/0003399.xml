@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003399" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001255.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Retroperitoneal inflammation</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003399-1" qtype="information">What is (are) Retroperitoneal inflammation ?</Question>
-			<Answer></Answer>
+			<Answer>Retroperitoneal inflammation causes swelling that occurs in the retroperitoneal space. Over time, it can lead to a mass behind the abdomen and its contents called retroperitoneal fibrosis. The retroperitoneal space is in front of the lower back and behind the abdominal lining (peritoneum). Organs in this space include the: Kidneys, Lymph nodes, Pancreas, Spleen, Ureters, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003814" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001357.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Swimming pool granuloma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,39 +22,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003814-1" qtype="information">What is (are) Swimming pool granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>A swimming pool granuloma is a long-term (chronic) skin infection. It is caused by the bacteria  Mycobacterium marinum (M marinum) .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003814-2" qtype="causes">What causes Swimming pool granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>M marinum  bacteria can live in fresh and salt water, unchlorinated swimming pools, and aquarium tanks. The bacteria can enter the body through a break in the skin, such as a cut, when you come into contact with water that contains this bacteria. Signs of a skin infection appear about 2 to 3 weeks after exposure. Risks include exposure of skin cuts or scrapes to swimming pools, aquariums, or fish or amphibians that are infected with the bacteria. As a result, people who fish or maintain aquariums and fish tanks are at higher risk.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003814-3" qtype="symptoms">What are the symptoms of Swimming pool granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>The main symptom is a reddish to purple bump ( papule ) that slowly grows into a purplish and painful  nodule . The elbows, fingers, and back of the hands are the most commonly affected body parts. The knees and legs are other areas affected. The nodules may break down, ulcerate, and leave an open sore. Sometimes, they spread up through the lymph nodes of the limb, but more often remain as a solitary nodule. Since the bacteria cannot survive at the temperature of the internal organs, they usually stay in the skin, causing the nodules.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003814-4" qtype="exams and tests">How to diagnose Swimming pool granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical examination and ask about your symptoms. You may also be asked if you recently swam in a pool or handled fish or amphibians. Tests to diagnose swimming pool granuloma include: Skin test &#160;or blood test to check for tuberculosis infection, which may look similar,  Skin punch biopsy  and culture, X-ray or other imaging tests for infection that has spread to the joint or bone , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003814-5" qtype="treatment">What are the treatments for Swimming pool granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>Antibiotics are used to treat this infection. They are chosen based on the results of the culture and skin biopsy. You may need several months of treatment with more than one antibiotic. Surgery may also be needed to remove dead tissue if the lesions do not clear with antibiotics. This helps the wound heal.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003814-6" qtype="outlook">What is the outlook for Swimming pool granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>Swimming pool granulomas can be cured with antibiotics, or they may heal on their own. They often leave a scar.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003814-7" qtype="complications">What are the complications of Swimming pool granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>Tendon, joint, or bone infections sometimes occur. The disease may be harder to treat in people whose immune system is not working well.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003814-8" qtype="when to contact a medical professional">Do I need to see a doctor for Swimming pool granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop reddish bumps on your skin that do not clear with home treatment.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003814-9" qtype="prevention">How to prevent Swimming pool granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>Wash hands and arms thoroughly after cleaning aquariums. Or, wear rubber gloves when cleaning.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

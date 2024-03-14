@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003226" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000543.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Primary thrombocythemia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003226-1" qtype="information">What is (are) Primary thrombocythemia ?</Question>
-			<Answer></Answer>
+			<Answer>Essential thrombocythemia (ET) is a condition in which the bone marrow produces too many platelets. Platelets are particles in the blood that aid in blood clotting. Watch this video about: Blood clotting</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003226-2" qtype="causes">What causes Primary thrombocythemia ?</Question>
-			<Answer></Answer>
+			<Answer>ET results from an overproduction of platelets. As these platelets do not work normally, blood clots and bleeding are common problems. Untreated, ET worsens over time. ET is part of a group of conditions known as myeloproliferative disorders. Others include: Chronic myelogenous leukemia  (an overproduction of white blood cells that starts in the bone marrow),  Polycythemia vera  (bone marrow disease that leads to an abnormal increase in the number of red blood cells), Primary  myelofibrosis  (disorder of the bone marrow in which the marrow is replaced by fibrous scar tissue) ,  Many people with ET have a mutation of a gene (JAK2, CALR, or MPL). ET is most common in middle-aged people. It can also sometimes be seen in younger people, especially women under age 40.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003226-3" qtype="symptoms">What are the symptoms of Primary thrombocythemia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include any of the following: Headache (most common), Tingling, coldness, or blueness in the hands and feet, Feeling dizzy or lightheaded, Vision problems, Mini-strokes ( transient ischemic attacks ) or  stroke ,  If bleeding is a problem, symptoms may include any of the following: Easy  bruising  and nosebleeds, Bleeding from the gastrointestinal tract,&#160; respiratory &#160;system, urinary tract, or skin, Bleeding from the gums, Prolonged bleeding from surgical procedures or tooth removal, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003226-4" qtype="exams and tests">How to diagnose Primary thrombocythemia ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, ET is found through blood tests done for other health problems before symptoms appear. Other tests may include: Bone marrow biopsy ,  Complete blood count  (CBC), Genetic tests (to look for a change in the JAK2, CALR, or MPL gene), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003226-5" qtype="treatment">What are the treatments for Primary thrombocythemia ?</Question>
-			<Answer></Answer>
+			<Answer>If you have life-threatening complications, you may have a treatment called platelet pheresis. It quickly reduces the number of&#160; platelets in the blood. Long-term, medicines are used to decrease the platelet count to avoid complications. The most common medicines used include hydroxyurea, interferon-alpha, or anagrelide. Aspirin at a low dose (81 to 100 mg per day) may decrease clotting episodes. Many people do not need any treatment, but they must be followed closely by their provider.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003226-6" qtype="outlook">What is the outlook for Primary thrombocythemia ?</Question>
-			<Answer></Answer>
+			<Answer>Outcomes may vary. Most people can go for long periods without complications and have a normal lifespan. In a small number of people, complications from bleeding and blood clots can cause serious problems. In rare cases, the disease can change into acute leukemia or myelofibrosis.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003226-7" qtype="complications">What are the complications of Primary thrombocythemia ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Acute leukemia or  myelofibrosis , Severe bleeding (hemorrhage),  Stroke ,  heart attack , or blood clots, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003226-8" qtype="when to contact a medical professional">Do I need to see a doctor for Primary thrombocythemia ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: You have unexplained bleeding that continues longer than it should., You notice  chest pain ,  leg pain ,  confusion ,  weakness ,  numbness , or other new symptoms. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

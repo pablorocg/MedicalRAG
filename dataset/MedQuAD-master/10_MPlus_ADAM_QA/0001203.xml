@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001203" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000706.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Dialysis centers - what to expect</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001203-1" qtype="information">Do you have information about Dialysis centers - what to expect</Question>
-			<Answer></Answer>
+			<Answer>If you need  dialysis  for kidney disease, you have a few options for how to receive treatment. Many people have dialysis in a treatment center. This article focuses on hemodialysis at a treatment center.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

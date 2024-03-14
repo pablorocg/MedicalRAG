@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000894" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003910.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cold knife cone biopsy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000894-1" qtype="information">Do you have information about Cold knife cone biopsy</Question>
-			<Answer></Answer>
+			<Answer>A cone biopsy (conization) is surgery to remove a sample of abnormal tissue from the cervix. The cervix is the lower part of the uterus (womb) that opens at the top of the vagina. Abnormal changes in the cells on the surface of the cervix is called  cervical dysplasia .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

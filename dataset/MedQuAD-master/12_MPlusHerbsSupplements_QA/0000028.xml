@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000028" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/1092.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Coconut Oil</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,47 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000028-1" qtype="information">What is Coconut Oil ?</Question>
-			<Answer></Answer>
+			<Answer>Coconut oil comes from the nut (fruit) of the coconut palm. It contains medium-chain fatty acids, including capric acid, caprylic acid, and lauric acid. 
+
+About 52% to 85% of coconut oil is made up of specific saturated fats, called medium-chain fatty acids. It has a moisturizing effect when applied to the skin.  
+
+People commonly use coconut oil for eczema and growth in premature infants. It's also used for psoriasis, obesity, breast cancer, heart disease, MS, and many other conditions, but there is no good scientific evidence to support these uses.
+ 
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000028-2" qtype="how effective is it">How effective is Coconut Oil ?</Question>
-			<Answer></Answer>
+			<Answer>Natural Medicines Comprehensive Database  rates effectiveness based on scientific evidence according to the following scale:  Effective, Likely Effective, Possibly Effective, Possibly Ineffective, Likely Ineffective, Ineffective, and Insufficient Evidence to Rate. The effectiveness ratings for  COCONUT OIL  are as follows: Possibly effective for... 
+ Eczema (atopic dermatitis) . Applying coconut oil to the skin can reduce eczema symptoms in children more than applying mineral oil., 
+
+ Growth and development in premature infants . Applying coconut oil to the skin of premature infants might improve body temperature, breathing, skin health, and overall growth. , 
+ 
+
+There is interest in using coconut oil for a number of other purposes, but there isn't enough reliable information to say whether it might be helpful. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000028-3" qtype="how does it work">What is the action of Coconut Oil and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000028-4" qtype="precautions">Are there safety concerns or special precautions about Coconut Oil ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000028-5" qtype="interactions with medications">Are there interactions between Coconut Oil and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>It is not known if this product interacts with any medicines.    Before taking this product, talk with your health professional if you take any medications.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000028-6" qtype="interactions with herbs and supplements">Are there interactions between Coconut Oil and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>Blond psyllium Psyllium might reduce the amount of fat that the body absorbs from coconut oil. Chlorogenic acid Coconut oil might increase the amount of chlorogenic acid that the body absorbs from supplements.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000028-7" qtype="interactions with foods">Are there interactions between Coconut Oil and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000028-8" qtype="dose">What is the dosage of Coconut Oil ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

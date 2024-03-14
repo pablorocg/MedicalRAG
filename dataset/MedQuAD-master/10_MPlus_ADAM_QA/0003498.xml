@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003498" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003780.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Scrotal ultrasound</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003498-1" qtype="information">Do you have information about Scrotal ultrasound</Question>
-			<Answer></Answer>
+			<Answer>Scrotal  ultrasound  is an imaging test that looks at the scrotum. The scrotum is the flesh-covered sac that hangs between the legs at the base of the penis and contains the testicles. The testicles are the male reproductive organs that produce sperm and the hormone  testosterone . They are located in the  scrotum , along with other small organs, blood vessels, and a small tube called the vas deferens.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

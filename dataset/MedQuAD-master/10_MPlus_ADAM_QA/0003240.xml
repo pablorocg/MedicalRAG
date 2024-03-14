@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003240" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007665.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Prostate biopsy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003240-1" qtype="information">Do you have information about Prostate biopsy</Question>
-			<Answer></Answer>
+			<Answer>A prostate biopsy is the removal of tiny samples of prostate tissue to examine it for signs of prostate cancer. The prostate is a small, walnut-sized gland just under the bladder in men. It wraps around the urethra, the tube that carries urine out of the body. The prostate makes semen, the fluid that carries sperm.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

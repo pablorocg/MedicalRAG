@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002072" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002375.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hyperbaric oxygen therapy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002072-1" qtype="information">Do you have information about Hyperbaric oxygen therapy</Question>
-			<Answer></Answer>
+			<Answer>Some hospitals have a hyperbaric chamber. Smaller units may be available in outpatient centers. The air pressure inside a hyperbaric oxygen chamber is about two and a half times higher than the normal pressure in the atmosphere. This helps your blood carry more oxygen to organs and tissues in your body. The other benefits of increased pressure of oxygen in the tissues may include: More and improved oxygen supply, Reduction in swelling and edema, Stopping infection ,  Hyperbaric therapy can help wounds, particularly infected wounds, heal more quickly. The therapy may be used to treat: Air or gas embolism (a bubble that gets trapped in a blood vessel and blocks it), Bone infections ( osteomyelitis ) that have not improved with other treatments,  Burns , Crush injuries, Frostbite,  Carbon monoxide poisoning , Certain types of brain or sinus infections, Decompression sickness (for example, a diving injury),  Gas gangrene ,  Necrotizing soft tissue infections , Radiation injury (for example, damage from  radiation therapy  for cancer),  Skin grafts , Wounds that have not healed with other treatments (for example, it may be used to treat a foot ulcer in someone with diabetes or very bad circulation) ,  This treatment may also be used to provide enough oxygen to the lung during a procedure called whole lung lavage, which is used to clean an entire lung in people with certain medical conditions, like  pulmonary alveolar proteinosis . Treatment for long-term (chronic) conditions may be repeated over days or weeks. A treatment session for more acute conditions such as decompression sickness may last longer, but may not need to be repeated.  You might feel pressure in your ears while you are in the hyperbaric chamber. Your ears may pop when you get out of the chamber. This is similar to what happens when you dive and come up or when you ascend and descend on the plane.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

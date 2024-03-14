@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001467" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001629.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ethmoiditis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,15 +16,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001467-1" qtype="information">What is (are) Ethmoiditis ?</Question>
-			<Answer></Answer>
+			<Answer>Ethmoiditis is an infection or inflammation of the ethmoidal cells in the sinuses. These are the air-filled spaces behind the nose and between the eyes. Ethmoiditis is a type of  sinusitis .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001467-2" qtype="causes">What causes Ethmoiditis ?</Question>
-			<Answer></Answer>
+			<Answer>Bacteria cause most ethmoid sinus infections. Some types of fungus and viruses can also be involved.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001467-3" qtype="symptoms">What are the symptoms of Ethmoiditis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms usually include: Headache between the eyes , Runny nose, Nasal congestion, Loss of sense of smell,  Symptoms of more serious infections can include:  Vision loss, Double vision, Redness or bulging of the eyes , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003404" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000518.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Returning to sports after a back injury</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003404-1" qtype="information">What is (are) Returning to sports after a back injury ?</Question>
-			<Answer></Answer>
+			<Answer>You may play sports rarely, on a regular basis, or at a competitive level. No matter how involved you are, consider these questions before returning to any sport after a  back injury : Do you want to still play the sport, even though it stresses your back?, If you continue with the sport, will you continue at the same level or play at a less intense level?, When did your back injury occur? How severe was the injury? Did you need surgery?, Have you talked about wanting to return to the sport with your doctor, physical therapist, or other health care providers?, Have you been doing exercises to strengthen and stretch the muscles that support your back?, Are you still in good shape?, Are you pain free when you do the movements your sport requires?, Have you regained all or most of the range of motion in your spine?, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

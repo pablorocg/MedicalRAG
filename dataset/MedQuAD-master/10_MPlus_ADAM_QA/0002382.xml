@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002382" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002151.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Leukemia - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002382-1" qtype="information">What is (are) Leukemia - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations provide information on the different types of leukemia: American Cancer Society --  www.cancer.org/cancer/leukemia.html , Cancer Care --  www.cancercare.org/ , Leukemia Research Foundation --  leukemiarf.org/leukemia/ , National Cancer Institute --  www.cancer.gov/types/leukemia , The Leukemia and Lymphoma Society --  www.lls.org/ , US National Library of Medicine, MedlinePlus --  medlineplus.gov/leukemia.html , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

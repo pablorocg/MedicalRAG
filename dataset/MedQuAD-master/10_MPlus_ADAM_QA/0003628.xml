@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003628" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000972.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Slipped capital femoral epiphysis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003628-1" qtype="information">What is (are) Slipped capital femoral epiphysis ?</Question>
-			<Answer></Answer>
+			<Answer>A slipped capital femoral epiphysis is a separation of the ball of the hip joint from the thigh bone (femur) at the upper growing end (growth plate) of the bone.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003628-2" qtype="causes">What causes Slipped capital femoral epiphysis ?</Question>
-			<Answer></Answer>
+			<Answer>A slipped capital femoral epiphysis may affect both hips. An epiphysis is an area at the end of a  long bone . It is separated from the main part of the bone by the growth plate. In this condition, the problem occurs in the upper area while the bone is still growing. Slipped capital femoral epiphysis occurs in about 2 out of every 100,000 children. It is more common in: Growing children ages 11 to 15,&#160;especially boys, Children who are obese, Children who are growing rapidly,  Children with hormone imbalances caused by other conditions are at higher risk for this disorder.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003628-3" qtype="symptoms">What are the symptoms of Slipped capital femoral epiphysis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Difficulty walking , walking with a limp that came on quickly with or without trauma,  Knee pain ,  Hip pain ,  Hip stiffness , Outward-turning leg, Restricted hip movements , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003628-4" qtype="exams and tests">How to diagnose Slipped capital femoral epiphysis ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will examine you. A hip or  pelvis x-ray  can confirm this condition.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003628-5" qtype="treatment">What are the treatments for Slipped capital femoral epiphysis ?</Question>
-			<Answer></Answer>
+			<Answer>Surgery to stabilize the bone with pins or screws will prevent the ball of the hip joint from slipping or moving out of place. At times, the hip joint has to be opened up to allow the surgeon to realign the hip. Some surgeons may suggest using pins on the other hip at the same time. This is because many children will develop this problem in that hip later.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003628-6" qtype="outlook">What is the outlook for Slipped capital femoral epiphysis ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome is most often good with treatment. In rare cases, the hip joint may wear away, despite prompt diagnosis and treatment.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003628-7" qtype="complications">What are the complications of Slipped capital femoral epiphysis ?</Question>
-			<Answer></Answer>
+			<Answer>This disorder is linked to a greater risk for  osteoarthritis  later in life. Other potential but rare complications include reduced blood flow to the hip joint and wearing away of hip joint tissue (avascular necrosis). This can lead to increased pain and stiffness of the joint, even at young age.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003628-8" qtype="when to contact a medical professional">Do I need to see a doctor for Slipped capital femoral epiphysis ?</Question>
-			<Answer></Answer>
+			<Answer>If your child has ongoing pain or other symptoms of this disorder, have the child lie down right away and stay still until you get medical help.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003628-9" qtype="prevention">How to prevent Slipped capital femoral epiphysis ?</Question>
-			<Answer></Answer>
+			<Answer>Weight control for obese children may be helpful. Many cases are not preventable.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

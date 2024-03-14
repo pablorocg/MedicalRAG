@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003024" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002273.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Peripheral</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003024-1" qtype="information">Do you have information about Peripheral</Question>
-			<Answer></Answer>
+			<Answer>Peripheral means "away from the center." It refers to areas away from the center of the body or a body part.  For example, the hands are peripheral to the shoulder. The toes are peripheral to the knees.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

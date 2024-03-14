@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001614" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000354.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Folate deficiency</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,27 +20,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001614-1" qtype="information">What is (are) Folate deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Folate deficiency means you have a lower-than-normal amount of  folic acid , a type of vitamin B, in your blood.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001614-2" qtype="causes">What causes Folate deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Folic acid (vitamin B9) works with vitamin B12 and vitamin C to help the body break down, use, and make new proteins. The vitamin helps form red and white blood cells. It also helps produce DNA, the building block of the human body, which carries genetic information. Folic acid is a water-soluble type of vitamin B. This means it is not stored in the fat tissues of the body. Leftover amounts of the vitamin leave the body through the urine. Because folate is not stored in the body in large amounts, your blood levels will get low after only a few weeks of eating a diet low in folate. Folate is found primarily in legumes, leafy greens, eggs, beets, bananas, citrus fruits, and liver. Contributors to folate deficiency include: Diseases in which folic acid is not well absorbed in the digestive system (such as  celiac disease  or  Crohn disease ), Drinking too much alcohol, Eating overcooked fruits and vegetables. Folic acid can be easily destroyed by heat.,  Hemolytic anemia , Certain medicines (such as phenytoin, sulfasalazine, or trimethoprim-sulfamethoxazole), Eating a diet that does not include enough fruits and vegetables, Kidney dialysis , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001614-3" qtype="symptoms">What are the symptoms of Folate deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Folic acid deficiency may cause: Fatigue, irritability, or diarrhea , Poor growth, Smooth and tender tongue, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001614-4" qtype="exams and tests">How to diagnose Folate deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Folate deficiency can be diagnosed with a  blood test . Pregnant women commonly have this blood test at prenatal checkups. </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001614-5" qtype="complications">What are the complications of Folate deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Complications include: Anemia  (low red blood cell count), Low levels of white blood cells and platelets (in severe cases) ,  In  folate-deficiency anemia , the red blood cells are abnormally large (megaloblastic). Pregnant women need to get enough folic acid. The vitamin is important to the growth of the fetus's spinal cord and brain. Folic acid deficiency can cause severe birth defects known as  neural tube defects . The Recommended Dietary Allowance (RDA) for folate during pregnancy is 600 micrograms (&#181;g)/day.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001614-6" qtype="prevention">How to prevent Folate deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>The best way to get vitamins your body needs is to eat a  balanced diet . Most people in the United States eat enough folic acid because it is plentiful in the food supply. Folate occurs naturally in the following foods: Beans and legumes, Citrus fruits and juices, Dark green leafy vegetables such as spinach, asparagus, and broccoli, Liver, Mushrooms, Poultry, pork, and shellfish, Wheat bran and other whole grains ,  The recommended daily amount of folic acid for adults is 400 &#181;g of folate daily. Women who may become pregnant should take  folic acid supplements  to ensure that they get enough each day. Specific recommendations  depend on a person's age, sex, and other factors (such as pregnancy and lactation). Many foods, such as fortified breakfast cereals, now have extra folic acid added to help prevent birth defects.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

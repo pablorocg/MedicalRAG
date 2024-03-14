@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003421" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001351.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Rickettsial pox</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003421-1" qtype="information">What is (are) Rickettsial pox ?</Question>
-			<Answer></Answer>
+			<Answer>Rickettsialpox is a disease spread by a mite. It causes a chickenpox-like  rash  on the body.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003421-2" qtype="causes">What causes Rickettsial pox ?</Question>
-			<Answer></Answer>
+			<Answer>Rickettsialpox is caused by the bacteria,  Rickettsia akari . It is commonly found in the United States in New York City and other city areas. It also has been seen in Europe, South Africa, Korea, and Russia. The bacteria are spread by the bite of a mite that lives on mice.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003421-3" qtype="symptoms">What are the symptoms of Rickettsial pox ?</Question>
-			<Answer></Answer>
+			<Answer>The disease begins at the site of the  mite bite  as a painless, firm, red lump ( nodule ). The nodule develops into a fluid-filled  blister  that bursts and crusts over. This lump may be up to 1 inch (2.5 centimeters) wide. These lumps usually appear on the face, trunk, arms, and legs. They do not appear on the palms of hands and soles of feet. Symptoms usually develop 6 to 15 days after coming in contact with the bacteria. Other symptoms may include: Discomfort in bright light ( photophobia ) , Fever and chills, Headache, Muscle pain, Rash that looks like  chickenpox , Sweating , Runny nose, Sore throat, Cough,  Enlarged lymph nodes , Loss of appetite, Nausea or vomiting,  The rash is not painful and usually clears within a week.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003421-4" qtype="exams and tests">How to diagnose Rickettsial pox ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will do an examination to look for a rash similar to the one in chickenpox. If rickettsialpox is suspected, these tests will likely be done:&#160; Complete blood count ( CBC ), Tests of blood serum (serologic studies), Swabbing and  culture of the rash , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003421-5" qtype="treatment">What are the treatments for Rickettsial pox ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to cure the infection by taking antibiotics. Doxycycline is the drug of choice. Treatment with antibiotics shortens the duration of symptoms usually to 24 to 48 hours. Without treatment, the disease usually resolves within 7 to 10 days.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003421-6" qtype="outlook">What is the outlook for Rickettsial pox ?</Question>
-			<Answer></Answer>
+			<Answer>A full recovery is expected when antibiotics are taken as instructed.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003421-7" qtype="complications">What are the complications of Rickettsial pox ?</Question>
-			<Answer></Answer>
+			<Answer>There are usually no complications if the&#160;infection is treated.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003421-8" qtype="when to contact a medical professional">Do I need to see a doctor for Rickettsial pox ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you or your child has symptoms of rickettsialpox.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003421-9" qtype="prevention">How to prevent Rickettsial pox ?</Question>
-			<Answer></Answer>
+			<Answer>Controlling mice helps prevent the spread of rickettsialpox.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

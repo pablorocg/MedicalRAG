@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002111" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002380.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hypothalamus</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002111-1" qtype="information">Do you have information about Hypothalamus</Question>
-			<Answer></Answer>
+			<Answer>HYPOTHALAMIC DISEASE Hypothalamic dysfunction  can occur as a result of diseases, including: Genetic causes (often present at birth or during childhood), Infection or inflammation, Injury as a result of trauma, surgery or radiation,  SYMPTOMS OF HYPOTHALAMIC DISEASE Because the hypothalamus controls so many different functions, hypothalamic disease can have many different symptoms, depending on the cause. The most common symptoms are: Increased appetite and rapid weight gain, Extreme thirst and frequent urination ( diabetes insipidus ), Low body temperature, Slow heart rate, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

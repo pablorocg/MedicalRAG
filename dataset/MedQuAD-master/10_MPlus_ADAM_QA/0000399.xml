@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000399" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000308.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bartter syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000399-1" qtype="information">What is (are) Bartter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Bartter syndrome is a group of rare conditions that affect the kidneys.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000399-2" qtype="causes">What causes Bartter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>There are five gene defects known to be associated with Bartter syndrome. The condition is present at birth (congenital). The condition is caused by a defect in the kidneys' ability to reabsorb sodium. People affected by Bartter syndrome lose too much sodium through the urine. This causes a rise in the level of the hormone aldosterone, and makes the kidneys remove too much potassium from the body. This is known as potassium wasting. The condition also results in an abnormal acid balance in the blood called hypokalemic alkalosis, which causes too much calcium in the urine.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000399-3" qtype="symptoms">What are the symptoms of Bartter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>This disease usually occurs in childhood. Symptoms include: Constipation , Rate of weight gain is much lower than that of other children of similar age and sex ( growth failure ), Needing to urinate more often than usual ( urinary frequency ), Low blood pressure, Kidney stones, Muscle cramping and weakness, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000399-4" qtype="exams and tests">How to diagnose Bartter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Bartter syndrome is usually suspected when a blood test finds a  low level of potassium in the blood . Unlike other forms of kidney disease, this condition does not cause high blood pressure. There is a tendency toward low blood pressure. Laboratory tests may show: High levels of  potassium , calcium, and  chloride in the urine , High levels of the hormones,  renin  and aldosterone, in the blood, Low blood chloride, Metabolic  alkalosis ,  These same signs and symptoms can also occur in people who take too many diuretics (water pills) or laxatives. Urine tests can be done to rule out other causes. An ultrasound of the kidneys may be done.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000399-5" qtype="treatment">What are the treatments for Bartter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Bartter syndrome is treated by eating foods rich in potassium or taking potassium supplements. Many people also need salt and magnesium supplements. Medicine may be needed that blocks the kidney's ability to get rid of potassium. High doses of nonsteroidal anti-inflammatory drugs (NSAIDs) may also be used.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000399-6" qtype="outlook">What is the outlook for Bartter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Infants who have severe growth failure may grow normally with treatment. Over time, some people with the condition will develop  kidney failure .</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000399-7" qtype="complications">What are the complications of Bartter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000399-8" qtype="when to contact a medical professional">Do I need to see a doctor for Bartter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if your child is: Having muscle cramps, Not growing well, Urinating frequently, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

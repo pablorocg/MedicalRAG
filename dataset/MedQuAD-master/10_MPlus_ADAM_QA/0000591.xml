@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000591" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000975.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bronchiolitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,35 +16,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000591-1" qtype="information">What is (are) Bronchiolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Bronchiolitis is swelling and mucus buildup in the smallest air passages in the lungs (bronchioles). It is usually due to a viral infection.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000591-2" qtype="causes">What causes Bronchiolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Bronchiolitis usually affects children under the age of 2, with a peak age of 3 to 6 months. It is a common, and sometimes severe illness.  Respiratory syncytial virus  (RSV) is the most common cause. More than half of all infants are exposed to this virus by their first birthday. Other viruses that can cause bronchiolitis include: Adenovirus,  Influenza ,  Parainfluenza ,  The virus is spread to infants by coming into direct contact with nose and throat fluids of someone who has the illness. This can happen when another child or an adult who has a virus: Sneezes or coughs nearby and tiny droplets in the air are then breathed in by the infant, Touches toys or other objects that are then touched by the infant ,  Bronchiolitis occurs more often in the fall and winter than other times of the year. It is a very common reason for infants to be hospitalized during winter and early spring. Risk factors of bronchiolitis include: Being around cigarette smoke, Being younger than 6 months old, Living in crowded conditions, Not being breastfed, Being born before 37 weeks of pregnancy , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000591-3" qtype="symptoms">What are the symptoms of Bronchiolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Some children have few or mild symptoms. Bronchiolitis begins as a mild upper respiratory infection. Within 2 to 3 days, the child develops more breathing problems, including  wheezing  and a cough. Symptoms include: Bluish skin  due to lack of oxygen (cyanosis) - emergency treatment is needed, Breathing difficulty including wheezing and shortness of breath, Cough, Fatigue, Fever, Muscles around the ribs sink in as the child tries to breathe in (called  intercostal retractions ), Infant's nostrils get wide when breathing, Rapid breathing (tachypnea) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000591-4" qtype="exams and tests">How to diagnose Bronchiolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam. Wheezing and crackling sounds may be heard through the stethoscope. Most of the time, bronchiolitis can be diagnosed based on the symptoms and the exam. Tests that may be done include: Blood gases ,  Chest x-ray , Culture of a sample of nasal fluid to determine the virus causing the disease , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000591-5" qtype="treatment">What are the treatments for Bronchiolitis ?</Question>
-			<Answer></Answer>
+			<Answer>The main focus of treatment is to relieve symptoms, such as difficulty breathing and wheezing. Some children may need to stay in the hospital if their breathing problems do not improve after being observed in the clinic or emergency room.  Antibiotics do not work against viral infections. Medicines that treat viruses may be used to treat very ill children. At home, measures to relieve symptoms  can be used. For example: Have your child drink plenty of fluids. Breast milk or formula is fine for children younger than 12 months. Electrolyte drinks, such as Pedialyte, are also OK for infants., Have your child breathe moist (wet) air to help loosen sticky mucus. Use a humidifier to moisten the air., Give your child saline nose drops. Then use a nasal suction bulb to help relieve a stuffy nose., Be sure your child gets plenty of rest. ,  Do not allow anyone to smoke in the house, car, or anywhere near your child. Children who are having trouble breathing may need to stay in the hospital. There, treatment may include oxygen therapy and fluids given through a vein (IV).</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000591-6" qtype="outlook">What is the outlook for Bronchiolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Breathing often gets better by the third day and symptoms mostly clear within a week. In rare cases,  pneumonia  or more severe breathing problems develop. Some children may have problems with wheezing or asthma as they get older.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000591-7" qtype="when to contact a medical professional">Do I need to see a doctor for Bronchiolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider right away or go to the emergency room if your child: Becomes extremely tired, Has bluish color in the skin, nails, or lips, Starts breathing very fast, Has a cold that suddenly worsens, Has difficulty breathing, Has nostril flaring or chest retractions when trying to breathe , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000591-8" qtype="prevention">How to prevent Bronchiolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Most cases of bronchiolitis cannot be prevented because the viruses that cause the infection are common in the environment. Careful hand washing, especially around infants, can help prevent the spread of viruses. A medicine called palivizumab (Synagis) that boosts the immune system may be recommended for certain children. Your child's provider will let you know if this medicine is right for your child.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

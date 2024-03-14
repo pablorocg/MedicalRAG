@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003280" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001011.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pterygium</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003280-1" qtype="information">What is (are) Pterygium ?</Question>
-			<Answer></Answer>
+			<Answer>A pterygium is a noncancerous growth that starts in the clear, thin tissue ( conjunctiva ) of the eye. This growth covers the white part of the eye (sclera) and extends onto the cornea. It is often slightly raised and contains visible blood vessels. The problem may occur on one or both eyes.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003280-2" qtype="causes">What causes Pterygium ?</Question>
-			<Answer></Answer>
+			<Answer>The exact cause is unknown. It is more common in people who have a lot of exposure to sunlight and wind, such as people who work outdoors. Risk factors are exposure to sunny, dusty, sandy, or windblown areas. Farmers, fishermen, and people living near the equator are often affected. Pterygium is rare in children.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003280-3" qtype="symptoms">What are the symptoms of Pterygium ?</Question>
-			<Answer></Answer>
+			<Answer>The main symptom of a pterygium is a painless area of raised white tissue that has blood vessels on the inner or outer edge of the cornea. Sometimes the pterygium has no symptoms. However, it may become inflamed and cause burning, irritation, or a feeling like there's something foreign in the eye. Vision may be affected if the growth extends far enough onto the cornea.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003280-4" qtype="exams and tests">How to diagnose Pterygium ?</Question>
-			<Answer></Answer>
+			<Answer>A physical exam of the eyes and eyelids confirms the diagnosis. Special tests are not needed most of the time.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003280-5" qtype="treatment">What are the treatments for Pterygium ?</Question>
-			<Answer></Answer>
+			<Answer>In most cases, treatment involves only wearing sunglasses and using artificial tears. Using artificial tears to keep the eyes moist may help prevent a pterygium from becoming inflamed and getting bigger. Mild steroid eye drops can be used to calm inflammation if it occurs. Surgery can be used to remove the growth for cosmetic reasons or if it blocks vision. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003280-6" qtype="outlook">What is the outlook for Pterygium ?</Question>
-			<Answer></Answer>
+			<Answer>Most pterygia cause no problems and do not need surgical treatment. If a pterygium affects the cornea, removing it can have good results.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003280-7" qtype="complications">What are the complications of Pterygium ?</Question>
-			<Answer></Answer>
+			<Answer>Ongoing inflammation can cause a pterygium to grow farther onto the cornea. A pterygium can return after it is removed.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003280-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pterygium ?</Question>
-			<Answer></Answer>
+			<Answer>People with pterygium should be seen by an ophthalmologist each year. This will enable the condition to be treated before it affects vision. Call your ophthalmologist if you have had a pterygium in the past and your symptoms return.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003280-9" qtype="prevention">How to prevent Pterygium ?</Question>
-			<Answer></Answer>
+			<Answer>Taking steps to protect the eyes from ultraviolet light may help prevent this condition. This includes wearing sunglasses and a hat with a brim. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003038" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003727.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Peritoneal fluid culture</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003038-1" qtype="information">Do you have information about Peritoneal fluid culture</Question>
-			<Answer></Answer>
+			<Answer>Peritoneal fluid culture is a laboratory test performed on a sample of peritoneal fluid. It is done to detect bacteria or fungi that cause infection ( peritonitis ). Peritoneal fluid is the fluid in the peritoneal cavity, a space between the wall of the abdomen and the organs inside.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

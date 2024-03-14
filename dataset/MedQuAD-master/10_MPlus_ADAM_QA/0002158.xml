@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002158" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007370.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Implantable cardioverter-defibrillator</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002158-1" qtype="information">Do you have information about Implantable cardioverter-defibrillator</Question>
-			<Answer></Answer>
+			<Answer>An implantable cardioverter-defibrillator (ICD) is a device that detects a life-threatening, rapid heartbeat. This abnormal heartbeat is called an  arrhythmia . If it occurs, the ICD quickly sends an electrical shock to the heart. The shock changes the rhythm back to normal. This is called defibrillation.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

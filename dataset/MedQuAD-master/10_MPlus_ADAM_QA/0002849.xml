@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002849" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000767.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Omega-3 fats: Good for your heart</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002849-1" qtype="information">Do you have information about Omega-3 fats: Good for your heart</Question>
-			<Answer></Answer>
+			<Answer>Omega-3 fatty acids are a type of  polyunsaturated fat . We need these fats to build brain cells and for other important functions. Omega-3s help keep your heart healthy and protected against stroke. They also help improve your heart health if you already have heart disease. Your body does not make omega-3 fatty acids on its own. You need to get them from your diet. Certain fish are the best sources of omega-3s. You can also get them from some plant foods. Omega-3 fatty acids should make up 5% to 10% of your total calories.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

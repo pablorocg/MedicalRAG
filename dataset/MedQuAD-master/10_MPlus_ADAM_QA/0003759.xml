@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003759" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000723.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Subacute combined degeneration</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003759-1" qtype="information">What is (are) Subacute combined degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>Subacute combined degeneration (SCD) is a disorder of the spine, brain, and nerves. It causes  weakness ,  abnormal sensations , mental problems, and  vision difficulties .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003759-2" qtype="causes">What causes Subacute combined degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>SCD is caused by vitamin B12 deficiency. It mainly affects the spinal cord. But its effects on the brain and the peripheral (body) nerves are the reason for the term "combined." At first, the nerve covering (myelin sheath) is damaged. Later, the entire nerve cell is affected. Doctors do not know exactly how a lack of vitamin B12 damages the nerves. It is possible that the lack of this vitamin causes abnormal fatty acids to form around cells and nerves. People are at high risk for this condition if vitamin B12 cannot be absorbed from their intestine or if they have: Pernicious anemia , a condition in which the body does not have enough healthy red blood cells due to vitamin B12 deficiency, Disorders of the small intestine, including  Crohn disease , Problems absorbing nutrients, which can occur after gastrointestinal surgery, including weight loss surgery, Use of nitrous oxide (laughing gas), especially if used as a recreational drug, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003759-3" qtype="symptoms">What are the symptoms of Subacute combined degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Abnormal sensations (tingling and numbness), Weakness of the legs, arms, or other areas ,  These symptoms slowly get worse and are usually felt on both sides of the body. As the disease worsens, symptoms may include any of the following: Clumsiness , stiff or awkward movements., Mental changes, which can range from mild memory problems, irritability, apathy, and confusion, to severe dementia and psychosis. Severe  dementia  is uncommon, but in some cases it's the first symptom of the disorder., Decreased vision.,  Depression ., Sleepiness.,  Unsteady gait  and loss of balance., Falls due to poor balance., </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003759-4" qtype="exams and tests">How to diagnose Subacute combined degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam. The exam usually shows muscle weakness and sensation problems on both sides of the body, especially in the legs. Knee jerk reflexes are often decreased or lost. Muscles may have  spasticity . There may be reduced senses of touch, pain, and temperature. Tests may be needed to determine why you are deficient in vitamin B12. Nerve conduction studies and electromyography may be done to test for nerve damage in the extremities. An eye exam may show damage to the optic nerve, a condition called  optic neuropathy . There may also be abnormal pupil responses, loss of sharp vision, and other changes. Blood tests that may be ordered include: Complete blood count (CBC) ,  Vitamin B12 blood level ,  Methylmalonic acid and homocysteine blood level , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003759-5" qtype="treatment">What are the treatments for Subacute combined degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>Vitamin B12 is given, usually by injection into a muscle. Injections are often given once a day for a week, then weekly for about 1 month, and then monthly. Vitamin B12 supplements, either by injection or high-dose pills, must continue throughout life to prevent symptoms from returning.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003759-6" qtype="outlook">What is the outlook for Subacute combined degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>Early treatment improves the chance of a good outcome. How well a person does depends on how long they had symptoms before receiving treatment. If treatment is received within a few weeks, complete recovery may be expected. If treatment is delayed for longer than 1 or 2 months, full recovery may not be possible. Untreated, SCD results in continued and permanent damage to the nervous system.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003759-7" qtype="complications">What are the complications of Subacute combined degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003759-8" qtype="when to contact a medical professional">Do I need to see a doctor for Subacute combined degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if abnormal sensations, muscle weakness, or other symptoms of SCD develop. This is particularly important if you or a family member has had pernicious anemia or other risk factors.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003759-9" qtype="prevention">How to prevent Subacute combined degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>Some vegetarian diets, especially vegan, may be low in vitamin B12. Taking a supplement can help prevent SCD.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

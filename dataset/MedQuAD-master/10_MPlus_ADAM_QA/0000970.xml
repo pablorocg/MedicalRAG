@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000970" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000101.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Controlling your high blood pressure</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,11 +19,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000970-1" qtype="information">What is (are) Controlling your high blood pressure ?</Question>
-			<Answer></Answer>
+			<Answer>Hypertension is another term used to describe high blood pressure. High blood pressure can lead to:  Stroke ,  Heart attack ,  Heart failure ,  Kidney disease , Early death ,  You are more likely to have high blood pressure as you get older. This is because your blood vessels become stiffer as you age. When that happens, your blood pressure goes up.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000970-7" qtype="when to contact a medical professional">Do I need to see a doctor for Controlling your high blood pressure ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

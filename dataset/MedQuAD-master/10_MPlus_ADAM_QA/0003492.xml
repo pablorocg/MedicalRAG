@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003492" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007212.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Scrape</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003492-1" qtype="information">Do you have information about Scrape</Question>
-			<Answer></Answer>
+			<Answer>A scrape is an area where the skin is rubbed off. It usually occurs after you fall or hit something. A scrape is often not serious. But it can be painful and may bleed slightly.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

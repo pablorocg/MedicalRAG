@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002447" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000208.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lower esophageal ring</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,31 +21,31 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002447-1" qtype="information">What is (are) Lower esophageal ring ?</Question>
-			<Answer></Answer>
+			<Answer>A lower esophageal ring is an abnormal ring of tissue that forms where the esophagus (the tube from the mouth to the stomach) and stomach meet. </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002447-2" qtype="causes">What causes Lower esophageal ring ?</Question>
-			<Answer></Answer>
+			<Answer>A lower esophageal ring is a narrowing of the esophagus that occurs in a small number of people. The cause of the problem is unclear, but many believe that it is caused by acid reflux. Narrowing of the esophagus may also be caused by: Injury, Tumors,  Esophageal stricture , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002447-3" qtype="symptoms">What are the symptoms of Lower esophageal ring ?</Question>
-			<Answer></Answer>
+			<Answer>For most people, a lower esophageal ring does not cause symptoms. The most common symptom is the feeling that food (especially solid food) is stuck in the lower neck or under the breastbone (sternum). </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002447-4" qtype="exams and tests">How to diagnose Lower esophageal ring ?</Question>
-			<Answer></Answer>
+			<Answer>Tests that show the lower esophageal ring include: EGD  (esophagogastroduodenoscopy),  Barium swallow (x-ray with barium) , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002447-5" qtype="treatment">What are the treatments for Lower esophageal ring ?</Question>
-			<Answer></Answer>
+			<Answer>A device called a dilator is passed through the narrowed area&#160;to stretch the ring. Sometimes, a balloon is placed in the area and inflated, to help widen (dilate) the ring.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002447-6" qtype="outlook">What is the outlook for Lower esophageal ring ?</Question>
-			<Answer></Answer>
+			<Answer>Swallowing problems may return. You may need repeat treatment.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002447-7" qtype="when to contact a medical professional">Do I need to see a doctor for Lower esophageal ring ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have swallowing problems.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

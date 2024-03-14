@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000051" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a696014.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Amifostine Injection</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,38 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000051-1" qtype="indication">Who should get Amifostine Injection and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Amifostine is used protect the kidneys from harmful effects of the chemotherapy drug cisplatin in patients that receive this medication for the treatment of ovarian cancer. Amifostine is also used to decrease dryness in the mouth caused by radiation treatment after surgery for head and neck cancer. Amifostine is in a class of medications called cytoprotectants. It works by protecting against the harmful effects of chemotherapy medications and radiation treatment.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000051-2" qtype="usage">How should Amifostine Injection be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Amifostine comes as a powder to be mixed with liquid to be injected intravenously (into a vein) by a doctor or nurse in a medical facility. When amifostine is used to protect the kidneys against the harmful effects of cisplatin, it is usually given over 15 minutes starting 30 minutes before you receive your chemotherapy treatment. When amifostine is used to reduce the severe dry mouth caused by radiation treatment, it is usually given over 3 minutes starting 15&#8211;30 minutes before your radiation treatment. Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000051-4" qtype="precautions">Are there safety concerns or special precautions about Amifostine Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Before receiving amifostine, tell your doctor and pharmacist if you are allergic to amifostine, any other medications, or any of the ingredients in amifostine injection. Ask your pharmacist for a list of the ingredients., tell your doctor and pharmacist what other prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take. Be sure to mention medications for high blood pressure. Your doctor will tell you to stop taking your blood pressure medicine 24 hours before you receive amifostine injection. Many other medications may also interact with amifostine, so be sure to tell your doctor about all the medications you are taking., tell your doctor if you have or have ever had heart disease, an irregular heartbeat, heart failure, or a stroke or ministroke., tell your doctor if you are pregnant or plan to become pregnant, or are breast-feeding. If you become pregnant while receiving amifostine, call your doctor. You should not breast-feed during your treatment with amifostine., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000051-5" qtype="dietary">What special dietary instructions should I follow with Amifostine Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000051-6" qtype="side effects">What are the side effects or risks of Amifostine Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Amifostine may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ nausea, vomiting, flushing or feeling of warmth, chills or feeling of coldness, general feeling of tiredness, fever, drowsiness, sneezing, hiccups,  Some side effects can be serious. If you experience any of these symptoms , call your doctor immediately:
+ shortness of breath, dizziness, blurred vision, fainting, seizures, chest tightness, chest pain, rash , hives, itching, difficulty breathing or swallowing, peeling or blistering skin, fast, slow, or pounding heartbeat,  Amifostine may cause other side effects. Call your doctor if you have any unusual problems while taking this medication. If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000051-7" qtype="emergency or overdose">What to do in case of emergency or overdose of Amifostine Injection ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911. Symptoms of overdose may include the following:
+ dizziness, lightheadedness, fainting, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000051-8" qtype="other information">What other information should I know about Amifostine Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor and the laboratory. Your doctor will order certain lab tests to check your body's response to amifostine. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000051-9" qtype="brand names">What are the brand names of Amifostine Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Ethyol &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

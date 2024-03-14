@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000991" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001032.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Corneal ulcers and infections</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -26,39 +25,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000991-1" qtype="information">What is (are) Corneal ulcers and infections ?</Question>
-			<Answer></Answer>
+			<Answer>The cornea is the clear tissue at the front of the eye. A corneal ulcer is an open sore in the outer layer of the cornea. It is often caused by infection. At first, a corneal ulcer may seem like conjunctivitis, or pink eye.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000991-2" qtype="causes">What causes Corneal ulcers and infections ?</Question>
-			<Answer></Answer>
+			<Answer>Corneal ulcers are most commonly caused by an infection with bacteria, viruses, fungi, or a parasite. Acanthamoeba keratitis occurs in contact lens users. It is more likely to happen in people who make their own homemade cleaning solutions., Fungal keratitis can occur after a corneal injury involving plant material. It may also occur in people with a suppressed immune system., Herpes simplex keratitis is a serious viral infection. It may cause repeated attacks that are triggered by stress, exposure to sunlight, or any condition that lowers the immune response. ,  Corneal ulcers or infections may also be caused by: Eyelids that do not close all the way, such as with  Bell palsy , Foreign bodies in the eye, Scratches (abrasions) on the eye surface, Severely dry eyes, Severe allergic eye disease, Various inflammatory disorders ,  Wearing contact lenses, especially soft contacts that are left in overnight, may cause a corneal ulcer. Watch this video about: Corneal injury</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000991-3" qtype="symptoms">What are the symptoms of Corneal ulcers and infections ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of infection or ulcers of the cornea include: Blurry or hazy vision ,  Eye that appears red or bloodshot ,  Itching and discharge ,  Sensitivity to light  (photophobia), Very painful and  watery eyes , White patch on the cornea , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000991-4" qtype="exams and tests">How to diagnose Corneal ulcers and infections ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider may do the following tests: Exam of scrapings from the ulcer, Fluorescein stain of the cornea, Keratometry (measuring the curve of the cornea), Pupillary reflex response,  Refraction test ,  Slit-lamp examination , Tests for dry eye,  Visual acuity ,  Blood tests to check for inflammatory disorders may also be needed. Using newer information systems to evaluate photos of corneal ulcers may allow earlier diagnosis and treatment.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000991-5" qtype="treatment">What are the treatments for Corneal ulcers and infections ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment for corneal ulcers and infections depends on the cause. Treatment should be started as soon as possible to prevent scarring of the cornea. If the exact cause is not known, you may be given antibiotic drops that work against many kinds of bacteria. Once the exact cause is known, you may be given drops that treat bacteria, herpes, other viruses, or a fungus. Severe ulcers sometimes require a corneal transplant. Corticosteroid eye drops may be used to reduce swelling and inflammation in certain conditions. Your provider may also recommend that you: Avoid eye makeup., Do not wear contact lenses at all, especially while asleep., Take pain medicines., Wear protective glasses.&#160;, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000991-6" qtype="outlook">What is the outlook for Corneal ulcers and infections ?</Question>
-			<Answer></Answer>
+			<Answer>Many people recover completely and have only a minor change in vision. However, a corneal ulcer or infection can cause long-term damage and affect vision.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000991-7" qtype="complications">What are the complications of Corneal ulcers and infections ?</Question>
-			<Answer></Answer>
+			<Answer>Untreated corneal ulcers and infections may lead to: Loss of the eye (rare), Severe vision loss, Scars on the cornea, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000991-8" qtype="when to contact a medical professional">Do I need to see a doctor for Corneal ulcers and infections ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: You have symptoms of corneal ulcers or an infection., You have been diagnosed with this condition and your symptoms become worse after treatment., Your vision is affected., You develop eye pain that is severe or becoming worse., Your eyelids or the skin around your eyes becomes swollen or red., You have a headache in addition to your other symptoms., </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000991-9" qtype="prevention">How to prevent Corneal ulcers and infections ?</Question>
-			<Answer></Answer>
+			<Answer>Things you can do to prevent the condition include: Wash your hands well when handling your contact lenses., Avoid wearing contact lenses overnight., Get prompt treatment for an eye infection to prevent ulcers from forming. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

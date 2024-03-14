@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001942" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007672.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hepatitis C - children</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -26,39 +25,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001942-1" qtype="information">What is (are) Hepatitis C - children ?</Question>
-			<Answer></Answer>
+			<Answer>Hepatitis C in children is inflammation of tissue of the liver. It occurs due to infection with hepatitis C virus (HCV).  Other common hepatitis virus infections include  hepatitis A  and  hepatitis B .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001942-2" qtype="causes">What causes Hepatitis C - children ?</Question>
-			<Answer></Answer>
+			<Answer>A child may get HCV from an HCV-infected mother, at the time of birth. Almost 6 out of every 100 infants born to mothers with an HCV infection have hepatitis C. There is no treatment to prevent hepatitis C at birth.  Adolescents and teens can also get an HCV infection. There are many causes of hepatitis C in teens, including: Being stuck with a needle after use by an HCV-infected person, Coming in contact with the blood of an infected person, Using street drugs, Having unprotected sexual contact with a person with HCV, Getting tattoos or acupuncture therapy with infected needles,  Hepatitis C does not spread from breastfeeding, hugging, kissing, coughing, or sneezing.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001942-3" qtype="symptoms">What are the symptoms of Hepatitis C - children ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms develop in children about 4 to 12 weeks after infection. If the body is able to fight HCV, the symptoms end within a few weeks to 6 months. This condition is called acute hepatitis C infection. However, some children never get rid of HCV. This condition is called chronic hepatitis C infection.  Most children with hepatitis C (acute or chronic) do not show any symptoms until more advanced  liver damage  is present. If symptoms do occur, they may include: Pain in the right upper abdomen, Clay-colored or pale stools, Dark urine, Tiredness, Fever, Yellow skin and eyes ( jaundice ), Loss of appetite, Nausea and vomiting, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001942-4" qtype="exams and tests">How to diagnose Hepatitis C - children ?</Question>
-			<Answer></Answer>
+			<Answer>Your child's health care provider will perform blood tests to detect HCV in blood. Two most common blood tests are: Enzyme immunoassay (EIA) to find the hepatitis C antibody, Hepatitis C RNA assays to measure virus levels (viral load),  Infants born to hepatitis C-positive mothers should undergo testing at 18 months of age. This is the time when antibodies from the mother will decrease. At that time, the test will more truly reflect the baby's antibody status. The following tests detect liver damage from hepatitis C: Albumin level ,  Liver function tests ,  Prothrombin time ,  Liver biopsy , Abdominal ultrasound,  These tests show how well your child's treatment is working.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001942-5" qtype="treatment">What are the treatments for Hepatitis C - children ?</Question>
-			<Answer></Answer>
+			<Answer>The main aim of treatment in children is to relieve the symptoms and stop the disease from spreading. If your child has symptoms, make sure that your child: Gets plenty of rest, Drinks lots of fluids, Eats healthy food ,  Acute hepatitis C does not need any special treatment. However, your child can pass the virus to others. You should take steps to help prevent the disease from spreading. Chronic hepatitis C needs treatment. The goal of treatment is to prevent complications. If there is no sign of the HCV infection after 6 months, then your child has fully recovered. However, if your child develops chronic hepatitis C, it can cause liver disease later in life. Your child's provider may recommend antiviral medicines for chronic HCV. These medicines: Have fewer side effects, Are easier to take, Are taken by mouth ,  The choice of whether to use medicines in children for hepatitis C is not clear. Medicines that have been used, interferon and ribavirin, carry a lot of side effects and some risks. Newer and safer medicines have been approved for adults, but not yet for children. Many experts recommend waiting on treatment of HCV in children until these newer medicines are approved for use in children. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001942-6" qtype="outlook">What is the outlook for Hepatitis C - children ?</Question>
-			<Answer></Answer>
+			<Answer>Children younger than 3 years old may not need any treatment. Infection in this age group often resolves without any complications.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001942-7" qtype="complications">What are the complications of Hepatitis C - children ?</Question>
-			<Answer></Answer>
+			<Answer>The possible complications of hepatitis C are: Liver cirrhosis,  Liver cancer ,  These complications generally occur during adulthood.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001942-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hepatitis C - children ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if your child has symptoms of hepatitis C. You should also contact your provider if you have hepatitis C and become pregnant.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001942-9" qtype="prevention">How to prevent Hepatitis C - children ?</Question>
-			<Answer></Answer>
+			<Answer>There are no vaccinations for hepatitis C. Therefore, prevention plays an important role in managing the disease. In a household where someone with hepatitis C is living, take these steps to help  prevent the spread of the disease : Avoid contact with blood. Clean any blood spills using bleach and water., Mothers with HCV should not breastfeed if nipples are cracked and bleeding., Cover cuts and sores to avoid contact with body fluids., Do not share toothbrushes, razors, or any other items that may be infected., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

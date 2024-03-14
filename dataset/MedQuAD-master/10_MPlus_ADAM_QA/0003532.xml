@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003532" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003523.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Serology for tularemia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,11 +20,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003532-1" qtype="information">What is (are) Serology for tularemia ?</Question>
-			<Answer></Answer>
+			<Answer>Tularemia blood test checks for infection caused by bacteria called  Francisella tularensis (F tularensis).  The bacteria&#160;causes the disease  tularemia .</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003532-8" qtype="susceptibility">Who is at risk for Serology for tularemia? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

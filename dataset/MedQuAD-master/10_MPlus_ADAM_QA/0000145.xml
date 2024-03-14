@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000145" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000714.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Alcoholic neuropathy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000145-1" qtype="information">What is (are) Alcoholic neuropathy ?</Question>
-			<Answer></Answer>
+			<Answer>Alcoholic neuropathy is damage to the nerves that results from excessive drinking of alcohol.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000145-2" qtype="causes">What causes Alcoholic neuropathy ?</Question>
-			<Answer></Answer>
+			<Answer>The exact cause of alcoholic neuropathy is unknown. It likely includes both a direct poisoning of the nerve by the alcohol and the effect of poor nutrition associated with alcoholism. Up to half of long-term heavy alcohol users develop this condition. In severe cases, nerves that regulate internal body functions (autonomic nerves) may be involved.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000145-3" qtype="symptoms">What are the symptoms of Alcoholic neuropathy ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of this condition include any of the following:  Numbness  in the arms and legs,  Abnormal sensations , such as "pins and needles", Painful sensations in the arms and legs, Muscle problems, including  weakness ,  cramps ,  aches , or spasms,  Heat intolerance , especially after exercise, Erection problems ( impotence ),  Problems urinating ,  incontinence  (leaking urine), feeling of incomplete bladder emptying,  difficulty beginning to urinate , Constipation or diarrhea, Nausea, vomiting, Problems swallowing or talking, Unsteady gait (walking),  Changes in muscle strength or sensation usually occur on both sides of the body and are more common in the legs than in the arms. Symptoms usually develop gradually and become worse over time.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000145-4" qtype="exams and tests">How to diagnose Alcoholic neuropathy ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam and ask about symptoms. An eye exam may show eye problems. Excessive alcohol use often makes the body unable to use or store certain vitamins and minerals. Blood tests will be ordered to check for a deficiency (lack) of: Thiamine  (vitamin B1),  Pyridoxine  (vitamin B6),  Vitamin B12 ,  Folic acid ,  Other tests may be ordered to check for other possible causes of neuropathy or damage to body systems due to neuropathy.&#160;Tests may include: Electrolyte levels , including glucose to check for diabetes,  Electromyography  (EMG) to check the health of the muscles and the nerves that control the muscles, Hemoglobin A1c test to check for diabetes , Liver and kidney function tests,  Thyroid function tests , Levels of vitamins and minerals in the body,  Nerve conduction tests  to check how fast electrical signals move through a nerve,  Nerve biopsy  to remove a small piece of a nerve for examination,  Upper GI and small bowel series ,  Esophagogastroduodenoscopy  (EGD) to examine the lining of the esophagus, stomach, and first part of the small intestine,  Voiding cystourethrogram , an x-ray study of the bladder and urethra , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000145-5" qtype="treatment">What are the treatments for Alcoholic neuropathy ?</Question>
-			<Answer></Answer>
+			<Answer>Stopping the use of alcohol is the most important first step. People will often need counseling from alcohol use disorder specialists. If there are other medical problems that can also cause nerve damage, such as diabetes, they should be treated as well. Once the alcohol problem has been addressed, treatment goals include: Controlling symptoms, Maximizing ability to function independently, Preventing injury ,  It is important to supplement the diet with vitamins, including thiamine and folic acid. Physical therapy and orthopedic appliances (such as splints) may be needed to maintain muscle function and limb position. Medicines may be needed to treat pain or uncomfortable sensations due to nerve damage. They will be prescribed the smallest dose of medicine needed to reduce symptoms. This may help prevent drug dependence and other side effects of  chronic  use. Positioning or the use of a bed frame that keeps the covers off the legs may help reduce pain. People with lightheadedness or dizziness when standing up (orthostatic hypotension) may need to try several different treatments before finding one that successfully reduces their symptoms. Treatments that may help include: Wearing  compression stockings , Eating extra salt, Sleeping with the head elevated, Using medicines ,  Bladder problems may be treated with: Manual expression of urine, Intermittent catheterization ( male  or  female ), Medicines ,  Impotence, diarrhea, constipation, or other symptoms are treated when necessary. These symptoms often respond poorly to treatment in people with alcoholic neuropathy. It is important to protect body parts with reduced sensation from injury. This may include: Checking the temperature of bath water to prevent burns, Changing footwear, Frequently inspecting the feet and shoes to reduce injury caused by pressure or objects in the shoes, Guarding the extremities to prevent injury from pressure ,  Alcohol must be stopped to prevent the damage from getting worse. Treatment for alcoholism may include counseling, social support such as Alcoholics Anonymous (AA), or medicines.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000145-6" qtype="outlook">What is the outlook for Alcoholic neuropathy ?</Question>
-			<Answer></Answer>
+			<Answer>Damage to nerves from alcoholic neuropathy is usually permanent. It is likely to get worse if the person continues to use alcohol or if nutritional problems are not corrected. Alcoholic neuropathy is usually not life threatening, but it can severely affect quality of life.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000145-7" qtype="when to contact a medical professional">Do I need to see a doctor for Alcoholic neuropathy ?</Question>
-			<Answer></Answer>
+			<Answer>Call for an appointment with your provider if you have symptoms of alcoholic neuropathy.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000145-8" qtype="prevention">How to prevent Alcoholic neuropathy ?</Question>
-			<Answer></Answer>
+			<Answer>The only way to prevent alcoholic neuropathy is not to drink excessive amounts of alcohol.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

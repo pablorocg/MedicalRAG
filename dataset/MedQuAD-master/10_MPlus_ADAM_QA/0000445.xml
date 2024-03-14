@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000445" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003479.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bilirubin blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000445-1" qtype="information">Do you have information about Bilirubin blood test</Question>
-			<Answer></Answer>
+			<Answer>The bilirubin blood test measures the level of bilirubin in the blood. Bilirubin is a yellowish pigment found in bile, a fluid made by the liver. Bilirubin can also be measured with a  urine test . </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002499" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000046.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Make peak flow a habit!</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002499-1" qtype="information">What is (are) Make peak flow a habit! ?</Question>
-			<Answer></Answer>
+			<Answer>Checking your peak flow  is one of the best ways to control your  asthma  and to keep it from getting worse. Asthma attacks  do not usually come on without warning. Most times, they build slowly. Checking your peak flow can tell you if an attack is coming, sometimes before you have any symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002499-2" qtype="information">What is (are) Make peak flow a habit! ?</Question>
-			<Answer></Answer>
+			<Answer>Checking your peak flow  is one of the best ways to control your  asthma  and to keep it from getting worse. Asthma attacks  do not usually come on without warning. Most times, they build slowly. Checking your peak flow can tell you if an attack is coming, sometimes before you have any symptoms.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

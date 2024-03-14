@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002154" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002926.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Imperforate anus repair</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002154-1" qtype="information">Do you have information about Imperforate anus repair</Question>
-			<Answer></Answer>
+			<Answer>Imperforate anus repair is surgery to correct a birth defect involving the rectum and anus. An  imperforate anus  defect prevents most or all stool from passing out of the rectum.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

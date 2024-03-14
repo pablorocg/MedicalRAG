@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003058" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001392.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pharyngitis - viral</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003058-1" qtype="information">What is (are) Pharyngitis - viral ?</Question>
-			<Answer></Answer>
+			<Answer>Pharyngitis , or sore throat, is swelling, discomfort, pain, or scratchiness in the throat at and just below the tonsils.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003058-2" qtype="causes">What causes Pharyngitis - viral ?</Question>
-			<Answer></Answer>
+			<Answer>Pharyngitis may occur as part of a viral infection that also involves other organs, such as the lungs or bowel. Most sore throats are caused by viruses.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003058-3" qtype="symptoms">What are the symptoms of Pharyngitis - viral ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of pharyngitis may include: Discomfort when swallowing ,  Fever ,  Joint pain  or  muscle aches , Sore throat, Tender  swollen lymph nodes  in the neck , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003058-4" qtype="exams and tests">How to diagnose Pharyngitis - viral ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider usually diagnoses pharyngitis by examining your throat. A lab test of fluid from your throat will show that bacteria (such as group A  streptococcus , or strep) is not the cause of your sore throat.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003058-5" qtype="treatment">What are the treatments for Pharyngitis - viral ?</Question>
-			<Answer></Answer>
+			<Answer>There is no specific treatment for viral pharyngitis. You can relieve symptoms by gargling with warm salt water several times a day (use one half teaspoon or 3 grams of salt in a glass of warm water). Taking anti-inflammatory medicine, such as acetaminophen, can control fever. Excessive use of anti-inflammatory lozenges or sprays may make a sore throat worse. It is important NOT to take antibiotics when a sore throat is due to a viral infection. The antibiotics will not help. Using them to treat viral infections helps bacteria become resistant to antibiotics. With some sore throats (such as those caused by infectious  mononucleosis ), the lymph nodes in the neck may become very swollen. Your provider may prescribe anti-inflammatory drugs, such as prednisone, to treat them.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003058-6" qtype="outlook">What is the outlook for Pharyngitis - viral ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms usually go away within a week to 10 days.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003058-7" qtype="complications">What are the complications of Pharyngitis - viral ?</Question>
-			<Answer></Answer>
+			<Answer>Complications of viral pharyngitis are extremely uncommon.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003058-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pharyngitis - viral ?</Question>
-			<Answer></Answer>
+			<Answer>Make an appointment with your provider if symptoms last longer than expected, or do not improve with self-care. Always seek medical care if you have a sore throat and have extreme discomfort or difficulty swallowing or breathing.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003058-9" qtype="prevention">How to prevent Pharyngitis - viral ?</Question>
-			<Answer></Answer>
+			<Answer>Most sore throats cannot be prevented because the germs that cause them are in our environment. However, always wash your hands after contact with a person who has a sore throat. Also avoid kissing or sharing cups and eating utensils with people who are sick.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

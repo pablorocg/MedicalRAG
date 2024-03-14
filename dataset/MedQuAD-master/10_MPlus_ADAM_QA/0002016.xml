@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002016" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000146.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hospital-acquired pneumonia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,31 +22,31 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002016-1" qtype="information">What is (are) Hospital-acquired pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Hospital-acquired pneumonia is an infection of the lungs that occurs during a hospital stay. This type of pneumonia can be very severe. Sometimes, it can be fatal.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002016-2" qtype="causes">What causes Hospital-acquired pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Pneumonia  is a common illness. It is caused by many different germs. Pneumonia that starts in the hospital tends to be more serious than other lung infections because: People in the hospital are often very sick and cannot fight off germs., The types of germs present in a hospital are often more dangerous and more resistant to treatment than those outside in the community. ,  Pneumonia occurs more often in people who are using a ventilator, which is a machine that helps them breathe. This is called ventilator-associated pneumonia. Hospital-acquired pneumonia can also be spread by health care workers, who can pass germs from their hands, clothes, or instruments from one person to another. This is why hand-washing, wearing gowns, and using other safety measures is so important in the hospital. People can be more likely to get pneumonia while in the hospital if they: Use alcohol excessively, Have had chest surgery or other major surgery, Have a weak immune system from cancer treatment, certain medicines, or severe wounds, Have long-term (chronic)  lung disease , Breathe saliva or food into their lungs as a result of not being fully alert or having swallowing problems (for example, after a stroke), Are not mentally alert due to medicines or illness, Are older, Are on a breathing machine (ventilator), </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002016-3" qtype="symptoms">What are the symptoms of Hospital-acquired pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>In older adults, the first sign of hospital-acquired pneumonia may be mental changes or confusion. Other symptoms may include: A cough with greenish or pus-like phlegm (sputum), Fever and chills, General discomfort, uneasiness, or ill feeling (malaise), Loss of appetite, Nausea and vomiting, Sharp chest pain that gets worse with deep breathing or coughing, Shortness of breath, Decreased blood pressure, Fast heart rate, Increased respiratory rate, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002016-4" qtype="exams and tests">How to diagnose Hospital-acquired pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>If your health care provider suspects pneumonia, tests will be ordered. These may include: Arterial blood gases , to measure oxygen levels in the blood,  Blood cultures , to see if the infection has spread to the blood,  Chest x-ray  or  CT scan of the chest , to check the lungs, Complete blood count ( CBC ), Pulse oximetry, to measure oxygen levels in the blood,  Sputum culture  or  sputum Gram stain , to check what germs are causing the pneumonia , Bronchoscopy, to get cultures directly from the lungs in some cases, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002016-5" qtype="treatment">What are the treatments for Hospital-acquired pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Treatments may include: Antibiotics through your veins (IV) to treat the lung infection. The antibiotic you are given will fight the germs that are found in your sputum culture or are suspected to be causing the infection., Oxygen to help you breathe better and lung treatments to loosen and remove thick mucus from your lungs., Ventilator (breathing machine) using a tube or a mask to support your breathing for more severe cases., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002016-6" qtype="outlook">What is the outlook for Hospital-acquired pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>People who have other serious illnesses do not recover as well from pneumonia as people who are not as sick.  Hospital-acquired pneumonia can be a life-threatening illness. Long-term lung damage may occur.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002016-7" qtype="prevention">How to prevent Hospital-acquired pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>People visiting someone in the hospital need to take steps to  prevent spreading germs . The best way to stop the spread of germs is to wash your hands often. Stay home if you are sick. Keep your immunizations up to date. After any surgery, you will be asked to take deep breaths and move around as soon as possible to help keep your lungs open. Follow the advice of your provider to help prevent pneumonia. Most hospitals have programs to prevent hospital-acquired infections.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

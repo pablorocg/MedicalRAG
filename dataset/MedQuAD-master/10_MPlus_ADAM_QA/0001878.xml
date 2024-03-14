@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001878" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000224.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Heart failure - what to ask your doctor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001878-1" qtype="information">What is (are) Heart failure - what to ask your doctor ?</Question>
-			<Answer></Answer>
+			<Answer>Your heart is a pump that moves blood through your body.  Heart failure  occurs when the heart is unable to pump enough blood to meet your body's demands. As a result, blood does not move well and fluid builds up in places in your body that it should not. Most often, fluid collects in your lungs and legs. Heart failure most often occurs because your heart muscle is weak. However, it can happen for other reasons as well. Below are some questions you may want to ask your health care provider to help you take care of your heart failure.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

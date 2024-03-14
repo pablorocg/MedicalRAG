@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000561" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000056.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Breast radiation - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000561-1" qtype="information">Do you have information about Breast radiation - discharge</Question>
-			<Answer></Answer>
+			<Answer>You're having radiation treatment for  breast cancer . With radiation, your body will go through some changes. Knowing what to expect will help you be prepared for these changes.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

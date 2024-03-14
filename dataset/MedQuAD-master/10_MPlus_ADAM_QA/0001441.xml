@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001441" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000632.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Erysipeloid</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,23 +16,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001441-1" qtype="information">What is (are) Erysipeloid ?</Question>
-			<Answer></Answer>
+			<Answer>Erysipeloid is a rare and acute infection of the skin caused by bacteria.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001441-2" qtype="causes">What causes Erysipeloid ?</Question>
-			<Answer></Answer>
+			<Answer>The bacteria that cause erysipeloid are called  Erysipelothrix rhusiopathiae . This type of bacteria may be found in fish, birds, mammals, and shellfish. Erysipeloid usually affects people who work with these animals (such as farmers, butchers, cooks, grocers, fishermen, or veterinarians). Infection results when the bacteria enters the skin through small breaks.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001441-3" qtype="symptoms">What are the symptoms of Erysipeloid ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may develop in 2 to 7 days after bacteria enter the skin. Usually, the fingers and hands are affected. But any exposed area of the body can get infected if there is a break in the skin. Symptoms may include: Bright red skin in the infected area, Swelling of the area, Throbbing pain with itching or burning sensation, Fluid-filled blisters, Low fever if the infection spreads&#160;, Swollen lymph nodes (sometimes),  The infection may spread to other fingers. It usually doesn't spread past the wrist.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001441-4" qtype="treatment">What are the treatments for Erysipeloid ?</Question>
-			<Answer></Answer>
+			<Answer>Antibiotics, especially penicillin, are very effective to treat this condition.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001441-5" qtype="outlook">What is the outlook for Erysipeloid ?</Question>
-			<Answer></Answer>
+			<Answer>Erysipeloid may get better on its own. It rarely spreads. If it does spread, the lining of the heart can become infected. This condition is called  endocarditis .&#160;</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001132" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000028.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Dementia and driving</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,11 +17,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001132-1" qtype="information">What is (are) Dementia and driving ?</Question>
-			<Answer></Answer>
+			<Answer>If your loved one has  dementia , deciding when they can no longer drive may be difficult. They may react in different ways. They may be aware they are having problems, and they may be relieved to stop driving., They may feel their independence is being taken away and object to stopping driving. , </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001132-2" qtype="symptoms">What are the symptoms of Dementia and driving ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

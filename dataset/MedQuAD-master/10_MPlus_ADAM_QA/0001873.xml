@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001873" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000364.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Heart failure - medicines</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,7 +22,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001873-1" qtype="information">What is (are) Heart failure - medicines ?</Question>
-			<Answer></Answer>
+			<Answer>Most people who have heart failure need to take medicines. Some of these medicines are used to treat your symptoms. Others may help prevent your heart failure from becoming worse and let you live longer.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

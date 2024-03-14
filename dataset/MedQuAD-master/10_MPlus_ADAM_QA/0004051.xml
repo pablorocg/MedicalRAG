@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004051" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002913.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tubal ligation</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004051-1" qtype="information">Do you have information about Tubal ligation</Question>
-			<Answer></Answer>
+			<Answer>Tubal ligation is surgery to close a woman's fallopian tubes. (It is sometimes called "tying the tubes.") The fallopian tubes connect the ovaries to the uterus. A woman who has this surgery can no longer get pregnant. This means she is "sterile."</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

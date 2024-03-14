@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002151" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000828.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Immunotherapy: questions to ask your doctor</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002151-1" qtype="information">Do you have information about Immunotherapy: questions to ask your doctor</Question>
-			<Answer></Answer>
+			<Answer>You are having  immunotherapy  to try to kill cancer cells. You may receive immunotherapy alone or along with other treatments at the same time. Your health care provider may need to follow you closely while you are having immunotherapy. You will also need to learn how best to care for yourself during this time. Below are some questions you may want to ask your doctor.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

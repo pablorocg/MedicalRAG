@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001336" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000676.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Echinococcus</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001336-1" qtype="information">What is (are) Echinococcus ?</Question>
-			<Answer></Answer>
+			<Answer>Echinococcosis is an infection caused by either the  Echinococcus granulosus  or  Echinococcus multilocularis  tapeworm. The infection is also called hydatid disease.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001336-2" qtype="causes">What causes Echinococcus ?</Question>
-			<Answer></Answer>
+			<Answer>Humans become infected when they swallow the tapeworm eggs in contaminated food. The eggs then form cysts inside the body. A cyst is a closed pocket or pouch. The cysts keep growing, which leads to symptoms. E granulosus  is an infection caused by tapeworms found in dogs and livestock such as sheep, pigs, goats, and cattle. These tapeworms are around 2 to 7 mm long. The infection is called cystic echinococcosis (CE). It leads to growth of cysts mainly in the lungs and liver. Cysts can also be found in the heart, bones, and brain. E multilocularis  is the infection caused by tapeworms found in dogs, cats, rodents, and foxes. These tapeworms are around 1 to 4 mm long. The infection is called alveolar echinococcosis (AE). It is a life-threatening condition because tumor-like growths form in the liver. Other organs, such as the lungs and brain can be affected. Children or young adults are more prone to get the infection. Echinococcosis is common in: Africa, Central Asia, Southern South America, The Mediterranean, The Middle East,  In rare cases, the infection is seen in the United States. It has been reported in California, Arizona, New Mexico, and Utah. Risk factors include being exposed to: Cattle, Deer, Feces of dogs, foxes, wolves, or coyotes, Pigs, Sheep, Camels, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001336-3" qtype="symptoms">What are the symptoms of Echinococcus ?</Question>
-			<Answer></Answer>
+			<Answer>Cysts may produce no symptoms for 10 years or more. As the disease advances and the cysts get larger, symptoms may include: Pain in the upper right part of the abdomen (liver cyst), Increase in size of the abdomen due to swelling (liver cyst),  Bloody sputum &#160;(lung cyst),  Chest pain &#160;(lung cyst),  Cough &#160;(lung cyst), Severe allergic reaction ( anaphylaxis ) when cysts break open, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001336-4" qtype="exams and tests">How to diagnose Echinococcus ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a  physical exam  and ask about the symptoms. If the provider suspects CE or AE, tests that may be done to find the cysts include: X-ray,  echocardiogram , CT scan,  PET scan , or ultrasound to view the cysts, Blood tests, such as enzyme-linked immunoassay ( ELISA ),  liver function tests ,  Fine needle aspiration biopsy ,  Most often, echinococcosis cysts do not cause symptoms and are found when an imaging test is done for another reason.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001336-5" qtype="treatment">What are the treatments for Echinococcus ?</Question>
-			<Answer></Answer>
+			<Answer>Many people can be treated with anti-worm medicines. A procedure that involves inserting a needle through the skin into the cyst may be tried. The contents of the cyst is removed ( aspirated ) through the needle. Then medicine is sent through the needle to kill the tapeworm. This treatment is not for cysts in the lungs. Surgery is the treatment of choice for cysts that are large, infected, or located in organs such as the heart and brain.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001336-6" qtype="outlook">What is the outlook for Echinococcus ?</Question>
-			<Answer></Answer>
+			<Answer>If the cysts respond to oral medicines, the likely outcome is good.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001336-7" qtype="complications">What are the complications of Echinococcus ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001336-8" qtype="when to contact a medical professional">Do I need to see a doctor for Echinococcus ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop symptoms of this disorder.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001336-9" qtype="prevention">How to prevent Echinococcus ?</Question>
-			<Answer></Answer>
+			<Answer>Measures to prevent CE and AE include: Staying away from wild animals including foxes, wolves, and coyotes, Avoiding contact with stray dogs, Washing hands well after touching pet dogs or cats, and before handling food, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

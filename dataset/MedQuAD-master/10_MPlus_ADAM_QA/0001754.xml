@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001754" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001178.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Goiter - simple</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,35 +23,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001754-1" qtype="information">What is (are) Goiter - simple ?</Question>
-			<Answer></Answer>
+			<Answer>A simple goiter is an enlargement of the thyroid gland. It is usually not a tumor or cancer.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001754-2" qtype="causes">What causes Goiter - simple ?</Question>
-			<Answer></Answer>
+			<Answer>The thyroid gland is an important organ of the  endocrine system . It is located at the front of the neck just above where your collarbones meet. The gland makes the hormones that control the way every cell in the body uses energy. This process is called  metabolism . Iodine deficiency is the most common cause of goiter. The body needs iodine to produce thyroid hormone. If you do not have enough iodine in your diet, the thyroid gets larger to try and capture all the iodine it can, so it can make the right amount of thyroid hormone. So, a goiter can be a sign the thyroid is not able to make enough thyroid hormone. The use of iodized salt in the United States prevents a lack of iodine in the diet. Other causes of goiter include: The body's immune system attacking the thyroid gland ( autoimmune problem ), Certain medicines (lithium, amiodarone), Infections (rare), Cigarette smoking, Eating very large amounts of certain foods (soy, peanuts, or vegetables in the broccoli and cabbage family), Toxic nodular goiter, an enlarged thyroid gland that has a small growth or many growths called nodules, which produce too much thyroid hormone ,  Simple goiters are more common in: People over age 40, People with a family history of goiter, People who are born and raised in areas with iodine deficiency , Women , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001754-3" qtype="symptoms">What are the symptoms of Goiter - simple ?</Question>
-			<Answer></Answer>
+			<Answer>The main symptom is an enlarged thyroid gland. The size may range from a single small  nodule  to a large mass at the front of the neck. Some people with a simple goiter may have symptoms of an  underactive thyroid  gland. In rare cases, an enlarged thyroid can put pressure on the windpipe (trachea) and food tube (esophagus). This can lead to: Breathing difficulties  (with very large goiters), especially when lying flat on the back or when reaching up with your arms, Cough, Hoarseness, Swallowing difficulties, especially with solid food, Pain in the area of the thyroid , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001754-4" qtype="exams and tests">How to diagnose Goiter - simple ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will do a physical exam. This involves feeling your neck as you swallow. Swelling in the area of the thyroid may be felt. If you have a very large goiter, you may have pressure on your neck veins. As a result, when the provider asks you to raise your arms above your head, you may feel dizzy. Blood tests may be ordered to measure thyroid function: Free thyroxine ( T4 ), Thyroid stimulating hormone ( TSH ) ,  Tests to look for abnormal and possibly cancerous&#160;areas in the thyroid gland include: Thyroid scan  and uptake,  Ultrasound of the thyroid ,  If nodules are found on an ultrasound, a biopsy may be needed to check for thyroid cancer.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001754-5" qtype="treatment">What are the treatments for Goiter - simple ?</Question>
-			<Answer></Answer>
+			<Answer>A goiter only needs to be treated if it is causing symptoms. Treatments for an enlarged thyroid include: Thyroid hormone replacement pills if the goiter is due to an underactive thyroid, Small doses of Lugol's iodine or potassium iodine solution if the goiter is due to a lack of iodine, Radioactive iodine to shrink the gland if the thyroid is producing too much thyroid hormone, Surgery ( thyroidectomy ) to remove all or part of the gland , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001754-6" qtype="outlook">What is the outlook for Goiter - simple ?</Question>
-			<Answer></Answer>
+			<Answer>A simple goiter may disappear on its own, or may become larger. Over time, the thyroid gland may stop making enough thyroid hormone. This condition is called  hypothyroidism . In some cases, a goiter becomes  toxic  and produces thyroid hormone on its own. This can cause high levels of thyroid hormone, a condition called  hyperthyroidism .</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001754-7" qtype="when to contact a medical professional">Do I need to see a doctor for Goiter - simple ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if you experience any swelling in the front of your neck or any other symptoms of goiter.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001754-8" qtype="prevention">How to prevent Goiter - simple ?</Question>
-			<Answer></Answer>
+			<Answer>Using iodized table salt prevents most simple goiters.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

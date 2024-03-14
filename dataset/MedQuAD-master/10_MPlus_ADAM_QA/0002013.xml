@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002013" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000908.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hormone therapy for prostate cancer</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,7 +23,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002013-1" qtype="information">What is (are) Hormone therapy for prostate cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Hormone therapy for  prostate cancer  uses surgery or drugs to lower the levels of male sex hormones in a man's body. This helps slow the growth of prostate cancer.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

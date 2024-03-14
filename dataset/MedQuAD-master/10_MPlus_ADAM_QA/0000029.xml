@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000029" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002912.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Abortion - surgical</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,19 +22,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000029-1" qtype="information">What is (are) Abortion - surgical ?</Question>
-			<Answer></Answer>
+			<Answer>Surgical abortion is a procedure that ends an undesired pregnancy by removing the fetus and placenta from the mother's womb (uterus). Surgical abortion is not the same as  miscarriage . Miscarriage is when a pregnancy ends on its own before the 20th week of pregnancy. </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000029-2" qtype="information">What is (are) Abortion - surgical ?</Question>
-			<Answer></Answer>
+			<Answer>Surgical abortion is a procedure that ends an undesired pregnancy by removing the fetus and placenta from the mother's womb (uterus). Surgical abortion is not the same as  miscarriage . Miscarriage is when a pregnancy ends on its own before the 20th week of pregnancy. </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000029-4" qtype="susceptibility">Who is at risk for Abortion - surgical? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000029-6" qtype="outlook">What is the outlook for Abortion - surgical ?</Question>
-			<Answer></Answer>
+			<Answer>Problems rarely occur after this procedure. Physical recovery usually occurs within a few days, depending on the stage of the pregnancy.  Vaginal bleeding  can last for a week to 10 days. Cramping most often lasts for a day or two. You can get pregnant before your next period, which will occur 4 to 6 weeks after the procedure. Be sure to make arrangements to prevent pregnancy, especially during the first month after the procedure. You may want to talk with your provider about  emergency contraception .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

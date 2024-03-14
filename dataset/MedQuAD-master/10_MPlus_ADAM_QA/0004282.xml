@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004282" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000346.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Weight-loss medicines</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004282-1" qtype="information">What is (are) Weight-loss medicines ?</Question>
-			<Answer></Answer>
+			<Answer>There are several different medicines used for weight loss. Before trying weight-loss medicines, your health care provider will recommend that you try non-drug ways for losing weight. While weight-loss drugs can be helpful, the overall weight loss achieved is limited for most people. In addition, it's likely the weight will be regained when the medicines are stopped.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

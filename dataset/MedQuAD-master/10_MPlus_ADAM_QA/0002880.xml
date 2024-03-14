@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002880" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003641.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Osmotic fragility test</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002880-1" qtype="information">What is (are) Osmotic fragility test ?</Question>
-			<Answer></Answer>
+			<Answer>Osmotic fragility is a blood test to detect whether red blood cells are more likely to break down.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002880-8" qtype="susceptibility">Who is at risk for Osmotic fragility test? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003459" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000294.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Salmonella enterocolitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,35 +22,36 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003459-1" qtype="information">What is (are) Salmonella enterocolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Salmonella enterocolitis is a bacterial infection in the lining of the small intestine that is caused by Salmonella bacteria. It is a type of food poisoning.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003459-2" qtype="causes">What causes Salmonella enterocolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Salmonella infection is one of the most common types of  food poisoning . It occurs when you eat food or drink water that contains Salmonella bacteria.  The Salmonella germs may get into the food you eat in several ways. You are more likely to get this type of infection if you: Eat foods such as turkey, turkey dressing, chicken, or eggs that have not been cooked well or stored properly, Are around family members with a recent Salmonella infection, Have been in or worked in a hospital, nursing home, or other long-term health facility, Have a pet iguana or other lizards, turtles, or snakes (reptiles and amphibians can be carriers of Salmonella), Handle live poultry, Have a weakened immune system, Regularly used medicines that block acid production in the stomach, Have Crohn disease or ulcerative colitis, Used antibiotics in the recent past , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003459-3" qtype="symptoms">What are the symptoms of Salmonella enterocolitis ?</Question>
-			<Answer></Answer>
+			<Answer>The time between getting infected and having symptoms is 8 to 72 hours. Symptoms include: Abdominal pain , cramping, or tenderness,  Chills ,  Diarrhea ,  Fever ,  Muscle pain ,  Nausea , Vomiting, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003459-4" qtype="exams and tests">How to diagnose Salmonella enterocolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam. You may have a tender abdomen and develop tiny pink spots, called rose spots, on your skin. Tests that may be done include: Blood culture, Complete blood count with differential, Test for specific  antibodies  called  febrile/cold agglutinins ,  Stool culture  for Salmonella, Examination of stool for white blood cells , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003459-5" qtype="treatment">What are the treatments for Salmonella enterocolitis ?</Question>
-			<Answer></Answer>
+			<Answer>The goal is to make you feel better and avoid dehydration. Dehydration means your body does not have as much water and fluids as it should. These things may help you feel better if you have diarrhea: Drink 8 to 10 glasses of clear fluids every day. Water is best., Drink at least 1 cup (240 milliliters) of liquid every time you have a loose bowel movement., Eat small meals throughout the day instead of 3 big meals., Eat some salty foods, such as pretzels, soup, and sports drinks., Eat some high-potassium foods, such as bananas, potatoes without the skin, and watered-down fruit juices.,  If your child has Salmonella, it is important to keep them from getting dehydrated.&#160;At first, try 1 ounce (2 tablespoons or 30 milliliters) of fluid every 30 to 60 minutes. Infants should continue to breastfeed and receive  electrolyte  replacement solutions as recommended by your child's provider., You can use an over-the-counter drink, such as Pedialyte or Infalyte. Do not water down these drinks., You can also try Pedialyte&#160;freezer pops., Watered-down fruit juice or broth may also help.,  Medicines that slow diarrhea are often not given because they may make the infection last longer. If you have severe symptoms, your provider may prescribe antibiotics if you: Have diarrhea more than 9 or 10 times per day, Have a high fever, Need to be in the hospital,  If you take water pills or diuretics, you may need to stop taking them when you have diarrhea. Ask your provider.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003459-6" qtype="outlook">What is the outlook for Salmonella enterocolitis ?</Question>
-			<Answer></Answer>
+			<Answer>In otherwise healthy people, symptoms should go away in 2 to 5 days, but they may last for 1 to 2 weeks.  People who have been treated for Salmonella may continue to shed the bacteria in their stool for months to a year after the infection. Food handlers who carry Salmonella in their body can pass the infection to the people who eat the food they have handled.
+</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003459-7" qtype="when to contact a medical professional">Do I need to see a doctor for Salmonella enterocolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: There is blood or pus in your stools., You have diarrhea and are unable to drink fluids due to nausea or vomiting., You have a fever above 101&#176;F (38.3&#176;C) and diarrhea., You have signs of dehydration (thirst, dizziness, lightheadedness)., You have recently traveled to a foreign country and developed diarrhea., Your diarrhea does not get better in 5 days, or it gets worse., You have severe abdominal pain.,  Contact your provider if your child has: A fever above 100.4&#176;F (38&#176;C) and diarrhea, Diarrhea that does not get better in 2 days, or it gets worse, Been vomiting for more than 12 hours (in a newborn under 3 months, you should call as soon as vomiting or diarrhea begin),  Reduced urine output , sunken eyes, sticky or dry mouth, or no tears when crying , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003459-8" qtype="prevention">How to prevent Salmonella enterocolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Learning how to  prevent food poisoning  can reduce the risk for this infection. Follow these safety measures: Properly handle and store foods., Wash your hands when handling eggs, poultry, and other foods., If you own a reptile, wear gloves when handling the animal or its feces because Salmonella can easily pass to humans., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

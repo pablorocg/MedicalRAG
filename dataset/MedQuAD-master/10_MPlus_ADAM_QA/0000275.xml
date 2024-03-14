@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000275" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003535.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Antinuclear antibody panel</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000275-1" qtype="information">Do you have information about Antinuclear antibody panel</Question>
-			<Answer></Answer>
+			<Answer>The antinuclear antibody panel is a blood test that looks at antinuclear  antibodies  (ANA). ANA are antibodies produced by the immune system that bind to the body's own tissues., The antinuclear antibody test looks for antibodies that bind to a part of the cell called the nucleus. ,  If the test is positive, a panel of tests may be done to identify specific antibodies. This is the ANA antibody panel. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

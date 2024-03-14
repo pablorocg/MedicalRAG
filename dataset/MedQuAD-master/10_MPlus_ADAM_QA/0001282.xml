@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001282" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001945.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Drug abuse</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,11 +22,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001282-1" qtype="information">What is (are) Drug abuse ?</Question>
-			<Answer></Answer>
+			<Answer>Substance use  is the continued use of alcohol, illegal drugs, or the misuse of prescription or over-the-counter medicines with negative consequences. These consequences may involve: Problems at work, school, home or in interpersonal relationships, Problems with the law, Health problems, Physical risks that come with using drugs in dangerous situations,  Substances that are commonly used include: Alcohol ,  Amphetamines ,  Cocaine ,  Inhalants ,  LSD ,  Marijuana ,  PCP ,  Prescription medicines , </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001282-2" qtype="information">What is (are) Drug abuse ?</Question>
-			<Answer></Answer>
+			<Answer>Substance use  is the continued use of alcohol, illegal drugs, or the misuse of prescription or over-the-counter medicines with negative consequences. These consequences may involve: Problems at work, school, home or in interpersonal relationships, Problems with the law, Health problems, Physical risks that come with using drugs in dangerous situations,  Substances that are commonly used include: Alcohol ,  Amphetamines ,  Cocaine ,  Inhalants ,  LSD ,  Marijuana ,  PCP ,  Prescription medicines , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004208" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007283.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Venogram</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004208-1" qtype="information">Do you have information about Venogram</Question>
-			<Answer></Answer>
+			<Answer>A venogram is a way to look at veins in your body. It uses  x-rays  and a radiographic contrast material. It is most often used to look at veins in the legs and belly area (abdomen). Veins are not normally seen in an x-ray. That is why the contrast material is used. The health care provider injects this dye into a vein so it shows up better on x-rays. Related topics include: Renal venogram ,  Leg venogram , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002592" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002673.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Menthol poisoning</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002592-1" qtype="information">Do you have information about Menthol poisoning</Question>
-			<Answer></Answer>
+			<Answer>Menthol is used to add peppermint flavor to candy and other products. It is also used in certain skin lotions and ointments. This article discusses menthol poisoning from swallowing pure menthol. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

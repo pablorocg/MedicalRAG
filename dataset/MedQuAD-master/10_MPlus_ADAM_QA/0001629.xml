@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001629" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001652.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Food poisoning</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,35 +16,37 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001629-1" qtype="information">What is (are) Food poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Food poisoning occurs when you swallow food or water that contains bacteria, parasites, viruses, or the toxins made by these germs. Most cases are caused by common bacteria such as staphylococcus or  E coli.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001629-2" qtype="causes">What causes Food poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Food poisoning can affect one person or a group of people who all ate the same food. It is more common after eating at picnics, school cafeterias, large social functions, or restaurants. When germs get into the food, it is called contamination. This can happen in different ways: Meat or poultry can come into contact with bacteria from the intestines of an animal that is being processed., Water that is used during growing or shipping can contain animal or human waste., Food may be handled in an unsafe way during preparation in grocery stores, restaurants, or homes.,  Food poisoning can occur after eating or drinking: Any food prepared by someone who does not wash their hands properly, Any food prepared using cooking utensils, cutting boards, and other tools that are not fully cleaned, Dairy products or food containing mayonnaise (such as coleslaw or potato salad) that have been out of the refrigerator too long, Frozen or refrigerated foods that are not stored at the proper temperature or are not reheated to the right temperature, Raw fish or oysters, Raw fruits or vegetables that have not been washed well, Raw vegetables or fruit juices and dairy products (look for the word "pasteurized," which means the food has been treated to prevent contamination), Undercooked meats or eggs, Water from a well or stream, or city or town water that has not been treated,  Many types of germs and toxins may cause food poisoning, including: Campylobacter enteritis, Cholera,  E coli  enteritis, Toxins in spoiled or tainted fish or shellfish,  Staphylococcus aureus , Salmonella, Shigella,  Infants and older people are at the greatest risk for food poisoning. You are also at higher risk if: You have a serious medical condition, such as kidney disease, diabetes, cancer, or HIV and/or AIDS., You have a weakened immune system., You travel outside of the United States to areas where you are exposed to germs that cause food poisoning.,  Pregnant and breastfeeding women should use extra care to avoid food poisoning.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001629-3" qtype="symptoms">What are the symptoms of Food poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms from the most common types of food poisoning will often start within 2 to 6 hours of eating the food. That time may be longer or shorter, depending on the cause of the food poisoning. Possible symptoms include: Abdominal cramps ,  Diarrhea  (may be bloody),  Fever  and chills,  Headache ,  Nausea and vomiting ,  Weakness  (may be serious) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001629-4" qtype="exams and tests">How to diagnose Food poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will look for signs of food poisoning. These may include pain in the stomach and signs your body has too little fluid (dehydration).  Tests may be done on your stools or the food you have eaten to find out what type of germ is causing your symptoms. However, tests may not always find the cause of the diarrhea.  In more serious cases, your provider may order a sigmoidoscopy. This test uses a thin, hollow tube with a light on the end that is placed in the anus and slowly advanced to the rectum and sigmoid colon to look for the source of bleeding or infection.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001629-5" qtype="treatment">What are the treatments for Food poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, you will get better in a couple of days. The goal is to ease symptoms and make sure your body has the proper amount of fluids. Getting enough fluids and learning what to eat will help keep you comfortable. You may need to: Manage the diarrhea, Control nausea and vomiting, Get plenty of rest,  You can drink oral rehydration mixtures to replace fluids and minerals lost through vomiting and diarrhea. Oral rehydration powder can be purchased from a pharmacy. Be sure to mix the powder in safe water. You can make your own mixture by dissolving &#189; teaspoon (tsp) or 3 grams (g) salt and &#189; tsp (2.3 grams) baking soda and 4 tablespoon (tbsp) or 50 grams of sugar in 4&#188; cups (1 liter) water. If you have diarrhea and are unable to drink or keep down fluids, you may need fluids given through a vein (by IV). This may be more common in young children. If you take diuretics, ask your provider if you need to stop taking the diuretic while you have diarrhea. Never stop or change medicines before talking to your provider. For the most common causes of food poisoning, your provider will NOT prescribe antibiotics. You can buy medicines at the drugstore that help slow diarrhea. DO NOT use these medicines without talking to your provider if you have bloody diarrhea, a fever, or the diarrhea is severe., DO NOT give these medicines to children., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001629-6" qtype="outlook">What is the outlook for Food poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Most people fully recover from the most common types of food poisoning within 12 to 48 hours. Some types of food poisoning can cause serious complications.
+ Death from food poisoning in people who are otherwise healthy is rare in the United States.
+</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001629-7" qtype="complications">What are the complications of Food poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Dehydration is the most common complication. This can occur from any causes of food poisoning. Less common, but much more serious complications depend on the bacteria that are causing the food poisoning. These may include:  Arthritis, Bleeding problems, Damage to the nervous system, Kidney problems,  Swelling or irritation in the tissue around the heart , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001629-8" qtype="when to contact a medical professional">Do I need to see a doctor for Food poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have: Blood or pus in your stools, Diarrhea and are unable to drink fluids due to nausea and vomiting, A fever above 101&#176;F (38.3&#176;C), or your child has a fever above 100.4&#176;F (38&#176;C) along with diarrhea, Signs of dehydration (thirst, dizziness, lightheadedness), Recently traveled to a foreign country and developed diarrhea, Diarrhea that has not gotten better in 5 days (2 days for an infant or child), or has gotten worse, A child who has been vomiting for more than 12 hours (in a newborn under 3 months you should call as soon as vomiting or diarrhea begins), Food poisoning that is from mushrooms (potentially fatal), fish or other seafood, or botulism (also potentially fatal), </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

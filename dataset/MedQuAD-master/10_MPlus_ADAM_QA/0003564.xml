@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003564" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007206.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Shoulder arthroscopy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003564-1" qtype="information">Do you have information about Shoulder arthroscopy</Question>
-			<Answer></Answer>
+			<Answer>Shoulder arthroscopy is surgery that uses a tiny camera called an arthroscope to examine or repair the tissues inside or around your shoulder joint. The arthroscope is inserted through a small cut (incision) in your skin.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

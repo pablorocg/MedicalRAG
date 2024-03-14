@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002390" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003251.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lichenified</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002390-1" qtype="information">Do you have information about Lichenified</Question>
-			<Answer></Answer>
+			<Answer>Lichenified means the skin has become thickened and leathery. This often results from frequently rubbing or scratching the skin.  Chronic irritation due to conditions such as  eczema  can cause lichenified skin. Moisturizers and topical steroids are usually used to treat lichenified skin. Any underlying skin condition should also be treated.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

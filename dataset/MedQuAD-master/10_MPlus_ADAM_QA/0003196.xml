@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003196" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000512.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Premature rupture of membranes</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,7 +22,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003196-1" qtype="information">What is (are) Premature rupture of membranes ?</Question>
-			<Answer></Answer>
+			<Answer>Layers of tissue called the amniotic sac hold the fluid that surround a baby in the womb. In most cases, these membranes rupture during labor or within 24 hours before starting labor. Premature rupture of the membranes (PROM) is said to occur when the membranes break before the 37th week of pregnancy.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

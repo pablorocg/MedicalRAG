@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002948" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000139.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Parapneumonic pleural effusion</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,23 +18,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002948-1" qtype="information">What is (are) Parapneumonic pleural effusion ?</Question>
-			<Answer></Answer>
+			<Answer>Pleural effusion  is a buildup of fluid in the pleural space. The pleural space is the area between the layers of the tissue lining the lung and the chest cavity. In a person with parapneumonic pleural effusion, the fluid buildup is caused by  pneumonia .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002948-2" qtype="causes">What causes Parapneumonic pleural effusion ?</Question>
-			<Answer></Answer>
+			<Answer>Pneumonia, most commonly from bacteria, causes parapneumonic pleural effusion.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002948-3" qtype="treatment">What are the treatments for Parapneumonic pleural effusion ?</Question>
-			<Answer></Answer>
+			<Answer>Antibiotics are prescribed to treat the pneumonia. If the person has shortness of breath, thoracentesis might be used to drain the fluid. If better drainage of the fluid is needed due to more severe infection, a drain tube can be inserted.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002948-4" qtype="outlook">What is the outlook for Parapneumonic pleural effusion ?</Question>
-			<Answer></Answer>
+			<Answer>This condition improves when the pneumonia improves.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002948-5" qtype="complications">What are the complications of Parapneumonic pleural effusion ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Lung damage, Infection that turns into an abscess, called an  empyema , which will need to be drained with a chest tube, Collapsed lung ( pneumothorax ) after thoracentesis, Scarring of the pleural space (lining of the lung) , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002491" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002252.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Macula lutea</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002491-1" qtype="information">Do you have information about Macula lutea</Question>
-			<Answer></Answer>
+			<Answer>When an eye is looking directly at an object, light rays from that object are focused on the macula lutea. This is a yellow oval spot ("lutea" is Latin for "yellow") at the center of the  retina  (back of the eye). The yellow color comes from the high concentration of lutein. It is the part of the retina that is responsible for sharp, detailed central vision (also called visual acuity). The macula lutea, also called fovea, contains a very high concentration of cones. These are the light-sensitive cells in the retina that give detailed central vision.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

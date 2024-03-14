@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000729" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001612.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Central serous choroidopathy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000729-1" qtype="information">What is (are) Central serous choroidopathy ?</Question>
-			<Answer></Answer>
+			<Answer>Central serous choroidopathy is a disease that causes fluid to build up under the  retina . This is&#160;the back part of the inner eye that sends sight information to the brain. The fluid leaks from the blood vessel layer under the retina. This layer is called the choroid.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000729-2" qtype="causes">What causes Central serous choroidopathy ?</Question>
-			<Answer></Answer>
+			<Answer>The cause of this condition is unknown. Men are affected more often than women, and the condition is most common at around age 45. However, anyone can be affected. Stress appears to be a risk factor. Early studies found that people with aggressive, "type A" personalities who are under a lot of stress may be more likely to develop central serous choroidopathy.  The condition can also occur as a complication of steroid drug use. It has recently been reported after vaccination for COVID-19, although cause and effect could not be proven.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000729-3" qtype="symptoms">What are the symptoms of Central serous choroidopathy ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Dim and blurred blind spot in the center of vision, Distortion of straight lines with the affected eye, Objects appearing smaller or farther away with the affected eye , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000729-4" qtype="exams and tests">How to diagnose Central serous choroidopathy ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider can most often diagnose central serous choroidopathy by dilating the eye and performing an eye exam.  Fluorescein angiography  confirms the diagnosis. This condition may also be diagnosed with a noninvasive test called ocular coherence tomography (OCT).</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000729-5" qtype="treatment">What are the treatments for Central serous choroidopathy ?</Question>
-			<Answer></Answer>
+			<Answer>Most cases clear up without treatment in 1 to 2 months. Laser treatment or photodynamic therapy to seal the leak may help restore vision in people with more severe leakage and vision loss, or in those who have had the disease for a long time. People who are using steroid drugs (for example, to treat autoimmune diseases) should stop using these drugs, if possible. Do not stop taking these medicines without first talking to your provider. Treatment with non-steroidal anti-inflammatory (NSAID) eye drops may also help.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000729-6" qtype="outlook">What is the outlook for Central serous choroidopathy ?</Question>
-			<Answer></Answer>
+			<Answer>Most people recover good vision without treatment. However, vision is often not as good as it was before the condition occurred. The disease returns in about one half of all people. Even when the disease returns, it has a good outlook. Rarely, people develop permanent scars that damage their central vision.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000729-7" qtype="complications">What are the complications of Central serous choroidopathy ?</Question>
-			<Answer></Answer>
+			<Answer>A small number of people will have complications from laser treatment that impair their central vision. That is why most people will be allowed to recover without treatment, if possible.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000729-8" qtype="when to contact a medical professional">Do I need to see a doctor for Central serous choroidopathy ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if your vision gets worse.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000729-9" qtype="prevention">How to prevent Central serous choroidopathy ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known prevention. Although there is a clear association with stress, there is no evidence that reducing stress can help prevent or treat central serous choroidopathy.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002655" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007412.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Mitral valve surgery - open</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002655-1" qtype="information">Do you have information about Mitral valve surgery - open</Question>
-			<Answer></Answer>
+			<Answer>Mitral valve surgery is used to repair or replace the mitral valve in your heart. Blood flows between the different chambers in the heart through valves that connect the chambers. One of these is the mitral valve. The mitral valve opens so blood can flow from the left atrium to the left ventricle. The valve then closes, keeping blood from flowing backward. You may need surgery on your mitral valve if: The mitral valve is hardened (calcified). This prevents blood from moving forward through the valve., The mitral valve is too loose. Blood tends to flow backward when this occurs.,  In this type of surgery, the surgeon makes a large cut in your breastbone to reach the heart. Other types of surgery use  several smaller cuts.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

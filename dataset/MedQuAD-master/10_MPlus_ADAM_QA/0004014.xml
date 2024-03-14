@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004014" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001568.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Transposition of the great vessels</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004014-1" qtype="information">What is (are) Transposition of the great vessels ?</Question>
-			<Answer></Answer>
+			<Answer>Transposition of the great arteries (TGA) is a heart defect that occurs from birth ( congenital ). The two major arteries that carry blood away from the heart -- the aorta and the pulmonary artery -- are switched (transposed).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004014-2" qtype="causes">What causes Transposition of the great vessels ?</Question>
-			<Answer></Answer>
+			<Answer>The cause of TGA is unknown. It is not associated with any one common genetic abnormality. It rarely occurs in other family members. TGA is a  cyanotic heart defect . This means there is decreased oxygen in the blood that is pumped from the heart to the rest of the body. In normal hearts, blood that returns from the body goes through the right side of the heart and pulmonary artery to the lungs to get oxygen. The blood then comes back to the left side of the heart and travels out the aorta to the body. In TGA, venous blood returns normally to the heart through the right atrium. But, instead of going to the lungs to absorb oxygen, this blood is pumped out through the aorta and back to the body. This blood has not been recharged with oxygen and leads to cyanosis, a bluish discoloration of the skin and mucous membranes. Symptoms appear at birth or very soon afterward. How bad the symptoms are depends on the type and size of additional heart defects (such as atrial septal defect, ventricular septal defect, or patent ductus arteriosus) and how much the blood can mix between the two abnormal circulations.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004014-3" qtype="symptoms">What are the symptoms of Transposition of the great vessels ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Bluish color to the skin  (cyanosis) due to low oxygen level in the blood, Clubbing of the fingers or toes, Poor feeding, Shortness of breath , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004014-4" qtype="exams and tests">How to diagnose Transposition of the great vessels ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider may detect a heart murmur while listening to the chest with a stethoscope. The baby's mouth and skin will be a blue color. Tests often include the following: Cardiac catheterization ,  Chest x-ray ,  ECG ,  Echocardiogram  (if done before birth, it is called a fetal echocardiogram), Pulse oximetry (to check blood oxygen level) , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004014-5" qtype="treatment">What are the treatments for Transposition of the great vessels ?</Question>
-			<Answer></Answer>
+			<Answer>The initial step in treatment is to allow oxygen-rich blood to mix with poorly oxygenated blood. The baby will immediately receive a medicine called prostaglandin through an IV (intravenous line). This medicine helps keep a blood vessel called the ductus arteriosus open, allowing some mixing of the two blood circulations. In some cases, an opening between the right and left atrium can be created with procedure using a balloon catheter. This allows blood to mix. This procedure is known as balloon atrial septostomy. Permanent treatment involves heart surgery during which the great arteries are cut and stitched back to their correct position. This is called an arterial switch operation (ASO). Prior to the development of this surgery, a surgery called an atrial switch (or Mustard procedure or Senning procedure) was used.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004014-6" qtype="outlook">What is the outlook for Transposition of the great vessels ?</Question>
-			<Answer></Answer>
+			<Answer>The child's symptoms will improve after surgery to correct the defect. Most infants who undergo arterial switch do not have symptoms after surgery and live normal lives. If corrective surgery is not performed, the life expectancy is only months.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004014-7" qtype="complications">What are the complications of Transposition of the great vessels ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Coronary artery problems, Heart valve problems, Irregular heart rhythms (arrhythmias) , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004014-8" qtype="when to contact a medical professional">Do I need to see a doctor for Transposition of the great vessels ?</Question>
-			<Answer></Answer>
+			<Answer>This condition can be diagnosed before birth using a fetal echocardiogram. If not, it is most often diagnosed soon after a baby is born. Go to the emergency room or call the local emergency number (such as 911) if your baby's skin develops a bluish color, especially in the face or trunk. Contact your provider if your baby has this condition and new symptoms develop, get worse, or continue after treatment.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0004014-9" qtype="prevention">How to prevent Transposition of the great vessels ?</Question>
-			<Answer></Answer>
+			<Answer>Women who plan to become pregnant should be immunized against rubella if they are not already immune. Rubella infection in a pregnant woman can cause CHD. Women who are pregnant should get good prenatal care: Avoid alcohol and illegal drugs during pregnancy., Tell your provider that you are pregnant before taking any new medicines., Have a blood test early in your pregnancy to see if you are immune to rubella. If you are not immune, avoid any possible exposure to rubella and get vaccinated right after delivery., Pregnant women who have diabetes should try to get good control over their blood sugar level., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

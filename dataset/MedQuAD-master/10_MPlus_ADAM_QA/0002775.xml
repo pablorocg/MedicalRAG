@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002775" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003927.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Nerve conduction velocity</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,11 +19,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002775-1" qtype="information">What is (are) Nerve conduction velocity ?</Question>
-			<Answer></Answer>
+			<Answer>Nerve conduction velocity (NCV) is a test to see how fast electrical signals move through a nerve. This test is&#160;done along with  electromyography (EMG)  to assess the muscles for abnormalities.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002775-8" qtype="considerations">What to do for Nerve conduction velocity ?</Question>
-			<Answer></Answer>
+			<Answer>An NCV test shows the condition of the best surviving nerve fibers. Therefore, in some cases the results may be normal, even if there is nerve damage.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

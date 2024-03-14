@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003566" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007359.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Shoulder MRI scan</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003566-1" qtype="information">Do you have information about Shoulder MRI scan</Question>
-			<Answer></Answer>
+			<Answer>A shoulder MRI (magnetic resonance imaging) scan is an imaging test that uses energy from powerful magnets and to create pictures of the shoulder area. It does not use radiation (x-rays). Single MRI images are called slices. The images can be stored on a computer or printed on film. One exam produces dozens or sometimes hundreds of slices. Related tests include: Arm MRI ,  MRI , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

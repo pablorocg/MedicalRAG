@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001543" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000397.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Familial hypertriglyceridemia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,35 +16,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001543-1" qtype="information">What is (are) Familial hypertriglyceridemia ?</Question>
-			<Answer></Answer>
+			<Answer>Familial hypertriglyceridemia is a common disorder passed down through families. It causes&#160;a higher-than-normal level of triglycerides (a type of fat) in a person's blood.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001543-2" qtype="causes">What causes Familial hypertriglyceridemia ?</Question>
-			<Answer></Answer>
+			<Answer>Familial hypertriglyceridemia is most likely caused by genetic defects combined with environmental factors. As a result, the condition clusters in families. How severe the disorder is can vary based on sex, age, hormone use, and dietary factors. People with this condition also have high levels of  very low density lipoprotein  (VLDL). LDL cholesterol and HDL cholesterol are often low. In most cases, familial hypertriglyceridemia is not noticeable until puberty or early adulthood. Obesity, hyperglycemia (high blood glucose levels), and high levels of insulin are often present as well. These factors may cause even higher triglyceride levels. Alcohol, a diet high in carbohydrates, and estrogen use can make the condition worse.  You are more likely to have this condition if you have a family history of hypertriglyceridemia or  heart disease  before age 50.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001543-3" qtype="symptoms">What are the symptoms of Familial hypertriglyceridemia ?</Question>
-			<Answer></Answer>
+			<Answer>You may not notice any symptoms. Some people with the condition may have coronary artery disease at an early age.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001543-4" qtype="exams and tests">How to diagnose Familial hypertriglyceridemia ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam and ask about your family history and symptoms. If you have a family history of this condition, you should have blood tests to check  very low density lipoprotein  (VLDL) and triglyceride levels. Blood tests most often show a mild to moderate increase in triglycerides (about 200 to 500 mg/dL). A coronary risk profile may also be done.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001543-5" qtype="treatment">What are the treatments for Familial hypertriglyceridemia ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to control conditions that can raise triglyceride levels. These include  obesity ,  hypothyroidism , and  diabetes . Your provider may tell you not to drink alcohol. Certain birth control pills can raise triglyceride levels. Talk to your provider about your risk when deciding whether to take these medicines.  Treatment also involves avoiding excess calories and  foods high in saturated fats and carbohydrates . You may need to take medicine if your triglyceride levels stay high even after making diet changes. Nicotinic acid, gemfibrozil, and fenofibrate have been shown to lower triglyceride levels in people with this condition.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001543-6" qtype="outlook">What is the outlook for Familial hypertriglyceridemia ?</Question>
-			<Answer></Answer>
+			<Answer>Losing weight and keeping diabetes under control helps improve the outcome. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001543-7" qtype="complications">What are the complications of Familial hypertriglyceridemia ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Pancreatitis, Coronary artery disease, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001543-8" qtype="prevention">How to prevent Familial hypertriglyceridemia ?</Question>
-			<Answer></Answer>
+			<Answer>Screening family members for  high triglycerides  may detect the disease early.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

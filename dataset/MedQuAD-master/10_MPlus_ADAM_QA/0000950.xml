@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000950" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002948.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Congenital heart defect - corrective surgery</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -32,11 +31,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000950-1" qtype="information">What is (are) Congenital heart defect - corrective surgery ?</Question>
-			<Answer></Answer>
+			<Answer>Congenital heart defect corrective surgery fixes or treats a heart defect that a child is born with. A baby born with one or more heart defects has  congenital heart disease . Surgery is needed if the defect could harm the child's long-term health or well-being.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000950-2" qtype="information">What is (are) Congenital heart defect - corrective surgery ?</Question>
-			<Answer></Answer>
+			<Answer>Congenital heart defect corrective surgery fixes or treats a heart defect that a child is born with. A baby born with one or more heart defects has  congenital heart disease . Surgery is needed if the defect could harm the child's long-term health or well-being.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002421" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000576.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Living with heart disease and angina</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,11 +18,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002421-1" qtype="information">What is (are) Living with heart disease and angina ?</Question>
-			<Answer></Answer>
+			<Answer>Coronary heart disease (CHD) is a narrowing of the blood vessels that supply blood and oxygen to the heart. Angina is chest pain or discomfort that most often occurs when you do certain activities or feel stressed. This article discusses what you can do to manage chest pain and reduce your risks for CHD.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002421-6" qtype="treatment">What are the treatments for Living with heart disease and angina ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004170" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000514.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Vacuum-assisted delivery</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004170-1" qtype="information">What is (are) Vacuum-assisted delivery ?</Question>
-			<Answer></Answer>
+			<Answer>During vacuum assisted vaginal delivery, the doctor or midwife will use a vacuum (also called a vacuum extractor) to help move the baby through the birth canal. The vacuum extractor uses a soft plastic cup that attaches to the baby's head with suction. The doctor or midwife uses a handle on the cup to move the baby through the birth canal. </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004170-4" qtype="susceptibility">Who is at risk for Vacuum-assisted delivery? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

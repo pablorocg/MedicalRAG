@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004250" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002399.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Vitamins</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004250-1" qtype="information">Do you have information about Vitamins</Question>
-			<Answer></Answer>
+			<Answer>Vitamins are a group of substances that are needed for normal cell function, growth, and development. There are 13 essential vitamins. This means that these vitamins are required for the body to work properly. They are: Vitamin A, Vitamin C, Vitamin D, Vitamin E, Vitamin K, Vitamin B1 ( thiamine ), Vitamin B2 ( riboflavin ), Vitamin B3 ( niacin ),  Vitamin B6  (pyridoxine),  Vitamin B12  (cyanocobalamin),  Pantothenic acid  (B5),  Biotin  (B7),  Folate (folic acid or B9) ,  Vitamins are grouped into two categories: Fat-soluble vitamins are stored in the body's liver, fatty tissue, and muscles. The four fat-soluble vitamins are vitamins A, D, E, and K. These vitamins are absorbed more easily by the body in the presence of dietary fat., Water-soluble vitamins are not stored in the body. The nine water-soluble vitamins are vitamin C and all the B vitamins. Any leftover or excess amounts of these leave the body through the urine. They have to be consumed on a regular basis to prevent shortages or deficiencies in the body. The exception to this is vitamin B12, which can be stored in the liver for many years.,  Some vitamin-like nutrients are also needed by the body such as: Choline, Carnitine, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

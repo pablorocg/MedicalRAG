@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003742" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003745.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Streptococcal screen</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,15 +19,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003742-1" qtype="information">What is (are) Streptococcal screen ?</Question>
-			<Answer></Answer>
+			<Answer>A streptococcal screen is a test to detect group A streptococcus. This type of bacteria is the most common cause of  strep throat .</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003742-8" qtype="susceptibility">Who is at risk for Streptococcal screen? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003742-9" qtype="considerations">What to do for Streptococcal screen ?</Question>
-			<Answer></Answer>
+			<Answer>This test screens for the group A streptococcus bacteria only. It will not detect other causes of sore throat.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

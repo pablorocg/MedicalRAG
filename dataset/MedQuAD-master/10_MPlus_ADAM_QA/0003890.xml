@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003890" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003707.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Testosterone</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003890-1" qtype="information">Do you have information about Testosterone</Question>
-			<Answer></Answer>
+			<Answer>A testosterone test measures the amount of the male hormone, testosterone, in the blood. Both men and women produce this hormone. The test described in this article measures the total amount of testosterone in the blood. Much of the testosterone in the blood is bound to a protein called sex hormone binding globulin (SHBG). Another blood test can measure the "free" testosterone. However, this type of test is often not very accurate. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000397" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001143.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Barrett esophagus</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,35 +21,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000397-1" qtype="information">What is (are) Barrett esophagus ?</Question>
-			<Answer></Answer>
+			<Answer>Barrett esophagus (BE) is a disorder in which the lining of the esophagus is damaged by stomach acid. The esophagus is also called the food pipe, and it connects your throat to your stomach. People with BE have an increased risk for cancer in the area involved. However, cancer is not common.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000397-2" qtype="causes">What causes Barrett esophagus ?</Question>
-			<Answer></Answer>
+			<Answer>When you eat, food passes from your throat to your stomach through the esophagus. A ring of muscle fibers in the lower esophagus keeps stomach contents from moving backward. If these muscles do not close tightly, harsh stomach acid can leak into the esophagus. This is called reflux or  gastroesophageal reflux (GERD) . It may cause tissue damage over time. The lining becomes similar to that of the stomach. BE occurs more often in men than women. People who have had GERD for a long time are more likely to have this condition.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000397-3" qtype="symptoms">What are the symptoms of Barrett esophagus ?</Question>
-			<Answer></Answer>
+			<Answer>BE itself does not cause symptoms. The  acid reflux  that causes BE often leads to symptoms of heartburn. Many people with this condition do not have any symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000397-4" qtype="exams and tests">How to diagnose Barrett esophagus ?</Question>
-			<Answer></Answer>
+			<Answer>You may need an  endoscopy  if GERD symptoms are severe or come back after treatment. During the endoscopy, your endoscopist may take tissue samples ( biopsies ) from different parts of the esophagus. These samples help detect the condition. They also help look for changes that could lead to cancer. Your provider may recommend a follow-up endoscopy to look for cell changes that indicate cancer at regular intervals.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000397-5" qtype="treatment">What are the treatments for Barrett esophagus ?</Question>
-			<Answer></Answer>
+			<Answer>TREATMENT OF GERD Treatment should improve  acid reflux symptoms , and may keep BE from getting worse. Treatment may involve lifestyle changes and medicines such as: Antacids  after meals and at bedtime, Histamine H2 receptor blockers,  Proton pump inhibitors , Avoiding use of tobacco,&#160;chocolate, and caffeine,  Lifestyle changes, medicines, and  anti-reflux surgery  may help with symptoms of GERD. However, these steps will not make BE go away. TREATMENT OF BARRETT ESOPHAGUS Endoscopic biopsy can show changes in the cell that may be cancer. You provider may advise surgery or other procedures to treat it. Some of the following procedures remove the harmful tissue in your esophagus:  Photodynamic therapy (PDT) uses a special laser device, called an esophageal balloon, along with a medicine called Photofrin., Other procedures use different types of high energy to destroy the precancerous tissue., Surgery to remove the abnormal lining. , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000397-6" qtype="outlook">What is the outlook for Barrett esophagus ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment should improve acid reflux symptoms and may keep BE from getting worse. None of these treatments will reverse the changes that may lead to cancer. People with chronic GERD or Barrett esophagitis generally need to be monitored for cancer of the esophagus.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000397-7" qtype="when to contact a medical professional">Do I need to see a doctor for Barrett esophagus ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: Heartburn lasts for longer than a few days, or you have pain or problems swallowing., You have been diagnosed with BE and your symptoms get worse., You develop new symptoms (such as weight loss, problems swallowing)., </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000397-8" qtype="prevention">How to prevent Barrett esophagus ?</Question>
-			<Answer></Answer>
+			<Answer>Early detection and treatment of GERD may prevent BE.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

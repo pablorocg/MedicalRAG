@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001053" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a601106.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Ranitidine</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,43 +7,44 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001053-1" qtype="indication">Who should get Ranitidine and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Ranitidine is used to treat ulcers; gastroesophageal reflux disease (GERD), a condition in which backward flow of acid from the stomach causes heartburn and injury of the food pipe (esophagus); and conditions where the stomach produces too much acid, such as Zollinger-Ellison syndrome. Over-the-counter ranitidine is used to prevent and treat symptoms of heartburn associated with acid indigestion and sour stomach. Ranitidine is in a class of medications called H 2  blockers. It decreases the amount of acid made in the stomach.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001053-2" qtype="usage">How should Ranitidine be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Ranitidine comes as a tablet, an effervescent tablet, effervescent granules, and a syrup to take by mouth. It is usually taken once a day at bedtime or two to four times a day. Over-the-counter ranitidine comes as a tablet to take by mouth. It is usually taken once or twice a day. To prevent symptoms, it is taken 30 to 60 minutes before eating or drinking foods that cause heartburn. Follow the directions on your prescription or the package label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ranitidine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor. Dissolve ranitidine effervescent tablets and granules in a full glass (6 to 8 ounces [180 to 240 milliliters]) of water before drinking. Do not take over-the-counter ranitidine for longer than 2 weeks unless your doctor tells you to. If symptoms of heartburn, acid indigestion, or sour stomach last longer than 2 weeks, stop taking ranitidine and call your doctor.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001053-4" qtype="precautions">Are there safety concerns or special precautions about Ranitidine ?</Question>
-			<Answer></Answer>
+			<Answer>Before taking ranitidine, tell your doctor and pharmacist if you are allergic to ranitidine or any other medications., tell your doctor and pharmacist what prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking. Be sure to mention either of the following: anticoagulants ('blood thinners') such as warfarin (Coumadin); and triazolam (Halcion). Your doctor may need to change the doses of your medications or monitor you carefully for side effects., tell your doctor if you have or have ever had porphyria, phenylketonuria, or kidney or liver disease., tell your doctor if you are pregnant, plan to become pregnant, or are breast-feeding. If you become pregnant while taking ranitidine, call your doctor., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001053-5" qtype="dietary">What special dietary instructions should I follow with Ranitidine ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001053-6" qtype="forget a dose">What should I do if I forget a dose of Ranitidine ?</Question>
-			<Answer></Answer>
+			<Answer>Take the missed dose as soon as you remember it. However, if it is almost time for the next dose, skip the missed dose and continue your regular dosing schedule. Do not take a double dose to make up for a missed one.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001053-7" qtype="side effects">What are the side effects or risks of Ranitidine ?</Question>
-			<Answer></Answer>
+			<Answer>Ranitidine may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ headache, constipation, diarrhea, nausea, vomiting, stomach pain,  Ranitidine may cause other side effects. Call your doctor if you have any unusual problems while taking this medication.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001053-8" qtype="storage and disposal">What should I know about storage and disposal of Ranitidine ?</Question>
-			<Answer></Answer>
+			<Answer>Keep this medication in the container it came in, tightly closed, and out of reach of children. Store it at room temperature and away from excess heat and moisture (not in the bathroom). Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program. It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001053-9" qtype="emergency or overdose">What to do in case of emergency or overdose of Ranitidine ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0001053-10" qtype="other information">What other information should I know about Ranitidine ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor. Before having any laboratory test, tell your doctor and the laboratory personnel that you are taking ranitidine. Do not let anyone else take your medicine. Ask your pharmacist any questions you have about refilling your prescription. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="11">
 			<Question qid="0001053-11" qtype="brand names">What are the brand names of Ranitidine ?</Question>
-			<Answer></Answer>
+			<Answer>Tritec &#174; &#182; , Zantac &#174; , Zantac &#174;  75, Zantac &#174;  EFFERdose &#174; , Zantac &#174;  Syrup, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

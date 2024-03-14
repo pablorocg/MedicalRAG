@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000833" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002327.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Chromosome</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000833-1" qtype="information">Do you have information about Chromosome</Question>
-			<Answer></Answer>
+			<Answer>Chromosomes come in pairs. Normally, each cell in the human body has 23 pairs of chromosomes (46 total chromosomes). Half come from the mother; the other half come from the father. Two of the chromosomes (the X and the Y chromosome) are called sex chromosomes, and in almost all people: Females have 2 X chromosomes., Males have 1 X and 1 Y chromosome. ,  At conception, the mother gives an X chromosome to the child, and the father may contribute an X or a Y. The chromosome from the father determines if the baby is female or male.&#160;In most cases, a child is born as a male or female according to their chromosomes. However, children with&#160; differences&#160;of sex development  may be born with genitalia that do not match their chromosomes. Or they may have fewer or more than 46 chromosomes. All of these conditions can cause problems with sexual development. The remaining chromosomes are called autosomal chromosomes. They are known as chromosome pairs 1 through 22.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

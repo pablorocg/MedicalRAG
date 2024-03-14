@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004050" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003685.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>TSI test</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,11 +20,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004050-1" qtype="information">What is (are) TSI test ?</Question>
-			<Answer></Answer>
+			<Answer>TSI stands for thyroid stimulating immunoglobulin. TSIs are  antibodies  that tell the thyroid gland to become more active and release excess amounts of thyroid hormone into the blood. A TSI test measures the amount of thyroid stimulating immunoglobulin in your blood.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004050-8" qtype="susceptibility">Who is at risk for TSI test? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

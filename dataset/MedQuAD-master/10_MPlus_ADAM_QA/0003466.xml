@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003466" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001352.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Scalded skin syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003466-1" qtype="information">What is (are) Scalded skin syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Scalded skin syndrome (SSS) is a skin infection caused by staphylococcus bacteria in which the skin becomes damaged and sheds.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003466-2" qtype="causes">What causes Scalded skin syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Scalded skin syndrome is caused by infection with certain strains of staphylococcus bacteria. The bacteria produce a toxin that causes the skin damage. The damage creates blisters, as if the skin were scalded by heat. These blisters can occur at areas of the skin away from the initial site. SSS is found most commonly in infants and children under the age of 5.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003466-3" qtype="symptoms">What are the symptoms of Scalded skin syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include any of the following: Blisters, Fever, Large areas of skin peel or fall away (exfoliation or desquamation), Painful skin, Redness of the skin ( erythema ), which spreads to cover most of the body, Skin slips off with gentle pressure, leaving wet red areas ( Nikolsky sign ), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003466-4" qtype="exams and tests">How to diagnose Scalded skin syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam and look at the skin. The exam may show that the skin slips off when it is rubbed (positive Nikolsky sign). Tests may include: Complete blood count ( CBC ), Cultures of the  skin ,  throat and nose , and  blood ,  Electrolyte  test,  Skin biopsy  (in rare cases) , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003466-5" qtype="treatment">What are the treatments for Scalded skin syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Antibiotics are given by mouth or through a vein (intravenously; IV) to help fight the infection. IV fluids are also given to prevent dehydration. Much of the body's fluid is lost through open skin.  Moist compresses to the skin may improve comfort. You can apply a moisturizing ointment to keep the skin moist. Healing begins about 10 days after treatment.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003466-6" qtype="outlook">What is the outlook for Scalded skin syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>A full recovery is expected. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003466-7" qtype="complications">What are the complications of Scalded skin syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Complications that may result include: Abnormal level of fluids in the body causing  dehydration  or  electrolyte  imbalance, Poor temperature control (in young infants), Severe bloodstream infection ( septicemia ), Spread to deeper skin infection ( cellulitis ) , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003466-8" qtype="when to contact a medical professional">Do I need to see a doctor for Scalded skin syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider or go to the emergency room if you have symptoms of this disorder.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003466-9" qtype="prevention">How to prevent Scalded skin syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The disorder may not be preventable. Treating any staphylococcus infection quickly can help.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

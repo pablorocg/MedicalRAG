@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002336" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007507.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Laryngoscopy and nasolarynoscopy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002336-1" qtype="information">Do you have information about Laryngoscopy and nasolarynoscopy</Question>
-			<Answer></Answer>
+			<Answer>Laryngoscopy is an exam of the back of your throat, including your voice box (larynx). Your voice box contains your vocal cords and allows you to speak.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

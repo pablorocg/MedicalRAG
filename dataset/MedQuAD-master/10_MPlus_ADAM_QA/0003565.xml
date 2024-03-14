@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003565" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007346.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Shoulder CT scan</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003565-1" qtype="information">Do you have information about Shoulder CT scan</Question>
-			<Answer></Answer>
+			<Answer>A computed tomography (CT) scan of the shoulder is an imaging method that uses x-rays to create cross-sectional pictures of the shoulder.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

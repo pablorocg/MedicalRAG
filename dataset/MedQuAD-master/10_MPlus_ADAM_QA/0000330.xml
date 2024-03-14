@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000330" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000121.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Aspiration pneumonia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,35 +24,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000330-1" qtype="information">What is (are) Aspiration pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Pneumonia is inflammation (swelling) and infection of the lungs or large airways. Aspiration pneumonia occurs when food or liquid is breathed into the airways or lungs, instead of being swallowed.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000330-2" qtype="causes">What causes Aspiration pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Risk factors for breathing in ( aspiration ) of foreign material into the lungs are: Being less alert due to medicines, illness, surgery, or other reasons,  Coma , Drinking large amounts of alcohol, Taking illicit drugs (such as opioids) which make you less alert, Receiving medicine to put you into a deep sleep for surgery ( general anesthesia ), Old age, Poor gag reflex in people who are not alert (unconscious or semi-conscious) after a stroke or brain injury,  Problems with swallowing , Eating or being fed when not upright,  Being hospitalized can increase the risk for this condition. Materials that may be breathed into the lungs include: Saliva, Vomit, Liquids, Foods,  The type of bacteria that causes the pneumonia depends on: Your health, Where you live (at home or in a long-term nursing facility, for example), Whether you were recently hospitalized, Your recent antibiotic use, Whether your immune system is weakened, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000330-3" qtype="symptoms">What are the symptoms of Aspiration pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include any of the following: Chest pain, Coughing up foul-smelling, greenish or dark phlegm (sputum), or phlegm that contains pus or blood,  Fatigue , 
+   Fever
+   ,  Shortness of breath ,  Wheezing ,  Breath odor , 
+   Excessive sweating
+   , Problems swallowing , Confusion, Seeing food or tube feed material (if being fed artificially) in your sputum, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000330-4" qtype="exams and tests">How to diagnose Aspiration pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will use a stethoscope to listen for crackles or abnormal breath sounds in your chest. Tapping on your chest wall (percussion) helps the provider listen and feel for abnormal sounds in your chest. If pneumonia is suspected, your provider will likely order a  chest x-ray . The following tests also may help diagnose this condition: Arterial blood gas ,  Blood culture ,  Bronchoscopy &#160;(uses a special scope to view the lung airways) in some cases, Complete blood count ( CBC ), 
+   X-rays or  CT scan  of the chest,  Sputum culture , Swallowing tests , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000330-5" qtype="treatment">What are the treatments for Aspiration pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Some people may need to be hospitalized. Treatment depends on how severe the pneumonia is and how ill the person is before the aspiration (chronic illness). Sometimes a  ventilator (breathing machine)  is needed to support breathing. You will likely receive antibiotics.  You may need to have your swallowing function tested. People who have trouble swallowing may need to use other feeding methods to reduce the risk of aspiration.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000330-6" qtype="outlook">What is the outlook for Aspiration pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Outcome depends on: The health of the person before getting pneumonia, The type of bacteria causing the pneumonia, How much of the lungs are involved ,  More severe infections may result in long-term damage to the lungs.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000330-7" qtype="complications">What are the complications of Aspiration pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Lung  abscess ,  Shock , Spread of infection to the bloodstream ( bacteremia ), Spread of infection to other areas of the body, Respiratory failure, Death , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000330-8" qtype="when to contact a medical professional">Do I need to see a doctor for Aspiration pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider, go to the emergency room, or call the local emergency number (such as 911) if you have: Chest pain, Chills, Fever, Shortness of breath, Bluish discoloration of the lips or tongue (cyanosis), Wheezing , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

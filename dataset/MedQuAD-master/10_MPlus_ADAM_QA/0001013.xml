@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001013" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000011.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>CPR - infant</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001013-1" qtype="information">Do you have information about CPR - infant</Question>
-			<Answer></Answer>
+			<Answer>CPR stands for cardiopulmonary resuscitation. It is a lifesaving procedure that is done when a baby's breathing or heartbeat has stopped. This may happen after drowning, suffocation, choking, or other injuries. CPR involves: Rescue breathing, which provides oxygen to the lungs., Chest compressions, which keep the blood flowing.,  Permanent brain damage or death can occur within minutes if a baby's blood flow stops. Therefore, you must continue these procedures until the infant's heartbeat and breathing return, or trained medical help arrives.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

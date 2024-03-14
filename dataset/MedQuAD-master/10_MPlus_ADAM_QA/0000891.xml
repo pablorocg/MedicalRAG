@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000891" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002613.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Codeine overdose</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,19 +19,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000891-1" qtype="information">What is (are) Codeine overdose ?</Question>
-			<Answer></Answer>
+			<Answer>Codeine is a drug in some prescription pain medicines. It is in the class of medicines known as opioids, which refers to any synthetic, semisynthetic, or natural drug that has morphine-like properties.  Codeine overdose occurs when someone takes more than the normal or recommended amount of this medicine. This can be by accident or on purpose. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with overdoses, call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000891-4" qtype="symptoms">What are the symptoms of Codeine overdose ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of a codeine overdose include: Bluish fingernails and lips &#160;(cyanosis), Breathing problems, such as slow and labored breathing, shallow breathing, no breathing, Cold, clammy skin, Confusion, Constipation, Drowsiness, fatigue, weakness, Flushing of the skin, Itching, Lightheadedness, dizziness, Loss of consciousness,  coma , Low blood pressure, weak pulse, Muscle twitches, Nausea and vomiting, Tiny pupils, Spasms of the stomach and intestines ,  Some of these symptoms may occur even when a person takes the correct amount of codeine. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000891-7" qtype="outlook">What is the outlook for Codeine overdose ?</Question>
-			<Answer></Answer>
+			<Answer>Codeine is usually combined with other medicines, such as acetaminophen. Because of this, the harmful effects of these other medicines must also be treated.  Shock , severe pneumonia, brain damage, and death are possible.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000891-8" qtype="outlook">What is the outlook for Codeine overdose ?</Question>
-			<Answer></Answer>
+			<Answer>Codeine is usually combined with other medicines, such as acetaminophen. Because of this, the harmful effects of these other medicines must also be treated.  Shock , severe pneumonia, brain damage, and death are possible.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

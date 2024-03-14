@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001746" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000326.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Glucagonoma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,35 +16,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001746-1" qtype="information">What is (are) Glucagonoma ?</Question>
-			<Answer></Answer>
+			<Answer>Glucagonoma is a very rare  tumor  of the islet cells of the pancreas, which leads to an excess of the hormone glucagon in the blood.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001746-2" qtype="causes">What causes Glucagonoma ?</Question>
-			<Answer></Answer>
+			<Answer>Glucagonoma is usually cancerous (malignant). The cancer tends to spread and get worse if not treated. This cancer affects some of the islet cells of the pancreas. As a result, the affected islet cells produce too much of the hormone glucagon. The cause is unknown. Genetic factors play a role in some cases. A family history of the syndrome multiple endocrine neoplasia type I ( MEN I ) is a risk factor.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001746-3" qtype="symptoms">What are the symptoms of Glucagonoma ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of glucagonoma may include any of the following: Glucose intolerance (body has problem breaking down sugars), High blood sugar (hyperglycemia), Diarrhea, Excessive thirst (due to high blood sugar), Frequent urination (due to high blood sugar), Increased appetite, Inflamed mouth and tongue, Nighttime (nocturnal) urination, Skin rash on face, abdomen, buttocks, or feet that comes and goes, and moves around, Weight loss ,  In most cases, the cancer has already spread to the liver when it is diagnosed.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001746-4" qtype="exams and tests">How to diagnose Glucagonoma ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam and ask about your medical history and symptoms. Tests that may be done include: CT scan of the abdomen ,  Glucagon level in the blood ,  Glucose level in the blood  , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001746-5" qtype="treatment">What are the treatments for Glucagonoma ?</Question>
-			<Answer></Answer>
+			<Answer>Surgery to remove the tumor before it spreads is usually recommended.  Chemotherapy  may be done when surgery is not possible.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001746-6" qtype="outlook">What is the outlook for Glucagonoma ?</Question>
-			<Answer></Answer>
+			<Answer>Approximately 60% of these tumors are cancerous. It is common for this cancer to spread to the liver. Only about 20% of people can be cured with surgery. If the tumor is only in the pancreas and surgery to remove it is successful, people have a 5-year survival rate of 85%.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001746-7" qtype="complications">What are the complications of Glucagonoma ?</Question>
-			<Answer></Answer>
+			<Answer>The cancer can spread to the liver. High blood sugar level can cause problems with  metabolism  and tissue damage.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001746-8" qtype="when to contact a medical professional">Do I need to see a doctor for Glucagonoma ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you notice symptoms of glucagonoma.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

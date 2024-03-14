@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003406" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002192.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Reye syndrome - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003406-1" qtype="information">What is (are) Reye syndrome - resources ?</Question>
-			<Answer></Answer>
+			<Answer>Information and support for people with&#160; Reye Syndrome  and their families can be found at: National Institute of Neurologic Disorders and Stroke --&#160; www.ninds.nih.gov/health-information/disorders/reyes-syndrome , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001745" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003716.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Glucagon blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001745-1" qtype="information">Do you have information about Glucagon blood test</Question>
-			<Answer></Answer>
+			<Answer>A glucagon blood test measures the amount of a hormone called glucagon in your blood. Glucagon is produced by specific cells in the pancreas. It helps control your blood sugar level by increasing blood sugar when it is too low.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

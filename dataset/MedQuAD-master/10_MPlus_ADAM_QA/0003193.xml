@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003193" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003778.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pregnancy ultrasound</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003193-1" qtype="information">Do you have information about Pregnancy ultrasound</Question>
-			<Answer></Answer>
+			<Answer>A pregnancy ultrasound is an imaging test that uses sound waves to create a picture of how a baby is developing in the womb. It is also used to check the female pelvic organs during pregnancy. Watch this video about: Ultrasound</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

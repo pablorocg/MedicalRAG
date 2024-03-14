@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003833" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000198.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Taking antacids</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003833-1" qtype="information">Do you have information about Taking antacids</Question>
-			<Answer></Answer>
+			<Answer>Antacids help to treat heartburn (indigestion). They work by neutralizing the stomach acid that causes heartburn. You can buy many antacids without a prescription. Liquid forms work faster, but you may prefer tablets because they are easy to use. All antacids work equally well, but they can cause different side effects. If you use antacids often and have problems with side effects, talk with your health care provider.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

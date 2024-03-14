@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002474" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000252.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lyme disease - what to ask your doctor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002474-1" qtype="information">What is (are) Lyme disease - what to ask your doctor ?</Question>
-			<Answer></Answer>
+			<Answer>Lyme disease  is a bacterial infection that is spread through the bite of one of several types of ticks. The disease can cause symptoms including bull's eye rash, chills, fever, headache, fatigue, and muscle pain. Below are some questions you may want to ask your health care provider about Lyme disease.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

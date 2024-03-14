@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001914" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000590.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hemolytic anemia caused by chemicals and toxins</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,11 +19,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001914-1" qtype="information">What is (are) Hemolytic anemia caused by chemicals and toxins ?</Question>
-			<Answer></Answer>
+			<Answer>Hemolytic anemia  caused by chemicals and toxins is a lack of red blood cells that occurs when red blood cells are excessively damaged by certain chemicals or toxins.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001914-2" qtype="causes">What causes Hemolytic anemia caused by chemicals and toxins ?</Question>
-			<Answer></Answer>
+			<Answer>Possible substances that can cause hemolytic anemia include: Anti-malaria drugs (quinine compounds), Arsenic, Dapsone,  Intravenous  water infusion (not half-normal saline or normal saline), Metals (chromium/chromates, platinum salts, nickel compounds, copper, lead, cis-platinum), Nitrites, Nitrofurantoin, Penicillin, Phenazopyridine (Pyridium), Rho immune globulin (WinRho), Ribavirin,  Snake bites  (some snake venom contains hemolytic  toxins ), Sulfonamides, Sulfones ,  This list is not all-inclusive.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

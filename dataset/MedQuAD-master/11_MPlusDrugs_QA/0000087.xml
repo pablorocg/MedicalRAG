@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000087" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a608017.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Arsenic Trioxide Injection</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,39 +7,44 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000087-1" qtype="important warning">What important warning or information should I know about Arsenic Trioxide Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Arsenic trioxide should be given only under the supervision of a doctor who has experience in treating people who have leukemia (cancer of the white blood cells). Arsenic trioxide may cause a serious or life-threatening group of symptoms called APL differentiation syndrome. Your doctor will monitor you carefully to see whether you are developing this syndrome. Your doctor may ask you to weigh yourself every day during the first few weeks of your treatment because weight gain is a symptom of APL differentiation syndrome. If you experience any of the following symptoms, call your doctor immediately: fever, weight gain, shortness of breath, labored breathing, chest pain, or cough. At the first sign that you are developing APL differentiation syndrome, your doctor will prescribe one or more medications to treat the syndrome. Arsenic trioxide may cause QT prolongation (heart muscles take longer to recharge between beats due to an electrical disturbance), which can cause serious or life-threatening heart rhythm problems. Before you begin treatment with arsenic trioxide, your doctor will order an electrocardiogram (ECG; test that records the electrical activity of the heart) and other tests to see whether you already have an electrical disturbance in your heart or are at higher than usual risk of developing this condition. Your doctor will monitor you closely and will order an ECG and other tests during your treatment with arsenic trioxide. Tell your doctor if you have or have ever had QT prolongation, heart failure, irregular heartbeat, or low levels of potassium or magnesium in your blood. Also tell your doctor if you are taking any of the following medications: amiodarone (Nexterone, Pacerone), amphotericin (Abelcet, Amphotec, Fungizone), cisapride (Propulsid), disopyramide (Norpace), diuretics ('water pills'), dofetilide (Tikosyn), erythromycin (E.E.S., E-Mycin, Erythrocin), moxifloxacin (Avelox), pimozide (Orap), procainamide (Procanbid, Pronestyl), quinidine (Quinidex), sotalol (Betapace, Betapace AF), sparfloxacin (Zagam), thioridazine (Mellaril), and ziprasidone (Geodon). Call your doctor immediately if you have an irregular or fast heartbeat or if you faint during your treatment with arsenic trioxide. Arsenic trioxide injection may cause encephalopathy (confusion, memory problems, and other difficulties caused by abnormal brain function). Tell your doctor if you drink or have ever drunk large amounts of alcohol, if you have malabsorption syndrome (problems absorbing food), a nutritional deficiency, or if you are taking furosemide (Lasix). If you experience any of the following symptoms, call your doctor immediately: confusion; loss of consciousness; seizures; speech changes; problems with coordination, balance, or walking; or visual changes such as decreased visual perception, reading problems, or double vision. Be sure that your family or caregiver knows which symptoms may be serious so they can seek treatment if you are unable to call on your own. Keep all appointments with your doctor and the laboratory. Your doctor will order certain tests before and after to check your body's response to arsenic trioxide. Talk to your doctor about the risks of taking arsenic trioxide.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000087-2" qtype="indication">Who should get Arsenic Trioxide Injection and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Arsenic trioxide is used in combination with tretinoin to treat acute promyelocytic leukemia (APL; a type of cancer in which there are too many immature blood cells in the blood and bone marrow) in certain people as a first treatment. It is also used to treat APL in certain people who have not been helped by other types of chemotherapy or whose condition has improved but then worsened following treatment with a retinoid and other types of chemotherapy treatment(s). Arsenic trioxide is in a class of medications called anti-neoplastics. It works by slowing or stopping the growth of cancer cells.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000087-3" qtype="usage">How should Arsenic Trioxide Injection be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Arsenic trioxide comes as a solution (liquid) to be injected into a vein by a doctor or nurse in a medical office or clinic. Arsenic trioxide is usually injected over 1 to 2 hours, but it may be injected over as long as 4 hours if side effects are experienced during the infusion. It is usually given once a day for a specific period of time.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000087-5" qtype="precautions">Are there safety concerns or special precautions about Arsenic Trioxide Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Before receiving arsenic trioxide injection, tell your doctor and pharmacist if you are allergic to arsenic trioxide, any other medications, or any of the ingredients in arsenic trioxide injection. Ask your pharmacist for a list of the ingredients., Tell your doctor and pharmacist what prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take while receiving arsenic trioxide injection. Your doctor may need to change the doses of your medications or monitor you carefully for side effects., tell your doctor if you have or have ever had liver or kidney disease., tell your doctor if you are pregnant, plan to become pregnant, or if you plan to father a child. If you are female, you will need to take a pregnancy test before starting treatment and use birth control to prevent pregnancy during your treatment and for at least 6 months after your final dose. If you are male, you and your female partner should use effective birth control while you are receiving arsenic trioxide injection and for 3 months after the final dose. If you or your partner becomes pregnant while using this medication, call your doctor. Talk to your doctor about using birth control to prevent pregnancy during your treatment with arsenic trioxide. Arsenic trioxide may harm the fetus., tell your doctor if you are breastfeeding. Your doctor will probably tell you not to breastfeed during your treatment and for 2 weeks after your final dose., you should know that this medication may decrease fertility in men. Talk to your doctor about the risks of receiving arsenic trioxide., if you are having surgery, including dental surgery, tell the doctor or dentist that you are receiving arsenic trioxide., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000087-6" qtype="dietary">What special dietary instructions should I follow with Arsenic Trioxide Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000087-7" qtype="side effects">What are the side effects or risks of Arsenic Trioxide Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Arsenic trioxide injection may cause an increase in your blood sugar. Call your doctor immediately if you have any of the following symptoms of hyperglycemia (high blood sugar):
+ extreme thirst, frequent urination, extreme hunger, weakness, blurred vision,  If high blood sugar is not treated, a serious, life-threatening condition called diabetic ketoacidosis could develop. Get medical care immediately if you have any of these symptoms:
+ dry mouth, nausea and vomiting, shortness of breath, breath that smells fruity, decreased consciousness,  Arsenic trioxide injection may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ excessive tiredness, dizziness, headache, diarrhea, swelling of the arms, hands, feet, ankles, or lower legs, rash, itching,  Some side effects can be serious. If you experience any of these symptoms or those listed in the IMPORTANT WARNING section, call your doctor immediately:
+ unusual bruising or bleeding, vomit that is bloody or that looks like coffee grounds, stool that is black and tarry or contains bright red blood, decreased urination, hives,  Arsenic trioxide injection may cause other side effects. Call your doctor if you have any unusual problems while receiving this medication. If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000087-8" qtype="emergency or overdose">What to do in case of emergency or overdose of Arsenic Trioxide Injection ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911. Symptoms of overdose may include:
+ seizures, muscle weakness, confusion, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000087-9" qtype="other information">What other information should I know about Arsenic Trioxide Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Ask your doctor or pharmacist if you have any questions about arsenic trioxide injection. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000087-10" qtype="brand names">What are the brand names of Arsenic Trioxide Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Trisenox &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003072" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003478.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Phosphorus blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003072-1" qtype="information">Do you have information about Phosphorus blood test</Question>
-			<Answer></Answer>
+			<Answer>The phosphorus blood test measures the amount of phosphate in the blood.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

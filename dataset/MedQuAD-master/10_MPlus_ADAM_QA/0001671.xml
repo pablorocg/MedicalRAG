@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001671" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003458.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Gamma-glutamyl transpeptidase (GGT) blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001671-1" qtype="information">Do you have information about Gamma-glutamyl transpeptidase (GGT) blood test</Question>
-			<Answer></Answer>
+			<Answer>The gamma-glutamyl transferase (GGT) blood test measures the level of the  enzyme  GGT in the blood.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

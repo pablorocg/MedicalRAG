@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002897" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000889.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ovarian cancer</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002897-1" qtype="information">What is (are) Ovarian cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Ovarian cancer is cancer that starts in the ovaries. The ovaries are the female reproductive organs that produce eggs.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002897-2" qtype="causes">What causes Ovarian cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Ovarian cancer is the fifth most common cancer among women. It causes more deaths than any other type of female reproductive organ cancer. The cause of ovarian cancer is unknown. Risks of developing ovarian cancer include any of the following:  The fewer children a woman has and the later in life she gives birth, the higher her risk for ovarian cancer., Women who have had breast cancer or have a family history of breast or ovarian cancer have an increased risk for ovarian cancer (due to defects in genes such as BRCA1 or BRCA2)., Women who take estrogen replacement only (not with progesterone) for 5 years or more may have a higher risk for ovarian cancer. Birth control pills, though, decrease the risk for ovarian cancer., Fertility medicine probably does not increase the risk for ovarian cancer., Older women are at highest risk of developing ovarian cancer. Most deaths from ovarian cancer occur in women age 55 and older. , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002897-3" qtype="symptoms">What are the symptoms of Ovarian cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Ovarian cancer symptoms are often vague. Women and their doctors often blame the symptoms on other, more common conditions. By the time the cancer is diagnosed, the tumor has often spread beyond the ovaries. See your doctor if you have the following symptoms on a daily basis for more than a few weeks: Bloating  or swelling in the belly area, Difficulty eating or  feeling full quickly  (early satiety), Pelvic or lower abdominal pain (area may feel "heavy"), Back pain, Swollen lymph nodes in groin ,  Other symptoms that can occur: Excessive hair growth  that is coarse and dark, Sudden urge to urinate, Needing to urinate more often than usual ( increased urinary frequency or urgency ), Constipation , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002897-4" qtype="exams and tests">How to diagnose Ovarian cancer ?</Question>
-			<Answer></Answer>
+			<Answer>A physical exam may often be normal. With advanced ovarian cancer, the doctor may find a swollen abdomen often due to accumulation of fluid ( ascites ).  A pelvic examination may reveal an ovarian or  abdominal mass . A  CA-125 blood test  is not considered a good screening test for ovarian cancer. But, it may be done if a woman has: Symptoms of ovarian cancer, Already been diagnosed with ovarian cancer to determine how well treatment is working ,  Other tests that may be done include: Complete blood count  and blood chemistry,  Pregnancy test (serum HCG) ,  CT  or  MRI  of the pelvis or abdomen,  Ultrasound  of the pelvis ,  Surgery, such as  laparoscopy  or exploratory  laparotomy , is often done to find the cause of symptoms. A  biopsy  will be done to help make the diagnosis. No lab or imaging test has ever been shown to be able to successfully screen for or diagnose ovarian cancer in its early stages, so no standard screening tests are recommended at this time.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002897-5" qtype="treatment">What are the treatments for Ovarian cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Surgery is used to treat all stages of ovarian cancer. For early stages, surgery may be the only treatment needed. Surgery may involve removing both ovaries and fallopian tubes, the uterus, or other structures in the belly or pelvis.The goals of surgery for ovarian cancer are: Sample normal appearing areas to see if the cancer has spread (staging), Remove any areas of tumor spread (debulking),  Chemotherapy  is used after surgery to treat any cancer that remains. Chemotherapy can also be used if the cancer comes back (relapses). Chemotherapy is typically given intravenously (through an IV). It can also be injected directly into the abdominal cavity (intraperitoneal, or IP). Radiation therapy  is rarely used to treat ovarian cancer. After surgery and chemotherapy, follow instructions about how often you should see your doctor and the tests you should have.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002897-6" qtype="support groups">Where to find support for people with Ovarian cancer ?</Question>
-			<Answer></Answer>
+			<Answer>You can ease the stress of illness by joining a  cancer support group . Sharing with others who have common experiences and problems can help you not feel alone.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002897-7" qtype="outlook">What is the outlook for Ovarian cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Ovarian cancer is rarely diagnosed in its early stages. It is usually quite advanced by the time diagnosis is made: Nearly one half of women live longer than 5 years after diagnosis, If diagnosis is made early in the disease and treatment is received before the cancer spreads outside the ovary, the 5-year survival rate is high , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002897-8" qtype="when to contact a medical professional">Do I need to see a doctor for Ovarian cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you are a woman 40 years or older who has not recently had a pelvic exam. Routine pelvic exams are recommended for all women 20 years or older. Request an appointment with your provider if you have symptoms of ovarian cancer.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002897-9" qtype="prevention">How to prevent Ovarian cancer ?</Question>
-			<Answer></Answer>
+			<Answer>There are no standard recommendations for screening women without symptoms (asymptomatic) for ovarian cancer. Pelvic ultrasound or a blood test, such as CA-125, have not been found to be effective and are not recommended. Genetic testing for the BRCA1 or BRCA2 , or other cancer-related genes, may be recommended for women at high risk for ovarian cancer. These are women who have a personal or family history of breast or ovarian cancer. Removing the ovaries and fallopian tubes and possibly the uterus in women who have a proven mutation in the BRCA1 or BRCA2 gene may reduce the risk of developing ovarian cancer. But, ovarian cancer may still develop in other areas of the pelvis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004226" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000228.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>VIPoma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,35 +22,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004226-1" qtype="information">What is (are) VIPoma ?</Question>
-			<Answer></Answer>
+			<Answer>VIPoma is a very rare cancer that usually grows from cells in the pancreas called islet cells.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004226-2" qtype="causes">What causes VIPoma ?</Question>
-			<Answer></Answer>
+			<Answer>VIPoma causes cells in the pancreas to produce a high level of a hormone called vasoactive intestinal peptide (VIP). This hormone increases secretions from the intestines. It also relaxes some of the smooth muscles in the gastrointestinal system. The exact cause of VIPomas is not known. VIPomas are often diagnosed in adults, most commonly around age 50. Women are more likely to be affected than men. This cancer is rare. Each year, only about 1 in 1 million people are diagnosed with a VIPoma.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004226-3" qtype="symptoms">What are the symptoms of VIPoma ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of VIPoma may include any of the following: Abdominal pain  and cramping, Diarrhea (watery, and often in large amounts),  Dehydration , Flushing or redness of the face, Muscle cramps due to low blood potassium ( hypokalemia ), Nausea, Weight loss , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004226-4" qtype="exams and tests">How to diagnose VIPoma ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam and ask about your medical history and symptoms. Tests that may be done include: Blood chemistry tests (basic or  comprehensive metabolic panel ),  CT scan of the abdomen ,  MRI of the abdomen , Stool examination for cause of diarrhea and  electrolyte  levels, VIP level in the blood , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004226-5" qtype="treatment">What are the treatments for VIPoma ?</Question>
-			<Answer></Answer>
+			<Answer>The first goal of treatment is to correct dehydration. Fluids are often given through a vein (intravenous fluids) to replace fluids lost through diarrhea. The next goal is to slow the diarrhea. Medicines can help control diarrhea. One such medicine is octreotide. It is a manmade form of a natural hormone that blocks the action of VIP. The best chance of a cure is surgery to remove the tumor. If the tumor has not spread to other organs, surgery can often cure the condition.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004226-6" qtype="outlook">What is the outlook for VIPoma ?</Question>
-			<Answer></Answer>
+			<Answer>Surgery can usually cure VIPomas. But, in one third to one half of people, the tumor has spread by the time of diagnosis and cannot be cured. However, it grows fairly slowly, and its effects can be often controlled by octreotide.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004226-7" qtype="complications">What are the complications of VIPoma ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Cancer spread (metastases), Cardiac arrest from low blood potassium level, Dehydration , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004226-8" qtype="when to contact a medical professional">Do I need to see a doctor for VIPoma ?</Question>
-			<Answer></Answer>
+			<Answer>If you have watery diarrhea for more than 2 to 3 days, contact your provider.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

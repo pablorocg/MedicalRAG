@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004138" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000142.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Urine drainage bags</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004138-1" qtype="information">Do you have information about Urine drainage bags</Question>
-			<Answer></Answer>
+			<Answer>Urine drainage bags collect urine. Your bag will attach to a  catheter  (tube) that is inside your bladder. You may have a catheter and urine drainage bag because you have  urinary incontinence  (leakage), urinary retention (not being able to urinate), surgery that made a catheter necessary, or another health problem.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

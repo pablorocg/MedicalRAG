@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003733" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003132.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Stools - foul smelling</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003733-1" qtype="information">Do you have information about Stools - foul smelling</Question>
-			<Answer></Answer>
+			<Answer>Foul-smelling stools are stools with a very bad odor. They very often have to do with what you eat, but may be a sign of a medical condition.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

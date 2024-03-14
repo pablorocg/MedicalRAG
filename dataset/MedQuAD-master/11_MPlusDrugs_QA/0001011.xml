@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001011" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a692025.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Pravastatin</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,43 +7,45 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001011-1" qtype="indication">Who should get Pravastatin and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Pravastatin is used together with diet, weight-loss, and exercise to reduce the risk of heart attack and stroke and to decrease the chance that heart surgery will be needed in people who have heart disease or who are at risk of developing heart disease. Pravastatin is also used to reduce the amount of fatty substances such as low-density lipoprotein (LDL) cholesterol ('bad cholesterol') and triglycerides in the blood and to increase the amount of high-density lipoprotein (HDL) cholesterol ('good cholesterol') in the blood. Pravastatin is in a class of medications called HMG-CoA reductase inhibitors (statins). It works by slowing the production of cholesterol in the body to decrease the amount of cholesterol that may build up on the walls of the arteries and block blood flow to the heart, brain, and other parts of the body. Accumulation of cholesterol and fats along the walls of your arteries (a process known as atherosclerosis) decreases blood flow and, therefore, the oxygen supply to your heart, brain, and other parts of your body. Lowering your blood level of cholesterol and fats with pravastatin has been shown to prevent heart disease, angina (chest pain), strokes, and heart attacks.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001011-2" qtype="usage">How should Pravastatin be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Pravastatin comes as a tablet to take by mouth. It is usually taken once a day with or without food. Take pravastatin at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take pravastatin exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor. Your doctor may start you on a low dose of pravastatin and gradually increase your dose, not more than once every 4 weeks. Continue to take pravastatin even if you feel well. Do not stop taking pravastatin without talking to your doctor.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001011-4" qtype="precautions">Are there safety concerns or special precautions about Pravastatin ?</Question>
-			<Answer></Answer>
+			<Answer>Before taking pravastatin, tell your doctor and pharmacist if you are allergic to pravastatin, any other medications, or any of the ingredients in pravastatin tablets. Ask your pharmacist for a list of the ingredients., tell your doctor and pharmacist what prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take. Be sure to mention any of the following: antacids; antifungals such as fluconazole (Diflucan) and ketoconazole (Nizoral); boceprevir (Victrelis); cimetidine (Tagamet); clarithromycin (Biaxin); colchicine (Colcrys); cyclosporine (Neoral, Sandimmune); digoxin (Lanoxin); diltiazem (Cardizem, Cartia, Taztia, Tiazac); erythromycin (E.E.S., E-Mycin, Erythrocin); other cholesterol-lowering medications such as fenofibrate (Tricor), gemfibrozil (Lopid), and niacin (nicotinic acid, Niacor, Niaspan); ritonavir (Norvir) taken with darunavir (Prezista); spironolactone (Aldactone); verapamil (Calan, Covera, Verelan); and warfarin (Coumadin). Your doctor may need to change the doses of your medications or monitor you carefully for side effects. Other medications may also interact with pravastatin, so be sure to tell your doctor about all the medications you are taking, even those that do not appear on this list., if you are taking cholestyramine (Questran) or colestipol (Colestid), take them 4 hours before or 1 hour after pravastatin., tell your doctor if you have liver disease. Your doctor will order laboratory tests to see how well your liver is working even if you do not think you have liver disease. Your doctor will probably tell you not to take pravastatin if you have liver disease or if the tests show that you may be developing liver disease., tell your doctor if you drink more than two alcoholic beverages per day, if you are 65 years of age or older, if you have ever had liver disease or if you have or have ever had low blood pressure, muscle aches or weakness, seizures, or thyroid or kidney disease., tell your doctor if you are pregnant or plan to become pregnant. You should not become pregnant while you are taking pravastatin. Talk to your doctor about birth control methods that you can use during your treatment. If you become pregnant while taking pravastatin, stop taking pravastatin and call your doctor immediately. Pravastatin may harm the fetus., do not breastfeed while you are taking this medication., if you are having surgery, including dental surgery, tell the doctor or dentist that you are taking pravastatin. If you are hospitalized due to serious injury or infection, tell the doctor who treats you that you are taking pravastatin., ask your doctor about the safe use of alcoholic beverages while you are taking pravastatin. Alcohol can increase the risk of serious side effects., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001011-5" qtype="dietary">What special dietary instructions should I follow with Pravastatin ?</Question>
-			<Answer></Answer>
+			<Answer>Eat a low-fat, low-cholesterol diet. Be sure to follow all exercise and dietary recommendations made by your doctor or dietitian. You can also visit the National Cholesterol Education Program (NCEP) website for additional dietary information at  http://www.nhlbi.nih.gov/health/public/heart/chol/chol_tlc.pdf .</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001011-6" qtype="forget a dose">What should I do if I forget a dose of Pravastatin ?</Question>
-			<Answer></Answer>
+			<Answer>Take the missed dose as soon as you remember it. However, if it is almost time for the next dose, skip the missed dose and continue the regular dosing schedule. Do not take a double dose to make up for a missed one.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001011-7" qtype="side effects">What are the side effects or risks of Pravastatin ?</Question>
-			<Answer></Answer>
+			<Answer>Pravastatin may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ heartburn, headache, memory loss or forgetfulness, confusion,  Some side effects can be serious. If you experience any of the following side effects, call your doctor immediately or get emergency medical help:
+ muscle pain, tenderness, or weakness, lack of energy, fever, yellowing of the skin or eyes, pain in the upper right part of the stomach, nausea, extreme tiredness , weakness, unusual bleeding or bruising , dark colored urine, loss of appetite, flu-like symptoms, rash, hives , itching, difficulty breathing or swallowing, swelling of the face, throat, tongue, lips, eyes, hands, feet, ankles, or lower legs, hoarseness,  Pravastatin may cause other side effects. Call your doctor if you have any unusual problems while taking this medication. If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001011-8" qtype="storage and disposal">What should I know about storage and disposal of Pravastatin ?</Question>
-			<Answer></Answer>
+			<Answer>Keep this medication in the container it came in, tightly closed, and out of reach of children. Store it at room temperature and away from excess heat and moisture (not in the bathroom). It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001011-9" qtype="emergency or overdose">What to do in case of emergency or overdose of Pravastatin ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0001011-10" qtype="other information">What other information should I know about Pravastatin ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor and the laboratory. Your doctor may order lab tests during your treatment, especially if you develop symptoms of liver damage. Before having any laboratory test, tell your doctor and the laboratory personnel that you are taking pravastatin. Do not let anyone else take your medication. Ask your pharmacist any questions you have about refilling your prescription. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="11">
 			<Question qid="0001011-11" qtype="brand names">What are the brand names of Pravastatin ?</Question>
-			<Answer></Answer>
+			<Answer>Pravachol &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

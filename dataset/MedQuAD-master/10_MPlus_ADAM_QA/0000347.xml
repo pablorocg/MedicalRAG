@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000347" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001394.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ataxia - telangiectasia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,43 +19,43 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000347-1" qtype="information">What is (are) Ataxia - telangiectasia ?</Question>
-			<Answer></Answer>
+			<Answer>Ataxia-telangiectasia is a rare childhood disease. It affects the brain and other parts of the body. Ataxia refers to uncoordinated movements, such as walking. Telangiectasias are enlarged blood vessels (capillaries) just below the surface of the skin. Telangiectasias appear as tiny, red, spider-like blood vessels.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000347-2" qtype="causes">What causes Ataxia - telangiectasia ?</Question>
-			<Answer></Answer>
+			<Answer>Ataxia-telangiectasia is inherited. This means it is passed down through families. It is an  autosomal recessive  trait. Both parents must provide a copy of a nonworking gene for the child to have symptoms of the disorder. The disease results from a variant in the  ATM  gene. This gene provides instructions for making a protein that helps control the rate at which cells grow and divide. Defects in this gene can lead to abnormal cell death in many sites of the body, including the part of the brain that helps coordinate movement. Boys and girls are equally affected.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000347-3" qtype="symptoms">What are the symptoms of Ataxia - telangiectasia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Decreased coordination of movements (ataxia) in late childhood that can include ataxic gait (cerebellar  ataxia ), jerky gait, unsteadiness , Decreasing mental development, slows or stops after age 10 to 12, Delayed walking, Discoloration of skin areas exposed to sunlight, Discoloration of skin (coffee-with-milk-colored spots), Enlarged blood vessels in skin of nose, ears, and inside of the elbow and knee, Enlarged blood vessels in the whites of the eyes, Jerky or abnormal eye movements ( nystagmus ) late in the disease, Premature graying of the hair, Seizures, Sensitivity to radiation, including x-rays, Severe respiratory infections that keep coming back (recurring) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000347-4" qtype="exams and tests">How to diagnose Ataxia - telangiectasia ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam. The exam may show signs of the following: Tonsils, lymph nodes, and spleen below normal size, Decreased to absent deep tendon reflexes, Delayed or absent physical and sexual development,  Growth failure , Mask-like face, Multiple skin coloring and texture changes ,  Possible tests include: Alpha fetoprotein ,  B and T cell screen ,  Carcinoembryonic antigen , Genetic testing to look for changes in the ATM gene, Glucose tolerance test, Serum immunoglobulin levels (IgE, IgA), X-ray or CT scan to look at the size of the thymus gland , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000347-5" qtype="treatment">What are the treatments for Ataxia - telangiectasia ?</Question>
-			<Answer></Answer>
+			<Answer>There is no specific treatment for ataxia-telangiectasia. Treatment is directed at specific symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000347-6" qtype="support groups">Where to find support for people with Ataxia - telangiectasia ?</Question>
-			<Answer></Answer>
+			<Answer>More information and support for people with ataxia-telangiectasia condition and their families can be found at: Ataxia Telangiectasia Children's Project:  www.atcp.org , National Ataxia Foundation (NAF):  www.ataxia.org , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000347-7" qtype="outlook">What is the outlook for Ataxia - telangiectasia ?</Question>
-			<Answer></Answer>
+			<Answer>Early death is common, but life expectancy varies.  Because people with this condition are very sensitive to radiation, they should never be given radiation therapy, and no unnecessary x-rays should be done.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000347-8" qtype="complications">What are the complications of Ataxia - telangiectasia ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Cancer, such as  lymphoma ,  Diabetes ,  Kyphosis , Progressive movement disorder that leads to wheelchair use,  Scoliosis , Severe, recurrent  lung infections , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000347-9" qtype="when to contact a medical professional">Do I need to see a doctor for Ataxia - telangiectasia ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if your child develops symptoms of this disorder.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000347-10" qtype="prevention">How to prevent Ataxia - telangiectasia ?</Question>
-			<Answer></Answer>
+			<Answer>Couples with a family history of this condition who are considering pregnancy may consider genetic counseling. Parents of a child with this disorder may have a slight increased risk for cancer. They should have genetic counseling and increased cancer screenings.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

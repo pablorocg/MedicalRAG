@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001412" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003649.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Eosinophil count - absolute</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001412-1" qtype="information">Do you have information about Eosinophil count - absolute</Question>
-			<Answer></Answer>
+			<Answer>An absolute eosinophil count is a blood test that measures the number of one type of white blood cells called eosinophils. Eosinophils become active when you have certain allergic diseases, infections, and other medical conditions.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

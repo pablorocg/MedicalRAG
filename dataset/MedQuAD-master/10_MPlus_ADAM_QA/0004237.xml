@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004237" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003396.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Visual acuity test</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,11 +21,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004237-1" qtype="information">What is (are) Visual acuity test ?</Question>
-			<Answer></Answer>
+			<Answer>The visual acuity test is used to determine the smallest letters you can read on a standardized chart (Snellen chart) or a card held 20 feet (6 meters) away. Special charts are used when testing at distances shorter than 20 feet (6 meters). Some Snellen charts are actually video monitors showing letters or images.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004237-8" qtype="susceptibility">Who is at risk for Visual acuity test? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004333" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003337.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>X-ray</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004333-1" qtype="information">Do you have information about X-ray</Question>
-			<Answer></Answer>
+			<Answer>X-rays are a type of electromagnetic radiation, just like visible light.  An x-ray machine sends individual x-ray waves through the body. The images are recorded on a computer or film. Structures that are dense (such as bone) will block most of the x-ray waves, and will appear white. , Metal and contrast media (special dye used to highlight areas of the body) will also appear white. , Structures containing air will be black, and muscle, fat, and fluid will appear as shades of gray., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

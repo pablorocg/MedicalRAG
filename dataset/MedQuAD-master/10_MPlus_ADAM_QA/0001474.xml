@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001474" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001630.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Eustachian tube patency</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001474-1" qtype="information">Do you have information about Eustachian tube patency</Question>
-			<Answer></Answer>
+			<Answer>Eustachian tube patency refers to how much the eustachian tube is open. The eustachian tube runs between the middle ear and the throat. It controls the pressure behind the eardrum in the middle ear space. This helps keep the middle ear free of fluid. The eustachian tube is normally open, or patent. However, some conditions can increase pressure in the ear such as: Ear infections , Upper respiratory infections,  Altitude changes ,  These can cause the eustachian tube to become blocked.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

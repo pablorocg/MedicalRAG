@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002754" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000659.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Neck dissection - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002754-1" qtype="information">Do you have information about Neck dissection - discharge</Question>
-			<Answer></Answer>
+			<Answer>
+
+ 
+Neck dissection is surgery to remove the lymph nodes in your neck. Cells from cancers in the mouth or throat can travel in the lymph fluid and get trapped in your lymph nodes. The lymph nodes are removed to prevent cancer from spreading to other parts of your body.
+</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000284" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003814.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Aortic angiography</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000284-1" qtype="information">Do you have information about Aortic angiography</Question>
-			<Answer></Answer>
+			<Answer>Aortic angiography is a procedure that uses a special dye and x-rays to see how blood flows through the aorta. The aorta is the major artery. It carries blood out of the heart, and through your abdomen or belly. Angiography uses  x-rays  and a special dye to see the insides of the arteries. Arteries are blood vessels that carry blood away from the heart.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

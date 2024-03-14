@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003709" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000377.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Stay active and exercise - arthritis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003709-1" qtype="information">What is (are) Stay active and exercise - arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>When you have arthritis, being active is good for your overall health and sense of well-being. Exercise keeps your muscles strong and increases your range of motion. (This is how much you can bend and flex your joints). Tired, weak muscles add to the pain and stiffness of arthritis. Exercise can also help increase your metabolism and avoid weight gain which is worse for arthritic joints.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

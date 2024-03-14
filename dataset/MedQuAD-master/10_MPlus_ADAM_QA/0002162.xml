@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002162" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002387.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Incidence</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002162-1" qtype="information">Do you have information about Incidence</Question>
-			<Answer></Answer>
+			<Answer>Incidence is the number of new cases of a condition, symptom, death, or injury that develop during a specific time period, such as a year. Incidence shows the likelihood that a person in a certain population will be newly affected by that condition in a specific period of time.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

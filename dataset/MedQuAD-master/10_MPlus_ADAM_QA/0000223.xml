@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000223" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001107.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Angina</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000223-1" qtype="information">What is (are) Angina ?</Question>
-			<Answer></Answer>
+			<Answer>Angina is a type of  chest discomfort or pain  due to poor blood flow through the blood vessels (coronary vessels) of the heart muscle (myocardium). Some patients have symptoms other than classic angina when there is poor blood flow to the heart which may be called their &#8220;anginal equivalent.&#8221; Examples include shortness of breath, back, jaw or arm pain. There are different types of angina: Stable angina ,  Unstable angina ,  Variant angina ,  Get medical help right away if you have new, unexplained chest pain or pressure. If you have had angina before, call your health care provider.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

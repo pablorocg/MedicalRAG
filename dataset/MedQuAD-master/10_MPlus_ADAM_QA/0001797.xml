@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001797" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000592.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hairy cell leukemia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001797-1" qtype="information">What is (are) Hairy cell leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>Hairy cell leukemia (HCL) is an unusual cancer of the blood. It affects B lymphocyte cells, a type of white blood cell.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001797-2" qtype="causes">What causes Hairy cell leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>HCL is caused by the abnormal growth of B cells. The cells look "hairy" under the microscope because they have fine projections extending from their surface. HCL usually leads to a low number of normal blood cells. The cause of this disease is unknown. Certain genetic changes (mutations) in the cancer cells may be the cause. It affects men more often than women. The average age of diagnosis is 55.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001797-3" qtype="symptoms">What are the symptoms of Hairy cell leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of HCL may include any of the following: Easy bruising or bleeding, Heavy sweating (especially at night), 
+   Fatigue and weakness
+   , Feeling full after eating only a small amount, Recurrent infections and fevers, Pain or fullness in the upper left belly (enlarged spleen),  Swollen lymph glands , Weight loss , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001797-4" qtype="exams and tests">How to diagnose Hairy cell leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>During a physical exam, the health care provider may be able to feel a  swollen spleen  or liver. An  abdominal CT scan  or ultrasound may be done to evaluate this swelling. Blood tests that may be done include: Complete blood count  (CBC) to check low levels of white and red blood cells, as well as  platelets ., Blood tests and a  bone marrow biopsy  to check for hairy cells., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001797-5" qtype="treatment">What are the treatments for Hairy cell leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment may not be needed for the early stages of this disease. Some people may need an occasional blood transfusion. If treatment is needed because of very low blood counts, chemotherapy drugs can be used.  In most cases,  chemotherapy  can relieve the symptoms for many years. When the signs and symptoms go away, you are said to be in remission. Removing the spleen  may improve blood counts, but is unlikely to cure the disease. Antibiotics can be used to treat infections. People with low blood counts may receive growth factors and, possibly, transfusions.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001797-6" qtype="outlook">What is the outlook for Hairy cell leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>Most people with HCL can expect to live 10 years or longer after diagnosis and treatment.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001797-7" qtype="complications">What are the complications of Hairy cell leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>The low blood counts caused by hairy cell leukemia can lead to: Infections, Fatigue, Excessive bleeding, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001797-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hairy cell leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if you have major bleeding. Also call if you have signs of infection, such as a persistent  fever ,  cough , or  general ill feeling .</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001797-9" qtype="prevention">How to prevent Hairy cell leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known way to prevent this disease.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

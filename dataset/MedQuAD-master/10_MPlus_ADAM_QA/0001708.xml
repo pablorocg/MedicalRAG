@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001708" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002432.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Genetically engineered foods</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001708-1" qtype="information">Do you have information about Genetically engineered foods</Question>
-			<Answer></Answer>
+			<Answer>Genetically engineered (GE) foods have had their DNA changed using genes from other plants or animals. Scientists take the gene for a desired trait in one plant or animal, and they insert that gene into a cell of another plant or animal.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000576" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003069.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Breathing - slowed or stopped</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000576-1" qtype="information">Do you have information about Breathing - slowed or stopped</Question>
-			<Answer></Answer>
+			<Answer>Breathing that stops from any cause is called apnea. Slowed breathing is called bradypnea. Labored or difficult breathing is known as dyspnea.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

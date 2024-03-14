@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001139" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007631.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Dental crowns</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001139-1" qtype="information">Do you have information about Dental crowns</Question>
-			<Answer></Answer>
+			<Answer>A crown is a tooth-shaped cap that replaces your normal tooth above the gum line. You may need a crown to support a weak tooth or to make your tooth look better.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003651" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000720.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Snoring - adults</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003651-1" qtype="information">Do you have information about Snoring - adults</Question>
-			<Answer></Answer>
+			<Answer>Snoring is a loud, hoarse, harsh breathing sound that occurs during sleep. Snoring is common in adults.  Loud, frequent snoring can make it hard for both you and your bed partner to get enough sleep. Sometimes snoring can be a sign of a sleep disorder called sleep apnea. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

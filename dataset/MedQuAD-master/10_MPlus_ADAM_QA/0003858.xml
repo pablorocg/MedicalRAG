@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003858" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003050.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Taste - impaired</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003858-1" qtype="information">Do you have information about Taste - impaired</Question>
-			<Answer></Answer>
+			<Answer>Taste impairment means there is a problem with your sense of taste. Problems range from distorted taste to a complete loss of the sense of taste. A complete inability to taste is rare.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

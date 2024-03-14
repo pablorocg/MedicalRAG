@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000660" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000824.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cancer and lymph nodes</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,11 +19,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000660-1" qtype="information">What is (are) Cancer and lymph nodes ?</Question>
-			<Answer></Answer>
+			<Answer>Lymph nodes are part of the  lymph system , a network of organs, nodes, ducts, and vessels that support the body's immune system.  Nodes are little filters throughout the body. The cells in lymph nodes help to destroy infection, such as from a virus, or harmful cells, such as cancer cells.  Cancer can spread to or start in lymph nodes.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000660-6" qtype="when to contact a medical professional">Do I need to see a doctor for Cancer and lymph nodes ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

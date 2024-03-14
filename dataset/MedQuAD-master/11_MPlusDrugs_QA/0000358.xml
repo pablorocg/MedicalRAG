@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000358" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a606003.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Diclofenac Ophthalmic</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,43 +7,46 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000358-1" qtype="indication">Who should get Diclofenac Ophthalmic and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Diclofenac ophthalmic solution is used to treat eye pain, redness, and swelling in patients who are recovering from cataract surgery (procedure to treat clouding of the lens in the eye). Diclofenac ophthalmic solution is also used to temporarily relieve eye pain and sensitivity to light in patients who are recovering from corneal refractive surgery (surgery to improve vision). Diclofenac is in a class of medications called nonsteroidal anti-inflammatory drugs. It works by stopping the production of certain natural substances that cause pain and swelling.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000358-2" qtype="usage">How should Diclofenac Ophthalmic be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Ophthalmic diclofenac comes as a solution (liquid) to instill in the eyes. When diclofenac eye drops are used by patients recovering from cataract surgery, they are usually instilled 4 times a day beginning 24 hours after surgery and continuing for 2 weeks after surgery. When diclofenac eye drops are used by patients undergoing corneal refractive surgery, they are usually instilled one hour before the surgery, 15 minutes after the surgery, and then four times a day for up to 3 days. Use diclofenac eye drops at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use diclofenac eye drops exactly as directed. Do not use more or less of them or use them more often than prescribed by your doctor. To use the eye drops, follow these steps:
+ Wash your hands thoroughly with soap and water., Check the dropper tip to make sure that it is not chipped or cracked., Avoid touching the dropper tip against your eye or anything else; eyedrops and droppers must be kept clean., While tilting your head back, pull down the lower lid of your eye with your index finger to form a pocket., Hold the dropper (tip down) with the other hand, as close to the eye as possible without touching it., Brace the remaining fingers of that hand against your face., While looking up, gently squeeze the dropper so that a single drop falls into the pocket made by the lower eyelid. Remove your index finger from the lower eyelid., Close your eye for 2 to 3 minutes and tip your head down as though looking at the floor. Try not to blink or squeeze your eyelids., Place a finger on the tear duct and apply gentle pressure., Wipe any excess liquid from your face with a tissue., If you are to use more than one drop in the same eye, wait at least 5 minutes before instilling the next drop., Replace and tighten the cap on the dropper bottle. Do not wipe or rinse the dropper tip., Wash your hands to remove any medication., </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000358-4" qtype="precautions">Are there safety concerns or special precautions about Diclofenac Ophthalmic ?</Question>
-			<Answer></Answer>
+			<Answer>Before using diclofenac eye drops, tell your doctor and pharmacist if you are allergic to diclofenac; aspirin or other NSAIDs such as nepafenac (Nevanac), ibuprofen (Advil, Motrin), naproxen (Aleve, Naprosyn), or tolmetin (Tolectin); any other medications, or any of the ingredients in diclofenac eye drops. Ask your pharmacist for a list of the ingredients., tell your doctor and pharmacist what prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take. Be sure to mention any of the following: anticoagulants ('blood thinners') such as warfarin (Coumadin); aspirin and other NSAIDs such as ibuprofen (Advil, Motrin) and naproxen (Aleve, Naprosyn); and corticosteroid eye drops such as dexamethasone (Maxidex), fluorometholone (FML), hydrocortisone (in Cortisporin), loteprednol (Alrex, Lotemax), medrysone (HMS), prednisolone (Pred Mild), and rimexolone (Vexol). Your doctor may need to change the doses of your medications or monitor you carefully for side effects., tell your doctor if you have or have ever had diabetes, rheumatoid arthritis (arthritis caused by swelling of the lining of the joints), dry eye disease or any eye problem other than cataracts, or any condition that causes you to bleed easily., tell your doctor if you are pregnant, especially if you are in the last few months of your pregnancy, you plan to become pregnant, or you are breast-feeding. If you become pregnant while using diclofenac eye drops, call your doctor., tell your doctor if you wear soft contact lenses. Your doctor may tell you that you should not wear your contact lenses during your treatment with diclofenac eye drops., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000358-5" qtype="dietary">What special dietary instructions should I follow with Diclofenac Ophthalmic ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000358-6" qtype="forget a dose">What should I do if I forget a dose of Diclofenac Ophthalmic ?</Question>
-			<Answer></Answer>
+			<Answer>Instill the missed dose as soon as you remember it. However, if it is almost time for the next dose, skip the missed dose and continue your regular dosing schedule. Do not instill extra eye drops to make up for a missed dose.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000358-7" qtype="side effects">What are the side effects or risks of Diclofenac Ophthalmic ?</Question>
-			<Answer></Answer>
+			<Answer>Diclofenac eye drops may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ burning or stinging in your eye just after you instill the drops, itchy eyes, stomach pain, upset stomach, vomiting, difficulty falling asleep or staying asleep, headache, dizziness, fever, chills, runny nose,  Some side effects can be serious. If you experience any of these symptoms, call your doctor immediately:
+ swelling of the eyes or face, red or bloody eyes, eye pain, feeling that something is in the eye, sensitivity to light, blurred or decreased vision, teary eyes, eye discharge or crusting,  Diclofenac eye drops may cause other side effects. Call your doctor if you have any unusual problems while using this medication. If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000358-8" qtype="storage and disposal">What should I know about storage and disposal of Diclofenac Ophthalmic ?</Question>
-			<Answer></Answer>
+			<Answer>Keep this medication in the container it came in, tightly closed, and out of reach of children. Store it at room temperature and away from excess heat and moisture (not in the bathroom). Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program. It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000358-9" qtype="emergency or overdose">What to do in case of emergency or overdose of Diclofenac Ophthalmic ?</Question>
-			<Answer></Answer>
+			<Answer>If someone swallows diclofenac eye drops, call your local poison control center at 1-800-222-1222. Give the victim plenty of liquids to drink. If the victim has collapsed or is not breathing, call local emergency services at 911.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000358-10" qtype="other information">What other information should I know about Diclofenac Ophthalmic ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor. Do not let anyone else use your medication. Ask your pharmacist any questions you have about refilling your prescription. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="11">
 			<Question qid="0000358-11" qtype="brand names">What are the brand names of Diclofenac Ophthalmic ?</Question>
-			<Answer></Answer>
+			<Answer>Voltaren &#174;  Eye Drops, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

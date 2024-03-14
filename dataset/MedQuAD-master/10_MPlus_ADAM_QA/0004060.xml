@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004060" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000426.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Turning patients over in bed</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004060-1" qtype="information">Do you have information about Turning patients over in bed</Question>
-			<Answer></Answer>
+			<Answer>Changing a patient's position in bed every 2 hours helps keep blood flowing. This helps the skin stay healthy and prevents  bedsores . Turning a patient is a good time to check the skin for redness and sores.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

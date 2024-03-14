@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000546" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007432.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Breast biopsy - ultrasound</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000546-1" qtype="information">Do you have information about Breast biopsy - ultrasound</Question>
-			<Answer></Answer>
+			<Answer>A breast biopsy is the removal of breast tissue to examine it for signs of  breast cancer  or other disorders. There are several types of breast biopsies, including  stereotactic , ultrasound-guided, MRI-guided, and  excisional breast biopsy . This article focuses on needle-based, ultrasound-guided breast biopsies. This procedure is usually done by a radiologist or surgeon.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003525" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000430.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Septic arthritis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,35 +22,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003525-1" qtype="information">What is (are) Septic arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Septic arthritis is  inflammation of a joint  due to a bacterial or fungal infection. Septic arthritis that is due to the bacteria that cause  gonorrhea , has different symptoms and is called  gonococcal arthritis .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003525-2" qtype="causes">What causes Septic arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Septic arthritis develops when bacteria or other tiny disease-causing organisms (microorganisms) spread through the blood to a joint. It may also occur when the joint is directly infected with a microorganism from an injury or during surgery. Joints that are commonly affected are the knee and hip. Most cases of  acute  septic arthritis are caused by staphylococcus or streptococcus bacteria. Chronic septic arthritis (which is less common) is caused by organisms including  Mycobacterium tuberculosis  and  Candida albicans . The following conditions increase your risk for septic arthritis: Artificial joint implants, Bacterial infection somewhere else in your body, Presence of bacteria in your blood,  Chronic  illness or disease (such as diabetes,  rheumatoid arthritis , and  sickle cell disease ), Intravenous (IV) or injection drug use, Medicines that suppress your immune system, Recent joint injury, Recent joint arthroscopy or other joint surgery ,  Septic arthritis may be seen at any age. In children, it occurs most often in those younger than 3 years. The hip is often the site of infection in infants. Most cases are caused by the bacteria group B streptococcus. Another common cause is  Haemophilus influenza , especially if the child has not been vaccinated for this bacterium.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003525-3" qtype="symptoms">What are the symptoms of Septic arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms usually come on quickly. There is a fever and  joint swelling  that is usually in just one joint. There is also intense joint pain, which gets worse with movement. Symptoms in newborns or infants: Crying when infected joint is moved (for example, during diaper changes), Fever, Not able to move the limb with the infected joint (pseudoparalysis), Fussiness ,  Symptoms in children and adults: Not able to move the limb with the infected joint (pseudoparalysis), Severe joint pain, Joint swelling, Joint redness, Fever ,  Chills may occur, but are uncommon.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003525-4" qtype="exams and tests">How to diagnose Septic arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will examine the joint and ask about the symptoms. Tests that may be done include: Aspiration of joint fluid  for cell count, examination of crystals under the microscope, Gram stain, and  culture ,  Blood culture ,  X-ray of affected joint , Blood work including  complete blood count  (CBC), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003525-5" qtype="treatment">What are the treatments for Septic arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Antibiotics are used to treat the infection. Resting, raising the joint above heart level, and using cool compresses may help relieve pain. After the joint starts to heal, exercising it can help speed up recovery. If joint (synovial) fluid builds up quickly due to the infection, a needle may be inserted into the joint to withdraw ( aspirate ) the fluid. Severe cases may need surgery to drain the infected joint fluid and irrigate (wash) the joint.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003525-6" qtype="outlook">What is the outlook for Septic arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Recovery is good with prompt antibiotic treatment. If treatment is delayed, permanent joint damage may result.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003525-7" qtype="when to contact a medical professional">Do I need to see a doctor for Septic arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact for an appointment with your provider if you develop symptoms of septic arthritis.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003525-8" qtype="prevention">How to prevent Septic arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Preventive (prophylactic) antibiotics may be helpful for people at high risk.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

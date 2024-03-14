@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001973" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000332.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>High blood sugar</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,19 +20,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001973-1" qtype="information">What is (are) High blood sugar ?</Question>
-			<Answer></Answer>
+			<Answer>High blood sugar is also called high blood glucose, or hyperglycemia. High blood sugar almost always happens in people who have diabetes. High blood sugar occurs when: Your body makes too little insulin., Your body does not respond to the signal insulin is sending. ,  Insulin is a hormone that helps the body move glucose (sugar) from the blood into muscle or fat, where it is stored for later use when energy is needed. Sometimes high blood sugar occurs due to stress from surgery, infection, trauma, or medicines. After the stress is over, blood sugar returns to normal.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001973-2" qtype="symptoms">What are the symptoms of High blood sugar ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of high blood sugar can include: Being very thirsty or having a dry mouth, Having blurry vision, Having dry skin, Feeling weak or tired, Needing to urinate a lot, or needing to get up more often than usual at night to urinate ,  You may have other, more serious symptoms if your blood sugar becomes very high or remains high for a long time. Over time, high blood sugar weakens your immune system and makes it more likely for you to get infections.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001973-3" qtype="information">What is (are) High blood sugar ?</Question>
-			<Answer></Answer>
+			<Answer>High blood sugar is also called high blood glucose, or hyperglycemia. High blood sugar almost always happens in people who have diabetes. High blood sugar occurs when: Your body makes too little insulin., Your body does not respond to the signal insulin is sending. ,  Insulin is a hormone that helps the body move glucose (sugar) from the blood into muscle or fat, where it is stored for later use when energy is needed. Sometimes high blood sugar occurs due to stress from surgery, infection, trauma, or medicines. After the stress is over, blood sugar returns to normal.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001973-4" qtype="prevention">How to prevent High blood sugar ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

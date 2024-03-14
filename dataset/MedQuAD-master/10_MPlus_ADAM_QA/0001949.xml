@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001949" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001456.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hereditary angioedema</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -26,39 +25,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001949-1" qtype="information">What is (are) Hereditary angioedema ?</Question>
-			<Answer></Answer>
+			<Answer>Hereditary angioedema is a rare but serious problem with the immune system. The problem is passed down through families. It causes swelling, particularly of the face and airways, and abdominal cramping.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001949-2" qtype="causes">What causes Hereditary angioedema ?</Question>
-			<Answer></Answer>
+			<Answer>Angioedema is swelling that is similar to  hives , but the swelling is under the skin instead of on the surface.  Hereditary angioedema (HAE) is caused by a low level or improper function of a protein called the C1 inhibitor. It affects the blood vessels. An HAE attack can result in rapid swelling of the hands, feet, limbs, face, intestinal tract, larynx (voicebox), or trachea (windpipe). Attacks of swelling can become more severe in late childhood and adolescence. There is usually a family history of the condition. But relatives may be unaware of previous cases, which may have been reported as an unexpected, sudden, and premature death of a parent, aunt, uncle, or grandparent. Dental procedures, sickness (including colds and the flu), and surgery may trigger HAE attacks.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001949-3" qtype="symptoms">What are the symptoms of Hereditary angioedema ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Airway blockage  -- involves throat swelling and sudden hoarseness, Repeat episodes of abdominal cramping without obvious cause,  Swelling  in the hands, arms, legs, lips, eyes, tongue, throat, or genitals, Swelling of the intestines -- can be severe and lead to abdominal cramping, vomiting, dehydration, diarrhea, pain, and occasionally  shock , A non-itchy, red rash, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001949-4" qtype="exams and tests">How to diagnose Hereditary angioedema ?</Question>
-			<Answer></Answer>
+			<Answer>Blood tests (ideally done during an episode): C1 inhibitor function,  C1 inhibitor level ,  Complement component 4 , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001949-5" qtype="treatment">What are the treatments for Hereditary angioedema ?</Question>
-			<Answer></Answer>
+			<Answer>Antihistamines and other treatments used for angioedema do not work well for HAE. Epinephrine should be used in life-threatening reactions. There are a number of newer FDA-approved treatments for HAE. Some are given through a vein (IV) and can be used at home. Others are given as an injection under the skin by the patient. Choice of which agent may be based on the age of the person and where the symptoms occur., Names of new drugs for treatment of HAE include Cinryze, Berinert, Ruconest, Kalbitor, and Firazyr.,  Before these newer medicines became available, androgen medicines such as danazol, were used to reduce the frequency and severity of attacks. These medicines help the body make more C1 inhibitor. However, many women have serious side effects from these medicines. They can also not be used in children. Once an attack occurs, treatment includes pain relief and fluids given through a vein by an intravenous (IV) line. Helicobacter pylori , a type of bacteria found in the stomach, can trigger abdominal attacks. Antibiotics to treat the bacteria help decrease abdominal attacks.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001949-6" qtype="outlook">What is the outlook for Hereditary angioedema ?</Question>
-			<Answer></Answer>
+			<Answer>HAE can be life threatening and treatment options are limited. How well a person does depends on the specific symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001949-7" qtype="complications">What are the complications of Hereditary angioedema ?</Question>
-			<Answer></Answer>
+			<Answer>Swelling of the airways may be deadly.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001949-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hereditary angioedema ?</Question>
-			<Answer></Answer>
+			<Answer>Contact or visit your health care provider if you are considering having children and have a family history of this condition. Also call if you have symptoms of HAE. Swelling of the airway is a life-threatening emergency. If you are having difficulty breathing due to swelling, seek immediate medical attention.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001949-9" qtype="prevention">How to prevent Hereditary angioedema ?</Question>
-			<Answer></Answer>
+			<Answer>Genetic counseling may be helpful for prospective parents with a family history of HAE.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

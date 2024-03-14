@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001739" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007305.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Glomerular filtration rate</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,11 +21,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001739-1" qtype="information">What is (are) Glomerular filtration rate ?</Question>
-			<Answer></Answer>
+			<Answer>Glomerular filtration rate (GFR) is a test used to check how well the kidneys are working. Specifically, it estimates how much blood passes through the glomeruli each minute. Glomeruli are the tiny filters in the kidneys that filter waste from the blood.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001739-8" qtype="susceptibility">Who is at risk for Glomerular filtration rate? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

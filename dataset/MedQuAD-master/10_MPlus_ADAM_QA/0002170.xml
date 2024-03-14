@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002170" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000625.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Inducing labor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002170-1" qtype="information">What is (are) Inducing labor ?</Question>
-			<Answer></Answer>
+			<Answer>Inducing labor refers to different treatments used to start your labor. Treatments can also be used to augment your labor, which means to move it at a faster pace. The goal is to bring on contractions or to make them stronger. Several methods can help get labor started.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

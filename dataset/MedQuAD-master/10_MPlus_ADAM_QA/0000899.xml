@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000899" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000753.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Colic and crying - self-care</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,15 +16,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000899-1" qtype="information">What is (are) Colic and crying - self-care ?</Question>
-			<Answer></Answer>
+			<Answer>If your baby cries for longer than 3 hours a day, your baby might have colic. Colic is not caused by another medical problem. Many babies go through a fussy period. Some cry more than others. If you have a baby with colic, you are not alone. One in five babies cry enough that people call them colicky. Colic usually starts when babies are about 3 weeks old. It gets worse when they are between 4 and 6 weeks old. Most of the time, colicky babies get better after they are 6 weeks old, and are completely fine by the time they are 12 weeks old.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000899-2" qtype="symptoms">What are the symptoms of Colic and crying - self-care ?</Question>
-			<Answer></Answer>
+			<Answer>Colic normally begins at about the same time every day. Babies with colic are usually fussier in the evenings. Colic symptoms often begin suddenly. Your baby's hands may be in a fist. The legs may curl up and the belly may seem swollen. Crying may last for minutes to hours. Crying often calms down when your baby is tired or when gas or stool is passed. Even though colicky babies look like they have belly pain, they eat well and gain weight normally.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000899-3" qtype="causes">What causes Colic and crying - self-care ?</Question>
-			<Answer></Answer>
+			<Answer>Causes of colic may include any of the following: Pain from gas, Hunger, Overfeeding, Baby cannot tolerate certain foods or certain proteins in breast milk or formula, Sensitivity to certain stimuli, Emotions such as fear, frustration, or even excitement ,  People around your baby may also seem worried, anxious, or depressed. Often the exact cause of colic is unknown.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003766" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000430.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Subcutaneous (SQ) injections</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003766-1" qtype="information">Do you have information about Subcutaneous (SQ) injections</Question>
-			<Answer></Answer>
+			<Answer>Subcutaneous (SQ or Sub-Q) injection means the injection is given in the fatty tissue, just under the skin.  An SQ injection is the best way to give yourself certain medicines, including:  Insulin, Blood-thinners, Fertility drugs, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

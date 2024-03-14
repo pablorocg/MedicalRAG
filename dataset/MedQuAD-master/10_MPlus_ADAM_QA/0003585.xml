@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003585" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000746.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Simple, heart-smart substitutions</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003585-1" qtype="information">What is (are) Simple, heart-smart substitutions ?</Question>
-			<Answer></Answer>
+			<Answer>A  heart-healthy diet  is low in  saturated fat . Saturated fat can increase your bad cholesterol and clog your arteries. A heart-healthy diet also limits foods with added salt, which can increase your blood pressure, and added sugar, which can lead to weight gain. Making heart-healthy food choices does not mean you have to sacrifice flavor. The key is to include more fresh produce, whole grains, beans, lean meats, fish, and low-fat dairy.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

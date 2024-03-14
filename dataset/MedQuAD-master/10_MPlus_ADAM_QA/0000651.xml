@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000651" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000224.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Campylobacter infection</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,35 +22,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000651-1" qtype="information">What is (are) Campylobacter infection ?</Question>
-			<Answer></Answer>
+			<Answer>Campylobacter infection occurs in the small intestine from bacteria called  Campylobacter jejuni . It is a type of food poisoning.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000651-2" qtype="causes">What causes Campylobacter infection ?</Question>
-			<Answer></Answer>
+			<Answer>Campylobacter enteritis is a common cause of  intestinal infection . These bacteria are also one of the many causes of traveler's diarrhea or  food poisoning . People most often get infected by eating or drinking food or water that contains the bacteria. The most commonly contaminated foods are raw poultry, fresh produce,&#160;and unpasteurized milk.  A person can also be infected by close contact with infected people or animals. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000651-3" qtype="symptoms">What are the symptoms of Campylobacter infection ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms start 2&#160;to 4 days after being exposed to the bacteria. They often last a week, and may include: Cramping  abdominal pain ,  Fever ,  Nausea and vomiting , Watery  diarrhea , sometimes bloody, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000651-4" qtype="exams and tests">How to diagnose Campylobacter infection ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam. These tests may be done: Complete blood count (CBC)  with differential, Stool sample testing for white blood cells,  Stool culture  for  Campylobacter jejuni , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000651-5" qtype="treatment">What are the treatments for Campylobacter infection ?</Question>
-			<Answer></Answer>
+			<Answer>The infection almost always goes away on its own, and often does not need to be treated with antibiotics. Severe symptoms may improve with antibiotics. The goal is to make you feel better and avoid  dehydration . Dehydration is a loss of water and other fluids in the body. These things may help you feel better if you have diarrhea: Drink 8 to 10 glasses of clear fluids every day. For people who do not have diabetes, fluids should contain salts and simple sugars. For those with diabetes, sugar-free fluids should be used with careful monitoring of blood sugars., Drink at least 1 cup (240 milliliters) of liquid every time you have a loose bowel movement., Eat small meals throughout the day instead of 3 big meals., Eat some salty foods, such as pretzels, soup, and sports drinks. (If you have kidney disease, check with your doctor before increasing your intake of these foods)., Eat some high-potassium foods, such as bananas, potatoes without the skin, and watered-down fruit juices. (If you have kidney disease, check with your doctor before increasing your intake of these foods)., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000651-6" qtype="outlook">What is the outlook for Campylobacter infection ?</Question>
-			<Answer></Answer>
+			<Answer>Most people recover in 5 to 8 days. When a person's immune system does not work well, the Campylobacter infection may spread to the heart or brain. Other problems that may occur are: A form of arthritis called  reactive arthritis , A nerve problem called  Guillain-Barr&#233; syndrome , which leads to paralysis (rare), </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000651-7" qtype="when to contact a medical professional">Do I need to see a doctor for Campylobacter infection ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if:  You have diarrhea that continues for more than 1 week or it comes back., There is  blood in your stools ., You have diarrhea and are unable to drink fluids due to nausea or vomiting., You have a fever above 101 &#176; F (38.3&#176;C), and diarrhea., You have signs of dehydration (thirst, dizziness, lightheadedness), You have recently traveled to a foreign country and developed diarrhea., Your diarrhea does not get better in 5 days, or it gets worse., You have severe abdominal pain. ,  Contact your provider if your child has: A fever above 100.4&#176;F (37.7&#176;C) and diarrhea, Diarrhea that does not get better in 2 days, or it gets worse, Been vomiting for more than 12 hours (in a newborn under 3 months you should call as soon as vomiting or diarrhea begins), Reduced urine output, sunken eyes, sticky or dry mouth, or no tears when crying , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000651-8" qtype="prevention">How to prevent Campylobacter infection ?</Question>
-			<Answer></Answer>
+			<Answer>Learning how to  prevent food poisoning  can reduce the risk for this infection.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

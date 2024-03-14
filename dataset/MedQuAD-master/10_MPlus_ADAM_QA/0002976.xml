@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002976" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003320.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pectus excavatum</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,23 +24,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002976-1" qtype="information">What is (are) Pectus excavatum ?</Question>
-			<Answer></Answer>
+			<Answer>Pectus excavatum is a medical term that describes an abnormal formation of the rib cage that gives the chest a caved-in or sunken appearance.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002976-2" qtype="considerations">What to do for Pectus excavatum ?</Question>
-			<Answer></Answer>
+			<Answer>Pectus excavatum occurs while a baby is developing in the womb. It can also develop in a baby after birth. The condition can be mild or severe. Pectus excavatum is due to too much growth of the connective tissue that joins the ribs to the breastbone (sternum). This causes the sternum to grow inward. As a result, there is a depression in the chest over the sternum, which may appear quite deep. If the condition is severe, the heart and lungs can be affected. Also, the way the chest looks may cause emotional stress for the child.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002976-3" qtype="causes">What causes Pectus excavatum ?</Question>
-			<Answer></Answer>
+			<Answer>The exact cause is unknown. Pectus excavatum may occur by itself. Or there may be a family history of the condition. Other medical problems linked with this condition include: Marfan syndrome  (connective tissue disease),  Noonan syndrome  (disorder that causes many parts of the body to develop abnormally), Poland syndrome (disorder that causes muscles to not develop fully or at all),  Rickets  (softening and weakening of the bones),  Scoliosis  (abnormal curving of the spine) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002976-4" qtype="when to contact a medical professional">Do I need to see a doctor for Pectus excavatum ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you or your child has any of the following: Chest pain, Trouble breathing, Feelings of depression or anger about the condition, Feeling tired, even when not being active, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002976-5" qtype="outlook">What is the outlook for Pectus excavatum ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

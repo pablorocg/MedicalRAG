@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003159" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007336.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Portacaval shunting</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003159-1" qtype="information">Do you have information about Portacaval shunting</Question>
-			<Answer></Answer>
+			<Answer>Portacaval shunting is a surgical treatment to create new connections between two blood vessels in your abdomen. It is used to treat people who have severe liver problems.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

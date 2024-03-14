@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000054" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/790.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Lactobacillus</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,58 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000054-1" qtype="information">What is Lactobacillus ?</Question>
-			<Answer></Answer>
+			<Answer>Lactobacillus acidophilus (L. acidophilus) is a type of probiotic ("good" bacteria) found in the human gut, mouth, and vagina, and also in certain foods. 
+
+
+"Good" bacteria such as L. acidophilus can help break down food, absorb nutrients, and fight off "bad" organisms that might cause diseases. L. acidophilus is sometimes added to fermented foods like yogurt and is also found in probiotic supplements. 
+
+
+People commonly use L. acidophilus for diarrhea from antibiotics, as well as irritable bowel syndrome (IBS), overgrowth of bacteria in the vagina, and an infection caused by the bacteria Helicobacter pylori (H. pylori). It is also used for acne, hay fever, eczema, and many other conditions, but there is no good scientific evidence to support many of these other uses. There is also no good evidence to support using L. acidophilus COVID-19. 
+
+Don't confuse L. acidophilus with other probiotics, or with fermented food products such as fermented milk, kefir, or yogurt. These are not the same. Also note that the Lactobacillus genus was split up into 25 different genera in April 2020. Some other species' names changed, but L. acidophilus remained the same. 
+
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000054-2" qtype="how effective is it">How effective is Lactobacillus ?</Question>
-			<Answer></Answer>
+			<Answer>Natural Medicines Comprehensive Database  rates effectiveness based on scientific evidence according to the following scale:  Effective, Likely Effective, Possibly Effective, Possibly Ineffective, Likely Ineffective, Ineffective, and Insufficient Evidence to Rate. The effectiveness ratings for  LACTOBACILLUS ACIDOPHILUS  are as follows: Possibly effective for... 
+ Diarrhea in people taking antibiotics (antibiotic-associated diarrhea) . Taking L. acidophilus by mouth, alone or with other probiotics, seems to reduce the risk of diarrhea while taking antibiotics., 
+
+ Overgrowth of bacteria in the vagina . L. acidophilus vaginal suppositories and vaginal tablets might help treat this condition. But it's not clear if taking L. acidophilus by mouth helps., 
+
+ A digestive tract infection that can lead to ulcers (Helicobacter pylori or H. pylori) . Taking L. acidophilus by mouth along with most standard drug therapies helps treat stomach ulcers caused by H. pylori., 
+
+ A long-term disorder of the large intestines that causes stomach pain (irritable bowel syndrome or IBS) . Taking L. acidophilus by mouth with other probiotics seems to reduce symptoms of IBS. , 
+ 
+ Possibly ineffective for... 
+ Prone to allergies and allergic reactions (atopic disease) . Taking L. acidophilus by mouth during pregnancy, while breastfeeding, or giving it to newborns doesn't seem to prevent allergies in children., 
+ 
+
+There is interest in using L. acidophilus for a number of other purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000054-3" qtype="how does it work">What is the action of Lactobacillus and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000054-4" qtype="precautions">Are there safety concerns or special precautions about Lactobacillus ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000054-5" qtype="interactions with medications">Are there interactions between Lactobacillus and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Moderate Be cautious with this combination. Antibiotic drugs L. acidophilus is a type of friendly bacteria. Antibiotics are used to reduce harmful bacteria in the body. Taking antibiotics along with L. acidophilus can reduce the effects of L. acidophilus. To avoid this interaction, take L. acidophilus products at least 2 hours before or after antibiotics.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000054-6" qtype="interactions with herbs and supplements">Are there interactions between Lactobacillus and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with herbs and supplements.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000054-7" qtype="interactions with foods">Are there interactions between Lactobacillus and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000054-8" qtype="dose">What is the dosage of Lactobacillus ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

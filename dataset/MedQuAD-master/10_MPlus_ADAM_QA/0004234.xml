@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004234" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003039.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Vision - night blindness</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,27 +21,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004234-1" qtype="information">What is (are) Vision - night blindness ?</Question>
-			<Answer></Answer>
+			<Answer>Night blindness is poor vision at night or in dim light.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004234-2" qtype="considerations">What to do for Vision - night blindness ?</Question>
-			<Answer></Answer>
+			<Answer>Night blindness may cause problems with driving at night. People with night blindness often have trouble seeing stars on a clear night or walking through a dark room, such as a movie theater. These problems are often worse just after a person is in a brightly lit environment. Milder cases may just have a harder time adapting to darkness.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004234-3" qtype="causes">What causes Vision - night blindness ?</Question>
-			<Answer></Answer>
+			<Answer>The causes of night blindness fall into 2 categories: treatable and nontreatable. Treatable causes: Cataracts ,  Nearsightedness , Use of certain drugs,  Vitamin A deficiency  (rare),  Nontreatable causes: Birth defects, particularly congenital stationary night blindness,  Retinitis pigmentosa , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004234-4" qtype="considerations">What to do for Vision - night blindness ?</Question>
-			<Answer></Answer>
+			<Answer>Night blindness may cause problems with driving at night. People with night blindness often have trouble seeing stars on a clear night or walking through a dark room, such as a movie theater. These problems are often worse just after a person is in a brightly lit environment. Milder cases may just have a harder time adapting to darkness.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004234-5" qtype="when to contact a medical professional">Do I need to see a doctor for Vision - night blindness ?</Question>
-			<Answer></Answer>
+			<Answer>It is important to have a complete eye exam to determine the cause, which may be treatable. Contact your eye doctor if symptoms of night blindness persist or significantly affect your life.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004234-6" qtype="outlook">What is the outlook for Vision - night blindness ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

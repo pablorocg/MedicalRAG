@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003978" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000153.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Total colectomy or proctocolectomy - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -24,7 +23,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003978-1" qtype="information">Do you have information about Total colectomy or proctocolectomy - discharge</Question>
-			<Answer></Answer>
+			<Answer>You had surgery to remove your large intestine. Your anus and rectum also may have been removed. You also may have had an  ileostomy . This article describes what to expect after surgery and how to take care of yourself at home.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

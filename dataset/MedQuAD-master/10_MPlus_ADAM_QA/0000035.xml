@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000035" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007314.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Absent pulmonary valve</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000035-1" qtype="information">What is (are) Absent pulmonary valve ?</Question>
-			<Answer></Answer>
+			<Answer>Absent pulmonary valve is a rare defect in which the pulmonary valve is either missing or poorly formed. Oxygen-poor blood flows through this valve from the heart to the lungs, where it picks up fresh oxygen. This condition is present at birth (congenital).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000035-2" qtype="causes">What causes Absent pulmonary valve ?</Question>
-			<Answer></Answer>
+			<Answer>Absent pulmonary valve occurs when the pulmonary valve does not form or develop properly while the baby is in the mother's womb. When present, it often occurs as part of a heart condition called  tetralogy of Fallot . It is found in about 3% to 6% of people who have tetralogy of Fallot. When the pulmonary valve is missing or does not work well, blood does not flow efficiently to the lungs to get enough oxygen. In most cases, there is also a hole between the left and right ventricles of the heart ( ventricular septal defect ). This defect will also lead to low-oxygen blood being pumped out to the body. The skin will have a blue appearance (cyanosis), because the body's blood contains a low amount of oxygen. Absent pulmonary valve also results in very enlarged (dilated) branch pulmonary arteries (the arteries that carry blood to the lungs to pick up oxygen). They can become so enlarged that they press on the tubes that bring the oxygen into the lungs (bronchi). This causes breathing problems. Other heart defects that can occur with absent pulmonary valve include: Abnormal tricuspid valve,  Atrial septal defect ,  Double outlet right ventricle , Ductus arteriosis, Endocardial cushion defect, Marfan syndrome,  Tricuspid atresia , Absent left pulmonary artery ,  Heart problems that occur with absent pulmonary valve may be due to defects in certain genes. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000035-3" qtype="symptoms">What are the symptoms of Absent pulmonary valve ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms can vary depending on which other defects the infant has, but may include: Blue coloring to the skin (cyanosis), Coughing, Failure to thrive, Poor appetite, Rapid breathing, Respiratory failure, Wheezing , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000035-4" qtype="exams and tests">How to diagnose Absent pulmonary valve ?</Question>
-			<Answer></Answer>
+			<Answer>Absent pulmonary valve may be diagnosed before the baby is born with a test that uses sound waves to create an image of the heart (echocardiogram). During an exam, the health care provider may hear a murmur in the infant's chest. Tests for absent pulmonary valve include: A test to measure the electrical activity of the heart (electrocardiogram),  Heart CT scan , Chest x-ray, Echocardiogram, Magnetic resonance imaging (MRI) of the heart , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000035-5" qtype="treatment">What are the treatments for Absent pulmonary valve ?</Question>
-			<Answer></Answer>
+			<Answer>Infants who have respiratory symptoms typically need surgery early. Infants without severe symptoms most often have surgery within the first 3 to 6 months of life or later. Depending on the type of other heart defects the infant has, surgery may involve: Closing the hole in the wall between the left and right ventricles of the heart (ventricular septal defect), Closing a blood vessel that connects the aorta to the pulmonary artery (ductus arteriosis), Enlarging the flow from the right ventricle to the lungs ,  Types of surgery for absent pulmonary valve include: Moving the pulmonary artery to the front of the aorta and away from the airways, Rebuilding the artery wall in the lungs to reduce pressure on the airways (pulmonary plication and reduction arterioplasty), Rebuilding the windpipe and breathing tubes to the lungs, Replacing the abnormal pulmonary valve with one taken from human or animal tissue ,  Infants with severe breathing symptoms may need to get oxygen or be placed on a breathing machine (ventilator) before and after surgery.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000035-6" qtype="outlook">What is the outlook for Absent pulmonary valve ?</Question>
-			<Answer></Answer>
+			<Answer>Without surgery, there may be a risk for serious consequences. In many cases, surgery can treat the condition and relieve symptoms. Outcomes are most often very good. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000035-7" qtype="complications">What are the complications of Absent pulmonary valve ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Brain infection (abscess), Lung collapse (atelectasis), Pneumonia, Right-sided heart failure, Stroke , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000035-8" qtype="when to contact a medical professional">Do I need to see a doctor for Absent pulmonary valve ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if your infant has symptoms of absent pulmonary valve. If you have a family history of heart defects, talk to your provider before or during pregnancy.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000035-9" qtype="prevention">How to prevent Absent pulmonary valve ?</Question>
-			<Answer></Answer>
+			<Answer>Although there is no way to prevent this condition, families may be evaluated to determine their risk for congenital defects.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

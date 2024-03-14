@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003981" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007239.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Total parenteral nutrition - infants</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003981-1" qtype="information">Do you have information about Total parenteral nutrition - infants</Question>
-			<Answer></Answer>
+			<Answer>Sick or premature newborns may be given TPN before starting other feedings. They may also have this type of feeding when they cannot absorb nutrients through the gastrointestinal tract for a long time. TPN delivers a mixture of fluid, electrolytes, sugars, amino acids (protein), vitamins, minerals, and often lipids (fats) into an infant's vein. TPN can be lifesaving for very small or very sick babies. It can provide a better level of nutrition than regular intravenous (IV) feedings, which provide only sugars and salts. Infants who get this type of feeding must be watched carefully to make sure they are getting the proper nutrition. Blood and urine tests help the health care team know what changes are needed.  
+HOW IS TPN GIVEN?
+ An IV line is often placed in a vein in the baby's hand, foot, or scalp. A large vein in the belly button (umbilical vein) may be used. Sometimes a longer IV, called a central line or  peripherally-inserted central catheter (PICC)  line, is used for long-term IV feedings.  
+WHAT ARE THE RISKS?
+ TPN is a major benefit for babies who cannot get nutrition in other ways. However, this type of feeding can result in abnormal levels of blood sugars, fats, or electrolytes. Problems can develop due to use of the TPN or IV lines. The line may move out of place or clots may form. A serious infection called sepsis is a possible complication of a central line IV. Infants who receive TPN will be closely monitored by the health care team.  Long-term use of TPN may lead to liver problems. Many children on TPN will have frequent laboratory evaluations to check protein levels in the blood and monitor electrolytes, kidney and liver function.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

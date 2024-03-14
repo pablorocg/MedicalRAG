@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003157" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003614.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Porphyrins - urine</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003157-1" qtype="information">Do you have information about Porphyrins - urine</Question>
-			<Answer></Answer>
+			<Answer>Porphyrins are natural chemicals in the body that help form many important substances in the body. One of these is hemoglobin, the protein in red blood cells that carries oxygen in the blood. Porphyrins can be measured in the urine or  blood . This article discusses the urine test.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

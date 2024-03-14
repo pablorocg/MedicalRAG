@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003539" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003352.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Serum herpes simplex antibodies</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003539-1" qtype="information">Do you have information about Serum herpes simplex antibodies</Question>
-			<Answer></Answer>
+			<Answer>Serum herpes simplex antibodies is a blood test that looks for antibodies to the herpes simplex virus (HSV), including HSV-1 and HSV-2. HSV-1 most often causes cold sores (oral herpes). HSV-2 most often causes genital herpes. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

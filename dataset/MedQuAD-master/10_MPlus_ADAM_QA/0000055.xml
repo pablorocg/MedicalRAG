@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000055" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001181.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Acidosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,39 +17,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000055-1" qtype="information">What is (are) Acidosis ?</Question>
-			<Answer></Answer>
+			<Answer>Acidosis is a condition in which there is too much acid in the body fluids. It is the opposite of  alkalosis  (a condition in which there is too much base in the body fluids).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000055-2" qtype="causes">What causes Acidosis ?</Question>
-			<Answer></Answer>
+			<Answer>The kidneys and lungs maintain the balance (proper pH level) of chemicals called acids and bases in the body. Acidosis occurs when acid builds up or when bicarbonate (a base) is lost. Acidosis is classified as either  respiratory  or  metabolic acidosis . Respiratory acidosis develops when there is too much carbon dioxide (an acid) in the body. This type of acidosis is usually caused when the body is unable to remove enough carbon dioxide through breathing. Other names for respiratory acidosis are hypercapnic acidosis and carbon dioxide acidosis. Causes of respiratory acidosis include: Chest deformities, such as  kyphosis , Chest injuries, Chest muscle weakness, Long-term (chronic) lung disease, Neuromuscular disorders, such as myasthenia gravis, amyotrophic lateral sclerosis or muscular dystrophy, Overuse of sedative drugs, causing decreased respiration, Acute lung disease, such as severe pneumonia or acute respiratory distress syndrome associated with severe medical illness ,  Metabolic acidosis develops when too much acid is produced in the body. It can also occur when the kidneys cannot remove enough acid from the body. There are several types of metabolic acidosis: Diabetic acidosis  (also called diabetic ketoacidosis and DKA) develops when substances called ketone bodies (which are acidic) build up during uncontrolled  diabetes  (usually type 1 diabetes)., Hyperchloremic acidosis is caused by the loss of too much sodium bicarbonate from the body, which can happen with severe diarrhea., Kidney disease (uremia,  distal renal tubular acidosis  or  proximal renal tubular acidosis )., Lactic acidosis., Poisoning by aspirin, ethylene glycol (found in antifreeze), or methanol., Severe  dehydration .,  Lactic acidosis  is a buildup of  lactic acid . Lactic acid is mainly produced in muscle cells and red blood cells. It forms when the body breaks down carbohydrates to use for energy when oxygen levels are low. This can be caused by: Cancer,  Carbon monoxide poisoning , Drinking too much alcohol, Exercising vigorously for a very long time, Liver failure, Low blood sugar (hypoglycemia), Medicines, such as salicylates, metformin, anti-retrovirals, MELAS (a very rare genetic mitochondrial disorder that affects energy production), Prolonged lack of oxygen from shock, heart failure, or severe anemia, Seizures,  Sepsis  -- severe illness due to infection with bacteria or other germs, Severe asthma,  Compensated acidosis occurs when the body returns the acid-base balance to near normal in cases of acidosis, but bicarbonate and carbon dioxide levels remain abnormal.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000055-3" qtype="symptoms">What are the symptoms of Acidosis ?</Question>
-			<Answer></Answer>
+			<Answer>Metabolic acidosis  symptoms depend on the underlying disease or condition. Metabolic acidosis itself causes rapid and deep breathing as your body tries to compensate for it. Confusion or lethargy may also occur. Severe metabolic acidosis can lead to shock or death. In some situations, metabolic acidosis can be a mild, ongoing (chronic) condition. Respiratory acidosis  symptoms can include: Confusion, Fatigue, Lethargy, Shortness of breath, Sleepiness, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000055-4" qtype="exams and tests">How to diagnose Acidosis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical examination and ask about your symptoms. These tests can help diagnose acidosis. They can also determine whether the cause is a breathing problem or a metabolic problem. Tests may include: Arterial or venous blood gas analysis ,  Basic metabolic panel  (group of blood tests that measure sodium and potassium levels, kidney function, and other chemicals and functions) to show whether the type of acidosis is metabolic or respiratory,  Blood ketones ,  Lactic acid test ,  Urine ketones ,  Urine pH ,  Other blood tests may be needed to determine the cause of the acidosis. Other tests that may be needed to determine the cause of the acidosis include: Chest x-ray, CT abdomen, Urinalysis, Urine pH, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000055-5" qtype="treatment">What are the treatments for Acidosis ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment is aimed at the health problem causing the acidosis. In some cases, sodium bicarbonate (the chemical in baking soda) may be given to reduce the acidity of the blood. Often, you will receive lots of fluids through your vein.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000055-6" qtype="outlook">What is the outlook for Acidosis ?</Question>
-			<Answer></Answer>
+			<Answer>Acidosis can be dangerous if untreated. Many cases respond well to treatment. The outlook will depend on the underlying disease causing the condition.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000055-7" qtype="complications">What are the complications of Acidosis ?</Question>
-			<Answer></Answer>
+			<Answer>Complications depend on the specific type of acidosis.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000055-8" qtype="when to contact a medical professional">Do I need to see a doctor for Acidosis ?</Question>
-			<Answer></Answer>
+			<Answer>All the types of acidosis will cause symptoms that require treatment by your provider.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000055-9" qtype="prevention">How to prevent Acidosis ?</Question>
-			<Answer></Answer>
+			<Answer>Prevention depends on the cause of the acidosis. Many causes of metabolic acidosis can be prevented, including diabetic ketoacidosis and some causes of lactic acidosis. Normally, people with healthy kidneys and lungs do not have serious acidosis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

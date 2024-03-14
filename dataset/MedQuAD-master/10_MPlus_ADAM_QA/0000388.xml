@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000388" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000254.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bacterial gastroenteritis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,35 +21,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000388-1" qtype="information">What is (are) Bacterial gastroenteritis ?</Question>
-			<Answer></Answer>
+			<Answer>Bacterial gastroenteritis occurs when there is an infection of your stomach and intestines. This is due to bacteria.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000388-2" qtype="causes">What causes Bacterial gastroenteritis ?</Question>
-			<Answer></Answer>
+			<Answer>Bacterial gastroenteritis can affect one person or a group of people who all ate the same food. It is commonly called food poisoning. It often occurs after eating at picnics, school cafeterias, large social gatherings, or restaurants. Your food may get infected in many ways: Meat or poultry may come into contact with bacteria when the animal is processed., Water that is used during growing or shipping may contain animal or human waste., Improper food handling or preparation may occur in grocery stores, restaurants, or homes.,  Food poisoning often occurs from eating or drinking: Food prepared by someone who did not wash their hands properly, Food prepared using unclean cooking utensils, cutting boards, or other tools, Dairy products or food containing mayonnaise (such as coleslaw or potato salad) that have been out of the refrigerator too long, Frozen or refrigerated foods that are not stored at the proper temperature or are not reheated properly, Raw shellfish such as oysters or clams, Raw fruits or vegetables that have not been washed well , Raw vegetable or fruit juices and dairy products (look for the word "pasteurized" to make sure the food is safe to eat or drink), Undercooked meats or eggs, Water from a well or stream, or city or town water that has not been treated,  Many different types of bacteria can cause bacterial gastroenteritis, including: Campylobacter jejuni ,  E coli ,  Salmonella ,  Shigella , Staphylococcus, Yersinia, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000388-3" qtype="symptoms">What are the symptoms of Bacterial gastroenteritis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms depend on the type of bacteria that caused the sickness. All types of food poisoning cause diarrhea. Other symptoms include: Abdominal cramps , Abdominal pain,  Bloody stools ,  Loss of appetite ,  Nausea  and vomiting, Fever, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000388-4" qtype="exams and tests">How to diagnose Bacterial gastroenteritis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will examine you for signs of food poisoning. These may include pain in the stomach and signs your body does not have as much water and fluids as it should (dehydration). Lab tests may be done on the food or a stool sample to find out what germ is causing your symptoms. However, these tests do not always show the cause of the diarrhea. Tests may also be done to look for white blood cells in the stool. This is a sign of infection.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000388-5" qtype="treatment">What are the treatments for Bacterial gastroenteritis ?</Question>
-			<Answer></Answer>
+			<Answer>You will most likely recover from the most common types of bacterial gastroenteritis in a couple of days. The goal is to make you feel better and avoid dehydration. Drinking enough fluids and learning what to eat will help ease symptoms. You may need to: Manage the diarrhea ,  Control nausea and vomiting , Get plenty of rest,  If you have diarrhea and are unable to drink or keep down fluids because of nausea or vomiting, you may need fluids through a vein (IV). Young children may be at extra risk of getting dehydrated. If you take diuretics ("water pills"), or ACE inhibitors for high blood pressure, talk to your provider. You may need to stop taking these medicines while you have diarrhea. Never stop or change your medicines without first talking to your provider. Antibiotics are not given very often for most common types of bacterial gastroenteritis. If diarrhea is very severe or you have a weak immune system, antibiotics may be needed. You can buy medicines at the drugstore that can help stop or slow diarrhea. Do not use these medicines without talking to your provider if you have: Bloody diarrhea, Severe diarrhea, Fever ,  Do not give these medicines to children.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000388-6" qtype="outlook">What is the outlook for Bacterial gastroenteritis ?</Question>
-			<Answer></Answer>
+			<Answer>Most people get better in a few days without treatment. Certain rare types of  E coli  can cause: Severe  anemia , Gastrointestinal bleeding, Kidney failure, </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000388-7" qtype="when to contact a medical professional">Do I need to see a doctor for Bacterial gastroenteritis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have: Blood or pus in your stools, or your stool is black, Diarrhea with a fever above 101&#176;F (38.33&#176;C) or 100.4&#176;F (38&#176;C) in children, Recently traveled to a foreign country and developed diarrhea, Stomach pain that does not go away after a bowel movement, Symptoms of dehydration (thirst, dizziness, lightheadedness),  Also contact your provider if: The diarrhea gets worse or does not get better in 2 days for an infant or child, or 5 days for adults, A child over 3 months old has been vomiting for more than 12 hours; in younger babies, call as soon as vomiting or diarrhea begins, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000388-8" qtype="prevention">How to prevent Bacterial gastroenteritis ?</Question>
-			<Answer></Answer>
+			<Answer>Take precautions to prevent food poisoning.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003040" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000651.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Peritonitis - secondary</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,35 +21,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003040-1" qtype="information">What is (are) Peritonitis - secondary ?</Question>
-			<Answer></Answer>
+			<Answer>The peritoneum is the thin tissue that lines the inner wall of the abdomen and covers most of the organs in the abdomen. Peritonitis is present when this tissue becomes inflamed or infected. Secondary peritonitis is when another condition is the cause.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003040-2" qtype="causes">What causes Peritonitis - secondary ?</Question>
-			<Answer></Answer>
+			<Answer>Secondary peritonitis has several major causes. Bacteria may enter the peritoneum through a hole (perforation) in an organ of the digestive tract. The hole may be caused by a ruptured appendix, stomach ulcer, or perforated colon. It may also come from an injury, such as a gunshot or knife wound or following the ingestion of a sharp foreign body.,  Bile  or chemicals released by the pancreas may leak into the abdominal cavity. This may be caused by  swelling and inflammation of the pancreas  called pancreatitis., Tubes or catheters placed into the abdomen may cause this problem. These include catheters for peritoneal dialysis, feeding tubes, and others.,  An infection of the bloodstream (sepsis) may lead to an infection in the abdomen also. This is a severe illness. This tissue may become infected when there is no clear cause. Necrotizing enterocolitis  occurs when the lining of the intestinal wall dies and can lead to peritonitis. This problem nearly always develops in an infant who is ill or born early.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003040-3" qtype="symptoms">What are the symptoms of Peritonitis - secondary ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Swollen abdomen &#160;when your belly area is bigger than usual,  Abdominal pain , Decreased appetite,  Fever ,  Low urine output , Nausea,  Thirst , Vomiting,  Note: There may be signs of  shock .</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003040-4" qtype="exams and tests">How to diagnose Peritonitis - secondary ?</Question>
-			<Answer></Answer>
+			<Answer>During a physical exam, the health care provider may notice abnormal  vital signs  with fever,  rapid heart rate  and breathing, low blood pressure, and a tender distended abdomen. Tests may include: Blood culture , Blood chemistry, including pancreatic enzymes, Complete blood count, Liver and kidney function tests, X-rays or CT scan,  Peritoneal fluid culture , Urinalysis , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003040-5" qtype="treatment">What are the treatments for Peritonitis - secondary ?</Question>
-			<Answer></Answer>
+			<Answer>Often, surgery is needed to remove or treat sources of infection. These may be an infected bowel, an inflamed appendix, or an  abscess  or perforated diverticulum, usually due to diverticulitis. General treatment includes: Antibiotics, Fluids through a vein (IV), Pain medicines, Tube through the nose into the stomach or intestine (nasogastric or NG tube) , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003040-6" qtype="outlook">What is the outlook for Peritonitis - secondary ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome can range from complete recovery to overwhelming infection and death. Factors that determine the outcome include: How long the symptoms were present before treatment began, The person's general health , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003040-7" qtype="complications">What are the complications of Peritonitis - secondary ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Abscess, Gangrene (dead) bowel requiring surgery, Intraperitoneal  adhesions  (a potential cause of future bowel blockage),  Septic shock , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003040-8" qtype="when to contact a medical professional">Do I need to see a doctor for Peritonitis - secondary ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have symptoms of  peritonitis . This is a serious condition. It needs emergency treatment in most cases.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

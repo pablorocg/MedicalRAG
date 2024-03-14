@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000600" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000769.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Brushing Your Childs Teeth</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000600-1" qtype="information">Do you have information about Brushing Your Childs Teeth</Question>
-			<Answer></Answer>
+			<Answer>Good oral health starts at a very young age. Taking care of your child's gums and teeth every day helps prevent tooth decay and gum disease. It also helps make it a regular habit for your child. Learn how to  care for your children's teeth and gums  starting when they are a newborn. When children get old enough, teach them how to brush their teeth on their own.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003215" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000130.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Preventing head injuries in children</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003215-1" qtype="information">What is (are) Preventing head injuries in children ?</Question>
-			<Answer></Answer>
+			<Answer>Although no child is injury proof, parents can take simple steps to keep their children from getting head injuries.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

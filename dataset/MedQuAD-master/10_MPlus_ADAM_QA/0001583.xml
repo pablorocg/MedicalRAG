@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001583" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003650.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Fibrinogen blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001583-1" qtype="information">Do you have information about Fibrinogen blood test</Question>
-			<Answer></Answer>
+			<Answer>Fibrinogen is a protein produced by the liver. This protein helps stop bleeding by helping blood clots to form. A blood test can be done to tell how much fibrinogen you have in the blood.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

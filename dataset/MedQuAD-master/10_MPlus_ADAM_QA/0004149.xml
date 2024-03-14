@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004149" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000450.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Use of restraints</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004149-1" qtype="information">Do you have information about Use of restraints</Question>
-			<Answer></Answer>
+			<Answer>Restraints in a medical setting are devices that limit a patient's movement. Restraints can help keep a person from getting hurt or doing harm to others, including their caregivers. They are used as a last resort. There are many types of restraints. They can include: Belts, vests, jackets, and mitts for the patient's hands, Devices that prevent people from being able to move their elbows, knees, wrists, and ankles ,  Other ways to restrain a patient include: A caregiver holding a patient in a way that restricts the person's movement, Patients being given medicines against their will to restrict their movement, Placing a patient in a room alone, from which the person is not free to leave , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

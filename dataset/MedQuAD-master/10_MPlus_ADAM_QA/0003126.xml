@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003126" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000671.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pneumocystis jiroveci pneumonia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003126-1" qtype="information">What is (are) Pneumocystis jiroveci pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Pneumocystis jiroveci  pneumonia is a fungal infection of the lungs. The disease used to be called  Pneumocystis carini  or PCP pneumonia.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003126-2" qtype="causes">What causes Pneumocystis jiroveci pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>This type of pneumonia is caused by the fungus  Pneumocystis jiroveci . This fungus is common in the environment and rarely causes illness in healthy people. However, it can cause a lung infection in people with a weakened immune system due to: Cancer, Long-term&#160;use of corticosteroids or other medicines that weaken the immune system ,  HIV/AIDS , Organ or bone marrow transplant,  Pneumocystis jiroveci  was a rare infection before the AIDS epidemic. Before the use of preventive antibiotics for the condition, most people in the United States with advanced AIDS often developed this infection.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003126-3" qtype="symptoms">What are the symptoms of Pneumocystis jiroveci pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Pneumocystis pneumonia in&#160;people with AIDS usually develops slowly over days to weeks or even months, and is less severe. People with pneumocystis pneumonia who do not have AIDS usually get sick faster and are more severely ill. Symptoms include: Cough, often mild and dry, Fever, Rapid breathing, Shortness of breath, especially with activity (exertion), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003126-4" qtype="exams and tests">How to diagnose Pneumocystis jiroveci pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will examine you and ask about your symptoms. Tests that may be ordered include: Blood gases  (both arterial and venous),  Bronchoscopy  (with lavage),  Lung biopsy ,  X-ray of the chest , Sputum exam to check for fungus that causes the infection, CBC, Beta-1,3 glucan level in the blood and/or lavage fluid from bronchoscopy, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003126-5" qtype="treatment">What are the treatments for Pneumocystis jiroveci pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer> Anti-infection medicines can be given by mouth (orally) or through a vein ( intravenously ), depending on how severe the illness is. People with low oxygen levels and moderate to severe disease are often prescribed corticosteroids as well.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003126-6" qtype="outlook">What is the outlook for Pneumocystis jiroveci pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Pneumocystis pneumonia can be life threatening. It can cause respiratory failure that can lead to death. People with this condition need early and effective treatment. For moderate to severe pneumocystis pneumonia in people with HIV/AIDS, the short term use of corticosteroids has decreased the incidence of death.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003126-7" qtype="complications">What are the complications of Pneumocystis jiroveci pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Complications that may result include: Pleural effusion  (extremely rare),  Pneumothorax  (collapsed lung),  Respiratory  failure (may require breathing support), </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003126-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pneumocystis jiroveci pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>If you have a weakened immune system due to AIDS, cancer, transplantation, or corticosteroid use, contact your provider if you develop a cough, fever, or shortness of breath.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003126-9" qtype="prevention">How to prevent Pneumocystis jiroveci pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Preventive therapy is recommended for: People with HIV/AIDS who have CD4 counts below 200 cells/microliter or 200 cells/cubic millimeter, Bone marrow transplant recipients, Organ transplant recipients, People who take long-term, high-dose corticosteroids, People who have had previous episodes of this infection, People who take long-term immunomodulatory drugs, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

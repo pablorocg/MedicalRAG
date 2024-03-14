@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002062" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007285.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hydrocodone/oxycodone overdose</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002062-1" qtype="information">Do you have information about Hydrocodone/oxycodone overdose</Question>
-			<Answer></Answer>
+			<Answer>Hydrocodone and oxycodone are opioids, medicines that are mostly used to treat extreme pain. Hydrocodone and oxycodone overdose occurs when someone intentionally or accidentally takes too much medicine containing these ingredients. A person may accidentally take too much of the medicine because they are not getting pain relief from their normal doses. There are several reasons why a person may intentionally take too much of this medicine. It may be done to try to hurt oneself or to get high or intoxicated. Factors that have led to opioid misuse in the United States are increased marketing by drug companies, development of new drugs, increased supply of opioids, and prescription by health care providers. This article is for information only. DO NOT use it to treat or manage an actual  overdose . If you or someone you are with has overdosed, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

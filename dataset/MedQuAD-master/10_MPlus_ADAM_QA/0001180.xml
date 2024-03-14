@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001180" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000084.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Diabetes - keeping active</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,11 +17,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001180-1" qtype="information">What is (are) Diabetes - keeping active ?</Question>
-			<Answer></Answer>
+			<Answer>If you have  diabetes , you may think that only vigorous exercise is helpful. But this is not true. Increasing your daily activity by any amount can help improve your health. And there are a lot of ways to add more activity to your day.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001180-5" qtype="susceptibility">Who is at risk for Diabetes - keeping active? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

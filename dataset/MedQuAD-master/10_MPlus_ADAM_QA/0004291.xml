@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004291" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000833.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>What if cancer comes back?</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -26,11 +25,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004291-1" qtype="information">What is (are) What if cancer comes back? ?</Question>
-			<Answer></Answer>
+			<Answer>One of the most common fears for people who have had cancer is that it may return after initial treatment. When cancer comes back, it is called recurrence. Cancer can recur in the same spot or in a whole different area of your body. No one likes to think about having cancer again, but it is important to learn about recurrence so you can move on with your life despite the uncertainty.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004291-3" qtype="susceptibility">Who is at risk for What if cancer comes back?? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

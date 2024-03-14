@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000512" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000010.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bone marrow transplant - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000512-1" qtype="information">Do you have information about Bone marrow transplant - discharge</Question>
-			<Answer></Answer>
+			<Answer>You have had a  bone marrow transplant . A bone marrow transplant is a procedure to replace damaged or destroyed bone marrow with healthy bone marrow stem cells.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

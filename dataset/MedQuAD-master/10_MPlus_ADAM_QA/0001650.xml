@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001650" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000455.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Frozen shoulder</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001650-1" qtype="information">What is (are) Frozen shoulder ?</Question>
-			<Answer></Answer>
+			<Answer>Frozen shoulder is a condition in which the shoulder is painful and loses motion because of inflammation.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001650-2" qtype="causes">What causes Frozen shoulder ?</Question>
-			<Answer></Answer>
+			<Answer>The capsule of the shoulder joint has ligaments that hold the shoulder bones to each other. When the capsule becomes inflamed, the shoulder bones are unable to move freely in the joint. Most of the time, there is no cause for frozen shoulder. Women 40 to 70 years old are most affected, however, men can also get the condition. Risk factors include: Diabetes , Thyroid problems, Changes in your hormones, such as during  menopause , Shoulder injury, Shoulder surgery,  Open heart surgery , Cervical disk disease of the neck, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001650-3" qtype="symptoms">What are the symptoms of Frozen shoulder ?</Question>
-			<Answer></Answer>
+			<Answer>Main symptoms of a frozen shoulder are: Pain, Decreased motion of the shoulder, Stiffness ,  Frozen shoulder can start with pain without any cause or minor trauma. The pain may be severe and prevent you from moving your arm. This lack of movement can lead to stiffness and even less motion. Over time, you are not able to do movements such as reaching over your head or behind you.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001650-4" qtype="exams and tests">How to diagnose Frozen shoulder ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will ask about your symptoms and examine your shoulder. A diagnosis is often made just with a clinical exam when you are not able to rotate your shoulder. You may have x-rays of the shoulder. This is to make sure there is no other problem, such as arthritis or calcium deposits. Sometimes, an  MRI exam  shows inflammation, but these types of imaging tests are usually not needed to diagnose frozen shoulder.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001650-5" qtype="treatment">What are the treatments for Frozen shoulder ?</Question>
-			<Answer></Answer>
+			<Answer>Pain is treated with NSAIDs and steroid injections. Steroid injections and physical therapy can improve your motion. It can take a few weeks to see progress. It may take as long as 9 months to a year for complete recovery. Physical therapy may be intense and needs to be done every day. Left untreated, the condition often gets better by itself within 2 years with little residual loss of motion.&#160;However, your other medical conditions may make the process last longer. Risk factors for frozen shoulder, such as menopause, diabetes or thyroid problems, should also be treated. Surgery is recommended if nonsurgical treatment is not effective. This procedure ( shoulder arthroscopy ) is done under anesthesia. During surgery the scar tissue is released (cut) by bringing the shoulder through a full range of motion. Arthroscopic surgery can also be used to cut the tight ligaments and remove the scar tissue from the shoulder. After surgery, you may receive pain blocks (shots) so you can do physical therapy. Follow instructions on  caring for your shoulder  at home.&#160;</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001650-6" qtype="outlook">What is the outlook for Frozen shoulder ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment with physical therapy and NSAIDs often restores motion and function of the shoulder within a year. Even untreated, the shoulder may get better by itself in 2 years. After surgery restores motion, you must continue physical therapy for several weeks or months. This is to prevent the frozen shoulder from returning. If you&#160;do not&#160;keep up with physical therapy, the frozen shoulder may come back.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001650-7" qtype="complications">What are the complications of Frozen shoulder ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Stiffness and pain continue even with therapy, The arm can break if the shoulder is moved forcefully during surgery , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001650-8" qtype="when to contact a medical professional">Do I need to see a doctor for Frozen shoulder ?</Question>
-			<Answer></Answer>
+			<Answer>If you have shoulder pain and stiffness and think you have a frozen shoulder, contact your provider for evaluation, referral, and treatment.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001650-9" qtype="prevention">How to prevent Frozen shoulder ?</Question>
-			<Answer></Answer>
+			<Answer>Early treatment may help prevent stiffness. Call your provider if you develop shoulder pain that limits your range of motion for an extended period.  People who have diabetes or thyroid problems will be less likely to get frozen shoulder if they keep their condition under control.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

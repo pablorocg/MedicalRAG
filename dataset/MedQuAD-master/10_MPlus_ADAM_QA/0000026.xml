@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000026" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003815.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Abdominal x-ray</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000026-1" qtype="information">Do you have information about Abdominal x-ray</Question>
-			<Answer></Answer>
+			<Answer>An abdominal x-ray is an imaging test to look at organs and structures in the abdomen. Organs include the liver, spleen, stomach, and intestines. When the test is done to look at the bladder and kidney structures, it is called a KUB (kidneys, ureters, bladder) x-ray.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

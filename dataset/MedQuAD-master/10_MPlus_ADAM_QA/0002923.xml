@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002923" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000470.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Palliative care - fear and anxiety</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002923-1" qtype="information">What is (are) Palliative care - fear and anxiety ?</Question>
-			<Answer></Answer>
+			<Answer>It is normal for someone who is sick to feel uneasy, restless, afraid, or anxious. Certain thoughts, pain, or trouble breathing may trigger these feelings. Palliative care providers can help the person cope with these symptoms and feelings.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002923-4" qtype="when to contact a medical professional">Do I need to see a doctor for Palliative care - fear and anxiety ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

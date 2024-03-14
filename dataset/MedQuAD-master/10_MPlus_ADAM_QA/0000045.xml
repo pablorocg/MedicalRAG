@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000045" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000580.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Aches and pains during pregnancy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000045-1" qtype="information">What is (are) Aches and pains during pregnancy ?</Question>
-			<Answer></Answer>
+			<Answer>During pregnancy, your body will go through a lot of changes as your baby grows and your hormones change. Along with the other common  symptoms during pregnancy , you will often notice new aches and pains.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

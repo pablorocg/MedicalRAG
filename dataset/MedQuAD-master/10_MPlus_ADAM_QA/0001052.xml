@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001052" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003625.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>CSF cell count</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001052-1" qtype="information">Do you have information about CSF cell count</Question>
-			<Answer></Answer>
+			<Answer>A CSF cell count is a test to measure the number of red and white blood cells that are in cerebrospinal fluid (CSF). CSF is a clear fluid that is in the space around the spinal cord and brain.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001742" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001635.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Glomus tympanum tumor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001742-1" qtype="information">What is (are) Glomus tympanum tumor ?</Question>
-			<Answer></Answer>
+			<Answer>A glomus tympanum tumor is a tumor of the middle ear and bone behind the ear (mastoid).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001742-2" qtype="causes">What causes Glomus tympanum tumor ?</Question>
-			<Answer></Answer>
+			<Answer>A glomus tympanum tumor grows in the temporal bone of the skull, behind the eardrum (tympanic membrane). This area contains nerve fibers (glomus bodies) that normally respond to changes in body temperature or blood pressure. These tumors most often occur late in life, around age 60 or 70, but they can appear at any age. The cause of a glomus tympanum tumor is unknown. In most cases, there are no known risk factors. Glomus tumors have been associated with changes (mutations) in a gene responsible for the enzyme succinate dehydrogenase (SDHD).</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001742-3" qtype="symptoms">What are the symptoms of Glomus tympanum tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Hearing problems or loss, Ringing in the ear (pulsatile  tinnitus ), Weakness or loss of movement in the face (facial nerve palsy) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001742-4" qtype="exams and tests">How to diagnose Glomus tympanum tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Glomus tympanum tumors are diagnosed by a physical exam. They may be seen in the ear or behind the eardrum. Diagnosis also involves scans, including: CT scan ,  MRI scan , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001742-5" qtype="treatment">What are the treatments for Glomus tympanum tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Glomus tympanum tumors are rarely cancerous and do not tend to spread to other parts of the body. However, treatment may be needed to relieve symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001742-6" qtype="outlook">What is the outlook for Glomus tympanum tumor ?</Question>
-			<Answer></Answer>
+			<Answer>People who have surgery tend to do well. More than 90% of people with glomus tympanum tumors are cured.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001742-7" qtype="complications">What are the complications of Glomus tympanum tumor ?</Question>
-			<Answer></Answer>
+			<Answer>The most common complication is hearing loss. Nerve damage, which may be caused by the tumor itself or damage during surgery, rarely occurs. Nerve damage can lead to  facial paralysis .</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001742-8" qtype="when to contact a medical professional">Do I need to see a doctor for Glomus tympanum tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you notice: Difficulty with hearing or swallowing, Problems with the muscles in your face, Pulsing sensation in your ear, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001053" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003526.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>CSF coccidioides complement fixation test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001053-1" qtype="information">Do you have information about CSF coccidioides complement fixation test</Question>
-			<Answer></Answer>
+			<Answer>CSF coccidioides complement fixation is a test that checks for infection due to the fungus Coccidioides in the cerebrospinal (CSF) fluid. This is the fluid surrounding the brain and spinal cord. The name of this infection is coccidioidomycosis, or  valley fever . When the infection involves the covering of the brain and spinal cord (the meninges), it is called coccidioidal meningitis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

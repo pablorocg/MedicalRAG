@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003202" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000557.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Prenatal care in your second trimester</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003202-1" qtype="information">Do you have information about Prenatal care in your second trimester</Question>
-			<Answer></Answer>
+			<Answer>The word prenatal means before birth. Trimester means 3 months. A normal pregnancy is around 10 months and has 3 trimesters. Your health care provider may talk about your pregnancy in weeks, rather than months or trimesters. The second trimester begins at week 14 and goes through week 28.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004044" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007452.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Troponin test</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -27,7 +26,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004044-1" qtype="information">What is (are) Troponin test ?</Question>
-			<Answer></Answer>
+			<Answer>A troponin test measures the levels of troponin T or troponin I proteins in the blood. These proteins are released when the heart muscle has been damaged, such as occurs with a heart attack. The more damage there is to the heart, the greater the amount of troponin T and I there will be in the blood. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

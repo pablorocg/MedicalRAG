@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001329" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000035.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Eating extra calories when sick - adults</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001329-1" qtype="information">Do you have information about Eating extra calories when sick - adults</Question>
-			<Answer></Answer>
+			<Answer>If you are sick or undergoing cancer treatment, you may not feel like eating. But it is important to get enough protein and calories so you do not lose too much weight. Eating well can help you handle your illness and the side effects of treatment better.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

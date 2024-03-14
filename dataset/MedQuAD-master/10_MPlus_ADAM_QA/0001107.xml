@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001107" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000774.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Deciding about an IUD</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001107-1" qtype="information">Do you have information about Deciding about an IUD</Question>
-			<Answer></Answer>
+			<Answer>An  intrauterine device (IUD)  is a small, plastic, T-shaped device used for  birth control . It is inserted into the uterus where it stays to prevent pregnancy. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

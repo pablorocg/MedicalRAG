@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002761" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001251.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Necrotizing granuloma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002761-1" qtype="information">What is (are) Necrotizing granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>A granuloma is a clump of cells that forms when the immune system tries to fight off a harmful substance but cannot remove it from the body. A necrotizing granuloma is an area of inflammation in which tissue has died. Necrotizing means dying or decaying. Tuberculosis  and  granulomatosis with polyangiitis  are conditions that cause necrotizing granulomas.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

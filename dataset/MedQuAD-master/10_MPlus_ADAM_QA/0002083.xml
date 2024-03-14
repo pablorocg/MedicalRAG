@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002083" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001215.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hyperparathyroidism</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,27 +19,30 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002083-1" qtype="information">What is (are) Hyperparathyroidism ?</Question>
-			<Answer></Answer>
+			<Answer>Hyperparathyroidism is a disorder in which 1 or more of the parathyroid glands in your neck produce too much parathyroid hormone (PTH).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002083-2" qtype="causes">What causes Hyperparathyroidism ?</Question>
-			<Answer></Answer>
+			<Answer>There are 4 tiny parathyroid glands in the neck, near or attached to the back side of the thyroid gland. The parathyroid glands help control calcium absorption, use and removal by the body. They do this by producing parathyroid hormone (PTH). PTH helps control calcium, phosphorus, and vitamin D levels in the blood and bone. It is important for healthy bones. When the blood calcium level is too low, the body responds by making more PTH being made. This causes the calcium level in the blood to rise. When one or more of the parathyroid glands grow larger, it may lead to too much PTH. Most often, the cause is a  benign tumor of the parathyroid glands  (parathyroid adenoma). These benign tumors are common and happen without a known cause. The disease is most common in people over age 60, but it can also occur in younger adults. Hyperparathyroidism in childhood is very unusual., Women are more likely to be affected than men., Radiation to the head and neck increases the risk., Some genetic syndromes ( multiple endocrine neoplasia I ) make it more likely to have hyperparathyroidism., In very rare cases, hyperparathyroidism is caused by parathyroid cancer.,  Medical conditions that cause low blood calcium or increased phosphate can also lead to hyperparathyroidism. Common conditions include: Conditions that make it hard for the body to remove phosphate,  Kidney damage or failure , Not enough calcium in the diet, Too much calcium lost in the urine, Vitamin D disorders (may occur in children who do not eat a variety of foods, and in older adults who do not get enough sunlight on their skin or who have poor absorption of vitamin D from food such as after bariatric surgery), Problems absorbing nutrients from food, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002083-3" qtype="symptoms">What are the symptoms of Hyperparathyroidism ?</Question>
-			<Answer></Answer>
+			<Answer>Hyperparathyroidism is often diagnosed by common blood tests before symptoms occur. Symptoms are mostly caused by damage to organs from high calcium level in the blood, or by the loss of calcium from the bones. Symptoms can include: Bone pain or tenderness ,  Depression  and forgetfulness, Feeling tired, ill, and weak, Fragile bones of the limbs and spine that can break easily, 
+   Increased amount of urine produced and needing to urinate more often,  Kidney stones , 
+   Nausea and loss of appetite
+   , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002083-4" qtype="exams and tests">How to diagnose Hyperparathyroidism ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will do a physical exam and ask about symptoms. Tests that may be done include: PTH blood test ,  Calcium blood test ,  Alkaline phosphatase ,  Phosphorus ,  24-hour urine test &#160;- done to determine how much calcium is being filtered out of the body into the urine,  Bone x-rays and bone mineral density (DXA) tests can help detect bone loss, fractures, or bone softening. X-rays, ultrasound, or CT scans of the kidneys or urinary tract may show calcium deposits or a blockage. Ultrasound or a nuclear medicine scan of the neck (sestamibi) is used to see if a benign tumor (adenoma) in a parathyroid gland is causing hyperparathyroidism.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002083-5" qtype="treatment">What are the treatments for Hyperparathyroidism ?</Question>
-			<Answer></Answer>
+			<Answer>If you have a mildly increased calcium level and don't have symptoms, you may choose to have regular checkups or get treated. If you decide to have treatment, it may include: Drinking more fluids to prevent kidney stones from forming, Exercising, Not taking a type of water pill called thiazide diuretic, Estrogen for women who have gone through menopause, Having surgery to remove the overactive glands,  If you have symptoms or your blood calcium level is very high, you may need surgery to remove the parathyroid gland that is producing too much PTH. If you have hyperparathyroidism from a medical condition, your provider may prescribe vitamin D, if you have a low vitamin D level. If hyperparathyroidism is caused by kidney disease or failure, treatment may include: Extra calcium and vitamin D, Avoiding phosphate in the diet, The medicine cinacalcet (Sensipar), Dialysis or a kidney transplant, Parathyroid surgery, if the PTH level becomes uncontrollably high , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002083-6" qtype="outlook">What is the outlook for Hyperparathyroidism ?</Question>
-			<Answer></Answer>
+			<Answer>Outlook depends on the cause of hyperparathyroidism.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

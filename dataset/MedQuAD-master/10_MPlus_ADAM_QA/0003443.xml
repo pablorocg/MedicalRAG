@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003443" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001574.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Rubella</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003443-1" qtype="information">What is (are) Rubella ?</Question>
-			<Answer></Answer>
+			<Answer>Rubella, also known as the German measles, is an infection in which there is a rash on the skin. Congenital rubella  is when a pregnant woman with rubella passes it to the baby that is still in her womb.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003443-2" qtype="causes">What causes Rubella ?</Question>
-			<Answer></Answer>
+			<Answer>Rubella is caused by a virus that is spread through the air or by close contact. A person with rubella may spread the disease to others from 1 week before the rash begins, until 1 to 2 weeks after the rash disappears. Because the measles-mumps-rubella (MMR) vaccine is given to most children, rubella is much less common now. Almost everyone who receives the vaccine has immunity to rubella. Immunity means that your body has built a defense to the rubella virus. In some adults, the vaccine may wear off. This means they are not fully protected. Women who may become pregnant and other adults may receive a booster shot. Children and adults who were never vaccinated against rubella may also get this infection.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003443-3" qtype="symptoms">What are the symptoms of Rubella ?</Question>
-			<Answer></Answer>
+			<Answer>Children generally have few symptoms. Adults may have a fever, headache, general discomfort ( malaise ), and a runny nose before the rash appears. They may not notice the symptoms. Other symptoms may include: Bruising (rare), Inflammation of the eyes (bloodshot eyes), Muscle or joint pain , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003443-4" qtype="exams and tests">How to diagnose Rubella ?</Question>
-			<Answer></Answer>
+			<Answer>A nasal or throat swab may be sent for culture. A blood test can be done to see if a person is protected against rubella. All women who may become pregnant should have this test. If the test is negative, they will receive the vaccine.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003443-5" qtype="treatment">What are the treatments for Rubella ?</Question>
-			<Answer></Answer>
+			<Answer>There is no treatment for this disease. Taking acetaminophen can help reduce fever.  Defects that occur with congenital rubella syndrome can be treated.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003443-6" qtype="outlook">What is the outlook for Rubella ?</Question>
-			<Answer></Answer>
+			<Answer>Rubella is most often a mild infection. After an infection, people have immunity to the disease for the rest of their lives.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003443-7" qtype="complications">What are the complications of Rubella ?</Question>
-			<Answer></Answer>
+			<Answer>Complications can occur in the unborn baby if the mother becomes infected during pregnancy. A  miscarriage  or  stillbirth  may occur. The child may be born with birth defects. </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003443-8" qtype="when to contact a medical professional">Do I need to see a doctor for Rubella ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if: You are a woman of childbearing age and are unsure of whether you have been vaccinated against rubella, You or your child develop a severe headache, stiff neck, earache, or vision problems during or after a case of rubella, You or your child need to receive  MMR immunization  (vaccine) , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003443-9" qtype="prevention">How to prevent Rubella ?</Question>
-			<Answer></Answer>
+			<Answer>There is a safe and effective vaccine to prevent rubella. The rubella vaccine is recommended for all children. It is routinely given when children are 12 to 15 months old, but is sometimes given earlier during epidemics. A second vaccination (booster) is routinely given to children ages 4 to 6. MMR is a combination vaccine that protects against  measles ,  mumps , and rubella. Women of childbearing age most often have a blood test to see if they have immunity to rubella. If they are not immune, women should avoid getting pregnant for 28 days after receiving the vaccine. Those who should not get vaccinated include: Women who are pregnant., Anyone whose immune system is affected by cancer, corticosteroid medicines, or radiation treatment.,  Great care is taken not to give the vaccine to a woman who is already pregnant. However, in the rare instances when pregnant women have been vaccinated, no problems have been detected in the infants.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

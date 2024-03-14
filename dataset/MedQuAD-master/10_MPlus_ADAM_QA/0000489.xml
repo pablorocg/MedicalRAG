@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000489" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003163.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Blood in the semen</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,23 +20,24 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000489-1" qtype="information">What is (are) Blood in the semen ?</Question>
-			<Answer></Answer>
+			<Answer>Blood in the semen is called hematospermia. It may be in amounts too small to be seen except with a microscope, or it may be visible in the ejaculation fluid.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000489-2" qtype="causes">What causes Blood in the semen ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, the cause for blood in the semen is not known. It can be caused by  swelling or infection of the prostate  or seminal vesicles. The problem may occur after a  prostate biopsy . Blood in the semen may also be caused by: Blockage due to enlarged prostate (prostate problems), Infection of the prostate, Irritation in the urethra (urethritis), Injury to the urethra ,  Often, the cause of the problem cannot be found. Sometimes, the visible blood will last several days to weeks, depending on the cause of the blood and if any clots formed in the seminal vesicles.
+ Depending on the cause, other symptoms that may occur include: Blood in the urine, Fever or chills, Lower back pain, Pain with bowel movement, Pain with ejaculation, Pain with urination, Swelling in the scrotum, Swelling or tenderness in the groin area, Tenderness in the scrotum , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000489-3" qtype="considerations">What to do for Blood in the semen ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000489-4" qtype="when to contact a medical professional">Do I need to see a doctor for Blood in the semen ?</Question>
-			<Answer></Answer>
+			<Answer>Always contact your health care provider if you notice any blood in your semen.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000489-5" qtype="outlook">What is the outlook for Blood in the semen ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

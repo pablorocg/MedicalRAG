@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002625" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000561.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Methemoglobinemia - acquired</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002625-1" qtype="information">What is (are) Methemoglobinemia - acquired ?</Question>
-			<Answer></Answer>
+			<Answer>Methemoglobinemia is a blood disorder in which the body cannot reuse hemoglobin because it is damaged. Hemoglobin is the oxygen-carrying molecule found in red blood cells. In some cases of methemoglobinemia, the hemoglobin is unable to carry enough oxygen to body tissues.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002625-2" qtype="causes">What causes Methemoglobinemia - acquired ?</Question>
-			<Answer></Answer>
+			<Answer>Acquired methemoglobinemia results from exposure to certain drugs, chemicals, or foods. The condition may also be passed down through families (inherited). </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

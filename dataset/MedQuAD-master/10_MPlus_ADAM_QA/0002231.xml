@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002231" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002421.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Iodine in diet</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002231-1" qtype="information">Do you have information about Iodine in diet</Question>
-			<Answer></Answer>
+			<Answer>Iodine is a trace element and a nutrient found naturally in the body.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

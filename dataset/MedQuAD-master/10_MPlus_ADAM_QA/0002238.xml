@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002238" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002422.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Iron in diet</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002238-1" qtype="information">Do you have information about Iron in diet</Question>
-			<Answer></Answer>
+			<Answer>Iron is a mineral found in every cell of the body. Iron is considered an essential mineral because it is needed to make hemoglobin, a part of blood cells. The body cannot make it, so it must be taken in with the food we eat.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

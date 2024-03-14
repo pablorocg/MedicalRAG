@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002103" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000307.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hypophosphatemia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,31 +22,31 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002103-1" qtype="information">What is (are) Hypophosphatemia ?</Question>
-			<Answer></Answer>
+			<Answer>Hypophosphatemia is a low level of  phosphorus  in the blood.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002103-2" qtype="causes">What causes Hypophosphatemia ?</Question>
-			<Answer></Answer>
+			<Answer>The following may cause hypophosphatemia: Alcoholism , Antacids, Certain medicines, including insulin, acetazolamide, foscarnet, imatinib, intravenous iron, niacin, pentamidine, sorafenib, and tenofovir, Fanconi syndrome, Fat malabsorption in the gastrointestinal tract, Hyperparathyroidism (overactive parathyroid gland) , Starvation, Too little vitamin D, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002103-3" qtype="symptoms">What are the symptoms of Hypophosphatemia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Bone pain, Confusion, Muscle weakness, Seizures&#160;, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002103-4" qtype="exams and tests">How to diagnose Hypophosphatemia ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will examine you.  The following tests may be done:  Kidney function tests, Vitamin D blood test ,  Exam and testing may show:  Anemia due to too many red blood cells being destroyed ( hemolytic anemia ), Heart muscle damage ( cardiomyopathy ) , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002103-5" qtype="treatment">What are the treatments for Hypophosphatemia ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment depends on the cause. Phosphate can be given by mouth or through a vein (IV).</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002103-6" qtype="outlook">What is the outlook for Hypophosphatemia ?</Question>
-			<Answer></Answer>
+			<Answer>How well you do depends on what has caused the condition.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002103-7" qtype="when to contact a medical professional">Do I need to see a doctor for Hypophosphatemia ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if you have muscle weakness or confusion.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

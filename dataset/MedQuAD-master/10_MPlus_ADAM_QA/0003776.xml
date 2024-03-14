@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003776" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000798.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Substance use - prescription drugs</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,19 +22,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003776-1" qtype="information">What is (are) Substance use - prescription drugs ?</Question>
-			<Answer></Answer>
+			<Answer>When a medicine is not taken in the way it is meant to be used and a person is addicted to it, the problem is called prescription drug use disorder. People who have this disorder take the drugs because the chemicals in the medicines have psychoactive effects. Psychoactive means having an effect on the way the brain functions. In short, the drugs are used to get high.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003776-2" qtype="information">What is (are) Substance use - prescription drugs ?</Question>
-			<Answer></Answer>
+			<Answer>When a medicine is not taken in the way it is meant to be used and a person is addicted to it, the problem is called prescription drug use disorder. People who have this disorder take the drugs because the chemicals in the medicines have psychoactive effects. Psychoactive means having an effect on the way the brain functions. In short, the drugs are used to get high.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003776-4" qtype="treatment">What are the treatments for Substance use - prescription drugs ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment begins with recognizing there is a problem. Once you decide you want to do something about your drug use, the next step is to get help and support. Treatment programs use behavior change techniques through counseling (talk therapy). The goal is to help you understand your behaviors and why you use drugs. Involving family and friends during counseling can help support you keep you from going back to using (relapsing). Treatment programs also teach you how to better deal with situations that led you to use or to relapse in the past. With some drug addictions, such as opioids, medicines may also be used to help reduce the effects of opioids on the brain. Other medicines may be used to lessen cravings and withdrawal symptoms. If you have severe withdrawal symptoms, you may need to stay at a live-in treatment program. There, your health and safety can be monitored as you recover.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003776-7" qtype="when to contact a medical professional">Do I need to see a doctor for Substance use - prescription drugs ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

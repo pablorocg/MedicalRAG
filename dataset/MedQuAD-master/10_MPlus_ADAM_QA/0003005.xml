@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003005" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002281.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Percussion</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003005-1" qtype="information">Do you have information about Percussion</Question>
-			<Answer></Answer>
+			<Answer>Percussion is a method of tapping body parts with fingers, hands, or small instruments as part of a physical examination. It is done to determine: The size, consistency, and borders of body organs, The presence or absence of fluid in body areas ,  Percussion of a body part produces a sound, like playing a drum. The sound is a sign of the type of tissue within the body part or organ. Lungs sound hollow on percussion because they are filled with air., Bones, joints, and solid organs such as the liver sound solid., The abdomen sounds like a hollow organ filled with air, fluid, or solids. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

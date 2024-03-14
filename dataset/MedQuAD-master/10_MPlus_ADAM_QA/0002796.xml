@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002796" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000257.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Newborn jaundice - what to ask your doctor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002796-1" qtype="information">What is (are) Newborn jaundice - what to ask your doctor ?</Question>
-			<Answer></Answer>
+			<Answer>Newborn jaundice  is a common condition. It is caused by high levels of bilirubin (a yellow coloring) in your child's blood. This can make your child's skin and sclera (the whites of their eyes) look yellow. Your child may go home with some jaundice or may develop jaundice after going home. Below are some questions you may want to ask your health care provider about your child's jaundice.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

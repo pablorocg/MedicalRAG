@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002893" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001336.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Otitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,11 +21,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002893-1" qtype="information">What is (are) Otitis ?</Question>
-			<Answer></Answer>
+			<Answer>Otitis is a term for infection or inflammation of the ear.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002893-2" qtype="causes">What causes Otitis ?</Question>
-			<Answer></Answer>
+			<Answer>Otitis can affect the inner or outer parts of the ear. The condition can be: Acute ear infection  -- Starts suddenly and lasts for a short period of time. It is often painful.,  Chronic ear infection  -- Occurs when the ear infection does not go away or keeps coming back. It may cause long-term damage to the ear. ,  Based on location otitis can be: Otitis externa  (swimmer's ear) -- Involves the outer ear and ear canal. A more severe form can spread into the bones and cartilage around the ear., Otitis media (ear infection) -- Involves the middle ear, which is located just behind the eardrum.,  Otitis media with effusion  -- Occurs when there is thick or sticky fluid behind the eardrum in the middle ear, but there is no ear infection. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001272" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a697015.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Valsartan</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,51 +7,54 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001272-1" qtype="important warning">What important warning or information should I know about Valsartan ?</Question>
-			<Answer></Answer>
+			<Answer>Tell your doctor if you are pregnant or plan to become pregnant. Do not take valsartan if you are pregnant. If you become pregnant while you are taking valsartan, stop taking valsartan and call your doctor immediately. Valsartan may cause death or serious injury to the fetus when taken in the last 6 months of pregnancy.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001272-2" qtype="indication">Who should get Valsartan and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Valsartan is used in adults and in children 1 year of age and older alone or in combination with other medications to treat high blood pressure.  It is also used in adults to treat heart failure (condition in which the heart is unable to pump enough blood to the rest of the body) and to improve survival after a heart attack. Valsartan is in a class of medications called angiotensin II receptor antagonists. It works by blocking the action of certain natural substances that tighten the blood vessels, allowing the blood to flow more smoothly and the heart to pump more efficiently. High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems. In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001272-3" qtype="usage">How should Valsartan be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Valsartan comes as a tablet and a suspension (liquid) to take by mouth.  For the treatment of high blood pressure, the tablet or suspension is usually taken once a day with or without food.  For the treatment of heart failure or heart attack, it is usually taken twice a day with or without food. To help you remember to take valsartan, take it at around the same time(s) every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take valsartan exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor. Shake the suspension well for at least 10 seconds before each use to mix the medication evenly. Each valsartan product releases the medication differently in your body and cannot be used interchangeably. Only take the valsartan product prescribed by your doctor and do not switch to a different valsartan product unless your doctor says that you should. Your doctor will probably only tell you to take valsartan suspension if you are younger than 5 years of age or unable to swallow tablets. Your doctor may start you on a low dose of valsartan and gradually increase your dose. Valsartan controls high blood pressure and heart failure but does not cure them. Your blood pressure may decrease during the first 2 weeks of your treatment, but it may take 4 weeks for you to notice the full benefit of valsartan. Continue to take valsartan even if you feel well. Do not stop taking valsartan without talking to your doctor. Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001272-5" qtype="precautions">Are there safety concerns or special precautions about Valsartan ?</Question>
-			<Answer></Answer>
+			<Answer>Before taking valsartan, tell your doctor and pharmacist if you are allergic to valsartan, any other medications, or any of the ingredients in valsartan tablets., tell your doctor if you have diabetes (high blood sugar) and you are taking aliskiren (Tekturna, in Amturnide, Tekamlo, Tekturna HCT). Your doctor will probably tell you not to take valsartan if you have diabetes and you are also taking aliskiren., tell your doctor and pharmacist what other prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take. Be sure to mention the following: angiotensin-converting enzyme (ACE) inhibitors such as benazepril (Lotensin, in Lotrel), captopril (Capoten, in Capozide), enalapril (Vasotec), fosinopril, lisinopril (in Prinzide, in Zestoretic), moexipril (Univasc, in Uniretic), perindopril, (Aceon), quinapril (Accupril, in Accuretic, in Quinaretic), ramipril (Altace), and trandolapril (Mavik, in Tarka); aspirin and other nonsteroidal anti-inflammatory medications (NSAIDs) such as ibuprofen (Advil, Motrin) and naproxen (Aleve, Naprosyn) and selective COX-2 inhibitors such as celecoxib (Celebrex); cyclosporine (Gengraf, Neoral, Sandimmune); diuretics ('water pills'), including potassium-sparing diuretics such as amiloride (Midamor), spironolactone (Aldactone, in Aldactazide), and triamterene (Dyrenium, in Dyazide, in Maxzide); gemfibrozil (Lopid), other medications to treat high blood pressure or a heart problem; potassium supplements; rifampin (Rifadin, Rimactane, in Rifamate, in Rifater); and ritonavir (Norvir). Your doctor may need to change the doses of your medications or monitor you carefully for side effects., tell your doctor if you have or have ever had blockage of the bile duct (condition when bile cannot flow from the liver to the gallbladder and small intestine, which can occur with gallstones, tumors, or injury); heart, kidney, or liver disease., tell your doctor if you are breastfeeding. Do not breastfeed during your treatment with valsartan., you should know that valsartan may cause dizziness, lightheadedness, and fainting when you get up too quickly from a lying position. This is more common when you first start taking valsartan. To help avoid this problem, get out of bed slowly, resting your feet on the floor for a few minutes before standing up., you should know that diarrhea, vomiting, not drinking enough fluids, and sweating a lot can cause a drop in blood pressure, which may cause lightheadedness and fainting. Tell your doctor if you have any of these problems or develop them during your treatment., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001272-6" qtype="dietary">What special dietary instructions should I follow with Valsartan ?</Question>
-			<Answer></Answer>
+			<Answer>Do not use salt substitutes containing potassium without talking to your doctor. If your doctor prescribes a low-salt or low-sodium diet, follow these directions carefully.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001272-7" qtype="forget a dose">What should I do if I forget a dose of Valsartan ?</Question>
-			<Answer></Answer>
+			<Answer>Take the missed dose as soon as you remember it. However, if it is almost time for the next dose, skip the missed dose and continue your regular dosing schedule. Do not take a double dose to make up for a missed one.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001272-8" qtype="side effects">What are the side effects or risks of Valsartan ?</Question>
-			<Answer></Answer>
+			<Answer>Valsartan may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ headache, excessive tiredness, nausea, diarrhea, stomach pain, back pain, joint pain, blurry vision, cough, rash,  Some side effects can be serious. If you experience any of these symptoms or those listed in the SPECIAL PRECAUTIONS section, call your doctor immediately:
+ swelling of the face, throat, tongue, lips, eyes, hands, feet, ankles, or lower legs, hoarseness, difficulty breathing or swallowing, unexplained weight gain,  Valsartan may cause other side effects. Call your doctor if you have any unusual problems while taking this medication. If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001272-9" qtype="storage and disposal">What should I know about storage and disposal of Valsartan ?</Question>
-			<Answer></Answer>
+			<Answer>Keep this medication in the container it came in, tightly closed, and out of reach of children. Store the tablets at room temperature and away from excess heat and moisture (not in the bathroom). The suspension can be stored for 30 days at room temperature or for 75 days in a refrigerator; after these times it must be discarded. It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0001272-10" qtype="emergency or overdose">What to do in case of emergency or overdose of Valsartan ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911. Symptoms of overdose may include the following:
+ dizziness, fainting, fast or slow heartbeat, </Answer>
 	</QAPair>
 	<QAPair pid="11">
 			<Question qid="0001272-11" qtype="other information">What other information should I know about Valsartan ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor and the laboratory. Your blood pressure should be checked regularly to determine your response to valsartan. Do not let anyone else take your medication. Ask your pharmacist any questions you have about refilling your prescription. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="12">
 			<Question qid="0001272-12" qtype="brand names">What are the brand names of Valsartan ?</Question>
-			<Answer></Answer>
+			<Answer>Diovan &#174; , Prexxartan, </Answer>
 	</QAPair>
 	<QAPair pid="13">
 			<Question qid="0001272-13" qtype="brand names of combination products">What are the brand names of combination products of Valsartan ?</Question>
-			<Answer></Answer>
+			<Answer>Diovan &#174; , Prexxartan, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

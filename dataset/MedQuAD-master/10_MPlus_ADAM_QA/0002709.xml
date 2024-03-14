@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002709" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002154.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Muscular dystrophy - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002709-1" qtype="information">What is (are) Muscular dystrophy - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on  muscular dystrophy : Centers for Disease Control and Prevention --  www.cdc.gov/ncbddd/musculardystrophy/facts.html , Genetic and Rare Diseases Information Center --  rarediseases.info.nih.gov/diseases/7922/muscular-dystrophy , Muscular Dystrophy Association --  www.mda.org , National Institute of Neurological Disorders and Stroke --  www.ninds.nih.gov/Disorders/All-Disorders/Muscular-Dystrophy-Information-Page , Parent Project Muscular Dystrophy --  www.parentprojectmd.org , US National Library of Medicine, MedlinePlus --  medlineplus.gov/musculardystrophy.html , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

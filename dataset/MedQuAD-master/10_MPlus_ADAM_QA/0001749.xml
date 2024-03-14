@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001749" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003581.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Glucose urine test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,8 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001749-1" qtype="information">Do you have information about Glucose urine test</Question>
-			<Answer></Answer>
+			<Answer>
+The glucose urine test measures the amount of sugar (glucose) in a urine sample. The presence of glucose in the urine is called glycosuria or glucosuria. Glucose level can also be measured in other bodily fluids using a  blood test  or a  cerebrospinal fluid test .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003401" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007558.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Retrosternal thyroid surgery</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,19 +21,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003401-1" qtype="information">What is (are) Retrosternal thyroid surgery ?</Question>
-			<Answer></Answer>
+			<Answer>The thyroid gland is normally located at the front of the neck. A retrosternal thyroid refers to the abnormal&#160;location of all or part of the thyroid gland below the breastbone (sternum).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003401-2" qtype="information">What is (are) Retrosternal thyroid surgery ?</Question>
-			<Answer></Answer>
+			<Answer>The thyroid gland is normally located at the front of the neck. A retrosternal thyroid refers to the abnormal&#160;location of all or part of the thyroid gland below the breastbone (sternum).</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003401-4" qtype="susceptibility">Who is at risk for Retrosternal thyroid surgery? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003401-7" qtype="outlook">What is the outlook for Retrosternal thyroid surgery ?</Question>
-			<Answer></Answer>
+			<Answer>Outcome of this surgery is usually excellent. Most people need to take thyroid hormone pills (thyroid hormone replacement) for the rest of their lives when the whole gland is removed.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

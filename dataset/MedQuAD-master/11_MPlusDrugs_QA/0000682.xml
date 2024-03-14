@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000682" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a600032.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Leflunomide</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,43 +7,46 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000682-1" qtype="important warning">What important warning or information should I know about Leflunomide ?</Question>
-			<Answer></Answer>
+			<Answer>Do not take leflunomide if you are pregnant or plan to become pregnant. Leflunomide may harm the fetus. You should not begin taking leflunomide until you have taken a pregnancy test with negative results and your doctor tells you that you are not pregnant. You must use an effective method of birth control before you begin taking leflunomide, during your treatment with leflunomide, and for 2 years after treatment. If your period is late or you miss a period during treatment with leflunomide, call your doctor immediately. Talk to your doctor if you plan to become pregnant within 2 years after stopping treatment with leflunomide. Your doctor can prescribe a treatment that will help to remove this medication more quickly from your body. Leflunomide may cause liver damage that can be life-threatening and even cause death. The risk for liver damage is greatest in people taking other medications known to cause liver damage, and in people who already have liver disease. Tell your doctor if you have or have ever had hepatitis or any other type of liver disease and if you if you drink or have ever drunk large amounts of alcohol. Tell your doctor and pharmacist if you are taking acetaminophen (Tylenol, in other over-the-counter products), aspirin and other nonsteroidal anti-inflammatory medications (NSAIDs such as ibuprofen [Advil, Motrin] and naproxen [Aleve, Naprosyn], cholesterol-lowering medications (statins), hydroxychloroquine, iron products, isoniazid (Laniazid, in Rifamate, in Rifater), methotrexate (Trexall), niacin (nicotinic acid), or rifampin (Rifadin, Rimactane, in Rifamate, in Rifater). If you experience any of the following symptoms, call your doctor immediately: nausea, extreme tiredness, unusual bleeding or bruising, lack of energy, loss of appetite, pain in the upper right part of the stomach, yellowing of the skin or eyes, dark-colored urine, or flu-like symptoms. Keep all appointments with your doctor and the laboratory. Your doctor will order certain tests to check your body's response to leflunomide. Talk to your doctor about the risks of taking leflunomide.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000682-2" qtype="indication">Who should get Leflunomide and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Leflunomide is used alone or in combination with other medications to treat rheumatoid arthritis (a condition in which the body attacks its own joints, causing pain, swelling, and loss of function). Leflunomide is in a class of medications called disease-modifying antirheumatic drugs (DMARDs). It works by decreasing inflammation and slowing the progress of the condition, which can help improve the physical activity of people with rheumatoid arthritis.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000682-3" qtype="usage">How should Leflunomide be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Leflunomide comes as a tablet to take by mouth. It is usually taken once a day. Your doctor may tell you to take a larger dose of leflunomide for the first 3 days of treatment. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take leflunomide exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor. Your doctor may need to decrease your dose or stop treatment if you experience certain severe side effects. Be sure to tell your doctor how you are feeling during your treatment. Leflunomide may help control the symptoms of your rheumatoid arthritis but does not cure it. Continue to take leflunomide even if you feel well. Do not stop taking leflunomide without talking to your doctor.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000682-5" qtype="precautions">Are there safety concerns or special precautions about Leflunomide ?</Question>
-			<Answer></Answer>
+			<Answer>Before taking leflunomide, tell your doctor and pharmacist if you are allergic to leflunomide, teriflunomide (Aubagio), any other medications, or any of the ingredients in leflunomide tablets. Ask your pharmacist for a list of the ingredients., tell your doctor and pharmacist what other prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take. Be sure to mention the medications listed in the IMPORTANT WARNING section and any of the following: anticoagulants ('blood thinners') such as warfarin (Coumadin Jantoven); cholestyramine (Prevalite); gold compounds such as auranofin (Ridaura); medications to treat cancer; other medications that suppress the immune system such as azathioprine (Azasan, Imuran), cyclosporine (Gengraf, Neoral, Sandimmune), sirolimus (Rapamune), and tacrolimus (Astagraf, Prograf); penicillamine (Cuprimine, Depen), and tolbutamide. Your doctor may need to change the doses of your medications or monitor you carefully for side effects., tell your doctor if you have or have ever had serious infections or if you frequently get infections, cancer or other conditions affecting the bone marrow or the immune system (including human immunodeficiency virus [HIV] and acquired immunodeficiency syndrome [AIDS]), diabetes, or kidney disease., tell your doctor if you are breastfeeding. Do not breastfeed while you are taking leflunomide., if you are planning to father a child, you should talk to your doctor about stopping leflunomide and receiving a treatment to help to remove this medication from your body more quickly., ask your doctor about the safe use of alcoholic beverages while you are taking leflunomide., Taking leflunomide may decrease your ability to fight infection. Tell your doctor if you have an infection now or if you have any signs of infection such as fever, cough, or flu-like symptoms. If you experience any of the following symptoms during your treatment with leflunomide, call your doctor: fever; sore throat; cough; flu-like symptoms; area of warm, red, swollen, or painful skin; painful, difficult, or frequent urination; or other signs of infection. Your treatment with leflunomide may need to be interrupted if you have an infection., You may already be infected with tuberculosis (TB; a serious lung infection) but not have any symptoms of the disease. In this case, leflunomide may make your infection more serious and cause you to develop symptoms. Tell your doctor if you have or have ever had TB, if you have lived in or visited a country where TB is common, or if you have been around someone who has or has ever had TB. Before you begin your treatment with leflunomide, your doctor will perform a skin test to see if you have TB. If you do have TB, your doctor will treat this infection with antibiotics before you begin taking leflunomide., do not have any vaccinations without talking to your doctor., you should know that leflunomide may cause high blood pressure. You should have your blood pressure checked before starting treatment and regularly while you are taking this medication., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000682-6" qtype="forget a dose">What should I do if I forget a dose of Leflunomide ?</Question>
-			<Answer></Answer>
+			<Answer>Take the missed dose as soon as you remember it. However, if it is almost time for your next dose, skip the missed dose and continue your regular dosing schedule. Do not take a double dose to make up for a missed one.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000682-7" qtype="side effects">What are the side effects or risks of Leflunomide ?</Question>
-			<Answer></Answer>
+			<Answer>Leflunomide may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ diarrhea, vomiting, heartburn, headache, dizziness, weight loss, back pain, muscle pain or weakness, pain, burning, numbness, or tingling in the hands or feet, hair loss, leg cramps, dry skin,  Some side effects can be serious. If you experience any of the following symptoms or those listed in the IMPORTANT WARNING or SPECIAL PRECAUTIONS section, call your doctor immediately or get emergency medical treatment:
+ rash with or without a fever, hives, blisters or peeling of skin, mouth sores, itching, difficulty breathing, new or worsening cough, chest pain, pale skin,  Receiving medications which suppress the immune system may increase the risk of developing certain types of cancer. An increase in cancers was not reported in clinical studies with leflunomide to date. Talk to your doctor about the risks of receiving leflunomide. Leflunomide may cause other side effects. Call your doctor if you have any unusual problems while taking this medication. If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000682-8" qtype="storage and disposal">What should I know about storage and disposal of Leflunomide ?</Question>
-			<Answer></Answer>
+			<Answer>Keep this medication in the container it came in, tightly closed, and out of reach of children. Store it at room temperature and away from excess heat and moisture (not in the bathroom) and light. Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program. It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000682-9" qtype="emergency or overdose">What to do in case of emergency or overdose of Leflunomide ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911. Symptoms of overdose may include the following:
+ diarrhea, stomach pain, extreme tiredness, weakness, pale skin, fast heartbeat, shortness of breath, </Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000682-10" qtype="other information">What other information should I know about Leflunomide ?</Question>
-			<Answer></Answer>
+			<Answer>Do not let anyone else take your medication. Ask your pharmacist any questions you have about refilling your prescription. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="11">
 			<Question qid="0000682-11" qtype="brand names">What are the brand names of Leflunomide ?</Question>
-			<Answer></Answer>
+			<Answer>Arava &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

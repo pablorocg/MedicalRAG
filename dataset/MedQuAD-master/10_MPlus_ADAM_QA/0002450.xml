@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002450" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007350.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lumbar spine CT scan</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002450-1" qtype="information">Do you have information about Lumbar spine CT scan</Question>
-			<Answer></Answer>
+			<Answer>A computed tomography (CT) scan of the lumbar spine makes cross-sectional pictures of the lower back (lumbar spine). It uses x-rays to create the images.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000422" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002236.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Benign</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000422-1" qtype="information">Do you have information about Benign</Question>
-			<Answer></Answer>
+			<Answer>Benign refers to a condition,  tumor , or growth that is not cancerous. This means that it does not spread to other parts of the body. It does not invade nearby tissue. Sometimes, a condition is called benign to suggest it is not dangerous or serious. In general, a benign tumor grows slowly and is not harmful. However, this is not always the case. A benign tumor may grow big enough or be found near blood vessels, the brain, nerves, or organs. As a result, it can cause problems locally without spreading to another part of the body. Sometimes, these problems can be serious. The opposite of benign is  malignant .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

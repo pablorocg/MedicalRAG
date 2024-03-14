@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000362" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002163.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Autism - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000362-1" qtype="information">What is (are) Autism - resources ?</Question>
-			<Answer></Answer>
+			<Answer>These organizations are good sources of information on  autism : Association for Science in Autism Treatment --  asatonline.org , Autism Society of America --  autismsociety.org/ , Autism Speaks --  www.autismspeaks.org , National Institute of Mental Health: Autism Spectrum Disorder --  www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd/ , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

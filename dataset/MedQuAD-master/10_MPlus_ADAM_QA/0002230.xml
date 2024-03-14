@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002230" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002384.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Invasive</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002230-1" qtype="information">What is (are) Invasive ?</Question>
-			<Answer></Answer>
+			<Answer>An invasive disease is one that spreads to surrounding tissues. An invasive procedure is one in which the body is "invaded", or entered by a needle, tube, device, or scope.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

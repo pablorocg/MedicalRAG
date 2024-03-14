@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000013" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003938.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Abdominal girth</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000013-1" qtype="information">Do you have information about Abdominal girth</Question>
-			<Answer></Answer>
+			<Answer>Abdominal girth is the measurement of the distance around the abdomen at a specific point. Measurement is most often made at the level of the belly button (navel). Abdominal girth is used to diagnose and monitor the following: Buildup of fluid in the abdomen, most often caused by  liver failure ,  heart failure , or any cancer that has spread widely throughout the abdomen, Obesity, Buildup of intestinal gas, most often caused by blockage or  obstruction in the intestines , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002075" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003280.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hyperelastic skin</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,27 +19,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002075-1" qtype="information">What is (are) Hyperelastic skin ?</Question>
-			<Answer></Answer>
+			<Answer>Hyperelastic skin is skin that can be stretched beyond what is considered normal. The skin returns to normal after it is stretched.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002075-2" qtype="considerations">What to do for Hyperelastic skin ?</Question>
-			<Answer></Answer>
+			<Answer>Hyperelasticity occurs when there is a problem with how the body makes collagen or elastin fibers. These are types of proteins that makes up much of the body's tissue.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002075-3" qtype="causes">What causes Hyperelastic skin ?</Question>
-			<Answer></Answer>
+			<Answer>Hyperelastic skin is most often seen in people who have  Ehlers-Danlos  syndrome. People with this disorder have very elastic skin. They also have joints that can be bent more than is normally possible. For this reason, they are sometimes referred to as rubber men or women. Other conditions that may cause skin that is easily stretched include: Marfan syndrome  (genetic disorder of human connective tissue),  Osteogenesis imperfecta  (congenital bone disorder characterized by brittle bones), Pseudoxanthoma elasticum (rare genetic disorder that causes fragmentation and mineralization of elastic fibers in some tissues), Subcutaneous T-cell lymphoma (type of lymph system cancer that involves the skin), Sun-related changes of older skin , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002075-4" qtype="considerations">What to do for Hyperelastic skin ?</Question>
-			<Answer></Answer>
+			<Answer>Hyperelasticity occurs when there is a problem with how the body makes collagen or elastin fibers. These are types of proteins that makes up much of the body's tissue.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002075-5" qtype="when to contact a medical professional">Do I need to see a doctor for Hyperelastic skin ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: Your skin appears to be very stretchy, Your child appears to have delicate skin , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002075-6" qtype="outlook">What is the outlook for Hyperelastic skin ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

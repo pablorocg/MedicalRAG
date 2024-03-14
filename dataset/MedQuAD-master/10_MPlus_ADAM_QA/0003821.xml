@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003821" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000724.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Syphilitic aseptic meningitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003821-1" qtype="information">What is (are) Syphilitic aseptic meningitis ?</Question>
-			<Answer></Answer>
+			<Answer>Syphilitic aseptic  meningitis , or syphilitic meningitis, is a complication of untreated  syphilis . It involves inflammation of the tissues covering the brain and spinal cord caused by this bacterial infection.&#160;These tissues are called the meninges.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003821-2" qtype="causes">What causes Syphilitic aseptic meningitis ?</Question>
-			<Answer></Answer>
+			<Answer>Syphilitic meningitis is a form of  neurosyphilis . This condition is a life-threatening complication of syphilis infection. Syphilis is a sexually transmitted infection. Syphilitic meningitis is similar to meningitis caused by other germs (organisms), but it doesn't develop as quickly. Risks for syphilitic meningitis include a past infection with syphilis or other sexually transmitted illnesses such as  gonorrhea . Syphilis infections are mainly spread through sex with an infected person. Sometimes, they may be passed by nonsexual contact.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003821-3" qtype="symptoms">What are the symptoms of Syphilitic aseptic meningitis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of syphilitic meningitis may include: Changes in vision , such as blurred vision, decreased vision
+   , Fever, Headache, Mental status changes, including  confusion,  decreased attention span, and irritability, Nausea and vomiting, Stiff neck or shoulders, muscle aches,  Seizures , Sensitivity to light ( photophobia ) and loud noises, 
+   Sleepiness,  lethargy , hard to wake up, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003821-4" qtype="exams and tests">How to diagnose Syphilitic aseptic meningitis ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam. This may show problems with the nerves, including nerves that control eye movement. Tests may include: Cerebral angiography  to check blood flow in the brain, Electroencephalogram ( EEG ) to measure electrical activity in the brain,  Head CT scan ,  Spinal tap  to obtain a sample of cerebrospinal fluid (CSF) for examination, Blood test to screen for a syphilis infection ,  If screening tests indicate a syphilis infection, more tests are done to confirm the diagnosis.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003821-5" qtype="treatment">What are the treatments for Syphilitic aseptic meningitis ?</Question>
-			<Answer></Answer>
+			<Answer>The goals of treatment are to cure the infection and stop symptoms from getting worse. Treating the infection helps prevent new nerve damage and may reduce symptoms. Treatment does not reverse existing damage. Medicines likely to be given include: Penicillin or other antibiotics (such as tetracycline or erythromycin) for a long time to make sure the infection goes away, Medicines for seizures, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003821-6" qtype="outlook">What is the outlook for Syphilitic aseptic meningitis ?</Question>
-			<Answer></Answer>
+			<Answer>Some people may need help eating, dressing, and caring for themselves. Confusion and other mental changes may either improve or continue long-term after antibiotic treatment. Late-stage syphilis can cause nerve or heart damage. This can lead to disability and death.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003821-7" qtype="complications">What are the complications of Syphilitic aseptic meningitis ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Inability to care for self, Inability to communicate or interact, Seizures that may result in injury, Stroke, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003821-8" qtype="when to contact a medical professional">Do I need to see a doctor for Syphilitic aseptic meningitis ?</Question>
-			<Answer></Answer>
+			<Answer>Go to the emergency room or call 911 or the local emergency number if you have seizures. Contact your provider if you have a severe headache with fever or other symptoms, especially if you have a history of syphilis infection.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003821-9" qtype="prevention">How to prevent Syphilitic aseptic meningitis ?</Question>
-			<Answer></Answer>
+			<Answer>Proper treatment and follow-up of syphilis infections will reduce the risk of developing this type of meningitis. If you are sexually active,  practice safer sex  and always use condoms. All pregnant women should be screened for syphilis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

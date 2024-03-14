@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000418" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000773.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bell's palsy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,39 +22,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000418-1" qtype="information">What is (are) Bell's palsy ?</Question>
-			<Answer></Answer>
+			<Answer>Bell palsy is a disorder of the nerve that controls movement of the muscles in the face. This nerve is called the facial or seventh cranial nerve. Damage to this nerve causes weakness or paralysis of these muscles.  Paralysis  means that you cannot use the muscles at all.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000418-2" qtype="causes">What causes Bell's palsy ?</Question>
-			<Answer></Answer>
+			<Answer>Bell palsy can affect people of any age, most commonly those over age 65 years. It can also affect children younger than 10 years. Males and females are equally affected. Bell palsy is thought to be due to swelling (inflammation) of the facial nerve in the area where it travels through the bones of the skull. This nerve controls movement of the muscles of the face. The cause is often not clear. A type of herpes infection called herpes simplex or  herpes zoster  might be involved. Other conditions that may cause Bell palsy include: HIV/AIDS infection ,  Lyme disease , Middle  ear infection ,  Sarcoidosis  (inflammation of the lymph nodes, lungs, liver, eyes, skin, or other tissues),  Having diabetes and being pregnant may increase the risk for Bell palsy.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000418-3" qtype="symptoms">What are the symptoms of Bell's palsy ?</Question>
-			<Answer></Answer>
+			<Answer>Sometimes, you may have a cold shortly before the symptoms of Bell palsy begin. Symptoms most often start suddenly, but may take 2 to 3 days to show up. They do not become more severe after that. Symptoms are almost always on one side of the face only. They may range from mild to severe. Many people feel discomfort behind the ear before weakness is noticed. The face feels stiff or pulled to one side and may look different. Other signs can include: Difficulty closing one eye, Difficulty eating and drinking because food falls out of one side of the mouth,  Drooling  due to lack of control over the muscles of the face, Drooping of the face, such as the eyelid or corner of the mouth, Problems smiling, grimacing, or making facial expressions, Twitching or weakness of the muscles in the face ,  Other symptoms that may occur: Dry eye, which may lead to eye sores or infections, Dry mouth, Headache if there is an infection such as Lyme disease, Loss of sense of  taste , Sound that is louder in one ear (hyperacusis), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000418-4" qtype="exams and tests">How to diagnose Bell's palsy ?</Question>
-			<Answer></Answer>
+			<Answer>Often, Bell palsy can be diagnosed just by taking a health history and doing a complete physical exam. Blood tests will be done to look for medical problems such as Lyme disease, which may cause Bell palsy.  Sometimes, a test is needed to check the nerves that supply the muscles of the face: Electromyography ( EMG ) to check the health of the facial muscles and the nerves that control the muscles,  Nerve conduction test  to check how fast electrical signals move through a nerve,  If your health care provider is worried there is another cause for your symptoms, you may need: CT scan of the head ,  Magnetic resonance imaging (MRI) of the head , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000418-5" qtype="treatment">What are the treatments for Bell's palsy ?</Question>
-			<Answer></Answer>
+			<Answer>Often, no treatment is needed. Symptoms often begin to improve right away. But, it may take weeks or even months for the muscles to get stronger. Your provider may give you lubricating eye drops or eye ointments to keep the surface of the eye moist if you can't close it completely. You may need to wear an eye patch while you sleep. Sometimes, medicines may be used, but it isn't known how much they help. If medicines are used, they are started right away. Common medicines are: Corticosteroids, which may reduce swelling around the facial nerve, Medicines such as valacyclovir to fight the virus that may be causing Bell palsy,  Surgery to relieve pressure on the nerve (decompression surgery) has not been shown to benefit most people with Bell palsy.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000418-6" qtype="outlook">What is the outlook for Bell's palsy ?</Question>
-			<Answer></Answer>
+			<Answer>Most cases go away completely within a few weeks to months. If you did not lose all of your nerve function and symptoms began to improve within 3 weeks, you are more likely to regain all or most of the strength in your facial muscles. Sometimes, the following symptoms may still be present: Long-term changes in taste, Spasms of muscles or eyelids, Weakness that remains in facial muscles , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000418-7" qtype="complications">What are the complications of Bell's palsy ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Eye surface becoming dry, leading to eye sores, infections, and vision loss, Swelling in the muscles due to loss of nerve function, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000418-8" qtype="when to contact a medical professional">Do I need to see a doctor for Bell's palsy ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider right away if your face droops or you have other symptoms of Bell palsy. Your provider can rule out other, more serious conditions, such as stroke.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000418-9" qtype="prevention">How to prevent Bell's palsy ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known way to prevent Bell palsy.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

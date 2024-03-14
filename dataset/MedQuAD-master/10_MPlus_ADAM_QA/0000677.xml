@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000677" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002469.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Carbohydrates</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -16,7 +15,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000677-1" qtype="information">Do you have information about Carbohydrates</Question>
-			<Answer></Answer>
+			<Answer>Carbohydrates are one of the main nutrients in our diet. They help provide energy for our body. There are three main types of carbohydrates found in foods: sugars, starches, and  fiber . People with diabetes often need to  count the amount of carbohydrates  they eat to ensure a consistent supply throughout the day.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

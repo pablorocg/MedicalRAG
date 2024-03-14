@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003972" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003067.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Toothaches</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,27 +19,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003972-1" qtype="information">What is (are) Toothaches ?</Question>
-			<Answer></Answer>
+			<Answer>A toothache is pain in or around a tooth.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003972-2" qtype="considerations">What to do for Toothaches ?</Question>
-			<Answer></Answer>
+			<Answer>A toothache is often the result of  dental cavities  (tooth decay) or an infection or irritation of the tooth. Tooth decay is often caused by poor  dental hygiene . It may also be partly inherited. In some cases, toothache may be caused due to grinding teeth or other dental trauma.  Sometimes, pain that is felt in the tooth is actually due to pain in other parts of the body. This is called referred pain. For example, an earache may sometimes cause tooth pain.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003972-3" qtype="causes">What causes Toothaches ?</Question>
-			<Answer></Answer>
+			<Answer>A toothache may occur because of: Abscessed tooth ,  Earache ,  Injury to the jaw or mouth ,  Heart attack  (can include jaw pain,  neck pain , or toothache),  Sinus infection , Tooth decay, Tooth trauma such as wear, injury, or fracture, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003972-4" qtype="considerations">What to do for Toothaches ?</Question>
-			<Answer></Answer>
+			<Answer>A toothache is often the result of  dental cavities  (tooth decay) or an infection or irritation of the tooth. Tooth decay is often caused by poor  dental hygiene . It may also be partly inherited. In some cases, toothache may be caused due to grinding teeth or other dental trauma.  Sometimes, pain that is felt in the tooth is actually due to pain in other parts of the body. This is called referred pain. For example, an earache may sometimes cause tooth pain.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003972-5" qtype="when to contact a medical professional">Do I need to see a doctor for Toothaches ?</Question>
-			<Answer></Answer>
+			<Answer>Seek medical care if: You have a severe toothache, You have a toothache that lasts longer than a day or two, You have  fever , earache, or pain when opening your mouth wide,  Note: The dentist is an appropriate person to see for most causes of toothaches. However, if the problem is referred pain from another location, you may need to see your primary provider.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003972-6" qtype="outlook">What is the outlook for Toothaches ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

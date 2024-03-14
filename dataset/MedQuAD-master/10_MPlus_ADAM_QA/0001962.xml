@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001962" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003319.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Heterochromia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,23 +20,24 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001962-1" qtype="information">What is (are) Heterochromia ?</Question>
-			<Answer></Answer>
+			<Answer>Heterochromia is&#160;different colored eyes in the same person.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001962-2" qtype="considerations">What to do for Heterochromia ?</Question>
-			<Answer></Answer>
+			<Answer>Heterochromia is uncommon in humans. However, it is quite common in dogs (such as Dalmatians and Australian sheep dogs), cats, and horses.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001962-3" qtype="causes">What causes Heterochromia ?</Question>
-			<Answer></Answer>
+			<Answer>Most cases of heterochromia are hereditary, caused by a disease or syndrome, or due to an injury. Sometimes, one eye may change color following certain diseases or injuries. Specific causes of eye color changes include: Bleeding (hemorrhage), Familial heterochromia
+   , Foreign object in the eye,  Glaucoma , or some medicines used to treat it, Injury, Mild inflammation affecting only one eye,  Neurofibromatosis ,  Waardenburg syndrome , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001962-4" qtype="when to contact a medical professional">Do I need to see a doctor for Heterochromia ?</Question>
-			<Answer></Answer>
+			<Answer>Talk to your health care provider if you notice new changes in the color of one eye, or two differently colored eyes in your infant. A thorough eye exam is needed to rule out a medical problem. Some conditions and syndromes associated with heterochromia, such as pigmentary glaucoma, can only be detected by a thorough eye exam.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001962-5" qtype="outlook">What is the outlook for Heterochromia ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

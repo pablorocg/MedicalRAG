@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004101" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007593.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ureteroscopy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004101-1" qtype="information">Do you have information about Ureteroscopy</Question>
-			<Answer></Answer>
+			<Answer>Ureteroscopy uses a small lighted viewing scope to examine the ureters. Ureters are the tubes that connect the kidneys to the bladder. This procedure can help diagnose and treat problems in the urinary tract, such as kidney stones.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

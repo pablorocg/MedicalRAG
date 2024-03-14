@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004118" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000188.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Urinary incontinence - what to ask your doctor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004118-1" qtype="information">What is (are) Urinary incontinence - what to ask your doctor ?</Question>
-			<Answer></Answer>
+			<Answer>You have  urinary incontinence . This means that you are not able to keep urine from leaking from your urethra, the tube that carries urine out of your body from your bladder. Urinary incontinence may occur as you get older. It can also develop after a surgery or childbirth. There are different types of incontinence. Your health care provider will evaluate your type and recommend appropriate treatment. You can do many things to help keep urinary incontinence from affecting your daily life.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

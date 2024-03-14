@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000229" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000091.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Angioplasty and stent - heart - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000229-1" qtype="information">Do you have information about Angioplasty and stent - heart - discharge</Question>
-			<Answer></Answer>
+			<Answer>Angioplasty is a procedure to open narrowed or blocked blood vessels that supply blood to the heart. These blood vessels are called the coronary arteries. A coronary artery stent is a small, metal mesh tube that expands inside a coronary artery.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002166" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000793.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Increased intracranial pressure</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,35 +23,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002166-1" qtype="information">What is (are) Increased intracranial pressure ?</Question>
-			<Answer></Answer>
+			<Answer>Increased intracranial pressure is a rise in the pressure inside the skull that can result from or cause brain injury.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002166-2" qtype="causes">What causes Increased intracranial pressure ?</Question>
-			<Answer></Answer>
+			<Answer>Increased intracranial pressure can be due to a rise in the pressure of the cerebrospinal fluid. This is the fluid that surrounds the brain and spinal cord. An increase in intracranial pressure can also be due to a rise in pressure within the brain itself. This can be caused by a mass (such as a tumor), bleeding into the brain or fluid around the brain, or swelling of the brain. An increase in intracranial pressure is a serious and life-threatening medical problem. The pressure can damage the brain or spinal cord by pressing on important structures and by restricting blood flow into the brain. Many conditions can increase intracranial pressure. Common causes include: Aneurysm  rupture and  subarachnoid hemorrhage , Brain tumor,  Encephalitis  (irritation and swelling, or inflammation of the brain),  Head injury ,  Hydrocephalus  (increased fluid within the brain), Hypertensive brain hemorrhage (bleeding in the brain from high blood pressure), Intraventricular hemorrhage (bleeding into the fluid-filled areas, or ventricles, inside the brain),  Meningitis  (infection of the membranes covering the brain and spinal cord),  Subdural hematoma  (bleeding between the covering of the brain and the surface of the brain),  Epidural hematoma  (bleeding between the inside of the skull and the outer covering of the brain),  Seizure ,  Stroke , Brain injury following a cardiac arrest, Clots in the veins of the brain (sinus thrombosis), </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002166-3" qtype="symptoms">What are the symptoms of Increased intracranial pressure ?</Question>
-			<Answer></Answer>
+			<Answer>Infants: Drowsiness,  Separated sutures  on the skull, Bulging of the soft spot on top of the head (bulging fontanelle), Vomiting,  Older children and adults: Behavior changes,  Decreased alertness ,  Headache , Lethargy, Nervous system symptoms, including weakness, numbness, eye movement problems, and double vision,  Seizures ,  Vomiting , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002166-4" qtype="exams and tests">How to diagnose Increased intracranial pressure ?</Question>
-			<Answer></Answer>
+			<Answer>A health care provider will usually make the diagnosis at the patient's bedside in an emergency room or hospital. Primary care providers may sometimes spot early symptoms of increased intracranial pressure such as headache, seizures, or other nervous system problems. An  MRI  or  CT scan  of the head can usually determine the cause of increased intracranial pressure and confirm the diagnosis. Intracranial pressure may be measured during a  spinal tap  (lumbar puncture). It can also be measured directly by using a  device  that is drilled through the skull or a tube (catheter) that is inserted into a hollow area in the brain called the ventricle.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002166-5" qtype="treatment">What are the treatments for Increased intracranial pressure ?</Question>
-			<Answer></Answer>
+			<Answer>Sudden increased intracranial pressure is an emergency. The person will be treated in the intensive care unit of the hospital. The health care team will measure and monitor the person's neurological and vital signs, including temperature, pulse, breathing rate, and blood pressure. Treatment may include: Breathing support, Draining of cerebrospinal fluid to lower pressure in the brain, Medicines to decrease swelling, Removal of part of the skull, especially in the first 2 days of a stroke that involves brain swelling,  If a tumor, hemorrhage, or other problem has caused the increase in intracranial pressure, these problems will be treated.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002166-6" qtype="outlook">What is the outlook for Increased intracranial pressure ?</Question>
-			<Answer></Answer>
+			<Answer>Sudden increased intracranial pressure is a serious and often life-threatening condition. Prompt treatment results in a better outlook. If the increased pressure pushes on important brain structures and blood vessels, it can lead to serious, permanent problems or even death. Long-lasting increased intracranial pressure (such as with idiopathic intracranial hypertension) can result in permanent vision loss.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002166-7" qtype="complications">What are the complications of Increased intracranial pressure ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002166-8" qtype="prevention">How to prevent Increased intracranial pressure ?</Question>
-			<Answer></Answer>
+			<Answer>Traumatic brain injury risk can be reduced by wearing appropriate protective headgear for contact sports, while riding a bicycle, and during similar activities. Otherwise, this condition usually cannot be prevented. If you have a persistent headache, blurred vision, changes in your level of alertness, nervous system problems, or seizures, seek medical help right away.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

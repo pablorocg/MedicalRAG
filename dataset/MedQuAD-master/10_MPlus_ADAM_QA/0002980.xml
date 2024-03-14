@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002980" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000015.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pediatric heart surgery - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -29,7 +28,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002980-1" qtype="information">Do you have information about Pediatric heart surgery - discharge</Question>
-			<Answer></Answer>
+			<Answer>Your child had  surgery to repair a heart defect . If your child had open-heart surgery, a surgical cut was made through the breastbone or the side of the chest. The child also may have been put on a heart-lung bypass machine during surgery. After the surgery, your child was probably in the intensive care unit (ICU) and then in another part of the hospital.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

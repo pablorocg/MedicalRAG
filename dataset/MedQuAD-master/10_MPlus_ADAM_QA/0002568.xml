@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002568" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000850.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Melanoma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,43 +21,43 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002568-1" qtype="information">What is (are) Melanoma ?</Question>
-			<Answer></Answer>
+			<Answer>Melanoma is the most dangerous type of skin cancer. It is also the rarest. It is the leading cause of death from skin disease. Other common types of skin cancer are  squamous cell carcinoma  and  basal cell carcinoma .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002568-2" qtype="causes">What causes Melanoma ?</Question>
-			<Answer></Answer>
+			<Answer>Melanoma is caused by changes (mutations) in skin cells called melanocytes. These cells make a skin color pigment called melanin. Melanin is responsible for skin and hair color. Melanoma can appear on normal skin. Sometimes it can develop from moles. Moles that are present at birth may develop into melanomas. Larger moles that are present at birth may be at higher risk for developing melanoma. There are four major types of melanoma: Superficial spreading melanoma  is the most common type. It is usually flat and irregular in shape and color, with different shades of black and brown. It is most common in fair skin people.,  Nodular melanoma  usually starts as a raised area that is dark blackish-blue or bluish-red. Some do not have any color (amelanotic melanoma).,  Lentigo maligna melanoma  usually occurs in older people. It is most common in sun-damaged skin on the face, neck, and arms. The abnormal skin areas are usually large, flat, and tan with areas of brown.,  Acral lentiginous melanoma  is the least common form. It usually occurs on the palms, soles, or under the nails. ,  The risk for developing melanoma increases with age. However, more and more young people are developing it. You are more likely to develop melanoma if you: Have fair skin, blue or green eyes, or red or blond hair, Live in sunny climates or at high altitudes, Spent a lot of time in high levels of strong sunlight because of a job or other activities, Have had one or more blistering sunburns during childhood, Use tanning devices, such as tanning beds,  Other risk factors include: Having close relatives with melanoma, Certain types of moles (atypical or dysplastic) or many birthmarks, Weakened immune system due to disease or medicines , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002568-3" qtype="symptoms">What are the symptoms of Melanoma ?</Question>
-			<Answer></Answer>
+			<Answer>A mole, sore, lump, or growth on the skin can be a sign of melanoma or other skin cancer. A sore or growth that bleeds, or changes in color can also be a sign of skin cancer. The  ABCDE  system can help you remember possible symptoms of melanoma: A symmetry: One half of the abnormal area is different from the other half.,  B orders: The edges of the growth are irregular.,  C olor: Color changes from one area to another, with shades of tan, brown, or black, and sometimes white, red, or blue. A mixture of colors may appear within one sore.,  D iameter: The spot is usually (but not always) larger than 5 mm in diameter -- about the size of a pencil eraser.,  E volution: The mole keeps changing appearance. ,  Another way to look for possible melanoma is the "ugly duckling sign." This means the melanoma does not look like any of the other spots on the body. It stands out like the ugly duckling in the children's story.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002568-4" qtype="exams and tests">How to diagnose Melanoma ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will check your skin and look at the size, shape, color, and texture of any suspicious areas with a dermatoscope. If your provider thinks you might have skin cancer, a piece of skin from the growth will be removed. This is called a  skin biopsy . The sample is sent to a lab for examination under a microscope. A  sentinel lymph node (SLN) biopsy  may be done in some people with melanoma to see if the cancer has spread to nearby lymph nodes. Once melanoma has been diagnosed,  CT scans  or other types of x-rays may be done to see if the cancer has spread.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002568-5" qtype="treatment">What are the treatments for Melanoma ?</Question>
-			<Answer></Answer>
+			<Answer>Surgery is almost always needed to treat melanoma. The skin cancer and some surrounding area will be removed. How much skin is removed depends on how deep the melanoma has grown. If the cancer has spread to nearby lymph nodes, these lymph nodes may also be removed. After surgery, depending on the risk of the disease returning, you may receive chemotherapy or immunotherapy. Treatment is more difficult when the melanoma has spread to other organs. Treatment involves shrinking the skin cancer and treating the cancer in other areas of the body. You may receive: Chemotherapy : Medicines are used to kill cancer cells directly., Immunotherapy: These include drugs such as interferon to help your immune system fight the cancer, or other drugs that boost your immune system's ability to find cancer cells and kill them. They may be used along with chemotherapy and surgery.,  Radiation treatments : These may be used to kill cancer cells., Surgery: Surgery may be done to remove cancer that has spread to other parts of the body. This is done to relieve pain or discomfort associated with the growing cancer., Topical medicines: It boosts the immune system in local areas.,  If you have melanoma that is hard to treat, you might consider enrolling in a clinical trial. Ask your doctor for more information. Researchers continue to study new treatments.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002568-6" qtype="support groups">Where to find support for people with Melanoma ?</Question>
-			<Answer></Answer>
+			<Answer>Sharing with others who have common experiences and problems can help you not feel alone. More information and support for people with melanoma and their families can be found at: National Cancer Institute --  www.cancer.gov/about-nci , American Cancer society --  www.cancer.org/cancer/melanoma-skin-cancer , The American Melanoma Foundation --  melanomafoundation.org/ , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002568-7" qtype="outlook">What is the outlook for Melanoma ?</Question>
-			<Answer></Answer>
+			<Answer>How well you do depends on many things, including how soon the cancer was diagnosed, and how far it has spread.  In its early stage, most melanomas can be cured. Melanoma that is very deep or has spread to the lymph nodes is more likely to return after treatment. If it is deeper than 4 mm or has spread to the lymph nodes, the cancer is more likely to have spread to other tissues and organs. If you have had melanoma and recovered, it is very important to examine your body regularly for any unusual changes. Your risk for melanoma increases once you have had this cancer. Melanoma can return years later.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002568-8" qtype="complications">What are the complications of Melanoma ?</Question>
-			<Answer></Answer>
+			<Answer>Melanoma can spread to other parts of the body. Melanoma treatment can cause side effects, including pain, nausea, and fatigue.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002568-9" qtype="when to contact a medical professional">Do I need to see a doctor for Melanoma ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you notice a new growth or any other changes in your skin. Also talk to your provider if an existing spot: Changes in shape, size or color, Become painful, swollen, or inflamed, Starts to bleed or itch, </Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0002568-10" qtype="prevention">How to prevent Melanoma ?</Question>
-			<Answer></Answer>
+			<Answer>Some people should see a skin doctor for regular skin exams. These include people with: A family history of melanoma, Severely sun-damaged skin, Lots of moles on their skin ,  A skin doctor can examine you and tell you whether you need regular skin checks. Sometimes, unusual moles are removed to prevent them from turning into melanoma. You should also examine your own skin once a month. Use a mirror to check hard-to-see places. Use the ABCDE system and the "ugly duckling" sign when checking your skin.&#160; The best way to prevent skin cancer is to reduce your exposure to sunlight. Ultraviolet light is most intense between 10 a.m. and 4 p.m. Try to avoid sun exposure during these hours. Protect your skin by wearing a hat, long-sleeved shirt, long skirt, or pants when you have to be outside. The following tips can also help: Apply high-quality sunscreen with a sun protection factor (SPF) rating of 30 or higher, even when you are only going outdoors for a short time., Apply a large amount of sunscreen on all exposed areas, including ears and feet., Look for sunscreens that block both UVA and UVB light. These will have the label "broad spectrum.", Use a waterproof formula if exposed to water., Apply sunscreen at least 30 minutes before going outside. Reapply it often, especially after swimming., Use sunscreen in winter, too. Protect yourself even on cloudy days.&#160;,  Other important facts to help you avoid too much sun exposure: Avoid surfaces that reflect more light, such as water, sand, concrete, and white-painted areas., Be extra careful at higher altitudes, where skin burns faster., Avoid sun lamps, tanning beds, and tanning salons.&#160;,  Even though melanoma can develop in some moles, doctors feel that there is no advantage to remove moles to prevent melanoma.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

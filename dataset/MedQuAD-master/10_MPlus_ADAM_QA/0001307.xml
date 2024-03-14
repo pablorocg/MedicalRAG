@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001307" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007470.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Dysarthria</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,31 +21,31 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001307-1" qtype="information">What is (are) Dysarthria ?</Question>
-			<Answer></Answer>
+			<Answer>Dysarthria is a condition in which you have difficulty saying words because of problems with the muscles that help you talk.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001307-2" qtype="causes">What causes Dysarthria ?</Question>
-			<Answer></Answer>
+			<Answer>In a person with dysarthria, a nerve, brain, or muscle disorder makes it difficult to use or control the muscles of the mouth, tongue, larynx, or vocal cords. The muscles may be weak or completely paralyzed. Or, it may be hard for the muscles to work together. Dysarthria may be the result of brain damage due to: Brain injury,  Brain tumor ,  Dementia , Disease that causes the brain to lose its function (degenerative brain disease),  Multiple sclerosis ,  Parkinson disease ,  Stroke ,  Dysarthria may result from damage to the nerves that supply the muscles that help you talk, or to the muscles themselves from: Face or neck trauma, Surgery for head and neck cancer, such as partial or total removal of the tongue or  voice box ,  Dysarthria may be caused by diseases that affect nerves and muscles (neuromuscular diseases): Cerebral palsy ,  Muscular dystrophy ,  Myasthenia gravis , Amyotrophic lateral sclerosis ( ALS ), or Lou Gehrig disease,  Other causes may include: Alcohol or drug intoxication, Poorly fitting dentures, Side effects of medicines that act on the central nervous system, such as narcotics, phenytoin, or carbamazepine , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001307-3" qtype="symptoms">What are the symptoms of Dysarthria ?</Question>
-			<Answer></Answer>
+			<Answer>Depending on its cause, dysarthria may develop slowly or occur suddenly. People with dysarthria have trouble making certain sounds or words. Their speech is poorly pronounced (such as slurring), and the rhythm or speed of their speech changes. Other symptoms include: Sounding as though they are mumbling, Speaking softly or in a whisper, Speaking in a nasal or stuffy, hoarse, strained, or breathy voice,  A person with dysarthria may also drool and have problems chewing or swallowing. It may be hard to move the lips, tongue, or jaw.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001307-4" qtype="exams and tests">How to diagnose Dysarthria ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will take a medical history and perform a physical exam. Family and friends may need to help with the medical history. A procedure called laryngoscopy may be done. During this procedure, a flexible viewing scope is placed in the mouth and throat to view the voice box. Tests that may be done if the cause of the dysarthria is unknown include: Blood tests for toxins or vitamin levels, Imaging tests, such as an  MRI  or  CT scan  of the brain or neck, Nerve conduction studies and  electromyogram  to check the electrical function of the nerves or muscles, Swallowing study, which may include x-rays and drinking a special liquid , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001307-5" qtype="treatment">What are the treatments for Dysarthria ?</Question>
-			<Answer></Answer>
+			<Answer>You may need to be referred to a speech and language therapist for testing and treatment. Special skills you may learn include: Safe chewing or swallowing techniques, if needed, To avoid conversations when you are tired or eating, To repeat sounds over and over again so you can learn mouth movements, To speak slowly, use a louder voice, and pause to make sure other people understand, What to do when you feel frustrated while speaking ,  You can use many different devices or techniques to help with speech, such as: Apps that use photos or speech, Computers or cell phones to type out words, Flip cards with words or symbols ,  Surgery may help people with dysarthria. Things that family and friends can do to  communicate better  with someone who has dysarthria include: Turn off the radio or TV., Move to a quieter room if needed., Make sure lighting in the room is good., Sit close enough so that you and the person who has dysarthria can use visual cues., Make eye contact with each other. ,  Listen carefully and allow the person to finish. Be patient. Make eye contact with them before speaking. Give positive feedback for their effort.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001307-6" qtype="outlook">What is the outlook for Dysarthria ?</Question>
-			<Answer></Answer>
+			<Answer>Depending on the cause of dysarthria, symptoms may improve, stay the same, or get worse slowly or quickly. People with ALS eventually lose the ability to speak., Some people with Parkinson disease or multiple sclerosis lose the ability to speak., Dysarthria caused by medicines or poorly fitting dentures can be reversed., Dysarthria caused by a stroke or brain injury will not get worse, and may improve., Dysarthria after surgery to the tongue or voice box should not get worse, and may improve with therapy. , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001307-7" qtype="when to contact a medical professional">Do I need to see a doctor for Dysarthria ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have: Chest pain, chills, fever, shortness of breath, or other symptoms of pneumonia, Coughing or choking, Difficulty speaking to or communicating with other people, Feelings of sadness or depression, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

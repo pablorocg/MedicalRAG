@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000217" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001580.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Anencephaly</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,35 +21,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000217-1" qtype="information">What is (are) Anencephaly ?</Question>
-			<Answer></Answer>
+			<Answer>Anencephaly is the absence of a large part of the brain and the skull.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000217-2" qtype="causes">What causes Anencephaly ?</Question>
-			<Answer></Answer>
+			<Answer>Anencephaly is one of the most common neural tube defects. Neural tube defects are birth defects that affect the tissue that becomes the spinal cord and brain. Anencephaly occurs early in the development of an unborn baby. It results when the upper part of the neural tube fails to close. The exact cause is not known. Possible causes include: Environmental  toxins , Low intake of  folic acid  by the mother during pregnancy,  The exact number of cases of anencephaly is unknown. Many of these pregnancies result in miscarriage. Having one infant with this condition increases the risk of having another child with neural tube defects.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000217-3" qtype="symptoms">What are the symptoms of Anencephaly ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of anencephaly are: Absence of the skull, Absence of parts of the brain, Facial feature abnormalities, Severe developmental delay,  Heart defects may be present in 1 out of 5 cases.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000217-4" qtype="exams and tests">How to diagnose Anencephaly ?</Question>
-			<Answer></Answer>
+			<Answer>An  ultrasound  during pregnancy is done to confirm the diagnosis. The ultrasound may reveal too much fluid in the uterus. This condition is called  polyhydramnios . The mother may also have these tests during pregnancy: Amniocentesis  (to look for increased levels of  alpha-fetoprotein ), Alpha-fetoprotein level (increased levels suggest a neural tube defect), Urine estriol level ,  A pre-pregnancy serum folic acid test may also be done.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000217-5" qtype="treatment">What are the treatments for Anencephaly ?</Question>
-			<Answer></Answer>
+			<Answer>There is no current treatment. Talk to your health care provider about care decisions.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000217-6" qtype="outlook">What is the outlook for Anencephaly ?</Question>
-			<Answer></Answer>
+			<Answer>This condition most often causes death within a few days after birth.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000217-7" qtype="when to contact a medical professional">Do I need to see a doctor for Anencephaly ?</Question>
-			<Answer></Answer>
+			<Answer>A provider usually detects this condition during routine prenatal testing and ultrasound. Otherwise, it is recognized at birth. If anencephaly is detected before birth, further counseling will be needed.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000217-8" qtype="prevention">How to prevent Anencephaly ?</Question>
-			<Answer></Answer>
+			<Answer>There is good evidence that folic acid can help reduce the risk for certain birth defects, including anencephaly. Women who are pregnant or planning to become pregnant should take a multivitamin with folic acid every day. Many foods are now fortified with folic acid to help prevent these kinds of birth defects. Getting enough  folic acid  can cut the chances of neural tube defects in half.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

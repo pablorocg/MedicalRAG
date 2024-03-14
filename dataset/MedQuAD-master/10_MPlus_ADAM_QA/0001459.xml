@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001459" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007397.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Esophagectomy - open</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001459-1" qtype="information">Do you have information about Esophagectomy - open</Question>
-			<Answer></Answer>
+			<Answer>Open esophagectomy is surgery to remove part or all of the esophagus. This is the tube that moves food from your throat to your stomach. After it is removed, the esophagus is rebuilt from part of your stomach or part of your large intestine. Most of the time, esophagectomy is done to treat  cancer of the esophagus  or a severely damaged esophagus.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

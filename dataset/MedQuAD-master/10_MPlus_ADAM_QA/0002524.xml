@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002524" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000086.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Managing your blood sugar</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002524-1" qtype="information">Do you have information about Managing your blood sugar</Question>
-			<Answer></Answer>
+			<Answer>When you have diabetes, you should have good control of your blood sugar. If your blood sugar is not controlled, serious health problems called complications can happen to your body. Learn how to manage your blood sugar so that you can stay as healthy as possible.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

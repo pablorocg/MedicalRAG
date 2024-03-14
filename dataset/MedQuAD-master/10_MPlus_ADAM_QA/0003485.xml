@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003485" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001256.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Scleroma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003485-1" qtype="information">What is (are) Scleroma ?</Question>
-			<Answer></Answer>
+			<Answer>A scleroma is a hardened patch of tissue in the skin or mucous membranes. It most often forms in the head and neck. The nose is the most common location for scleromas, but they can also form in the throat and upper lungs. A scleroma can form when a chronic bacterial infection causes inflammation, swelling, and scarring in the tissues. They are most common in Central and South America, Africa, the Middle East, Asia, India, and Indonesia. Scleromas are rare in the United States and Western Europe. Treatment may require surgery and a long course of antibiotics.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

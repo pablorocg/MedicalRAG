@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001720" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007333.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Gestational trophoblastic disease</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001720-1" qtype="information">What is (are) Gestational trophoblastic disease ?</Question>
-			<Answer></Answer>
+			<Answer>Gestational trophoblastic disease (GTD) is a group of pregnancy-related conditions that develop inside a woman's uterus (womb). The abnormal cells start in the tissue that would normally become the placenta. The placenta is the organ that develops during pregnancy to feed the fetus. In most cases, only placental tissue forms with gestational trophoblastic disease. In rare circumstances a fetus may also form. There are several types of GTD. Choriocarcinoma  (a type of cancer),  Hydatiform mole  (also called a molar pregnancy), </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001172" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000359.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Devices for hearing loss</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001172-1" qtype="information">What is (are) Devices for hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>If you are  living with hearing loss , you know that it takes extra effort to communicate with others. There are many different devices that can improve your ability to communicate. This can help reduce stress for you and those around you. These devices can improve your life in numerous ways. You can avoid becoming socially isolated., You can remain more independent., You can be safer wherever you are. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

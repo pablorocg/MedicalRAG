@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001729" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001174.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Gigantism</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,35 +22,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001729-1" qtype="information">What is (are) Gigantism ?</Question>
-			<Answer></Answer>
+			<Answer>Gigantism is abnormal growth due to an excess of  growth hormone &#160;(GH) during childhood.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001729-2" qtype="causes">What causes Gigantism ?</Question>
-			<Answer></Answer>
+			<Answer>Gigantism is very rare. The most common cause of too much GH release is a noncancerous (benign)  tumor  of the pituitary gland. Other causes include: Genetic disease that affects the skin color (pigmentation) and causes benign tumors of the skin, heart, and endocrine (hormone) system (Carney complex), Genetic disease that affects the bones and skin pigmentation ( McCune-Albright syndrome ), Genetic disease in which one or more of the endocrine glands are overactive or form a tumor ( multiple endocrine neoplasia type 1 ) or type 4, Genetic disease that forms pituitary tumors, Disease in which tumors form on the nerves of the brain and spine (neurofibromatosis) ,  If excess GH occurs after normal bone growth has stopped (end of puberty), the condition is known as  acromegaly .</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001729-3" qtype="symptoms">What are the symptoms of Gigantism ?</Question>
-			<Answer></Answer>
+			<Answer>The child will grow in height, as well as in the muscles and organs. This excessive growth makes the child extremely large for his or her age. Other symptoms include: Delayed puberty, Double vision or difficulty with side (peripheral) vision, Very prominent forehead ( frontal bossing ) and a prominent jaw, Gaps between the teeth,  Headache , Increased sweating, Irregular periods (menstruation), Joint pain, Large hands and feet with thick fingers and toes, Release of breast milk, Sleep problems such as obstructive sleep apnea, Thickening of the facial features, Weakness, Voice changes, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001729-4" qtype="exams and tests">How to diagnose Gigantism ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam and ask about the child's symptoms. Laboratory tests that may be ordered include: Cortisol ,  Estradiol  (girls),  GH suppression test ,  Prolactin , Insulin-like growth factor-I,  Testosterone  (boys), Thyroid hormone,  Imaging tests, such as  CT  or  MRI  scan of the head, also may be ordered to check for a  pituitary tumor .</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001729-5" qtype="treatment">What are the treatments for Gigantism ?</Question>
-			<Answer></Answer>
+			<Answer>For pituitary tumors, surgery can cure many cases. When surgery cannot completely remove the tumor, medicines are used to block or reduce GH release or prevent GH from reaching target tissues. Sometimes radiation treatment is used to decrease the size of the tumor after surgery.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001729-6" qtype="outlook">What is the outlook for Gigantism ?</Question>
-			<Answer></Answer>
+			<Answer>Pituitary surgery is usually successful in limiting GH production. Early treatment can reverse many of the changes caused by GH excess. Long-term effects on bones, joints, and the heart are common.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001729-7" qtype="complications">What are the complications of Gigantism ?</Question>
-			<Answer></Answer>
+			<Answer>Surgery and radiation treatment may lead to low levels of other pituitary hormones. This can cause any of the following conditions: Adrenal insufficiency (adrenal glands do not produce enough of their hormones),  Diabetes insipidus  (extreme thirst and excessive urination; in rare cases),  Hypogonadism  (body's sex glands produce little or no hormones),  Hypothyroidism  (thyroid gland does not make enough thyroid hormone), </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001729-8" qtype="when to contact a medical professional">Do I need to see a doctor for Gigantism ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if your child has signs of excessive growth.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

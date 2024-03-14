@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001355" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007258.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Elbow replacement</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,19 +20,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001355-1" qtype="information">What is (are) Elbow replacement ?</Question>
-			<Answer></Answer>
+			<Answer>Elbow replacement is surgery to replace the elbow joint with artificial joint parts ( prosthetics ).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001355-2" qtype="information">What is (are) Elbow replacement ?</Question>
-			<Answer></Answer>
+			<Answer>Elbow replacement is surgery to replace the elbow joint with artificial joint parts ( prosthetics ).</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001355-4" qtype="susceptibility">Who is at risk for Elbow replacement? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001355-7" qtype="outlook">What is the outlook for Elbow replacement ?</Question>
-			<Answer></Answer>
+			<Answer>Elbow replacement surgery eases pain for most people. It can also increase the range of motion of your elbow joint. A second elbow replacement surgery is usually not as successful as the first one.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

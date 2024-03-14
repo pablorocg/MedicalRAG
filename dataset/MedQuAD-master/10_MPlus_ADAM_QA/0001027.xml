@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001027" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003610.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Creatinine urine test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001027-1" qtype="information">Do you have information about Creatinine urine test</Question>
-			<Answer></Answer>
+			<Answer>The creatinine urine test measures the amount of creatinine in urine. This test is done to see how well your kidneys are working. Creatinine in the blood can be measured by a blood test.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

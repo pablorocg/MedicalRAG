@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003930" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007265.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Thyroid nodule</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -32,31 +31,36 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003930-1" qtype="information">What is (are) Thyroid nodule ?</Question>
-			<Answer></Answer>
+			<Answer>A thyroid nodule is a growth (lump) in the thyroid gland. The thyroid gland is located&#160;at the front of&#160;the neck, just above where your collarbones meet in the middle.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003930-2" qtype="causes">What causes Thyroid nodule ?</Question>
-			<Answer></Answer>
+			<Answer>Thyroid nodules are caused by an overgrowth of cells in the thyroid gland. These growths can be:  Not cancer (benign), thyroid cancer (malignant), or very rarely, other cancers or infections, Fluid-filled (cysts), One nodule or a group of small nodules, Producing thyroid hormones (hot nodule) or not making thyroid hormones (cold nodule),  Thyroid nodules are very common. They occur more often in women than in men. A person's chance of getting&#160;a thyroid nodule increases with age. Only a few thyroid nodules are due to  thyroid cancer . A thyroid nodule is more likely to be cancer if you: Have a hard nodule, Have a nodule that is stuck to nearby structures, Have a family history of thyroid cancer, Have noticed a change in your voice, Are younger than 20 or older than 70, Have a history of radiation exposure to the head or neck, Are male,  Causes of thyroid nodules are not always found, but can include: Hashimoto disease  (a reaction of the immune system against the thyroid gland), Lack of iodine in the diet , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003930-3" qtype="symptoms">What are the symptoms of Thyroid nodule ?</Question>
-			<Answer></Answer>
+			<Answer>Most thyroid nodules do not cause symptoms. Large nodules can press against other structures in the neck. This can&#160;cause symptoms such as: 
+ A visible  goiter &#160;(enlarged thyroid gland), 
+ Hoarseness or changing voice
+ , Pain in the neck, 
+ Problems breathing,&#160;especially when lying down flat,  Problems swallowing &#160;food,  Nodules that produce thyroid hormones will likely cause symptoms of an&#160; overactive thyroid gland , including: Warm, sweaty skin, Fast pulse and palpitations, Increased appetite, Nervousness or anxiety, Restlessness or poor sleep, Skin blushing or flushing, More frequent bowel movements, Tremor,  Weight loss , Irregular or lighter menstrual periods,  Older people with a nodule that produces too much thyroid hormone may have only vague symptoms, including: Fatigue, Palpitations, Chest pain, Memory loss,  Thyroid nodules are sometimes found in people who have Hashimoto disease. Hashimoto disease may cause symptoms of an underactive thyroid gland,&#160;such as:&#160; Constipation&#160;,  Dry skin ,  Face swelling ,  Fatigue , Hair loss, Feeling cold when other people do not,  Weight gain  , Irregular menstrual periods,  Very often, nodules produce no symptoms. Health care providers often find thyroid nodules during a routine physical exam or imaging tests that are done for another reason. A few people have thyroid nodules that are big enough that they notice the nodule on their own and ask a provider to examine their neck.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003930-4" qtype="exams and tests">How to diagnose Thyroid nodule ?</Question>
-			<Answer></Answer>
+			<Answer>If&#160;a&#160;provider&#160;finds a nodule or you have symptoms of a nodule, the following tests may be done: TSH level  and other thyroid blood tests,  Thyroid ultrasound ,  Thyroid scan  (nuclear medicine)
+ ,  Fine needle aspiration biopsy  of the nodule or of multiple nodules (sometimes with special genetic testing on the nodule tissue), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003930-5" qtype="treatment">What are the treatments for Thyroid nodule ?</Question>
-			<Answer></Answer>
+			<Answer>Your provider may recommend  surgery to remove all or part of your thyroid gland  if the nodule is: Due to thyroid cancer, Causing symptoms such as swallowing or breathing problems, If the fine needle biopsy is inconclusive, and your provider can't tell whether the nodule is a cancer, Making too much thyroid hormone,  People with nodules that are making too much thyroid hormone may be treated with radioiodine therapy. This reduces the size and activity of the nodule. Pregnant women or women who are still breastfeeding are not given this treatment.  Both surgery to remove thyroid gland tissue and radioactive iodine treatment can cause lifelong hypothyroidism (underactive thyroid). This condition needs to be treated with thyroid hormone replacement (a daily medicine). For noncancerous nodules that do not cause symptoms and are not growing, the best treatment may be: Careful follow-up with a physical exam and ultrasound, A thyroid biopsy repeated 6 to 12 months after diagnosis, especially if the nodule has grown , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003930-6" qtype="outlook">What is the outlook for Thyroid nodule ?</Question>
-			<Answer></Answer>
+			<Answer>Noncancerous thyroid nodules are not life-threatening. Many do not require treatment. Follow-up exams are enough.  The outlook for thyroid cancer depends on the type of cancer.&#160;For the most common kinds of thyroid cancer, the outlook is very good after treatment.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003930-7" qtype="when to contact a medical professional">Do I need to see a doctor for Thyroid nodule ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you feel or see a lump in your neck, or if you&#160;have any symptoms of a thyroid nodule. If you have been exposed to radiation in the face or neck area, contact your provider. A neck ultrasound can be done to look for thyroid nodules.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

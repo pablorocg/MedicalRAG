@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003900" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000637.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>The night before your surgery - children</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003900-1" qtype="information">Do you have information about The night before your surgery - children</Question>
-			<Answer></Answer>
+			<Answer>Follow the instructions from your child's doctor for the night before surgery. The directions should tell you when your child has to stop eating or drinking, and any other special instructions. Use the information below as a reminder.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

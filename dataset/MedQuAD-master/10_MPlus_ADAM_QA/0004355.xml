@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004355" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000894.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>14 ways to burn more calories every day</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,7 +21,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004355-1" qtype="information">What is (are) 14 ways to burn more calories every day ?</Question>
-			<Answer></Answer>
+			<Answer>If you are trying to lose weight, you need to cut back on how many calories you eat. But you can boost your weight loss efforts by burning more calories every day. This makes it easier to take off extra weight.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003637" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001356.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Smallpox</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,39 +22,42 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003637-1" qtype="information">What is (are) Smallpox ?</Question>
-			<Answer></Answer>
+			<Answer>Smallpox is a serious disease that is easily passed from person to person (contagious). It is caused by a virus.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003637-2" qtype="causes">What causes Smallpox ?</Question>
-			<Answer></Answer>
+			<Answer>Smallpox spreads from one person to another from saliva droplets. It may also be spread from bed sheets and clothing. It is most contagious during the first week of the infection. It may continue to be contagious until the scabs from the rash fall off. The virus can stay alive between 6 and 24 hours. People were once vaccinated against this disease. However, the disease has been eradicated since 1979. The United States stopped giving the smallpox vaccine in 1972. In 1980, the World Health Organization (WHO) recommended that all countries stop vaccinating for smallpox. There are two forms of smallpox: Variola major is a serious illness that can be life threatening in people who have not been vaccinated. It was responsible for a large number of deaths., Variola minor is a milder infection that rarely causes death. ,  A massive program by the WHO wiped out all known smallpox viruses from the world in the 1970s, except for a few samples saved for government research and presumed bioweapons. Researchers continue to debate whether or not to kill the last remaining samples of the virus or to preserve it in case there may be some future reason to study it. You are more likely to develop smallpox if you: Are a laboratory worker who handles the virus (rare), Are in a location where the virus was released as a biological weapon ,  It is unknown how long past vaccinations stay effective. People who received the vaccine many years ago may no longer be fully protected against the virus.  
+ THE RISK OF TERRORISM 
+  There is a concern that the smallpox virus could be spread as part of a terrorist attack. The virus could be spread in spray (aerosol) form. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003637-3" qtype="symptoms">What are the symptoms of Smallpox ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms most often occur about 12 to 14 days after you have been infected with the virus. They may include:  Backache,  Delirium , Diarrhea, Excessive bleeding, Fatigue, High fever,  Malaise , Raised pink rash, turns into sores that become crusty on day 8 or 9, Severe headache, Nausea and vomiting , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003637-4" qtype="exams and tests">How to diagnose Smallpox ?</Question>
-			<Answer></Answer>
+			<Answer>Tests include: DIC panel
+  ,  Platelet count ,  White blood cell count ,  Special laboratory tests can be used to identify the virus.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003637-5" qtype="treatment">What are the treatments for Smallpox ?</Question>
-			<Answer></Answer>
+			<Answer>The smallpox vaccine may prevent illness or lessen symptoms if it is given within 1 to 4 days after a person is exposed to the disease. Once symptoms have started, treatment is limited. In July 2013, a shipment of 59,000 courses of the antiviral drug tecovirimat was delivered by SIGA Technologies to the United States Government's Strategic National Stockpile for use in a possible bioterrorism incident. SIGA filed for bankruptcy protection in 2014. Antibiotics may be given for infections that occur in people who have smallpox. Taking antibodies against a disease similar to smallpox (vaccinia immune globulin) may help shorten the duration of the disease.  People who have been diagnosed with smallpox and people they have been in close contact with need to be isolated right away. They will need to receive the vaccine and be watched closely. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003637-6" qtype="outlook">What is the outlook for Smallpox ?</Question>
-			<Answer></Answer>
+			<Answer>In the past, this was a major illness. The risk of death was as high as 30%.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003637-7" qtype="complications">What are the complications of Smallpox ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Arthritis and bone infections, Brain swelling ( encephalitis ), Death, Eye infections,  Pneumonia , Scarring, Severe bleeding, Skin infections (from the sores) , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003637-8" qtype="when to contact a medical professional">Do I need to see a doctor for Smallpox ?</Question>
-			<Answer></Answer>
+			<Answer>If you think you may have been exposed to smallpox, contact your health care provider right away. Contact with the virus is very unlikely unless you have worked with the virus in a lab or you have been exposed through bioterrorism.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003637-9" qtype="prevention">How to prevent Smallpox ?</Question>
-			<Answer></Answer>
+			<Answer>Many people were vaccinated against smallpox in the past. The vaccine is no longer given to the general public. If the vaccine needs to be given to control an outbreak, it can have a small risk of complications. Currently, only military personnel, health care workers, and emergency responders may receive the vaccine.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

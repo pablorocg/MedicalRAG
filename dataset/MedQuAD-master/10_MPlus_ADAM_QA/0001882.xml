@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001882" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000097.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Heart pacemaker - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001882-1" qtype="information">Do you have information about Heart pacemaker - discharge</Question>
-			<Answer></Answer>
+			<Answer>A pacemaker is a small, battery-operated device that senses when your heart is beating irregularly or too slowly. It sends a signal to your heart that makes your heart beat at the correct pace. This article discusses what you need to do to take care of yourself when you leave the hospital. Note: Care of certain specialized pacemakers or pacemakers combined with defibrillators may be different than described below.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

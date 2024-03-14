@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000177" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002188.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Alzheimer - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000177-1" qtype="information">What is (are) Alzheimer - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on  Alzheimer disease : Alzheimer's Association --  www.alz.org , Alzheimers.gov --  www.alzheimers.gov , BrightFocus Foundation --  www.brightfocus.org/alzheimers , Centers for Disease Control and Prevention --  www.cdc.gov/aging/aginginfo/alzheimers.htm , Genetic and Rare Diseases Information Center --  rarediseases.info.nih.gov/diseases/10254/alzheimer-disease , National Institute on Aging --  www.nia.nih.gov/health/alzheimers , US National Library of Medicine, Genetics Home Reference --  medlineplus.gov/genetics/condition/alzheimer-disease/ , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

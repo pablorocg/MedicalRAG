@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002607" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007290.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Metabolic syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,27 +20,48 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002607-1" qtype="information">What is (are) Metabolic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Metabolic syndrome is a name for a group of risk factors that occur together and increase the chance of having  coronary artery disease ,  stroke , and  type 2 diabetes .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002607-2" qtype="causes">What causes Metabolic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Metabolic syndrome is very common in the United States. About one fourth of Americans are affected. Doctors are not sure whether the syndrome is due to one single cause. But many of the risks for the syndrome are related to obesity. Many people with metabolic syndrome used to be told they had pre-diabetes, early hypertension (high blood pressure) or mild hyperlipidemia (high fats in the blood). The two most important risk factors for metabolic syndrome are: 
+  Extra weight around the middle and upper parts of the body (central  obesity ). This body type may be described as "apple-shaped."
+  , 
+  Insulin resistance -- Insulin is a hormone produced in the pancreas. Insulin is needed to help control the amount of sugar in the blood. Insulin resistance means that some cells in the body use insulin less effectively than normal. As a result, blood sugar level rises, which causes insulin production to rise. This may increase the amount of body fat.
+  ,  Other risk factors include: 
+  Aging
+  , 
+  Genes that make you more likely to develop this condition
+  , 
+  Changes in male, female, and stress hormones
+  , 
+  Lack of exercise
+  ,  People who have metabolic syndrome often have one or more other factors that may be linked with the condition, including: 
+  Increased risk for blood clotting
+  , 
+  Increased levels of blood substances that are a sign of inflammation throughout the body
+  , 
+  Small amounts of a protein called albumin in the urine
+  , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002607-3" qtype="exams and tests">How to diagnose Metabolic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will examine you. You'll be asked about your overall health and any symptoms you're having. Blood tests may be ordered to check your blood sugar, cholesterol, and triglyceride levels. You'll likely be diagnosed with metabolic syndrome if you have three or more of the following signs: Blood pressure equal to or higher than 130/85 mm Hg or you're taking medicine for high blood pressure, Fasting blood sugar (glucose) from 100 to 125 mg/dL (5.6 to 7 mmol/L) or you've been diagnosed with and are taking medicines for diabetes, Large waist circumference (length around the waist): For men, 40 inches (102 centimeters) or more; for women, 35 inches (89 centimeters) or more [for people of Asian ancestry 35 inches (89 cm) for men and 30 inches (76 cm) for women], Low HDL (good) cholesterol: For men, less than 40 mg/dL (1 mmol/L); for women, less than 50 mg/dL (1.3 mmol/L) or you're taking medicine for reduced HDL, Fasting levels of triglycerides equal to or higher than 150 mg/dL (1.7 mmol/L) or you're taking medicine to lower triglycerides, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002607-4" qtype="treatment">What are the treatments for Metabolic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to reduce your risk for heart disease, stroke, and diabetes.  Your provider will recommend lifestyle changes or medicines: Lose weight. The goal is to lose between 7% and 10% of your current weight. You will probably need to eat 500 to 1,000 fewer calories per day.&#160;A variety of diet options can help people achieve this goal. There is no single &#8216;best&#8217; diet to lose weight., 
+ Get 150 minutes a week of moderate intensity exercise such as walking. Do exercises to strengthen your muscles 2 days a week.&#160;High intensity exercise for shorter periods is another option. Check with your provider to see if you are healthy enough to start a new exercise program., 
+ Lower your cholesterol by  eating healthier foods, losing weight, exercising , and  taking cholesterol-lowering medicines , if needed.&#160;,  Lower your blood pressure  by eating less salt, losing weight, exercising, and taking medicine, if needed.
+ ,  Your provider may recommend daily low-dose aspirin. If you smoke, now is  the time to quit . Ask your provider for help quitting. There are medicines and programs that can help you quit.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002607-5" qtype="outlook">What is the outlook for Metabolic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>People with metabolic syndrome have an increased long-term risk of developing heart disease, type 2 diabetes, stroke, kidney disease, and poor blood supply to the legs.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002607-6" qtype="when to contact a medical professional">Do I need to see a doctor for Metabolic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have signs or symptoms of this condition.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

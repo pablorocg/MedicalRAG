@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002183" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002205.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Infertility - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002183-1" qtype="information">What is (are) Infertility - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on  infertility : American College of Obstetricians and Gynecologists (ACOG) --  www.acog.org/womens-health/faqs/evaluating-infertility , March of Dimes --  www.marchofdimes.org/pregnancy/thinking-about-fertility-treatment.aspx , US Centers for Disease Control and Prevention --  www.cdc.gov/reproductivehealth/infertility/index.htm , US Department of Health and Human Services, Office on Women's Health --  www.womenshealth.gov/a-z-topics/infertility , US National Library of Medicine, MedlinePlus --  medlineplus.gov/infertility.html , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002066" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007308.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hydrops fetalis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,35 +16,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002066-1" qtype="information">What is (are) Hydrops fetalis ?</Question>
-			<Answer></Answer>
+			<Answer>Hydrops fetalis is a serious condition. It occurs when abnormal amounts of fluid build up in two or more body areas of a fetus or newborn. It is a symptom of underlying problems. </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002066-2" qtype="causes">What causes Hydrops fetalis ?</Question>
-			<Answer></Answer>
+			<Answer>There are two types of hydrops fetalis, immune and nonimmune. The type depends on the cause of the abnormal fluid.  Immune hydrops fetalis  is most often a complication of a severe form of  Rh incompatibility , which can be prevented. This is a condition in which mother who has Rh negative blood type makes antibodies to her baby's Rh positive blood cells, and the antibodies cross the placenta. Rh incompatibility causes a large number of red blood cells in the fetus to be destroyed (also known as  hemolytic disease of the newborn ). This leads to problems including total body swelling. Severe swelling can interfere with how the body organs work.,  Nonimmune hydrops fetalis  is more common. It accounts for up to 90% of cases of hydrops. The condition occurs when a disease or medical condition affects the body's ability to manage fluid. There are three main causes for this type, heart or lung problems, severe anemia (such as from thalassemia or infections), and genetic or developmental problems, including  Turner syndrome . ,  The number of babies who develop immune hydrops fetalis has dropped due to a medicine called RhoGAM. This drug is given as an injection to pregnant mothers who are at risk for Rh incompatibility. The drug prevents them from making antibodies against their babies' red blood cells. There are other, much rarer, blood group incompatibilities that can also cause immune hydrops fetalis, but RhoGAM does not help with these.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002066-3" qtype="symptoms">What are the symptoms of Hydrops fetalis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms depend on the severity of the condition. Mild forms may cause: Liver swelling, Change in skin color (pallor) ,  More severe forms may cause: Breathing problems, Bruising or purplish bruise-like spots on the skin, Heart failure, Severe anemia, Severe jaundice, Total body swelling , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002066-4" qtype="exams and tests">How to diagnose Hydrops fetalis ?</Question>
-			<Answer></Answer>
+			<Answer>An ultrasound done during pregnancy may show: High levels of amniotic fluid, Abnormally large placenta, Fluid causing swelling in and around the unborn baby's organs, including the liver, spleen, heart, or lung area,  An amniocentesis and frequent ultrasounds will be done to determine the severity of the condition.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002066-5" qtype="treatment">What are the treatments for Hydrops fetalis ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment depends on the cause. During pregnancy, treatment may include: Medicine to cause early labor and delivery of the baby, Early cesarean delivery if condition gets worse, Giving blood to the baby while still in the womb (intrauterine fetal blood transfusion) ,  Treatment for a newborn may include: For immune hydrops, direct transfusion of red blood cells that match the infant's blood type. An exchange transfusion to rid the baby's body of the substances that are destroying the red blood cells may also be done., Removing extra fluid from around the lungs and abdominal organs with a needle., Medicines to control heart failure and help the kidneys remove extra fluids., Methods to help the baby breathe, such as a breathing machine (ventilator). , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002066-6" qtype="outlook">What is the outlook for Hydrops fetalis ?</Question>
-			<Answer></Answer>
+			<Answer>Hydrops fetalis often results in death of the infant shortly before or after delivery. The risk is highest for babies who are born very early or who are ill at birth. Babies who have a structural defect, and those with no identified cause for the hydrops are also at higher risk.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002066-7" qtype="complications">What are the complications of Hydrops fetalis ?</Question>
-			<Answer></Answer>
+			<Answer>Brain damage called  kernicterus  may occur in the case of Rh incompatibility. Developmental delays have been seen in babies who received intrauterine transfusions.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002066-8" qtype="prevention">How to prevent Hydrops fetalis ?</Question>
-			<Answer></Answer>
+			<Answer>Rh incompatibility can be prevented if the mother is given RhoGAM during and after pregnancy.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

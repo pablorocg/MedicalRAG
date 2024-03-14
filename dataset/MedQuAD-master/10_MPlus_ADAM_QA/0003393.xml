@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003393" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001029.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Retinitis pigmentosa</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003393-1" qtype="information">What is (are) Retinitis pigmentosa ?</Question>
-			<Answer></Answer>
+			<Answer>Retinitis pigmentosa is an eye disease in which there is damage to the  retina . The retina is the layer of tissue at the back of the inner eye. This layer converts light images to nerve signals and sends them to the brain.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003393-2" qtype="causes">What causes Retinitis pigmentosa ?</Question>
-			<Answer></Answer>
+			<Answer>Retinitis pigmentosa can run in families. The disorder can be caused by several genetic defects. The cells controlling night vision (rods) are most likely to be affected. However, in some cases, retinal cone cells are damaged the most. The main sign of the disease is the presence of dark deposits in the retina. The main risk factor is a family history of retinitis pigmentosa. It is a rare condition affecting about 1 in 4,000 people in the United States.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003393-3" qtype="symptoms">What are the symptoms of Retinitis pigmentosa ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms often first appear in childhood. However, severe vision problems do not often develop before early adulthood. Decreased vision at night or in low light. Early signs may include having a harder time moving around in the dark., Loss of side (peripheral) vision, causing "tunnel vision.", Loss of  central  vision (in advanced cases). This will affect the ability to read., </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003393-4" qtype="exams and tests">How to diagnose Retinitis pigmentosa ?</Question>
-			<Answer></Answer>
+			<Answer>Tests to evaluate the retina: Color vision, Exam of the retina by  ophthalmoscopy  after the pupils have been dilated,  Fluorescein angiography ,  Intraocular pressure , Measurement of the electrical activity in the retina ( electroretinogram ), Pupil reflex response,  Refraction test ,  Retinal photography , Side vision test (visual field test),  Slit lamp examination ,  Visual acuity , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003393-5" qtype="treatment">What are the treatments for Retinitis pigmentosa ?</Question>
-			<Answer></Answer>
+			<Answer>There is no effective treatment for this condition. Wearing sunglasses to protect the retina from ultraviolet light may help preserve vision. Some studies suggest that treatment with antioxidants (such as high doses of vitamin A palmitate) may slow the disease. However, taking high doses of vitamin A can cause serious liver problems. The benefit of treatment has to be weighed against risks to the liver. Clinical trials are in progress to assess new treatments for retinitis pigmentosa, including the: Use of DHA, which is an omega-3 fatty acid., Treatments related to the possible genetic causes of this disorder,  Other treatments, such as microchip implants into the retina that act like a microscopic video camera, are in the early stages of development. These treatments may be useful for treating blindness associated with RP and other serious eye conditions. A vision specialist can help you adapt to vision loss. Make regular visits to an eye care specialist, who can detect  cataracts  or retinal swelling. Both of these problems can be treated.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003393-6" qtype="outlook">What is the outlook for Retinitis pigmentosa ?</Question>
-			<Answer></Answer>
+			<Answer>The disorder will continue to progress slowly. Complete blindness is uncommon.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003393-7" qtype="complications">What are the complications of Retinitis pigmentosa ?</Question>
-			<Answer></Answer>
+			<Answer>Peripheral and central  loss of vision  will occur over time. People with retinitis pigmentosa often develop cataracts at an early age. They may also develop swelling of the retina (macular edema). Cataracts can be removed if they contribute to vision loss.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003393-8" qtype="when to contact a medical professional">Do I need to see a doctor for Retinitis pigmentosa ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have problems with night vision or you develop other symptoms of this disorder.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003393-9" qtype="prevention">How to prevent Retinitis pigmentosa ?</Question>
-			<Answer></Answer>
+			<Answer>Genetic counseling and testing may help determine whether your children are at risk for this disease.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

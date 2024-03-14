@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000909" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007006.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Colon cancer - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,7 +21,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000909-1" qtype="information">What is (are) Colon cancer - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on  colorectal cancer : American Cancer Society --  www.cancer.org/cancer/colon-rectal-cancer.html , Centers for Disease Control and Prevention --  www.cdc.gov/cancer/colorectal/ , Colorectal Cancer Alliance --  www.ccalliance.org , National Cancer Institute --  www.cancer.gov/types/colorectal , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

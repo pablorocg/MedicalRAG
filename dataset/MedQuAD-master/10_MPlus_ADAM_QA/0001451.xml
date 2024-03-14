@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001451" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003764.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Esophageal culture</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001451-1" qtype="information">Do you have information about Esophageal culture</Question>
-			<Answer></Answer>
+			<Answer>Esophageal culture is a laboratory test that checks for infection-causing germs (bacteria, viruses, or fungi) in a sample of tissue from the esophagus.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

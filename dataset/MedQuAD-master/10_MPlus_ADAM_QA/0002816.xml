@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002816" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001648.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Nonallergic rhinopathy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002816-1" qtype="information">Do you have information about Nonallergic rhinopathy</Question>
-			<Answer></Answer>
+			<Answer>Rhinitis is a condition that includes a runny nose, sneezing, and nasal stuffiness. When environmental allergies (such as hayfever) or a cold are not causing these symptoms, the condition is called nonallergic rhinitis. One type of nonallergic rhinitis is called nonallergic rhinopathy. This condition used to be known as vasomotor rhinitis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000149" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003202.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Alertness - decreased</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000149-1" qtype="information">Do you have information about Alertness - decreased</Question>
-			<Answer></Answer>
+			<Answer>Decreased alertness is a state of reduced awareness and is often a serious condition. A coma is the most severe state of decreased alertness from which a person cannot be awakened. A long-term coma is called a vegetative state.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

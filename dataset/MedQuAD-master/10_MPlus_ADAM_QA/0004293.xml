@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004293" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000543.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>What to bring to your labor and delivery</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004293-1" qtype="information">What is (are) What to bring to your labor and delivery ?</Question>
-			<Answer></Answer>
+			<Answer>The arrival of your new son or daughter is a time of excitement and joy. It is often also a hectic time, so it can be hard to remember to pack everything that you will need at the hospital. About a month before your baby's due date, make sure you have the items below. Pack as many beforehand as you can. Use this checklist as a guide to get organized for the big event.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004017" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003779.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Transvaginal ultrasound</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004017-1" qtype="information">Do you have information about Transvaginal ultrasound</Question>
-			<Answer></Answer>
+			<Answer>Transvaginal ultrasound is a test used to look at a woman's uterus, ovaries, tubes,  cervix  and pelvic area. Transvaginal means across or through the vagina. The ultrasound probe will be placed inside the vagina during the test.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

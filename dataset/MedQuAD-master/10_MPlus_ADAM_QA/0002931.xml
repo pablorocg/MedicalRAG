@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002931" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000247.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pancreas divisum</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,39 +17,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002931-1" qtype="information">What is (are) Pancreas divisum ?</Question>
-			<Answer></Answer>
+			<Answer>Pancreas divisum is a birth defect in which parts of the pancreas do not join together. The pancreas is a long, flat organ located between the stomach and spine. It helps in food digestion.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002931-2" qtype="causes">What causes Pancreas divisum ?</Question>
-			<Answer></Answer>
+			<Answer>Pancreas divisum is the most common birth defect of the pancreas. In many cases, this defect goes undetected and causes no problems. The cause of the defect is unknown. As a baby develops in the womb, two separate pieces of tissue join together to form the pancreas. Each part has a tube, called a duct. When the parts join together, a final duct, called the pancreatic duct, is formed. Fluid and digestive juices (enzymes) produced by the pancreas normally flow through this duct. Pancreas divisum occurs if the ducts do not join while the baby develops. Fluid from the two parts of the pancreas drains into separate areas of the upper portion of the small intestine (duodenum). This occurs in 5% to 15% of people. If a pancreatic duct becomes blocked, swelling and tissue damage (pancreatitis) may develop.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002931-3" qtype="symptoms">What are the symptoms of Pancreas divisum ?</Question>
-			<Answer></Answer>
+			<Answer>Many people do not have any symptoms. If you have pancreatitis, symptoms include: Abdominal pain , most often in the upper abdomen that may be felt in the back,  Abdominal swelling  (distention), Nausea or vomiting , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002931-4" qtype="exams and tests">How to diagnose Pancreas divisum ?</Question>
-			<Answer></Answer>
+			<Answer>You may have the following tests: Abdominal ultrasound ,  Abdominal CT scan ,  Amylase  and  lipase  blood test, Endoscopic retrograde cholangiopancreatography (ERCP), Magnetic resonance cholangiopancreatography (MRCP), Endoscopic ultrasound (EUS) , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002931-5" qtype="treatment">What are the treatments for Pancreas divisum ?</Question>
-			<Answer></Answer>
+			<Answer>The following treatments may be needed if you have symptoms of the condition, or if pancreatitis keeps returning: ERCP with a cut to enlarge the opening where the pancreatic duct drains, Placement of a stent to prevent the duct from getting blocked ,  You may need surgery if these treatments do not work. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002931-6" qtype="outlook">What is the outlook for Pancreas divisum ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, the outcome is good.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002931-7" qtype="complications">What are the complications of Pancreas divisum ?</Question>
-			<Answer></Answer>
+			<Answer>The main complication of pancreas divisum is pancreatitis.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002931-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pancreas divisum ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you develop symptoms of this disorder.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002931-9" qtype="prevention">How to prevent Pancreas divisum ?</Question>
-			<Answer></Answer>
+			<Answer>Because this condition is present at birth, there is no known way to prevent it.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

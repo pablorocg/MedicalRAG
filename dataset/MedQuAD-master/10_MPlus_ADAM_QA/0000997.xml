@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000997" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002582.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Corticosteroids overdose</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,19 +16,20 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000997-1" qtype="information">What is (are) Corticosteroids overdose ?</Question>
-			<Answer></Answer>
+			<Answer>Corticosteroids are medicines that treat inflammation in the body. They are some of the naturally-occurring hormones produced by glands and released into the blood stream. Corticosteroid overdose occurs when someone takes more than the normal or recommended amount of this medicine. This can be by accident or on purpose. Corticosteroids come in many forms, including: Creams and ointments that are applied to the skin, Inhaled forms that are breathed into the nose or lungs, Pills or liquids that are swallowed, Injected forms delivered to the skin, joints, muscles, or veins ,  Most corticosteroid overdoses occur with pills and liquids. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with overdoses, call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000997-4" qtype="symptoms">What are the symptoms of Corticosteroids overdose ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of corticosteroid overdose can include: Altered mental status with agitation (psychosis), Burning or itching skin, Convulsions ( seizures )
+   ,  Deafness , Depression, Dry skin, Heart rhythm disturbances (rapid pulse, irregular pulse), High blood pressure, Increased appetite, Increased infection risk, Muscle weakness, Nausea and vomiting, Nervousness, Sleepiness, Stopping of menstrual cycle,  Swelling in lower legs , ankles, or feet, Weak bones (osteoporosis) and bone fractures (seen with long-term use), Weakness, Worsening of health conditions such as stomach inflammation, acid reflux, ulcers, and diabetes ,  Some of the above symptoms may develop even when corticosteroids are used correctly, and some are more likely to develop after chronic use or overuse.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000997-7" qtype="outlook">What is the outlook for Corticosteroids overdose ?</Question>
-			<Answer></Answer>
+			<Answer>Most people who overdose on corticosteroids have minor changes in their body's fluids and electrolytes. If they have changes in their heart rhythm, their outlook may be more serious. Some problems related to taking corticosteroids may occur even when they are taken properly. People who have these problems may need to take both short- and long-term medicines to treat these problems.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000997-8" qtype="outlook">What is the outlook for Corticosteroids overdose ?</Question>
-			<Answer></Answer>
+			<Answer>Most people who overdose on corticosteroids have minor changes in their body's fluids and electrolytes. If they have changes in their heart rhythm, their outlook may be more serious. Some problems related to taking corticosteroids may occur even when they are taken properly. People who have these problems may need to take both short- and long-term medicines to treat these problems.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

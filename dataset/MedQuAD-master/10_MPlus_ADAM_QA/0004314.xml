@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004314" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003063.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Widely spaced teeth</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,23 +19,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004314-1" qtype="information">What is (are) Widely spaced teeth ?</Question>
-			<Answer></Answer>
+			<Answer>Widely spaced teeth can be a temporary condition related to normal growth and development of adult teeth. Wide spacing can also occur as a result of several diseases or continued growth of the jawbone.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004314-2" qtype="causes">What causes Widely spaced teeth ?</Question>
-			<Answer></Answer>
+			<Answer>Some diseases and conditions that can cause widely spaced teeth are: Acromegaly ,  Ellis-van Creveld syndrome , Injury,  Morquio syndrome , Normal growth (temporary widening), Possible gum disease,  Sanfilippo syndrome , Tooth shifting due to gum disease or missing teeth, Large frenum, Congenitally missing teeth, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004314-3" qtype="considerations">What to do for Widely spaced teeth ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004314-4" qtype="when to contact a medical professional">Do I need to see a doctor for Widely spaced teeth ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if: Your child's teeth or jaws appear to be developing abnormally, Other health symptoms accompany the appearance of widely spaced teeth , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004314-5" qtype="outlook">What is the outlook for Widely spaced teeth ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

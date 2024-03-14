@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003844" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000292.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Taking warfarin (Coumadin)</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003844-1" qtype="information">Do you have information about Taking warfarin (Coumadin)</Question>
-			<Answer></Answer>
+			<Answer>Warfarin is a medicine that makes your blood less likely to form  clots . It is important that you take warfarin exactly as you have been told. Changing how you take your warfarin, taking other medicines with it or at different times, and eating certain foods can change the way warfarin works in your body. If this happens, you may be more likely to form a clot or have bleeding problems.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

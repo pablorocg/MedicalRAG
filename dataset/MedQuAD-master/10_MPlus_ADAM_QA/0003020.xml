@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003020" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001455.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Perioral dermatitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003020-1" qtype="information">What is (are) Perioral dermatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Perioral dermatitis is a skin disorder resembling  acne  or  rosacea . In most cases, it involves tiny red bumps that form on the lower half of the face in the folds of the nose and around the mouth.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003020-2" qtype="causes">What causes Perioral dermatitis ?</Question>
-			<Answer></Answer>
+			<Answer>The exact cause of perioral dermatitis is unknown. It may occur after using face creams containing steroids for another condition.  Young women are most likely to get this condition. This condition is also common in children.  Periorificial dermatitis may be brought on by:  Topical steroids, either when they are applied to the face on purpose or by accident, Nasal steroids, steroid inhalers, and oral steroids, Cosmetic creams, make-ups and sunscreens, Fluorinated toothpaste, Failing to wash the face, Hormonal changes or oral contraceptives, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003020-3" qtype="symptoms">What are the symptoms of Perioral dermatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Burning feeling around the mouth. The creases between the nose and mouth are most affected., Bumps around the mouth that may be filled with fluid or pus., A similar rash may appear around the eyes, nose, or forehead. ,  The rash may be mistaken for acne.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003020-4" qtype="exams and tests">How to diagnose Perioral dermatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will examine your skin to diagnose the condition. You may need to have other tests to find out if it is due to a bacterial infection. </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003020-5" qtype="treatment">What are the treatments for Perioral dermatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Self-care you may want to try include: Stop using all face creams, cosmetics, and sunscreen., Wash your face with warm water only., After the rash has cleared, ask your provider to recommend a non-soap bar or a liquid cleanser. ,  DO NOT use any over-the-counter steroid creams to treat this condition. If you were taking steroid creams, your provider may tell you to stop the cream. They may also prescribe a less potent steroid cream and then slowly withdraw it. Treatment may include medicines placed on the skin such as: Metronidazole, Erythromycin, Benzoyl peroxide, Tacrolimus, Clindamycin, Pimecrolimus, Sodium sulfacetamide with sulfur ,  You may need to take antibiotic pills if the condition is severe. Antibiotics used to treat this condition include tetracycline, doxycycline, minocycline, or erythromycin. At times, treatment may be needed for up to 6 to 12 weeks.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003020-6" qtype="outlook">What is the outlook for Perioral dermatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Perioral dermatitis requires several months of treatment. Bumps may return. However, the condition does not come back after treatment in most cases. The rash is more likely to return if you apply skin creams that contain steroids.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003020-7" qtype="when to contact a medical professional">Do I need to see a doctor for Perioral dermatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you notice red bumps around your mouth that do not go away.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003020-8" qtype="prevention">How to prevent Perioral dermatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Avoid using skin creams containing steroids on your face, unless directed by your provider.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

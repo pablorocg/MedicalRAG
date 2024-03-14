@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002034" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000857.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>How to stop drinking</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002034-1" qtype="information">Do you have information about How to stop drinking</Question>
-			<Answer></Answer>
+			<Answer>Deciding to  quit drinking alcohol  is a big step. You may have tried to quit in the past and are ready to try again. You may also be trying for the first time and are not sure where to start. While quitting alcohol is not easy, it helps to make a plan to quit and ask for the support of family and friends before you quit. Here are some tips to help get you started.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

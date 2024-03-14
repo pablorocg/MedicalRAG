@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000476" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003235.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bleeding into the skin</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000476-1" qtype="information">Do you have information about Bleeding into the skin</Question>
-			<Answer></Answer>
+			<Answer>Bleeding into the skin can occur from broken blood vessels that form tiny red dots (called petechiae). Blood also can collect under the tissue in larger flat areas (called  purpura ), or in a very large bruised area (called an ecchymosis).</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

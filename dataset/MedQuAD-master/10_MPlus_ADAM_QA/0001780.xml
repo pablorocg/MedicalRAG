@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001780" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003706.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Growth hormone test</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,11 +19,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001780-1" qtype="information">What is (are) Growth hormone test ?</Question>
-			<Answer></Answer>
+			<Answer>The growth hormone test measures the amount of growth hormone in the blood. The pituitary gland makes growth hormone, which causes a child to grow. This gland is located at the base of the brain.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001780-8" qtype="susceptibility">Who is at risk for Growth hormone test? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

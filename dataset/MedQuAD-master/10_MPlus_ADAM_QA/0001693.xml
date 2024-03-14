@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001693" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000297.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Gastroparesis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001693-1" qtype="information">What is (are) Gastroparesis ?</Question>
-			<Answer></Answer>
+			<Answer>Gastroparesis is a condition that reduces the ability of the stomach to empty its contents. It does not involve a blockage (obstruction).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001693-2" qtype="causes">What causes Gastroparesis ?</Question>
-			<Answer></Answer>
+			<Answer>The exact cause of gastroparesis is unknown. It may be caused by a disruption of nerve signals to the stomach. The condition is a common complication of  diabetes . It can also follow some surgeries. Risk factors for gastroparesis include: Diabetes,  Gastrectomy  (surgery to remove part of the stomach),  Systemic sclerosis , Use of medicine that blocks certain nerve signals (anticholinergic medicine) , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001693-3" qtype="symptoms">What are the symptoms of Gastroparesis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Abdominal distention , Abdominal pain,  Hypoglycemia  (in people with diabetes),  Nausea ,  Premature abdominal fullness after meals ,  Weight loss  without trying,  Vomiting , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001693-4" qtype="exams and tests">How to diagnose Gastroparesis ?</Question>
-			<Answer></Answer>
+			<Answer>Tests you may need include: Esophagogastroduodenoscopy  (EGD), Gastric emptying study (using isotope labeled food),  Upper GI series , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001693-5" qtype="treatment">What are the treatments for Gastroparesis ?</Question>
-			<Answer></Answer>
+			<Answer>People with diabetes should always control their blood sugar level. Better control of blood sugar level may improve symptoms of gastroparesis. Eating small and more frequent meals and soft foods may also help relieve some symptoms. Medicines that may help include: Cholinergic drugs, which act on acetylcholine nerve receptors, Erythromycin, Metoclopramide, a medicine that helps empty the stomach, Serotonin antagonist drugs, which act on serotonin receptors,  Other treatments may include: Botulinum toxin (Botox) injected into the outlet of the stomach (pylorus), Electrical stimulation of the stomach, Surgical procedure that creates an opening between the stomach and small intestine to allow food to move through the digestive tract more easily (gastroenterostomy), </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001693-6" qtype="outlook">What is the outlook for Gastroparesis ?</Question>
-			<Answer></Answer>
+			<Answer>Many treatments seem to provide only temporary benefit.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001693-7" qtype="complications">What are the complications of Gastroparesis ?</Question>
-			<Answer></Answer>
+			<Answer>Ongoing nausea and vomiting may cause: Dehydration ,  Electrolyte  imbalances, Malnutrition ,  People with diabetes may have serious complications from poor blood sugar control.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001693-8" qtype="when to contact a medical professional">Do I need to see a doctor for Gastroparesis ?</Question>
-			<Answer></Answer>
+			<Answer>Changes in your diet may help control symptoms. Contact your health care provider if symptoms continue or if you have new symptoms.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

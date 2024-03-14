@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002404" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002246.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Liquid nitrogen</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002404-1" qtype="information">Do you have information about Liquid nitrogen</Question>
-			<Answer></Answer>
+			<Answer>Liquid nitrogen is a chemical that is extremely cold, about -328&#176;F (-200&#176;C). Liquid nitrogen will instantly freeze anything it touches. It is used to kill cells that make up diseased or cancerous tissue. Tissue that has been frozen dies, may blister and then falls off.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000085" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/839.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Rose Hip</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,47 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000085-1" qtype="information">What is Rose Hip ?</Question>
-			<Answer></Answer>
+			<Answer>Rose hip is the part of the rose flower just below the petals that contains the rose plant seeds. It has been used for osteoarthritis and contains vitamin C. 
+
+While rose hip is often considered a good source of vitamin C, the processing and drying of the plant actually destroys most of it. Besides vitamin C, other natural chemicals found in rose hip may be helpful for a variety of health conditions. 
+
+People use rose hip for osteoarthritis and pain after surgery. It is also used for many other conditions, but there is no good scientific evidence to support these other uses.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000085-2" qtype="how effective is it">How effective is Rose Hip ?</Question>
-			<Answer></Answer>
+			<Answer>Natural Medicines Comprehensive Database  rates effectiveness based on scientific evidence according to the following scale:  Effective, Likely Effective, Possibly Effective, Possibly Ineffective, Likely Ineffective, Ineffective, and Insufficient Evidence to Rate. The effectiveness ratings for  ROSE HIP  are as follows: Possibly effective for... 
+
+ Osteoarthritis . Taking rose hip by mouth, alone or with other natural medicines, can reduce pain and stiffness and improve function in people with osteoarthritis. , 
+
+ Pain after surgery . Taking a single dose of rose hip extract by mouth right before a C-section helps to reduce pain and the need for pain medications after surgery. , 
+
+ 
+
+There is interest in using rose hip for a number of other purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000085-3" qtype="how does it work">What is the action of Rose Hip and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000085-4" qtype="precautions">Are there safety concerns or special precautions about Rose Hip ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000085-5" qtype="interactions with medications">Are there interactions between Rose Hip and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Moderate Be cautious with this combination. Aluminum Aluminum is found in most antacids. Rose hips contain vitamin C. Vitamin C can increase how much aluminum the body absorbs. But it isn't clear if this interaction is a big concern. Take rose hip two hours before or four hours after antacids. Estrogens Rose hip contains vitamin C. Vitamin C can increase how much estrogen the body absorbs. Taking rose hip along with estrogen can increase the effects and side effects of estrogens. Lithium Taking rose hip might decrease how well the body gets rid of lithium. This could increase how much lithium is in the body and result in serious side effects. Talk with your healthcare provider before using this product if you are taking lithium. Your lithium dose might need to be changed. Medications for cancer (Alkylating agents) Rose hip contains vitamin C, which is an antioxidant. There is some concern that antioxidants might decrease the effects of some medications used for cancer. If you are taking medications for cancer, check with your healthcare provider before taking rose hip. Medications for cancer (Antitumor antibiotics) Rose hip contains vitamin C, which is an antioxidant. There is some concern that antioxidants might decrease the effects of medications used for cancer. If you are taking medications for cancer, check with your healthcare provider before taking rose hip. Medications that slow blood clotting (Anticoagulant / Antiplatelet drugs) Rose hip might slow blood clotting. Taking rose hip along with medications that also slow blood clotting might increase the risk of bruising and bleeding. Warfarin (Coumadin) Warfarin is used to slow blood clotting. Rose hip contains vitamin C. Large amounts of vitamin C might decrease the effects of warfarin. Decreasing the effects of warfarin might increase the risk of clotting. Be sure to have your blood checked regularly. The dose of your warfarin might need to be changed. Minor Be watchful with this combination. Aspirin Vitamin C might decrease how much aspirin is removed in the urine. Rose hip contains vitamin C. Taking rose hip could increase the chance of aspirin-related side effects. But research suggests that this is not an important concern, and that the vitamin C in rose hip does not interact in a meaningful way with aspirin.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000085-6" qtype="interactions with herbs and supplements">Are there interactions between Rose Hip and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>Acerola Rose hip and acerola both contain high levels of vitamin C. Don't take both together. This might give you too much vitamin C. Adults should not take more than 2000 mg of vitamin C per day. Vitamin C Rose hip contains vitamin C. Taking rose hip with vitamin C supplements might increase the chance of side effects from vitamin C. Adults should not take more than 2000 mg of vitamin C per day.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000085-7" qtype="interactions with foods">Are there interactions between Rose Hip and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000085-8" qtype="dose">What is the dosage of Rose Hip ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

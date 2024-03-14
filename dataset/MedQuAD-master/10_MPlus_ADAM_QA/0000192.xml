@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000192" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003506.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ammonia blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000192-1" qtype="information">Do you have information about Ammonia blood test</Question>
-			<Answer></Answer>
+			<Answer>The ammonia test measures the level of ammonia in a blood sample.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

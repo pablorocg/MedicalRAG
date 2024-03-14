@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001861" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007012.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Heart bypass surgery - minimally invasive</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001861-1" qtype="information">Do you have information about Heart bypass surgery - minimally invasive</Question>
-			<Answer></Answer>
+			<Answer>Heart bypass surgery creates a new route, called a bypass, for blood and oxygen to reach your heart. Minimally invasive coronary (heart) artery bypass can be done without stopping the heart. Therefore, you do not need to be put on a heart-lung machine for this procedure.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

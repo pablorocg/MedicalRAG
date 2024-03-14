@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000094" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/833.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Whey Protein</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,49 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000094-1" qtype="information">What is Whey Protein ?</Question>
-			<Answer></Answer>
+			<Answer>Whey protein is the protein from whey, the watery portion of milk that separates from the curds when making cheese. It is commonly used as a protein supplement. 
+
+Whey protein might improve the nutrient content of the diet and also have effects on the immune system. 
+
+People commonly use whey protein for improving athletic performance and increasing strength. Whey protein is also used for asthma, diabetes, weight loss, and many other conditions, but there is no good scientific evidence to support most of these uses.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000094-2" qtype="how effective is it">How effective is Whey Protein ?</Question>
-			<Answer></Answer>
+			<Answer>Natural Medicines Comprehensive Database  rates effectiveness based on scientific evidence according to the following scale:  Effective, Likely Effective, Possibly Effective, Possibly Ineffective, Likely Ineffective, Ineffective, and Insufficient Evidence to Rate. The effectiveness ratings for  WHEY PROTEIN  are as follows: Possibly effective for... 
+
+ Athletic performance . Regularly consuming whey protein by mouth while also regularly exercising increases muscle strength and athletic performance. But it seems that both must be done consistently to see benefits., 
+
+ Possibly ineffective for... 
+ A lung disease that makes it harder to breathe (chronic obstructive pulmonary disease or COPD) . Taking whey protein by mouth doesn't seem to help COPD symptoms., 
+
+ Weak and brittle bones (osteoporosis) . Taking whey protein by mouth for up to 2 years doesn't improve bone density in older adults., 
+ 
+
+There is interest in using whey protein for a number of other purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000094-3" qtype="how does it work">What is the action of Whey Protein and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000094-4" qtype="precautions">Are there safety concerns or special precautions about Whey Protein ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000094-5" qtype="interactions with medications">Are there interactions between Whey Protein and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Major Do not take this combination. Levodopa Whey protein might decrease how much levodopa the body absorbs. This might decrease the effects of levodopa. Do not take whey protein and levodopa at the same time. Moderate Be cautious with this combination. Antibiotics (Quinolone antibiotics) Whey protein might decrease how well some antibiotics work. To avoid this interaction, take antibiotics at least 2 hours before or 4-6 hours after whey protein. Antibiotics (Tetracycline antibiotics) Whey protein might decrease how well some antibiotics work. To avoid this interaction, take antibiotics at least 2 hours before or 4-6 hours after whey protein. Bisphosphonates Whey protein can decrease the effects of bisphosphates. To avoid this interaction, take bisphosphonates at least 30 minutes before whey or, preferably, at a different time of day.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000094-6" qtype="interactions with herbs and supplements">Are there interactions between Whey Protein and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with herbs and supplements.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000094-7" qtype="interactions with foods">Are there interactions between Whey Protein and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000094-8" qtype="dose">What is the dosage of Whey Protein ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

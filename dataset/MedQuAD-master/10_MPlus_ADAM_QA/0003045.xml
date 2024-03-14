@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003045" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000918.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Persistent depressive disorder</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,31 +21,31 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003045-1" qtype="information">What is (are) Persistent depressive disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Persistent depressive disorder (PDD) is a  chronic  (ongoing) type of depression in which a person's moods are regularly low. Persistent depressive disorder used to be called dysthymia.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003045-2" qtype="causes">What causes Persistent depressive disorder ?</Question>
-			<Answer></Answer>
+			<Answer>The exact cause of PDD is unknown. It can run in families. PDD occurs more often in women. Most people with PDD will also have an episode of  major depression  at some point in their lives. Older people with PDD may have difficulty caring for themselves, signs of cognitive limitations, struggle with isolation, or have medical illnesses. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003045-3" qtype="symptoms">What are the symptoms of Persistent depressive disorder ?</Question>
-			<Answer></Answer>
+			<Answer>The main symptom of PDD is a low, dark, or sad mood on most days for at least 2 years. In children and teens, the mood can be irritable instead of depressed and lasts for at least 1 year. In addition, two or more of the following symptoms are present almost all of the time:  Feelings of hopelessness, Too little or too much sleep, Low energy or  fatigue , Low self-esteem,  Poor appetite  or overeating, Poor concentration,  People with PDD will often take a negative or discouraging view of themselves, their future, other people, and life events. Problems often seem hard to solve.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003045-4" qtype="exams and tests">How to diagnose Persistent depressive disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will take a history of your mood and other mental health symptoms. The provider may also check your blood and urine to rule out medical causes of depression.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003045-5" qtype="treatment">What are the treatments for Persistent depressive disorder ?</Question>
-			<Answer></Answer>
+			<Answer>There are a number of things you can try to improve PDD: Get enough sleep., Follow a healthy, nutritious diet., Take medicines correctly. Discuss any side effects with your provider., Learn to watch for early signs that your PDD is getting worse. Have a plan for how to respond if it does., Try to exercise regularly., Look for activities that make you happy., Talk to someone you trust about how you're feeling., Surround yourself with people who are caring and positive., Avoid alcohol and illegal drugs. These can make your mood worse over time and impair your judgment.,  Medicines are often effective for PDD, though they sometimes do not work as well as they do for major depression and may take longer to work. Do not stop taking your medicine on your own, even if you feel better or have side effects. Always call your provider first. When it's time to stop your medicine, your provider will instruct you on how to slowly reduce the dose instead of stopping suddenly. People with PDD may also be helped by some type of talk therapy. Talk therapy is a good place to talk about feelings and thoughts, and to learn ways to deal with them. It can also help to understand how your PDD has affected your life and to cope more effectively. Types of talk therapy include: Cognitive behavioral therapy (CBT), which helps you learn to be more aware of your symptoms and what makes them worse. You will be taught problem-solving skills, including dealing with negative thinking., Insight-oriented or psychotherapy, which can help people with PDD understand factors that may be behind their depressive thoughts and feelings. ,  Joining a support group for people who are having problems like yours can also help. Ask your therapist or health care provider to recommend a group.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003045-6" qtype="outlook">What is the outlook for Persistent depressive disorder ?</Question>
-			<Answer></Answer>
+			<Answer>PDD is a chronic condition that can last for years. Many people recover fully while others continue to have some symptoms, even with treatment. PDD also increases the risk of suicide.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003045-7" qtype="when to contact a medical professional">Do I need to see a doctor for Persistent depressive disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Call for an appointment with your provider if: You regularly feel depressed or low, Your symptoms are getting worse,  Call for help right away if you or someone you know develops signs of  suicide risk : Giving away belongings, or talking about going away and the need to get "affairs in order", Performing self-destructive behaviors, such as injuring themselves, Suddenly changing behaviors, especially being calm after a period of anxiety, Talking about death or suicide, Withdrawing from friends or being unwilling to go out anywhere,  If you or someone you know is thinking about suicide, call or text 988 or chat  988lifeline.org . You can also call 1-800-273-8255 (1-800-273-TALK). The 988 Suicide and Crisis Lifeline provides free and confidential support 24/7, anytime day or night. You can also call 911 or the local emergency number or go to the hospital emergency room. DO NOT delay. If someone you know has attempted suicide, call 911 or the local emergency number right away. DO NOT leave the person alone, even after you have called for help.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

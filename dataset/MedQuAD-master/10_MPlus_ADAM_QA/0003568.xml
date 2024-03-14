@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003568" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007387.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Shoulder replacement</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -16,7 +15,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003568-1" qtype="information">Do you have information about Shoulder replacement</Question>
-			<Answer></Answer>
+			<Answer>Shoulder replacement is surgery to replace the bones of the shoulder joint with artificial joint parts.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

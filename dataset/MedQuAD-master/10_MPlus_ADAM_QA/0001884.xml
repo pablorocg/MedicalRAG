@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001884" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007343.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Heart PET scan</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001884-1" qtype="information">Do you have information about Heart PET scan</Question>
-			<Answer></Answer>
+			<Answer>A heart positron emission tomography (PET) scan is an imaging test that uses a radioactive substance called a tracer to look for disease or poor blood flow in the heart. Unlike  magnetic resonance imaging  (MRI) and  computed tomography  (CT), which reveal the structure of organs and blood flow to and from them, a PET scan gives more information about how organs and tissues are working. A heart PET scan can detect whether areas of your heart muscle are receiving enough blood, if there is heart damage or scar tissue in the heart, or if there is a buildup of abnormal substances in the heart muscle.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

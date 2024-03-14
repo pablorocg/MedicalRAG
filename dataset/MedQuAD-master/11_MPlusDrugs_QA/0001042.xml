@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001042" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a682396.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Quinidine Oral</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,47 +7,50 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001042-1" qtype="important warning">What important warning or information should I know about Quinidine Oral ?</Question>
-			<Answer></Answer>
+			<Answer>Taking antiarrhythmic drugs, including quinidine, may increase the risk of death. Tell your doctor if you have heart disease such as a valve problem or heart failure (HF; condition in which the heart cannot pump enough blood to other parts of the body). If you experience any of the following symptoms, call your doctor immediately: irregular heartbeat or chest pain. Talk to your doctor about the risks of taking quinidine.  Quinidine may increase the chance of having arrhythmias (irregular heartbeats) and has not been proven to help people without life-threatening arrhythmias to live longer.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001042-2" qtype="indication">Who should get Quinidine Oral and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Quinidine is used to treat certain types of irregular heartbeats. Quinidine is in a class of medications called antiarrhythmic medications. It works by making your heart more resistant to abnormal activity.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001042-3" qtype="usage">How should Quinidine Oral be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Quinidine comes as a tablet (quinidine sulfate) and an extended-release (long-acting) tablet (quinidine gluconate) to take by mouth. Quinidine sulfate tablets are usually is taken every 6 hours. Extended-release quinidine gluconate tablets are usually is taken every 8 to 12 hours.  Take quinidine at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take quinidine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor. The extended-release tablet may be split in half. Swallow the whole or half tablets whole; do not chew or crush them. Quinidine helps control your condition but will not cure it. Continue to take quinidine even if you feel well. Do not stop taking quinidine without talking to your doctor.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001042-4" qtype="precautions">Are there safety concerns or special precautions about Quinidine Oral ?</Question>
-			<Answer></Answer>
+			<Answer>Before taking quinidine, tell your doctor and pharmacist if you are allergic to quinidine, quinine, or any other drugs., tell your doctor and pharmacist what other prescription and nonprescription medications, vitamins, and nutrition supplements you are taking or plan to take. Be sure to mention any of the following: acetazolamide; amiodarone (Nexterone, Pacerone); antidepressants; calcium channel blockers such as diltiazem (Cardizem, Cartia, Diltzac, others), felodipine, nicardipine (Cardene), nifedipine (Adalat, Procardia), nimodipine, or verapamil (Calan, Covera, Verelan, in Tarka); cimetidine (Tagamet HB); codeine products; digoxin (Lanoxin); diuretics ('water pills'); ketoconazole; medications for  mental illness such as haloperidol (Haldol), perphenazine, and thioridazine; methazolamide; mexiletine; phenobarbital; phenytoin (Dilantin, Phenytek); propranolol (Hemangeol, Inderal, Innopran); sodium bicarbonate (Arm and Hammer Baking Soda, in Zegerid OTC); and warfarin (Coumadin, Jantoven). Your doctor may need to change the doses of your medications or monitor you carefully for side effects. Many other medications may also interact with quinidine, so be sure to tell your doctor about all the medications you are taking, even those that do not appear on this list., tell your doctor if you have heart block (condition in which electrical signals are not passed normally from the upper chambers of the heart to the lower chambers) or have or have ever had immune thrombocytopenia (ITP; idiopathic thrombocytopenic purpura; an ongoing condition that may cause easy bruising or bleeding due to an abnormally low number of platelets in the blood) or myasthenia gravis (a disorder of the nervous system that causes muscle weakness). Your doctor may tell you not to take quinidine., tell your doctor if you have or have ever had a prolonged QT interval (condition that increases the risk of developing an irregular heartbeat that may cause fainting or sudden death); a slow heartbeat; low blood levels of calcium, magnesium or potassium in your blood; or liver or kidney disease., tell your doctor if you are pregnant, plan to become pregnant, or are breastfeeding. If you become pregnant while taking quinidine, call your doctor., if you are having surgery, including dental surgery, tell the doctor or dentist that you are taking quinidine., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001042-5" qtype="dietary">What special dietary instructions should I follow with Quinidine Oral ?</Question>
-			<Answer></Answer>
+			<Answer>Do not drink grapefruit juice while taking this medication. Do not change the amount of salt in your diet without talking to your doctor.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001042-6" qtype="forget a dose">What should I do if I forget a dose of Quinidine Oral ?</Question>
-			<Answer></Answer>
+			<Answer>Take the missed dose as soon as you remember it. However, if it is almost time for the next dose, skip the missed dose and continue your regular dosing schedule. Do not take a double dose to make up for a missed one.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001042-7" qtype="side effects">What are the side effects or risks of Quinidine Oral ?</Question>
-			<Answer></Answer>
+			<Answer>Quinidine may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ diarrhea, nausea, vomiting, heartburm, fever, dizziness, lightheadedness, headache, fatigue, weakness, rash, difficulty sleeping, tremor,  Some side effects can be serious. If you experience any of the following symptoms, call your doctor immediately:
+ ringing in the ears or loss of hearing, vision changes (blurred vision or light sensitivity), confusion, unusual bleeding or bruising, loss of appetite, nausea, yellow eyes or skin, pain in the upper right area of the stomach, or dark urine,  If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001042-8" qtype="storage and disposal">What should I know about storage and disposal of Quinidine Oral ?</Question>
-			<Answer></Answer>
+			<Answer>Keep this medication in the container it came in, tightly closed, and out of reach of children. Store it at room temperature and away from excess heat and moisture (not in the bathroom). Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program. It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001042-9" qtype="emergency or overdose">What to do in case of emergency or overdose of Quinidine Oral ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911. Symptoms of overdose may include:
+ irregular heartbeat, diarrhea, vomiting, headache, ringing in the ears or loss of hearing, vision changes (blurred vision or light sensitivity), confusion, </Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0001042-10" qtype="other information">What other information should I know about Quinidine Oral ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor and the laboratory. Your doctor will need to determine your response to quinidine. Do not let anyone else take your medication. Ask your pharmacist any questions you have about refilling your prescription. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="11">
 			<Question qid="0001042-11" qtype="brand names">What are the brand names of Quinidine Oral ?</Question>
-			<Answer></Answer>
+			<Answer>Cardioquin &#174; &#182; , Cin-Quin &#174; &#182; , Duraquin &#174; &#182; , Quinact &#174; &#182; , Quinaglute &#174; &#182; , Quinalan &#174; &#182; , Quinatime &#174; &#182; , Quinidex &#174; &#182; , Quinora &#174; &#182; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

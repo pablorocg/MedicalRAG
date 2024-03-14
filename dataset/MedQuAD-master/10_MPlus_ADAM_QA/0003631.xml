@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003631" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002943.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Small bowel resection</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003631-1" qtype="information">Do you have information about Small bowel resection</Question>
-			<Answer></Answer>
+			<Answer>Small bowel resection is surgery to remove a part of your small bowel. It is done when part of your small bowel is blocked or diseased. The small bowel is also called the small intestine. Most digestion (breaking down and absorbing nutrients) of the food you eat takes place in the small intestine.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000597" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002859.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Brown recluse spider</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000597-1" qtype="information">Do you have information about Brown recluse spider</Question>
-			<Answer></Answer>
+			<Answer>Brown recluse spiders are between 1 and 1 1/2 inches (2.5 to 3.5 centimeters) long. They have a dark brown, violin-shaped mark on their upper body and light brown legs. Their lower body may be dark brown, tan, yellow, or greenish. They also have 3 pairs of eyes, instead of the usual 4 pairs other spiders have. The bite of a brown recluse spider is venomous. This article is for information only. DO NOT use it to treat or manage a brown recluse spider bite. If you or someone you are with is bitten, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

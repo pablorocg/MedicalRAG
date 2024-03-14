@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001424" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002175.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Epilepsy - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001424-1" qtype="information">What is (are) Epilepsy - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on epilepsy: Centers for Disease Control and Prevention --  www.cdc.gov/epilepsy/index.html , Epilepsy Foundation --  www.epilepsy.com , National Institute of Neurological Disorders and Stroke --  www.ninds.nih.gov/health-information/disorders/epilepsy , US National Library of Medicine, MedlinePlus --  medlineplus.gov/epilepsy.html , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

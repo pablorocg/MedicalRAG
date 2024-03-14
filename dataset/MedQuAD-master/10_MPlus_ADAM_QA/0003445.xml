@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003445" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001539.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Rumination disorder</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003445-1" qtype="information">What is (are) Rumination disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Rumination disorder is a condition in which a person keeps bringing up food from the stomach into the mouth (regurgitation) and rechewing the food.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003445-2" qtype="causes">What causes Rumination disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Rumination disorder most often starts after age 3 months, following a period of normal digestion. It occurs in infants and is rare in children and teenagers. The cause is often unknown. Certain problems, such as lack of stimulation of the infant, neglect, and high-stress family situations have been linked with the disorder. Rumination disorder may also occur in adults.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003445-3" qtype="symptoms">What are the symptoms of Rumination disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Repeatedly bringing up (regurgitating) food, Repeatedly rechewing food ,  Symptoms must go on for at least 1 month to fit the definition of rumination disorder. People do not appear to be upset, retching, or disgusted when they bring up food. It may appear to cause pleasure.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003445-4" qtype="exams and tests">How to diagnose Rumination disorder ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider must first rule out physical causes, such as  hiatal hernia ,  pyloric stenosis , and gastrointestinal system abnormalities that are present from birth (congenital). These conditions can be mistaken for rumination disorder. Rumination disorder can cause  malnutrition . The following lab tests can measure how severe the malnutrition is and determine what nutrients need to be increased: Blood test for  anemia , Endocrine hormone functions, Serum  electrolytes , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003445-5" qtype="treatment">What are the treatments for Rumination disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Rumination disorder is treated with behavioral techniques. One treatment associates bad consequences with rumination and good consequences with more appropriate behavior (mild aversive training). Other techniques include improving the environment (if there is abuse or neglect) and counseling the parents.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003445-6" qtype="outlook">What is the outlook for Rumination disorder ?</Question>
-			<Answer></Answer>
+			<Answer>In some cases, rumination disorder will disappear on its own, and the child will go back to eating normally without treatment. In other cases, treatment is needed.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003445-7" qtype="complications">What are the complications of Rumination disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Failure to thrive , Lowered resistance to disease, Malnutrition , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003445-8" qtype="when to contact a medical professional">Do I need to see a doctor for Rumination disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if your baby appears to be repeatedly spitting up,  vomiting , or rechewing food.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003445-9" qtype="prevention">How to prevent Rumination disorder ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known prevention. However, normal stimulation and healthy parent-child relationships may help reduce the odds of rumination disorder.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

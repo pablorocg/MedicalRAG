@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000625" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003353.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>C1 esterase inhibitor</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000625-1" qtype="information">Do you have information about C1 esterase inhibitor</Question>
-			<Answer></Answer>
+			<Answer>C1 esterase inhibitor (C1-INH) is a protein found in the fluid part of your blood. It controls a protein called C1, which is part of the complement system. The complement system is a group of nearly 60 proteins in blood plasma or on the surface of some cells. The complement proteins work with your immune system to protect the body from infections. They also help remove dead cells and foreign material. There are nine major complement proteins. They are labeled C1 through C9. Rarely, people may inherit deficiency of some complement proteins. These people are prone to certain infections or autoimmune disorders. This article discusses the test that is done to measure the amount of C1-INH in your blood.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

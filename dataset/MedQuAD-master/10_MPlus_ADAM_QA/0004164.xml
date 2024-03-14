@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004164" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002337.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Uvea</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004164-1" qtype="information">Do you have information about Uvea</Question>
-			<Answer></Answer>
+			<Answer>The uvea is the middle layer of the eye. It lies beneath the white part of the eye (the  sclera ). It is made of the  iris ,  ciliary body , and  choroid . These structures control many eye functions, including adjusting to different levels of light or distances of objects. Inflammation of one or more of these structures is called uveitis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

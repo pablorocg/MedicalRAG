@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001272" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007328.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Double outlet right ventricle</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,35 +23,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001272-1" qtype="information">What is (are) Double outlet right ventricle ?</Question>
-			<Answer></Answer>
+			<Answer>Double outlet right ventricle (DORV) is a heart disease that is  present from birth (congenital) . The aorta connects to the right ventricle (RV, the chamber of the heart that pumps oxygen-poor blood to the lungs), instead of to the left ventricle (LV, the chamber that normally pumps oxygen-rich blood to the body). Both the pulmonary artery (which carries oxygen-poor blood to the lungs) and aorta (which carries oxygen-rich blood from the heart to the body) come from the same pumping chamber. No arteries are connected to the left ventricle (the chamber that normally pumps blood to the body).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001272-2" qtype="causes">What causes Double outlet right ventricle ?</Question>
-			<Answer></Answer>
+			<Answer>In a normal heart structure, the aorta connects to the LV. The pulmonary artery normally is connected to the RV. In DORV, both arteries flow out of the RV. This is a problem because the RV carries oxygen-poor blood. This blood is then circulated throughout the body. Another defect called a  ventricular septal defect  (VSD) always occurs with DORV.  Oxygen-rich blood from the lungs flows from the left side of the heart, through the VSD opening and into the RV. This helps the infant with DORV by allowing oxygen-rich blood to mix with oxygen-poor blood. Even with this mixture, the body may not get enough oxygen. This makes the heart work harder to meet the body's needs. There are several types of DORV. The difference between these types is the location of the VSD as it relates to the location of the pulmonary artery and aorta. The symptoms and severity of the problem will depend on the type of DORV. The presence of pulmonary valve stenosis also affects the condition.  People with DORV often have other heart defects, such as: Endocardial cushion defects (the walls separating all four chambers of the heart are poorly formed or absent),  Coarctation of the aorta  (narrowing of the aorta), Mitral valve problems,  Pulmonary atresia  (pulmonary valve does not form properly),  Pulmonary valve stenosis  (narrowing of the pulmonary valve), Right-sided aortic arch (aortic arch is on right instead of the left),  Transposition of the great arteries  (the aorta and pulmonary artery are switched) , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001272-3" qtype="symptoms">What are the symptoms of Double outlet right ventricle ?</Question>
-			<Answer></Answer>
+			<Answer>Signs of DORV may include: Enlarged heart, Heart murmur,  Rapid breathing , Rapid heartbeat,  Symptoms of DORV may include: Poor feeding from becoming tired easily, Bluish color of the skin and lips,  Clubbing  (thickening of the nail beds) of toes and fingers (late sign), Failure to gain weight and grow, Pale coloring, Sweating, Swollen legs or abdomen, Trouble breathing , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001272-4" qtype="exams and tests">How to diagnose Double outlet right ventricle ?</Question>
-			<Answer></Answer>
+			<Answer>Tests to diagnose DORV include: Chest x-rays , Ultrasound exam of the heart ( echocardiogram ), Passing a thin, flexible tube into the heart to measure blood pressure and inject dye for special pictures of the heart and arteries ( cardiac catheterization ),  Heart MRI , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001272-5" qtype="treatment">What are the treatments for Double outlet right ventricle ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment requires surgery to close the hole in the heart and direct blood from the left ventricle into the aorta. Surgery may also be needed to move the pulmonary artery or aorta. Factors that determine the type and number of operations the baby needs include:  The type of DORV, The severity of the defect, The presence of other problems in the heart, The child's overall condition , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001272-6" qtype="outlook">What is the outlook for Double outlet right ventricle ?</Question>
-			<Answer></Answer>
+			<Answer>How well the baby does depends on: The size and location of the VSD, The size of the pumping chambers, The location of the aorta and pulmonary artery, The presence of other complications (such as coarctation of the aorta and mitral valve problems), The baby's overall health at the time of diagnosis, Whether lung damage has occurred from too much blood flowing to the lungs for a long period of time , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001272-7" qtype="complications">What are the complications of Double outlet right ventricle ?</Question>
-			<Answer></Answer>
+			<Answer>Complications from DORV may include: Heart failure , High blood pressure in the lungs, which untreated can lead to permanent lung damage, Death,  Children with this heart&#160;condition may need to take antibiotics before dental treatment. This prevents infections around the heart. Antibiotics may also be needed after surgery.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001272-8" qtype="when to contact a medical professional">Do I need to see a doctor for Double outlet right ventricle ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if your child seems to tire easily, has trouble breathing, or has bluish skin or lips. You should also consult your provider if your baby is not growing or gaining weight.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000467" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002238.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bladder outlet obstruction</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,31 +21,31 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000467-1" qtype="information">What is (are) Bladder outlet obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Bladder outlet obstruction (BOO) is a blockage at the base of the bladder. It reduces or stops the flow of urine into the urethra. The urethra is the tube that carries urine out of the body.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000467-2" qtype="causes">What causes Bladder outlet obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>This condition is common in aging men. It is often caused by  enlarged prostate .  Bladder stones  and  bladder cancer  are also more commonly seen in men than women. As a man ages, the chances of getting these diseases increase greatly. Other common causes of BOO include: Pelvic tumors (cervix, prostate, uterus, rectum),  Narrowing of the tube that carries urine  out of the body from the bladder (urethra), due to scar tissue or certain birth defects,  Less common causes include: Cystocele (when the bladder falls into the vagina), Foreign objects, Urethral or pelvic muscle spasms, Inguinal (groin) hernia, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000467-3" qtype="symptoms">What are the symptoms of Bladder outlet obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>The symptoms of BOO may vary, but can include: Abdominal pain, Continuous feeling of a full bladder, Frequent urination, Pain during urination ( dysuria ), Problems starting urination (urinary hesitancy), Slow, uneven urine flow, at times being unable to urinate, Straining to urinate,  Urinary tract infection , Waking up at night to urinate ( nocturia ), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000467-4" qtype="exams and tests">How to diagnose Bladder outlet obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will ask about your symptoms and medical history. You will undergo a physical exam.  One or more of the following problems may be found: Abdominal swelling, Cystocele (women), Enlarged bladder, Enlarged prostate (men) ,  Tests may include: Blood chemistries to look for signs of kidney damage,  Cystoscopy  and retrograde urethrogram (x-ray) to look for narrowing of the urethra, Tests to determine how fast urine flows out of the body ( uroflowmetry ), Tests to see how much the urine flow is blocked and how well the bladder contracts (urodynamic testing), Ultrasound to locate the blockage of urine and find out how well the bladder empties,  Urinalysis  to look for blood or signs of infection in the urine, Urine culture to check for an infection, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000467-5" qtype="treatment">What are the treatments for Bladder outlet obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment of BOO depends on its cause. A tube, called a catheter, is inserted into the bladder through the urethra. This is done to relieve the blockage. Sometimes, a catheter is placed through the belly area into the bladder to drain the bladder. This is called a suprapubic tube. Most often, you will need surgery for long-term cure of BOO. However, many of the diseases that cause this problem can be treated with medicines. Talk to your provider about possible treatments.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000467-6" qtype="outlook">What is the outlook for Bladder outlet obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Most causes of BOO can be cured if diagnosed early. However, if the diagnosis or treatment is delayed, this can cause permanent damage to the bladder or kidneys.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000467-7" qtype="when to contact a medical professional">Do I need to see a doctor for Bladder outlet obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have symptoms of BOO.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

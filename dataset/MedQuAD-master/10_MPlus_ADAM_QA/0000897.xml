@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000897" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000249.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Colds and the flu - what to ask your doctor - adult</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000897-1" qtype="information">What is (are) Colds and the flu - what to ask your doctor - adult ?</Question>
-			<Answer></Answer>
+			<Answer>Many different germs, called viruses, cause colds. Symptoms of the common cold include: Cough, Headache, Nasal congestion, Runny nose, Sneezing, Sore throat ,  The flu is an infection of the nose, throat, and lungs caused by the influenza virus. Many  flu  symptoms are similar to those of a common cold. Flu symptoms most often include fever, muscle aches, and fatigue. Symptoms can also include vomiting and diarrhea. Many of these symptoms are the same as for  COVID-19 . Below are some questions you may want to ask your health care provider to help you take care of your cold or flu. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

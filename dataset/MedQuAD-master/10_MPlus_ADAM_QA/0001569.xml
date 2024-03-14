@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001569" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007399.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Femoral hernia repair</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001569-1" qtype="information">Do you have information about Femoral hernia repair</Question>
-			<Answer></Answer>
+			<Answer>Femoral hernia repair is surgery to repair a hernia near the groin in the upper thigh. A  femoral hernia  is tissue that bulges out of a weak spot in the groin. Usually, this tissue is part of the intestine.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

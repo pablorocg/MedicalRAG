@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002140" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001236.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Illness anxiety disorder</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,35 +23,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002140-1" qtype="information">What is (are) Illness anxiety disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Illness anxiety disorder (IAD) is a preoccupation that physical symptoms are signs of a serious illness, even when there is no medical evidence to support the presence of an illness.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002140-2" qtype="causes">What causes Illness anxiety disorder ?</Question>
-			<Answer></Answer>
+			<Answer>People with IAD are overly focused on, and always thinking about, their physical health. They have an unrealistic fear of having or developing a serious disease. This disorder occurs equally in men and women. The way people with IAD think about their physical symptoms can make them more likely to have this condition. As they focus on and worry about physical sensations, a cycle of symptoms and worry begins, which can be hard to stop. It is important to realize that people with IAD do not purposely create these symptoms. They aren't able to control the symptoms. People who have a history of physical or sexual abuse are more likely to have IAD. But this doesn't mean that everyone with IAD has a history of abuse.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002140-3" qtype="symptoms">What are the symptoms of Illness anxiety disorder ?</Question>
-			<Answer></Answer>
+			<Answer>People with IAD can't control their fears and worries. They often believe any symptom or sensation is a sign of a serious illness. They seek out reassurance from family, friends, or health care providers on a regular basis. They feel better for a short time and then begin to worry about the same symptoms or new symptoms. Symptoms may shift and change, and are often vague. People with IAD often examine their own body. Some may realize that their fear is unreasonable or unfounded. IAD is different from  somatic symptom disorder . With somatic symptom disorder, the person has physical pain or other symptoms, but the medical cause isn't found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002140-4" qtype="exams and tests">How to diagnose Illness anxiety disorder ?</Question>
-			<Answer></Answer>
+			<Answer>The provider will perform a physical exam. Tests may be ordered to look for illness. A mental health evaluation may be done to look for other related disorders.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002140-5" qtype="treatment">What are the treatments for Illness anxiety disorder ?</Question>
-			<Answer></Answer>
+			<Answer>It is important to have a supportive relationship with a provider. There should be only one primary care provider. This helps avoid having too many tests and procedures. Finding a mental health provider who has experience treating this disorder with talk therapy can be helpful. Cognitive behavioral therapy (CBT), a kind of talk therapy, can help you deal with your symptoms. During therapy, you will learn: To recognize what seems to make the symptoms worse, To develop methods of coping with the symptoms, To keep yourself more active, even if you still have symptoms,  Antidepressants can help reduce the worry and physical symptoms of this disorder if talk therapy has not been effective or only partially effective.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002140-6" qtype="outlook">What is the outlook for Illness anxiety disorder ?</Question>
-			<Answer></Answer>
+			<Answer>The disorder is usually long-term (chronic), unless psychological factors or mood and anxiety disorders are treated.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002140-7" qtype="complications">What are the complications of Illness anxiety disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Complications of IAD may include: Complications from invasive medical testing to look for the cause of symptoms, Dependence on pain relievers or sedatives, Depression, anxiety, or panic disorder, Lost time from work due to frequent appointments with providers, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002140-8" qtype="when to contact a medical professional">Do I need to see a doctor for Illness anxiety disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you or your child has symptoms of IAD.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000853" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002319.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ciliary body</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000853-1" qtype="information">Do you have information about Ciliary body</Question>
-			<Answer></Answer>
+			<Answer>The ciliary body is a circular structure that is an extension of the  iris , the colored part of the eye. The ciliary body produces the fluid in the eye called aqueous humor. It also contains the ciliary muscle, which changes the shape of the lens when your eyes focus on a near object. This process is called accommodation.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

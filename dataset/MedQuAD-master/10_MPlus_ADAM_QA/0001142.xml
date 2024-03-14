@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001142" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003801.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Dental x-rays</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001142-1" qtype="information">Do you have information about Dental x-rays</Question>
-			<Answer></Answer>
+			<Answer>Dental x-rays are a type of image of the teeth and mouth. X-rays are a form of high energy electromagnetic radiation. The x-rays penetrate the body to form an image on film or screen. X-rays can be either digital or developed on a film. Structures that are dense (such as silver fillings or metal restoration) will block most of the light energy from the x-ray. This makes them appear white in the image. Structures that contain air will be black, and teeth, tissue, and fluid will appear as shades of gray.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

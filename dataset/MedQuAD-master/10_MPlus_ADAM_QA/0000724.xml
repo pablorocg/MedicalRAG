@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000724" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000855.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cellulitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000724-1" qtype="information">What is (are) Cellulitis ?</Question>
-			<Answer></Answer>
+			<Answer>Cellulitis is a common skin infection caused by bacteria. It affects the middle layer of the skin (dermis) and the tissues below. Sometimes, muscle below the skin can be affected.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000724-2" qtype="causes">What causes Cellulitis ?</Question>
-			<Answer></Answer>
+			<Answer>Staphylococcus and streptococcus bacteria are the most common causes of cellulitis. Normal skin has many types of bacteria living on it. When there is a break in the skin, these bacteria can cause a skin infection. Risk factors for cellulitis include: Cracks or peeling skin between the toes, History of  peripheral vascular disease , Injury or trauma with a break in the skin (skin wounds),  Insect bites and stings , animal bites, or human bites,  Ulcers  from certain diseases, including diabetes and vascular disease, Use of corticosteroid medicines or other medicines that suppress the immune system, Wound from a recent surgery , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000724-3" qtype="symptoms">What are the symptoms of Cellulitis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of cellulitis include: Fever  with  chills  and  sweating ,  Fatigue , Pain or tenderness in the affected area,  Skin redness or inflammation  that gets bigger as the infection spreads, Skin sore or  rash  that starts suddenly, and grows quickly in the first 24 hours, Tight, glossy, stretched appearance of the skin, Warm skin in the area of redness,  Muscle aches  and joint stiffness from swelling of the tissue over the joint,  Nausea and vomiting , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000724-4" qtype="exams and tests">How to diagnose Cellulitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam. This may reveal: Redness, warmth, tenderness, and swelling of the skin, Possible drainage, if there is a buildup of pus ( abscess ) with the skin infection,  Swollen glands  (lymph nodes) near the affected area ,  Your provider may mark the edges of the redness with a pen, to see if the redness goes past the marked border over the next several days. Tests that may be ordered include: Blood culture ,  Complete blood count (CBC) , Culture of any fluid or material inside the affected area, A  biopsy  may be done if other conditions are suspected , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000724-5" qtype="treatment">What are the treatments for Cellulitis ?</Question>
-			<Answer></Answer>
+			<Answer>You will likely be prescribed antibiotics to be taken by mouth. You may be given pain medicine as well, if needed. At home, raise the infected area higher than your heart to reduce swelling and speed up healing. Rest until your symptoms improve. You may need to stay in a hospital if: You are very sick (for example, you have a very high temperature, low blood pressure, or nausea and vomiting that does not go away), You have been on antibiotics and the infection is getting worse (spreading beyond the original pen marking), Your immune system is not working well (due to cancer, HIV, or other medical condition), You have an infection around your eyes, You require antibiotics through a vein (IV) , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000724-6" qtype="outlook">What is the outlook for Cellulitis ?</Question>
-			<Answer></Answer>
+			<Answer>Cellulitis usually goes away after taking antibiotics for 7&#160;to 10 days. Longer treatment may be needed if cellulitis is more severe. This may occur if you have a chronic disease or your immune system is not working properly. People with fungal infections of the feet may have cellulitis that keeps coming back, especially if you have  diabetes . Cracks in the skin from the fungal infection allow the bacteria to get into the skin.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000724-7" qtype="complications">What are the complications of Cellulitis ?</Question>
-			<Answer></Answer>
+			<Answer>The following may result if cellulitis isn't treated or treatment doesn't work: Blood infection ( sepsis ), Bone infection ( osteomyelitis ), Inflammation of the lymph vessels (lymphangitis), Inflammation of the heart ( endocarditis ), Infection of the membranes covering the brain and spinal cord ( meningitis ),  Shock , Tissue death ( gangrene ) , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000724-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cellulitis ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider right away if: You have symptoms of cellulitis, You are being treated for cellulitis and you develop new symptoms, such as persistent fever, drowsiness,  lethargy , blistering over the cellulitis, or red streaks that spread , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000724-9" qtype="prevention">How to prevent Cellulitis ?</Question>
-			<Answer></Answer>
+			<Answer>Protect your skin by: Keeping your skin moist with lotions or ointments to prevent cracking, Wearing shoes that fit well and provide enough room for your feet, Learning how to trim your nails to avoid harming the skin around them, Wearing appropriate protective equipment when participating in work or sports,  Whenever you have a break in the skin: Clean the break carefully with soap and water. Apply petroleum jelly every day., Cover with a bandage and change it every day., Watch for redness, pain, drainage, or other signs of infection., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001501" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000054.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Eye emergencies</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001501-1" qtype="information">Do you have information about Eye emergencies</Question>
-			<Answer></Answer>
+			<Answer>Eye emergencies include cuts, scratches, objects in the eye, burns, chemical exposure, and blunt injuries to the eye or eyelid. Certain eye infections and other medical conditions, such as blood clots or  glaucoma , may also need medical care right away. Since the eye is easily damaged, any of these conditions can lead to vision loss if untreated.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

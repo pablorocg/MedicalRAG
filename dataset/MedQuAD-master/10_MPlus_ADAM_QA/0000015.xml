@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000015" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003796.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Abdominal MRI scan</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000015-1" qtype="information">Do you have information about Abdominal MRI scan</Question>
-			<Answer></Answer>
+			<Answer>An abdominal magnetic resonance imaging scan is an imaging test that uses powerful magnets and radio waves. The waves create pictures of the inside of the belly area. It does not use radiation (x-rays). Single magnetic resonance imaging (MRI) images are called slices. The images can be stored on a computer, viewed on a monitor, printed on film or scanned to a disk. One exam produces dozens or sometimes hundreds of images.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

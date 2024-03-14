@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002172" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000140.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Indwelling catheter care</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002172-1" qtype="information">Do you have information about Indwelling catheter care</Question>
-			<Answer></Answer>
+			<Answer>You have an  indwelling catheter  (tube) in your bladder. "Indwelling" means inside your body. This catheter drains urine from your bladder into a bag outside your body. Common reasons to have an indwelling catheter are urinary incontinence (leakage), urinary retention (not being able to urinate), surgery that made this catheter necessary, or another health problem.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

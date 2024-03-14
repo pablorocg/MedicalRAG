@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001359" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000053.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Electrical injury</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001359-1" qtype="information">What is (are) Electrical injury ?</Question>
-			<Answer></Answer>
+			<Answer>An electrical injury is damage to the skin or internal organs when a person comes into direct contact with an electrical current.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001359-2" qtype="considerations">What to do for Electrical injury ?</Question>
-			<Answer></Answer>
+			<Answer>The human body conducts electricity very well. That means electricity passes easily throughout the body. Direct contact with electrical current can be deadly. While some electrical  burns  look minor, there may be serious internal damage, especially to the heart, muscles, or brain. Electric current can cause injury in four ways: Cardiac arrest due to the electrical effect on the heart, Muscle, nerve, and tissue destruction from a current passing through the body, Thermal burns from contact with the electrical source, Falling or injury after contact with electricity, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001359-3" qtype="causes">What causes Electrical injury ?</Question>
-			<Answer></Answer>
+			<Answer>Electrical injury can be caused by: Accidental contact with power outlets, power cords, or exposed parts of electrical appliances or wiring, Flashing of electric arcs from high-voltage power lines, Lightning, Machinery or occupational-related exposures, Young children biting or chewing on electrical cords, or poking metal objects into an electrical outlet, Electrical weapons (such as a Taser), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001359-4" qtype="symptoms">What are the symptoms of Electrical injury ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms depend on many things, including: Type and strength of voltage, How long you were in contact with the electricity, How the electricity moved through your body, Your overall health,  Symptoms may include: Changes in alertness  (consciousness),  Broken bones ,  Heart attack  (chest, arm, neck, jaw, or back pain),  Headache , Problems with swallowing, vision, or hearing,  Irregular heartbeat , Muscle spasms and pain,  Numbness or tingling , Breathing problems or lung failure,  Seizures ,  Skin burns , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001359-5" qtype="considerations">What to do for Electrical injury ?</Question>
-			<Answer></Answer>
+			<Answer>The human body conducts electricity very well. That means electricity passes easily throughout the body. Direct contact with electrical current can be deadly. While some electrical  burns  look minor, there may be serious internal damage, especially to the heart, muscles, or brain. Electric current can cause injury in four ways: Cardiac arrest due to the electrical effect on the heart, Muscle, nerve, and tissue destruction from a current passing through the body, Thermal burns from contact with the electrical source, Falling or injury after contact with electricity, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001359-6" qtype="considerations">What to do for Electrical injury ?</Question>
-			<Answer></Answer>
+			<Answer>The human body conducts electricity very well. That means electricity passes easily throughout the body. Direct contact with electrical current can be deadly. While some electrical  burns  look minor, there may be serious internal damage, especially to the heart, muscles, or brain. Electric current can cause injury in four ways: Cardiac arrest due to the electrical effect on the heart, Muscle, nerve, and tissue destruction from a current passing through the body, Thermal burns from contact with the electrical source, Falling or injury after contact with electricity, </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001359-7" qtype="when to contact a medical professional">Do I need to see a doctor for Electrical injury ?</Question>
-			<Answer></Answer>
+			<Answer>Call 911 or the local emergency number, if a person has been injured by electricity.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001359-8" qtype="prevention">How to prevent Electrical injury ?</Question>
-			<Answer></Answer>
+			<Answer>Avoid electrical hazards at home and at work. Always follow the manufacturer's safety instructions when using electrical appliances., Avoid using electrical appliances while showering or wet., Keep children away from electrical devices, especially those that are plugged in to an electrical outlet., Keep electrical cords out of children's reach., Never touch electrical appliances while touching faucets or cold water pipes., Teach children about the dangers of electricity., Use child safety plugs in all electrical outlets., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

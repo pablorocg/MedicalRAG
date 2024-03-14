@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003856" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000902.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Targeted therapies for cancer</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -27,7 +26,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003856-1" qtype="information">What is (are) Targeted therapies for cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Targeted therapy uses drugs to stop cancer from growing and spreading. It does this with less harm to normal cells than other treatments.  Standard  chemotherapy  works by killings cancer cells and some normal cells, targeted treatment zeroes in on specific targets (molecules) in or on cancer cells. These targets play a role in how cancer cells grow and survive. Using these targets, the drug disables the cancer cells so they cannot spread.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

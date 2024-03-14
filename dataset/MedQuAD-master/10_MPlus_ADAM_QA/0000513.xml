@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000513" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007197.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bone mineral density test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000513-1" qtype="information">Do you have information about Bone mineral density test</Question>
-			<Answer></Answer>
+			<Answer>A bone mineral density (BMD) test measures how much calcium and other types of minerals are in an area of your bone. This test helps your health care provider detect  osteoporosis &#160;or bone loss and predict your risk for bone fractures.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

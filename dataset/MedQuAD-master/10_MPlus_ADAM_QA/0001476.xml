@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001476" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007622.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Excessive or unwanted hair in women</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,35 +23,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001476-1" qtype="information">What is (are) Excessive or unwanted hair in women ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, women have fine hair above their lips and on their chin, chest, abdomen, or back. The growth of coarse dark hair in these areas (more typical of male-pattern hair growth) is called hirsutism.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001476-2" qtype="causes">What causes Excessive or unwanted hair in women ?</Question>
-			<Answer></Answer>
+			<Answer>Women normally produce low levels of male hormones (androgens). If your body makes too much of this hormone, you may have unwanted hair growth. In most cases, the exact cause is never known. The condition often runs in families. A common cause of hirsutism is polycystic ovarian syndrome (PCOS). Women with PCOS and other hormone conditions that cause unwanted hair growth may also have:  Acne, Problems with menstrual periods, Trouble losing weight, Diabetes ,  If these symptoms start suddenly, you may have a tumor that releases male hormones. Other, less common causes of unwanted hair growth may include: Thyroid disorders,  Tumor or cancer of the adrenal gland ,  Tumor or cancer of the ovary ,  Cushing syndrome ,  Congenital adrenal hyperplasia , Hyperthecosis -- a condition in which the  ovaries produce too much male hormones ,  Use of certain medicines may also be the cause of unwanted hair growth, including: Testosterone, Danazol, Anabolic steroids, DHEA, Glucocorticoids, Cyclosporine, Minoxidil, Phenytoin ,  Female body builders may take male hormones (anabolic steroids), which may result in excessive hair growth. In rare cases, women with hirsutism have normal levels of male hormones, and the specific cause of the unwanted hair growth cannot be identified.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001476-3" qtype="symptoms">What are the symptoms of Excessive or unwanted hair in women ?</Question>
-			<Answer></Answer>
+			<Answer>The main symptom of this condition is the presence of coarse dark hair in areas that are sensitive to male hormones. These areas include: Chin and upper lip, Chest and upper abdomen, Back and buttocks, Inner thigh , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001476-4" qtype="exams and tests">How to diagnose Excessive or unwanted hair in women ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will examine you and ask about your symptoms. Tests that may be done may include any of the following: Thyroid stimulating hormone (TSH), Prolactin,  Testosterone test ,  DHEA-sulfate test , Pelvic  ultrasound  (if  virilization , or development of male characteristics, is present),  CT scan  or  MRI  (if virilization is present),  17-hydroxyprogesterone blood test ,  ACTH stimulation test , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001476-5" qtype="treatment">What are the treatments for Excessive or unwanted hair in women ?</Question>
-			<Answer></Answer>
+			<Answer>Hirsutism is generally a long-term problem. There are many ways to remove or treat unwanted hair. Some treatment effects last longer than others. 
+   Medicines -- Drugs such as birth control pills, anti-androgen medicines, and spironolactone are a few options for some women., 
+   Electrolysis -- Electrical current is used to permanently damage individual hair follicles so they do not grow back. This method is expensive, and multiple treatments are needed. Swelling, scarring, and redness of the skin may occur., 
+   Laser energy directed at the dark color (melanin) in the hairs -- This method is best for a large area of very dark hair. It does not work on blond or red hair. ,  Temporary options include: 
+   Shaving -- Although this does not cause more hair to grow, it may make hair look thicker., 
+   Chemicals, plucking, and waxing -- These options are safe and inexpensive. However, chemical products may irritate the skin. ,  For women who are overweight, weight loss may be able to help reduce hair growth.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001476-6" qtype="outlook">What is the outlook for Excessive or unwanted hair in women ?</Question>
-			<Answer></Answer>
+			<Answer>Hair follicles grow for about 6 months before falling out. Therefore, it takes many months of taking medicine before you will notice a decrease in hair growth. Many women get good results with temporary steps to remove hair or lighten it.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001476-7" qtype="complications">What are the complications of Excessive or unwanted hair in women ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, hirsutism does not cause health problems. But many women find it bothersome or embarrassing.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001476-8" qtype="when to contact a medical professional">Do I need to see a doctor for Excessive or unwanted hair in women ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have any of the following: The hair grows rapidly., You also have male features such as acne, deepening voice, increased muscle mass,  male pattern thinning of your hair , increasing size of the clitoris, and decreased breast size., You are concerned that medicine you are taking may be increasing the growth of unwanted hair., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

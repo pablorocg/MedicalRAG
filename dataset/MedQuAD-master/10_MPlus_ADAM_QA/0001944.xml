@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001944" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001393.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hepatocerebral degeneration</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001944-1" qtype="information">What is (are) Hepatocerebral degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>Hepatocerebral degeneration is a brain disorder that occurs in people with liver damage.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001944-2" qtype="causes">What causes Hepatocerebral degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>This condition may occur in any case of acquired liver failure, including severe  hepatitis . Liver damage can lead to the buildup of ammonia and other toxic materials in the body. This happens when the liver doesn't work properly. It does not break down and eliminate these chemicals. The toxic materials can damage brain tissue. Specific areas of the brain, such as the basal ganglia, are more likely to be injured from liver failure. The basal ganglia help control movement. This condition is the "non-Wilsonian" type. This means that the liver damage is not caused by copper deposits in the liver. This is a key feature of  Wilson disease .</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001944-3" qtype="symptoms">What are the symptoms of Hepatocerebral degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Difficulty walking, Impaired intellectual function, Jaundice, Muscle spasm (myoclonus), Rigidity, Shaking of arms, head (tremor), Twitching, Uncontrolled body movements ( chorea ), Tremor of the hand when the wrist is extended (also called a flapping tremor or asterixis), Unsteady walking ( ataxia ) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001944-4" qtype="exams and tests">How to diagnose Hepatocerebral degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>Signs include: Coma , Fluid in the abdomen that causes swelling ( ascites ), Gastrointestinal bleeding from enlarged veins in the food pipe ( esophageal varices ),  A nervous system (neurological) exam may show signs of: Dementia , Involuntary movements, Walking instability,  Laboratory tests may show a high ammonia level in the bloodstream and abnormal liver function. Other tests may include: MRI of the head ,  EEG  (may show general slowing of brain waves),  CT scan of the head , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001944-5" qtype="treatment">What are the treatments for Hepatocerebral degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment helps reduce the toxic chemicals that build up from liver failure. It may include antibiotics (rifaximin) or a medicine such as lactulose, which lowers the level of ammonia in the blood. A treatment called branched-chain amino acid therapy may also: Improve symptoms, Reverse brain damage,  There is no specific treatment for the neurologic syndrome, because it is caused by irreversible liver damage. A liver transplant may cure the liver disease. However, this operation may not reverse the symptoms of brain damage.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001944-6" qtype="outlook">What is the outlook for Hepatocerebral degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>This is a long-term (chronic) condition that may lead to irreversible nervous system (neurological) symptoms. The person may continue to get worse and die without a liver transplant. If a transplant is done early, the neurological syndrome may be reversible.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001944-7" qtype="complications">What are the complications of Hepatocerebral degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>Complications include: Hepatic coma , Severe brain damage , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001944-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hepatocerebral degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have any symptoms of liver disease.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001944-9" qtype="prevention">How to prevent Hepatocerebral degeneration ?</Question>
-			<Answer></Answer>
+			<Answer>It is not possible to prevent all forms of liver disease. However, alcoholic and viral hepatitis may be prevented. To reduce your risk of getting alcoholic or viral hepatitis: Avoid risky behaviors, such as IV drug use or unprotected sex., Don't drink, or drink only in moderation. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

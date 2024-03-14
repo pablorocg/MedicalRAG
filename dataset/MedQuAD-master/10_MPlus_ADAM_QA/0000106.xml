@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000106" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000442.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>After an exposure to sharps or body fluids</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000106-1" qtype="information">Do you have information about After an exposure to sharps or body fluids</Question>
-			<Answer></Answer>
+			<Answer>Being exposed to sharps (needles and other sharp medical instruments) or body fluids means that another person's blood or other body fluid touches your body. Exposure may occur after a needlestick or sharps injury. It can also occur when blood or other body fluid touches your skin, eyes, mouth, or other  mucosal surface .  Exposure can put you at risk for infection.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

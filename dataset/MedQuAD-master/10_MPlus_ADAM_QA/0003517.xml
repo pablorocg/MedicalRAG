@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003517" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000144.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Self catheterization - female</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003517-1" qtype="information">Do you have information about Self catheterization - female</Question>
-			<Answer></Answer>
+			<Answer>You will use a catheter (tube) to drain urine from your bladder. You may need a catheter because you have  urinary incontinence  (leakage), urinary retention (not being able to urinate), surgery that made a catheter necessary, or another health problem.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

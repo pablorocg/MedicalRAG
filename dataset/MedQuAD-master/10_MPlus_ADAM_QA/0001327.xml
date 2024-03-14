@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001327" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003045.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Earlobe creases</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,23 +16,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001327-1" qtype="information">What is (are) Earlobe creases ?</Question>
-			<Answer></Answer>
+			<Answer>Earlobe creases are lines in the surface of the earlobe of a child or young adult. The surface is otherwise smooth.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001327-2" qtype="considerations">What to do for Earlobe creases ?</Question>
-			<Answer></Answer>
+			<Answer>The earlobes of children and young adults are normally smooth. Creases are sometimes linked with conditions that are passed down through families. Other genetic factors, such as race and earlobe shape, may also determine who develops earlobe creasing and when it occurs. It is not uncommon to have one small abnormality in facial features, such as an earlobe crease. Most often, this does not indicate a serious medical condition.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001327-3" qtype="causes">What causes Earlobe creases ?</Question>
-			<Answer></Answer>
+			<Answer>In children, earlobe creases are sometimes linked with rare disorders. One of these is  Beckwith-Wiedemann syndrome .</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001327-4" qtype="when to contact a medical professional">Do I need to see a doctor for Earlobe creases ?</Question>
-			<Answer></Answer>
+			<Answer>In most cases, the health care provider will notice earlobe creases during a regular checkup. Talk to your provider if you are concerned that your child's earlobe creases may be linked to an inherited disorder.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001327-5" qtype="outlook">What is the outlook for Earlobe creases ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

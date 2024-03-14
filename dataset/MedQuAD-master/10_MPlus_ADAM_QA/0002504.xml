@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002504" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003089.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Malaise</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,27 +19,47 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002504-1" qtype="information">What is (are) Malaise ?</Question>
-			<Answer></Answer>
+			<Answer>Malaise is a general feeling of discomfort, illness, or lack of well-being.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002504-2" qtype="considerations">What to do for Malaise ?</Question>
-			<Answer></Answer>
+			<Answer>Malaise is a symptom that can occur with almost any health condition. It may start slowly or quickly, depending on the type of disease. Fatigue  (feeling tired) occurs with malaise in many diseases. You can have a feeling of not having enough energy to do your usual activities.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002504-3" qtype="causes">What causes Malaise ?</Question>
-			<Answer></Answer>
+			<Answer>The following lists give examples of the diseases, conditions, and medicines that can cause malaise.  
+ SHORT-TERM (ACUTE) INFECTIOUS DISEASE 
+  Acute bronchitis or  pneumonia , Acute viral syndrome,  Infectious mononucleosis  (EBV),  Influenza ,  Lyme disease ,   
+ LONG-TERM (CHRONIC) INFECTIOUS DISEASE 
+  AIDS , Chronic active  hepatitis , Disease caused by parasites,  Tuberculosis ,   
+ HEART AND LUNG (CARDIOPULMONARY) DISEASE 
+  Congestive heart failure ,  COPD ,   
+ ORGAN FAILURE 
+  Acute or chronic kidney disease, Acute or chronic  liver disease ,   
+ CONNECTIVE TISSUE DISEASE 
+  Rheumatoid arthritis ,  Sarcoidosis ,  Systemic lupus erythematosus ,   
+ ENDOCRINE or METABOLIC DISEASE 
+  Adrenal gland  dysfunction,  Diabetes , Pituitary gland dysfunction (rare), Thyroid disease ,   
+ CANCER 
+  Leukemia , Lymphoma (cancer that starts in the  lymph system ), Solid tumor cancers, such as  colon cancer ,   
+ BLOOD DISORDERS 
+  Severe  anemia ,   
+ PSYCHIATRIC 
+  Depression ,  Dysthymia ,   
+ MEDICINES 
+  Anticonvulsant (antiseizure) medicines, Antihistamines, Beta blockers (medicines used to treat heart disease or high blood pressure), Psychiatric medicines, Treatments involving several medicines , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002504-4" qtype="considerations">What to do for Malaise ?</Question>
-			<Answer></Answer>
+			<Answer>Malaise is a symptom that can occur with almost any health condition. It may start slowly or quickly, depending on the type of disease. Fatigue  (feeling tired) occurs with malaise in many diseases. You can have a feeling of not having enough energy to do your usual activities.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002504-5" qtype="when to contact a medical professional">Do I need to see a doctor for Malaise ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: You have other symptoms with the malaise, Malaise lasts longer than one week, with or without other symptoms , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002504-6" qtype="outlook">What is the outlook for Malaise ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003309" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001464.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pyogenic granuloma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003309-1" qtype="information">What is (are) Pyogenic granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>Pyogenic granulomas are small, raised, and red bumps on the skin. The bumps have a smooth surface and may be moist. They bleed easily because of the high number of blood vessels at the site. It is a benign (noncancerous) growth.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003309-2" qtype="causes">What causes Pyogenic granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>The exact cause of pyogenic granulomas is unknown. They often appear following an injury on the hands, arms, or face. Pyogenic granulomas are common in children and pregnant women.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003309-3" qtype="symptoms">What are the symptoms of Pyogenic granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>Signs of a pyogenic granuloma are: A small red lump on the skin&#160;that bleeds easily, Often found at the site of a recent injury, Usually seen on hands, arms, and face, but&#160;they may develop in the mouth (most often in pregnant women) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003309-4" qtype="exams and tests">How to diagnose Pyogenic granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will do a physical exam to diagnose this condition. You may also need a  skin biopsy  to confirm the diagnosis and rule out skin cancer.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003309-5" qtype="treatment">What are the treatments for Pyogenic granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>Small pyogenic granulomas may go away without treatment. If needed, bumps are treated with: Surgical shaving or excision,  Electrocautery  (heat) , Freezing, A laser, Creams applied to the skin (may not be as effective as surgery), </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003309-6" qtype="outlook">What is the outlook for Pyogenic granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>Most pyogenic granulomas can be removed. A scar may remain after treatment. There is a high chance that the problem will come back if the whole lesion is not removed or destroyed during treatment.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003309-7" qtype="complications">What are the complications of Pyogenic granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>These problems may occur: Bleeding from the lesion, Return of the condition after treatment , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003309-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pyogenic granuloma ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have a skin bump that bleeds easily or that changes appearance.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

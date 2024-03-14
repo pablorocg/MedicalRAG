@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000401" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001069.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Basal ganglia dysfunction</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,31 +19,31 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000401-1" qtype="information">What is (are) Basal ganglia dysfunction ?</Question>
-			<Answer></Answer>
+			<Answer>Basal ganglia dysfunction is a problem with the deep brain structures that help start and control movement.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000401-2" qtype="causes">What causes Basal ganglia dysfunction ?</Question>
-			<Answer></Answer>
+			<Answer>Watch this video about: Athetosis resulting from basal ganglia injury Any condition that can cause brain injury can damage the basal ganglia. Such conditions include: Carbon monoxide poisoning, Drug overdose, Head injury, Infection, Liver disease,  Metabolic  problems,  Multiple sclerosis  (MS), Poisoning with copper, manganese, or other heavy metals, Stroke, Tumors ,  A common cause of the symptoms of basal ganglia dysfunction is chronic use of medicines used to treat schizophrenia. Many brain disorders are associated with basal ganglia dysfunction. They include: Dystonia  (muscle tone problems),  Huntington disease  (nerve cells in certain parts of the brain waste away, or degenerate),  Multiple system atrophy  (widespread nervous system disorder),  Parkinson disease ,  Progressive supranuclear palsy  (movement disorder from damage to certain nerve cells in the brain),  Wilson disease  (disorder causing too much copper in the body's tissues) , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000401-3" qtype="symptoms">What are the symptoms of Basal ganglia dysfunction ?</Question>
-			<Answer></Answer>
+			<Answer>Damage to the basal ganglia cells may cause problems controlling speech, movement, and posture. This combination of symptoms is called parkinsonism.  A person with basal ganglia dysfunction may have trouble starting, stopping, or sustaining movement. Depending on which area of the brain is affected, there may also be problems with memory and other thought processes. In general, symptoms vary and may include: Movement changes, such as involuntary or slowed movements, Increased muscle tone, Muscle spasms and muscle rigidity, Problems finding words, Tremor, Uncontrollable, repeated movements, speech, or cries (tics), Walking difficulty, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000401-4" qtype="exams and tests">How to diagnose Basal ganglia dysfunction ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam and ask about the symptoms and medical history. Blood and imaging tests may be needed. These may include: CT and MRI of the head, Genetic testing, Magnetic resonance angiography (MRA) to look at the blood vessels in the neck and brain, Positron emission tomography (PET) to look at the metabolism of the brain, Blood tests to check blood sugar, thyroid function, liver function, and iron and copper levels , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000401-5" qtype="treatment">What are the treatments for Basal ganglia dysfunction ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment depends on the cause of the disorder.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000401-6" qtype="outlook">What is the outlook for Basal ganglia dysfunction ?</Question>
-			<Answer></Answer>
+			<Answer>How well a person does depends on the cause of the dysfunction. Some causes are reversible, while others require lifelong treatment.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000401-7" qtype="when to contact a medical professional">Do I need to see a doctor for Basal ganglia dysfunction ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if you have any: Abnormal or involuntary movements, Falls without known reason, If you or others notice that you are shaky or slow, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

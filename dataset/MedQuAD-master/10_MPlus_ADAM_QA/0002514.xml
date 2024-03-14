@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002514" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000269.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Mallory-Weiss tear</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002514-1" qtype="information">What is (are) Mallory-Weiss tear ?</Question>
-			<Answer></Answer>
+			<Answer>A Mallory-Weiss tear occurs in the  mucous membrane  of the lower part of the esophagus or upper part of the stomach, near where they join. The tear may bleed.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002514-2" qtype="causes">What causes Mallory-Weiss tear ?</Question>
-			<Answer></Answer>
+			<Answer>Mallory-Weiss tears are most often caused by forceful or long-term  vomiting  or  coughing . They may also be caused by epileptic  convulsions . Any condition that leads to violent and lengthy bouts of coughing or vomiting can cause these tears.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002514-3" qtype="symptoms">What are the symptoms of Mallory-Weiss tear ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Bloody stools ,  Vomiting blood  (bright red) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002514-4" qtype="exams and tests">How to diagnose Mallory-Weiss tear ?</Question>
-			<Answer></Answer>
+			<Answer>Tests may include: CBC , possibly showing low  hematocrit ,  Esophagogastroduodenoscopy  (EGD), more likely to be done when there is active bleeding , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002514-5" qtype="treatment">What are the treatments for Mallory-Weiss tear ?</Question>
-			<Answer></Answer>
+			<Answer>The tear usually heals in a few days without treatment. The tear may also be fixed by clips that are put in during an EGD. Surgery is rarely needed. Drugs that suppress stomach acid (proton pump inhibitors or H 2  blockers) may be given, but it is not clear if they are helpful. If  blood loss  has been large, blood transfusions may be needed. In most cases, bleeding stops without treatment within a few hours.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002514-6" qtype="outlook">What is the outlook for Mallory-Weiss tear ?</Question>
-			<Answer></Answer>
+			<Answer>Repeated bleeding is uncommon and the outcome is most often good.  Cirrhosis  of the liver and problems with blood clotting make future bleeding episodes more likely to occur.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002514-7" qtype="complications">What are the complications of Mallory-Weiss tear ?</Question>
-			<Answer></Answer>
+			<Answer>Hemorrhage (loss of blood)</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002514-8" qtype="when to contact a medical professional">Do I need to see a doctor for Mallory-Weiss tear ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you begin vomiting blood or if you pass bloody stools.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002514-9" qtype="prevention">How to prevent Mallory-Weiss tear ?</Question>
-			<Answer></Answer>
+			<Answer>Treatments to relieve vomiting and coughing may reduce risk. Avoid excessive  alcohol use .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

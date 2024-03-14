@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000016" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003120.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Abdominal pain</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,27 +24,29 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000016-1" qtype="information">What is (are) Abdominal pain ?</Question>
-			<Answer></Answer>
+			<Answer>Abdominal pain is pain that you feel anywhere between your chest and groin. This is often referred to as the stomach region or belly.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000016-2" qtype="considerations">What to do for Abdominal pain ?</Question>
-			<Answer></Answer>
+			<Answer>Almost everyone has pain in the abdomen at some point. Most of the time, it is not serious.  How bad your pain is does not always reflect the seriousness of the condition causing the pain. For example, you might have very bad abdominal pain if you have gas or stomach cramps due to  viral gastroenteritis . However, fatal conditions, such as colon cancer or early  appendicitis , may only cause mild pain or no pain. Other ways to describe pain in your abdomen include: Generalized pain -- This means that you feel it in more than half of your belly. This type of pain is more typical for a stomach virus, indigestion, or gas. If the pain becomes more severe, it may be caused by a blockage of the intestines., Localized pain -- This is pain found in only one area of your belly. It is more likely to be a sign of a problem in an organ, such as the appendix, gallbladder, or stomach., Cramp-like pain -- This type of pain is not serious most of the time. It is likely to be due to gas and bloating, and is often followed by diarrhea. More worrisome signs include pain that occurs more often, lasts more than 24 hours, or occurs with a fever., Colicky pain -- This type of pain comes in waves. It very often starts and ends suddenly, and is often severe. Kidney stones and gallstones are common causes of this type of belly pain. , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000016-3" qtype="causes">What causes Abdominal pain ?</Question>
-			<Answer></Answer>
+			<Answer>Many different conditions can cause abdominal pain. The key is to know when you need to get medical care right away. Sometimes, you may only need to call a health care provider if your symptoms continue. Less serious causes of abdominal pain include:  
+ Constipation 
+ ,  Irritable bowel syndrome , Food allergies or intolerance (such as  lactose intolerance ),  Food poisoning ,  Stomach flu ,  Other possible causes include: Appendicitis ,  Abdominal aortic aneurysm  (bulging and weakening of the major artery in the body),  Bowel blockage or obstruction , Cancer of the stomach,  colon  (large bowel), and other organs,  Cholecystitis  (inflammation of the gallbladder) with or without  gallstones , Decreased blood supply to the intestines ( ischemic bowel ),  Diverticulitis  (inflammation and infection of the colon),  Endometriosis ,  Heartburn ,  indigestion , or  gastroesophageal reflux  (GERD), Inflammatory bowel disease ( Crohn disease  or  ulcerative colitis ),  Kidney stones ,  Muscle strain ,  Pancreatitis  (swelling or infection of the pancreas),  Pelvic inflammatory disease (PID) , Ruptured  ovarian cyst , Severe  menstrual cramps , Tubal ( ectopic ) pregnancy,  Ulcers ,  Urinary tract infections &#160;(UTI), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000016-4" qtype="considerations">What to do for Abdominal pain ?</Question>
-			<Answer></Answer>
+			<Answer>Almost everyone has pain in the abdomen at some point. Most of the time, it is not serious.  How bad your pain is does not always reflect the seriousness of the condition causing the pain. For example, you might have very bad abdominal pain if you have gas or stomach cramps due to  viral gastroenteritis . However, fatal conditions, such as colon cancer or early  appendicitis , may only cause mild pain or no pain. Other ways to describe pain in your abdomen include: Generalized pain -- This means that you feel it in more than half of your belly. This type of pain is more typical for a stomach virus, indigestion, or gas. If the pain becomes more severe, it may be caused by a blockage of the intestines., Localized pain -- This is pain found in only one area of your belly. It is more likely to be a sign of a problem in an organ, such as the appendix, gallbladder, or stomach., Cramp-like pain -- This type of pain is not serious most of the time. It is likely to be due to gas and bloating, and is often followed by diarrhea. More worrisome signs include pain that occurs more often, lasts more than 24 hours, or occurs with a fever., Colicky pain -- This type of pain comes in waves. It very often starts and ends suddenly, and is often severe. Kidney stones and gallstones are common causes of this type of belly pain. , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000016-5" qtype="when to contact a medical professional">Do I need to see a doctor for Abdominal pain ?</Question>
-			<Answer></Answer>
+			<Answer>Get medical help right away or call your local emergency number (such as 911) if you: Are currently being treated for cancer, Are unable to pass stool, especially if you are also vomiting, Are vomiting blood or have blood in your stool (especially if bright red, maroon or dark, tarry black), Have chest, neck, or shoulder pain, Have sudden, sharp abdominal pain, Have pain in, or between, your shoulder blades with nausea, Have tenderness in your belly, or your belly is rigid and hard to the touch, Are pregnant or could be pregnant, Had a recent injury to your abdomen, Have difficulty breathing ,  Contact your provider if you have: Abdominal discomfort that lasts 1 week or longer, Abdominal pain that does not improve in 24&#160;to 48 hours, or becomes more severe and frequent and occurs with nausea and vomiting, Bloating that persists for more than 2 days, Burning sensation when you urinate or frequent urination, Diarrhea for more than 5 days, Fever, over 100&#176;F (37.7&#176;C) for adults or 100.4&#176;F (38&#176;C)&#160;for children, with pain, Prolonged poor appetite, Prolonged vaginal bleeding, Unexplained weight loss , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000016-6" qtype="outlook">What is the outlook for Abdominal pain ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

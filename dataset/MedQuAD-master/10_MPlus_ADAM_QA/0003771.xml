@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003771" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000793.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Substance use - cocaine</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,15 +21,16 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003771-1" qtype="information">What is (are) Substance use - cocaine ?</Question>
-			<Answer></Answer>
+			<Answer>Cocaine is made from the leaves of the coca plant. Cocaine comes as a white powder, which can be dissolved in water. It is available as a powder or liquid. As a street drug, cocaine can be taken in different ways: 
+  Inhaling it through the nose (snorting), Dissolving it in water and injecting it into a vein (shooting up), Mixing with heroin and injecting into a vein (speedballing), Smoking it (this type of cocaine is called freebase or crack) ,  Street names for cocaine include blow, bump, C, candy, Charlie, coca, coke, flake, rock, snow, speedball, toot. </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003771-5" qtype="treatment">What are the treatments for Substance use - cocaine ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment begins with recognizing there is problem. Once you decide you want to do something about your cocaine use, the next step is to get help and support. Treatment programs use behavior change techniques through counseling (talk therapy). The aim is to help you understand your behaviors and why you use cocaine. Involving family and friends during counseling can help support you and keep you from going back to using (relapsing) the drug. If you have severe withdrawal symptoms, you may need to stay at a live-in treatment program. There, your health and safety can be monitored as you recover. At this time, there is no medicine that can help reduce the use of cocaine by blocking its effects. But, scientists are researching such medicines.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003771-8" qtype="when to contact a medical professional">Do I need to see a doctor for Substance use - cocaine ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

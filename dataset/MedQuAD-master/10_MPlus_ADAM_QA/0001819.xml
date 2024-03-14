@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001819" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003510.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>HCG blood test - quantitative</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001819-1" qtype="information">Do you have information about HCG blood test - quantitative</Question>
-			<Answer></Answer>
+			<Answer>A quantitative human chorionic gonadotropin (HCG or hCG) blood test measures the specific level of HCG in the blood. HCG is a hormone produced in the body during pregnancy. Other HCG tests include: HCG urine test ,  HCG blood test -- qualitative , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

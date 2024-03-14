@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002429" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000586.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Losing weight after pregnancy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002429-1" qtype="information">What is (are) Losing weight after pregnancy ?</Question>
-			<Answer></Answer>
+			<Answer>You should plan to return to your pre-pregnancy weight by 6 to 12 months after delivery. Most women lose half of their baby weight by 6 weeks after childbirth (postpartum). The rest most often comes off over the next several months.  A healthy diet with daily exercise will help you shed the pounds. Breastfeeding can also help with postpartum weight loss.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002429-5" qtype="considerations">What to do for Losing weight after pregnancy ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

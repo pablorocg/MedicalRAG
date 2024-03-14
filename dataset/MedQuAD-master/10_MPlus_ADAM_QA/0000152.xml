@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000152" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002229.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Allergen</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000152-1" qtype="information">Do you have information about Allergen</Question>
-			<Answer></Answer>
+			<Answer>Common allergens include: Animal proteins and animal dander, Dust, Drugs (such as antibiotics or medicines you put on your skin), Foods (such as egg, peanut, milk, nuts, soy, fish, animal meat, and wheat), Fungal spores, Insect and mite feces, Insect bites and stings (their venom), Natural latex rubber, Pollen , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

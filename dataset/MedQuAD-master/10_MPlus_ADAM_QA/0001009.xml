@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001009" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003504.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>CPK isoenzymes test</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,11 +21,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001009-1" qtype="information">What is (are) CPK isoenzymes test ?</Question>
-			<Answer></Answer>
+			<Answer>The creatine phosphokinase (CPK) isoenzymes test measures the different forms of CPK in the blood. CPK is an enzyme found mainly in the heart, brain, and skeletal muscle.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001009-7" qtype="considerations">What to do for CPK isoenzymes test ?</Question>
-			<Answer></Answer>
+			<Answer>Factors that can affect test results include  cardiac catheterization , intramuscular injections, recent surgery, and vigorous and prolonged exercise or immobilization. Isoenzyme testing for specific conditions is about 90% accurate.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

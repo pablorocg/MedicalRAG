@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002473" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001319.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lyme disease</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002473-1" qtype="information">What is (are) Lyme disease ?</Question>
-			<Answer></Answer>
+			<Answer>Lyme disease is a bacterial infection that is spread through the bite of one of several types of ticks.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002473-2" qtype="causes">What causes Lyme disease ?</Question>
-			<Answer></Answer>
+			<Answer>Lyme disease is caused by bacteria called  Borrelia burgdorferi  ( B burgdorferi ). Blacklegged ticks (also called deer ticks) can carry these bacteria. Not all species of ticks can carry these bacteria. Immature ticks are called nymphs, and they are about the size of a pinhead. Nymphs pick up bacteria when they feed on small rodents, such as mice, infected with  B burgdorferi . You can only get the disease if you are bitten by an infected tick. Lyme disease was first reported in the United States in 1977 in the town of Old Lyme, Connecticut. The same disease occurs in many parts of Europe and Asia. In the United States, most Lyme disease infections occur in the following areas: Northeastern states, from Virginia to Maine, North-central states, mostly in Wisconsin and Minnesota, West Coast, mainly in the northwest ,  There are three stages of Lyme disease. Stage 1 is called early localized Lyme disease. The bacteria have not yet spread throughout the body., Stage 2 is called early disseminated Lyme disease. The bacteria have begun to spread throughout the body., Stage 3 is called late disseminated Lyme disease. The bacteria have spread throughout the body. ,  Risk factors for Lyme disease include: Doing outside activities that increase tick exposure (for example, gardening, hunting, or hiking) in an area where Lyme disease occurs, Having a pet that may carry infected ticks home, Walking in high grasses in areas where Lyme disease occurs,  Important facts about tick bites and Lyme disease: A tick must be attached to your body for 24 to 36 hours in order to spread the bacteria to your blood., Blacklegged ticks can be so small that they are almost impossible to see. Many people with Lyme disease never even see or feel a tick on their body., Most people who are bitten by a tick do not get Lyme disease. , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002473-3" qtype="symptoms">What are the symptoms of Lyme disease ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of early localized Lyme disease (stage 1) begin days or weeks after infection. They are similar to the flu and may include: Fever  and chills, General ill feeling,  Headache , Joint pain,  Muscle pain ,  Stiff neck ,  There may be a "bull's eye" rash, a flat or slightly raised red spot at the site of the tick bite. Often there is a clear area in the center. It can be large and expanding in size. This rash is called erythema migrans. Without treatment, it can last 4 weeks or longer. Symptoms may come and go. Untreated, the bacteria can spread to the brain, heart, and joints. Symptoms of early disseminated Lyme disease (stage 2) may occur weeks to months after the tick bite, and may include: Numbness or pain in the nerve area, Paralysis or weakness in the muscles of the face, Heart problems, such as skipped heartbeats (palpitations), chest pain, or shortness of breath ,  Symptoms of late disseminated Lyme disease (stage 3) can occur months or years after the infection. The most common symptoms are muscle and joint pain. Other symptoms may include: Abnormal muscle movement, Joint swelling, Muscle weakness, Numbness and tingling, Speech problems, Thinking (cognitive) problems , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002473-4" qtype="exams and tests">How to diagnose Lyme disease ?</Question>
-			<Answer></Answer>
+			<Answer>A blood test can be done to check for  antibodies  to the bacteria that cause Lyme disease. The most commonly used is the  ELISA for Lyme disease  test. An immunoblot test is done to confirm ELISA results. Be aware, though, in the early stage of infection, blood tests may be normal. Also, if you are treated with antibiotics in the early stage, your body may not make enough antibodies to be detected by blood tests. In areas where Lyme disease is more common, your health care provider may be able to diagnose early disseminated Lyme disease (Stage 2) without doing any lab tests. Other tests that may be done when the infection has spread include: Electrocardiogram ,  Echocardiogram  to look at the heart,  MRI of the brain ,  Spinal tap  (lumbar puncture to examine spinal fluid) , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002473-5" qtype="treatment">What are the treatments for Lyme disease ?</Question>
-			<Answer></Answer>
+			<Answer>People bitten by a tick should be watched closely for at least 30 days to see if a rash or symptoms develop. To prevent Lyme disease, a single dose of the antibiotic doxycycline may be given to someone soon after being bitten by a tick, when all of these conditions are true: The person has a tick that can carry Lyme disease attached to their body. This usually means that a nurse or doctor has looked at and identified the tick., The tick is thought to have been attached to the person for at least 36 hours., The person is able to start taking the antibiotic within 72 hours of removing the tick., The person is 8 years or older and is not pregnant or breastfeeding., Local rate of ticks carrying  B burgdorferi  is 20% or higher. ,  A 10-day to 4-week course of antibiotics is used to treat people who are diagnosed with Lyme disease, depending on the choice of drug: The choice of antibiotic depends on the stage of the disease and the symptoms., Common choices include doxycycline, amoxicillin, azithromycin, cefuroxime, and ceftriaxone. ,  Pain medicines, such as ibuprofen, are sometimes prescribed for  joint stiffness .</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002473-6" qtype="outlook">What is the outlook for Lyme disease ?</Question>
-			<Answer></Answer>
+			<Answer>If diagnosed in the early stages, Lyme disease can be cured with antibiotics. Without treatment, complications involving the joints, heart, and nervous system can occur. But these symptoms are still treatable and curable. In rare cases, a person keeps having symptoms that interfere with daily life after they have been treated with antibiotics. This is also known as post-Lyme disease syndrome. The cause of this syndrome is unknown. Symptoms that occur after antibiotics are stopped may not be signs of active infection and may not respond to antibiotic treatment.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002473-7" qtype="complications">What are the complications of Lyme disease ?</Question>
-			<Answer></Answer>
+			<Answer>Stage 3, or late disseminated, Lyme disease can cause long-term joint inflammation (Lyme arthritis) and heart rhythm problems. Brain and nervous system problems are also possible, and may include: Decreased concentration, Memory disorders, Nerve damage, Numbness, Pain, Paralysis of the face muscles, Sleep disorders, Vision problems , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002473-8" qtype="when to contact a medical professional">Do I need to see a doctor for Lyme disease ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have: A large, red, expanding rash that may look like a bull's eye., Had a tick bite and develop weakness, numbness, tingling, or heart problems., Symptoms of Lyme disease, especially if you may have been exposed to ticks., </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002473-9" qtype="prevention">How to prevent Lyme disease ?</Question>
-			<Answer></Answer>
+			<Answer>Take precautions to avoid tick bites. Be extra careful during warmer months. When possible, avoid walking or hiking in the woods and areas with high grass. If you do walk or hike in these areas, take measures to prevent tick bites: Wear light-colored clothing so that if ticks land on you, they can be spotted and removed., Wear long sleeves and long pants with pant legs tucked into your socks., Spray exposed skin and your clothing with  insect repellant , such as DEET or permethrin. Follow instructions on the container., After returning home, remove your clothes and thoroughly inspect all skin surface areas, including your scalp. Shower as soon as possible to wash off any unseen ticks. ,  If a tick is attached to you, follow these steps to  remove it : Grasp the tick close to its head or mouth with tweezers. Do not use your bare fingers. If needed, use a tissue or paper towel., Pull it straight out with a slow and steady motion. Avoid squeezing or crushing the tick. Be careful not to leave the head embedded in the skin., Clean the area thoroughly with soap and water. Also wash your hands thoroughly., Save the tick in a jar., Watch carefully for the next week or two for signs of Lyme disease., If all parts of the tick cannot be removed, get medical help. Bring the tick in the jar to your provider. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

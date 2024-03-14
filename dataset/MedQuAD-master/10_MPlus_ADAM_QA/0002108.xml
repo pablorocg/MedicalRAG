@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002108" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000158.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hypospadias repair - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002108-1" qtype="information">Do you have information about Hypospadias repair - discharge</Question>
-			<Answer></Answer>
+			<Answer>Your child had  hypospadias repair  to fix a birth defect in which the urethra does not end at the tip of the  penis . The urethra is the tube that carries urine from the bladder to outside the body. The type of repair that was done depends on how severe the birth defect was. This may be the first surgery for this problem or it may be a follow-up procedure. Your child received general anesthesia before surgery to make him unconscious and unable to feel pain.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

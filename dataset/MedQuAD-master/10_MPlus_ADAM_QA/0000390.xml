@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000390" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003926.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>BAER - brainstem auditory evoked response</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -16,7 +15,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000390-1" qtype="information">Do you have information about BAER - brainstem auditory evoked response</Question>
-			<Answer></Answer>
+			<Answer>Brainstem auditory evoked response (BAER) is a test to measure the brain wave activity that occurs in response to clicks or certain tones.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

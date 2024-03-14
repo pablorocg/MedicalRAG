@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003332" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001647.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ramsay Hunt syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003332-1" qtype="information">What is (are) Ramsay Hunt syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Ramsay Hunt syndrome is a painful rash around the ear, on the face, or on the mouth. It occurs when the  varicella-zoster  virus infects a nerve in the head.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003332-2" qtype="causes">What causes Ramsay Hunt syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The varicella-zoster virus that causes Ramsay Hunt syndrome is the same virus that causes  chickenpox  and  shingles . In people with this syndrome, the virus is believed to infect the facial nerve near the inner ear. This leads to irritation and swelling of the nerve. The condition mainly affects adults. In rare cases, it is seen in children.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003332-3" qtype="symptoms">What are the symptoms of Ramsay Hunt syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Severe pain in the ear, Painful rash on the eardrum, ear canal, earlobe, tongue, and roof of the mouth on the side with the affected nerve, Hearing loss on one side, Sensation of things spinning ( vertigo ), Weakness on one side of the face that causes difficulty closing one eye, eating (food falls out of the weak corner of the mouth), making expressions, and making fine movements of the face, as well as facial droop and paralysis on one side of the face, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003332-4" qtype="exams and tests">How to diagnose Ramsay Hunt syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>A health care provider will usually diagnose Ramsay Hunt Syndrome by looking for signs of weakness in the face and a blister-like rash. Tests may include: Blood tests for varicella-zoster virus,  Electromyography  (EMG),  Lumbar puncture  (in rare cases),  MRI of the head ,  Nerve conduction  (to determine the amount of damage to the facial nerve), Skin scrapings to test for varicella-zoster virus , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003332-5" qtype="treatment">What are the treatments for Ramsay Hunt syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Strong anti-inflammatory drugs called steroids (such as prednisone) are usually given. Antiviral medicines, such as acyclovir or valacyclovir will usually be given. Sometimes strong painkillers are also needed if the pain continues even with steroids. While you have weakness of the face, wear an eye patch to prevent injury to the cornea ( corneal abrasion ) and other damage to the eye if the eye does not close completely. Some people may use a special eye lubricant at night and artificial tears during the day to prevent the eye from drying out. If you have dizziness, your provider can advise other medicines.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003332-6" qtype="outlook">What is the outlook for Ramsay Hunt syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>If there is not much damage to the nerve, you should get better completely within a few weeks. If damage is more severe, you may not fully recover, even after several months. Overall, your chances of recovery are better if the treatment is started within 3 days after the symptoms begin. When treatment is started within this time, most people make a full recovery. If treatment is delayed for more than 3 days, there is less of a chance of complete recovery. Children are more likely to have a complete recovery than adults.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003332-7" qtype="complications">What are the complications of Ramsay Hunt syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Complications of Ramsay Hunt syndrome may include: Changes in the appearance of the face (disfigurement) from loss of movement, Change in taste, Damage to the eye ( corneal ulcers and infections ), resulting in a loss of vision, Nerves that grow back to the wrong structures and cause abnormal reactions to a movement -- for example, smiling causes the eye to close, Persistent pain (postherpetic  neuralgia ), Spasm of the face muscles or eyelids,  Occasionally, the virus may spread to other nerves, or even to the brain and spinal cord. This can cause: Confusion, Drowsiness, Headaches, Limb weakness, Nerve pain,  If these symptoms occur, a hospital stay may be needed. A spinal tap may help determine whether other areas of the nervous system have been infected.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003332-8" qtype="when to contact a medical professional">Do I need to see a doctor for Ramsay Hunt syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you lose movement in your face, or you have a rash on your face and facial weakness.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003332-9" qtype="prevention">How to prevent Ramsay Hunt syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known way to prevent Ramsay Hunt syndrome, but treating it with medicine soon after symptoms develop can improve recovery.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

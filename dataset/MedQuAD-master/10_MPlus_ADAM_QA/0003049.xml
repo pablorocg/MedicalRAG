@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003049" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002430.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pesticides</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003049-1" qtype="information">Do you have information about Pesticides</Question>
-			<Answer></Answer>
+			<Answer>Pesticides are pest-killing substances that help protect plants against molds, fungi, rodents, noxious weeds, and insects. Pesticides help prevent crop loss and, potentially, human disease. According to the United States Environmental Protection Agency, there are currently more than 865 registered pesticides. Human-made pesticides are regulated by the United States Department of Agriculture. This agency determines how pesticides are applied during farming and how much pesticide residue can remain in foods sold in stores. Exposure to pesticides can happen in the workplace, through foods that are eaten, and in the home or garden.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

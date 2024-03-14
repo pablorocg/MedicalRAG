@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001432" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002363.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Epithelium</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001432-1" qtype="information">Do you have information about Epithelium</Question>
-			<Answer></Answer>
+			<Answer>Epithelial cells help to protect or enclose organs. Most produce mucus or other secretions. Certain types of epithelial cells have tiny hairs called cilia, which help remove foreign substances.  Epithelial cells are arranged in single, or multiple layers, depending on the organ and location.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

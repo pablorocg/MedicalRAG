@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003681" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001403.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Spinal tumor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003681-1" qtype="information">What is (are) Spinal tumor ?</Question>
-			<Answer></Answer>
+			<Answer>A spinal tumor is a growth of cells (mass) in or around the spinal cord.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003681-2" qtype="causes">What causes Spinal tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Any type of tumor may occur in the spine, including primary and secondary tumors. Primary tumors: most of these tumors are benign and slow growing. Astrocytoma: a tumor of the supporting cells inside the spinal cord, Meningioma: tumor of the tissue that covers the spinal cord, Schwannoma: a tumor of the cells surrounding the nerve fibers, Ependymoma: a tumor of the cells that line the cavities of the brain, Lipoma: a tumor of the fat cells,  Secondary tumors or metastasis: these tumors are cancer cells coming from other areas of the body. Prostate ,  lung , and  breast cancers ,  Leukemia : a blood cancer that starts in the white cells in the bone marrow,  Lymphoma : a cancer of the lymph tissue,  Myeloma : a blood cancer that starts in the plasma cells of the bone marrow,  The cause of primary spinal tumors is unknown. Some primary spinal tumors occur with certain inherited gene mutations. Spinal tumors can be located: Inside the spinal cord (intramedullary), In the membranes (meninges) covering the spinal cord (extramedullary - intradural), Between the meninges and bones of the spine (extradural), In the spine bones (vertebrae),  As it grows, the tumor can affect the: Blood vessels, Bones of the spine, Meninges, Nerve roots, Spinal cord cells,  The tumor may press on the spinal cord or nerve roots, causing damage. With time, the damage may become permanent.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003681-3" qtype="symptoms">What are the symptoms of Spinal tumor ?</Question>
-			<Answer></Answer>
+			<Answer>The symptoms depend on the location, type of tumor, and your general health. Secondary tumors that have spread to the spine from another site (metastatic tumors) often progress quickly. Primary tumors often progress slowly over weeks to years. Symptoms may include: Abnormal sensations  or loss of sensation, especially in the legs, Back pain that gets worse over time, is often in the middle or lower back, is usually severe and not relieved by pain medicine, gets worse when lying down or straining (such as during a cough or sneeze), and may extend to the hips or legs,  Loss of bowel control ,  bladder leakage ,  Muscle contractions,  twitches, or spasms (fasciculations),  Muscle weakness  (decreased muscle strength) in the legs that causes falls, makes walking difficult, and may get worse (progressive) and lead to paralysis, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003681-4" qtype="exams and tests">How to diagnose Spinal tumor ?</Question>
-			<Answer></Answer>
+			<Answer>A nervous system (neurological) examination may help pinpoint the location of the tumor. The health care provider may also find the following during an exam: Abnormal reflexes, Increased muscle tone, Loss of pain and temperature sensation, Muscle weakness, Tenderness in the spine ,  These tests may confirm spinal tumor: Spinal CT , Spine MRI,  Spine x-ray ,  Cerebrospinal fluid (CSF) examination ,  Myelogram  (x-ray of the spinal canal that contains the spinal cord), PET scan, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003681-5" qtype="treatment">What are the treatments for Spinal tumor ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to reduce or prevent nerve damage caused by pressure on (compression of) the spinal cord and ensure that you can walk. Treatment should be given quickly. The more quickly symptoms develop, the sooner treatment is needed to prevent permanent injury. Any new or unexplained back pain in a patient with cancer should be thoroughly investigated. Treatments include: Corticosteroids (dexamethasone) may be given to reduce inflammation and swelling around the spinal cord., Emergency surgery may be needed to relieve compression on the spinal cord. Some tumors can be completely removed. In other cases, part of the tumor may be removed to relieve pressure on the spinal cord.,  Radiation therapy  may be used with, or instead of, surgery.,  Chemotherapy  has not been proven effective against most primary spinal tumors, but it may be recommended in some cases, depending on the type of tumor., Physical therapy may be needed to improve muscle strength and the ability to function independently. , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003681-6" qtype="support groups">Where to find support for people with Spinal tumor ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003681-7" qtype="outlook">What is the outlook for Spinal tumor ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome varies depending on the tumor. Early diagnosis and treatment usually leads to a better outcome. Nerve damage often continues, even after surgery. Although some amount of permanent disability is likely, early treatment may delay major disability and death.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003681-8" qtype="complications">What are the complications of Spinal tumor ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003681-9" qtype="when to contact a medical professional">Do I need to see a doctor for Spinal tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have a history of cancer and develop severe back pain that is sudden or gets worse. Go to the emergency room or call 911 or the local emergency number if you develop new symptoms, or your symptoms get worse during the treatment of a spinal tumor.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

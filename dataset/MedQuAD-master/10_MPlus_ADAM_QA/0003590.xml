@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003590" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000563.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Sinusitis in adults - aftercare</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,15 +16,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003590-1" qtype="information">What is (are) Sinusitis in adults - aftercare ?</Question>
-			<Answer></Answer>
+			<Answer>Your sinuses are chambers in your skull around your nose and eyes. They are filled with air.  Sinusitis  is an infection of these chambers, which causes them to become swollen or inflamed.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003590-2" qtype="outlook">What is the outlook for Sinusitis in adults - aftercare ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003590-7" qtype="when to contact a medical professional">Do I need to see a doctor for Sinusitis in adults - aftercare ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

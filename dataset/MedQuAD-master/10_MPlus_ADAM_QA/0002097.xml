@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002097" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003455.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hypochromia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002097-1" qtype="information">What is (are) Hypochromia ?</Question>
-			<Answer></Answer>
+			<Answer>Hypochromia means that the red blood cells have less color than normal when examined under a microscope. This usually occurs when there is not enough of the pigment that carries oxygen ( hemoglobin ) in the red blood cells. The most common cause of hypochromia in the United States is not enough iron in the body (iron deficiency). If it is not treated, this can lead to a disorder called  iron deficiency anemia . The cause of hypochromia should be evaluated by your health care provider.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000282" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007391.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Aortic aneurysm repair - endovascular</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000282-1" qtype="information">Do you have information about Aortic aneurysm repair - endovascular</Question>
-			<Answer></Answer>
+			<Answer>Endovascular abdominal aortic aneurysm (AAA) repair is surgery to repair a widened area in your aorta. This is called an aneurysm. The aorta is the large artery that carries blood from your heart to your belly, pelvis, and legs. An  aortic aneurysm  is when a part of this artery becomes too large or balloons outward. It occurs due to weakness in the wall of the artery.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001877" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000366.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Heart failure - tests</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,15 +22,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001877-1" qtype="information">What is (are) Heart failure - tests ?</Question>
-			<Answer></Answer>
+			<Answer>The diagnosis of heart failure is made largely on a person's symptoms and a physical exam. However, there are many tests that can help give more information about the condition.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001877-3" qtype="exams and tests">How to diagnose Heart failure - tests ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001877-4" qtype="exams and tests">How to diagnose Heart failure - tests ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

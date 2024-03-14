@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001988" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003391.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>His bundle electrography</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001988-1" qtype="information">Do you have information about His bundle electrography</Question>
-			<Answer></Answer>
+			<Answer>His bundle electrography is a test that measures electrical activity in a part of the heart that carries the signals that control the time between heartbeats (contractions).</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

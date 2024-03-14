@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002329" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002941.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Large bowel resection</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -24,7 +23,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002329-1" qtype="information">Do you have information about Large bowel resection</Question>
-			<Answer></Answer>
+			<Answer>Large bowel resection is surgery to remove all or part of your large bowel. This surgery is also called colectomy. The large bowel is also called the large intestine or colon. Removal of the entire colon and the rectum is called a proctocolectomy., Removal of all of the colon but not the rectum is called subtotal colectomy., Removal of part of the colon but not the rectum is called a partial colectomy.,  The large bowel connects the small intestine to the anus. Normally, stool passes through the large bowel before leaving the body through the anus.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

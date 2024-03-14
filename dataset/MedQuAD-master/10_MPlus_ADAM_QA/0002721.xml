@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002721" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003663.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Myoglobin blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002721-1" qtype="information">Do you have information about Myoglobin blood test</Question>
-			<Answer></Answer>
+			<Answer>The myoglobin blood test measures the level of the protein myoglobin in the blood. Myoglobin  can also be measured with a  urine test .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

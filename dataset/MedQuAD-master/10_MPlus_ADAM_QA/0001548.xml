@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001548" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000333.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Fanconi syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,31 +21,45 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001548-1" qtype="information">What is (are) Fanconi syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Fanconi syndrome is a disorder of the kidney tubes in which certain substances normally absorbed into the bloodstream by the kidneys are released into the urine instead.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001548-2" qtype="causes">What causes Fanconi syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Fanconi syndrome can be caused by faulty genes, or it may result later in life due to kidney damage. Sometimes the cause of Fanconi syndrome is unknown. Common causes of Fanconi syndrome in children are genetic defects that affect the body's ability to break down certain compounds such as: 
+   Cystine (cystinosis)
+   , 
+   Fructose ( fructose intolerance )
+   , 
+   Galactose ( galactosemia )
+   , 
+   Glycogen (glycogen storage disease)
+   ,  Cystinosis is the most common cause of Fanconi syndrome in children. Other causes in children include: Exposure to heavy metals such as lead, mercury, or cadmium, Lowe syndrome, a rare genetic disorder of the eyes, brain, and kidneys,  Wilson disease , Dent disease, a rare genetic disorder of the kidneys,  In adults, Fanconi syndrome can be caused by various things that damage the kidneys, including: 
+   Certain medicines, including azathioprine, cidofovir, gentamicin, and tetracycline
+   , 
+   Kidney transplant
+   , 
+   Light chain deposition disease
+   ,  Multiple myeloma ,  Primary amyloidosis , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001548-3" qtype="symptoms">What are the symptoms of Fanconi syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Passing large amounts of urine, which can lead to dehydration, Excessive thirst, Severe bone pain, Fractures due to bone weakness, Muscle weakness, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001548-4" qtype="exams and tests">How to diagnose Fanconi syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Laboratory tests may show that too much of the following substances may be lost in the urine: Amino acids ,  Bicarbonate ,  Glucose ,  Magnesium ,  Phosphate ,  Potassium ,  Sodium ,  Uric acid ,  Loss of these substances can lead to a variety of problems. Further tests and a physical exam may show signs of: Dehydration due to excess urination ,  Growth failure ,  Osteomalacia ,  Rickets ,  Type 2 renal tubular acidosis , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001548-5" qtype="treatment">What are the treatments for Fanconi syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Many different diseases can cause Fanconi syndrome. The underlying cause and its symptoms should be treated as appropriate.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001548-6" qtype="outlook">What is the outlook for Fanconi syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The prognosis depends on the underlying disease.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001548-7" qtype="when to contact a medical professional">Do I need to see a doctor for Fanconi syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have dehydration or muscle weakness.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

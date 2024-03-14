@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003842" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000883.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Taking multiple medicines safely</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003842-1" qtype="information">Do you have information about Taking multiple medicines safely</Question>
-			<Answer></Answer>
+			<Answer>If you take more than one medicine, it is important to take them carefully and safely. Some medicines can interact and cause side effects. It can also be hard to keep track of when and how to take each medicine. Here are tips to help you keep track of your medicines and take them as directed.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

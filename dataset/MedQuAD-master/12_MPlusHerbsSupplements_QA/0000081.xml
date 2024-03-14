@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000081" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/905.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Reishi Mushroom</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,46 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000081-1" qtype="information">What is Reishi Mushroom ?</Question>
-			<Answer></Answer>
+			<Answer>Reishi mushroom (Ganoderma lucidum) is a bitter-tasting fungus with no proven health benefits. It is thought to have some effects on the immune system.   
+
+Reishi mushroom is used for Alzheimer disease, cancer, diabetes, cold sores, and many other conditions, but there is no good scientific evidence to support these uses.  
+
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000081-2" qtype="how effective is it">How effective is Reishi Mushroom ?</Question>
-			<Answer></Answer>
+			<Answer>Natural Medicines Comprehensive Database  rates effectiveness based on scientific evidence according to the following scale:  Effective, Likely Effective, Possibly Effective, Possibly Ineffective, Likely Ineffective, Ineffective, and Insufficient Evidence to Rate. The effectiveness ratings for  REISHI MUSHROOM  are as follows: Possibly ineffective for... 
+
+ High levels of cholesterol or other fats (lipids) in the blood (hyperlipidemia) . Taking reishi mushroom by mouth doesn't seem to lower cholesterol levels in people with diabetes or high cholesterol., 
+
+
+ 
+
+There is interest in using reishi mushroom for a number of other purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000081-3" qtype="how does it work">What is the action of Reishi Mushroom and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000081-4" qtype="precautions">Are there safety concerns or special precautions about Reishi Mushroom ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000081-5" qtype="interactions with medications">Are there interactions between Reishi Mushroom and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Moderate Be cautious with this combination. Medications for diabetes (Antidiabetes drugs) Reishi mushroom might lower blood sugar levels. Taking reishi mushroom along with diabetes medications might cause blood sugar to drop too low. Monitor your blood sugar closely. Medications for high blood pressure (Antihypertensive drugs) Reishi mushroom might lower blood pressure. Taking reishi mushroom along with medications that lower blood pressure might cause blood pressure to go too low. Monitor your blood pressure closely. Medications that slow blood clotting (Anticoagulant / Antiplatelet drugs) Reishi mushroom might slow blood clotting. Taking reishi mushroom along with medications that also slow blood clotting might increase the risk of bruising and bleeding.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000081-6" qtype="interactions with herbs and supplements">Are there interactions between Reishi Mushroom and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>Herbs and supplements that might lower blood pressure Reishi mushroom might lower blood pressure. Taking it with other supplements that have the same effect might cause blood pressure to drop too much. Examples of supplements with this effect include andrographis, casein peptides, L-arginine, niacin, and stinging nettle. Herbs and supplements that might lower blood sugar Reishi mushroom might lower blood sugar. Taking it with other supplements with similar effects might lower blood sugar too much. Examples of supplements with this effect include aloe, bitter melon, cassia cinnamon, chromium, and prickly pear cactus. Herbs and supplements that might slow blood clotting Reishi mushroom might slow blood clotting and increase the risk of bleeding. Taking it with other supplements with similar effects might increase the risk of bleeding in some people. Examples of supplements with this effect include garlic, ginger, ginkgo, nattokinase, and Panax ginseng.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000081-7" qtype="interactions with foods">Are there interactions between Reishi Mushroom and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000081-8" qtype="dose">What is the dosage of Reishi Mushroom ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

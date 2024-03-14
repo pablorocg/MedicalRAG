@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000485" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003744.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Blood culture</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000485-1" qtype="information">Do you have information about Blood culture</Question>
-			<Answer></Answer>
+			<Answer>A blood culture is a laboratory test to check for bacteria or other germs&#160;in a blood sample.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

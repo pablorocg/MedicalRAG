@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001494" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003397.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Extraocular muscle function testing</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,15 +21,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001494-1" qtype="information">What is (are) Extraocular muscle function testing ?</Question>
-			<Answer></Answer>
+			<Answer>Extraocular muscle function testing examines the function of the eye muscles. A health care provider observes the movement of the eyes in eight specific directions.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001494-8" qtype="susceptibility">Who is at risk for Extraocular muscle function testing? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001494-9" qtype="considerations">What to do for Extraocular muscle function testing ?</Question>
-			<Answer></Answer>
+			<Answer>You may have a small amount of uncontrolled eye movement ( nystagmus ) when looking to an extreme left or right position. This is normal.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

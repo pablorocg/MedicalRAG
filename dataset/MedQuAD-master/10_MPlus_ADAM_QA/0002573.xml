@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002573" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003257.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Memory loss</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -27,19 +26,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002573-1" qtype="information">What is (are) Memory loss ?</Question>
-			<Answer></Answer>
+			<Answer>Memory loss is unusual forgetfulness. You may not be able to remember new events, recall one or more memories of the past, or both. The memory loss may be for a short time and then resolve (transient). Or, it may not go away, and, depending on the cause, it can get worse over time. In severe cases, such memory impairment may interfere with daily living activities.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002573-2" qtype="causes">What causes Memory loss ?</Question>
-			<Answer></Answer>
+			<Answer>Normal aging can cause some forgetfulness. It is normal to have some trouble learning new material or needing more time to remember it. But normal aging does not lead to dramatic memory loss. Such memory loss is due to other diseases. Memory loss can be caused by many things. To determine a cause, your health care provider will ask if the problem came on suddenly or slowly.  Many areas of the brain help you create and retrieve memories. A problem in any of these areas can lead to memory loss. Memory loss may result from a new injury to the brain, which is caused by or is present after: Brain tumor , Cancer treatment, such as  brain radiation ,  bone marrow transplant , or  chemotherapy ,  Concussion  or head trauma, Not enough oxygen getting to the brain when your heart or breathing is stopped for too long, Severe  brain infection  or  infection around brain , Major surgery or severe illness, including brain surgery, Transient global amnesia (sudden, temporary loss of memory) of unclear cause,  Transient ischemic attack (TIA)  or  stroke , Hydrocephalus (fluid collection in the brain) , Multiple sclerosis, Dementia,  Sometimes, memory loss occurs with mental health problems, such as: After a major, traumatic or stressful event,  Bipolar disorder ,  Depression  or other mental health disorders, such as  schizophrenia ,  Memory loss may be a sign of  dementia . Dementia also affects thinking, language, judgment, and behavior. Common types of dementia associated with memory loss are: Alzheimer disease, Vascular dementia, Lewy body dementia, Fronto-temporal dementia, Progressive supranuclear palsy, Normal pressure hydrocephalus, Creutzfeldt-Jakob disease,  Other causes of memory loss include: Alcohol or use of prescription or illegal drugs, Brain infections such as  Lyme disease , syphilis, or HIV/AIDS, Overuse of medicines, such as barbiturates or ( hypnotics ), ECT (electroconvulsive therapy) (most often short-term memory loss),  Epilepsy  that is not well controlled, Illness that results in the loss of, or damage to brain tissue or nerve cells, such as  Parkinson disease ,  Huntington disease , or  multiple sclerosis , Low levels of important nutrients or vitamins, such as low vitamin B1 or  B12 , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002573-3" qtype="considerations">What to do for Memory loss ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002573-4" qtype="outlook">What is the outlook for Memory loss ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

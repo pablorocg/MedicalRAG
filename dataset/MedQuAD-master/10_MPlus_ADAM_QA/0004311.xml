@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004311" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001364.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Whipworm infection</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004311-1" qtype="information">What is (are) Whipworm infection ?</Question>
-			<Answer></Answer>
+			<Answer>Whipworm infection is an infection of the large intestine with a type of roundworm.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004311-2" qtype="causes">What causes Whipworm infection ?</Question>
-			<Answer></Answer>
+			<Answer>Whipworm infection is caused by the roundworm  Trichuris trichiura . It is a common infection that mainly affects children. Children may become infected if they swallow soil contaminated with whipworm eggs. When the eggs hatch inside the body, the whipworm sticks inside the wall of the large intestine. Whipworm is found throughout the world, especially in countries with warm, humid climates. Some outbreaks have been traced to contaminated vegetables (caused by soil contamination).</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004311-3" qtype="symptoms">What are the symptoms of Whipworm infection ?</Question>
-			<Answer></Answer>
+			<Answer>Most people who have whipworm infections don't have symptoms. Symptoms mainly occur in children, and range from mild to severe. A severe infection may cause: Bloody  diarrhea ,  Iron-deficiency anemia ,  Fecal incontinence  (during sleep),  Rectal prolapse  (the rectum comes out of the anus), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004311-4" qtype="exams and tests">How to diagnose Whipworm infection ?</Question>
-			<Answer></Answer>
+			<Answer>A  stool ova and parasites exam  reveals the presence of whipworm eggs.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004311-5" qtype="treatment">What are the treatments for Whipworm infection ?</Question>
-			<Answer></Answer>
+			<Answer>The drug albendazole is commonly prescribed when the infection causes symptoms. A different anti-worm medicine may also be prescribed.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004311-6" qtype="outlook">What is the outlook for Whipworm infection ?</Question>
-			<Answer></Answer>
+			<Answer>Full recovery is expected with treatment.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004311-7" qtype="when to contact a medical professional">Do I need to see a doctor for Whipworm infection ?</Question>
-			<Answer></Answer>
+			<Answer>Seek medical attention if you or your child develop bloody diarrhea. In addition to whipworm, many other infections and illnesses can cause similar symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004311-8" qtype="prevention">How to prevent Whipworm infection ?</Question>
-			<Answer></Answer>
+			<Answer>Improved facilities for feces disposal have decreased the incidence of whipworm. Always wash your hands before handling food. Teach your children to wash their hands, too. Thoroughly washing food may also help prevent this condition.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

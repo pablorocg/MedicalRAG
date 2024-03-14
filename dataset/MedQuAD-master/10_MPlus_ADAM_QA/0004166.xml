@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004166" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001257.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Uvulitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004166-1" qtype="information">What is (are) Uvulitis ?</Question>
-			<Answer></Answer>
+			<Answer>Uvulitis is inflammation of the uvula. This is the small tongue-shaped tissue that hangs from the top of the back part of the mouth. Uvulitis is usually associated with inflammation of other mouth parts, such as the palate, tonsils, or throat (pharynx).</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

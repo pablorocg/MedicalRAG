@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002711" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002156.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Myasthenia gravis - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002711-1" qtype="information">What is (are) Myasthenia gravis - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations provide information on  myasthenia gravis : Genetic and Rare Diseases Information Center --  rarediseases.info.nih.gov/diseases/7122/myasthenia-gravis , Myasthenia Gravis Foundation of America --  myasthenia.org , National Institute of Neurological Disorders and Stroke --&#160; www.ninds.nih.gov/health-information/disorders/myasthenia-gravis , US National Library of Medicine, MedlinePlus --&#160; medlineplus.gov/ency/article/002156.htm , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

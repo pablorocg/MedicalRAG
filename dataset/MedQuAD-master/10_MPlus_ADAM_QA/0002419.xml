@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002419" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000714.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Living with endometriosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,15 +16,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002419-1" qtype="information">What is (are) Living with endometriosis ?</Question>
-			<Answer></Answer>
+			<Answer>You have a condition called endometriosis. Symptoms of endometriosis include: Heavy painful menstrual bleeding, Bleeding between periods, Problems getting pregnant , Chronic pelvic pain,  Having this condition can interfere with your social and work life. No one knows what causes endometriosis. There is also no cure. However, there are different ways to treat the symptoms. These treatments can also help relieve menstrual pain. Learning how to manage your symptoms can make it easier to live with endometriosis.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002419-2" qtype="treatment">What are the treatments for Living with endometriosis ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002419-4" qtype="when to contact a medical professional">Do I need to see a doctor for Living with endometriosis ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

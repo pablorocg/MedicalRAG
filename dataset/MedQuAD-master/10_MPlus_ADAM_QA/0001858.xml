@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001858" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007658.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Heart block</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -27,35 +26,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001858-1" qtype="information">What is (are) Heart block ?</Question>
-			<Answer></Answer>
+			<Answer>Heart block is a problem in the electrical signals in the heart. Normally, the heart beat starts in an area in the top chambers of the heart (atria). This area is the heart's pacemaker. The electrical signals travel to the lower chambers of the heart (ventricles). This keeps the heart beat steady and regular. Heart block occurs when the electrical signal is slowed down or does not reach the bottom chambers of the heart. Your heart may beat slowly, or it may skip beats. Heart block may resolve on its own, or it may be permanent and require treatment. There are three degrees of heart block. First-degree heart block is the mildest type and third-degree is the most severe. First-degree heart block: Rarely has symptoms or causes problems,  Second-degree heart block: The electrical impulse may not reach the lower chambers of the heart., The heart may miss a beat or beats and may be slow and irregular., You may feel dizzy, faint, or have other symptoms., This may be serious in some cases.,  Third-degree heart block: The electrical signal does not move to the lower chambers of the heart. In this case, the lower chambers beat at a much slower rate, and the upper and lower chambers do not beat sequentially (one after the other) as they do normally., The heart fails to pump enough blood to the body. This can lead to fainting and shortness of breath., This is an emergency that needs medical help right away., </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001858-2" qtype="causes">What causes Heart block ?</Question>
-			<Answer></Answer>
+			<Answer>Heart block may be caused by: Side effects of medicines. Heart block can be a side effect of digitalis, beta-blockers, calcium channel blockers, and other medicines., A heart attack that damages the electrical system in the heart., Heart diseases, such as heart valve disease, cardiomyopathy, and cardiac sarcoidosis., Some infections, such as Lyme disease., Heart surgery.,  You may have heart block because you were born with it. You are more at risk for this if: You have a heart defect., Your mother has an autoimmune disease, such as lupus.,  Some normal people, will have a first degree block especially at rest or when asleep. This most often occurs in young healthy people.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001858-3" qtype="symptoms">What are the symptoms of Heart block ?</Question>
-			<Answer></Answer>
+			<Answer>Talk to your health care provider about your symptoms. The symptoms may be different for first, second, and third degree heart block. Most often, you would not have any symptoms for first degree heart block. You may not know you have heart block until it shows up on a test called an  electrocardiogram (ECG) . If you have second-degree or third-degree heart block, symptoms may include:  Chest pain., Dizziness., Feeling faint or fainting., Tiredness.,  Heart palpitations  -- Palpitations are when your heart feels like it is pounding, beating irregularly, or racing., </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001858-4" qtype="exams and tests">How to diagnose Heart block ?</Question>
-			<Answer></Answer>
+			<Answer>Your provider may send you to a heart doctor (cardiologist) to check for or further evaluate heart block. The cardiologist will talk to you about your medical history and the medicines you are taking. The cardiologist will also: Do a complete physical exam. The provider will check you for signs of heart failure, such as swollen ankles and feet., Do an ECG test to check the electrical signals in your heart., Recommend that you may need to wear a  heart monitor  for 24 to 48 hours or longer to check the electrical signals in your heart. , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001858-5" qtype="treatment">What are the treatments for Heart block ?</Question>
-			<Answer></Answer>
+			<Answer>The treatment for heart block depends on the type of heart block you have and the cause. If you do not have serious symptoms and have a milder type of heart block, you may only need to: Have regular checkups with your provider., Have changes made to your medicines., Learn how to check your pulse., Be aware of your symptoms and know when to call your provider if symptoms change. ,  If you have second- or third-degree heart block, you may need a  pacemaker  to help your heart beat regularly. A pacemaker is smaller than a deck of cards and may be as small as a wristwatch. It is put inside the skin on your chest. It gives off electrical signals to make your heart beat at a regular rate and rhythm., A newer type of pacemaker is very small (about the size of 2 to 3 capsule-pills), Sometimes, if the heart block is expected to resolve in a day or so, a temporary pacemaker will be used. This type of device is not implanted in the body. Instead a wire may be inserted through a vein and directed to the heart and connected to the pacemaker. A temporary pacemaker may also be used in an emergency before a permanent pacemaker can be implanted. People with a temporary pacemaker are monitored in an intensive care unit in a hospital., Heart block caused by a heart attack or heart surgery may go away as you recover., If a medicine is causing heart block, changing medicines can fix the problem. DO NOT stop or change the way you take any medicine unless your provider tells you to do so. , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001858-6" qtype="outlook">What is the outlook for Heart block ?</Question>
-			<Answer></Answer>
+			<Answer>With regular monitoring and treatment, you should be able to keep up with most of your usual activities.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001858-7" qtype="complications">What are the complications of Heart block ?</Question>
-			<Answer></Answer>
+			<Answer>Heart block may increase the risk for: Other kinds of heart rhythm problems ( arrhythmias ), such as  atrial fibrillation . Talk to your provider about symptoms of other arrhythmias., Heart attack. ,  If you have a pacemaker, you should not be near strong magnetic fields. You need to let people know that you have a pacemaker. DO NOT go through the usual security station at an airport, courthouse, or other place that requires people to walk through a security screening. Tell the security personnel you have a pacemaker and ask for an alternate type of security screening., DO NOT get an MRI without telling the MRI technician about your pacemaker. , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001858-8" qtype="when to contact a medical professional">Do I need to see a doctor for Heart block ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if you feel: Dizzy, Weak, Faint, Racing heart beat, Skipped heart beat, Chest pain,  Call your provider if you have signs of heart failure: Weakness, Swollen legs, ankles, or feet, Feel short of breath, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001408" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000782.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Enterovirus D68</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,31 +21,31 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001408-1" qtype="information">What is (are) Enterovirus D68 ?</Question>
-			<Answer></Answer>
+			<Answer>Enterovirus D68 (EV-D68) is a virus that causes flu-like symptoms that range from mild to severe.  EV-D68 was first discovered in 1962. Until 2014, this virus was not common in the United States. In 2014, an outbreak occurred across the country in nearly every state. Many more cases have occurred than in the years past. Nearly all have been children.  To learn more about the 2014 outbreak, visit the CDC web page --  www.cdc.gov/non-polio-enterovirus/about/EV-D68.html</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001408-2" qtype="susceptibility">Who is at risk for Enterovirus D68? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001408-3" qtype="symptoms">What are the symptoms of Enterovirus D68 ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms can be mild or severe. Mild symptoms include: Fever, Runny nose, Sneezing, Cough, Body and muscle aches,  Severe symptoms include: Wheezing, Difficulty Breathing, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001408-5" qtype="exams and tests">How to diagnose Enterovirus D68 ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001408-6" qtype="treatment">What are the treatments for Enterovirus D68 ?</Question>
-			<Answer></Answer>
+			<Answer>There is no specific treatment for EV-D68. In most cases, the illness will go away on its own. You can treat symptoms with over-the-counter medicines for pain and fever. Do not give aspirin to children under the age of 18. People with severe breathing problems should go to the hospital. They will receive treatment to help relieve symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001408-7" qtype="prevention">How to prevent Enterovirus D68 ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001408-9" qtype="when to contact a medical professional">Do I need to see a doctor for Enterovirus D68 ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

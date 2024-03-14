@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001536" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000838.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Facts about saturated fats</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001536-1" qtype="information">Do you have information about Facts about saturated fats</Question>
-			<Answer></Answer>
+			<Answer>Saturated fat is a type of  dietary fat . It is one of the unhealthy fats, along with  trans fat . These fats are most often solid at room temperature. Foods like butter, palm and coconut oils, cheese, and red meat have high amounts of saturated fat. Too much saturated fat in your diet can lead to heart disease and other health problems.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

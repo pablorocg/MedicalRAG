@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000761" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000757.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Changing your sleep habits</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,11 +22,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000761-1" qtype="information">What is (are) Changing your sleep habits ?</Question>
-			<Answer></Answer>
+			<Answer>Sleep patterns are often learned as children. When we repeat these patterns over many years, they become habits. Insomnia  is difficulty falling asleep or staying asleep. In many cases, you can relieve insomnia by making a few simple lifestyle changes. But, it may take some time if you have had the same sleep habits for years.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000761-5" qtype="when to contact a medical professional">Do I need to see a doctor for Changing your sleep habits ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

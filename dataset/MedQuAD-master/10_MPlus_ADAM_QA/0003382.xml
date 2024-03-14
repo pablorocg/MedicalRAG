@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003382" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000111.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Respiratory alkalosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003382-1" qtype="information">What is (are) Respiratory alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>Respiratory alkalosis is a condition marked by a low level of carbon dioxide in the blood due to breathing excessively.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003382-2" qtype="causes">What causes Respiratory alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>Common causes include: Anxiety or panic, Fever, Overbreathing ( hyperventilation ), Pregnancy (this is normal), Pain, Tumor, Trauma,  Severe anemia , Liver disease, Central nervous system (brain) abnormalities, Overdose of certain medicines, such as salicylates, progesterone ,  Any lung disease that leads to shortness of breath can also cause respiratory alkalosis (such as  pulmonary embolism  and  asthma ).</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003382-3" qtype="symptoms">What are the symptoms of Respiratory alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>The symptoms may include: Dizziness, Lightheadedness, Numbness of the hands and feet, Breathlessness, Confusion, Chest discomfort, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003382-4" qtype="exams and tests">How to diagnose Respiratory alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam. Tests that may be done include: Arterial  blood gas , which measures oxygen and carbon dioxide levels in the blood,  Basic metabolic panel ,  Chest x-ray ,  CT scan of the chest &#160; ,  Pulmonary function tests  to measure breathing and how well the lungs are functioning, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003382-5" qtype="treatment">What are the treatments for Respiratory alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment is aimed at the condition that causes respiratory alkalosis. Breathing into a paper bag -- or using a mask that causes you to re-breathe carbon dioxide -- sometimes helps reduce symptoms when anxiety is the main cause of the condition.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003382-6" qtype="outlook">What is the outlook for Respiratory alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>Outlook depends on the condition that is causing the respiratory alkalosis.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003382-7" qtype="complications">What are the complications of Respiratory alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>Seizures may occur if the alkalosis is extremely severe. This is very rare and more likely to happen if the alkalosis is due to increased ventilation from a breathing machine.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003382-8" qtype="when to contact a medical professional">Do I need to see a doctor for Respiratory alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have any symptoms of lung disease, such as long-term (chronic) cough or shortness of breath.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

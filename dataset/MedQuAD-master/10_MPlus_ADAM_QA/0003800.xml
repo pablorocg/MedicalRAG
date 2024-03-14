@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003800" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007543.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Swallowing difficulty</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,27 +24,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003800-1" qtype="information">What is (are) Swallowing difficulty ?</Question>
-			<Answer></Answer>
+			<Answer>Difficulty with swallowing is the feeling that food or liquid is stuck in the throat or at any point before the food enters the stomach. This problem is also called dysphagia.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003800-2" qtype="causes">What causes Swallowing difficulty ?</Question>
-			<Answer></Answer>
+			<Answer>The process of swallowing involves several steps. These include: Chewing food, Moving it into the back of the mouth, Moving it down the esophagus (food pipe) ,  There are many nerves that help the muscles of the mouth, throat, and esophagus work together. Much of swallowing occurs without you being aware of what you are doing. Swallowing is a complex act. Many nerves work in a fine balance to control how the muscles of the mouth, throat, and esophagus work together. A brain or nerve disorder can alter this fine balance in the muscles of the mouth and throat. Damage to the brain may be caused by  multiple sclerosis ,  Parkinson disease , or  stroke ., Nerve damage may be due to spinal cord injuries,  amyotrophic lateral sclerosis  (ALS or Lou Gehrig disease), or  myasthenia gravis . ,  Stress or anxiety may cause some people to feel tightness in the throat or feel as if something is stuck in the throat. This sensation is called globus sensation and is unrelated to eating. However, there may be some underlying cause. Problems that involve the esophagus often cause swallowing problems. These may include: An abnormal ring of tissue that forms where the esophagus and stomach meet (called  Schatzki ring ).,  Abnormal spasms of the esophagus muscles .,  Cancer of the esophagus ., Failure of the muscle bundle at the bottom of the esophagus to relax ( achalasia )., Scarring that narrows the esophagus called an esophageal stricture. This may be due to radiation, chemicals, medicines, chronic swelling, ulcers, infection, or esophageal reflux., Something stuck in the esophagus, such as a piece of food.,  Scleroderma , a disorder in which the immune system mistakenly attacks the esophagus., Tumors in the chest that press on the esophagus., Plummer-Vinson syndrome, a rare disease in which webs of mucosal membrane grows across the opening of the esophagus. , Eosinophilic esophagitis, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003800-3" qtype="symptoms">What are the symptoms of Swallowing difficulty ?</Question>
-			<Answer></Answer>
+			<Answer>Chest pain, the feeling of food stuck in the throat, or heaviness or pressure in the neck or upper or lower chest may be present. Other symptoms may include: Cough or wheezing that becomes worse., Regurgitating food that has not been digested., Heartburn., Nausea., Sour taste in the mouth., Difficulty swallowing only solids (may indicate a tumor or stricture) suggests a physical blockage such as a stricture or a tumor., Difficulty swallowing liquids but not solids (may indicate nerve damage or spasm of the esophagus).,  You may have problems swallowing with any eating or drinking, or only with certain types of foods or liquids. Early signs of swallowing problems may include difficulty when eating: Very hot or cold foods, Dry crackers or bread, Meat or chicken, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003800-4" qtype="exams and tests">How to diagnose Swallowing difficulty ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will order tests to look for:  Something that is blocking or narrowing the esophagus, Problems with the muscles of the esophagus or swallowing mechanism, Changes in the lining of the esophagus ,  A test called  upper endoscopy  or esophagogastroduodenoscopy (EGD) is often done. An endoscope is a flexible tube with a light on the end. It is inserted through the mouth and down through the esophagus to the stomach., You will be given a sedative and will feel no pain. ,  Other tests may include: Barium swallow (esophagram) and other swallowing tests,  Chest x-ray ,  Esophageal pH monitoring  (measures acid in the esophagus),  Esophageal manometry  (measures pressure in the esophagus), Neck x-ray ,  You may also need to have blood tests to look for disorders that could cause swallowing problems.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003800-5" qtype="treatment">What are the treatments for Swallowing difficulty ?</Question>
-			<Answer></Answer>
+			<Answer>The treatment for your swallowing problem depends on the cause.  It is important to learn how to eat and drink safely. Incorrect swallowing may lead to choking or breathing food or liquid into your main airway. This can lead to pneumonia. To  manage swallowing problems at home : Your provider may suggest changes to your diet. You may also get a special liquid diet to help you stay healthy., You may need to learn new chewing and swallowing techniques. , Your provider may tell you to use substances to thicken water and other liquids so that you do not aspirate them into your lungs.,  Medicines that may be used depend on the cause, and may include: Certain medicines that relax the muscles in the esophagus. These include nitrates, which is a type of medicine used to treat angina pectoris, and dicyclomine., Injection of botulinum toxin., Medicines to treat heartburn due to  gastroesophageal reflux disease (GERD) ., Medicines to treat an  anxiety disorder , if present. ,  Procedures and surgeries that may be used include: Upper endoscopy: The provider can dilate or widen a narrowed area of your esophagus using this procedure. For some people, this needs to be done repetitively, and sometimes more than once., Radiation or surgery: These treatments may be used if cancer is causing the swallowing problem. Achalasia or spasms of the esophagus may also respond to surgery or injections of botulinum toxin.,  You may need a  feeding tube  if: Your symptoms are severe and you are unable to eat and drink enough., You have problems due to choking or pneumonia.,  A feeding tube is inserted directly into the stomach through the abdominal wall (G-tube).</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003800-6" qtype="when to contact a medical professional">Do I need to see a doctor for Swallowing difficulty ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if swallowing problems do not improve after a few days, or they come and go. Contact your provider right away if: You have a fever or shortness of breath., You are losing weight., Your swallowing problems are getting worse., You cough or vomit up blood., You have asthma that is becoming worse., You feel as if you are choking during or after eating or drinking. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

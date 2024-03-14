@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001366" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003448.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Electronystagmography</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001366-1" qtype="information">Do you have information about Electronystagmography</Question>
-			<Answer></Answer>
+			<Answer>Electronystagmography is a test that looks at eye movements to see how well nerves in the brain are working. These nerves are: Vestibular nerve (eighth cranial nerve), which runs from the brain to the ears, Oculomotor nerve, which controls eye movement, Trochlear and abducens nerves, which run from the brain to the eyes, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

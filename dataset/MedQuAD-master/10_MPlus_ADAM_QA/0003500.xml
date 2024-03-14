@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003500" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000355.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Scurvy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,7 +21,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003500-1" qtype="information">What is (are) Scurvy ?</Question>
-			<Answer></Answer>
+			<Answer>Scurvy is a disease that occurs when you have a severe lack of vitamin C (ascorbic acid) in your diet. Scurvy causes general weakness,  anemia , gum disease, poor wound healing, and  skin hemorrhages . Scurvy is rare in the United States. Older adults who are not getting proper nutrition are most affected by scurvy.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

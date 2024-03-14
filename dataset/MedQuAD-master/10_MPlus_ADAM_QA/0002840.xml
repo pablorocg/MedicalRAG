@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002840" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000507.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Obstructive uropathy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002840-1" qtype="information">What is (are) Obstructive uropathy ?</Question>
-			<Answer></Answer>
+			<Answer>Obstructive uropathy is a condition in which the flow of urine is blocked. This causes the urine to back up and injure one or both kidneys.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002840-2" qtype="causes">What causes Obstructive uropathy ?</Question>
-			<Answer></Answer>
+			<Answer>Obstructive uropathy occurs when urine cannot drain through the urinary tract. Urine backs up into the kidney and causes it to become swollen. This condition is known as  hydronephrosis . Obstructive uropathy can affect one or both kidneys. It can occur suddenly or be a long-term problem. Common causes of obstructive uropathy include: Bladder stones ,  Kidney stones ,  Benign prostatic hyperplasia  (enlarged prostate), Advanced prostate cancer , Bladder or ureteral cancer,  Colon cancer ,  Cervical or uterine cancer ,  Ovarian cancer , Any cancer that spreads, Scar tissue that occurs inside or outside of the ureters, Scar tissue that occurs inside the urethra, Problems with the nerves that supply the bladder, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002840-3" qtype="symptoms">What are the symptoms of Obstructive uropathy ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms depend on whether the problem starts slowly or suddenly and if one or both kidneys are involved. Symptoms may include:  Mild to severe pain in the flank. The pain may be felt on one or both sides., Fever., Nausea or vomiting., Weight gain or swelling (edema) of kidney.,  You may also have problems passing urine, such as:  Urge to urinate often , Decrease in the force of urine stream or difficulty urinating, Dribbling of urine, Not feeling as if the bladder is emptied, Need to urinate more often at night, Decreased amount of urine, Leakage of urine (incontinence), Blood in urine, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002840-4" qtype="exams and tests">How to diagnose Obstructive uropathy ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will order functional or imaging studies to detect obstructive uropathy. Commonly used tests include: Ultrasound of abdomen  or pelvis ,  CT scan of abdomen  or pelvis ,  Intravenous pyelogram (IVP) , Voiding cystourethrogram , Renal nuclear scan, MRI, Urodynamic test, Cystoscopy, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002840-5" qtype="treatment">What are the treatments for Obstructive uropathy ?</Question>
-			<Answer></Answer>
+			<Answer>Medicines may be used if the cause is an enlarged prostate. Stents or drains placed in the ureter or in a part of the kidney called the renal pelvis may provide short-term relief of symptoms. Nephrostomy tubes, which drain urine from the kidneys through the back, may be used to bypass the blockage. A Foley catheter placed through the urethra into the bladder may also help urine flow. Short-term relief from the blockage is possible without surgery. However, the cause of the blockage must be removed and the urinary system repaired. Surgery may be needed for long-term relief from the problem.  The kidney may need to be removed if the blockage causes severe loss of function. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002840-6" qtype="outlook">What is the outlook for Obstructive uropathy ?</Question>
-			<Answer></Answer>
+			<Answer>If the blockage comes on suddenly, kidney damage is less likely if the problem is detected and repaired right away. Often, the damage to the kidneys goes away. Long-term damage to the kidneys may occur if the blockage has been present for a long time. If only one kidney is damaged, chronic kidney problems are less likely. You may need dialysis or a kidney transplant if there is damage to both kidneys and they do not function, even after the blockage&#160;is repaired.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002840-7" qtype="complications">What are the complications of Obstructive uropathy ?</Question>
-			<Answer></Answer>
+			<Answer>Obstructive uropathy can cause permanent and severe damage to the kidneys, resulting in kidney failure. If the problem was caused by a blockage in the bladder, the bladder may have long-term damage. This may lead to problems emptying the bladder or leakage of urine. Obstructive uropathy is linked to higher chances of urinary tract infections. </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002840-8" qtype="when to contact a medical professional">Do I need to see a doctor for Obstructive uropathy ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have symptoms of obstructive uropathy.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002840-9" qtype="prevention">How to prevent Obstructive uropathy ?</Question>
-			<Answer></Answer>
+			<Answer>Obstructive uropathy can be prevented by treating disorders that can cause it.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

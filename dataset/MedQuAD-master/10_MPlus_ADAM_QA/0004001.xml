@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004001" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000465.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tracheostomy tube - speaking</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004001-1" qtype="information">Do you have information about Tracheostomy tube - speaking</Question>
-			<Answer></Answer>
+			<Answer>Speaking is a key part of communicating with people. Having a tracheostomy tube can change your ability to talk and interact with others. However, you can learn how to speak with a tracheostomy tube. It just takes practice. There are even speaking devices that can help you. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

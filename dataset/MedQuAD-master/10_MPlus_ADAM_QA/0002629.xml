@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002629" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001162.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Methylmalonic acidemia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002629-1" qtype="information">What is (are) Methylmalonic acidemia ?</Question>
-			<Answer></Answer>
+			<Answer>Methylmalonic acidemia is a disorder in which the body cannot break down certain proteins and fats. The result is a buildup of a substance called methylmalonic acid in the blood. This condition is passed down through families. It is one of several conditions called an "inborn error of metabolism."</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002629-2" qtype="causes">What causes Methylmalonic acidemia ?</Question>
-			<Answer></Answer>
+			<Answer>The disease is most often diagnosed in the first year of life. It is an autosomal recessive disorder. This means the defective gene must be passed onto the child from both parents. A newborn with this rare condition may die before it is ever diagnosed. Methylmalonic acidemia affects boys and girls equally.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002629-3" qtype="symptoms">What are the symptoms of Methylmalonic acidemia ?</Question>
-			<Answer></Answer>
+			<Answer>Babies may appear normal at birth, but develop symptoms once they start eating more protein, which can cause the condition to get worse. The disease can cause seizures and stroke. Symptoms include: Brain disease that gets worse (progressive encephalopathy), Dehydration, Developmental delays, Failure to thrive, Lethargy, Seizures, Vomiting , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002629-4" qtype="exams and tests">How to diagnose Methylmalonic acidemia ?</Question>
-			<Answer></Answer>
+			<Answer>Testing for methylmalonic acidemia is often done as part of a  newborn screening exam . The United States Department of Health and Human Services recommends screening for this condition at birth because early detection and treatment is helpful. Tests that may be done to diagnose this condition include: Blood ammonia test ,  Blood gases ,  Complete blood count ,  CT scan  or  MRI of the brain ,  Electrolyte levels , Genetic testing,  Methylmalonic acid blood test ,  Plasma amino acid test , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002629-5" qtype="treatment">What are the treatments for Methylmalonic acidemia ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment consists of cobalamin and carnitine supplements and a low-protein diet. The child's diet must be carefully controlled. If supplements do not help, the health care provider may also recommend a diet that avoids substances called isoleucine, threonine, methionine, and valine. Liver or kidney transplantation (or both) have been shown to help some patients. These transplants provide the body with new cells that help breakdown methylmalonic acid normally.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002629-6" qtype="outlook">What is the outlook for Methylmalonic acidemia ?</Question>
-			<Answer></Answer>
+			<Answer>Babies may not survive their first episode of symptoms from this disease. Those who survive often have problems with the development of the nervous system, although normal cognitive development can occur.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002629-7" qtype="complications">What are the complications of Methylmalonic acidemia ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Coma , Death, Kidney failure, Pancreatitis, Cardiomyopathy, Recurrent infections, Hypoglycemia, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002629-8" qtype="when to contact a medical professional">Do I need to see a doctor for Methylmalonic acidemia ?</Question>
-			<Answer></Answer>
+			<Answer>Seek medical help right away if your child is having a seizure for the first time. See a provider if your child has signs of: Failure-to-thrive, Developmental delays, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002629-9" qtype="prevention">How to prevent Methylmalonic acidemia ?</Question>
-			<Answer></Answer>
+			<Answer>A low-protein diet can help reduce the number of attacks. People with this condition should avoid those who are sick with contagious illnesses, such as colds and the flu. Genetic counseling may be helpful for couples with a family history of this disorder who wish to have a baby. Sometimes, expanded newborn screening is done at birth, including screening for methylmalonic acidemia. You can ask your provider if your child had this screening.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

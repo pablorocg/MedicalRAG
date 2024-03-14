@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003734" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003129.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Stools - pale or clay-colored</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,23 +16,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003734-1" qtype="information">What is (are) Stools - pale or clay-colored ?</Question>
-			<Answer></Answer>
+			<Answer>Stools that are pale, clay, or putty-colored may be due to problems in the biliary system. The biliary system is the drainage system of the gallbladder, liver, and pancreas.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003734-2" qtype="considerations">What to do for Stools - pale or clay-colored ?</Question>
-			<Answer></Answer>
+			<Answer>The liver releases  bile  salts into the stool, giving it a normal brown color. You may have clay-colored stools if you have a liver infection that reduces bile production, or if the flow of bile out of the liver is blocked. Yellow skin ( jaundice ) often occurs with clay-colored stools. This may be due to the buildup of bile chemicals in the body.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003734-3" qtype="causes">What causes Stools - pale or clay-colored ?</Question>
-			<Answer></Answer>
+			<Answer>Possible causes for clay-colored stools include: Alcoholic hepatitis ,  Biliary cirrhosis , Cancer or noncancerous (benign) tumors of the liver, biliary system, or pancreas, Cysts of the bile ducts,  Gallstones , Some medicines, Narrowing of the bile ducts ( biliary strictures ),  Sclerosing cholangitis , Structural problems in the biliary system that are present from birth (congenital),  Viral hepatitis ,  There may be other causes not listed here.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003734-4" qtype="when to contact a medical professional">Do I need to see a doctor for Stools - pale or clay-colored ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if your stools are not the normal brown color for several days.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003734-5" qtype="outlook">What is the outlook for Stools - pale or clay-colored ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

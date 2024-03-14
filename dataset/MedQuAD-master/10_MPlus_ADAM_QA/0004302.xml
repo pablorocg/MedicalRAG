@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004302" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000138.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>When you have urinary incontinence</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004302-1" qtype="information">What is (are) When you have urinary incontinence ?</Question>
-			<Answer></Answer>
+			<Answer>You have urinary incontinence. This means you are not able to prevent urine from leaking from your urethra. This is the tube that carries urine out of your body from your bladder. Urinary incontinence may occur because of aging, surgery, weight gain, neurologic disorders, or childbirth.  There are many things you can do  to help keep urinary incontinence from affecting your daily life.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

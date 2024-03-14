@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001847" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000733.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Healthy habits for weight loss</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001847-1" qtype="information">What is (are) Healthy habits for weight loss ?</Question>
-			<Answer></Answer>
+			<Answer>Whether it is healthy or unhealthy, a habit is something you do without having to think about it. People who succeed at weight loss turn healthy eating into a habit. These healthy  eating habits  can help you lose weight and keep it off.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

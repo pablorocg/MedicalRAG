@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000279" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003661.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Antithrombin III blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000279-1" qtype="information">Do you have information about Antithrombin III blood test</Question>
-			<Answer></Answer>
+			<Answer>Antithrombin III (AT III) is a protein that helps control blood clotting. A blood test can determine the amount of AT III present in your body. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

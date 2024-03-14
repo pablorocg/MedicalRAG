@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001859" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002946.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Heart bypass surgery</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001859-1" qtype="information">Do you have information about Heart bypass surgery</Question>
-			<Answer></Answer>
+			<Answer>Heart bypass surgery creates a new route, called a bypass, for blood and oxygen to go around a blockage to reach your heart.  Watch this video about: Heart bypass surgery</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

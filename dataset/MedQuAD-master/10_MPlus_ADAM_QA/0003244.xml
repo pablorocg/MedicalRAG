@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003244" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003979.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Prostate cancer - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003244-1" qtype="information">What is (are) Prostate cancer - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on  prostate cancer : American Cancer Society --  www.cancer.org/cancer/prostate-cancer.html , Centers for Disease Control and Prevention --  www.cdc.gov/cancer/prostate/ , National Cancer Institute --  www.cancer.gov/types/prostate , Prostate Cancer Foundation --  www.pcf.org , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

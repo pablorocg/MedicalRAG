@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002890" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001650.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Osteosarcoma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002890-1" qtype="information">What is (are) Osteosarcoma ?</Question>
-			<Answer></Answer>
+			<Answer>Osteosarcoma is a very rare type of cancerous  bone tumor  that usually develops in teenagers and young adults. It often occurs when a teen is growing rapidly.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002890-2" qtype="causes">What causes Osteosarcoma ?</Question>
-			<Answer></Answer>
+			<Answer>Osteosarcoma is the most common bone cancer in children. Average age at diagnosis is 15. Boys and girls are just as likely to develop this  tumor  until the late teens, after which it occurs more often in boys. Osteosarcoma is also common in people over age 60.  The cause is not known. In some cases, osteosarcoma runs in families. At least one gene has been linked to an increased risk. This gene is also associated with familial  retinoblastoma . This is a cancer of the eye that occurs in children. Osteosarcoma tends to occur in the bones of the: Shin (near the knee), Thigh (near the knee), Upper arm (near the shoulder) ,  Osteosarcoma occurs most commonly in large bones in the area of bone with the fastest growth rate. However, it can occur in any bone.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002890-3" qtype="symptoms">What are the symptoms of Osteosarcoma ?</Question>
-			<Answer></Answer>
+			<Answer>The first symptom is usually bone pain near a joint. This symptom may be overlooked, especially in young people, because of other more common causes of joint pain.  Other symptoms may include any of the following: Bone fracture (may occur after a routine movement), Limitation of motion, Limping (if the tumor is in the leg), Pain when lifting (if the tumor is in the arm), Tenderness, swelling, or redness at the site of the tumor , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002890-4" qtype="exams and tests">How to diagnose Osteosarcoma ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam and ask about the medical history and symptoms. Tests that may be done include: Biopsy  (at time of surgery for diagnosis), Blood tests,  Bone scan  to see if the cancer has spread to other bones,  CT scan  of the chest to see if the cancer has spread to the lungs,  MRI scan ,  PET scan , X-ray, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002890-5" qtype="treatment">What are the treatments for Osteosarcoma ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment usually starts after a biopsy of the tumor is done. Before surgery to remove the tumor,  chemotherapy , [ radiation ] therapy, or both is usually given. This can shrink the tumor and make surgery easier. It may also kill any cancer cells that have spread to other parts of the body. Surgery is used after chemotherapy to remove any remaining tumor. In most cases, surgery can remove the tumor while saving the affected limb. This is called limb-sparing surgery. In rare cases, more extensive surgery (such as amputation) is necessary.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002890-6" qtype="support groups">Where to find support for people with Osteosarcoma ?</Question>
-			<Answer></Answer>
+			<Answer>You can ease the stress of illness by joining a  cancer support group . Sharing with others who have common experiences and problems can help you and your family not feel alone.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002890-7" qtype="outlook">What is the outlook for Osteosarcoma ?</Question>
-			<Answer></Answer>
+			<Answer>If the tumor has not spread to the lungs (pulmonary  metastasis ), long-term survival rates are better. If the cancer has spread to other parts of the body, the outlook is worse. However, there is still a chance of cure with effective treatment.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002890-8" qtype="complications">What are the complications of Osteosarcoma ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Limb removal, Spread of cancer to the lungs, Side effects of chemotherapy , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002890-9" qtype="when to contact a medical professional">Do I need to see a doctor for Osteosarcoma ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you or your child has persistent bone pain, tenderness, or swelling.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

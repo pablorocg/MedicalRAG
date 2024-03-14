@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001178" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000078.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Diabetes - eye care</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,15 +17,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001178-1" qtype="information">What is (are) Diabetes - eye care ?</Question>
-			<Answer></Answer>
+			<Answer>Diabetes  can harm your eyes. It can damage the small blood vessels in your retina, which is the back part of your eye. This condition is called  diabetic retinopathy . Diabetes also increases your risk of having glaucoma, cataracts, and other eye problems. If you have diabetes, work with your health care provider to take good care of your eyes.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001178-4" qtype="prevention">How to prevent Diabetes - eye care ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001178-6" qtype="when to contact a medical professional">Do I need to see a doctor for Diabetes - eye care ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

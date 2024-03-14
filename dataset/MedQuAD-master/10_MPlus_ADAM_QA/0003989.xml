@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003989" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003578.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Toxicology screen</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -19,7 +18,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003989-1" qtype="information">Do you have information about Toxicology screen</Question>
-			<Answer></Answer>
+			<Answer>A toxicology screen refers to various tests that determine the type and approximate amount of legal and illegal drugs a person has taken by measuring how much is in their blood, urine, or other bodily fluid.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

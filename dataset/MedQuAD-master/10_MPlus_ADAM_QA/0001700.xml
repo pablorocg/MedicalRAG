@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001700" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007410.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>General anesthesia</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001700-1" qtype="information">Do you have information about General anesthesia</Question>
-			<Answer></Answer>
+			<Answer>General anesthesia is treatment with certain medicines that puts you into a deep sleep so you do not feel pain during surgery. After you receive these medicines, you will not be aware of what is happening around you.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

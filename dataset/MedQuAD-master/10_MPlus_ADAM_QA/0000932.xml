@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000932" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007184.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Complex regional pain syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,39 +24,48 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000932-1" qtype="information">What is (are) Complex regional pain syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Complex regional pain syndrome (CRPS) is a long-term (chronic) pain condition that can affect any area of the body, but often affects an arm or a leg.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000932-2" qtype="causes">What causes Complex regional pain syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Doctors are not sure what causes CRPS. In some cases, the sympathetic nervous system plays an important role in the pain. Another theory is that CRPS is caused by a triggering of the immune response, which leads to the inflammatory symptoms of redness, warmth, and swelling in the affected area. CRPS has two forms: CRPS 1 is a long-term (chronic) nerve disorder that occurs most often in the arms or legs after a minor injury., CRPS 2 is caused by an injury to a nerve. ,  CRPS is thought to result from damage to the nervous system. This includes the nerves that control the blood vessels and sweat glands. The damaged nerves are no longer able to properly control blood flow, feeling (sensation), and temperature to the affected area. This leads to problems in the: Blood vessels, Bones, Muscles, Nerves, Skin ,  Possible causes of CRPS: Injury directly to a nerve, Injury or infection in an arm or leg ,  In rare cases, sudden illnesses such as a  heart attack  or  stroke  can cause CRPS. The condition can sometimes appear without obvious injury to the affected limb. This condition is more common in people ages 40 to 60, but younger people can develop it, too.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000932-3" qtype="symptoms">What are the symptoms of Complex regional pain syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The key symptom is pain that: Is intense and burning and is much stronger than would be expected for the type of injury that occurred., Gets worse, rather than better over time., Begins at the point of injury, but may spread to the whole limb, or to the arm or leg on the opposite side of the body. ,  In most cases, CRPS has three stages. But, CRPS does not always follow this pattern. Some people develop severe symptoms right away. Others stay in the first stage. Stage 1 (lasts 1 to 3 months): Changes in skin temperature, switching between warm or cold, Faster growth of nails and hair, Muscle spasms and joint pain, Severe burning, aching pain that worsens with the slightest touch or breeze, Skin that slowly becomes blotchy, purple, pale, or red; thin and shiny; swollen; more sweaty ,  Stage 2 (lasts 3 to 6 months): Continued changes in the skin, Nails that are cracked and break more easily, Pain that is becoming worse, Slower hair growth, Stiff joints and weak muscles ,  Stage 3 (irreversible changes can be seen) Limited movement in limb because of tightened muscles and tendons (contracture),  Muscle wasting , Pain in the entire limb ,  If pain and other symptoms are severe or long-lasting, many people may experience depression or anxiety.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000932-4" qtype="exams and tests">How to diagnose Complex regional pain syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Diagnosing CRPS can be difficult, but early diagnosis is very important. The health care provider will take a medical history and do a physical examination. Other tests may include: A test to show temperature changes and lack of blood supply in the affected limb (thermography),  Bone scans ,  Nerve conduction studies  and electromyography (usually done together), X-rays, Autonomic nerve testing (measures sweating and blood pressure) , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000932-5" qtype="treatment">What are the treatments for Complex regional pain syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>There is no cure for CRPS, but the disease can be slowed. The main focus is on relieving the symptoms and helping people with this syndrome live as normal a life as possible. Physical and occupational therapy should be started as early as possible. Starting an exercise program and learning to keep joints and muscles moving may prevent the disease from getting worse. It can also help you do everyday activities. Medicines may be used, including pain medicines, corticosteroids, certain blood pressure medicines, bone loss drugs and antidepressants. Some type of talk therapy, such as cognitive behavioral therapy or psychotherapy, can help teach the skills needed to live with long-term (chronic) pain. Surgical or invasive techniques that may be tried: Injected medicine that numbs the affected nerves or pain fibers around the spinal column (nerve block)., Internal pain pump that directly delivers medicines to the spinal cord (intrathecal drug pump)., Spinal cord stimulator, which involves placing electrodes (electrical leads) next to the spinal cord. A low-level electrical current is used to create a pleasant or tingling sensation in the painful area is the best way to reduce pain in some people., Surgery that cuts the nerves to destroy the pain (surgical sympathectomy), although it is unclear how many people this helps. It may also make symptoms worse in some people., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000932-6" qtype="outlook">What is the outlook for Complex regional pain syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The outlook is better with an early diagnosis. If the doctor diagnoses the condition in the first stage, sometimes signs of the disease may disappear (remission) and normal movement is possible. If the condition is not diagnosed quickly, changes to the bone and muscle may get worse and may not be reversible. In some people, symptoms go away on their own. In other people, even with treatment the pain continues and the condition causes crippling, irreversible changes.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000932-7" qtype="complications">What are the complications of Complex regional pain syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Complications that may result include: Problems with thinking and judgment
+  , 
+  Depression
+  , 
+  Loss of muscle size or strength in the affected limb
+  , 
+  Spread of the disease to another part of the body
+  , 
+  Worsening of the affected limb
+  ,  Complications can also occur with some of the nerve and surgical treatments.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000932-8" qtype="when to contact a medical professional">Do I need to see a doctor for Complex regional pain syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop constant, burning pain in an arm, leg, hand, or foot.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000932-9" qtype="prevention">How to prevent Complex regional pain syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known prevention at this time. Early treatment is the key to slowing the progression of the disease.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

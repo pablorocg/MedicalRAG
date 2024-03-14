@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000158" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000248.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Allergic rhinitis - what to ask your doctor - child</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,7 +21,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000158-1" qtype="information">What is (are) Allergic rhinitis - what to ask your doctor - child ?</Question>
-			<Answer></Answer>
+			<Answer>Allergies to pollen, dust mites, and animal dander are also called  allergic rhinitis . Hay fever is another word often used for this problem when it is due to pollen. Symptoms are usually a watery, runny nose and itching in your eyes and nose. Below are some questions you may want to ask your child's health care provider to help you take care of your child's allergies.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

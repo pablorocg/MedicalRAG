@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003998" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002955.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tracheostomy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003998-1" qtype="information">Do you have information about Tracheostomy</Question>
-			<Answer></Answer>
+			<Answer>A tracheostomy is a surgical procedure to create an opening through the neck into the trachea (windpipe). A tube is most often placed through this opening to provide an airway and to remove secretions from the lungs. This tube is called a tracheostomy tube or trach tube.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

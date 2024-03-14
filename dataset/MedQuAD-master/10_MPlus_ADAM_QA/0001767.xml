@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001767" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002869.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Grass allergy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,23 +16,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001767-1" qtype="information">What is (are) Grass allergy ?</Question>
-			<Answer></Answer>
+			<Answer>Many people are  allergic to pollens from grass and weeds . These  allergies  most often occur in the late spring and summer. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001767-3" qtype="symptoms">What are the symptoms of Grass allergy ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Breathing difficulty, Headache, Itchy, watery eyes, Runny nose, Sneezing, Stuffy nose , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001767-4" qtype="considerations">What to do for Grass allergy ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001767-7" qtype="outlook">What is the outlook for Grass allergy ?</Question>
-			<Answer></Answer>
+			<Answer>Normally there are no major problems unless the person has  asthma  or a severe allergic reaction to the grass or chemical treatments. Recovery is likely. People with a severe grass allergy might need to be treated by an allergy specialist. </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001767-8" qtype="outlook">What is the outlook for Grass allergy ?</Question>
-			<Answer></Answer>
+			<Answer>Normally there are no major problems unless the person has  asthma  or a severe allergic reaction to the grass or chemical treatments. Recovery is likely. People with a severe grass allergy might need to be treated by an allergy specialist. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

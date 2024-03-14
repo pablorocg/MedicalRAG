@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004337" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000835.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Xerosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,23 +20,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004337-1" qtype="information">What is (are) Xerosis ?</Question>
-			<Answer></Answer>
+			<Answer>Dry skin occurs when your skin loses too much water and oil. Dry skin is common and can affect anyone at any age. The medical term for dry skin is xerosis.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004337-2" qtype="causes">What causes Xerosis ?</Question>
-			<Answer></Answer>
+			<Answer>Dry skin can be caused by: The climate, such as cold, dry winter air or hot, dry desert environments, Dry indoor air from heating or cooling systems, Bathing too often or too long, Some soaps and detergents, Skin conditions, such as  eczema  or  psoriasis , Diseases, such as diabetes,  underactive thyroid ,  Sj&#246;gren syndrome , among others, Certain medicines (both topical and oral), Aging, during which skin gets thinner and produces less natural oil, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004337-3" qtype="symptoms">What are the symptoms of Xerosis ?</Question>
-			<Answer></Answer>
+			<Answer>Your skin may get dry, scaly, itchy, and red. You may also have fine cracks on the skin. The problem is usually worse on the arms and legs. </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004337-4" qtype="treatment">What are the treatments for Xerosis ?</Question>
-			<Answer></Answer>
+			<Answer>Your provider may suggest  home care measures , including: Moisturizers, especially creams or lotions that contain urea and lactic acid, Topical steroids for areas that get very inflamed and itchy,  If your dry skin is from a health problem, you'll likely be treated for it as well.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004337-5" qtype="prevention">How to prevent Xerosis ?</Question>
-			<Answer></Answer>
+			<Answer>To prevent dry skin: Do not&#160;expose your skin to water more often than needed. ,  Use lukewarm bath water. Afterward, pat the skin dry with the towel instead of rubbing. ,  Choose gentle skin cleansers that are free from dyes and perfumes. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

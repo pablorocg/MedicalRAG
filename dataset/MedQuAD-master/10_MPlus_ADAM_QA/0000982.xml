@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000982" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000915.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Coping with cancer - looking and feeling your best</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000982-1" qtype="information">What is (are) Coping with cancer - looking and feeling your best ?</Question>
-			<Answer></Answer>
+			<Answer>Cancer treatment can affect the way you look. It can change your hair, skin, nails, and weight. These changes often do not last after treatment ends. But during treatment, it can make you feel down about yourself. Whether you are a man or woman, taking time to look and feel your best may help boost your mood. Here are some grooming and lifestyle tips that can help you feel your best during cancer treatment.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

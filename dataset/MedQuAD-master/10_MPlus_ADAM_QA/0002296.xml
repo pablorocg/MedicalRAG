@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002296" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000372.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Knee braces - unloading</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002296-1" qtype="information">Do you have information about Knee braces - unloading</Question>
-			<Answer></Answer>
+			<Answer>When most people talk about the arthritis in their knees, they are referring to a type of arthritis called  osteoarthritis . Osteoarthritis is caused by wear and tear inside your knee joints. Cartilage, the firm, rubbery tissue that cushions all of your bones and joints, lets the bones glide over one another., If the cartilage wears away, the bones rub together, causing pain, swelling, and stiffness., Bony spurs or growths form and the ligaments and muscles around the knee become weaker. Over time, your whole knee becomes stiffer and stiffer. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

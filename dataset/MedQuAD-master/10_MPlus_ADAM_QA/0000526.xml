@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000526" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001418.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Brachial plexopathy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,39 +24,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000526-1" qtype="information">What is (are) Brachial plexopathy ?</Question>
-			<Answer></Answer>
+			<Answer>Brachial plexopathy is a form of  peripheral neuropathy . It occurs when there is damage to the brachial plexus. This is a group of nerves that run from the lower neck through the upper shoulder area. These nerves provide the shoulder, arm, and hand with movement and sensation through the radial, median, and ulnar nerves. Damage to the nerves of the brachial plexus results in pain, decreased movement, or decreased feeling in the arm and shoulder.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000526-2" qtype="causes">What causes Brachial plexopathy ?</Question>
-			<Answer></Answer>
+			<Answer>Damage to the brachial plexus may occur due to: Direct injury to the nerve, Stretching injuries (including  birth trauma ), Pressure from tumors in the area (especially from lung tumors), Damage from  radiation therapy ,  Brachial plexus dysfunction may also be associated with: Birth defects that put pressure on the neck area, Exposure to toxins, chemicals, or drugs, General anesthesia, used during surgery, Inflammatory conditions, such as those due to a virus or immune system problem ,  In some cases, no cause can be identified.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000526-3" qtype="symptoms">What are the symptoms of Brachial plexopathy ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Numbness  of the shoulder, arm, or hand,  Shoulder pain , Tingling, burning, pain, or abnormal sensations (location depends on the area injured),  Weakness  of the shoulder, arm, hand, or wrist , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000526-4" qtype="exams and tests">How to diagnose Brachial plexopathy ?</Question>
-			<Answer></Answer>
+			<Answer>An exam of the arm, hand and wrist can reveal a problem with the nerves of the brachial plexus. Signs may include: Deformity of the arm or hand, Difficulty moving the shoulder, arm, hand, or fingers, Diminished arm reflexes, Wasting of the muscles, Weakness of hand flexing,  A detailed history may help determine the cause of the brachial plexopathy. Age and sex are important, because some brachial plexus problems are more common in certain groups. For example, young men more often have inflammatory or post-viral brachial plexus disease called Parsonage-Turner syndrome. Tests that may be done to diagnose this condition include: Blood tests, Chest x-ray, Electromyography ( EMG ) to check the muscles and nerves that control the muscles, MRI of the head, neck, and shoulder,  Nerve conduction  to check how fast electrical signals move through a nerve,  Nerve biopsy  to examine a piece of nerve under the microscope (rarely needed), Ultrasound, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000526-5" qtype="treatment">What are the treatments for Brachial plexopathy ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment is aimed at correcting the underlying cause and allowing you to use your hand and arm as much as possible. In some cases, no treatment is needed and the problem gets better on its own. Treatment options include any of the following: Medicines to control pain, Physical therapy to help maintain muscle strength., Braces, splints, or other devices to help you use your arm, Nerve block, in which medicine is injected into the area near the nerves to reduce pain, Surgery to repair the nerves or remove something pressing on the nerves ,  You may need occupational therapy or counseling to suggest changes in the workplace. Medical conditions such as diabetes and kidney disease can damage nerves. In these cases, treatment is also directed at the underlying medical condition.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000526-6" qtype="outlook">What is the outlook for Brachial plexopathy ?</Question>
-			<Answer></Answer>
+			<Answer>A good recovery is possible if the cause is found and properly treated. In some cases, there is partial or complete loss of movement or sensation. Nerve pain may be severe and may last for a long time.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000526-7" qtype="complications">What are the complications of Brachial plexopathy ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Deformity of the hand or arm, mild to severe, which can lead to  contractures , Partial or complete arm  paralysis , Partial or complete loss of sensation in the arm, hand, or fingers, Recurrent or unnoticed injury to the hand or arm due to diminished sensation , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000526-8" qtype="when to contact a medical professional">Do I need to see a doctor for Brachial plexopathy ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you experience pain, numbness, tingling, or weakness in the shoulder, arm, or hand.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000526-9" qtype="prevention">How to prevent Brachial plexopathy ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

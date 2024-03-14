@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001094" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002914.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>D and C</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001094-1" qtype="information">Do you have information about D and C</Question>
-			<Answer></Answer>
+			<Answer>D and C (dilation and curettage) is a procedure to scrape and collect the tissue (endometrium) from inside the uterus. Dilation (D) is a widening of the cervix to allow instruments into the uterus., Curettage (C) is the scraping of tissue from the walls of the uterus., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

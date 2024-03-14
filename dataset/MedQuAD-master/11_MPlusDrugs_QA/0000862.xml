@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000862" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a606020.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Nicotine Nasal Spray</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,39 +7,43 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000862-1" qtype="indication">Who should get Nicotine Nasal Spray and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Nicotine nasal spray is used to help people stop smoking. Nicotine nasal spray should be used together with a smoking cessation program, which may include support groups, counseling, or specific behavior change techniques. Nicotine nasal spray is in a class of medications called smoking cessation aids. It works by providing nicotine to your body to decrease the withdrawal symptoms experienced when smoking is stopped and to reduce the urge to smoke.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000862-2" qtype="usage">How should Nicotine Nasal Spray be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Nicotine nasal spray comes as a liquid to spray into the nose. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use nicotine nasal spray exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor. Follow your doctor's instructions about how many doses of nicotine spray you should use each day. Your doctor will probably tell you to start out using one or two doses per hour. Each dose is two sprays, one in each nostril. You should not use more than five doses per hour or 40 doses per day (24 hours). After you have used nicotine nasal spray for 8 weeks and your body adjusts to not smoking, your doctor may decrease your dose gradually over the next 4 to 6 weeks until you are not using nicotine inhalation any more. Follow your doctor's instructions for how to decrease your nicotine dose. Nicotine nasal spray may be habit-forming. Do not use a larger dose, use it more often, or use it for a longer period of time than prescribed by your doctor. To use the nasal spray, follow these directions:
+ Wash your hands., Gently blow your nose to clear your nasal passages., Remove the cap of the nasal spray by pressing in the circles on the side of the bottle., To prime the pump before the first use, hold the bottle in front of a tissue or paper towel. Pump the spray bottle six to eight times until a fine spray appears. Throw away the tissue or towel., Tilt your head back slightly., Insert the tip of the bottle as far as you comfortably can into one nostril, pointing the tip toward the back of your nose., Breathe through your mouth., Pump the spray firmly and quickly one time. Do not sniff, swallow, or inhale while spraying., If your nose runs, gently sniff to keep the nasal spray in your nose. Wait 2 or 3 minutes before blowing your nose., Repeat steps 6 to 8 for the second nostril., Replace the cover on the spray bottle., Any time you have not used the nasal spray for 24 hours, prime the pump in a tissue one or two times. However, do not prime too much as it will decrease the amount of medication in the container.,  If you have not stopped smoking at the end of 4 weeks, talk to your doctor. Your doctor can try to help you understand why you were not able to stop smoking and make plans to try again. Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000862-4" qtype="precautions">Are there safety concerns or special precautions about Nicotine Nasal Spray ?</Question>
-			<Answer></Answer>
+			<Answer>Before using nicotine nasal spray, tell your doctor and pharmacist if you are allergic to nicotine or any other medications., tell your doctor and pharmacist what prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take. Be sure to mention any of the following: acetaminophen (Tylenol); alpha blockers such as alfuzosin (Uroxatral), doxazosin (Cardura), prazosin (Minipress), tamsulosin (Flomax), and terazosin (Hytrin); beta blockers such as atenolol (Tenormin), labetalol (Normodyne), metoprolol (Lopressor, Toprol XL), nadolol (Corgard), and propranolol (Inderal); caffeine-containing medications (Esgic, Esgic Plus, Fioricet, NoDoz, Norgesic, others); cough and cold medications; imipramine (Tofranil); insulin; isoproterenol (Isuprel); oxazepam (Serax); pentazocine (Talacen, Talwin NX); and theophylline (TheoDur). Your doctor may need to change the doses of your medications once you stop smoking., tell your doctor if you have recently had a heart attack and if you have or have ever had nasal problems (allergies, sinus problems, or polyps), asthma, heart disease, angina, irregular heartbeat, problems with circulation such as Buerger's disease or Raynaud's phenomena, hyperthyroidism (an overactive thyroid), pheochromocytoma (a tumor on a small gland near the kidneys), insulin-dependent diabetes, ulcers, high blood pressure, and kidney or liver disease., tell your doctor if you are pregnant, plan to become pregnant, or are breast-feeding. If you become pregnant while using nicotine nasal spray, call your doctor. Nicotine may harm the fetus., stop smoking completely. If you continue smoking while using nicotine nasal spray, you may have side effects., you should know that even though you are using nicotine nasal spray, you may still have some smoking withdrawal symptoms. These include dizziness, anxiety, sleeping problems, depression, tiredness, and muscle pain. If you experience these symptoms, talk to your doctor about increasing your dose of nicotine nasal spray., you may have some side effects when you first begin to use nicotine nasal spray such as throat irritation, sneezing, coughing, watery eyes, or runny nose. Be sure to wait 5 minutes after using this medication before you drive a car or operate a motor vehicle., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000862-5" qtype="dietary">What special dietary instructions should I follow with Nicotine Nasal Spray ?</Question>
-			<Answer></Answer>
+			<Answer>Talk to your doctor about the safe use of caffeinated beverages while using this medication.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000862-6" qtype="side effects">What are the side effects or risks of Nicotine Nasal Spray ?</Question>
-			<Answer></Answer>
+			<Answer>Nicotine nasal spray may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ hot, peppery feeling in the back of the nose or throat, runny nose, throat irritation, watering eyes, sneezing, coughing,  Some side effects can be serious. If you experience any of these symptoms, call your doctor immediately:
+ rapid heart rate,  Nicotine nasal spray may cause other side effects. Call your doctor if you have any unusual problems while using this medication.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000862-7" qtype="storage and disposal">What should I know about storage and disposal of Nicotine Nasal Spray ?</Question>
-			<Answer></Answer>
+			<Answer>Keep used and unused nicotine spray bottles out of the reach of children and pets. Store the bottles at room temperature and away from excess heat and moisture (not in the bathroom). Discard used spray bottles with the child-resistant cover in place. Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program. It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000862-8" qtype="emergency or overdose">What to do in case of emergency or overdose of Nicotine Nasal Spray ?</Question>
-			<Answer></Answer>
+			<Answer>If someone swallows nicotine nasal spray, call your local poison control center at 1-800-222-1222. If the victim has collapsed or is not breathing, call local emergency services at 911. Symptoms of overdose may include:
+ paleness, cold sweat, nausea, drooling, vomiting, stomach pain, diarrhea, headache, dizziness, fainting, problems with hearing and vision, shaking of a part of your body that you cannot control, confusion, weakness, seizures, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000862-9" qtype="other information">What other information should I know about Nicotine Nasal Spray ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor. Handle nicotine nasal spray carefully. If the bottle drops, it may break. If this happens, wear rubber gloves and clean up the spill immediately with a cloth or paper towel. Avoid touching the liquid. Throw away the used cloth or paper towel in the trash. Pick up the broken glass carefully using a broom. Wash the area of the spill a few times. If even a small amount of nicotine solution comes in contact with the skin, lips, mouth, eyes, or ears, these areas should immediately be rinsed with plain water. Do not let anyone else use your medication. Ask your pharmacist any questions you have about refilling your prescription. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000862-10" qtype="brand names">What are the brand names of Nicotine Nasal Spray ?</Question>
-			<Answer></Answer>
+			<Answer>Nicotrol &#174;  NS, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

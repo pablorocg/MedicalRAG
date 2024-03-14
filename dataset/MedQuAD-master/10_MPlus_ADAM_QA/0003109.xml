@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003109" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003361.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Plasma amino acids</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003109-1" qtype="information">Do you have information about Plasma amino acids</Question>
-			<Answer></Answer>
+			<Answer>Plasma amino acids is a screening test, usually done on infants that looks at the amounts of  amino acids  in the blood. Amino acids are the building blocks for proteins in the body.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

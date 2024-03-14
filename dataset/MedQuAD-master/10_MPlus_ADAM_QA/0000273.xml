@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000273" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000549.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Antihistamines for allergies</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,11 +18,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000273-1" qtype="information">What is (are) Antihistamines for allergies ?</Question>
-			<Answer></Answer>
+			<Answer>An allergy is an immune response, or reaction, to substances (allergens) that are usually not harmful. In someone with allergies, the immune response is oversensitive. When it recognizes an allergen, the immune system launches a response. Chemicals such as histamines are released. These chemicals cause allergy symptoms. One type of medicine that helps relieve allergy symptoms is an antihistamine.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000273-6" qtype="when to contact a medical professional">Do I need to see a doctor for Antihistamines for allergies ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

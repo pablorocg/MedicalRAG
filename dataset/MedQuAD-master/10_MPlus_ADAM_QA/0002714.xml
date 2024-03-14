@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002714" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002261.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Myelin</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002714-1" qtype="information">Do you have information about Myelin</Question>
-			<Answer></Answer>
+			<Answer>Myelin is an insulating layer, or sheath that forms around nerves, including those in the brain and spinal cord. It is made up of protein and fatty substances. This myelin sheath allows electrical impulses to transmit quickly and efficiently along the nerve cells. If myelin is damaged, these impulses slow down. This can cause diseases such as  multiple sclerosis .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

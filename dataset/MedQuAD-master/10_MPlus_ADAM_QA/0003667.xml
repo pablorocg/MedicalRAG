@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003667" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003297.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Spasticity</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,27 +20,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003667-1" qtype="information">What is (are) Spasticity ?</Question>
-			<Answer></Answer>
+			<Answer>Spasticity is stiff or rigid muscles. It may also be called unusual tightness or increased muscle tone. Reflexes (for example, a knee-jerk reflex) are stronger or exaggerated. The condition can interfere with walking, movement, speech, and many other activities of daily living.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003667-2" qtype="considerations">What to do for Spasticity ?</Question>
-			<Answer></Answer>
+			<Answer>Spasticity is often caused by damage to the part of the brain that is involved in movements under your control. It may also occur from damage to the nerves in the spinal cord. Symptoms of spasticity include: Abnormal posture, Carrying the shoulder, arm, wrist, and finger at an abnormal angle because of muscle tightness, Exaggerated deep tendon reflexes (the knee-jerk or other reflexes), Repetitive jerky motions (clonus), especially when you are touched or moved, Scissoring (crossing of the legs as the tips of scissors would close), Pain or deformity of the affected area of the body,  Spasticity may also affect speech. Severe, long-term spasticity may lead to  contracture  of muscles. This can reduce range of motion or leave the joints bent.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003667-3" qtype="causes">What causes Spasticity ?</Question>
-			<Answer></Answer>
+			<Answer>Spasticity may be caused by any of the following: Brain damage caused by lack of oxygen, as can occur in  near drowning  or near suffocation,  Cerebral palsy  (group of disorders due to brain injury at birth), Cervical spinal stenosis, Head injury, Infections of brain or spinal cord (Lyme disease, syphilis, HIV, tuberculosis),  Multiple sclerosis , Neurodegenerative illness (illnesses that damage the brain and nervous system over time),  Phenylketonuria  (disorder in which the body can't break down the amino acid phenylalanine), Spinal cord injury,  Stroke , Tumors in brain or spinal cord, Toxins (nitrous oxide or "laughing gas"), Vitamin or mineral deficiency (vitamin B12, vitamin E, copper),  This list does not include all conditions that can cause spasticity.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003667-4" qtype="considerations">What to do for Spasticity ?</Question>
-			<Answer></Answer>
+			<Answer>Spasticity is often caused by damage to the part of the brain that is involved in movements under your control. It may also occur from damage to the nerves in the spinal cord. Symptoms of spasticity include: Abnormal posture, Carrying the shoulder, arm, wrist, and finger at an abnormal angle because of muscle tightness, Exaggerated deep tendon reflexes (the knee-jerk or other reflexes), Repetitive jerky motions (clonus), especially when you are touched or moved, Scissoring (crossing of the legs as the tips of scissors would close), Pain or deformity of the affected area of the body,  Spasticity may also affect speech. Severe, long-term spasticity may lead to  contracture  of muscles. This can reduce range of motion or leave the joints bent.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003667-5" qtype="when to contact a medical professional">Do I need to see a doctor for Spasticity ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if: The spasticity gets worse, You notice deformity of the affected areas, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003667-6" qtype="outlook">What is the outlook for Spasticity ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

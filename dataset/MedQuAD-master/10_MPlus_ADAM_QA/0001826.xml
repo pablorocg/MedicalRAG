@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001826" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003791.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Head MRI</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -19,7 +18,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001826-1" qtype="information">Do you have information about Head MRI</Question>
-			<Answer></Answer>
+			<Answer>A head MRI (magnetic resonance imaging) is an imaging test that uses powerful magnets and radio waves to create pictures of the brain and surrounding tissues. It does not use radiation.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

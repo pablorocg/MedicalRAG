@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001004" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003073.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Coughing up blood</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,27 +21,32 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001004-1" qtype="information">What is (are) Coughing up blood ?</Question>
-			<Answer></Answer>
+			<Answer>Coughing up blood is the spitting up of blood or bloody mucus from the lungs and throat (respiratory tract). Hemoptysis is the medical term for coughing up blood from the respiratory tract.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001004-2" qtype="considerations">What to do for Coughing up blood ?</Question>
-			<Answer></Answer>
+			<Answer>Coughing up blood is not the same as bleeding from the mouth, throat, or gastrointestinal tract. Blood that comes up with a cough often looks bubbly because it is mixed with air and mucus. It is most often bright red, although it may be rust-colored. Sometimes the mucus contains only streaks of blood. The outlook depends on what is causing the problem. Most people do well with treatment to treat the symptoms and the underlying disease. People with severe hemoptysis may die.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001004-3" qtype="causes">What causes Coughing up blood ?</Question>
-			<Answer></Answer>
+			<Answer>A number of conditions, diseases, and medical tests may make you cough up blood. These include: 
+  Blood clot in the lung
+  , 
+  Breathing food or other material into the lungs (pulmonary aspiration)
+  ,  Bronchoscopy  with biopsy
+  ,  Bronchiectasis ,  Bronchitis , Lung cancer,  Cystic fibrosis , Inflammation of the blood vessels in the lung (vasculitis), Injury to the arteries of the lungs, Irritation of the throat from violent coughing (small amounts of blood),  Pneumonia  or other lung infections,  Pulmonary edema ,  Systemic lupus erythematosus ,  Tuberculosis , Very thin blood (from blood thinning medicines, most often at higher than recommended levels), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001004-4" qtype="considerations">What to do for Coughing up blood ?</Question>
-			<Answer></Answer>
+			<Answer>Coughing up blood is not the same as bleeding from the mouth, throat, or gastrointestinal tract. Blood that comes up with a cough often looks bubbly because it is mixed with air and mucus. It is most often bright red, although it may be rust-colored. Sometimes the mucus contains only streaks of blood. The outlook depends on what is causing the problem. Most people do well with treatment to treat the symptoms and the underlying disease. People with severe hemoptysis may die.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001004-5" qtype="when to contact a medical professional">Do I need to see a doctor for Coughing up blood ?</Question>
-			<Answer></Answer>
+			<Answer>Get medical help right away if you cough up blood and have: A cough that produces more than a few teaspoons of blood, Blood in your urine or stools, Chest pain, Dizziness, Fever, Lightheadedness, Severe shortness of breath , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001004-6" qtype="outlook">What is the outlook for Coughing up blood ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

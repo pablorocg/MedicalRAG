@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003144" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001438.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Polyarteritis nodosa</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003144-1" qtype="information">What is (are) Polyarteritis nodosa ?</Question>
-			<Answer></Answer>
+			<Answer>Polyarteritis nodosa is a serious inflammatory blood vessel disease. The small and medium-sized arteries become swollen and damaged.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003144-2" qtype="causes">What causes Polyarteritis nodosa ?</Question>
-			<Answer></Answer>
+			<Answer>Arteries are the blood vessels that carry oxygen-rich blood to organs and tissues. The cause of polyarteritis nodosa is unknown. The condition occurs when certain immune cells attack the affected arteries. The tissues that are fed by the affected arteries do not get the oxygen and nourishment they need. Damage occurs as a result. More adults than children get this disease.  People with active  hepatitis B  or  hepatitis C  may develop this disease.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003144-3" qtype="symptoms">What are the symptoms of Polyarteritis nodosa ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms are caused by damage to affected organs. The skin, joints, muscle, gastrointestinal tract, heart, kidneys, and nervous system are often affected. Symptoms include: Abdominal pain ,  Decreased appetite ,  Fatigue ,  Fever ,  Joint aches ,  Muscle aches ,  Unintentional weight loss ,  Weakness ,  If nerves are affected, you may have numbness, pain, burning, and weakness. Damage to the nervous system may cause  strokes  or  seizures . </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003144-4" qtype="exams and tests">How to diagnose Polyarteritis nodosa ?</Question>
-			<Answer></Answer>
+			<Answer>No specific lab tests are available to diagnose polyarteritis nodosa. There are a number of disorders that have features similar to polyarteritis nodosa. These are known as "mimics." You will have a complete physical exam. Lab tests that can help make the diagnosis and rule out mimics include: Complete blood count  (CBC) with differential, creatinine, tests for hepatitis B and C, and urinalysis,  Erythrocyte sedimentation rate  (ESR) or  C-reactive protein  (CRP), Serum protein electrophoresis, cryoglobulins, Serum complement levels,  Arteriogram , Tissue  biopsy , Other blood tests will be done to rule out similar conditions, such as  systemic lupus erythematosus  (ANA) or  granulomatosis with polyangiitis  (ANCA),  Test for HIV , Test for hepatitis B and hepatitis C ,  Cryoglobulins , Anti-phospholipid antibodies,  Blood cultures , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003144-5" qtype="treatment">What are the treatments for Polyarteritis nodosa ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment involves medicines to suppress inflammation and the immune system. These may include steroids, such as prednisone. Similar medicines, such as azathioprine, methotrexate or mycophenolate that allow for reducing the dose of steroids are often used as well. Cyclophosphamide is used in severe cases. For polyarteritis nodosa related to hepatitis, treatment may involve plasmapheresis and antiviral medicines.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003144-6" qtype="outlook">What is the outlook for Polyarteritis nodosa ?</Question>
-			<Answer></Answer>
+			<Answer>Current treatments with steroids and other drugs that suppress the immune system (such as azathioprine or cyclophosphamide) can improve symptoms and the chance of long-term survival.  The most serious complications most often involve the kidneys and gastrointestinal tract.  Without treatment, the outlook is poor.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003144-7" qtype="complications">What are the complications of Polyarteritis nodosa ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Heart attack ,  Intestinal necrosis  and perforation,  Kidney failure ,  Stroke , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003144-8" qtype="when to contact a medical professional">Do I need to see a doctor for Polyarteritis nodosa ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you develop symptoms of this disorder. Early diagnosis and treatment may improve the chance of a good outcome.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003144-9" qtype="prevention">How to prevent Polyarteritis nodosa ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known prevention. However, early treatment can prevent some damage and symptoms.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

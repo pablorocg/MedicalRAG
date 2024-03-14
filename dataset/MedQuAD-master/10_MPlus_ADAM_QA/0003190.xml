@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003190" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000609.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pregnancy and work</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003190-1" qtype="information">Do you have information about Pregnancy and work</Question>
-			<Answer></Answer>
+			<Answer>Most women who are pregnant can keep working during their pregnancy. Some women are able to work right up until they are ready to deliver. Others may need to cut back on their hours or stop working before their due date. Whether you can work or not depends on:  Your health, The health of your baby, The type of job you have,  Below are some factors that affect your ability to work. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

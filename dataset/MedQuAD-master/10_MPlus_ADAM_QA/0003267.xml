@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003267" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002278.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Protuberance</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003267-1" qtype="information">Do you have information about Protuberance</Question>
-			<Answer></Answer>
+			<Answer>A protuberance is a body part that bulges (protrudes) outward from a surface. For example, the ears protrude from the head.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

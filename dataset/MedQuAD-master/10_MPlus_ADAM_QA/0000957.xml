@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000957" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001344.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Congenital syphilis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000957-1" qtype="information">What is (are) Congenital syphilis ?</Question>
-			<Answer></Answer>
+			<Answer>Congenital syphilis is a severe, disabling, and often life-threatening infection seen in infants whose mothers were infected and not fully treated. The infection can pass through the placenta to the unborn infant during pregnancy.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000957-2" qtype="causes">What causes Congenital syphilis ?</Question>
-			<Answer></Answer>
+			<Answer>Congenital syphilis is caused by the bacterium  Treponema pallidum , which can be passed from mother to child during fetal development or at birth. Up to half of all babies infected with syphilis in the womb die shortly before or after birth. Despite the fact that this disease can be cured with antibiotics if caught early, rising rates of syphilis among pregnant women in the United States have increased the number of infants born with congenital syphilis since 2013.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000957-3" qtype="symptoms">What are the symptoms of Congenital syphilis ?</Question>
-			<Answer></Answer>
+			<Answer>Most babies who are infected before birth appear normal. Over time, symptoms may develop. In babies younger than 2 years old, symptoms may include: Enlarged liver and/or spleen (mass in belly), Failure to gain weight or  failure to thrive  (including prior to birth, with low birthweight), Fever, Irritability, Irritation and cracking of skin around the mouth, genitals, and anus, Rash starting as small blisters, especially on the palms and soles, and later changing to copper-colored, flat or bumpy rash, Skeletal (bone) abnormalities, Not able to move a painful arm or leg, Watery fluid from the nose&#160;,  Symptoms in older infants and young children may include: Abnormal notched and peg-shaped teeth, called Hutchinson teeth, Bone pain, Blindness, Clouding of the cornea (the covering of the eyeball), Decreased hearing or deafness, Deformity of the nose with flattened nasal bridge (saddle nose), Gray, mucus-like patches around the anus and vagina, Joint swelling, Saber shins (bone problem of the lower leg), Scarring of the skin around the mouth, genitals, and anus, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000957-4" qtype="exams and tests">How to diagnose Congenital syphilis ?</Question>
-			<Answer></Answer>
+			<Answer>If the infection is suspected at the time of birth, the placenta will be examined for signs of syphilis. A physical examination of the infant may show signs of liver and spleen swelling and bone inflammation. A routine (screening) blood test for syphilis is done for all pregnant women. Mothers may receive the following blood tests: Fluorescent treponemal antibody absorbed test ( FTA-ABS ), Rapid plasma reagin ( RPR ), Venereal disease research laboratory test ( VDRL ) ,  An infant or child whose mother had syphilis may have the following tests: Bone x-ray, Dark-field examination to detect syphilis bacteria under a microscope , Eye examination,  Lumbar puncture &#160;(spinal tap) &#8211; to remove spinal fluid for testing, Blood tests (similar to those listed above for the mother), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000957-5" qtype="treatment">What are the treatments for Congenital syphilis ?</Question>
-			<Answer></Answer>
+			<Answer>Penicillin is the drug of choice for treating this infection. It may be given by IV or as a shot or injection.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000957-6" qtype="outlook">What is the outlook for Congenital syphilis ?</Question>
-			<Answer></Answer>
+			<Answer>Many infants who were infected early in the pregnancy are stillborn. Treatment of the expectant mother lowers the risk for congenital syphilis in the infant. Babies who become infected when passing through the birth canal have a better outlook than those who are infected earlier during pregnancy.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000957-7" qtype="complications">What are the complications of Congenital syphilis ?</Question>
-			<Answer></Answer>
+			<Answer>Health problems that can result if the baby isn't treated include: Blindness, Deafness, Deformity of the face, Nervous system problems , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000957-8" qtype="when to contact a medical professional">Do I need to see a doctor for Congenital syphilis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if your baby has signs or symptoms of this condition. If you think that you may have syphilis and are pregnant (or plan to get pregnant), call your provider right away.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000957-9" qtype="prevention">How to prevent Congenital syphilis ?</Question>
-			<Answer></Answer>
+			<Answer>Safer sexual practices  help prevent the spread of syphilis. If you suspect you have a sexually transmitted disease such as syphilis, seek medical attention right away to avoid complications like infecting your baby during pregnancy or birth. Prenatal care is very important. Routine blood tests for syphilis are done during pregnancy. These tests help identify infected mothers so they can be treated to reduce the risks to the infant and themselves. Infants born to infected mothers who received proper antibiotic treatment during pregnancy are at minimal risk for congenital syphilis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

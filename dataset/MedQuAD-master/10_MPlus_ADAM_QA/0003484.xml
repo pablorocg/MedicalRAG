@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003484" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002195.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Scleroderma - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003484-1" qtype="information">What is (are) Scleroderma - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on  scleroderma : Genetic and Rare Diseases Information Center --&#160; rarediseases.info.nih.gov/diseases/9748/systemic-scleroderma , National Institute of Arthritis and Musculoskeletal and Skin Diseases --  www.niams.nih.gov/health-topics/scleroderma , National Organization for Rare Disorders --  rarediseases.org/rare-diseases/scleroderma/ , Scleroderma Foundation -&#160; scleroderma.org , Scleroderma Research Foundation --  srfcure.org/ , US National Library of Medicine, Genetics --  medlineplus.gov/genetics/condition/systemic-scleroderma/ , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

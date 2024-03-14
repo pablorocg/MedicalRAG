@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000151" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001200.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Alkaptonuria</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,39 +22,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000151-1" qtype="information">What is (are) Alkaptonuria ?</Question>
-			<Answer></Answer>
+			<Answer>Alkaptonuria is a rare condition in which a person's urine turns a dark brownish-black color when exposed to air. Alkaptonuria is part of a group of conditions known as an  inborn error of metabolism .
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000151-2" qtype="causes">What causes Alkaptonuria ?</Question>
-			<Answer></Answer>
+			<Answer>A defect in the  HGD  gene causes alkaptonuria. The gene defect makes the body unable to properly break down the amino acids tyrosine and phenylalanine. As a result, a substance called homogentisic acid builds up in the skin and other body tissues. The acid leaves the body through the urine. The urine turns brownish-black when it mixes with air. Alkaptonuria is inherited, which means it is passed down through families. If both parents carry a nonworking copy of the gene related to this condition, each of their children has a 25% (1 in 4) chance of developing the disease.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000151-3" qtype="symptoms">What are the symptoms of Alkaptonuria ?</Question>
-			<Answer></Answer>
+			<Answer>Urine in an infant's diaper may darken and can turn almost black after several hours. However, many people with this condition may not know they have it. The disease is most often discovered&#160;in mid-adulthood (around age 40), when joint and other problems occur. Symptoms may include: Arthritis (especially of the spine) that gets worse over time, Darkening of the ear, Dark spots on the white of the eye and cornea, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000151-4" qtype="exams and tests">How to diagnose Alkaptonuria ?</Question>
-			<Answer></Answer>
+			<Answer>A urine test is done to test for alkaptonuria. If ferric chloride is added to the urine, it will turn the urine black in people with this condition.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000151-5" qtype="treatment">What are the treatments for Alkaptonuria ?</Question>
-			<Answer></Answer>
+			<Answer>Management of alkaptonuria has traditionally been focused on controlling symptoms. Eating a low protein diet may be helpful, but many people find this restriction difficult. Medicines, such as NSAIDs and physical therapy may help relieve joint pain. Clinical trials are underway for other drugs to treat this condition and to assess whether the drug nitisinone provides long-term help with this illness.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000151-6" qtype="outlook">What is the outlook for Alkaptonuria ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome is expected to be good.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000151-7" qtype="complications">What are the complications of Alkaptonuria ?</Question>
-			<Answer></Answer>
+			<Answer>The build-up of homogentisic acid in the cartilage causes&#160; arthritis &#160;in many adults with alkaptonuria. Homogentisic acid also can build up on the heart valves, especially the mitral valve. This can sometimes lead to the need for valve replacement.,  Coronary artery disease  may develop earlier in life in people with alkaptonuria.,  Kidney stones  and prostate stones may be more common in people with alkaptonuria. , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000151-8" qtype="when to contact a medical professional">Do I need to see a doctor for Alkaptonuria ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you notice that your own urine or your child's urine becomes dark brown or black when it is exposed to air.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000151-9" qtype="prevention">How to prevent Alkaptonuria ?</Question>
-			<Answer></Answer>
+			<Answer>Genetic counseling is recommended for people with a family history of alkaptonuria who are considering having children. A blood test can be done to see if you carry the gene for alkaptonuria. Prenatal tests (amniocentesis or chorionic villus sampling) can be done to screen a developing baby for this condition if the genetic change has been identified.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

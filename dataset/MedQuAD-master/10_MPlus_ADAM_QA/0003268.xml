@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003268" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002287.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Proximal</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003268-1" qtype="information">Do you have information about Proximal</Question>
-			<Answer></Answer>
+			<Answer>Proximal means nearer to the center (trunk of the body) or to the point of attachment to the body. If another reference point is given, such as the heart, the proximal point of another organ or extremity is the point closest to the heart, central rather than  peripheral . Proximal is the opposite of  distal .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

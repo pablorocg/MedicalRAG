@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000047" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/841.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Gymnema</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000047-1" qtype="information">What is Gymnema ?</Question>
-			<Answer></Answer>
+			<Answer>Gymnema (Gymnema sylvestre) is a plant native to India and Africa with a history of use in Ayurvedic medicine. It has little evidence of health benefits. 
+
+Gymnema contains chemicals that reduce how much sugar the stomach absorbs. It might also increase the amount of insulin in the body and increase the growth of cells in the pancreas, which is where the body makes insulin. 
+
+People use gymnema for diabetes, obesity, and many other conditions, but there is no good scientific evidence to support these uses.
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000047-2" qtype="how effective is it">How effective is Gymnema ?</Question>
-			<Answer></Answer>
+			<Answer>There is interest in using gymnema for a number of purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000047-3" qtype="how does it work">What is the action of Gymnema and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000047-4" qtype="precautions">Are there safety concerns or special precautions about Gymnema ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000047-5" qtype="interactions with medications">Are there interactions between Gymnema and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Moderate Be cautious with this combination. Medications changed by the liver (Cytochrome P450 1A2 (CYP1A2) substrates) Some medications are changed and broken down by the liver. Gymnema might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications. Medications changed by the liver (Cytochrome P450 2C9 (CYP2C9) substrates) Some medications are changed and broken down by the liver. Gymnema might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications. Medications for diabetes (Antidiabetes drugs) Gymnema might lower blood sugar levels. Taking gymnema along with diabetes medications might cause blood sugar to drop too low. Monitor your blood sugar closely. Phenacetin Gymnema might decrease how quickly the body breaks down phenacetin. This might increase the effects and side effects of phenacetin. Tolbutamide (Orinase) Gymnema might increase how quickly the body breaks down tolbutamide. This might decrease the effects of tolbutamide. Minor Be watchful with this combination. Medications changed by the liver (Cytochrome P450 3A4 (CYP3A4) substrates) Some medications are changed and broken down by the liver. Gymnema might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000047-6" qtype="interactions with herbs and supplements">Are there interactions between Gymnema and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>Herbs and supplements that might lower blood sugar Gymnema might lower blood sugar. Taking it with other supplements with similar effects might lower blood sugar too much. Examples of supplements with this effect include aloe, bitter melon, cassia cinnamon, chromium, and prickly pear cactus. Oleic acid Gymnema might decrease the body's absorption of oleic acid.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000047-7" qtype="interactions with foods">Are there interactions between Gymnema and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000047-8" qtype="dose">What is the dosage of Gymnema ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

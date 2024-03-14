@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003682" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000313.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Spine surgery - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -29,7 +28,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003682-1" qtype="information">Do you have information about Spine surgery - discharge</Question>
-			<Answer></Answer>
+			<Answer>You were in the hospital for spine surgery. You probably had a problem with one or more disks or spine bones. A disk is a cushion that separates the bones in your spine (vertebrae). Now that you're going home, follow the surgeon's instructions on how to care for yourself while you recover.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

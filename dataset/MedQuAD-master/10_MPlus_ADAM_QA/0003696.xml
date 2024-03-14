@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003696" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000673.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Sports physical</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003696-1" qtype="information">Do you have information about Sports physical</Question>
-			<Answer></Answer>
+			<Answer>A person gets a sports physical by a health care provider to find out if it is safe to start a new sport or a new sports season. Most states require a sports physical before children and teens can play. Sports physicals do not take the place of regular medical care or routine checkups.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000161" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000488.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Allergies, asthma, and molds</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,7 +23,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000161-1" qtype="information">What is (are) Allergies, asthma, and molds ?</Question>
-			<Answer></Answer>
+			<Answer>In people who have sensitive airways, allergy and asthma symptoms can be triggered by breathing in substances called allergens, or triggers. It is important to know your triggers because avoiding them is your first step toward feeling better. Mold is a common trigger.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

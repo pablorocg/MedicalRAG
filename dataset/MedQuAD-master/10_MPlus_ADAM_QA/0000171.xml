@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000171" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003715.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Alpha-1 antitrypsin test</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,11 +19,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000171-1" qtype="information">What is (are) Alpha-1 antitrypsin test ?</Question>
-			<Answer></Answer>
+			<Answer>Alpha-1 antitrypsin (AAT) is a laboratory test to measure the amount of AAT in your blood. The test is also done to check for abnormal forms of AAT.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000171-8" qtype="susceptibility">Who is at risk for Alpha-1 antitrypsin test? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

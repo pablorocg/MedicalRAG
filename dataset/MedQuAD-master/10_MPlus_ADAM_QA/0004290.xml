@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004290" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000506.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>What causes bone loss?</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,8 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004290-1" qtype="information">What is (are) What causes bone loss? ?</Question>
-			<Answer></Answer>
+			<Answer>Osteoporosis , or weak bones, is a disease that causes bones to become brittle and more likely to fracture (break). With osteoporosis, the bones lose density. Bone density is the amount of calcified bone tissue that is in your bones. A diagnosis of osteoporosis means you are at risk for bone fractures even with everyday activities or minor accidents or falls. 
+</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

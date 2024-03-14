@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002932" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003007.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pancreas transplant</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002932-1" qtype="information">Do you have information about Pancreas transplant</Question>
-			<Answer></Answer>
+			<Answer>A pancreas transplant is surgery to implant a healthy pancreas from a donor into a person with diabetes. Pancreas transplants give the person a chance to stop taking insulin injections.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

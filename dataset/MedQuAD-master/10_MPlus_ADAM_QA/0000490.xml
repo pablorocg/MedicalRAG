@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000490" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007490.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Blood pressure measurement</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,11 +22,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000490-1" qtype="information">What is (are) Blood pressure measurement ?</Question>
-			<Answer></Answer>
+			<Answer>Blood pressure is a measurement of the force on the walls of your arteries as your heart pumps blood through your body. You can measure your blood pressure at home. You can also have it checked at your health care provider's office or even a fire station.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000490-8" qtype="considerations">What to do for Blood pressure measurement ?</Question>
-			<Answer></Answer>
+			<Answer>It is normal for your blood pressure to vary at different times of the day: It is usually higher when you are at work., It drops slightly when you are at home., It is usually lowest when you are sleeping., It is normal for your blood pressure to increase suddenly when you wake up. In people with very high blood pressure, this is when they are most at risk for a heart attack and stroke.,  Blood pressure readings taken at home are usually a better measure of your current blood pressure than those taken at your provider's office. Make sure your home blood pressure monitor is accurate., Ask your provider to compare your home readings with those taken in the office.,  Many people get nervous at their provider's office and have higher readings than they have at home. This is called white coat hypertension. Home blood pressure readings can help detect this problem.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

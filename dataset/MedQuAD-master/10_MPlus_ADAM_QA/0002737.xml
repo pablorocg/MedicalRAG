@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002737" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000404.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Nasal corticosteroid sprays</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,11 +20,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002737-1" qtype="information">What is (are) Nasal corticosteroid sprays ?</Question>
-			<Answer></Answer>
+			<Answer>A nasal corticosteroid spray is a medicine to help make breathing through the nose easier.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002737-5" qtype="when to contact a medical professional">Do I need to see a doctor for Nasal corticosteroid sprays ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

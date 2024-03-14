@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002093" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000536.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hyperviscosity - newborn</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,31 +19,31 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002093-1" qtype="information">What is (are) Hyperviscosity - newborn ?</Question>
-			<Answer></Answer>
+			<Answer>Polycythemia can occur when there are too many red blood cells (RBCs) in an infant's blood.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002093-2" qtype="causes">What causes Hyperviscosity - newborn ?</Question>
-			<Answer></Answer>
+			<Answer>The percentage of RBCs in the infant's blood is called the "hematocrit." When this is greater than 65%, polycythemia is present. Polycythemia can result from conditions that develop before birth. These may include:  Delay in clamping the umbilical cord, Diabetes in the baby's birth mother, Inherited diseases and genetic problems, Too little oxygen reaching body tissues (hypoxia), such as from congenital heart or vascular abnormalities,  Twin-twin transfusion syndrome  (occurs when blood moves from one twin to the other) ,  The extra RBCs can slow or block the flow of blood in the smallest blood vessels. This is called hyperviscosity. This may lead to tissue death from lack of oxygen. This blocked blood flow can affect all organs, including the kidneys, lungs, and brain.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002093-3" qtype="symptoms">What are the symptoms of Hyperviscosity - newborn ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Extreme sleepiness, Feeding problems, Seizures, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002093-4" qtype="exams and tests">How to diagnose Hyperviscosity - newborn ?</Question>
-			<Answer></Answer>
+			<Answer>There may be signs of breathing problems, kidney failure, low blood sugar, or  newborn jaundice . If the baby has symptoms of hyperviscosity, a blood test to count the number of RBCs will be done. This test is called a  hematocrit . Other tests may include: Blood gases to check oxygen level in the blood, Blood sugar (glucose) to check for low blood sugar, Blood urea nitrogen (BUN), a substance that forms when protein breaks down,  Creatinine , Urinalysis, Bilirubin , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002093-5" qtype="treatment">What are the treatments for Hyperviscosity - newborn ?</Question>
-			<Answer></Answer>
+			<Answer>The baby will be monitored for complications of hyperviscosity. Fluids may be given through the vein. A partial volume exchange transfusion is sometimes still done in some cases. However, there is little evidence that this is effective. It is most important to treat the underlying cause of the polycythemia.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002093-6" qtype="outlook">What is the outlook for Hyperviscosity - newborn ?</Question>
-			<Answer></Answer>
+			<Answer>The outlook is good for infants with mild hyperviscosity. Good results are also possible in infants who receive treatment for severe hyperviscosity. The outlook will depend largely on the reason for the condition.  Some children may have mild developmental changes. Parents should contact their health care provider if they think their child shows signs of delayed development. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002093-7" qtype="complications">What are the complications of Hyperviscosity - newborn ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Death of intestinal tissue (necrotizing enterocolitis), Decreased fine motor control, Kidney failure, Seizures, Strokes, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

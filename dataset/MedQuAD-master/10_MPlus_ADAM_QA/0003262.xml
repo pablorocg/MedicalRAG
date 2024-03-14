@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003262" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003580.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Protein urine test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003262-1" qtype="information">Do you have information about Protein urine test</Question>
-			<Answer></Answer>
+			<Answer>The urine protein dipstick test measures the presence of all proteins, including albumin, in a urine sample. Albumin and protein can also be measured using a  blood test . </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

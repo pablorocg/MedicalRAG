@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000243" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000420.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ankylosing spondylitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,31 +20,31 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000243-1" qtype="information">What is (are) Ankylosing spondylitis ?</Question>
-			<Answer></Answer>
+			<Answer>Ankylosing spondylitis (AS) is a chronic form of arthritis. It mostly affects the bones and joints at the base of the spine where it connects with the pelvis. These joints can become swollen and inflamed. Over time, the affected spinal bones may join together.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000243-2" qtype="causes">What causes Ankylosing spondylitis ?</Question>
-			<Answer></Answer>
+			<Answer>AS is the main member of a family of similar forms of arthritis called spondyloarthritis. Other members include psoriatic arthritis, arthritis of inflammatory bowel disease and reactive arthritis. This family of arthritis affects up to 1 in 100 people. The cause of AS is unknown, however genes seem to play a role. The majority of people with AS are positive for the  HLA-B27  gene, but not everyone who has this gene has AS. The disease often begins between ages 20 and 40, but it may begin before age 10. It affects more males than females.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000243-3" qtype="symptoms">What are the symptoms of Ankylosing spondylitis ?</Question>
-			<Answer></Answer>
+			<Answer>AS starts with lower back pain that comes and goes but usually becomes present most of the time as the condition progresses. Pain and stiffness are worse at night, in the morning, or when you are less active. The discomfort may wake you from sleep., The pain often gets better with activity or exercise., Back pain may begin in the joint between the pelvis and spine (sacroiliac joints). Over time, it may involve all or part of the spine., Your lower spine may become less flexible. Over time, you may stand in a hunched forward position. ,  Other parts of your body that may be affected include: The joints of the shoulders, knees and ankles, which may be swollen and painful, The joints between your ribs and breastbone, so that you cannot expand your chest fully, The eye, which may have swelling and redness called uveitis,  Fatigue is also a common symptom. Less common symptoms include: Slight fever ,  AS may occur with other conditions, such as: Psoriasis , Ulcerative colitis or  Crohn disease , Recurring or chronic  eye inflammation (iritis , uveitis), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000243-4" qtype="exams and tests">How to diagnose Ankylosing spondylitis ?</Question>
-			<Answer></Answer>
+			<Answer>Tests may include: Anti-cyclic citrullinated peptide (CCP) antibody (which should be negative) ,  Complete blood count (CBC) ,  ESR  (a measure of inflammation),  HLA-B27 antigen  (which detects the gene linked to ankylosing spondylitis), Rheumatoid factor (which should be negative), X-rays of the spine and pelvis, MRI of the spine and pelvis , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000243-5" qtype="treatment">What are the treatments for Ankylosing spondylitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider may prescribe medicines such as non-steroidal anti-inflammatory drugs (NSAIDs) to reduce swelling and pain. Some NSAIDs can be bought over-the-counter (OTC). These include aspirin, ibuprofen (Advil, Motrin), and naproxen (Aleve, Naprosyn)., Other NSAIDs are prescribed by your provider., Talk to your provider or pharmacist before daily long-term use of any over-the-counter NSAID.,  You may also need stronger medicines to control pain and swelling, such as: Corticosteroid therapy (such as prednisone) used for short periods of time, Sulfasalazine, A biologic tumor necrosis factor (TNF) inhibitor (such as etanercept, adalimumab, infliximab, certolizumab or golimumab), A biologic inhibitor of IL17A, secukinumab,  Surgery, such as hip replacement, may be done if pain or joint damage is severe. Exercises can help improve posture and breathing. Lying flat on your back at night can help you keep a normal posture.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000243-6" qtype="outlook">What is the outlook for Ankylosing spondylitis ?</Question>
-			<Answer></Answer>
+			<Answer>The course of the disease is hard to predict. Over time, signs and symptoms of AS flareup (relapse) and quiet down (remission). Most people are able to function well unless they have a lot of damage to the hips or the spine. Joining a support group of others with the same problem may often help. Treatment with NSAIDs often reduces the pain and swelling. Treatments given by IV or injection such as TNF inhibitors early in the disease appears to slow progression of the spine arthritis. Other newer drugs such as Interleukin-17 inhibitors and oral medicines, Janus kinase (JAK) inhibitors have been approved as well. Rarely, people with ankylosing spondylitis may have problems with: Psoriasis, a chronic skin disorder , Inflammation in the eye (uveitis), Inflammation in the intestine ( colitis ), Abnormal heart rhythm, Scarring or thickening of the lung tissue, Scarring or thickening of the aortic heart valve, Spinal cord injury after a fall, </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000243-7" qtype="when to contact a medical professional">Do I need to see a doctor for Ankylosing spondylitis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: You have symptoms of ankylosing spondylitis, You have ankylosing spondylitis and develop new symptoms during treatment , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

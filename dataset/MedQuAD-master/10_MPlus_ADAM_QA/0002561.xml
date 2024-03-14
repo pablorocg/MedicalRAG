@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002561" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000502.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Medicines for osteoporosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -28,7 +27,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002561-1" qtype="information">What is (are) Medicines for osteoporosis ?</Question>
-			<Answer></Answer>
+			<Answer>Osteoporosis  is a disease that causes bones to become brittle and more likely to fracture (break). With osteoporosis, the bones lose density. Bone density is the amount of calcified bone tissue that is in your bones.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

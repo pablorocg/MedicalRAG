@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001376" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001415.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Encephalitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,78 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001376-1" qtype="information">What is (are) Encephalitis ?</Question>
-			<Answer></Answer>
+			<Answer>Encephalitis is irritation and swelling (inflammation) of the brain, most often due to infections.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001376-2" qtype="causes">What causes Encephalitis ?</Question>
-			<Answer></Answer>
+			<Answer>Encephalitis is a rare condition. It occurs more often in the first year of life and decreases with age. The very young and older adults are more likely to have a severe case. Encephalitis is most often caused by a virus. Many types of viruses may cause it. Exposure can occur through: Breathing in droplets from the nose, mouth, or throat from an infected person , 
+ Contaminated food or drink
+ , 
+ Mosquito, tick, and other insect bites
+ , 
+ Skin contact
+ ,  Different viruses occur in different geographic locations. Many cases occur during a certain season. Encephalitis caused by the herpes simplex virus is the leading cause of more severe cases in all ages, including newborns. Routine vaccination has greatly reduced encephalitis due to some viruses, including: Measles ,  Mumps ,  Polio ,  Rabies ,  Rubella ,  Varicella  (chickenpox)
+ ,  Other viruses that cause encephalitis include: 
+ Adenovirus
+ , 
+ Coxsackievirus
+ ,  Cytomegalovirus , 
+Eastern equine encephalitis virus
+ , 
+ Echovirus
+ , 
+ Japanese encephalitis, which occurs in Asia
+ ,  West Nile virus ,  After the virus enters the body, the brain tissue swells. This swelling may destroy nerve cells, and cause bleeding in the brain and brain damage. Other causes of encephalitis may include: An allergic reaction to vaccinations
+ ,  Autoimmune disease , 
+ Bacterial infections such as  Lyme disease ,  syphilis , and tuberculosis
+ , 
+ Parasites such as roundworms,  cysticercosis , and  toxoplasmosis  in people with  HIV/AIDS  and other people who have a weakened immune system
+ , The effects of cancer , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001376-3" qtype="symptoms">What are the symptoms of Encephalitis ?</Question>
-			<Answer></Answer>
+			<Answer>Some people may have symptoms of a cold or stomach infection before encephalitis symptoms begin. When this infection is not very severe, the symptoms may be similar to those of other illnesses: Fever  that is not very high ,  Mild  headache ,  Low energy and a poor appetite ,  Other symptoms include:  
+ Clumsiness, unsteady gait 
+ ,  Confusion , disorientation,  Drowsiness , Irritability or poor temper control,  Light sensitivity , Stiff neck and back (sometimes),  Vomiting ,  Symptoms in newborns and younger infants may not be as easy to recognize: Body stiffness ,  Irritability and crying more often (these symptoms may get worse when the baby is picked up) ,  Poor feeding ,  Soft spot on the top of the head may bulge out more ,  Vomiting ,  Emergency symptoms:  
+ Loss of consciousness, poor responsiveness, stupor, coma,  
+ Muscle weakness or paralysis 
+ ,  Seizures , Severe headache, Sudden change in mental functions, such as flat mood, impaired judgment, memory loss, or a lack of interest in daily activities , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001376-4" qtype="exams and tests">How to diagnose Encephalitis ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam and ask about symptoms. Tests that may be done include: Brain MRI ,  CT scan of the head , Single-photon emission computed tomography (SPECT), Culture of cerebrospinal fluid (CSF), blood, or urine (however, this test is rarely useful), Electroencephalogram ( EEG ),  Lumbar puncture  and  CSF examination , Tests that detect antibodies to a virus (serology tests), Test that detects tiny amounts of virus DNA (polymerase chain reaction -- PCR), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001376-5" qtype="treatment">What are the treatments for Encephalitis ?</Question>
-			<Answer></Answer>
+			<Answer>The goals of treatment are to provide supportive care (rest, nutrition, fluids) to help the body fight the infection, and to relieve symptoms.  Medicines may include: 
+  Antiviral medicines, if a virus caused the infection
+  , 
+  Antibiotics, if bacteria are the cause
+  , 
+  Antiseizure medicines to prevent seizures
+  , 
+  Steroids to reduce brain swelling
+  , 
+  Sedatives for irritability or restlessness
+  , 
+  Acetaminophen for fever and headache
+  ,  If brain function is severely affected, physical therapy and speech therapy may be needed after the infection is controlled.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001376-6" qtype="outlook">What is the outlook for Encephalitis ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome varies. Some cases are mild and short, and the person fully recovers. Other cases are severe, and permanent problems or death is possible. The  acute  phase normally lasts for 1&#160;to 2 weeks. Fever and symptoms gradually or suddenly disappear. Some people may take several months to fully recover.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001376-7" qtype="complications">What are the complications of Encephalitis ?</Question>
-			<Answer></Answer>
+			<Answer>Permanent brain damage may occur in severe cases of encephalitis. It can affect: Hearing ,  Memory ,  Muscle control ,  Sensation ,  Speech ,  Vision  , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001376-8" qtype="when to contact a medical professional">Do I need to see a doctor for Encephalitis ?</Question>
-			<Answer></Answer>
+			<Answer>Go to the emergency room or call 911 or the local emergency number if you have: Sudden fever ,  Other symptoms of encephalitis , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001376-9" qtype="prevention">How to prevent Encephalitis ?</Question>
-			<Answer></Answer>
+			<Answer>Children and adults should avoid contact with anyone who has encephalitis. Controlling mosquitoes (a mosquito bite can transmit some viruses) may reduce the chance of some infections that can lead to encephalitis. Apply an insect repellant containing the chemical, DEET when you go outside (but DO NOT use DEET products on infants younger than 2 months). ,  Remove any sources of standing water (such as old tires, cans, gutters, and wading pools). ,  Wear long-sleeved shirts and pants when outside, especially at dusk. ,  Children and adults should get routine vaccinations for viruses that can cause encephalitis. People should receive specific vaccines if they are traveling to places such as parts of Asia, where Japanese encephalitis is found. Vaccinate animals to prevent encephalitis caused by the rabies virus.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

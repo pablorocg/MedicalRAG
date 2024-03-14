@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003235" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002276.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Proliferation</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003235-1" qtype="information">What is (are) Proliferation ?</Question>
-			<Answer></Answer>
+			<Answer>Proliferation is the growth of tissue cells. In many diseases, it is abnormal.  Cancer  cells are very prolific. They have higher than normal rates of cell division and growth.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003706" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000686.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Staph infections - self-care at home</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,19 +23,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003706-1" qtype="information">What is (are) Staph infections - self-care at home ?</Question>
-			<Answer></Answer>
+			<Answer>Staph (pronounced staff) is short for Staphylococcus. Staph is a type of germ (bacteria) that can cause infections almost anywhere in the body. One type of staph germ, called methicillin-resistant  Staphylococcus aureus  (MRSA), is harder to treat. This is because  MRSA  is not killed by certain medicines (antibiotics) used to treat other staph germs and may require different medicines from those normally used.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003706-3" qtype="susceptibility">Who is at risk for Staph infections - self-care at home? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003706-5" qtype="treatment">What are the treatments for Staph infections - self-care at home ?</Question>
-			<Answer></Answer>
+			<Answer>If test results show you have a staph infection, treatment will depend on the type of infection you have. Treatment may include: Cleaning and draining the wound. A provider should do this procedure. Do not try to pop open or drain the infection yourself. Keep any sore or wound covered with a clean bandage., Using antibiotics on your skin or taking them by mouth or injection. Be sure to follow your provider's instructions for  how to use antibiotics ., Surgery to remove an infected medical device.,  Follow your provider's instructions for keeping the wound clean. Clean the area as directed and change the dressing often., Wash your hands well with soap and water before and after touching the area and any dressing used on the wound., Throw out used dressings in a sealed bag so that fluid from the wound does not touch anything else., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003706-6" qtype="prevention">How to prevent Staph infections - self-care at home ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

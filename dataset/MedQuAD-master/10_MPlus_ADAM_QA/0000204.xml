@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000204" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007652.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Anal cancer</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,43 +22,43 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000204-1" qtype="information">What is (are) Anal cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Anal cancer is cancer that starts in the anus. The anus is the opening at the end of your rectum. The rectum is the last part of your large intestine where solid waste from food (stool) is stored. Stool leaves your body through the anus when you have a bowel movement. Anal cancer is fairly rare. It spreads slowly and is easy to treat before it spreads.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000204-2" qtype="causes">What causes Anal cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Anal cancer can start anywhere in the anus. Where it starts determines the kind of cancer it is. Squamous cell carcinoma.  This is the most common type of anal cancer. It starts in cells that line the anal canal and grows into the deeper tissue.,  Cloacogenic carcinoma.  Almost all the rest of anal cancers are tumors that start in cells lining the area between the anus and rectum. Cloacogenic carcinoma looks different than squamous cell cancers, but behaves similarly and is treated the same.,  Adenocarcinoma.  This type of anal cancer is rare in the United States. It starts in the anal glands below the anal surface and is often more advanced when it is found.,  Skin cancer.  Some cancers form outside the anus in the perianal area. This area is mainly skin. The tumors here are skin cancers and are treated as skin cancer. ,  The cause of anal cancer is unclear. However, there is a link between anal cancer and the  human papillomavirus or HPV  infection. HPV is a sexually transmitted virus that has been linked to other cancers as well. Other major risk factors include: HIV/AIDS infection.  Anal cancer is more common among HIV/AIDS positive men who have sex with other men.,  Sexual activity.  Having many sexual partners and having anal sex are both major risks. This may be due to the increased risk for HPV and HIV/AIDS infection.,  Smoking.  Quitting will reduce your risk for anal cancer.,  Weak immune system.  HIV/AIDS, organ transplants, certain medicines, and other conditions that weaken the immune system increase your risk.,  Age.  Most people who have anal cancer are age 50 or older. In rare cases, it is seen in people younger than age 35.,  Sex and race.  Anal cancer is more common among women than men in most groups. More African American males get anal cancer than females. , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000204-3" qtype="symptoms">What are the symptoms of Anal cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Rectal bleeding, often minor, is one of the first signs of anal cancer. Often, a person mistakenly thinks the bleeding is caused by  hemorrhoids . Other early signs and symptoms include: A lump in or near the anus, Anal pain, Itching, Discharge from the anus, Change in bowel habits, Swollen lymph nodes in the groin or anal region, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000204-4" qtype="exams and tests">How to diagnose Anal cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Anal cancer is often found by a  digital rectal exam (DRE)  during a routine physical exam. Your health care provider will ask about your health history, including sexual history, past illnesses, and your health habits. Your answers can help your provider understand your risk factors for anal cancer. Your provider may ask for other tests. They might include: Anoscopy ,  Proctoscopy ,  Ultrasound ,  Biopsy ,  If any tests show you have cancer, your provider will likely do more testing to "stage" the cancer.  Staging  helps show how much cancer is in your body and whether it has spread. The stage of the cancer will determine how it is treated.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000204-5" qtype="treatment">What are the treatments for Anal cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment for anal cancer is based on: The stage of the cancer, Where the tumor is located, Whether the cancer has resisted initial treatment or has come back after initial treatment,  In most cases, anal cancer that hasn't spread can be treated with  radiation therapy  and  chemotherapy  together. The combination of radiation and chemotherapy achieves better tumor control than the use of radiation alone. For very small tumors, surgery alone is typically used, instead of radiation and chemotherapy. If cancer remains after the radiation and chemotherapy, surgery is often required. This may involve removing the anus, the rectum, and part of the colon. The new end of the large intestine will then be attached to an opening (stoma) in the abdomen. This procedure is called a  colostomy . Stools moving through the intestine drain through the stoma into a bag attached to the abdomen.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000204-6" qtype="support groups">Where to find support for people with Anal cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Cancer affects how you feel about yourself and your life. You can ease the stress of illness by joining a  cancer support group . Sharing with others who have common experiences and problems can help you feel less alone. You can ask your provider or the staff at the cancer treatment center to refer you to a cancer support group.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000204-7" qtype="outlook">What is the outlook for Anal cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Anal cancer spreads slowly. With early treatment, most people with anal cancer are cancer-free after 5 years.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000204-8" qtype="complications">What are the complications of Anal cancer ?</Question>
-			<Answer></Answer>
+			<Answer>You may have side effects from surgery, chemotherapy, or radiation therapy.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000204-9" qtype="when to contact a medical professional">Do I need to see a doctor for Anal cancer ?</Question>
-			<Answer></Answer>
+			<Answer>See your provider if you notice any of the possible symptoms of anal cancer, especially if you have any of the risk factors for it.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000204-10" qtype="prevention">How to prevent Anal cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Since the cause of anal cancer is unknown, it's not possible to completely prevent it. But you can take steps to lower your risk. Practice safer sex  to help prevent HPV and HIV/AIDS infections. People who have sex with many partners or have unprotected anal sex are at high risk of developing these infections. Using condoms can offer some protection, but not total protection. Talk with your provider about your options., Ask your provider about the  HPV vaccine  and if you should get it., Do not smoke. If you do smoke, quitting can lower your risk for anal cancer as well as other diseases. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

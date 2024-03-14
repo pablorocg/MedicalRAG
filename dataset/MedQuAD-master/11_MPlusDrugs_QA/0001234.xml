@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001234" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a615059.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Trabectedin Injection</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,37 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001234-1" qtype="indication">Who should get Trabectedin Injection and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Trabectedin injection is used to treat liposarcoma (a cancer that begins in fat cells) or leiomyosarcoma (a cancer that begins in smooth muscle tissue) that has spread to other parts of the body and cannot be treated with surgery in people who have already been treated with certain chemotherapy medications. Trabectedin is in a class of medications called alkylating agents. It works by slowing or stopping the growth of cancer cells in your body.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001234-2" qtype="usage">How should Trabectedin Injection be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Trabectedin injection comes as a powder to be mixed with liquid to be injected over 24 hours intravenously (into a vein) by a doctor or nurse in a medical facility. It is usually given once every 3 weeks for as long as your doctor recommends that you receive treatment. Your doctor may delay or stop your treatment with trabectedin injection depending on your response to the medication and any side effects that you experience. Talk to your doctor about how you are feeling during your treatment. Your doctor will probably prescribe a medication for you to take before you receive each dose of trabectedin to help prevent side effects. Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001234-4" qtype="precautions">Are there safety concerns or special precautions about Trabectedin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Before receiving trabectedin injection, tell your doctor and pharmacist if you are allergic to trabectedin injection, any other medications, or any of the ingredients in trabectedin injection. Ask your pharmacist for a list of the ingredients., tell your doctor and pharmacist what other prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take. Be sure to mention any of the following: certain antifungals such as itraconazole (Onmel, Sporanox), ketoconazole (Nizoral), posaconazole (Noxafil), and voriconazole (Vfend); boceprevir (Victrelis); clarithromycin (Biaxin, in Prevpac); conivaptan (Vaprisol); certain medications for HIV including indinavir (Crixivan), lopinavir (in Kaletra), nelfinavir (Viracept), ritonavir (Norvir, in Kaletra, in Technivie, others), and saquinavir (Invirase); nefazodone; phenobarbital; rifampin (Rifadin, Rimactane, in Rifamate, in Rifater); telaprevir (Incivek; no longer available in the U.S.); and telithromycin (Ketek). Your doctor may need to change the doses or timing of your medications or monitor you carefully for side effects. Many other medications may also interact with trabectedin, so be sure to tell your doctor about all the medications you are taking, even those that do not appear on this list., tell your doctor what herbal products you are taking, especially St. John's wort., tell your doctor if you have or have ever had liver or kidney disease., you should know that trabectedin injection may cause infertility (difficulty becoming pregnant); however, you should not assume that you cannot get pregnant. Tell your doctor if you are pregnant or plan to become pregnant. If you are female, you should use birth control to prevent pregnancy during your treatment with trabectedin and for at least 2 months after you stop using the medication. If you are male, you and your female partner should use birth control during your treatment with trabectedin and continue for 5 months after you stop receiving trabectedin injection. If you become pregnant while using trabectedin injection, call your doctor. Trabectedin injection may harm the fetus and increase the risk of a pregnancy loss., tell your doctor if you are breast-feeding. Do not breastfeed while you are receiving trabectedin injection., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001234-5" qtype="dietary">What special dietary instructions should I follow with Trabectedin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Do not eat grapefruit or drink grapefruit juice while receiving this medication.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001234-6" qtype="side effects">What are the side effects or risks of Trabectedin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Trabectedin injection may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ tiredness, headache, joint pain, constipation, diarrhea, decreased appetite, difficulty sleeping or falling asleep,  Some side effects can be serious. If you experience any of these symptoms, call your doctor immediately:
+ redness, swelling, itchiness and discomfort or leakage at the injection site, swelling of the face, difficulty breathing, chest tightness, wheezing, rash, severe dizziness or lightheadedness, fever, unusual bruising or bleeding, paleness, yellowing of skin and eyes, pain in the upper stomach area, nausea, vomiting, difficulty concentrating, confusion, chest pain, shortness of breath, swelling of your legs, ankles, or feet, muscle pain or weakness,  Trabectedin injection may cause other side effects. Call your doctor if you have any unusual problems while receiving this medication. If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001234-7" qtype="emergency or overdose">What to do in case of emergency or overdose of Trabectedin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001234-8" qtype="other information">What other information should I know about Trabectedin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor and the laboratory. Your doctor will order certain lab tests to check your body's response to trabectedin. Ask your pharmacist any questions you have about trabectedin injection. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001234-9" qtype="brand names">What are the brand names of Trabectedin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Yondelis &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

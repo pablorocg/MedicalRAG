@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003318" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000665.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Questions to ask your doctor before knee replacement</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003318-1" qtype="information">What is (are) Questions to ask your doctor before knee replacement ?</Question>
-			<Answer></Answer>
+			<Answer>Knee-joint replacement  is surgery to replace all or part of the knee joint with a man-made or artificial joint. The artificial joint is called a prosthesis. Below are questions you may want to ask your surgeon or health care provider about the surgery.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

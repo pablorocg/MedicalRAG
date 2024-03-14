@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003538" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003544.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Serum globulin electrophoresis</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003538-1" qtype="information">Do you have information about Serum globulin electrophoresis</Question>
-			<Answer></Answer>
+			<Answer>The serum globulin electrophoresis test measures the levels of proteins called globulins in the fluid part of a blood sample. This fluid is called serum.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

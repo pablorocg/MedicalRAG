@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000464" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003902.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bladder biopsy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000464-1" qtype="information">Do you have information about Bladder biopsy</Question>
-			<Answer></Answer>
+			<Answer>Bladder  biopsy  is a procedure in which small pieces of tissue&#160;are removed from the bladder. The tissue is tested under a microscope.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

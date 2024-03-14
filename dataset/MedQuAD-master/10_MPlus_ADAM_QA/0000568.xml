@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000568" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002162.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Breastfeeding - resources</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000568-1" qtype="information">Do you have information about Breastfeeding - resources</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on breastfeeding and  breastfeeding problems : American College of Obstetricians and Gynecologists --  www.acog.org/womens-health/faqs/breastfeeding-your-baby , La Leche League International --  www.llli.org , March of Dimes --  www.marchofdimes.org/baby/breastfeeding-your-baby.aspx , Centers for Disease Control and Prevention --  www.cdc.gov/breastfeeding/ , US Department of Agriculture WIC breastfeeding support --  wicbreastfeeding.fns.usda.gov/breastfeeding-basics , US Department of Health &amp; Human Services --  www.womenshealth.gov/Breastfeeding , American Academy of Pediatrics --  www.healthychildren.org/English/ages-stages/baby/breastfeeding/Pages/default.aspx , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

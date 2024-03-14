@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004249" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002407.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Vitamin K</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -16,7 +15,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004249-1" qtype="information">Do you have information about Vitamin K</Question>
-			<Answer></Answer>
+			<Answer>Vitamin K is a fat-soluble vitamin. Your body stores vitamin K in the liver and other body tissues, including the brain, heart, pancreas, and bone.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001256" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000257.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Diverticulitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,35 +16,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001256-1" qtype="information">What is (are) Diverticulitis ?</Question>
-			<Answer></Answer>
+			<Answer>Diverticula are small, bulging sacs or pouches that form on the inner wall of the intestine. Diverticulitis occurs when these pouches become inflamed or infected. Most often, these pouches are in the lower part of the large intestine (colon).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001256-2" qtype="causes">What causes Diverticulitis ?</Question>
-			<Answer></Answer>
+			<Answer>The formation of pouches or sacs on the intestinal lining is called diverticulosis. It is found in more than half of Americans over age 60. However, no one knows exactly what causes the pouches to form. Eating a low-fiber diet mostly made up of processed foods may be a cause. Constipation and hard stools are more likely when you do not eat enough fiber. Straining to pass stools increases the pressure in the colon or intestines, which may lead to the formation of these pouches. In some cases, one of the pouches can become inflamed and a small tear develops in the lining of the intestine. This can lead to an infection at the site. When this occurs, the condition is called diverticulitis. The cause of diverticulitis is not known. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001256-3" qtype="symptoms">What are the symptoms of Diverticulitis ?</Question>
-			<Answer></Answer>
+			<Answer>People with  diverticulosis  often have no symptoms, but they may have bloating and cramping in the lower part of the belly. Rarely, they may notice blood in their stool or on toilet paper. Symptoms of diverticulitis are more severe and often start suddenly, but they may become worse over a few days. They include: Tenderness, usually in the left lower part of the abdomen, Bloating or gas, Fever and chills, Nausea and vomiting, Not feeling hungry and not eating , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001256-4" qtype="exams and tests">How to diagnose Diverticulitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will examine you. You may need blood tests to see if you have an infection. Other tests that help diagnose diverticulitis may include: CT scan ,  Ultrasound of the abdomen , X-rays of the abdomen , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001256-5" qtype="treatment">What are the treatments for Diverticulitis ?</Question>
-			<Answer></Answer>
+			<Answer>The treatment of diverticulitis depends on how serious the symptoms are. Some people may need to be in the hospital, but most of the time, the problem can be treated at home. To help with the pain, your provider may suggest that you: Rest in bed and use a heating pad on your belly., Take pain medicines (ask your provider which ones you should use)., Drink only fluids for a day or two, and then slowly begin drinking thicker liquids and then eating foods. ,  The provider may treat you with antibiotics. After you are better, your provider will suggest that you add more fiber to your diet. Eating more fiber can help prevent future attacks. If you have bloating or gas, reduce the amount of fiber you eat for a few days. Once these pouches have formed, you will have them for life. Diverticulitis can return, but some providers think a  high-fiber diet  may lessen your chances of a recurrence.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001256-6" qtype="outlook">What is the outlook for Diverticulitis ?</Question>
-			<Answer></Answer>
+			<Answer>Most often, this is a mild condition that responds well to treatment. Some people will have more than one attack of diverticulitis. Surgery may be needed in some cases. Many times, providers will recommend that you have a  colonoscopy  after diverticulitis has healed. This can help to rule out other conditions that could mimic diverticulitis symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001256-7" qtype="complications">What are the complications of Diverticulitis ?</Question>
-			<Answer></Answer>
+			<Answer>More serious problems that may develop are: Abnormal connections that form between parts of the colon or between the colon and another part of the body (fistula), Hole or tear in the colon (perforation), Narrowed area in the colon (stricture), Pocket filled with pus or infection (abscess) , Bleeding from the diverticula, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001256-8" qtype="when to contact a medical professional">Do I need to see a doctor for Diverticulitis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if symptoms of diverticulitis occur. Also call if you have diverticulitis and you have: Blood in your stools, Fever above 100.4&#176;F (38&#176;C) that does not go away, Nausea, vomiting, or chills, Sudden belly or back pain that gets worse or is very severe , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

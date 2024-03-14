@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002273" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000849.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Keloids</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,35 +21,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002273-1" qtype="information">What is (are) Keloids ?</Question>
-			<Answer></Answer>
+			<Answer>A keloid is a growth of extra scar tissue. It occurs where the skin has healed after an injury.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002273-2" qtype="causes">What causes Keloids ?</Question>
-			<Answer></Answer>
+			<Answer>Keloids can form after skin injuries from: Acne , Burns,  Chickenpox , Ear or body piercing, Minor scratches, Cuts from surgery or trauma, Vaccination sites ,  Keloids are most common in people younger than 30. Black people, Asians, and Hispanics are more prone to developing keloids. Keloids often run in families. Sometimes, a person may not recall what injury caused a keloid to form.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002273-3" qtype="symptoms">What are the symptoms of Keloids ?</Question>
-			<Answer></Answer>
+			<Answer>A keloid may be: Flesh-colored, red, or pink, Located over the site of a wound or injury, Lumpy or ridged, Tender and itchy, Irritated from friction such as rubbing on clothing ,  A keloid will tan darker than the skin around it if exposed to the sun during the first year after it forms. The darker color may not go away.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002273-4" qtype="exams and tests">How to diagnose Keloids ?</Question>
-			<Answer></Answer>
+			<Answer>Your doctor will look at your skin to see if you have a keloid.&#160;A  skin biopsy  may be done to rule out other types of skin growths (tumors).</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002273-5" qtype="treatment">What are the treatments for Keloids ?</Question>
-			<Answer></Answer>
+			<Answer>Keloids often do not need treatment. If the keloid bothers you, discuss your concern with a skin doctor (dermatologist). The doctor may recommend these treatments to reduce the size of the keloid: Corticosteroid injections, Freezing (cryotherapy), Laser treatments, Radiation, Surgical removal, Silicone gel or patches ,  These treatments, especially surgery, sometimes cause the keloid scar to become larger.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002273-6" qtype="outlook">What is the outlook for Keloids ?</Question>
-			<Answer></Answer>
+			<Answer>Keloids usually are not harmful to your health, but they may affect how you look.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002273-7" qtype="when to contact a medical professional">Do I need to see a doctor for Keloids ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if: You develop keloids and want to have them removed or reduced ,  You develop new symptoms , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002273-8" qtype="prevention">How to prevent Keloids ?</Question>
-			<Answer></Answer>
+			<Answer>When you are in the sun: Cover a keloid that is forming with a patch or adhesive bandage., Use sunblock. ,  Continue to follow these steps for at least 6 months after injury or surgery for adults. Children may need up to 18 months of prevention. Imiquimod cream may help prevent keloids from forming after surgery. The cream may also prevent keloids from returning after they are removed.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

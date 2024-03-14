@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002827" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003822.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Nuclear ventriculography</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002827-1" qtype="information">Do you have information about Nuclear ventriculography</Question>
-			<Answer></Answer>
+			<Answer>Nuclear ventriculography is a test that uses radioactive materials called tracers to show the heart chambers. The procedure is  noninvasive . The instruments do not directly touch the heart.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002128" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001478.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Idiopathic livedo reticularis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,11 +20,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002128-1" qtype="information">What is (are) Idiopathic livedo reticularis ?</Question>
-			<Answer></Answer>
+			<Answer>Livedo reticularis (LR) is a skin symptom. It refers to a netlike pattern of reddish-blue skin discoloration. The legs are often affected. The condition is linked to swollen blood vessels. It may get worse when the temperature is cold.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002128-2" qtype="treatment">What are the treatments for Idiopathic livedo reticularis ?</Question>
-			<Answer></Answer>
+			<Answer> For primary LR: Keeping warm, especially the legs, may help relieve the skin discoloration., Do not smoke., Avoid stressful situations., If you are uncomfortable with the appearance of your skin, talk to your provider about treatment, such as taking medicines that can help with the skin discoloration.,  For secondary LR, treatment depends on the underlying disease. For example, if blood clots are the problem, your provider may suggest that you try taking blood thinning medicines.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

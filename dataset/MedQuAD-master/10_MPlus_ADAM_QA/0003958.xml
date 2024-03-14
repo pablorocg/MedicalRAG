@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003958" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001640.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tongue tie</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,27 +19,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003958-1" qtype="information">What is (are) Tongue tie ?</Question>
-			<Answer></Answer>
+			<Answer>Tongue tie is when the bottom of the tongue is attached to the floor of the mouth. This may make it hard for the tip of the tongue to move freely.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003958-2" qtype="causes">What causes Tongue tie ?</Question>
-			<Answer></Answer>
+			<Answer>The tongue is connected to the bottom of the mouth by a band of tissue called the lingual frenulum. In people with tongue tie, this band is overly short and thick. The exact cause of tongue tie is not known. Your  genes  may play a role. The problem tends to run in some families. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003958-3" qtype="symptoms">What are the symptoms of Tongue tie ?</Question>
-			<Answer></Answer>
+			<Answer>In a newborn or infant, the symptoms of tongue tie are similar to the symptoms in a child who is having problems with  breastfeeding . Symptoms may include: Acting irritable or fussy, even after feeding., Difficulty creating or keeping suction on the nipple. The infant may become tired in 1 or 2 minutes, or fall asleep before eating enough., Poor weight gain or weight loss., Problems latching onto the nipple. The infant may just chew on the nipple instead., There may be speech and pronunciation difficulties in older children. ,  The breastfeeding mother may have problems with breast pain, plugged milk ducts, or painful breasts, and may feel frustrated.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003958-4" qtype="exams and tests">How to diagnose Tongue tie ?</Question>
-			<Answer></Answer>
+			<Answer>Most experts do not recommend that health care providers examine newborns for tongue tie unless there are breastfeeding problems. Most providers only consider tongue tie when: The mother and baby have had problems starting breastfeeding., The mother has received at least 2 to 3 days of support from a breastfeeding (lactation) specialist. , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003958-5" qtype="treatment">What are the treatments for Tongue tie ?</Question>
-			<Answer></Answer>
+			<Answer>Most breastfeeding problems can be managed easily. A person who specializes in breastfeeding (lactation consultant) can help with breastfeeding issues. Tongue tie surgery, called a frenulotomy, is rarely needed. The surgery involves cutting and releasing the tethered frenulum under the tongue. It is most often done in the surgeon's office. Infection or bleeding afterward is possible, but rare. Surgery for more severe cases or for older children is done in a hospital operating room. A surgical procedure called a z-plasty closure may be needed to prevent scar tissue from forming.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003958-6" qtype="complications">What are the complications of Tongue tie ?</Question>
-			<Answer></Answer>
+			<Answer>On rare occasions, tongue tie has been linked to problems with tooth development, swallowing, or speech.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

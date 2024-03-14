@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000532" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001421.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Brain herniation</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,39 +24,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000532-1" qtype="information">What is (are) Brain herniation ?</Question>
-			<Answer></Answer>
+			<Answer>Brain herniation is the shifting of the brain tissue from one space in the skull to another through various folds and openings.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000532-2" qtype="causes">What causes Brain herniation ?</Question>
-			<Answer></Answer>
+			<Answer>Brain herniation occurs when something inside the skull produces pressure that moves brain tissues. This is most often the result of brain swelling or bleeding from a head injury,  stroke , or brain tumor. Brain herniation can be a side effect of tumors in the brain, including: Metastatic brain tumor ,  Primary brain tumor ,  Herniation of the brain can also be caused by other factors that lead to increased pressure inside the skull, including: Collection of pus and other material in the brain, usually from a bacterial or fungal infection ( abscess ), Bleeding in the brain (hemorrhage), Buildup of fluid inside the skull that leads to brain swelling ( hydrocephalus ), Strokes that cause brain swelling, Swelling after radiation therapy, Defect in brain structure, such as a condition called Arnold-Chiari malformation ,  Brain herniation can occur: From side to side or down, under, or across rigid membrane like the tentorium or falx, Through a natural bony opening at the base of the skull called the foramen magnum, Through openings created during brain surgery , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000532-3" qtype="symptoms">What are the symptoms of Brain herniation ?</Question>
-			<Answer></Answer>
+			<Answer>Signs and symptoms may include: High blood pressure, Irregular or slow pulse, Severe headache, Weakness, Cardiac arrest (no pulse), Loss of consciousness,  coma , Loss of all brainstem reflexes (blinking, gagging, and pupils reacting to light) 
+ ,  Respiratory arrest  (no breathing), Wide (dilated) pupils and no movement in one or both eyes , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000532-4" qtype="exams and tests">How to diagnose Brain herniation ?</Question>
-			<Answer></Answer>
+			<Answer>A brain and nervous system exam shows changes in alertness. Depending on the severity of the herniation and the part of the brain that is being pressed on, there will be problems with one or more brain-related reflexes and nerve functions. Tests may include: X-ray of the skull and neck,  CT scan of the head ,  MRI scan of the head , Blood tests if an abscess or a bleeding disorder is suspected , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000532-5" qtype="treatment">What are the treatments for Brain herniation ?</Question>
-			<Answer></Answer>
+			<Answer>Brain herniation is a medical emergency. The goal of treatment is to save the person's life. To help reverse or prevent a brain herniation, the medical team will treat increased swelling and pressure in the brain. Treatment may involve: Placing a drain into the brain to help remove cerebrospinal fluid (CSF), Medicines to reduce swelling, especially if there is a brain tumor, Medicines that decrease brain swelling, such as mannitol, saline, or other diuretics, Placing a tube in the airway ( endotracheal intubation ) and increasing the breathing rate to reduce the levels of carbon dioxide (CO 2 ) in the blood, Removing blood or blood clots if they are raising pressure inside the skull and causing herniation, Removing part of the skull to give the brain more room , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000532-6" qtype="outlook">What is the outlook for Brain herniation ?</Question>
-			<Answer></Answer>
+			<Answer>People who have a brain herniation usually have a serious brain injury. They may already have a low chance of recovery due to the injury that caused the herniation. When herniation occurs, it further lowers the chance of recovery. The outlook varies, depending on where in the brain the herniation occurs. Without treatment, death is likely. There can be damage to parts of the brain that control breathing and blood flow. This can rapidly lead to death or brain death.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000532-7" qtype="complications">What are the complications of Brain herniation ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Brain death, Permanent and significant neurologic problems , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000532-8" qtype="when to contact a medical professional">Do I need to see a doctor for Brain herniation ?</Question>
-			<Answer></Answer>
+			<Answer>Call 911 or the local emergency number or take the person to a hospital emergency room if they develop decreased alertness or other symptoms, especially if there has been a head injury or if the person has a brain tumor or blood vessel problem.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000532-9" qtype="prevention">How to prevent Brain herniation ?</Question>
-			<Answer></Answer>
+			<Answer>Prompt treatment of  increased intracranial pressure  and related disorders may reduce the risk for brain herniation.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

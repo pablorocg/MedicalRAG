@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003729" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003757.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Stool Gram stain</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003729-1" qtype="information">Do you have information about Stool Gram stain</Question>
-			<Answer></Answer>
+			<Answer>A stool Gram stain is a laboratory test that uses different chemical stains to detect and identify bacteria in a stool sample. The Gram stain method is sometimes used to quickly diagnose bacterial infections.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002708" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001190.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Muscular dystrophy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002708-1" qtype="information">What is (are) Muscular dystrophy ?</Question>
-			<Answer></Answer>
+			<Answer>Muscular dystrophy is a group of inherited disorders that cause  muscle weakness  and loss of muscle tissue, which get worse over time.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002708-2" qtype="causes">What causes Muscular dystrophy ?</Question>
-			<Answer></Answer>
+			<Answer>Muscular dystrophies, or MD, are a group of inherited conditions. This means they are passed down through families. They may occur in childhood or adulthood. There are many different types of muscular dystrophy. They include: Becker muscular dystrophy ,  Duchenne muscular dystrophy , Emery-Dreifuss muscular dystrophy,  Facioscapulohumeral muscular dystrophy ,  Limb-girdle muscular dystrophy , Oculopharyngeal muscular dystrophy, Myotonic muscular dystrophy, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002708-3" qtype="symptoms">What are the symptoms of Muscular dystrophy ?</Question>
-			<Answer></Answer>
+			<Answer>Muscular dystrophy can affect adults, but the more severe forms tend to occur in early childhood. Symptoms vary among the different types of muscular dystrophy. All of the muscles may be affected. Or, only specific groups of muscles may be affected, such as those around the pelvis, shoulder, or face. The muscle weakness slowly gets worse and symptoms can include: Delayed development of muscle motor skills, Difficulty using one or more muscle groups,  Drooling ,  Eyelid drooping  ( ptosis ), Frequent falls, Loss of strength in a muscle or group of muscles as an adult, Loss in muscle size,  Problems walking  (delayed walking) ,  Intellectual disability is present in some types of muscular dystrophy.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002708-4" qtype="exams and tests">How to diagnose Muscular dystrophy ?</Question>
-			<Answer></Answer>
+			<Answer>A physical examination and your medical history will help the health care provider determine the type of muscular dystrophy. Specific muscle groups are affected by different types of muscular dystrophy. The exam may show: Weakness of certain muscles, Abnormally curved spine ( scoliosis ), Joint contractures ( clubfoot , claw-hand, or others), Low muscle tone ( hypotonia ) ,  Some types of muscular dystrophy involve the heart muscle, causing  cardiomyopathy  or&#160;abnormal heart rhythm ( arrhythmia ). Often, there is a loss of muscle mass ( wasting ). This may be hard to see because some types of muscular dystrophy cause a buildup of fat and connective tissue that makes the muscle appear larger. This is called pseudohypertrophy. A  muscle biopsy  may be used to confirm the diagnosis. In some cases, a DNA blood test may be all that is needed. Other tests may include: Heart testing -- electrocardiography (ECG), Nerve testing --  nerve conduction  and electromyography ( EMG ), Urine and blood testing, including  CPK  level, Genetic testing for some forms of muscular dystrophy , Muscle biopsy, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002708-5" qtype="treatment">What are the treatments for Muscular dystrophy ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known cures for the various muscular dystrophies. The goal of treatment is to control symptoms. Physical therapy may help maintain muscle strength and function. Leg braces and a wheelchair can improve mobility and self-care. In some cases, surgery on the spine or legs may help improve function. Corticosteroids taken by mouth are sometimes prescribed to children with certain muscular dystrophies to keep them walking for as long as possible. The person should be as active as possible. No activity at all (such as bedrest) can make the disease worse. Some people with breathing weakness may benefit from devices to assist breathing. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002708-6" qtype="support groups">Where to find support for people with Muscular dystrophy ?</Question>
-			<Answer></Answer>
+			<Answer>You can ease the stress of illness by joining a  support group  where members share common experiences and problems.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002708-7" qtype="outlook">What is the outlook for Muscular dystrophy ?</Question>
-			<Answer></Answer>
+			<Answer>The severity of disability depends on the type of muscular dystrophy. All types of muscular dystrophy slowly get worse, but how fast this happens varies widely. Some types of muscular dystrophy, such as Duchenne muscular dystrophy in boys, are deadly. Other types cause little disability and people have a normal lifespan.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002708-8" qtype="when to contact a medical professional">Do I need to see a doctor for Muscular dystrophy ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if: You have symptoms of muscular dystrophy., You have a personal or family history of muscular dystrophy and you are planning to have children. , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002708-9" qtype="prevention">How to prevent Muscular dystrophy ?</Question>
-			<Answer></Answer>
+			<Answer>Genetic counseling is advised when there is a family history of muscular dystrophy. Women may have no symptoms, but still carry the gene for the disorder. Duchenne muscular dystrophy can be detected with about 95% accuracy by genetic studies done during pregnancy.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

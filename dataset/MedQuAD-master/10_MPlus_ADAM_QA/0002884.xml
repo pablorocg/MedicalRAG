@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002884" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000376.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Osteomalacia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002884-1" qtype="information">What is (are) Osteomalacia ?</Question>
-			<Answer></Answer>
+			<Answer>Osteomalacia is softening of the bones. It most often occurs because of a problem with  vitamin D , which helps your body absorb calcium. Your body needs calcium to maintain the strength and hardness of your bones. In children, the condition is called  rickets .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002884-2" qtype="causes">What causes Osteomalacia ?</Question>
-			<Answer></Answer>
+			<Answer>A lack of the proper amount of calcium in the blood can lead to weak and soft bones. Low blood calcium can be caused by low vitamin D level in the blood. Vitamin D is absorbed from food or produced by the skin when exposed to sunlight. Lack of vitamin D produced by the skin may occur in people who: Live in climates with little exposure to sunlight, Must stay indoors, Work indoors during the daylight hours, Wear clothes that cover most of their skin, Have dark skin pigmentation, Use very strong sunscreen ,  You may not get enough vitamin D from your diet if you: Are lactose intolerant (have trouble digesting milk products), Do not eat or drink milk products (more common in older adults), Follow a vegetarian diet, Are not able to absorb vitamin D well in the intestines, such as after gastric bypass surgery or due to a gastrointestinal disease,  Other conditions that may cause osteomalacia include: Cancer -- rare tumors that cause low phosphate level in the kidney,  Kidney failure  and  acidosis , Lack of enough phosphates in the diet, Liver disease -- the liver cannot convert vitamin D to its active form, Side effects of medicines used to treat  seizures , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002884-3" qtype="symptoms">What are the symptoms of Osteomalacia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Bone fractures that happen without a real injury,  Muscle weakness , Widespread  bone pain , especially in the hips,  Symptoms may also occur due to low calcium level. These include: Numbness  around the mouth, Numbness or tingling of the arms and legs,  Spasms or cramps of the hands or feet , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002884-4" qtype="exams and tests">How to diagnose Osteomalacia ?</Question>
-			<Answer></Answer>
+			<Answer>Blood tests will be done to check vitamin D, creatinine, calcium,  phosphate , electrolyte, alkaline phosphatase, and parathyroid hormone levels. Bone x-rays  and a  bone density test  can help detect pseudofractures, bone loss, and bone softening. More importantly, osteomalacia can look like weakening of the bones from  osteoporosis  on bone density testing. In some cases, a  bone biopsy  will be done to see if bone softening is present.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002884-5" qtype="treatment">What are the treatments for Osteomalacia ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment may involve vitamin D, calcium, and phosphorus supplements taken by mouth. People who cannot absorb nutrients well through the intestines may need larger doses of vitamin D and calcium. This includes people who have&#160;some types of weight loss surgery. People with certain conditions may need regular blood tests to monitor blood levels of phosphorus and calcium.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002884-6" qtype="outlook">What is the outlook for Osteomalacia ?</Question>
-			<Answer></Answer>
+			<Answer>Some people with vitamin deficiency disorders will get better within a few weeks. With treatment, healing should happen within 6 months.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002884-7" qtype="complications">What are the complications of Osteomalacia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms can return.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002884-8" qtype="when to contact a medical professional">Do I need to see a doctor for Osteomalacia ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have symptoms of osteomalacia, or if you think that you may be at risk for this disorder.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002884-9" qtype="prevention">How to prevent Osteomalacia ?</Question>
-			<Answer></Answer>
+			<Answer>Eating a diet rich in vitamin D and calcium and getting sufficient exposure to sunlight can help prevent osteomalacia due to vitamin D deficiency.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002974" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003596.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>PBG urine test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002974-1" qtype="information">Do you have information about PBG urine test</Question>
-			<Answer></Answer>
+			<Answer>Porphobilinogen (PBG) is one of several types of porphyrins found in your body. Porphyrins help form many important substances in the body. One of these is hemoglobin, the protein in red blood cells that carries oxygen in the blood. Porphyrins usually leave your body through urine or stools. If this process does not occur, porphyrins such as PBG can build up in your body. This article describes the test to measure the amount of PBG in a urine sample.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

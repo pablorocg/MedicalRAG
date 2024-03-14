@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001214" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002837.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Diazinon poisoning</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,23 +23,29 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001214-1" qtype="information">What is (are) Diazinon poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Diazinon is an insecticide, a product used to kill or control bugs. Poisoning can occur if you swallow diazinon. This is for information only and not for use in the treatment or management of an actual poison exposure. If you have an exposure, you should call your local emergency number (such as 911) or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. For information on other insecticide poisonings, see  Insecticides .</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001214-4" qtype="symptoms">What are the symptoms of Diazinon poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Below are symptoms of diazinon poisoning in different parts of the body. AIRWAYS AND LUNGS Chest tightness, Difficulty breathing, No breathing ,  
+BLADDER AND KIDNEYS Increased urination, Inability to control urine flow (incontinence),  
+EYES, EARS, NOSE, AND THROAT Increased salivation,  Increased tears in the eyes , Small or dilated pupils that do not react to light ,  
+HEART AND BLOOD Low or high blood pressure, Slow or rapid heart rate, Weakness ,  
+NERVOUS SYSTEM Agitation,  Anxiety ,  Coma , Confusion, Convulsions,  Dizziness , Headache , Muscle Twitching,  
+SKIN Blue lips and fingernails, Sweating ,  
+STOMACH AND GASTROINTESTINAL TRACT Abdominal cramps, Diarrhea, Loss of appetite, Nausea and vomiting , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001214-5" qtype="considerations">What to do for Diazinon poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001214-8" qtype="outlook">What is the outlook for Diazinon poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>People who continue to improve over the first 4 to 6 hours after receiving medical treatment usually recover. Prolonged treatment often is needed to reverse the poisoning. This may include staying in the hospital intensive care unit and getting long-term therapy. Some effects of the poison may last for weeks or months, or even longer. Keep all chemicals, cleaners, and industrial products in their original containers and marked as poison, and out of the reach of children. This will reduce the risk of poisoning and overdose.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001214-9" qtype="outlook">What is the outlook for Diazinon poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>People who continue to improve over the first 4 to 6 hours after receiving medical treatment usually recover. Prolonged treatment often is needed to reverse the poisoning. This may include staying in the hospital intensive care unit and getting long-term therapy. Some effects of the poison may last for weeks or months, or even longer. Keep all chemicals, cleaners, and industrial products in their original containers and marked as poison, and out of the reach of children. This will reduce the risk of poisoning and overdose.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

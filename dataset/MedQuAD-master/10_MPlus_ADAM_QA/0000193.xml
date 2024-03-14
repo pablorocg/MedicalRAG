@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000193" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002759.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ammonia poisoning</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,23 +16,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000193-1" qtype="information">What is (are) Ammonia poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Ammonia is a strong, colorless gas. If the gas is dissolved in water, it is called liquid ammonia. Poisoning may occur if you breathe in ammonia. Poisoning may also occur if you swallow or touch products that contain very large amounts of ammonia. WARNING: Never mix ammonia with bleach. This causes the release of toxic chlorine gas, which can be deadly. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000193-4" qtype="symptoms">What are the symptoms of Ammonia poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms can affect many parts of the body. AIRWAYS, LUNGS, AND CHEST Cough, Chest pain (severe), Chest tightness, Difficulty breathing, Rapid breathing, Wheezing ,  BODY-WIDE SYMPTOMS Fever ,  EYES, EARS, NOSE, MOUTH, AND THROAT Tearing and burning of eyes, Temporary blindness, Throat pain (severe), Mouth pain, Lip swelling ,  HEART AND BLOOD Rapid, weak pulse,  Collapse  and shock ,  NERVOUS SYSTEM Confusion, Difficulty walking, Dizziness, Lack of coordination,  Restlessness , Stupor (altered level of consciousness) ,  SKIN Bluish-colored lips and fingernails , Severe burns if contact is longer than a few minutes ,  STOMACH AND GASTROINTESTINAL TRACT Severe stomach pain, Vomiting , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000193-5" qtype="considerations">What to do for Ammonia poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000193-8" qtype="outlook">What is the outlook for Ammonia poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Damage is related to the amount and strength (concentration) of the ammonia. Most household cleaners are relatively weak and cause little or mild damage. Industrial strength cleaners can cause severe burns and injury. Survival past 48 hours most often indicates recovery will occur.  Chemical burns  that occurred in the eye frequently heal; however, permanent blindness may result.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000193-9" qtype="outlook">What is the outlook for Ammonia poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Damage is related to the amount and strength (concentration) of the ammonia. Most household cleaners are relatively weak and cause little or mild damage. Industrial strength cleaners can cause severe burns and injury. Survival past 48 hours most often indicates recovery will occur.  Chemical burns  that occurred in the eye frequently heal; however, permanent blindness may result.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

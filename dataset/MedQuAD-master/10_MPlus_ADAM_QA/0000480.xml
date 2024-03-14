@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000480" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002186.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Blindness - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000480-1" qtype="information">What is (are) Blindness - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on  blindness : American Council for the Blind --  www.acb.org/ , American Foundation for the Blind --  www.afb.org/default.aspx , Centers for Disease Control and Prevention --  www.cdc.gov/visionhealth/vehss/data/studies/vision-impairment-and-blindness.html , Foundation Fighting Blindness --  www.fightingblindness.org , National Eye Institute --  www.nei.nih.gov , National Library Service for the Blind and Physically Handicapped --  www.loc.gov/nls , US National Library of Medicine, MedlinePlus --  medlineplus.gov/ency/article/003040.htm , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

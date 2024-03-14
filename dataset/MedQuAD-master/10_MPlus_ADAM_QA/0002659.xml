@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002659" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007634.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Mohs micrographic surgery</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002659-1" qtype="information">Do you have information about Mohs micrographic surgery</Question>
-			<Answer></Answer>
+			<Answer>Mohs micrographic surgery is a way to treat and cure certain skin cancers. Surgeons trained in the Mohs procedure can do this surgery. It allows skin cancer to be removed with less damage to the healthy skin around it.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

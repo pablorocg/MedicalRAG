@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003932" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003829.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Thyroid scan</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003932-1" qtype="information">Do you have information about Thyroid scan</Question>
-			<Answer></Answer>
+			<Answer>A thyroid scan uses a radioactive iodine tracer to examine the structure and function of the thyroid gland. This test is often done together with a  radioactive iodine uptake test .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

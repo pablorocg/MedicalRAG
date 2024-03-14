@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003780" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001554.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Suicide and suicidal behavior</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,31 +17,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003780-1" qtype="information">What is (are) Suicide and suicidal behavior ?</Question>
-			<Answer></Answer>
+			<Answer>Suicide is the act of taking one's own life on purpose. Suicidal behavior is any action that could cause a person to die, such as taking a drug overdose or crashing a car on purpose.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003780-2" qtype="causes">What causes Suicide and suicidal behavior ?</Question>
-			<Answer></Answer>
+			<Answer>Suicide and suicidal behaviors usually occur in people with one or more of the following: Bipolar disorder ,  Borderline personality disorder ,  Depression ,  Drug  or  alcohol  use, Post-traumatic stress disorder ( PTSD ),  Schizophrenia , History of physical, sexual, or emotional abuse, Stressful life issues, such as serious financial or relationship problems , Diagnosis of a terminal illness,  People who try to take their own life are often trying to get away from a situation that seems impossible to deal with. Many who attempt suicide are seeking relief from: Feeling ashamed, guilty, or like a burden to others, Feeling like a victim, Feelings of rejection, loss, or loneliness,  Suicidal behaviors may occur when there is a situation or event that the person finds overwhelming, such as: Aging (older people have the highest rate of suicide), Death of a loved one, Drug or alcohol use, Emotional trauma, Serious physical illness or pain, Unemployment or money problems ,  Risk factors for suicide in teenagers include: Access to guns, Family member who completed suicide, History of hurting themselves on purpose, History of being neglected or abused, Living in communities where there have been recent outbreaks of suicide in young people, Romantic breakup,  While men are more likely than women to die by suicide, women are twice as likely to attempt suicide. Most suicide attempts do not result in death. Many of these attempts are done in a way that makes rescue possible. These attempts are often a cry for help. Some people attempt suicide in a way that is less likely to be fatal, such as poisoning or overdose. Men are more likely to choose violent methods, such as shooting themselves. As a result, suicide attempts by men are more likely to result in death. Relatives of people who attempt or complete suicide often blame themselves or become very angry. They may see the suicide attempt as selfish. However, people who attempt suicide often mistakenly believe that they are doing their friends and relatives a favor by taking themselves out of the world.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003780-3" qtype="symptoms">What are the symptoms of Suicide and suicidal behavior ?</Question>
-			<Answer></Answer>
+			<Answer>Often, but not always, a person may show certain signs and behaviors before a suicide attempt, such as: Having trouble concentrating or thinking clearly, Giving away belongings, Talking about going away or the need to "get my affairs in order", Suddenly changing behavior, especially calmness after a period of anxiety, Losing interest in activities&#160;they used to enjoy, Self-destructive behaviors, such as heavily drinking alcohol, using illegal drugs, or cutting their body,  Pulling away from friends or not wanting to go out ,  Suddenly having trouble in school or work ,  Talking about death or suicide, or even saying that they want to hurt themselves ,  Talking about feeling hopeless or guilty ,  Changing sleep or eating habits ,  Arranging ways to take their own life (such as buying a gun or many pills) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003780-4" qtype="treatment">What are the treatments for Suicide and suicidal behavior ?</Question>
-			<Answer></Answer>
+			<Answer>People who are at risk of suicidal behavior may not seek treatment for many reasons, including: They believe nothing will help., They do not want to tell anyone they have problems., They think asking for help is a sign of weakness., They do not know where to go for help., They believe their loved ones would be better off without them.,  A person may need emergency treatment after a suicide attempt. They may need first aid, CPR, or more intensive treatments. People who try to take their own life may need to stay in a hospital for treatment and to reduce the risk of future attempts. Therapy is one of the most important parts of treatment. Any mental health disorder that may have led to the suicide attempt should be evaluated and treated. This includes: 
+  Bipolar disorder
+  , 
+  Borderline personality disorder
+  , Drug or alcohol dependence, Major depression
+  , 
+  Schizophrenia
+  , Post-traumatic stress disorder (PTSD),  Always take suicide attempts and threats seriously. If you or someone you know is thinking about suicide, call or text 988 or chat  988lifeline.org . You can also call  1-800-273-8255 (1-800-273-TALK) . The 988 Suicide and Crisis Lifeline provides free and confidential support 24/7, anytime day or night. You can also call 911 or the local emergency number or go to the hospital emergency room. DO NOT delay. Call 911 or the local emergency number right away if someone you know has attempted suicide. DO NOT leave the person alone, even after you have called for help.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003780-5" qtype="outlook">What is the outlook for Suicide and suicidal behavior ?</Question>
-			<Answer></Answer>
+			<Answer>About 10% to 20% of people who make threats or try to take their own life will eventually kill themselves.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003780-6" qtype="when to contact a medical professional">Do I need to see a doctor for Suicide and suicidal behavior ?</Question>
-			<Answer></Answer>
+			<Answer>Contact a health care provider right away if you or someone you know is having thoughts of suicide. The person needs mental health care right away. DO NOT dismiss the person as just trying to get attention.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003780-7" qtype="prevention">How to prevent Suicide and suicidal behavior ?</Question>
-			<Answer></Answer>
+			<Answer>Avoiding alcohol and drugs (other than prescribed medicines) can reduce the risk of suicide. In homes with children or teenagers: Keep all prescription medicines high up and locked., Do not keep alcohol in the home, or keep it locked up., Do not keep guns in the home. If you do keep guns in the home, lock them and keep the bullets separate.
+   ,  In older adults, further investigate feelings of hopelessness, being a burden, and not belonging. Many people who try to take their own life talk about it before making the attempt. Sometimes, just talking to someone who cares and who does not judge them is enough to reduce the risk of suicide. However, if you are a friend, family member, or you know someone who you think may attempt suicide, never try to manage the problem on your own. Seek help. Suicide prevention centers have telephone "hotline" services. Never ignore a suicide threat or attempted suicide.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

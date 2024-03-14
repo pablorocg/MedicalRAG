@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002929" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003316.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Palpebral slant - eye</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002929-1" qtype="information">Do you have information about Palpebral slant - eye</Question>
-			<Answer></Answer>
+			<Answer>The palpebral slant is the direction of the slant of a line that goes from the outer corner of the eye to the inner corner.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

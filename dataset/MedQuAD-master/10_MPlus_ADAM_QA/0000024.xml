@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000024" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003841.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Abdominal wall fat pad biopsy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,11 +20,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000024-1" qtype="information">What is (are) Abdominal wall fat pad biopsy ?</Question>
-			<Answer></Answer>
+			<Answer>An abdominal wall fat pad  biopsy  is the removal of a small part of the abdominal wall fat pad for laboratory study of the tissue.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000024-8" qtype="susceptibility">Who is at risk for Abdominal wall fat pad biopsy? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

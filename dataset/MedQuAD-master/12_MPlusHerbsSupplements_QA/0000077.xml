@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000077" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/390.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Propolis</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,50 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000077-1" qtype="information">What is Propolis ?</Question>
-			<Answer></Answer>
+			<Answer>Propolis is a resin-like material made by bees from the buds of poplar and cone-bearing trees. Bees use it to build hives, and it may contain beehive byproducts. 
+
+
+Propolis seems to help fight against bacteria, viruses, and fungi. It might also have anti-inflammatory effects and help skin heal. Propolis is rarely available in its pure form. It's usually obtained from beehives. 
+
+People commonly use propolis for diabetes, cold sores, and swelling and sores inside the mouth. It's also used for burns, canker sores, genital herpes, and many other conditions, but there is no good scientific evidence to support these uses. There is also no good evidence to support using propolis for COVID-19.
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000077-2" qtype="how effective is it">How effective is Propolis ?</Question>
-			<Answer></Answer>
+			<Answer>Natural Medicines Comprehensive Database  rates effectiveness based on scientific evidence according to the following scale:  Effective, Likely Effective, Possibly Effective, Possibly Ineffective, Likely Ineffective, Ineffective, and Insufficient Evidence to Rate. The effectiveness ratings for  PROPOLIS  are as follows: Possibly effective for... 
+
+ Diabetes . Taking propolis by mouth seems to improve blood sugar control by a small amount in people with diabetes. But it doesn't seem to affect insulin levels or improve insulin resistance. , 
+
+ Cold sores (herpes labialis) . Applying an ointment or cream containing 0.5% to 3% propolis five times daily might help cold sores to heal faster and reduce pain., 
+
+ Swelling (inflammation) and sores inside the mouth (oral mucositis) . Taking propolis by mouth or rinsing the mouth with a propolis mouth rinse helps heal sores caused by cancer drugs. , 
+
+ 
+There is interest in using propolis for a number of other purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000077-3" qtype="how does it work">What is the action of Propolis and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000077-4" qtype="precautions">Are there safety concerns or special precautions about Propolis ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000077-5" qtype="interactions with medications">Are there interactions between Propolis and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Moderate Be cautious with this combination. Medications changed by the liver (Cytochrome P450 1A2 (CYP1A2) substrates) Some medications are changed and broken down by the liver. Propolis might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications. Medications changed by the liver (Cytochrome P450 2C19 (CYP2C19) substrates) Some medications are changed and broken down by the liver. Propolis might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications. Medications changed by the liver (Cytochrome P450 2C9 (CYP2C9) substrates) Some medications are changed and broken down by the liver. Propolis might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications. Medications changed by the liver (Cytochrome P450 2D6 (CYP2D6) substrates) Some medications are changed and broken down by the liver. Propolis might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications. Medications changed by the liver (Cytochrome P450 2E1 (CYP2E1) substrates) Some medications are changed and broken down by the liver. Propolis might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications. Medications changed by the liver (Cytochrome P450 3A4 (CYP3A4) substrates) Some medications are changed and broken down by the liver. Propolis might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications. Medications that slow blood clotting (Anticoagulant / Antiplatelet drugs) Propolis might slow blood clotting. Taking propolis along with medications that also slow blood clotting might increase the risk of bruising and bleeding. Warfarin (Coumadin) Warfarin is used to slow blood clotting. Propolis might decrease the effects of warfarin. This might increase the risk of clotting.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000077-6" qtype="interactions with herbs and supplements">Are there interactions between Propolis and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>Herbs and supplements that might slow blood clotting Propolis might slow blood clotting and increase the risk of bleeding. Taking it with other supplements with similar effects might increase the risk of bleeding in some people. Examples of supplements with this effect include garlic, ginger, ginkgo, nattokinase, and Panax ginseng.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000077-7" qtype="interactions with foods">Are there interactions between Propolis and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000077-8" qtype="dose">What is the dosage of Propolis ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

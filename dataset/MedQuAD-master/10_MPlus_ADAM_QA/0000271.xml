@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000271" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002751.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Antifreeze poisoning</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,23 +19,33 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000271-1" qtype="information">What is (are) Antifreeze poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Antifreeze is a liquid used to cool engines. It is also called engine coolant. This article discusses poisoning caused by swallowing antifreeze. This is for information only and not for use in the treatment or management of an actual poison exposure. If you have an exposure, you should call your local emergency number (such as 911) or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000271-4" qtype="symptoms">What are the symptoms of Antifreeze poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Below are symptoms of antifreeze poisoning in different parts of the body. 
+AIRWAYS AND LUNGS Rapid breathing ,  No breathing ,  
+BLADDER AND KIDNEYS Blood in urine ,  No urine output  or decreased urine output ,  
+EYES, EARS, NOSE, AND THROAT Blurred vision , Blindness ,  
+HEART AND BLOOD Rapid heartbeat , Low blood pressure ,  
+MUSCLES AND JOINTS
+ Leg cramps ,  
+NERVOUS SYSTEM Coma ,  Convulsions , Dizziness,  Fatigue , Headache, Slurred speech,  Stupor  (lack of alertness),  Unconsciousness , Unsteady walk,  Weakness ,  
+SKIN
+ Blue lips and fingernails ,  
+STOMACH AND GASTROINTESTINAL TRACT Nausea and vomiting , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000271-5" qtype="considerations">What to do for Antifreeze poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000271-8" qtype="outlook">What is the outlook for Antifreeze poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>For ethylene glycol: Death may occur within the first 24 hours. If the patient survives, there may be little or no urine output for several weeks before the kidneys recover. Kidney damage may be permanent. Any brain damage that occurs also may be permanent. For methanol: Methanol is extremely toxic. As little as 2 tablespoons (1 ounce or 30 milliliters) can kill a child, and 4 to 16 tablespoons (2 to 8 ounces or 60 to 240 milliliters) can be deadly for an adult. The outcome depends on how much was swallowed and how soon appropriate care was given. Vision loss or blindness may be permanent Permanent damage to the nervous system may occur. This can cause blindness, decreased mental functioning, and a condition similar to Parkinson disease. Keep all chemicals, cleaners, and industrial products in their original containers and marked as poison, and out of the reach of children. This will reduce the risk for poisoning and overdose.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000271-9" qtype="outlook">What is the outlook for Antifreeze poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>For ethylene glycol: Death may occur within the first 24 hours. If the patient survives, there may be little or no urine output for several weeks before the kidneys recover. Kidney damage may be permanent. Any brain damage that occurs also may be permanent. For methanol: Methanol is extremely toxic. As little as 2 tablespoons (1 ounce or 30 milliliters) can kill a child, and 4 to 16 tablespoons (2 to 8 ounces or 60 to 240 milliliters) can be deadly for an adult. The outcome depends on how much was swallowed and how soon appropriate care was given. Vision loss or blindness may be permanent Permanent damage to the nervous system may occur. This can cause blindness, decreased mental functioning, and a condition similar to Parkinson disease. Keep all chemicals, cleaners, and industrial products in their original containers and marked as poison, and out of the reach of children. This will reduce the risk for poisoning and overdose.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

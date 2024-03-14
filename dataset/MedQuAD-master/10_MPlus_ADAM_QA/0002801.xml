@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002801" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002510.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Nicotine poisoning</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,23 +16,24 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002801-1" qtype="information">What is (are) Nicotine poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Nicotine is a bitter-tasting compound that naturally occurs in large amounts in the leaves of tobacco plants. Nicotine poisoning results from taking too much nicotine. Acute nicotine poisoning usually occurs in young children who accidentally chew on nicotine gum or patches.&#160;Nicotine is rapidly absorbed after ingestion and inhalation. In young children, ingestion of 1 to 2 mg of nicotine has been associated with signs of toxicity (poisoning). This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or the local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.
+</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002801-4" qtype="symptoms">What are the symptoms of Nicotine poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of nicotine poisoning include: Abdominal cramps ,  Agitation , restlessness, excitement, or confusion, Breathing that may be difficult, rapid, or even stopped, Burning sensation in mouth, drooling,  Seizures , Depression,  Fainting  or even  coma  (lack of responsiveness), Headache, Muscle twitching and damage, Palpitations (fast and pounding heartbeat often followed by slow heart rate), Vomiting, Weakness , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002801-5" qtype="considerations">What to do for Nicotine poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002801-8" qtype="outlook">What is the outlook for Nicotine poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>How well a person does depends on the amount of poison swallowed and how quickly treatment was received. The faster a person gets medical help, the better the chance for recovery. A nicotine overdose may cause seizures or death. However, unless there are complications, long-term effects from nicotine overdose are uncommon.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002801-9" qtype="outlook">What is the outlook for Nicotine poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>How well a person does depends on the amount of poison swallowed and how quickly treatment was received. The faster a person gets medical help, the better the chance for recovery. A nicotine overdose may cause seizures or death. However, unless there are complications, long-term effects from nicotine overdose are uncommon.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

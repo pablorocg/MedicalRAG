@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002562" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000758.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Medicines for sleep</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002562-1" qtype="information">Do you have information about Medicines for sleep</Question>
-			<Answer></Answer>
+			<Answer>Some people may need medicines to help with sleep for a short period of time. But in the long run,  making changes in your lifestyle and sleep habits  is the best treatment for problems with falling and staying asleep. Before using medicines for sleep, talk to your health care provider about treating other issues, such as: Anxiety, Sadness or depression, Alcohol or illegal drug use , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

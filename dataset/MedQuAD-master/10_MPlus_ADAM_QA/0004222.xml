@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004222" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007435.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Vertical sleeve gastrectomy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004222-1" qtype="information">Do you have information about Vertical sleeve gastrectomy</Question>
-			<Answer></Answer>
+			<Answer>Vertical sleeve gastrectomy is surgery to help with weight loss. The surgeon removes a large portion of your stomach. The new, smaller stomach is about the size of a banana. It limits the amount of food you can eat and makes you feel full after eating small amounts of food.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

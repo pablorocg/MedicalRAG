@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000520" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007637.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Botulinum toxin injection - larynx</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -19,7 +18,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000520-1" qtype="information">Do you have information about Botulinum toxin injection - larynx</Question>
-			<Answer></Answer>
+			<Answer>Botulinum toxin (BTX) is a type of nerve blocker. When injected, BTX blocks nerve signals to muscles so they relax. BTX is the toxin that causes botulism, a rare but serious illness. It is safe when used in very small doses.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

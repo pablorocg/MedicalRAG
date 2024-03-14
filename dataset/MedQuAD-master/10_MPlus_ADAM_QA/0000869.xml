@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000869" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000100.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Clopidogrel (Plavix)</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000869-1" qtype="information">Do you have information about Clopidogrel (Plavix)</Question>
-			<Answer></Answer>
+			<Answer>Platelets are small cells in your blood that your body uses to form clots and stop bleeding. If you have too many platelets or your platelets stick together too much, you are more likely to form clots. This clotting can take place on the inside of your arteries and lead to  heart attack  or  stroke . Antiplatelet drugs work to make your platelets less sticky and thereby help prevent blood clots from forming in your arteries. Aspirin is an antiplatelet drug that may be used., P2Y12 receptor blockers are another group of antiplatelet drugs. This group of drugs includes: clopidogrel, ticlopidine, ticagrelor, prasugrel, and cangrelor. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

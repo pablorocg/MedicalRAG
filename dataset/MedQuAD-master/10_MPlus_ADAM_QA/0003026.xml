@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003026" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007394.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Peripheral artery bypass - leg</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003026-1" qtype="information">Do you have information about Peripheral artery bypass - leg</Question>
-			<Answer></Answer>
+			<Answer>Peripheral artery bypass is surgery to reroute the blood supply around a  blocked artery in one of your legs . Fatty deposits can build up inside the arteries and block them. A graft is used to replace or bypass the blocked part of the artery. The graft may be a plastic tube, or it may be a blood vessel (vein) taken from your body (most often the opposite leg) during the same surgery.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

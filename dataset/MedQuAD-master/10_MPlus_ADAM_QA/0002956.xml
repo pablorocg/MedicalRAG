@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002956" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001189.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Parathyroid hyperplasia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002956-1" qtype="information">What is (are) Parathyroid hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Parathyroid hyperplasia is the enlargement of all 4 parathyroid glands. The parathyroid glands are located in the neck, near or attached to the back side of the thyroid gland.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002956-2" qtype="causes">What causes Parathyroid hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>The parathyroid glands help control calcium absorption, use, and removal by the body. They do this by producing parathyroid hormone (PTH). PTH helps control calcium, phosphorus, and vitamin D levels in the blood and bone. It is important for healthy bones. Parathyroid hyperplasia may occur in people without a family history of the disease, or as part of 3 inherited syndromes:  Multiple endocrine neoplasia I (MEN I) ,  MEN IIA , Isolated familial  hyperparathyroidism ,  In people with an inherited syndrome, a changed (mutated) gene is passed down through the family. You only need to get the gene from one parent to develop the condition. In MEN I, problems in the parathyroid glands occur, as well as tumors in the pituitary gland and pancreas., In MEN IIA, overactivity of the parathyroid glands occurs, along with tumors in the adrenal or thyroid gland. ,  Parathyroid hyperplasia that isn't part of an inherited syndrome is much more common. It occurs due to other medical conditions. The most common conditions that can cause parathyroid hyperplasia are chronic kidney disease and chronic vitamin D deficiency. In both cases, the parathyroid glands become enlarged because vitamin D and calcium levels are too low.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002956-3" qtype="symptoms">What are the symptoms of Parathyroid hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Bone fractures  or bone pain,  Constipation ,  Lack of energy , Muscle pain,  Nausea , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002956-4" qtype="exams and tests">How to diagnose Parathyroid hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Blood tests will be done to check levels of: Calcium ,  Phosphorus ,  Magnesium ,  PTH ,  Vitamin D , Kidney function (Creatinine, BUN),   A 24-hour urine test may be done to determine how much calcium is being filtered out of the body into the urine. Bone x-rays and a  bone density test  (DXA) can help detect fractures, bone loss, and bone softening. Ultrasound and CT scans may be done to view the parathyroid glands in the neck.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002956-5" qtype="treatment">What are the treatments for Parathyroid hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>If parathyroid hyperplasia is due to kidney disease or low vitamin D level and it is found early, your provider may recommend that you take vitamin D, vitamin D-like drugs, and other medicines. Surgery is usually done when the parathyroid glands are producing too much PTH and causing symptoms. Usually 3 1/2 glands are removed. The remaining tissue may be implanted in the forearm or neck muscle. This allows easy access to the tissue if symptoms come back. This tissue is implanted to prevent the body from having too little PTH, which can result in low calcium levels (from hypoparathyroidism).</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002956-6" qtype="outlook">What is the outlook for Parathyroid hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>After surgery, high calcium level may persist or return. Surgery can sometimes cause hypoparathyroidism, which makes blood calcium level too low.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002956-7" qtype="complications">What are the complications of Parathyroid hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Parathyroid hyperplasia can cause hyperparathyroidism, which leads to an increase in blood calcium level. Complications include  increased calcium in the kidneys , which can cause kidney stones,&#160;and  osteitis fibrosa cystica  (a softened, weak area in the bones). Surgery can sometimes damage the nerves that control the vocal cords. This can affect the strength of your voice. Complications may result from the other tumors that are part of the MEN syndromes.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002956-8" qtype="when to contact a medical professional">Do I need to see a doctor for Parathyroid hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if:  You have any symptoms of hypercalcemia, You have a family history of a MEN syndrome, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002956-9" qtype="prevention">How to prevent Parathyroid hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>If you have a family history of the MEN syndromes, you may want to have genetic screening to check for the defective gene. Those who have the defective gene may have routine screening tests to detect any early symptoms.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

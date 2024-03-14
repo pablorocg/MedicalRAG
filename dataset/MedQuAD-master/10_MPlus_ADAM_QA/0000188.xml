@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000188" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003366.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Aminoaciduria</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,11 +20,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000188-1" qtype="information">What is (are) Aminoaciduria ?</Question>
-			<Answer></Answer>
+			<Answer>Aminoaciduria is an abnormally high amount of amino acids in the urine. Amino acids are the building blocks for proteins in the body.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000188-8" qtype="considerations">What to do for Aminoaciduria ?</Question>
-			<Answer></Answer>
+			<Answer>Screening infants for increased levels of amino acids can help detect problems with metabolism. Early treatment for these conditions may prevent complications in the future.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

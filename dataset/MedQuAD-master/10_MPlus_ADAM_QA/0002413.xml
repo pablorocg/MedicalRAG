@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002413" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000277.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Liver metastases</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,50 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002413-1" qtype="information">What is (are) Liver metastases ?</Question>
-			<Answer></Answer>
+			<Answer>Liver metastases refer to cancer that has spread to the liver from somewhere else in the body. Liver metastases are not the same as cancer that starts in the liver, which is called&#160; hepatocellular carcinoma .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002413-2" qtype="causes">What causes Liver metastases ?</Question>
-			<Answer></Answer>
+			<Answer>Almost any cancer can spread to the liver. Cancers that&#160;can spread to the liver include: Breast cancer ,  Colorectal cancer ,  Esophageal cancer ,  Lung cancer ,  Melanoma ,  Pancreatic cancer ,  Stomach cancer ,  The risk for cancer spreading to the liver depends on the location (site) of the original cancer. A liver metastasis may be present when the original (primary) cancer is diagnosed or it may occur months or years after the primary tumor is removed.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002413-3" qtype="symptoms">What are the symptoms of Liver metastases ?</Question>
-			<Answer></Answer>
+			<Answer>In some cases, there are no symptoms. When symptoms occur, they may include: Decreased appetite ,  Confusion , 
+   Fever, sweating,  Jaundice &#160;(yellowing of the skin and whites of the eyes), Nausea, Pain, often in the upper right part of the abdomen, Weight loss , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002413-4" qtype="exams and tests">How to diagnose Liver metastases ?</Question>
-			<Answer></Answer>
+			<Answer>Tests that may be done to diagnose liver metastases include: CT scan  of the abdomen,  Liver function tests ,  Liver biopsy ,  MRI of the abdomen ,  PET scan ,  Ultrasound  of the abdomen , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002413-5" qtype="treatment">What are the treatments for Liver metastases ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment depends on: 
+ The primary cancer site
+ , 
+ How many liver tumors you have
+ , 
+ Whether the cancer has spread to other organs
+ , 
+ Your overall health
+ ,  Types of treatments that may be used are described below. SURGERY When the tumor is only in one or a few areas of the liver, the cancer may be removed with surgery.  
+ CHEMOTHERAPY 
+  When the cancer has spread to the liver and other organs, whole-body (systemic)  chemotherapy  is usually used. The type of chemotherapy used depends on the original type of cancer.  When the cancer has only spread in the liver, systemic chemotherapy may still be used.  Chemoembolization is a type of chemotherapy to one area. A thin tube called a catheter is inserted into an artery in the groin. The catheter is threaded into the artery in the liver. Cancer-killing medicine is sent through the catheter. Then another medicine is sent through the catheter to block blood flow to the part of the liver with the tumor. This "starves" the cancer cells. OTHER TREATMENTS Alcohol (ethanol) injected into the liver tumor -- A needle is sent through the skin directly into the liver tumor. The alcohol kills cancer cells., Heat, using radio or microwave energy -- A large needle called a probe is placed into the center of the liver tumor. Energy is sent through thin wires called electrodes, which are attached to the probe. The cancer cells are heated and die. This method is called radiofrequency ablation when radio energy is used. It is called microwave ablation when microwave energy is used., Freezing, also called cryotherapy -- A probe is placed in contact with the tumor. A chemical is sent through the probe that causes ice crystals to form around the probe. The cancer cells are frozen and die., Radioactive beads/spheres -- These beads/spheres deliver radiation to kill the cancer cells., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002413-6" qtype="outlook">What is the outlook for Liver metastases ?</Question>
-			<Answer></Answer>
+			<Answer>How well you do depends on the location of the original cancer and how much it has spread to the liver or anywhere else. In rare cases, surgery to remove the liver tumors leads to a cure. This is usually only possible when there are a limited number of tumors in the liver. In most cases, cancer that has spread to the liver cannot be cured. People whose cancer has spread to the liver often die of their disease. However, treatments may help shrink tumors, improve life expectancy, and relieve symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002413-7" qtype="complications">What are the complications of Liver metastases ?</Question>
-			<Answer></Answer>
+			<Answer>Complications are often the result of tumors spreading to a large area of the liver. They can include: Blockage of the flow of  bile ,  Decreased appetite ,  Fever ,  Liver failure (usually only in the late stages of disease) ,  Pain ,  Weight loss , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002413-8" qtype="when to contact a medical professional">Do I need to see a doctor for Liver metastases ?</Question>
-			<Answer></Answer>
+			<Answer>Anyone who has had a type of cancer that can spread to the liver should be aware of the signs and symptoms listed above, and call the doctor if any of these develop.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002413-9" qtype="prevention">How to prevent Liver metastases ?</Question>
-			<Answer></Answer>
+			<Answer>Early detection of some types of cancer may prevent the spread of these cancers to the liver.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

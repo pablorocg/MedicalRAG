@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001807" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003194.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hand or foot spasms</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,27 +22,37 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001807-1" qtype="information">What is (are) Hand or foot spasms ?</Question>
-			<Answer></Answer>
+			<Answer>Spasms are contractions of the muscles of the hands, thumbs, feet, or toes. Spasms are usually brief, but they can be severe and painful.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001807-2" qtype="considerations">What to do for Hand or foot spasms ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms depend on the cause. They may include: Cramping,  Fatigue ,  Muscle weakness , Numbness, tingling, or a "pins and needles" feeling, Twitching, Uncontrolled, purposeless, rapid motions ,  Nighttime leg cramps are common in older people.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001807-3" qtype="causes">What causes Hand or foot spasms ?</Question>
-			<Answer></Answer>
+			<Answer>Cramps or spasms in the muscles often have no clear cause. Possible causes of hand or foot spasms include: 
+  Abnormal levels of electrolytes or minerals in the body
+  , 
+  Brain disorders, such as  Parkinson disease ,  multiple sclerosis ,  dystonia , and  Huntington disease , 
+  Chronic kidney disease and dialysis
+  , 
+  Damage to a single nerve or nerve group ( mononeuropathy ) or multiple nerves (polyneuropathy) that are connected to muscles
+  , 
+  Dehydration (not having enough fluids in your body)
+  ,  Hyperventilation ,&#160;which is rapid or deep breathing that can occur with anxiety or panic
+  ,  Muscle cramps , usually caused by overuse during sports or work activity, Pregnancy, more often during the third trimester, Thyroid disorders, Too little vitamin D, Use of certain medicines, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001807-4" qtype="considerations">What to do for Hand or foot spasms ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms depend on the cause. They may include: Cramping,  Fatigue ,  Muscle weakness , Numbness, tingling, or a "pins and needles" feeling, Twitching, Uncontrolled, purposeless, rapid motions ,  Nighttime leg cramps are common in older people.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001807-5" qtype="when to contact a medical professional">Do I need to see a doctor for Hand or foot spasms ?</Question>
-			<Answer></Answer>
+			<Answer>If you notice recurrent spasms of your hands or feet, contact your provider.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001807-6" qtype="outlook">What is the outlook for Hand or foot spasms ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

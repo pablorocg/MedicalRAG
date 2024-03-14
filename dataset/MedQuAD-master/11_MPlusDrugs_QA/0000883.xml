@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000883" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a601087.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Nystatin and Triamcinolone</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,36 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000883-1" qtype="indication">Who should get Nystatin and Triamcinolone and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>The combination of nystatin and triamcinolone is used to treat fungal skin infections. It relieves itching, inflammation, and pain. This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000883-2" qtype="usage">How should Nystatin and Triamcinolone be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>The combination of nystatin and triamcinolone comes in ointment and cream to be applied to the skin. This medication usually is applied twice a day for no longer than 2 weeks. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use nystatin and triamcinolone exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor. Wash the affected area thoroughly. Apply a small amount of cream or ointment and gently and thoroughly massage it into your skin. If you use this medication on your face, keep it out of your eyes. If you are using this medication on a child's diaper area, do not place tightly fitting diapers or plastic pants on the child. They can increase the absorption of triamcinolone, which can affect the child's growth.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000883-3" qtype="precautions">Are there safety concerns or special precautions about Nystatin and Triamcinolone ?</Question>
-			<Answer></Answer>
+			<Answer>Before using nystatin and triamcinolone, tell your doctor and pharmacist if you are allergic to nystatin, triamcinolone, or any other drugs., tell your doctor and pharmacist what prescription and nonprescription medications you are taking, including vitamins., tell your doctor if you are pregnant, plan to become pregnant, or are breast-feeding. If you become pregnant while using nystatin and triamcinolone, call your doctor., </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000883-4" qtype="forget a dose">What should I do if I forget a dose of Nystatin and Triamcinolone ?</Question>
-			<Answer></Answer>
+			<Answer>Apply the missed dose as soon as you remember it. However, if it is almost time for the next dose, skip the missed dose and continue your regular dosing schedule. Do not apply a double dose to make up for a missed one.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000883-5" qtype="side effects">What are the side effects or risks of Nystatin and Triamcinolone ?</Question>
-			<Answer></Answer>
+			<Answer>Nystatin and triamcinolone may cause side effects. If you experience any of the following symptoms, call your doctor immediately:
+ acne, skin sores, itching, irritation, burning, stinging,  If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000883-6" qtype="storage and disposal">What should I know about storage and disposal of Nystatin and Triamcinolone ?</Question>
-			<Answer></Answer>
+			<Answer>Keep this medication in the container it came in, tightly closed, and out of reach of children. Store it at room temperature and away from excess heat and moisture (not in the bathroom). Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program. It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000883-7" qtype="other information">What other information should I know about Nystatin and Triamcinolone ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor. This medication is for external use only. Do not let nystatin and triamcinolone get into your eyes, nose, or mouth, and do not swallow it. Do not apply dressings, bandages, cosmetics, lotions, or other skin medications to the area being treated unless your doctor tells you. Do not let anyone else use your medication. Ask your pharmacist any questions you have about refilling your prescription. If you still have symptoms of infection after you finish the nystatin and triamcinolone, call your doctor. Tell your doctor if your skin condition gets worse or does not go away. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000883-8" qtype="brand names of combination products">What are the brand names of combination products of Nystatin and Triamcinolone ?</Question>
-			<Answer></Answer>
+			<Answer>Mycolog-II &#174; &#182; , Myco-Triacet II &#174; &#182; , Mykacet &#174; &#182; , Mytrex F &#174; &#182; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

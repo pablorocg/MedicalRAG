@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002896" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000891.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Outdoor fitness routine</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002896-1" qtype="information">Do you have information about Outdoor fitness routine</Question>
-			<Answer></Answer>
+			<Answer>Getting exercise does not have to mean going indoors to the gym. You can get a full workout in your own backyard, local playground, or park.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

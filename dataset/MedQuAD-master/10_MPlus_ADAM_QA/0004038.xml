@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004038" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003493.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Triglyceride level</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004038-1" qtype="information">Do you have information about Triglyceride level</Question>
-			<Answer></Answer>
+			<Answer>The triglyceride level is a blood test to measure the amount of triglycerides in your blood. Triglycerides are a type of fat. Your body makes some triglycerides. Triglycerides also come from the food you eat. Extra calories are turned into triglycerides and stored in fat cells for later use. A test for  high blood cholesterol  levels is a related measurement and usually done at the same time.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000324" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002234.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Aspartic acid</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000324-1" qtype="information">Do you have information about Aspartic acid</Question>
-			<Answer></Answer>
+			<Answer>Aspartic acid helps every cell in the body work. It plays a role in: Hormone production and release, Normal nervous system function,  Plant sources of aspartic acid include: Avocado, Asparagus, Molasses,  Animal sources of aspartic acid include: Wild game, Oysters, Sausage meat, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

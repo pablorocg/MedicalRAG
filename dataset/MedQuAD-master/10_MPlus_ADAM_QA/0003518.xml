@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003518" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000143.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Self catheterization - male</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003518-1" qtype="information">Do you have information about Self catheterization - male</Question>
-			<Answer></Answer>
+			<Answer>A urinary catheter tube drains urine from your bladder. You may need a catheter because you have  urinary incontinence  (leakage), urinary retention (not being able to urinate), prostate problems, or surgery that made it necessary. Clean intermittent catheterization can be done using clean techniques.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

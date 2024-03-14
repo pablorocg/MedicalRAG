@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004059" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000379.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Turner syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,35 +22,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004059-1" qtype="information">What is (are) Turner syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Turner syndrome is a rare genetic condition in which a female does not have the usual pair of X chromosomes.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004059-2" qtype="causes">What causes Turner syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The typical number of human chromosomes is 46. Chromosomes contain all of your genes and DNA, the building blocks of the body. Two of these chromosomes, the sex chromosomes, determine if you become a boy or a girl.  Females typically have 2 of the same sex chromosomes, written as XX. , Males have an X and a Y chromosome (written as XY).,  In Turner syndrome, cells are missing all or part of an X chromosome. The condition only occurs in females. Most commonly, a female with Turner syndrome has only 1 X chromosome. Others may have 2 X chromosomes, but one of them is incomplete. Sometimes, a female has some cells with 2 X chromosomes, but other cells have only 1.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004059-3" qtype="symptoms">What are the symptoms of Turner syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Possible findings of the head and neck include: Ears are low-set., Neck appears wide or web-like., Roof of the mouth is narrow (high palate)., Hairline at the back of the head is lower. , Lower jaw is lower and appears to fade away (recede)., Drooping eyelids and dry eyes.,  Other findings may include: Fingers and toes are short., Hands and feet are swollen in infants., Nails are narrow and turn upward., Chest is broad and flat. Nipples appear more widely spaced., Height at birth is often smaller than average.,  A child with Turner syndrome is much shorter than children who are the same age and sex. This is called  short stature . This problem may not be noticed in girls before age 11. Puberty may be absent or not complete. If puberty occurs, it most often begins at the normal age. After the age of puberty, unless treated with female hormones, these findings may be present: Pubic hair is often present and normal., Breast development may not occur., Menstrual periods are absent or very light., Vaginal dryness and pain with intercourse are common., Infertility.,  Sometimes, the diagnosis of Turner syndrome may not be made until adulthood. It may be discovered because a woman has very light or no menstrual periods and problems becoming pregnant.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004059-4" qtype="exams and tests">How to diagnose Turner syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Turner syndrome can be diagnosed at any stage of life.  It may be diagnosed before birth if:  A chromosome analysis is done during prenatal testing., A cystic hygroma is a growth that often occurs in the head and neck area. This finding may be seen on ultrasound during the pregnancy and leads to further testing.,  The health care provider will perform a physical exam and look for signs of atypical development. Infants with Turner syndrome often have swollen hands and feet. The following tests may be performed: Blood hormone levels ( luteinizing hormone , estrogen, and  follicle-stimulating hormone ),  Echocardiogram ,  Karyotyping ,  MRI of the chest ,  Ultrasound  of reproductive organs and kidneys, Pelvic exam ,  Other tests that may be done periodically include: Blood pressure screening, Thyroid checks, Blood tests for lipids and glucose,  Hearing screening , Eye exam,  Bone density testing , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004059-5" qtype="treatment">What are the treatments for Turner syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Growth hormone may help a child with Turner syndrome grow taller.  Estrogen and other hormones are often started when the girl is 12 or 13 years old.  These help trigger the growth of breasts, pubic hair, other sexual characteristics, and growth in height., Estrogen therapy is continued through life until the age of menopause.,  Women with Turner syndrome who wish to become pregnant may consider using a donor egg. Women with Turner syndrome may need care or monitoring for the following health problems: Keloid formation, Hearing loss, High blood pressure, Diabetes, Thinning of the bones (osteoporosis), Widening of the aorta and narrowing of the aortic valve, Cataracts, Obesity,  Other issues may include: Weight management, Exercise, Transition to adulthood, Stress and depression over changes, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004059-6" qtype="outlook">What is the outlook for Turner syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Those with Turner syndrome can have a normal life when carefully monitored by their provider.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004059-7" qtype="complications">What are the complications of Turner syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Other health problems may include: Thyroiditis , Kidney problems, Middle ear infections,  Scoliosis , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004059-8" qtype="prevention">How to prevent Turner syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known way to prevent Turner syndrome.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002950" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001188.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Parathyroid adenoma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,35 +16,42 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002950-1" qtype="information">What is (are) Parathyroid adenoma ?</Question>
-			<Answer></Answer>
+			<Answer>A parathyroid adenoma is a noncancerous (benign) tumor of the parathyroid glands.&#160;The parathyroid glands are located in the neck, near or attached to the back side of the thyroid gland.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002950-2" qtype="causes">What causes Parathyroid adenoma ?</Question>
-			<Answer></Answer>
+			<Answer>The parathyroid glands in the neck help control calcium absorption, use, and removal by the body. They do this by producing parathyroid hormone, or PTH. PTH helps control calcium, phosphorus, and vitamin D levels in the blood and bone. It is important for healthy bones. Parathyroid adenomas are common. Most parathyroid adenomas do not have an identified cause. Sometimes a genetic problem is the cause. This is more common if the diagnosis is made when you are young. Parathyroid adenomas may occur in people without a family history of the disease, or as part of 3 inherited syndromes: Multiple endocrine neoplasia (MEN) I ,  Multiple endocrine neoplasia (MEN) IIA , Isolated familial hyperparathyroidism,  In people with an inherited syndrome, a changed (mutated) gene is passed down through the family. You only need to get the gene from one parent to develop the condition. In MEN I, problems in the parathyroid glands occur, as well as tumors in the pituitary gland and pancreas., In MEN IIA, overactivity of the parathyroid glands occurs, along with tumors in the adrenal or thyroid gland.,  Conditions that stimulate the parathyroid glands to get bigger can also cause an adenoma. These include: Genetic disorders, Taking the drug lithium, Chronic kidney disease,  Women over age 60 have the highest risk for developing this condition. Radiation to the head or neck also increases the risk.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002950-3" qtype="symptoms">What are the symptoms of Parathyroid adenoma ?</Question>
-			<Answer></Answer>
+			<Answer>Many people have no symptoms. The condition is often discovered when blood tests are done for another medical reason. Parathyroid adenomas are the most common cause of hyperparathyroidism (overactive parathyroid glands), which leads to an increased blood calcium level.&#160;Symptoms may include any of the following: Confusion, 
+   Constipation
+   , 
+   Lack of energy ( lethargy ), Muscle pain, 
+   Nausea or decreased appetite, Urinating more often at night , Weak bones or fractures, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002950-4" qtype="exams and tests">How to diagnose Parathyroid adenoma ?</Question>
-			<Answer></Answer>
+			<Answer>Blood tests may be done to check levels of: PTH ,  Calcium , Kidney function (Creatinine, BUN), Magnesium,  Phosphorus ,  Vitamin D ,  A 24-hour urine test may be done to check for increased calcium in the urine. Other tests include: Bone density exam , Kidney ultrasound or CT scan (may show kidney stones or calcification), 
+   Kidney x-rays (may show kidney stones)
+   ,  MRI , Neck ultrasound, Sestamibi neck scan (to identify the location of the parathyroid adenoma), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002950-5" qtype="treatment">What are the treatments for Parathyroid adenoma ?</Question>
-			<Answer></Answer>
+			<Answer>Surgery is the most common treatment, and it often cures the condition. But, some people choose to only have regular checkups with their health care provider if the condition is mild. To help improve the condition, your provider may ask you to stop taking calcium and vitamin D supplements. Women who have gone through menopause may want to discuss treatment with estrogen or other medicines to prevent bone loss.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002950-6" qtype="outlook">What is the outlook for Parathyroid adenoma ?</Question>
-			<Answer></Answer>
+			<Answer>When treated, outlook is generally good.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002950-7" qtype="complications">What are the complications of Parathyroid adenoma ?</Question>
-			<Answer></Answer>
+			<Answer>Osteoporosis  and the increased risk for bone fractures is the most common concern. Other complications are less common, but may include: Nephrocalcinosis  (calcium deposits in the kidneys that can reduce kidney function)
+   ,  Osteitis fibrosa  (softened, weak areas in the bones),  Complications from surgery include:  Damage to a nerve that controls your voice, Damage to the parathyroid glands, which causes  hypoparathyroidism  (lack of enough parathyroid hormone) and low calcium level, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002950-8" qtype="when to contact a medical professional">Do I need to see a doctor for Parathyroid adenoma ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if you have symptoms of this condition.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

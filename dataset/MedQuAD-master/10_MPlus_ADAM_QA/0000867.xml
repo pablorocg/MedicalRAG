@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000867" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001589.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cleidocranial dysostosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000867-1" qtype="information">What is (are) Cleidocranial dysostosis ?</Question>
-			<Answer></Answer>
+			<Answer>Cleidocranial dysostosis is a disorder involving the abnormal development of bones in the skull and collar (clavicle) area.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000867-2" qtype="causes">What causes Cleidocranial dysostosis ?</Question>
-			<Answer></Answer>
+			<Answer>Cleidocranial dysostosis is caused by an abnormal gene. It is passed down through families as an  autosomal dominant  trait. That means you only need to get the abnormal gene from one parent in order for you to inherit the disease. Cleidocranial dysostosis is a congenital condition, which means it is present from before birth. The condition affects girls and boys equally.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000867-3" qtype="symptoms">What are the symptoms of Cleidocranial dysostosis ?</Question>
-			<Answer></Answer>
+			<Answer>People with cleidocranial dysostosis have a jaw and brow area that sticks out. The middle of their nose (nasal bridge) is wide. The collar bones may be missing or abnormally developed. This pushes the shoulders together in front of the body. Primary teeth do not fall out at the expected time. Adult teeth may develop later than normal and an extra set of adult teeth grow in. This causes the teeth to become crooked. Intelligence level is most often normal. Other symptoms include: 
+ Ability to touch shoulders together in front of body, Delayed closure of fontanelles ("soft spots"),  Loose joints , Prominent forehead ( frontal bossing ), Short forearms, Short fingers, Short stature, Increased risk of getting flat foot, abnormal curvature of spine (scoliosis) and knee deformities, High risk of hearing loss due to infections, Increased risk of fracture due to decreased bone density, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000867-4" qtype="exams and tests">How to diagnose Cleidocranial dysostosis ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will take your family history. The provider will do a physical examination and may do series of x-rays to check for: Undergrowth of the collarbone
+  , Undergrowth of the shoulder blade, Failure of the area in the front of the pelvis bone to close , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000867-5" qtype="treatment">What are the treatments for Cleidocranial dysostosis ?</Question>
-			<Answer></Answer>
+			<Answer>There is no specific treatment for it and management depends on each person's symptoms. Most people with the disease need: Regular dental care, Head gear to protect skull bones until they close, Ear tubes for frequent ear infections, Surgery to correct any bone abnormalities, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000867-6" qtype="outlook">What is the outlook for Cleidocranial dysostosis ?</Question>
-			<Answer></Answer>
+			<Answer>In most cases, the bone symptoms cause few problems. Appropriate dental care is important.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000867-7" qtype="complications">What are the complications of Cleidocranial dysostosis ?</Question>
-			<Answer></Answer>
+			<Answer>Complications include dental problems and shoulder dislocations.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000867-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cleidocranial dysostosis ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if you have a: Family history of cleidocranial dysostosis and are planning to have a child., Child with similar symptoms., </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000867-9" qtype="prevention">How to prevent Cleidocranial dysostosis ?</Question>
-			<Answer></Answer>
+			<Answer>Genetic counseling is appropriate if a person with a family or personal history of cleidocranial dysostosis is planning to have children. The disease may be diagnosed during pregnancy.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

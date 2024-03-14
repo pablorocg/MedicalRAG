@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003471" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003572.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Schilling test</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,11 +19,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003471-1" qtype="information">What is (are) Schilling test ?</Question>
-			<Answer></Answer>
+			<Answer>The Schilling test can determine whether the body absorbs  vitamin B12  normally. It helps assess the cause of vitamin B12 deficiency. This test is rarely, if ever, done today.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003471-8" qtype="susceptibility">Who is at risk for Schilling test? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

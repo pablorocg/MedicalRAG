@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002989" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000710.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pelvic inflammatory disease (PID) - aftercare</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,19 +16,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002989-1" qtype="information">What is (are) Pelvic inflammatory disease (PID) - aftercare ?</Question>
-			<Answer></Answer>
+			<Answer>You have just seen your health care provider for pelvic inflammatory disease (PID). PID refers to an infection of the uterus (womb), fallopian tubes, or ovaries.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002989-3" qtype="treatment">What are the treatments for Pelvic inflammatory disease (PID) - aftercare ?</Question>
-			<Answer></Answer>
+			<Answer>Antibiotics can have side effects, including: Nausea, Diarrhea, Stomach pain, Rash and itching, Vaginal yeast infection,  Let your provider know if you experience any side effects. Do not cut back or stop taking your medicine without talking with your doctor. Antibiotics kill the bacteria that cause PID. But they also kill other types of helpful bacteria in your body. This can cause diarrhea or vaginal yeast infections in women. Probiotics are small organisms found in yogurt and some supplements. Probiotics are thought to help friendly bacteria grow in your gut. This may help prevent diarrhea. However, studies are mixed about the benefits of probiotics. You can try eating yogurt with live cultures or taking supplements to help prevent side effects. Be sure to tell your provider if you take any supplements.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002989-4" qtype="prevention">How to prevent Pelvic inflammatory disease (PID) - aftercare ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002989-5" qtype="when to contact a medical professional">Do I need to see a doctor for Pelvic inflammatory disease (PID) - aftercare ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

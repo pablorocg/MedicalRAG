@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001979" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007386.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hip fracture surgery</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,19 +24,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001979-1" qtype="information">What is (are) Hip fracture surgery ?</Question>
-			<Answer></Answer>
+			<Answer>Hip fracture surgery is done to repair a break in the upper part of the thigh bone. The thigh bone is called the femur. It is part of the hip joint. Hip pain  is a related topic.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001979-2" qtype="information">What is (are) Hip fracture surgery ?</Question>
-			<Answer></Answer>
+			<Answer>Hip fracture surgery is done to repair a break in the upper part of the thigh bone. The thigh bone is called the femur. It is part of the hip joint. Hip pain  is a related topic.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001979-4" qtype="susceptibility">Who is at risk for Hip fracture surgery? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001979-7" qtype="outlook">What is the outlook for Hip fracture surgery ?</Question>
-			<Answer></Answer>
+			<Answer>You will do better if you get out of bed and start moving as soon as you can after your surgery. Health problems that develop after this surgery are often caused by being inactive. Your provider will help you decide when it is safe for you to go home after this surgery. You should also talk to your provider about reasons you had the fall and ways to prevent future falls.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

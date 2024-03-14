@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001947" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000347.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Herbal remedies and supplements for weight loss</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001947-1" qtype="information">What is (are) Herbal remedies and supplements for weight loss ?</Question>
-			<Answer></Answer>
+			<Answer>You may see ads for supplements that claim to help you lose weight. But many of these claims are not true. Some of these supplements can even have serious side effects. Note for women:  Pregnant or nursing women should never take diet medicines of any kind. This includes prescription, herbal, and other over-the-counter remedies. Over-the-counter refers to medicines, herbs, or supplements you can buy without a prescription.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

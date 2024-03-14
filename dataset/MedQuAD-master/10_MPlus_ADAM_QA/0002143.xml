@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002143" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000576.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Immune hemolytic anemia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002143-1" qtype="information">What is (are) Immune hemolytic anemia ?</Question>
-			<Answer></Answer>
+			<Answer>
+Anemia is a condition in which the body does not have enough healthy red blood cells. Red blood cells provide oxygen to the body's tissues. Red blood cells last for about 120 days before the body gets rid of them. In hemolytic anemia, red blood cells in the blood are destroyed earlier than normal. Immune hemolytic  anemia  occurs when antibodies form against the body's own red blood cells and destroy them. This happens because the immune system mistakenly recognizes these blood cells as foreign.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002143-2" qtype="causes">What causes Immune hemolytic anemia ?</Question>
-			<Answer></Answer>
+			<Answer>Possible causes include: Certain chemicals, drugs, and toxins, Infections, Transfusion of blood from a donor with a blood type that does not match, Certain cancers ,  When  antibodies  form against red blood cells for no reason, the condition is called idiopathic autoimmune hemolytic anemia. The antibodies may also be caused by: Complication of another disease ,  Past blood transfusions ,  Pregnancy (if the baby's blood type is different from the mother's) ,  Risk factors are related to the causes.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002143-3" qtype="symptoms">What are the symptoms of Immune hemolytic anemia ?</Question>
-			<Answer></Answer>
+			<Answer>You may not have symptoms if the anemia is mild. If the problem develops slowly, symptoms that may occur first include: Feeling weak or tired more often than usual, or with exercise, Headaches, Problems concentrating or thinking ,  If the anemia gets worse, symptoms may include: Lightheadedness when you stand up, Pale skin color ( pallor ),  Shortness of breath , Sore tongue , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002143-4" qtype="exams and tests">How to diagnose Immune hemolytic anemia ?</Question>
-			<Answer></Answer>
+			<Answer>You may need the following tests: Absolute  reticulocyte count , Direct or indirect  Coombs test ,  Hemoglobin  in the urine,  LDH &#160;(level of this enzyme rises as a result of tissue damage),  Red blood cell count  (RBC), hemoglobin, and  hematocrit , Serum  bilirubin  level,  Serum haptoglobin , Donath-Landsteiner test, Cold agglutinins, Platelet count, Protein electrophoresis - serum, Pyruvate kinase, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002143-5" qtype="treatment">What are the treatments for Immune hemolytic anemia ?</Question>
-			<Answer></Answer>
+			<Answer>The first treatment tried is most often a steroid medicine, such as prednisone. If steroid medicine do not improve the condition, treatment with intravenous immunoglobulin (IVIG) or removal of the spleen (splenectomy) may be considered. You may receive treatment to suppress your immune system if you do not respond to steroids. Drugs such as azathioprine (Imuran), cyclophosphamide (Cytoxan), and rituximab (Rituxan) have been used. Blood transfusions are given with caution, because the blood may not be compatible and it may cause more red blood cell destruction.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002143-6" qtype="outlook">What is the outlook for Immune hemolytic anemia ?</Question>
-			<Answer></Answer>
+			<Answer>The disease may start quickly and be very serious, or it may stay mild and not need special treatment. In most people, steroids or splenectomy can totally or partially control anemia.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002143-7" qtype="complications">What are the complications of Immune hemolytic anemia ?</Question>
-			<Answer></Answer>
+			<Answer>Severe anemia rarely leads to death. Severe infection may occur as a complication of treatment with steroids, other medicines that suppress the immune system, or splenectomy. These treatments impair the body's ability to fight infection.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002143-8" qtype="when to contact a medical professional">Do I need to see a doctor for Immune hemolytic anemia ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have unexplained fatigue or chest pain, or signs of infection.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002143-9" qtype="prevention">How to prevent Immune hemolytic anemia ?</Question>
-			<Answer></Answer>
+			<Answer>Screening for antibodies in donated blood and in the recipient may prevent hemolytic anemia related to blood transfusions. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

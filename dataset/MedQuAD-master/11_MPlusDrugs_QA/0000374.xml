@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000374" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a682512.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Dinoprostone</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,31 +7,33 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000374-1" qtype="indication">Who should get Dinoprostone and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Dinoprostone is used to prepare the cervix for the induction of labor in pregnant women who are at or near term. This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000374-2" qtype="usage">How should Dinoprostone be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Dinoprostone comes as a vaginal insert and as a gel that is inserted high into the vagina. It is administered using a syringe, by a health professional in a hospital or clinic setting. After the dose has been administered you should remain lying down for up to 2 hours as directed by your physician. A second dose of the gel may be administered in 6 hours if the first dose does not produce the desired response.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000374-3" qtype="precautions">Are there safety concerns or special precautions about Dinoprostone ?</Question>
-			<Answer></Answer>
+			<Answer>Before taking dinoprostone, tell your doctor and pharmacist if you are allergic to dinoprostone or any other drugs., tell your doctor and pharmacist what prescription and nonprescription medications you are taking, including vitamins., tell your doctor if you have or have ever had asthma; anemia; a cesarean section or any other uterine surgery; diabetes; high or low blood pressure; placenta previa; a seizure disorder; six or more previous term pregnancies; glaucoma or increased pressure in the eye; cephalopelvic disproportion; previous difficult or traumatic deliveries; unexplained vaginal bleeding; or heart, liver, or kidney disease., </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000374-4" qtype="side effects">What are the side effects or risks of Dinoprostone ?</Question>
-			<Answer></Answer>
+			<Answer>Side effects from dinoprostone are not common, but they can occur. Tell your doctor if any of these symptoms are severe or do not go away:
+ upset stomach, vomiting, diarrhea, dizziness, flushing of the skin, headache, fever,  If you experience any of the following symptoms, call your doctor immediately:
+ unpleasant vaginal discharge, continued fever, chills and shivering, increase in vaginal bleeding several days after treatment, chest pain or tightness, skin rash, hives, difficulty breathing, unusual swelling of the face,  If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000374-5" qtype="storage and disposal">What should I know about storage and disposal of Dinoprostone ?</Question>
-			<Answer></Answer>
+			<Answer>Dinoprostone gel should be stored in a refrigerator. The inserts should be stored in a freezer. Keep this medication in the container it came in, tightly closed, and out of reach of children.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000374-6" qtype="other information">What other information should I know about Dinoprostone ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor. Do not let anyone else use your medication. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000374-7" qtype="brand names">What are the brand names of Dinoprostone ?</Question>
-			<Answer></Answer>
+			<Answer>Cervidil &#174; , Prepidil &#174; , Prostin E2 &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

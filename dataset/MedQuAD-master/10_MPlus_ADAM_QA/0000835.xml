@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000835" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000217.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Chronic cholecystitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000835-1" qtype="information">What is (are) Chronic cholecystitis ?</Question>
-			<Answer></Answer>
+			<Answer>Chronic cholecystitis is swelling and irritation of the gallbladder that continues over time. The gallbladder is a sac located under the liver. It stores bile that is made in the liver. Bile helps with the digestion of fats in the small intestine.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000835-2" qtype="causes">What causes Chronic cholecystitis ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, chronic cholecystitis is caused by repeated attacks of acute (sudden) cholecystitis. Most of these attacks are caused by gallstones in the gallbladder. These attacks cause the walls of the gallbladder to thicken. The gallbladder begins to shrink. Over time, the gallbladder is less able to concentrate, store, and release bile. The disease occurs more often in women than in men. It is more common after age 40. Birth control pills and pregnancy are factors that increase the risk for gallstones.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000835-3" qtype="symptoms">What are the symptoms of Chronic cholecystitis ?</Question>
-			<Answer></Answer>
+			<Answer>Acute cholecystitis  is a painful condition that leads to chronic cholecystitis. It is not clear whether chronic cholecystitis causes any symptoms. Symptoms of acute cholecystitis can include: Sharp, cramping, or dull pain in upper right or upper middle of your belly, Steady pain lasting about 30 minutes, Pain that spreads to your back or below your right shoulder blade, Clay-colored stools, Fever, Nausea and vomiting, Yellowing of skin and whites of the eyes (jaundice), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000835-4" qtype="exams and tests">How to diagnose Chronic cholecystitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider may order the following blood tests: Amylase  and lipase in order to diagnose diseases of the pancreas,  Complete blood count  (CBC),  Liver function tests  in order to evaluate how well the liver is working,  Tests that reveal gallstones or inflammation in the gallbladder include: Abdominal ultrasound ,  Abdominal CT scan , Gallbladder scan (HIDA scan), Oral cholecystogram (rarely done), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000835-5" qtype="treatment">What are the treatments for Chronic cholecystitis ?</Question>
-			<Answer></Answer>
+			<Answer>Surgery is the most common treatment. Surgery to remove the gallbladder is called cholecystectomy. Laparoscopic cholecystectomy is most often done. This surgery uses smaller surgical cuts, which result in a faster recovery. Many people are able to go home from the hospital on the same day as surgery, or the next morning., Open cholecystectomy requires a larger cut in the upper-right part of the abdomen.,  If you are too ill to have surgery because of other diseases or conditions, the gallstones may be dissolved with medicine you take by mouth. However, this may take 2 years or longer to work. The stones may return after treatment.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000835-6" qtype="outlook">What is the outlook for Chronic cholecystitis ?</Question>
-			<Answer></Answer>
+			<Answer>Cholecystectomy is a common procedure with a low risk.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000835-7" qtype="complications">What are the complications of Chronic cholecystitis ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Cancer  of the gallbladder (rarely), Jaundice, Pancreatitis, Worsening of the condition, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000835-8" qtype="when to contact a medical professional">Do I need to see a doctor for Chronic cholecystitis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop symptoms of cholecystitis.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000835-9" qtype="prevention">How to prevent Chronic cholecystitis ?</Question>
-			<Answer></Answer>
+			<Answer>The condition is not always preventable. Eating less fatty foods may relieve symptoms in people. However, the benefit of a low-fat diet has not been proven.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

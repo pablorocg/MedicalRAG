@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003541" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003362.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Serum phenylalanine screening</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003541-1" qtype="information">Do you have information about Serum phenylalanine screening</Question>
-			<Answer></Answer>
+			<Answer>Serum phenylalanine screening is a blood test to look for signs of the disease  phenylketonuria  (PKU). The test detects abnormally high levels of an amino acid called phenylalanine.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

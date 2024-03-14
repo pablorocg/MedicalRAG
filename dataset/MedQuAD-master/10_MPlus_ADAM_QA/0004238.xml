@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004238" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003879.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Visual field</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004238-1" qtype="information">Do you have information about Visual field</Question>
-			<Answer></Answer>
+			<Answer>The visual field refers to the total area in which objects can be seen in the side (peripheral) vision as you focus your eyes on a central point. This article describes the test that measures your visual field.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

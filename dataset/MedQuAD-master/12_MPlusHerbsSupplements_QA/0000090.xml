@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000090" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/845.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Spearmint</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,42 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000090-1" qtype="information">What is Spearmint ?</Question>
-			<Answer></Answer>
+			<Answer>Spearmint (Mentha spicata) is a species of mint plant. It's grown for its leaves and essential oil, which is used as a flavoring in foods and cosmetics. 
+
+Spearmint oil contains chemicals that reduce swelling and affect hormone levels in the body, including testosterone. Some chemicals might also harm cancer cells and kill bacteria. 
+
+People use spearmint for memory, digestion, osteoarthritis, nausea and vomiting after surgery, and many other conditions, but there is no good scientific evidence to support these uses. 
+
+Don't confuse spearmint with other plants known as mint, including English horsemint, Japanese mint, peppermint, perilla, salvia divinorum, or wild mint. These are not the same. 
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000090-2" qtype="how effective is it">How effective is Spearmint ?</Question>
-			<Answer></Answer>
+			<Answer>There is interest in using spearmint for a number of purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000090-3" qtype="how does it work">What is the action of Spearmint and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000090-4" qtype="precautions">Are there safety concerns or special precautions about Spearmint ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000090-5" qtype="interactions with medications">Are there interactions between Spearmint and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Moderate Be cautious with this combination. Medications that can harm the liver (Hepatotoxic drugs) Spearmint might harm the liver. Some medications can also harm the liver. Taking spearmint along with a medication that can harm the liver might increase the risk of liver damage. Sedative medications (CNS depressants) Spearmint might cause sleepiness and slowed breathing. Some medications, called sedatives, can also cause sleepiness and slowed breathing. Taking spearmint with sedative medications might cause breathing problems and/or too much sleepiness.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000090-6" qtype="interactions with herbs and supplements">Are there interactions between Spearmint and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>Herbs and supplements that might harm the liver Spearmint might harm the liver. Taking it with other supplements that can also harm the liver might increase the risk of liver damage. Examples of supplements with this effect include garcinia, greater celandine, green tea extract, kava, and kratom. Herbs and supplements with sedative properties Spearmint might cause sleepiness and slowed breathing. Taking it along with other supplements with similar effects might cause too much sleepiness and/or slowed breathing in some people. Examples of supplements with this effect include hops, kava, L-tryptophan, melatonin, and valerian.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000090-7" qtype="interactions with foods">Are there interactions between Spearmint and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000090-8" qtype="dose">What is the dosage of Spearmint ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

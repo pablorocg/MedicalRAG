@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003435" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000438.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Rotator cuff problems</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003435-1" qtype="information">Do you have information about Rotator cuff problems</Question>
-			<Answer></Answer>
+			<Answer>The rotator cuff is a group of muscles and tendons that attach to the bones of the shoulder joint, allowing the shoulder to move and keep it stable. Rotator cuff  tendinitis  refers to irritation of these tendons and inflammation of the bursa (a normally smooth layer) lining these tendons., A rotator cuff tear occurs when one of the tendons is torn from the bone from overuse or injury. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

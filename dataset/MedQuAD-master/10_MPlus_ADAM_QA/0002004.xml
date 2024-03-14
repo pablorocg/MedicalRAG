@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002004" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000324.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Home blood sugar testing</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002004-1" qtype="information">Do you have information about Home blood sugar testing</Question>
-			<Answer></Answer>
+			<Answer>If you have diabetes, check your blood sugar level as often as instructed by your health care provider. Record the results. This will tell you how well you are managing your diabetes. Checking blood sugar can help you stay on track with your nutrition and activity plans. The most important reasons to check your blood sugar at home are to: Monitor if the diabetes medicines you're taking increase your risk of low blood sugar (hypoglycemia)., Use the blood sugar number before a meal to determine the dose of insulin (or other medicines) you are planning to take., Use the blood sugar number to help you make healthy nutrition and activity choices to regulate your blood sugar., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001875" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000365.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Heart failure - palliative care</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,15 +24,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001875-1" qtype="information">What is (are) Heart failure - palliative care ?</Question>
-			<Answer></Answer>
+			<Answer>It is important to talk to your health care providers and your family about the kind of end-of-life care you want when you are being treated for heart failure.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001875-3" qtype="symptoms">What are the symptoms of Heart failure - palliative care ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of fatigue, shortness of breath, loss of appetite, and nausea can make it hard for people with heart failure to take in enough calories and nutrients. Wasting of muscles and weight loss are part of the natural disease process. It can help to eat several small meals. Choosing foods that are appealing and easy to digest can make it easier to eat. Caregivers should not try to force a person with heart failure to eat. This does not help the person live longer and may be uncomfortable. Talk to your provider about things you can do to help manage  nausea or vomiting  and  constipation .</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001875-4" qtype="symptoms">What are the symptoms of Heart failure - palliative care ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of fatigue, shortness of breath, loss of appetite, and nausea can make it hard for people with heart failure to take in enough calories and nutrients. Wasting of muscles and weight loss are part of the natural disease process. It can help to eat several small meals. Choosing foods that are appealing and easy to digest can make it easier to eat. Caregivers should not try to force a person with heart failure to eat. This does not help the person live longer and may be uncomfortable. Talk to your provider about things you can do to help manage  nausea or vomiting  and  constipation .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

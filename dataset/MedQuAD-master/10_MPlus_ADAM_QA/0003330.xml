@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003330" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003823.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Radionuclide cisternogram</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003330-1" qtype="information">Do you have information about Radionuclide cisternogram</Question>
-			<Answer></Answer>
+			<Answer>A radionuclide cisternogram is a nuclear scan test. It is used to diagnose problems with the flow of spinal fluid.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

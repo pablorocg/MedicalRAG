@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002084" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003441.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hyperplasia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002084-1" qtype="information">What is (are) Hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Hyperplasia is increased cell production in a normal tissue or organ. Hyperplasia may be a sign of abnormal or precancerous changes. This is called pathologic hyperplasia. It can also be due to the growth of normal cells. This is called physiologic hyperplasia.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

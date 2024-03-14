@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001516" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003028.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Facial paralysis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,23 +19,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001516-1" qtype="information">What is (are) Facial paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>Facial paralysis means that a person is no longer able to move some or all of the muscles on one or both sides of the face.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001516-2" qtype="causes">What causes Facial paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>Facial paralysis is almost always caused by: Damage or swelling of the facial nerve, which carries signals from the brain to the muscles of the face, Damage to the area of the brain that sends signals to the muscles of the face , Weakness of the facial muscles that can occur in neurologic diseases such as myasthenia gravis or some myopathies and muscular dystrophies,  In people who are otherwise healthy, facial paralysis is often due to  Bell palsy . This is a condition in which the facial nerve becomes inflamed. Stroke  may cause facial paralysis that comes on rapidly. With a stroke, other muscles on one side of the body may also be involved. Facial paralysis that is due to a brain tumor usually develops slowly. Symptoms can include headaches, seizures, or hearing loss. In newborns, facial paralysis may be caused by trauma during birth. Other causes include: Infection of the brain or surrounding tissues,  Lyme disease ,  Sarcoidosis , Tumor that presses on the facial nerve , Side effects of medicines, such as botulinum toxin, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001516-3" qtype="considerations">What to do for Facial paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001516-4" qtype="when to contact a medical professional">Do I need to see a doctor for Facial paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have weakness or numbness in your face. Seek emergency medical help right away if you have these symptoms along with a severe headache, seizure, or  blindness .</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001516-5" qtype="outlook">What is the outlook for Facial paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

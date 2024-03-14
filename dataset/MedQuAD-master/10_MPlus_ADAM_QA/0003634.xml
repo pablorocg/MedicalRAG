@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003634" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002302.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Small for gestational age (SGA)</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,11 +21,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003634-1" qtype="information">What is (are) Small for gestational age (SGA) ?</Question>
-			<Answer></Answer>
+			<Answer>Ultrasound is used to find out if a fetus is smaller than normal for their age. This condition is called intrauterine growth restriction. The most common definition of small for gestational age (SGA) is a birth weight that is below the 10th percentile. At the time of the ultrasound exam, your health care provider may use other findings, such as the amount of amniotic fluid surrounding the baby, to further understand the baby's condition. Causes for SGA fetus may include: Genetic diseases, Inherited metabolic diseases, Chromosome anomalies, Multiple gestations (twins, triplets, and more), Abnormal placenta, High blood pressure,  A developing baby with intrauterine growth restriction will be small in size and can have problems such as: Increased red blood cells , Low blood sugar , Low body temperature , </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003634-2" qtype="information">What is (are) Small for gestational age (SGA) ?</Question>
-			<Answer></Answer>
+			<Answer>Ultrasound is used to find out if a fetus is smaller than normal for their age. This condition is called intrauterine growth restriction. The most common definition of small for gestational age (SGA) is a birth weight that is below the 10th percentile. At the time of the ultrasound exam, your health care provider may use other findings, such as the amount of amniotic fluid surrounding the baby, to further understand the baby's condition. Causes for SGA fetus may include: Genetic diseases, Inherited metabolic diseases, Chromosome anomalies, Multiple gestations (twins, triplets, and more), Abnormal placenta, High blood pressure,  A developing baby with intrauterine growth restriction will be small in size and can have problems such as: Increased red blood cells , Low blood sugar , Low body temperature , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002234" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007293.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Iontophoresis</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002234-1" qtype="information">Do you have information about Iontophoresis</Question>
-			<Answer></Answer>
+			<Answer>Iontophoresis is the process of passing a weak electrical current through the skin. Iontophoresis has a variety of uses in medicine. This article discusses the use of iontophoresis to decrease sweating by blocking sweat glands.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003298" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000077.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pulmonary tuberculosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,43 +20,43 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003298-1" qtype="information">What is (are) Pulmonary tuberculosis ?</Question>
-			<Answer></Answer>
+			<Answer>Pulmonary tuberculosis (TB) is a contagious bacterial infection that involves the lungs. It may spread to other organs.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003298-2" qtype="causes">What causes Pulmonary tuberculosis ?</Question>
-			<Answer></Answer>
+			<Answer>Pulmonary TB is caused by the bacterium  Mycobacterium tuberculosis (M tuberculosis) . TB is contagious. This means the bacteria may spread from an infected person to someone else. You can get TB by breathing in air droplets from a cough or sneeze of an infected person. The resulting lung infection is called primary TB. Most people recover from primary TB infection without further evidence of the disease. The infection may stay inactive (dormant) for years. In some people, it becomes active again (reactivates). Most people who develop symptoms of a TB infection first became infected in the past. In some cases, the disease becomes active within weeks after the primary infection. The following people are at higher risk of active TB or reactivation of TB: Older adults, Infants, People with weakened immune systems, for example due to  HIV/AIDS ,  chemotherapy , diabetes, or medicines that weaken the immune system,  Your risk for catching TB increases if you: Are around people who have TB, Live in crowded or unclean living conditions, Have poor nutrition,  The following factors can increase the rate of TB infection in a population: Increase in HIV infections, Increase in number of homeless people (poor environment and nutrition), Presence of drug-resistant strains of TB, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003298-3" qtype="symptoms">What are the symptoms of Pulmonary tuberculosis ?</Question>
-			<Answer></Answer>
+			<Answer>The primary stage of TB does not cause symptoms. When symptoms of pulmonary TB occur, they can include: Breathing difficulty, Chest pain, Cough (usually with mucus), Coughing up blood, Excessive sweating, particularly at night, Fatigue, Fever, Weight loss, Wheezing, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003298-4" qtype="exams and tests">How to diagnose Pulmonary tuberculosis ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam. This may show: Clubbing of the fingers or toes (in people with advanced disease), Swollen or tender lymph nodes in the neck or other areas, Fluid around a lung (pleural effusion), Unusual breath sounds in the lungs (crackles) ,  Tests that may be ordered include: Bronchoscopy  (test that uses a scope to view the airways),  Chest CT scan ,  Chest x-ray , Interferon-gamma release blood test, such as the QFT-Gold test to test for TB infection (active or infection in the past), Sputum examination and  cultures ,  Thoracentesis &#160;(procedure to remove fluid from the space between the lining of the outside of the lungs and the wall of the chest),  Tuberculin skin test  (also called a PPD test),  Biopsy  of the affected tissue (done rarely) , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003298-5" qtype="treatment">What are the treatments for Pulmonary tuberculosis ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to cure the infection with medicines that fight the TB bacteria. Active pulmonary TB is treated with a combination of many medicines (usually 4 medicines). The person takes the medicines until lab tests show which medicines work best. You may need to take many different pills at different times of the day for 6 months or longer. It is very important that you take the pills the way your provider instructed. When people do not take their TB medicines like they are supposed to, the infection can become much more difficult to treat. The TB bacteria can become resistant to treatment. This means the medicines no longer work. If a person is not taking all the medicines as directed, a nurse or public health worker may need to watch the person take the prescribed medicines. This approach is called directly observed therapy. In this case, medicines may be given 2 or 3 times a week. You may need to stay at home or be admitted to a hospital for 2 to 4 weeks to avoid spreading the disease to others until you are no longer contagious. Your provider is required by law to report your TB illness to the local health department. Your health care team will ensure that you receive the best care.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003298-6" qtype="support groups">Where to find support for people with Pulmonary tuberculosis ?</Question>
-			<Answer></Answer>
+			<Answer>You can ease the stress of illness by joining a  support group . Sharing with others who have common experiences and problems can help you feel more in control.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003298-7" qtype="outlook">What is the outlook for Pulmonary tuberculosis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms often improve in 2 to 3 weeks after starting treatment. A chest x-ray will not show this improvement until weeks or months later. The outlook is excellent if pulmonary TB is diagnosed early and effective treatment is started quickly.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003298-8" qtype="complications">What are the complications of Pulmonary tuberculosis ?</Question>
-			<Answer></Answer>
+			<Answer>Pulmonary TB can cause permanent lung damage if not treated early. It can also spread to other parts of the body.  Medicines used to treat TB may cause side effects, including: Changes in vision, Orange- or brown-colored tears and urine, Rash,  Liver inflammation ,  A vision test may be done before start of treatment so your provider can monitor any changes in the health of your eyes.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003298-9" qtype="when to contact a medical professional">Do I need to see a doctor for Pulmonary tuberculosis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: You think or know you have been exposed to TB, You develop symptoms of TB, Your symptoms continue despite treatment, New symptoms develop , </Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0003298-10" qtype="prevention">How to prevent Pulmonary tuberculosis ?</Question>
-			<Answer></Answer>
+			<Answer>TB is preventable, even in those who have been exposed to an infected person. Skin testing for TB is used in high risk populations or in people who may have been exposed to TB, such as health care workers. People who have been exposed to TB should have a skin test as soon as possible and have a follow-up test at a later date, if the first test is negative. A positive skin test means you have come into contact with the TB bacteria. It does not mean that you have active TB or are contagious. Talk to your provider about how to prevent developing active TB. Prompt treatment is very important in preventing the spread of TB from those who have active TB to those who have never been infected with TB. Some countries with a high incidence of TB give people a vaccine called BCG to prevent TB. But, the effectiveness of this vaccine is limited and it is not used in the United States for the prevention of TB. People who have had BCG may still be skin tested for TB. Discuss the test results (if positive) with your provider.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

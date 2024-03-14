@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003494" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003538.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Screening and diagnosis for HIV</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,11 +22,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003494-1" qtype="information">What is (are) Screening and diagnosis for HIV ?</Question>
-			<Answer></Answer>
+			<Answer>In general, testing for the  human immunodeficiency virus  (HIV) is a 2-step process that involves a screening test and follow-up tests often called confirmatory tests.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003494-8" qtype="susceptibility">Who is at risk for Screening and diagnosis for HIV? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

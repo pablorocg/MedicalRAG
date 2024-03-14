@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000933" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003468.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Comprehensive metabolic panel</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -16,7 +15,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000933-1" qtype="information">Do you have information about Comprehensive metabolic panel</Question>
-			<Answer></Answer>
+			<Answer>A comprehensive metabolic panel is a group of blood tests. They&#160;provide an overall picture of your body's chemical balance and metabolism. Metabolism refers to all the physical and chemical processes in the body that use energy.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001186" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000217.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Diabetes - what to ask your doctor - type 2</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001186-1" qtype="information">What is (are) Diabetes - what to ask your doctor - type 2 ?</Question>
-			<Answer></Answer>
+			<Answer>Type 2 diabetes , once diagnosed, is a lifelong disease that causes a high level of sugar (glucose) in your blood. It can damage your organs. It can also lead to a heart attack or stroke and cause many other health problems. You can do many things to control your symptoms, prevent damage due to diabetes, and make your life better. Below are questions you may want to ask your health care provider to help you take care of your diabetes.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

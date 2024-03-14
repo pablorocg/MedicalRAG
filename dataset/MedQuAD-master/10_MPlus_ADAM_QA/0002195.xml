@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002195" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002832.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Insecticide poisoning</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,23 +20,26 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002195-1" qtype="information">What is (are) Insecticide poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Insecticide is any chemical that kills bugs. Insecticide poisoning occurs when someone swallows or breathes in an insecticide or it is absorbed through the skin. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002195-4" qtype="symptoms">What are the symptoms of Insecticide poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Below are symptoms of insecticide poisoning in different parts of the body. Symptoms of pyrethrin poisoning: LUNGS AND AIRWAYS Breathing difficulty ,  NERVOUS SYSTEM Coma  (decreased level of consciousness and lack of responsiveness),  Seizures ,  SKIN Irritation, Redness or swelling ,  Symptoms of organophosphate or carbamate poisoning: HEART AND BLOOD Slow heart rate ,  LUNGS AND AIRWAYS Breathing difficulty,  Wheezing ,  NERVOUS SYSTEM Anxiety, 
+   Coma (decreased level of consciousness and lack of responsiveness), 
+   Seizures
+   ,  Dizziness ,  Headache ,  Weakness ,  BLADDER AND KIDNEYS Increased urination ,  EYES, EARS, NOSE, AND THROAT Drooling from increased saliva ,  Increased tears in the eyes , Small pupils ,  STOMACH AND INTESTINES Abdominal cramps,  Diarrhea , Loss of appetite,  Nausea and vomiting ,  SKIN Blue-colored lips and fingernails ,  Note: Serious poisoning can occur if an organophosphate gets on your bare skin or if you don't wash your skin soon after it gets on you. Large amounts of the chemical soak through the skin unless you are protected. Life-threatening paralysis and death can occur very quickly. Symptoms of paradichlorobenzene poisoning: EYES, EARS, THROAT, AND MOUTH Burning in mouth,  LUNGS AND AIRWAYS Breathing problems (rapid, slow, or painful), Cough, Shallow breathing,  MUSCLES Muscle spasms,  NERVOUS SYSTEM Changes in alertness, Headache, Slurred speech, Weakness,  SKIN Yellow skin  (jaundice),  STOMACH AND INTESTINES Diarrhea, Abdominal pain, Nausea and vomiting,  Note: Paradichlorobenzene mothballs are not very toxic. They have replaced the more toxic camphor and naphthalene types.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002195-5" qtype="considerations">What to do for Insecticide poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002195-8" qtype="outlook">What is the outlook for Insecticide poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>How well someone does depends on how severe the poisoning is and how quickly treatment is received. The faster medical help is given, the better the chance for recovery. Swallowing these poisons can have severe effects on many parts of the body. It is a good sign that recovery will occur if the person continues to improve in the first 4 to 6 hours after they receive treatment. Although the symptoms are the same for carbamate and organophosphate poisoning, it is harder to recover after organophosphate poisoning.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002195-9" qtype="outlook">What is the outlook for Insecticide poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>How well someone does depends on how severe the poisoning is and how quickly treatment is received. The faster medical help is given, the better the chance for recovery. Swallowing these poisons can have severe effects on many parts of the body. It is a good sign that recovery will occur if the person continues to improve in the first 4 to 6 hours after they receive treatment. Although the symptoms are the same for carbamate and organophosphate poisoning, it is harder to recover after organophosphate poisoning.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

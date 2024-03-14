@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000249" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a696037.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Cidofovir Injection</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,31 +7,33 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000249-1" qtype="important warning">What important warning or information should I know about Cidofovir Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Cidofovir injection can cause kidney damage. Tell your doctor if you have or have ever had kidney disease. Tell your doctor if you are taking or have recently taken any other medications that may cause kidney damage, some of which include amikacin, amphotericin B (Abelcet, Ambisome), foscarnet (Foscavir), gentamicin, pentamidine (Pentam 300), tobramycin, vancomycin (Vancocin), and nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen (Advil, Motrin) and naproxen (Naprosyn, Aleve). Your doctor will probably tell you not to use cidofovir injection if you are taking or using one or more of these medications. Keep all appointments with your doctor and the laboratory. Your doctor will order certain lab tests before, during, after your treatment to check your response to cidofovir injection. Cidofovir injection has caused birth defects and problems with sperm production in animals. This medication has not been studied in humans, but it is possible that it may also cause birth defects in babies whose mothers received cidofovir injection during pregnancy. You should not use cidofovir injection while you are pregnant or plan to become pregnant unless your doctor decides that this is the best treatment for your condition. Cidofovir injection has caused tumors in laboratory animals. Talk to your doctor about the possible risks of using cidofovir injection.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000249-2" qtype="other information">What other information should I know about Cidofovir Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your eye doctor. You should have regularly scheduled eye exams during your treatment with cidofovir injection. Ask your pharmacist any questions you have about cidofovir injection. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000249-3" qtype="precautions">Are there safety concerns or special precautions about Cidofovir Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Before using cidofovir injection, tell your doctor and pharmacist if you are allergic to cidofovir, probenecid (Probalan, in Col-Probenecid), sulfa-containing medications, any other medications, or any of the ingredients in cidofovir injection. Ask your pharmacist for a list of the ingredients., tell your doctor and pharmacist what other prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take. Be sure to mention the medications listed in the IMPORTANT WARNING section and any of the following: acetaminophen; acyclovir (Zovirax); angiotensin-converting enzyme inhibitors such as benazepril (Lotensin, in Lotrel), captopril, enalapril (Vasotec, Vaseretic), fosinopril, lisinopril (Qbrelis, in Prinzide, in Zestoretic); aspirin; barbiturates such as phenobarbital; benzodiazepines such as lorazepam (Ativan); bumetanide (Bumex); famotidine (Pepcid); furosemide (Lasix); methotrexate (Otrexup, Rasuvo, Trexall); theophylline (Elixophyllin, Theo-24); and zidovudine (Retrovir, in Combivir). Your doctor may need to change the doses of your medications or monitor you carefully for side effects., tell your doctor if you are pregnant or plan to become pregnant. If you are a female using cidofovir injection, you should use effective birth control while receiving cidofovir and for 1 month after your final dose. Talk to your doctor about birth control methods that you can use during and after your treatment. If you are a male using cidofovir and your partner can become pregnant, you should use a barrier method (condom or diaphragm with spermicide) while you are using cidofovir injection and for 3 months after your final dose. If you or your partner becomes pregnant while receiving cidofovir, call your doctor immediately., tell your doctor if you are breastfeeding. Do not breastfeed if you are infected with human immunodeficiency virus (HIV) or AIDS or are using cidofovir., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000249-5" qtype="side effects">What are the side effects or risks of Cidofovir Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Cidofovir injection may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ vomiting, nausea, diarrhea, loss of appetite, headache, hair loss, sores on the lips, mouth, or throat,  Some side effects can be serious. If you experience any of these symptoms, call your doctor immediately:
+ rash, eye pain or redness, vision changes such as light sensitivity or blurred vision, fever, chills, or cough, shortness of breath, pale skin,  Cidofovir injection may cause other side effects. Call your doctor if you have any unusual problems while receiving this medication. If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000249-6" qtype="storage and disposal">What should I know about storage and disposal of Cidofovir Injection ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000249-7" qtype="emergency or overdose">What to do in case of emergency or overdose of Cidofovir Injection ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000249-9" qtype="brand names">What are the brand names of Cidofovir Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Vistide &#174; &#182; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

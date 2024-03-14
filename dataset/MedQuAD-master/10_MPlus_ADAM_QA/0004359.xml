@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004359" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000724.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>20 healthy snacks with 100 calories or less</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004359-1" qtype="information">Do you have information about 20 healthy snacks with 100 calories or less</Question>
-			<Answer></Answer>
+			<Answer>Snacks are small, quick mini-meals. Snacks are eaten between meals and help keep you from being hungry. Including a protein source (such as nuts, beans, or low-fat or fat-free dairy) or a whole grain (such as whole wheat bread) can give snacks more "staying power" so you will not get hungry again as quickly. Healthy snacks are: Whole grain, Low-salt, Low in added sugar, Fresh foods like fruits and vegetables , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

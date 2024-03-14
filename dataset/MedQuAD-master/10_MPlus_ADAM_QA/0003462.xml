@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003462" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002687.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Sassafras oil overdose</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003462-1" qtype="information">Do you have information about Sassafras oil overdose</Question>
-			<Answer></Answer>
+			<Answer>Sassafras oil comes from the root bark of the sassafras tree. Sassafras oil overdose occurs when someone swallows more than the normal or recommended amount of this substance. This can be by accident or on purpose. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with has an  overdose , call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

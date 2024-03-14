@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000176" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001093.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Alveolar abnormalities</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000176-1" qtype="information">Do you have information about Alveolar abnormalities</Question>
-			<Answer></Answer>
+			<Answer>Alveolar abnormalities are changes in the tiny air sacs in the lungs, called alveoli. Alveoli allow oxygen to enter the blood. They are very thin to let oxygen move from the lungs to the blood vessels, and for carbon dioxide to be removed from the blood vessels to the lungs. Depending on the disease, alveoli may: Collapse, Fuse together, Develop thickened linings, Fill with fluid, Fill with blood, Fill with pus, Get destroyed,  Once this occurs oxygen and carbon dioxide exchange do not happen normally and lead to different disorders. It requires many alveoli to be destroyed before abnormalities in carbon dioxide and oxygen levels do occur. These changes can be temporary or permanent, depending on the disease.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002449" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007352.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lumbar MRI scan</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002449-1" qtype="information">Do you have information about Lumbar MRI scan</Question>
-			<Answer></Answer>
+			<Answer>A lumbar magnetic resonance imaging (MRI) scan uses energy from strong magnets to create pictures of the lower part of the spine (lumbar spine). An MRI does not use radiation (x-rays). Single MRI images are called slices. The images can be stored on a computer or printed on film. One exam produces many images. Related exams include: Cervical MRI scan  (neck MRI),  MRI , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

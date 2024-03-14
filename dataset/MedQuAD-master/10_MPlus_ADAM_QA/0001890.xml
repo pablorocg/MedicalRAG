@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001890" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000056.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Heat emergencies</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,31 +20,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001890-1" qtype="information">What is (are) Heat emergencies ?</Question>
-			<Answer></Answer>
+			<Answer>Heat emergencies or illnesses are caused by exposure to extreme heat or sun. Heat illnesses can be prevented by being careful in hot, humid weather.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001890-2" qtype="causes">What causes Heat emergencies ?</Question>
-			<Answer></Answer>
+			<Answer>Heat injuries can occur due to high temperatures and humidity. You are more likely to feel the effects of heat sooner if: You are not used to high temperatures or high humidity., You are a child or an older adult., You are already ill from another cause or have been injured., You are obese., You are also exercising. Even a person who is in good shape can suffer heat illness if warning signs are ignored. ,  The following make it harder for the body to regulate its temperature, and make a heat emergency more likely: Drinking alcohol before or during exposure to heat or high humidity, Not drinking enough fluids when you're active on warmer or hot days, Heart disease, Certain medicines: Examples are beta-blockers, water pills or diuretics, some medicines used to treat depression,  psychosis , or  ADHD , Sweat gland problems, Wearing too much clothing , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001890-3" qtype="symptoms">What are the symptoms of Heat emergencies ?</Question>
-			<Answer></Answer>
+			<Answer>Muscle cramps are the first stage of heat illness. If heat exposure continues and these symptoms are not treated, they can lead to heat exhaustion and then heat stroke. Heat stroke occurs when the body is no longer able to regulate its temperature, and it keeps rising. Heat stroke can cause shock, brain damage, organ failure, and even death. The early symptoms of heat illness include: Muscle cramps  and pains that most often occur in the legs or abdomen, and may be due to multiple factors including exercising in the heat.,  Fatigue ,  Thirst , Very heavy
+   sweating ,  Later symptoms of heat exhaustion include: Cool, moist skin ,  
+ Dark urine 
+ ,  Dizziness ,  lightheadedness ,  Headache ,  Nausea and vomiting ,  Weakness , Rapid, shallow breathing, Rapid, weak pulse,  The symptoms of heatstroke include those of heat exhaustion in combination with very high body temperature and significant neurologic symptoms (call 911 or the local emergency number right away): Fever -- temperature above 104&#176;F (40&#176;C), Extreme confusion (altered level of consciousness), Irrational behavior,  Seizures ,  Unconsciousness  (loss of responsiveness), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001890-4" qtype="considerations">What to do for Heat emergencies ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001890-5" qtype="considerations">What to do for Heat emergencies ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001890-6" qtype="when to contact a medical professional">Do I need to see a doctor for Heat emergencies ?</Question>
-			<Answer></Answer>
+			<Answer>Call 911 or the local emergency number if: The person loses consciousness at any time., There is any other change in the person's alertness (for example, confusion or seizures)., The person has a fever over 102&#176;F (38.9&#176;C)., Other symptoms of heatstroke are present (like rapid pulse or rapid breathing)., The person's condition does not improve, or worsens despite treatment. , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001890-7" qtype="prevention">How to prevent Heat emergencies ?</Question>
-			<Answer></Answer>
+			<Answer>The first step in preventing heat illnesses is thinking ahead. Find out what the temperature will be for the whole day when you will be outdoors. , Think about how you have dealt with heat in the past., Make sure you will have plenty of fluids to drink., Find out if there is shade available where you are going., Learn the early signs of heat illness.,  To help prevent heat illnesses: Wear loose-fitting, lightweight and light-colored clothing in hot weather., Rest often and seek shade when possible., Avoid exercise or heavy physical activity outdoors during hot or humid weather., Drink plenty of fluids every day. Drink more fluids before, during, and after physical activity., Be very careful to avoid overheating if you are taking medicines that impair heat regulation, or if you are overweight or an older person., Be careful of hot cars in the summer. Allow the car to cool off before getting in., 
+ NEVER leave a child sitting in a car exposed to the hot sun, even after opening windows.,  After recovering from exertional heat illness, check with your health care provider for advice before returning to heavy exertion. Begin exercise in a cool environment and slowly increase the degree of heat. Over several weeks, increase how long and how hard you exercise, as well as the amount of heat.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

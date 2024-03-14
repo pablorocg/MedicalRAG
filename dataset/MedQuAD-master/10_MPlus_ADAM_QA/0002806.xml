@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002806" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000809.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Night terror</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,36 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002806-1" qtype="information">What is (are) Night terror ?</Question>
-			<Answer></Answer>
+			<Answer> 
+ Night terrors (sleep terrors) are a sleep disorder in which a person quickly wakes from sleep in a terrified state.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002806-2" qtype="causes">What causes Night terror ?</Question>
-			<Answer></Answer>
+			<Answer>The cause is unknown, but night terrors may be triggered by: Fever, Lack of sleep, Periods of emotional tension, stress, or conflict ,  Night terrors are most common in children ages 3 through 7, and much less common after that. Night terrors may run in families. They can occur in adults, especially when there is emotional tension or alcohol use.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002806-3" qtype="symptoms">What are the symptoms of Night terror ?</Question>
-			<Answer></Answer>
+			<Answer>Night terrors are most common during the first third of the night, often between midnight and 2 a.m. Children often scream and are very frightened and confused. They thrash around violently and are often not aware of their surroundings. ,  The child may not be able to respond to being talked to, comforted, or awakened. ,  The child may be sweating, breathing very fast ( hyperventilating ), have a  fast heart rate , and widened (dilated) pupils. ,  The spell may last 10 to 20 minutes, then the child goes back to sleep. ,  Most children are unable to explain what happened the next morning. They often have no memory of the event when they wake up the next day. Children with night terrors may also  sleep walk . In contrast,  nightmares  are more common in the early morning. They may occur after someone watches frightening movies or TV shows, or has an emotional experience. A person may remember the details of a dream after waking up and will not be disoriented after the episode.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002806-4" qtype="exams and tests">How to diagnose Night terror ?</Question>
-			<Answer></Answer>
+			<Answer>In many cases, no further examination or testing is needed. If night terror episodes occur often, the child should be evaluated by a health care provider. If needed, tests such as a  sleep study  can be done to rule out a sleep disorder. </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002806-5" qtype="treatment">What are the treatments for Night terror ?</Question>
-			<Answer></Answer>
+			<Answer>In many cases, a child who has a night terror only needs to be comforted. Reducing stress or using coping mechanisms may reduce night terrors. Talk therapy or counseling may be needed in some cases. Medicines&#160;prescribed for use at bedtime will often reduce night terrors but are rarely used to treat this disorder.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002806-6" qtype="outlook">What is the outlook for Night terror ?</Question>
-			<Answer></Answer>
+			<Answer>Most children outgrow night terrors. Episodes usually decrease after age 10.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002806-7" qtype="when to contact a medical professional">Do I need to see a doctor for Night terror ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider for an appointment if: Night terrors occur often. ,  They disrupt sleep on a regular basis. ,  Other symptoms occur with the night terror. ,  The night terror causes or almost causes injuries. , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002806-8" qtype="prevention">How to prevent Night terror ?</Question>
-			<Answer></Answer>
+			<Answer>Minimizing stress or using coping mechanisms may reduce night terrors.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

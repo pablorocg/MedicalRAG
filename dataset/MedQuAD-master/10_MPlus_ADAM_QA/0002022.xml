@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002022" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000865.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>How to avoid overheating during exercise</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,15 +21,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002022-1" qtype="information">What is (are) How to avoid overheating during exercise ?</Question>
-			<Answer></Answer>
+			<Answer>Whether you are exercising in warm weather or in a steamy gym, you are more at risk for overheating. Learn how heat affects your body, and get tips for staying cool when it is warm out. Being prepared can help you safely work out in most conditions.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002022-4" qtype="symptoms">What are the symptoms of How to avoid overheating during exercise ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002022-5" qtype="when to contact a medical professional">Do I need to see a doctor for How to avoid overheating during exercise ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

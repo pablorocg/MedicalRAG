@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000563" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007404.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Breast reconstruction - natural tissue</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000563-1" qtype="information">Do you have information about Breast reconstruction - natural tissue</Question>
-			<Answer></Answer>
+			<Answer>After a  mastectomy , some women choose to have surgery to remake their breast. This type of surgery is called breast reconstruction. It can be performed at the same time as a mastectomy (immediate reconstruction) or later (delayed reconstruction). During breast reconstruction that uses natural tissue, the breast is reshaped using muscle, skin, or fat from another part of your body.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

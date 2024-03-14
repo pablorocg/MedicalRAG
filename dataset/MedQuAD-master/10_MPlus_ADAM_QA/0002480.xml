@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002480" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003798.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lymphangiogram</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002480-1" qtype="information">Do you have information about Lymphangiogram</Question>
-			<Answer></Answer>
+			<Answer>A lymphangiogram is a special x-ray of the lymph nodes and lymph vessels. Lymph nodes produce lymphocytes (a type of white blood cell) that help fight infections. The lymph nodes also filter and trap  cancer  cells. The lymph nodes and vessels are not seen on a normal  x-ray , so a dye or radioisotope (radioactive compound) is injected into the body to highlight the area being studied.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

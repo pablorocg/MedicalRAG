@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002201" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000387.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Insulinoma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002201-1" qtype="information">What is (are) Insulinoma ?</Question>
-			<Answer></Answer>
+			<Answer>An insulinoma is a  tumor  in the pancreas that produces too much insulin.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002201-2" qtype="causes">What causes Insulinoma ?</Question>
-			<Answer></Answer>
+			<Answer>The pancreas is an organ in the abdomen. The pancreas makes several  enzymes  and hormones, including the hormone insulin. Insulin's job is to reduce the level of sugar (glucose) in the blood by helping sugar move into cells. Most of the time when your blood sugar level decreases, the pancreas stops making insulin to make sure that your blood sugar stays in the normal range. Tumors of the pancreas that produce too much insulin are called insulinomas. Insulinomas keep making insulin, and can make your blood sugar level too low (hypoglycemia). A high blood insulin level causes a low blood sugar level ( hypoglycemia ). Hypoglycemia may be mild, leading to symptoms such as anxiety and hunger. Or it can be severe, leading to seizures, coma, and even death. Insulinomas are very rare tumors. They usually occur as single, small tumors. But there can also be several small tumors. Most insulinomas are non-cancerous (benign) tumors. People with certain genetic disorders, such as  multiple endocrine neoplasia type I , are at higher risk for insulinomas.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002201-3" qtype="symptoms">What are the symptoms of Insulinoma ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms are most common when you are fasting or skip or delay a meal. Symptoms may include: Anxiety , behavior changes, or  confusion , Clouded vision,  Loss of consciousness  or coma,  Convulsions  or tremor, Dizziness or headache, Hunger between meals; weight gain is common,  Fast heart rate  or palpitations, Sweating, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002201-4" qtype="exams and tests">How to diagnose Insulinoma ?</Question>
-			<Answer></Answer>
+			<Answer>After fasting, your blood may be tested for: Blood  C-peptide  level, Blood glucose level, Blood insulin level, Drugs that cause the pancreas to release insulin , The response of your body to a shot of glucagon ,  CT ,  MRI , or  PET  scan of the abdomen may be done to look for a tumor in the pancreas. If a tumor is not seen in the scans, one of the following tests may be performed: Endoscopic ultrasound  (test that uses a flexible scope and sound waves to view digestive organs), Octreotide scan (special test that checks for specific hormone-producing cells in the body), Pancreatic  arteriography  (test that uses special dye to view the arteries in the pancreas), Pancreatic venous sampling for insulin (test that helps locate the approximate location of the tumor inside the pancreas), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002201-5" qtype="treatment">What are the treatments for Insulinoma ?</Question>
-			<Answer></Answer>
+			<Answer>Surgery is the usual treatment for insulinoma. If there is a single tumor, it will be removed. If there are many tumors, part of the pancreas will need to be removed. At least 15% of the pancreas must be left to produce normal levels of enzymes for digestion.  In rare cases, the entire pancreas is removed if there are many insulinomas or they come back after surgery. Removing the entire pancreas leads to diabetes because there is no longer any insulin being produced. Insulin shots (injections) are then required. If no tumor is found during surgery, or if you can't have surgery, you may get the medicine diazoxide to lower insulin production and prevent hypoglycemia. A water pill (diuretic) is given with this medicine to prevent the body from retaining fluid. Octreotide is another medicine that is used to reduce insulin release in some people.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002201-6" qtype="outlook">What is the outlook for Insulinoma ?</Question>
-			<Answer></Answer>
+			<Answer>In most cases, the tumor is non-cancerous (benign), and surgery can cure the disease. But a severe hypoglycemic reaction or the spread of a cancerous tumor to other organs can be life threatening.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002201-7" qtype="complications">What are the complications of Insulinoma ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Severe hypoglycemic reaction, Spread of a cancerous tumor ( metastasis ), Diabetes if the entire pancreas is removed (rare), or food not being absorbed if too much of the pancreas is removed, Inflammation and swelling of the pancreas, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002201-8" qtype="when to contact a medical professional">Do I need to see a doctor for Insulinoma ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you develop any symptoms of insulinoma. Seizures and losing consciousness are an emergency. Call 911 or the local emergency number right away.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

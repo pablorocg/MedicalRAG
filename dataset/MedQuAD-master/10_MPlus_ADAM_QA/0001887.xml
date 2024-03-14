@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001887" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000291.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Heart valve surgery - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -29,7 +28,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001887-1" qtype="information">Do you have information about Heart valve surgery - discharge</Question>
-			<Answer></Answer>
+			<Answer>Heart valve surgery is used to repair or replace diseased heart valves. Your surgery may have been done through a large incision (cut) in the middle of your chest, through a smaller cut between your ribs or through 2 to 4 small cuts.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

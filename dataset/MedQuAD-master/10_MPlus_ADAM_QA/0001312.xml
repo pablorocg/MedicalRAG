@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001312" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000761.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>E-cigarettes and E-hookahs</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001312-1" qtype="information">Do you have information about E-cigarettes and E-hookahs</Question>
-			<Answer></Answer>
+			<Answer>Electronic cigarettes (e-cigarettes), electronic hookahs (e-hookahs), and vape pens allow the user to inhale a vapor that may contain nicotine as well as flavorings, solvents, and other chemicals. E-cigarettes and e-hookahs come in many shapes, including cigarettes, pipes, pens, USB sticks, cartridges, and refillable tanks, pods, and mods. There is evidence that some of these products are associated with significant lung injury and death.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

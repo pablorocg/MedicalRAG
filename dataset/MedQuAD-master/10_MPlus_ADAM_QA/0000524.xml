@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000524" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003887.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bowel transit time</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000524-1" qtype="information">Do you have information about Bowel transit time</Question>
-			<Answer></Answer>
+			<Answer>Bowel transit time refers to how long it takes for the food to move from the mouth to the end of the intestine (anus). This article talks about the medical test used to determine bowel transit time using a radiopaque marker testing.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

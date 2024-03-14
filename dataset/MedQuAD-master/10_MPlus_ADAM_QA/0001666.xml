@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001666" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002930.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Gallbladder removal - open</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001666-1" qtype="information">Do you have information about Gallbladder removal - open</Question>
-			<Answer></Answer>
+			<Answer>Open gallbladder removal is surgery to remove the gallbladder through a large cut in your abdomen. The gallbladder is an organ that sits below the liver. It stores bile, which your body uses to digest fats in the small intestine.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

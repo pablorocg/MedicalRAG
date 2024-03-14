@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000865" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000004.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cleft lip and palate repair - discharge</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,15 +24,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000865-1" qtype="information">What is (are) Cleft lip and palate repair - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>Your child had surgery to repair  birth defects that caused a cleft  in which the lip or the roof of the mouth did not grow together normally while your child was in the womb. Your child had general anesthesia (asleep and not feeling pain) for the surgery.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000865-2" qtype="outlook">What is the outlook for Cleft lip and palate repair - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000865-7" qtype="when to contact a medical professional">Do I need to see a doctor for Cleft lip and palate repair - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

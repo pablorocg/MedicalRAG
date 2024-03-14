@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004045" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001111.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Truncus arteriosus</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004045-1" qtype="information">What is (are) Truncus arteriosus ?</Question>
-			<Answer></Answer>
+			<Answer>Truncus arteriosus is a rare type of heart disease in which a single blood vessel (truncus arteriosus) comes out of the right and left ventricles, instead of the normal 2 vessels (pulmonary artery and aorta). It is present at birth ( congenital heart disease ). There are different types of truncus arteriosus.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004045-2" qtype="causes">What causes Truncus arteriosus ?</Question>
-			<Answer></Answer>
+			<Answer>In normal circulation, the pulmonary artery comes out of the right ventricle and the aorta comes out of the left ventricle, which are separate from each other. With truncus arteriosus, a single artery comes out of the ventricles. There is most often also a large hole between the 2 ventricles ( ventricular septal defect ). As a result, the blue (without oxygen) and red (oxygen-rich) blood mix. Some of this mixed blood goes to the lungs, and some goes to the rest of the body. Often, more blood than usual ends up going to the lungs. If this condition is not treated, two problems occur: Too much blood circulation in the lungs may cause extra fluid to build up in and around them. This makes it hard to breathe., If left untreated and more than normal blood flows to the lungs for a long time, the blood vessels to the lungs become permanently damaged. Over time, it becomes very hard for the heart to force blood through them. This is called  pulmonary hypertension , which can be life threatening. , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004045-3" qtype="symptoms">What are the symptoms of Truncus arteriosus ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Bluish color to the skin (cyanosis)  due to low oxygen level in the blood, Delayed growth or growth failure, Fatigue, Lethargy, Poor feeding, Rapid breathing (tachypnea), Shortness of breath (dyspnea), Widening of the finger tips (clubbing) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004045-4" qtype="exams and tests">How to diagnose Truncus arteriosus ?</Question>
-			<Answer></Answer>
+			<Answer>A murmur is most often heard when listening to the heart with a stethoscope. Tests include: ECG ,  Echocardiogram ,  Chest x-ray ,  Cardiac catheterization ,  MRI  or  CT scan  of the heart , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004045-5" qtype="treatment">What are the treatments for Truncus arteriosus ?</Question>
-			<Answer></Answer>
+			<Answer>Surgery is needed to treat this condition. The surgery creates 2 separate arteries.  In most cases, the truncal vessel is kept as the new aorta. A new pulmonary artery is created using tissue from another source or using a man-made tube. The branch pulmonary arteries are sewn to this new artery. The hole between the ventricles is closed.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004045-6" qtype="outlook">What is the outlook for Truncus arteriosus ?</Question>
-			<Answer></Answer>
+			<Answer>Complete repair most often provides good results. Another procedure may be needed as the child grows, because the rebuilt pulmonary artery that uses tissue from another source will not grow with the child.  Untreated cases of truncus arteriosus result in death, often during the first year of life. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004045-7" qtype="complications">What are the complications of Truncus arteriosus ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Heart failure , High blood pressure in the lungs (pulmonary hypertension) , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004045-8" qtype="when to contact a medical professional">Do I need to see a doctor for Truncus arteriosus ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if your infant or child: Appears lethargic, Appears overly tired or mildly short of breath, Does not eat well, Does not seem to be growing or developing normally,  If the skin, lips, or nail beds look blue or if the child seems to be very short of breath, take the child to the emergency room or have the child examined promptly.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0004045-9" qtype="prevention">How to prevent Truncus arteriosus ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known prevention. Early treatment can often prevent serious complications. Women who plan to become pregnant should be immunized against rubella if they are not already immune. Rubella infection in a pregnant woman can cause congenital heart disease. Women who are pregnant should get good prenatal care: Avoid alcohol and illegal drugs during pregnancy., Tell your provider that you are pregnant before taking any new medicines., Have a blood test early in your pregnancy to see if you are immune to rubella. If you are not immune, avoid any possible exposure to rubella and get vaccinated right after delivery., Pregnant women who have diabetes should try to get good control over their blood sugar level.,  Some inherited factors may play a role in congenital heart disease. Many family members may be affected. If you are planning to get pregnant, talk to your provider about screening for genetic diseases.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003943" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000636.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Timing of breastfeeding</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003943-1" qtype="information">Do you have information about Timing of breastfeeding</Question>
-			<Answer></Answer>
+			<Answer>Expect that it may take 2 to 3 weeks for you and your baby to get into a breastfeeding routine. Breastfeeding a baby on demand is full-time and exhausting work. Your body needs energy to produce enough milk. Be sure to eat well, rest, and sleep. Take good care of yourself so you can take good care of your baby. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

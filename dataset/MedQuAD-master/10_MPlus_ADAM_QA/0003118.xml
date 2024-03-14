@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003118" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003725.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pleural fluid culture</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003118-1" qtype="information">Do you have information about Pleural fluid culture</Question>
-			<Answer></Answer>
+			<Answer>Pleural fluid culture is a test that examines a sample of fluid that has collected in the pleural space to see if you have an infection or understand the cause of buildup of fluid in this space. The pleural space is the area between the lining of the outside of the lungs (pleura) and the wall of the chest. When fluid collects in the pleural space, the condition is called  pleural effusion .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

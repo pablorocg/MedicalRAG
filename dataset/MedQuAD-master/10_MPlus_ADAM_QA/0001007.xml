@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001007" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002448.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cow's milk - infants</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001007-1" qtype="information">Do you have information about Cow's milk - infants</Question>
-			<Answer></Answer>
+			<Answer>If your child is under 1 year old, you should not feed your baby cow's milk, according to the American Academy of Pediatrics (AAP). Cow's milk does not provide enough: Vitamin E ,  Iron , Essential fatty acids,  Your baby's system cannot handle the high levels of these nutrients in cow's milk: Protein , Sodium, Potassium,  It is also hard for your baby to digest the protein and fat in cow's milk. To provide the best diet and nutrition for your infant, the AAP recommends: If possible, you should feed your baby  breast milk  for at least the first 6 months of life., You should give your baby only breast milk or iron-fortified formula during the first 12 months of life, not cow's milk., Starting at age 6 months, you may add solid foods to your baby's diet.,  If breastfeeding is not possible,  infant formulas  provide a healthy diet for your infant. Whether you use breast milk or formula, your baby may have colic and be fussy. These are common problems in all babies. Cow's milk formulas usually do not cause these symptoms, so it may not help if you switch to a different formula. If your baby has ongoing colic, talk with your health care provider.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000406" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000021.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bathroom safety - adults</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000406-1" qtype="information">Do you have information about Bathroom safety - adults</Question>
-			<Answer></Answer>
+			<Answer>Older adults and people with medical problems are at risk of falling or tripping. This can result in broken bones or more serious injuries. The bathroom is a place in the home where falls often happen. Making changes in your bathroom helps lower your risk of falling.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

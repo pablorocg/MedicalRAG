@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001541" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000402.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Familial dysbetalipoproteinemia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001541-1" qtype="information">What is (are) Familial dysbetalipoproteinemia ?</Question>
-			<Answer></Answer>
+			<Answer>Familial dysbetalipoproteinemia is a disorder passed down through families. It causes high amounts of cholesterol and triglycerides in the blood.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001541-2" qtype="causes">What causes Familial dysbetalipoproteinemia ?</Question>
-			<Answer></Answer>
+			<Answer>A genetic defect causes this condition. The defect results in the buildup of large lipoprotein particles that contain both cholesterol and a type of fat called triglycerides. The disease is linked to defects in the gene for apolipoprotein E. Hypothyroidism ,  obesity , or  diabetes  can make the condition worse. Risk factors for familial dysbetalipoproteinemia include a family history of the disorder or coronary artery disease.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001541-3" qtype="symptoms">What are the symptoms of Familial dysbetalipoproteinemia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may not be seen until age 20 or older. Yellow deposits of fatty material in the skin called  xanthomas  may appear on the eyelids, palms of the hands, soles of the feet, or on the tendons of the ankles, knees and elbows. Other symptoms may include: Chest pain (angina) or other signs of coronary artery disease may be present at a young age, Cramping of one or both calves when walking , Sores on the toes that do not heal, Sudden stroke-like symptoms such as trouble speaking, drooping on one side of the face, weakness of an arm or leg, and loss of balance, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001541-4" qtype="exams and tests">How to diagnose Familial dysbetalipoproteinemia ?</Question>
-			<Answer></Answer>
+			<Answer>Tests that may be done to diagnose this condition include: Genetic testing for apolipoprotein E (apoE), Lipid panel blood test,  Triglyceride level ,  Very low density lipoprotein (VLDL) test , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001541-5" qtype="treatment">What are the treatments for Familial dysbetalipoproteinemia ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to control conditions such as obesity, hypothyroidism, and diabetes. Making diet changes  to reduce calories, saturated fats, and cholesterol may help lower blood cholesterol. If cholesterol and triglyceride levels are still high after you have made diet changes, your health care provider may have you take medicines as well. Medicines to lower blood triglyceride and cholesterol levels include: Bile acid-sequestering resins., Fibrates (gemfibrozil, fenofibrate)., Nicotinic acid., Statins., PCSK9 inhibitors, such as alirocumab (Praluent) and evolocumab (Repatha). These represent a newer class of drugs to treat cholesterol., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001541-6" qtype="outlook">What is the outlook for Familial dysbetalipoproteinemia ?</Question>
-			<Answer></Answer>
+			<Answer>People with this condition have a significantly increased risk for  coronary artery disease  and  peripheral vascular  disease. With treatment, most people are able to greatly reduce their&#160;levels of cholesterol and triglycerides.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001541-7" qtype="complications">What are the complications of Familial dysbetalipoproteinemia ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Heart attack, Stroke, Peripheral vascular disease, Intermittent claudication, Gangrene of the lower extremities, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001541-8" qtype="when to contact a medical professional">Do I need to see a doctor for Familial dysbetalipoproteinemia ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have been diagnosed with this disorder and: 
+   New symptoms develop., Symptoms do not improve with treatment., Symptoms get worse., </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001541-9" qtype="prevention">How to prevent Familial dysbetalipoproteinemia ?</Question>
-			<Answer></Answer>
+			<Answer>Screening the family members of people with this condition may lead to early detection and treatment. Getting treated early and limiting other risk factors such as smoking can help prevent early heart attacks, strokes, and blocked blood vessels.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000405" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000020.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bathing an infant</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000405-1" qtype="information">Do you have information about Bathing an infant</Question>
-			<Answer></Answer>
+			<Answer>Bath time can be fun, but you need to be very careful with your child around water. Most drowning deaths in children happen at home, often when a child is left alone in the bathroom. Do not leave your child alone around water, not even for a few seconds.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002679" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003197.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Movement - uncontrolled or slow</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002679-1" qtype="information">Do you have information about Movement - uncontrolled or slow</Question>
-			<Answer></Answer>
+			<Answer>Uncontrolled or slow movement is a problem with muscle tone, usually in the large muscle groups. The problem leads to slow, uncontrollable jerky movements of the head, limbs, trunk, or neck.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

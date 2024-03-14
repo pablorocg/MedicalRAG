@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003845" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000255.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Taking warfarin (Coumadin, Jantoven) - what to ask your doctor</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003845-1" qtype="information">Do you have information about Taking warfarin (Coumadin, Jantoven) - what to ask your doctor</Question>
-			<Answer></Answer>
+			<Answer>Warfarin (Coumadin, Jantoven) is a medicine that helps keep your blood from clotting. It is one of several medicines known as blood thinners. This medicine may be important if you have already had blood clots, or if your health care provider is worried that you may form a blood clot. Below are questions you may want to ask your provider to help you when you take warfarin.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

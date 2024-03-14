@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003545" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002050.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Sex-linked dominant</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003545-1" qtype="information">Do you have information about Sex-linked dominant</Question>
-			<Answer></Answer>
+			<Answer>Inheritance of a specific disease, condition, or trait depends on the type of chromosome that is affected. It can be either an autosomal chromosome or a sex chromosome. It also depends on whether the trait is dominant or recessive. Sex-linked diseases are inherited through one of the sex chromosomes, which are the X and Y chromosomes. Dominant inheritance occurs when an abnormal gene from one parent can cause a disease, even though a matching gene from the other parent is normal. The abnormal gene dominates the gene pair. For an X-linked dominant disorder: If the father carries the abnormal X gene, all of his daughters will inherit the disease and none of his sons will have the disease. That is because daughters always inherit their father's X chromosome. If the mother carries the abnormal X gene, half of all their children (daughters and sons) will inherit the disease tendency. For example, if there are four children (two boys and two girls) and the mother is affected (she has one abnormal X and has the disease) but the father does not have the abnormal X gene, the expected odds are: Two children (one girl and one boy) will have the disease, Two children (one girl and one boy) will not have the disease ,  If there are four children (two boys and two girls) and the father is affected (he has one abnormal X and has the disease) but the mother is not, the expected odds are: Two girls will have the disease, Two boys will not have the disease ,  These odds do not mean that the children who inherit the abnormal X will show severe symptoms of the disease. The chance of inheritance is new with each conception, so these expected odds may not be what actually occurs in a family. Some X-linked dominant disorders are so severe that males with the genetic disorder may die before birth. Therefore, there may be an increased rate of miscarriages in the family or fewer male children than expected.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

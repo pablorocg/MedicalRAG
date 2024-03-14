@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002274" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001013.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Keratoconus</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002274-1" qtype="information">What is (are) Keratoconus ?</Question>
-			<Answer></Answer>
+			<Answer>Keratoconus is an eye disease that affects the structure of the cornea. The cornea is the clear tissue that covers the front of the eye. With this condition, the shape of the cornea slowly changes from a round shape to a cone shape. It also gets thinner and the eye bulges out. This causes vision problems. In most people, these changes get worse over time.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002274-2" qtype="causes">What causes Keratoconus ?</Question>
-			<Answer></Answer>
+			<Answer>The cause is unknown. It is likely that the tendency to develop keratoconus is present from birth. The condition may be due to a defect in collagen. This is the tissue that provides the shape and strength to the cornea. Allergy and eye rubbing may speed up the damage. There is a link between keratoconus and  Down syndrome .</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002274-3" qtype="symptoms">What are the symptoms of Keratoconus ?</Question>
-			<Answer></Answer>
+			<Answer>The earliest symptom is a slight blurring of vision that cannot be corrected with glasses. (Vision can most often be corrected to 20/20 with rigid, gas-permeable contact lenses.) Over time, you may see halos, have glare, or other night vision problems. Most people who develop keratoconus have a history of being  nearsighted . The nearsightedness tends to become worse over time. As the problem gets worse, astigmatism develops and may worsen over time.  Keratoconus is often discovered during the teenage years. It may also develop in older people.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002274-4" qtype="exams and tests">How to diagnose Keratoconus ?</Question>
-			<Answer></Answer>
+			<Answer>The most accurate test for this problem is called corneal topography, which creates a map of the curve of the cornea.  A  slit-lamp exam  of the cornea can diagnose the disease in the later stages.  A test called pachymetry can be used to measure the thickness of the cornea. </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002274-5" qtype="treatment">What are the treatments for Keratoconus ?</Question>
-			<Answer></Answer>
+			<Answer>Contact lenses are the main treatment for most patients with keratoconus. The lenses may provide good vision, but they do not treat or stop the condition. For people with the condition, wearing sunglasses outdoors after being diagnosed may help slow or prevent the progress of the disease. For many years, the only surgical treatment has been  corneal transplantation . The following newer technologies may delay or prevent the need for corneal transplantation: High-frequency radio energy (conductive keratoplasty)  changes the shape of the cornea so contact lenses fit better.,  Corneal implants (intracorneal ring segments)  change the shape of the cornea so contact lenses fit better.,  Corneal collagen cross-linking  is a treatment that causes the cornea to become stiff. In most cases, it prevents the condition from getting worse. It may then be possible to reshape the cornea with laser vision correction., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002274-6" qtype="outlook">What is the outlook for Keratoconus ?</Question>
-			<Answer></Answer>
+			<Answer>In most cases, vision can be corrected with rigid gas-permeable contact lenses. If corneal transplantation is needed, results are very often good. However, the recovery period can be long. Many people still need contact lenses after the surgery.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002274-7" qtype="complications">What are the complications of Keratoconus ?</Question>
-			<Answer></Answer>
+			<Answer>If left untreated, the cornea may thin to the point where a hole develops in the thinnest part. There is a risk of rejection after a cornea transplant, but the risk is much lower than with other organ transplants. You should not have laser vision correction (such as LASIK) if you have any degree of keratoconus. Corneal topography is done beforehand to rule out people with this condition. In rare cases, other laser vision correction procedures, such as PRK, may be safe for people with mild keratoconus. This may be more possible in people who have had corneal collagen cross-linking.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002274-8" qtype="when to contact a medical professional">Do I need to see a doctor for Keratoconus ?</Question>
-			<Answer></Answer>
+			<Answer>Young people whose vision cannot be corrected to 20/20 with glasses should be checked by an eye doctor familiar with keratoconus. Parents with keratoconus should consider having their children screened for the disease starting at age 10. </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002274-9" qtype="prevention">How to prevent Keratoconus ?</Question>
-			<Answer></Answer>
+			<Answer>There is no way to prevent this condition. Most health care providers believe that people should take steps to control allergies and avoid rubbing their eyes.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

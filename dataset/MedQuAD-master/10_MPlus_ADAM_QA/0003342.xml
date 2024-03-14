@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003342" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003648.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>RBC indices</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -16,7 +15,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003342-1" qtype="information">Do you have information about RBC indices</Question>
-			<Answer></Answer>
+			<Answer>Red blood cell (RBC) indices are part of the  complete blood count  (CBC) test. They are used to help diagnose the cause of anemia, a condition in which there are too few red blood cells. The indices include: Average red blood cell size (MCV),  Hemoglobin  amount per red blood cell (MCH), The amount of hemoglobin relative to the size of the cell (hemoglobin concentration) per red blood cell (MCHC) , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

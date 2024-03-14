@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002131" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000466.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>IgA nephropathy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002131-1" qtype="information">What is (are) IgA nephropathy ?</Question>
-			<Answer></Answer>
+			<Answer>IgA nephropathy is a kidney disorder in which antibodies (called IgA) build up in kidney tissue. Nephropathy is damage, disease, or other problems with the kidney. IgA nephropathy is also called Berger disease.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002131-2" qtype="causes">What causes IgA nephropathy ?</Question>
-			<Answer></Answer>
+			<Answer>IgA is a protein, called an  antibody , that helps the body fight infections. IgA nephropathy occurs when too much of this protein is deposited in the kidneys. IgA builds up inside the small blood vessels of the kidney. Structures in the kidney called glomeruli become inflamed and damaged. The disorder can appear suddenly ( acute ), or get worse slowly over many years (chronic  glomerulonephritis ). Risk factors include: A personal or family history of IgA nephropathy or Henoch-Sch&#246;nlein  purpura , a form of  vasculitis  that affects many parts of the body, White or Asian ethnicity,  IgA nephropathy can occur in people of all ages, but it most often affects males in their teens to late 30s.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002131-3" qtype="symptoms">What are the symptoms of IgA nephropathy ?</Question>
-			<Answer></Answer>
+			<Answer>There may be no symptoms for many years. When there are symptoms, they may include: Bloody urine that starts during or soon after a respiratory infection, Repeated episodes of dark or bloody urine, Swelling of the hands and feet, Symptoms of  chronic kidney disease , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002131-4" qtype="exams and tests">How to diagnose IgA nephropathy ?</Question>
-			<Answer></Answer>
+			<Answer>IgA nephropathy is most often discovered when a person with no other symptoms of kidney problems has one or more episodes of dark or bloody urine. There are no specific changes seen during a physical examination. Sometimes, the blood pressure may be high or there may be swelling in parts of the body. Tests include: Blood urea nitrogen  (BUN) test to measure kidney function,  Creatinine blood test  to measure kidney function,  Kidney biopsy  to confirm the diagnosis,  Urinalysis , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002131-5" qtype="treatment">What are the treatments for IgA nephropathy ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to relieve symptoms and prevent or delay  chronic renal failure . The treatment may include: Angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs) to control high blood pressure and swelling ( edema ), Corticosteroids, other medicines that suppress the immune system, Fish oil, Medicines to lower cholesterol,  Salt and fluid intakes may be restricted to control swelling. A low-to-moderate  protein  diet may be recommended in some cases. Eventually, many people must be treated for chronic kidney disease and may need  dialysis .</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002131-6" qtype="support groups">Where to find support for people with IgA nephropathy ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002131-7" qtype="outlook">What is the outlook for IgA nephropathy ?</Question>
-			<Answer></Answer>
+			<Answer>IgA nephropathy gets worse slowly. In many cases, it does not get worse at all. Your condition is more likely to get worse if you have: High blood pressure, Large amounts of  protein in the urine , Increased BUN or creatinine levels, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002131-8" qtype="when to contact a medical professional">Do I need to see a doctor for IgA nephropathy ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have bloody urine or if you are producing less urine than usual.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

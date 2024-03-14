@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002542" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001569.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Measles</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002542-1" qtype="information">What is (are) Measles ?</Question>
-			<Answer></Answer>
+			<Answer>Measles is a very contagious (easily spread) illness caused by a virus.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002542-2" qtype="causes">What causes Measles ?</Question>
-			<Answer></Answer>
+			<Answer>Measles is spread by contact with droplets from the nose, mouth, or throat of an infected person. Sneezing and coughing can put contaminated droplets into the air. If one person has the measles, 90% of the people who come in contact with that person will get the measles, unless they have been vaccinated. People who had measles or who have been vaccinated against measles are protected from the disease. As of 2000, measles had been eliminated in the United States. However, unvaccinated people who travel to other countries where measles is common have brought the disease back to the United States. This has led to recent outbreaks of measles in groups of people who are unvaccinated. Some parents do not let their children get vaccinated. This is because of unfounded fears that the MMR vaccine, which protects against measles, mumps, and rubella, can cause autism. Parents and caregivers should know that: Large studies of thousands of children have found no connection between this or any vaccine and autism., Reviews by all major health organizations in the United States, Great Britain, and elsewhere all found NO LINK between the MMR vaccine and autism., The study that had first reported a risk of autism from this vaccine has been proven to be fraudulent., </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002542-3" qtype="symptoms">What are the symptoms of Measles ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of measles usually begin 10 to 14 days after exposure to the virus. This is called the incubation period. Rash is often the main symptom. The rash: Usually appears 3 to 5 days after the first signs of being sick, May last 4 to 7 days, Usually starts on the head and spreads to other areas, moving down the body, May appear as flat, discolored areas ( macules ) and solid, red, raised areas ( papules ) that later join together, Itches ,  Other symptoms may include: Bloodshot eyes , Cough, Fever, Light sensitivity ( photophobia ),  Muscle pain , Red and inflamed eyes ( conjunctivitis ), Runny nose, Sore throat, Tiny white spots inside the mouth (Koplik spots) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002542-4" qtype="exams and tests">How to diagnose Measles ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam and ask about symptoms. The diagnosis can be made by looking at the rash and seeing Koplik spots in the mouth. Sometimes measles can be hard to diagnose in which case blood tests may need to be done.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002542-5" qtype="treatment">What are the treatments for Measles ?</Question>
-			<Answer></Answer>
+			<Answer>There is no specific treatment for the measles. The following may relieve symptoms: Acetaminophen (Tylenol), Bed rest, Humidified air ,  Some children may need vitamin A supplements, which reduce the risk of death and complications in children who do not get enough vitamin A. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002542-6" qtype="outlook">What is the outlook for Measles ?</Question>
-			<Answer></Answer>
+			<Answer>Those who do not have complications such as pneumonia do very well.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002542-7" qtype="complications">What are the complications of Measles ?</Question>
-			<Answer></Answer>
+			<Answer>Complications of measles infection may include: Irritation and swelling of the main passages that carry air to the lungs ( bronchitis )
+   , Diarrhea, Irritation and swelling of the brain ( encephalitis ), Ear infection ( otitis media ),  Pneumonia , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002542-8" qtype="when to contact a medical professional">Do I need to see a doctor for Measles ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you or your child has symptoms of measles.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002542-9" qtype="prevention">How to prevent Measles ?</Question>
-			<Answer></Answer>
+			<Answer>Getting  vaccinated  is a very effective way to prevent measles. People who are not immunized, or who have not received the full immunization, are at high risk of catching the disease if they are exposed. Taking serum immune globulin within 6 days after being exposed to the virus can reduce the risk of developing measles or make the disease less severe.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

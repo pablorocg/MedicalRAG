@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003258" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003540.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Protein electrophoresis - serum</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003258-1" qtype="information">Do you have information about Protein electrophoresis - serum</Question>
-			<Answer></Answer>
+			<Answer>This lab test measures the types of protein in the fluid (serum) part of a blood sample. This fluid is called serum.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

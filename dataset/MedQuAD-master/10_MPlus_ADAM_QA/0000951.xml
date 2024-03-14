@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000951" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001114.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Congenital heart disease</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,27 +19,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000951-1" qtype="information">What is (are) Congenital heart disease ?</Question>
-			<Answer></Answer>
+			<Answer>Congenital heart disease (CHD) is a problem with the heart's structure and function that is present at birth.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000951-2" qtype="causes">What causes Congenital heart disease ?</Question>
-			<Answer></Answer>
+			<Answer>CHD can describe a number of different problems affecting the heart. It is the most common type of birth defect. CHD causes more deaths in the first year of life than any other birth defects. CHD is often divided into two types:  cyanotic  (blue skin color caused by a lack of oxygen) and non-cyanotic. The following lists cover the most common CHDs: Cyanotic: Ebstein anomaly ,  Hypoplastic left heart , Pulmonary atresia,  Tetralogy of Fallot ,  Total anomalous pulmonary venous return ,  Transposition of the great vessels ,  Tricuspid atresia ,  Truncus arteriosus ,  Non-cyanotic: Aortic stenosis , Bicuspid aortic valve,  Atrial septal defect  (ASD), Atrioventricular canal ( endocardial cushion defect ),  Coarctation of the aorta ,  Patent ductus arteriosus  (PDA),  Pulmonic stenosis ,  Ventricular septal defect  (VSD) ,  These problems may occur alone or together. Most children with CHD do not have other types of birth defects. However, heart defects may be part of genetic and chromosomal syndromes. Some of these syndromes may be passed down through families. Examples include: DiGeorge syndrome, Down syndrome,  Marfan syndrome ,  Noonan syndrome , Edwards syndrome,  Trisomy 13 ,  Turner syndrome ,  Often, no cause for the heart disease can be found. CHDs continue to be investigated and researched. Drugs such as retinoic acid for acne, chemicals, alcohol, and infections (such as  rubella ) during pregnancy can contribute to some congenital heart problems. Poorly controlled blood sugar in women who have diabetes during pregnancy has also been linked to an increased rate of congenital heart defects.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000951-3" qtype="symptoms">What are the symptoms of Congenital heart disease ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms depend on the condition. Although CHD is present at birth, the symptoms may not appear right away. Defects such as  coarctation of the aorta  may not cause problems for years. Other problems, such as a small  VSD , ASD, or PDA may never cause any problems.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000951-4" qtype="exams and tests">How to diagnose Congenital heart disease ?</Question>
-			<Answer></Answer>
+			<Answer>Most congenital heart defects are found during a  pregnancy ultrasound . When a defect is found this way, a pediatric heart doctor, surgeon, and other specialists can be there when the baby is delivered. Having medical care ready at the delivery can mean the difference between life and death for some babies. Which tests are done on the baby depend on the defect and the symptoms. </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000951-5" qtype="treatment">What are the treatments for Congenital heart disease ?</Question>
-			<Answer></Answer>
+			<Answer>Which treatment is used, and how well the baby responds to it, depends on the condition. Many defects need to be followed carefully. Some will heal over time, while others will need to be treated. Some CHDs can be treated with medicine alone. Others need to be treated with one or more heart procedures or surgeries.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000951-6" qtype="prevention">How to prevent Congenital heart disease ?</Question>
-			<Answer></Answer>
+			<Answer>Women who plan to become pregnant should be immunized against rubella if they are not already immune. Rubella infection in a pregnant woman can cause CHD. Women who are pregnant should get good prenatal care: Avoid alcohol and illegal drugs during pregnancy., Tell your health care provider that you are pregnant before taking any new medicines., Have a blood test early in your pregnancy to see if you are immune to rubella. If you are not immune, avoid any possible exposure to rubella and get vaccinated right after delivery., Pregnant women who have diabetes should try to get good control over their blood sugar level.,  Certain genes may play a role in CHD. Many family members may be affected. Talk to your provider about genetic counseling and screening if you have a family history of CHD.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

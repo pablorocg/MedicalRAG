@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003179" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003839.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>PPD skin test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003179-1" qtype="information">Do you have information about PPD skin test</Question>
-			<Answer></Answer>
+			<Answer>The PPD skin test is a method used to diagnose silent (latent)  tuberculosis  (TB) infection. PPD stands for purified protein derivative.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

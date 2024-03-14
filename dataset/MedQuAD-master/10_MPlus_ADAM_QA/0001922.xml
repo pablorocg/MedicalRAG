@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001922" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002373.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hemorrhagic</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001922-1" qtype="information">Do you have information about Hemorrhagic</Question>
-			<Answer></Answer>
+			<Answer>Hemorrhage is the medical term for bleeding. It most often refers to excessive bleeding. Hemorrhagic diseases are caused by bleeding, or they result in bleeding (hemorrhaging). Related topics include: Primary thrombocythemia  (hemorrhagic thrombocythemia),  Stroke ,  Yellow fever ,  Bleeding disorders ,  Ebola fever ,  Dengue hemorrhagic fever ,  Vitamin K deficiency , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

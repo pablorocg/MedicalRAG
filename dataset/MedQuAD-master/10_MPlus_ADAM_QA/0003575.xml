@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003575" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002200.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Sickle cell anemia - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,8 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003575-1" qtype="information">What is (are) Sickle cell anemia - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on  sickle cell anemia : American Sickle Cell Anemia Association --  ascaa.org , Centers for Disease Control and Prevention --  www.cdc.gov/ncbddd/sicklecell/index.html , Genetic and Rare Diseases Information Center --  rarediseases.info.nih.gov/diseases/8614/sickle-cell-anemia , National Heart, Lung, and Blood Institute --  www.nhlbi.nih.gov/health-topics/sickle-cell-disease , National Organization for Rare Disorders --  rarediseases.org/rare-diseases/sickle-cell-disease/ , Sickle Cell Disease Association of America --  www.sicklecelldisease.org/ , US National Library of Medicine, Genetics Home Reference --  medlineplus.gov/genetics/condition/sickle-cell-disease/ ,  
+\</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

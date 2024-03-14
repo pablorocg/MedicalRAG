@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002797" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007257.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Newborn screening tests</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002797-1" qtype="information">Do you have information about Newborn screening tests</Question>
-			<Answer></Answer>
+			<Answer>Newborn screening tests look for developmental, genetic, and metabolic disorders in the newborn baby. This allows steps to be taken before symptoms develop. Most of these illnesses are very rare, but can be treated if caught early. The types of newborn screening tests that are done vary from state to state. By April 2011, all states reported screening for at least 26 disorders on an expanded and standardized uniform panel. The most thorough screening panel checks for about 40 disorders. However, because  phenylketonuria  (PKU) was the first disorder for which a screening test developed, some people still call the newborn screen "the PKU test".  In addition to blood tests, screening for hearing loss and critical congenital heart disease (CCHD) is recommended for all newborns. Many states require this screening by law as well.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

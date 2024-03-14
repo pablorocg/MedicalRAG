@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003046" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000447.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Personal protective equipment</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003046-1" qtype="information">Do you have information about Personal protective equipment</Question>
-			<Answer></Answer>
+			<Answer>Personal protective equipment (PPE) is special equipment you wear to create a barrier between you and germs. This barrier reduces the chance of touching, being exposed to, and spreading germs. PPE helps prevent the spread of germs in the hospital. This can protect all people including health care workers from infections. All hospital staff, patients, and visitors should use PPE when there will be contact with blood or other bodily fluids as well as when exposed to air-borne diseases such as  COVID-19 .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

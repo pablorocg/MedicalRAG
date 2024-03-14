@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000730" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003997.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Central sleep apnea</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,37 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000730-1" qtype="information">What is (are) Central sleep apnea ?</Question>
-			<Answer></Answer>
+			<Answer>
+Central sleep apnea is a  sleep disorder  in which breathing stops over and over during sleep.
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000730-2" qtype="causes">What causes Central sleep apnea ?</Question>
-			<Answer></Answer>
+			<Answer>Central sleep apnea results when the brain temporarily stops sending signals to the muscles that cause breathing.  The condition often occurs in people who have certain medical problems. For example, it can develop in someone who has a problem with an area of the brain called the brainstem, which controls breathing. Conditions that can cause or lead to central sleep apnea include: Problems that affect the brainstem, including brain infection, stroke, or conditions of the cervical spine (neck), Certain medicines, such as  narcotic painkillers , Being at high altitude,  If the apnea is not associated with another disease, it is called idiopathic central sleep apnea. A condition called Cheyne-Stokes respiration can affect people with severe heart failure and can be associated with central sleep apnea. The breathing pattern involves alternating deep and heavy breathing with shallow, or even not breathing, usually while sleeping. Central sleep apnea is not the same as  obstructive sleep apnea . With obstructive sleep apnea, breathing stops and starts because the airway is narrowed or blocked. Central sleep apnea and obstructive sleep apnea can be present in the same person.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000730-3" qtype="symptoms">What are the symptoms of Central sleep apnea ?</Question>
-			<Answer></Answer>
+			<Answer>People with central sleep apnea have episodes of disrupted breathing during sleep. Other symptoms may include: Chronic fatigue, Daytime sleepiness, Morning headaches, Restless sleep,  Other symptoms may occur if the apnea is due to a problem with the nervous system. Symptoms depend on&#160;the&#160;parts of the nervous system that are affected,&#160;and may include: Shortness of breath, Swallowing problems, Voice changes, Weakness or numbness throughout the body, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000730-4" qtype="exams and tests">How to diagnose Central sleep apnea ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam. Tests will be done to diagnose an underlying medical condition. A  sleep study (polysomnography)  can confirm sleep apnea. Other tests that may be done include: Echocardiogram ,  Lung function  testing,  MRI  of the brain, spine, or neck, Blood tests, such as arterial blood gas levels, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000730-5" qtype="treatment">What are the treatments for Central sleep apnea ?</Question>
-			<Answer></Answer>
+			<Answer>Treating the condition that is causing central sleep apnea can help manage symptoms. For example, if central sleep apnea is due to heart failure, the goal is to treat the heart failure itself. Devices used during sleep to aid breathing may be recommended. These include  nasal continuous positive airway pressure (CPAP) ,  bilevel positive airway pressure (BiPAP)  or adaptive servo-ventilation (ASV). Some types of central sleep apnea are treated with medicines that stimulate breathing. Oxygen treatment may help ensure the lungs get enough oxygen while sleeping. If narcotic medicine is causing the apnea, the dosage may need to be lowered or the medicine changed. The FDA has approved a medical device (remede System) to treat central sleep apnea. The device is implanted in the chest. When a breathing pause is detected, the device stimulates the nerve that controls the breathing muscles so that you will breathe.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000730-6" qtype="outlook">What is the outlook for Central sleep apnea ?</Question>
-			<Answer></Answer>
+			<Answer>How well you do depends on the medical condition causing central sleep apnea. The outlook is usually favorable for people with idiopathic central sleep apnea.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000730-7" qtype="complications">What are the complications of Central sleep apnea ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may result from the underlying disease causing the central sleep apnea.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000730-8" qtype="when to contact a medical professional">Do I need to see a doctor for Central sleep apnea ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have symptoms of sleep apnea. Central sleep apnea is usually diagnosed in people who are already severely ill.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

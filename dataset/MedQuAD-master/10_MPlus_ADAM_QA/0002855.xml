@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002855" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003863.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Open pleural biopsy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002855-1" qtype="information">Do you have information about Open pleural biopsy</Question>
-			<Answer></Answer>
+			<Answer>An open pleural biopsy is a procedure to remove and examine the tissue that lines the inside of the chest. This tissue is called the pleura.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

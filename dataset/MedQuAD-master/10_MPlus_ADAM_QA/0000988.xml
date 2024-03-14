@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000988" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001017.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Corneal injury</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,31 +16,36 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000988-1" qtype="information">What is (are) Corneal injury ?</Question>
-			<Answer></Answer>
+			<Answer>Corneal injury is a wound to the part of the eye known as the cornea. The cornea is the crystal clear (transparent) tissue that covers the front of the eye. It works with the lens of the eye to focus images on the retina.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000988-2" qtype="causes">What causes Corneal injury ?</Question>
-			<Answer></Answer>
+			<Answer>Injuries to the cornea are common. Injuries to the outer surface may be due to:  
+ Abrasions  -- &#160;Includes scratches or scrapes on the surface of the cornea,  
+ Chemical injuries  -- &#160;Caused by almost any fluid that gets into the eye,  
+ Contact lens problems  -- &#160;Overuse, poor fit, or sensitivity to contact lens care solutions,  
+ Foreign bodies  -- &#160;Exposure to something in the eye such as sand or dust,  
+ Ultraviolet injuries  -- &#160;Caused by sunlight, sun lamps, snow or water reflections, or arc-welding ,  Infections  may also damage the cornea. You are more likely to develop a corneal injury if you: Are exposed to sunlight or artificial ultraviolet light for long periods of time, Have ill-fitting contact lenses or overuse your contact lenses, Have very  dry eyes , Work in a dusty environment, Use a hammer or power tools without wearing safety glasses ,  High-speed particles, such as chips from hammering metal on metal, may get stuck in the surface of the cornea. Rarely, they may penetrate deeper into the eye. Watch this video about: Corneal injury</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000988-3" qtype="symptoms">What are the symptoms of Corneal injury ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Blurred vision,  Eye pain  or stinging and burning in the eye, Feeling like something is in your eye (may be caused by a scratch or something in your eye),  Light sensitivity ,  Redness of the eye , Swollen eyelids, Watery eyes or increased tearing , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000988-4" qtype="exams and tests">How to diagnose Corneal injury ?</Question>
-			<Answer></Answer>
+			<Answer>You will need to have a complete eye test. The health care provider may use eye drops containing fluorescein dye to help look for injuries. Tests may include:  Standard eye exam ,  Slit lamp examination , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000988-5" qtype="treatment">What are the treatments for Corneal injury ?</Question>
-			<Answer></Answer>
+			<Answer>First aid for  eye emergencies : Do not try to remove an object that is stuck in your eye without professional medical help., If chemicals are splashed in the eye, immediately flush the eye with water for 15 minutes. The person should be quickly taken to the nearest emergency room. ,  Anyone with severe eye pain needs to be seen in an emergency care center or examined by an ophthalmologist right away. Treatment for corneal injuries may involve: Removing foreign material from the eye, Wearing an eye patch or temporary bandage contact lens, Using eye drops or ointments prescribed by the doctor, Not wearing contact lenses until the eye has healed, Taking pain medicines , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000988-6" qtype="outlook">What is the outlook for Corneal injury ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, injuries that affect only the surface of the cornea heal very quickly with treatment. The eye should be back to normal within 2 days. For more serious injuries or when there may be delayed healing, placement of an amniotic membrane (from purified placental tissue) can be very helpful. Injuries that penetrate the cornea are much more serious. The outcome depends on the specific injury.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000988-8" qtype="prevention">How to prevent Corneal injury ?</Question>
-			<Answer></Answer>
+			<Answer>Things you can do to prevent corneal injuries include: Wear safety goggles at all times when using hand or power tools or chemicals, during high impact sports, or during other activities where you may get an eye injury., Wear sunglasses that screen ultraviolet light when you are exposed to sunlight or are in the vicinity of arc welding. Wear this type of sunglasses even during the winter., Be careful when using household cleaners. Many household products contain strong chemicals. Drain and oven cleaners are very dangerous. They can lead to blindness if not used properly. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

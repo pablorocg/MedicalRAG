@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002037" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000748.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>How to take statins</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002037-1" qtype="information">Do you have information about How to take statins</Question>
-			<Answer></Answer>
+			<Answer>Statins are medicines that help lower the amount of cholesterol and other fats in your blood. Statins work by: Lowering LDL (bad)  cholesterol , Raising HDL (good) cholesterol in your blood, Lowering  triglycerides , another type of fat in your blood ,  Statins block how your liver makes cholesterol. Cholesterol can stick to the walls of your arteries and narrow or block them.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

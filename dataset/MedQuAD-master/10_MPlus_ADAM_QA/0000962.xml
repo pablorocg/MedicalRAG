@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000962" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003125.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Constipation</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,27 +22,29 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000962-1" qtype="information">What is (are) Constipation ?</Question>
-			<Answer></Answer>
+			<Answer>Constipation in infants and children means they have hard stools or have problems passing stools. A child may have pain while passing stools or may be unable to have a bowel movement after straining or pushing.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000962-2" qtype="considerations">What to do for Constipation ?</Question>
-			<Answer></Answer>
+			<Answer>Constipation is common in children. However, normal bowel movements are different for each child. In the first month, infants tend to have bowel movements about once a day. After that, babies can go a few days or even a week between bowel movements. It's also difficult to pass stools because their abdominal muscles are weak. So babies tend to strain, cry, and get red in the face when they have a bowel movement. This does not mean they are constipated. If bowel movements are soft, then there is likely no problem. Signs of constipation in infants and children may include: Being very fussy and spitting up more often (infants), Difficulty passing stools or seeming uncomfortable, Hard, dry stools, Pain when having a bowel movement, Belly pain and bloating, Large, wide stools, Blood on the stool or on toilet paper, Traces of liquid or stool in a child's underwear (may be a sign of fecal impaction), Having less than 3 bowel movements a week (children), Moving their body in different positions or clenching their buttocks,  Make sure your infant or child has a problem before treating constipation: Some children do not have a bowel movement every day., Also, some healthy children always have very soft stools., Other children have firm stools, but are able to pass them without problems. 
+, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000962-3" qtype="causes">What causes Constipation ?</Question>
-			<Answer></Answer>
+			<Answer>Constipation occurs when the stool remains in the colon for too long. Too much water gets absorbed by the colon, leaving hard, dry stools. Constipation may be caused by: Ignoring the urge to use the toilet, Not eating enough  fiber , Not drinking enough fluids, Switching to solid foods or from breast milk to formula (infants), Changes in situation, such as travel, starting school, or stressful events,  Medical causes of constipation may include: Diseases of the bowel, such as those that affect the  bowel muscles  or nerves, Other medical conditions that affect the bowel, Use of certain medicines,  Children may ignore the urge to have a bowel movement because: They are not ready for toilet training, They are learning to control their bowel movements, They have had previous painful bowel movements and want to avoid them, They don't want to use a school or public toilet, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000962-4" qtype="considerations">What to do for Constipation ?</Question>
-			<Answer></Answer>
+			<Answer>Constipation is common in children. However, normal bowel movements are different for each child. In the first month, infants tend to have bowel movements about once a day. After that, babies can go a few days or even a week between bowel movements. It's also difficult to pass stools because their abdominal muscles are weak. So babies tend to strain, cry, and get red in the face when they have a bowel movement. This does not mean they are constipated. If bowel movements are soft, then there is likely no problem. Signs of constipation in infants and children may include: Being very fussy and spitting up more often (infants), Difficulty passing stools or seeming uncomfortable, Hard, dry stools, Pain when having a bowel movement, Belly pain and bloating, Large, wide stools, Blood on the stool or on toilet paper, Traces of liquid or stool in a child's underwear (may be a sign of fecal impaction), Having less than 3 bowel movements a week (children), Moving their body in different positions or clenching their buttocks,  Make sure your infant or child has a problem before treating constipation: Some children do not have a bowel movement every day., Also, some healthy children always have very soft stools., Other children have firm stools, but are able to pass them without problems. 
+, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000962-5" qtype="when to contact a medical professional">Do I need to see a doctor for Constipation ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your child's provider right away if: An infant (except those who are only breastfed) goes 3 days without a stool and is vomiting or irritable,  Also contact your child's provider if: An infant younger than 2 months is constipated., Non-breastfeeding infants go 3 days without having a bowel movement (Contact your child's provider right away&#160;if there is vomiting or irritability.), A child is holding back bowel movements to resist toilet training., There is blood in the stools., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000962-6" qtype="outlook">What is the outlook for Constipation ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

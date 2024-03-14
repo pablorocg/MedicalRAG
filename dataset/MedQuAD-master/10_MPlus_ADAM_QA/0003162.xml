@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003162" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000406.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Post surgical pain treatment - adults</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003162-1" qtype="information">What is (are) Post surgical pain treatment - adults ?</Question>
-			<Answer></Answer>
+			<Answer>Pain that occurs after surgery is an important concern. Before your surgery, you and your surgeon may have discussed how much pain you should expect and how it will be managed. It is not expected that medicines will take away your pain entirely. Instead, the goal is to decrease the pain enough so you are able to be out of bed and do some of your normal activities. Several factors determine how much pain you have and how to manage it: Different types of surgeries and surgical cuts (incisions) cause different types and amounts of pain afterward., A longer and more invasive surgery, besides causing more pain, can take more out of you. Recovering from these other effects of surgery can make it harder to deal with the pain., Each person feels and reacts to pain differently. ,  Controlling your pain is important for your recovery. Good pain control is needed so you can get up and begin to move around. This is important because: It lowers your risk for  blood clots  in your legs or lungs, as well as lung and urinary infections., You will have a shorter hospital stay so that you go home sooner, where you are likely to recover more quickly., You are less likely to have lingering chronic pain problems. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

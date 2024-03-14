@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004297" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000594.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>When to use the emergency room - child</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004297-1" qtype="information">Do you have information about When to use the emergency room - child</Question>
-			<Answer></Answer>
+			<Answer>Whenever your child is sick or injured, you need to decide how serious the problem is and how soon to get medical care. This article will help you choose whether it is best to call your health care provider, go to an urgent care clinic, or go to an emergency department right away. It pays to think about the right place to go. Treatment in an emergency department can cost 2 to 3 times more than the same care in your provider&#8217;s office. Think about this and the other issues listed below when deciding.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

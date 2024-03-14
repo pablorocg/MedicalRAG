@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001428" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001019.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Episcleritis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,35 +16,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001428-1" qtype="information">What is (are) Episcleritis ?</Question>
-			<Answer></Answer>
+			<Answer>Episcleritis is irritation and inflammation of the episclera, a thin layer of tissue covering the white part (sclera) of the eye. It is not an infection.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001428-2" qtype="causes">What causes Episcleritis ?</Question>
-			<Answer></Answer>
+			<Answer>Episcleritis is a common condition. In most cases the problem is mild and vision is normal.  The cause is often unknown. But, it may occur with certain diseases, such as: Herpes zoster ,  Rheumatoid arthritis ,  Sj&#246;gren syndrome , Syphilis,  Tuberculosis , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001428-3" qtype="symptoms">What are the symptoms of Episcleritis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: A pink or purple color to the normally white part of the eye,  Eye pain , Eye tenderness,  Sensitivity to light ,  Tearing of the eye , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001428-4" qtype="exams and tests">How to diagnose Episcleritis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will do an eye exam to diagnose the disorder. Most of the time, no special tests are needed.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001428-5" qtype="treatment">What are the treatments for Episcleritis ?</Question>
-			<Answer></Answer>
+			<Answer>The condition most often goes away on its own in 1 to 2 weeks. Using corticosteroid eye drops may help ease the symptoms faster.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001428-6" qtype="outlook">What is the outlook for Episcleritis ?</Question>
-			<Answer></Answer>
+			<Answer>Episcleritis most often improves without treatment. However, treatment may make symptoms go away sooner.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001428-7" qtype="complications">What are the complications of Episcleritis ?</Question>
-			<Answer></Answer>
+			<Answer>In some cases, the condition may return. Rarely, irritation and inflammation of the white part of the eye may develop. This is called scleritis.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001428-8" qtype="when to contact a medical professional">Do I need to see a doctor for Episcleritis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have symptoms of episcleritis that last for more than 2 weeks. Get checked again if your pain gets worse or you have problems with your vision.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

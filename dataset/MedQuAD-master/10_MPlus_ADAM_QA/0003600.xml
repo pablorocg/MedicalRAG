@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003600" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000863.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Skin abscess</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003600-1" qtype="information">What is (are) Skin abscess ?</Question>
-			<Answer></Answer>
+			<Answer>A skin abscess is a buildup of pus in or on the skin.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003600-2" qtype="causes">What causes Skin abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Skin abscesses are common and affect people of all ages. They occur when an infection causes pus to collect in the skin. Skin abscesses may occur after developing: A bacterial infection (often staphylococcus), A minor wound or injury,  Boils ,  Folliculitis  (infection in a hair follicle),  A skin abscess may occur anywhere on the body.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003600-3" qtype="symptoms">What are the symptoms of Skin abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Fever  or  chills , in some cases, Local swelling around the infected spot, Hardened skin tissue, Skin lesion that may be an open or closed sore or a raised area, Redness, tenderness, and warmth in the area, Fluid or pus drainage , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003600-4" qtype="exams and tests">How to diagnose Skin abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider can diagnose the problem by looking at the affected area. The drainage from the sore may be sent to the lab for a culture. This can help identify the cause of the infection.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003600-5" qtype="treatment">What are the treatments for Skin abscess ?</Question>
-			<Answer></Answer>
+			<Answer>You can apply moist heat (such as warm compresses) to help the abscess drain and heal faster. Do not push and squeeze on the abscess. Your provider may cut open the abscess and drain it. If this is done: Numbing medicine will be put on or into your skin., Packing material may be left in the wound to help it heal.,  You may need to take antibiotics by mouth to control the infection. If you have methicillin-resistant  Staphylococcus aureus  (MRSA) or another staph infection, follow instructions for  self-care  at home.&#160;</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003600-6" qtype="outlook">What is the outlook for Skin abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Most skin abscesses can be cured with proper treatment. Infections caused by  MRSA  respond to specific antibiotics.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003600-7" qtype="complications">What are the complications of Skin abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Complications that can occur from an abscess include: Spread of the infection in the same area, Spread of the infection into the blood and throughout the body, Tissue death ( gangrene ) , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003600-8" qtype="when to contact a medical professional">Do I need to see a doctor for Skin abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have any signs of skin infection, including: Drainage of any kind, Fever, Pain, Redness,  Swelling ,  Contact your provider right away if you develop new symptoms during or after treatment of a skin abscess.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003600-9" qtype="prevention">How to prevent Skin abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Keep the skin around minor wounds clean and dry to prevent infection. Call your provider if you notice signs of infection. Take care of&#160;minor infections promptly.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

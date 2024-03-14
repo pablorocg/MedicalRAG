@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000063" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001446.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Acrodermatitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,35 +23,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000063-1" qtype="information">What is (are) Acrodermatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Gianotti-Crosti syndrome is a childhood skin condition that may be accompanied by mild symptoms of fever and  malaise . It may also be associated with hepatitis B and other viral infections.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000063-2" qtype="causes">What causes Acrodermatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Health care providers don't know the exact cause of this disorder. They do know that it is linked with other infections. In Italian children, Gianotti-Crosti syndrome is seen frequently with  hepatitis B &#160;infection. But this link is rarely seen in the United States. Epstein-Barr virus (EBV,  mononucleosis ) is the virus most often associated with acrodermatitis. Other associated viruses include: Cytomegalovirus , Coxsackie viruses, Parainfluenza virus,  Respiratory syncytial virus (RSV) , Some types of live virus vaccines , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000063-3" qtype="symptoms">What are the symptoms of Acrodermatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Skin symptoms may include any of the following: Rash or patch on the skin, usually on the arms and legs, Brownish-red or copper-colored patch that is firm and flat on top, String of bumps may appear in a line, Generally not itchy, Rash looks the same on both sides of the body, Rash may appear on the palms and soles, but not on the back, chest, or belly area (this is one of the ways it is identified, by the absence of the rash on the trunk of the body) ,  Other symptoms that may appear include: Swollen abdomen ,  Swollen lymph nodes , Tender lymph nodes , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000063-4" qtype="exams and tests">How to diagnose Acrodermatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your provider can diagnose this condition by looking at your skin and rash. Your liver, spleen, and lymph nodes may be swollen. The following tests may be done to confirm the diagnosis or rule out other conditions: Bilirubin  level,  Hepatitis virus serology  or  hepatitis B surface antigen , Liver enzymes ( liver function tests ), Screening for  EBV antibodies ,  Skin biopsy , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000063-5" qtype="treatment">What are the treatments for Acrodermatitis ?</Question>
-			<Answer></Answer>
+			<Answer>The disorder itself is not treated. Infections linked with this condition, such as hepatitis B and Epstein-Barr, are treated. Cortisone creams and oral antihistamines may help with itching and irritation.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000063-6" qtype="outlook">What is the outlook for Acrodermatitis ?</Question>
-			<Answer></Answer>
+			<Answer>The rash usually disappears on its own in about 3 to 8 weeks without treatment or complication. Associated conditions must be watched carefully.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000063-7" qtype="complications">What are the complications of Acrodermatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Complications occur as a result of associated conditions, rather than as a result of the rash.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000063-8" qtype="when to contact a medical professional">Do I need to see a doctor for Acrodermatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if your child has signs of this condition.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

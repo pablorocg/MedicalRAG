@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001442" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000851.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Erythema multiforme</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,35 +22,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001442-1" qtype="information">What is (are) Erythema multiforme ?</Question>
-			<Answer></Answer>
+			<Answer>Erythema multiforme (EM) is an acute skin reaction that comes from an infection or another trigger. EM is a self-limiting disease. This means it usually resolves on its own without treatment. </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001442-2" qtype="causes">What causes Erythema multiforme ?</Question>
-			<Answer></Answer>
+			<Answer>EM is a type of  allergic reaction . In most cases, it occurs in response to an infection. In rare cases, it is caused by certain medicines or body-wide (systemic) illness. Infections that may lead to EM include: Viruses, such as  herpes simplex  that cause cold sores and genital herpes (most common), Bacteria, such as  Mycoplasma pneumoniae that cause lung infection, Fungi, such as  Histoplasma capsulatum , that cause  histoplasmosis ,  Medicines that may cause EM include: NSAIDs, Allopurinol (treats gout), Certain antibiotics, such as sulfonamides and aminopenicillins, Anti-seizure medicines,  Systemic illnesses that are associated with EM include: Inflammatory bowel disease, such as  Crohn disease ,  Systemic lupus erythematosus ,  EM occurs mostly in adults 20 to 40 years old. People with EM may have family members who have had EM as well.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001442-3" qtype="symptoms">What are the symptoms of Erythema multiforme ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of EM include: Low-grade  fever , Headache, Sore throat, Cough, Runny nose,  General ill feeling ,  Itchy  skin,  Joint aches , Many&#160; skin lesions  (sores or abnormal areas)&#160; ,  Skin sores may: Start quickly, Come back, Spread, Be raised or discolored, Look like hives, Have a central sore surrounded by pale red rings, also called a target, iris, or bulls-eye, Have liquid-filled bumps or blisters of various sizes, Be located on the upper body, legs, arms, palms, hands, or feet, Include the face or lips, Appear evenly on both sides of the body (symmetrical) ,  Other symptoms may include: Bloodshot eyes , Dry eyes,  Eye burning, itching, and discharge ,  Eye pain ,  Mouth sores , Vision problems ,  There are two forms of EM: EM minor usually involves the skin and sometimes mouth sores., EM major often starts with a fever and joint aches. Besides the skin sores and mouth sores, there may be sores in the eyes, genitals, lung airways, or gut. , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001442-4" qtype="exams and tests">How to diagnose Erythema multiforme ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will look at your skin to diagnose EM. You'll be asked about your medical history, such as recent infections or medicines you've taken. Tests may include: Skin lesion biopsy , Examination of skin tissue under a microscope, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001442-5" qtype="treatment">What are the treatments for Erythema multiforme ?</Question>
-			<Answer></Answer>
+			<Answer>EM usually goes away on its own with or without treatment. Your provider will have you stop taking any medicines that may be causing the problem. But, don't stop taking medicines on your own without talking to your provider first. Treatment may include: Medicines, such as antihistamines, to control itching, Moist compresses applied to the skin, Pain medicines to reduce fever and discomfort, Mouthwashes to ease discomfort of mouth sores that interferes with eating and drinking, Antibiotics for skin infections, Corticosteroids to control inflammation, Medicines for eye symptoms,  Good hygiene may help prevent  secondary infections  (infections that occur from treating the first infection). Use of sunscreen, protective clothing, and avoiding excessive exposure to sun may prevent the recurrence of EM.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001442-6" qtype="outlook">What is the outlook for Erythema multiforme ?</Question>
-			<Answer></Answer>
+			<Answer>Mild forms of EM usually get better in 2 to 6 weeks, but the problem may return.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001442-7" qtype="complications">What are the complications of Erythema multiforme ?</Question>
-			<Answer></Answer>
+			<Answer>Complications of EM may include: Patchy skin color, Return of EM, especially with HSV infection, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001442-8" qtype="when to contact a medical professional">Do I need to see a doctor for Erythema multiforme ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider right away if you have symptoms of EM.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

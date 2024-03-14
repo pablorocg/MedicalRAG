@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000953" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000582.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Congenital platelet function defects</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000953-1" qtype="information">Do you have information about Congenital platelet function defects</Question>
-			<Answer></Answer>
+			<Answer>Congenital platelet function defects are conditions that prevent clotting elements in the blood, called platelets, from working as they should. Platelets help the blood clot. Congenital means present from birth.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

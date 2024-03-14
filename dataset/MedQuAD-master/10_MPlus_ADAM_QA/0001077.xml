@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001077" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002617.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cyproheptadine overdose</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001077-1" qtype="information">Do you have information about Cyproheptadine overdose</Question>
-			<Answer></Answer>
+			<Answer>Cyproheptadine is a type of medicine called an antihistamine. These medicines are used to relieve allergy symptoms. Cyproheptadine overdose occurs when someone takes more than the normal or recommended amount of this medicine. This can be by accident or on purpose. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with overdoses, call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

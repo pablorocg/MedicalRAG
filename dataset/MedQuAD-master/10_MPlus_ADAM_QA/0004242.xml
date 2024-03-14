@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004242" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002403.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Vitamin B12</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004242-1" qtype="information">Do you have information about Vitamin B12</Question>
-			<Answer></Answer>
+			<Answer>Vitamin B12 is a water-soluble vitamin. Water-soluble vitamins dissolve in water. After the body uses these vitamins, leftover amounts leave the body through the urine. The body can store vitamin B12 for years in the liver.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

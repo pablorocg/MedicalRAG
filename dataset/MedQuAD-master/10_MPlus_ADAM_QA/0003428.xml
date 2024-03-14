@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003428" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007339.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Robotic surgery</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003428-1" qtype="information">Do you have information about Robotic surgery</Question>
-			<Answer></Answer>
+			<Answer>Robotic surgery is a method to perform surgery using very small tools attached to a robotic arm. The surgeon controls the robotic arm with a computer.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

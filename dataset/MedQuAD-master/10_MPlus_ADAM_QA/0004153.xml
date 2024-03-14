@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004153" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000344.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Using crutches</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004153-1" qtype="information">Do you have information about Using crutches</Question>
-			<Answer></Answer>
+			<Answer>It is important to start walking as soon as you can after your surgery. But you will need support for walking while your leg heals. Crutches may be a good choice after a leg injury or surgery if you only need a little help with balance and stability. Crutches are also useful when your leg is only a little weak or painful. Talk to your health care provider if you are having a lot of pain, weakness, or problems with balance. A walker may be a better option for you than crutches.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

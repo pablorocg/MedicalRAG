@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002925" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000532.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Palliative care - managing pain</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002925-1" qtype="information">Do you have information about Palliative care - managing pain</Question>
-			<Answer></Answer>
+			<Answer>When you have a serious illness, you may have pain. No one can look at you and know how much pain you have. Only you can feel and describe your pain. There are many treatments for pain. Tell your health care providers about your pain so that they can use the right treatment for you.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

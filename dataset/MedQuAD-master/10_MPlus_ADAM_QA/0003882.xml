@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003882" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003162.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Testicle lump</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,27 +20,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003882-1" qtype="information">What is (are) Testicle lump ?</Question>
-			<Answer></Answer>
+			<Answer>A testicle lump is swelling or a growth (mass) in one or both testicles.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003882-2" qtype="considerations">What to do for Testicle lump ?</Question>
-			<Answer></Answer>
+			<Answer>A testicle lump that does not hurt may be a sign of cancer. Most cases of  testicular cancer  occur in men ages 15 to 40. It can also occur at older or younger ages.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003882-3" qtype="causes">What causes Testicle lump ?</Question>
-			<Answer></Answer>
+			<Answer>Possible causes of a painful scrotal mass include: A cyst-like lump in the scrotum that contains fluid and dead sperm cells (spermatocele). (This condition sometimes does not cause pain.),  Epididymitis ., Infection of the scrotal sac., Injury or trauma.,  Mumps .,  Orchitis  (testicular infection).,  Testicular torsion ., Testicular cancer.,  Varicocele .,  Possible causes if the scrotal mass is not painful: Loop of bowel from a  hernia  (this may or may not cause pain),  Hydrocele , Spermatocele, Testicular cancer, Varicocele , Cyst of epididymis or testicle, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003882-4" qtype="when to contact a medical professional">Do I need to see a doctor for Testicle lump ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider right away if you notice any unexplained lumps or any other changes in your testicles.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003882-5" qtype="outlook">What is the outlook for Testicle lump ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003882-6" qtype="prevention">How to prevent Testicle lump ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

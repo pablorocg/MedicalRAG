@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002438" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007229.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Low calcium level - infants</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,27 +19,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002438-1" qtype="information">What is (are) Low calcium level - infants ?</Question>
-			<Answer></Answer>
+			<Answer>Calcium  is a mineral in the body. It is needed for strong bones and teeth. Calcium also helps the heart, nerves, muscles, and other body systems work well. A low blood calcium level is called hypocalcemia. This article discusses low blood calcium level in infants.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002438-2" qtype="causes">What causes Low calcium level - infants ?</Question>
-			<Answer></Answer>
+			<Answer>A healthy baby most often has very careful control of blood calcium level. A low calcium level in the blood is more likely to occur in newborns, more commonly in those who were born too early (preemies). Common causes of hypocalcemia in a newborn include: Certain medicines, Diabetes in the birth mother, Episodes of very low oxygen levels, Infection, Stress caused by serious illness ,  There are also some rare illnesses that can lead to low calcium level. These include:  DiGeorge syndrome, a genetic disorder., The parathyroid glands help control calcium use and removal by the body. Rarely, a child is born with underactive parathyroid glands. , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002438-3" qtype="symptoms">What are the symptoms of Low calcium level - infants ?</Question>
-			<Answer></Answer>
+			<Answer>Babies with hypocalcemia often have no symptoms. Sometimes, babies with low calcium levels are jittery or have tremors or twitching. Rarely, they have  seizures . These babies may also have a slow heart rate and low blood pressure.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002438-4" qtype="exams and tests">How to diagnose Low calcium level - infants ?</Question>
-			<Answer></Answer>
+			<Answer>Diagnosis is most often made when a blood test shows that the infant's calcium level is low.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002438-5" qtype="treatment">What are the treatments for Low calcium level - infants ?</Question>
-			<Answer></Answer>
+			<Answer>The baby may get extra calcium, if needed.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002438-6" qtype="outlook">What is the outlook for Low calcium level - infants ?</Question>
-			<Answer></Answer>
+			<Answer>Problems with low calcium level in newborns or premature infants most often do not continue long-term.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000111" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001045.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Age-related hearing loss</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,35 +22,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000111-1" qtype="information">What is (are) Age-related hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>Age-related hearing loss, or presbycusis, is the slow loss of hearing that occurs as people get older.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000111-2" qtype="causes">What causes Age-related hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>Tiny hair cells inside your inner ear help you hear. They pick up sound waves and change them into the nerve signals that your brain interprets as sound. Hearing loss occurs when the tiny hair cells are damaged or die. The hair cells do not regrow, so hearing loss caused by hair cell damage is permanent. There is no known single cause of age-related hearing loss. Most commonly, it is caused by changes in the inner ear that occur as you grow older. Your genes and loud noise (for example from loud concerts or music headphones) may play a role. The following factors contribute to age-related hearing loss: Family history (age-related hearing loss tends to run in families), Repeated exposure to loud noises, Smoking (smokers are more likely to have such hearing loss than nonsmokers), Certain medical conditions, such as diabetes, Certain medicines, such as chemotherapy drugs for cancer , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000111-3" qtype="symptoms">What are the symptoms of Age-related hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>Loss of hearing often occurs slowly over time. Symptoms include: Difficulty hearing people around you, Having to raise the volume on the TV, Frequently asking people to repeat themselves, Frustration at not being able to hear, Certain sounds seeming overly loud, Problems hearing in noisy areas, Problems telling apart certain sounds, such as "s" or "th", More difficulty understanding people with higher-pitched voices, Ringing in the ears ,  Talk to your health care provider if you have any of these symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000111-4" qtype="exams and tests">How to diagnose Age-related hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>Your provider will do a complete physical exam. This helps find if a medical problem is causing your hearing loss. Your provider will use an instrument called an otoscope to look in your ears. Sometimes, ear wax can block the ear canals and cause hearing loss. You may be sent to an ear, nose, and throat doctor and a hearing specialist (audiologist).  Hearing tests  can help determine the extent of hearing loss.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000111-5" qtype="treatment">What are the treatments for Age-related hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>There is no cure for age-related hearing loss. Treatment is focused on  improving your everyday function . The following may be helpful: Hearing aids , Telephone amplifiers and other assistive devices, Sign language (for those with severe hearing loss),  Speech reading  (lip reading and using visual cues to aid communication), A  cochlear implant  may be recommended for people with severe hearing loss. Surgery is done to place the implant. The implant allows the person to detect sounds again and with practice can allow the person to understand speech, but it does not restore normal hearing. , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000111-6" qtype="outlook">What is the outlook for Age-related hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>Age-related hearing loss most often gets worse slowly. The hearing loss cannot be reversed and may lead to deafness. Hearing loss may cause you to avoid leaving home. Seek help from your provider and family and friends to avoid becoming isolated. Hearing loss can be  managed  so that you can continue to live a full and active life.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000111-7" qtype="complications">What are the complications of Age-related hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>Hearing loss can result in both physical (for example not hearing a fire alarm) and psychological (such as social isolation) problems. The hearing loss may lead to  deafness . </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000111-8" qtype="when to contact a medical professional">Do I need to see a doctor for Age-related hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>Hearing loss should be checked as soon as possible. This helps rule out causes such as too much wax in the ear or side effects of medicines. Your provider should have you get a hearing test. Contact your provider right away if you have a sudden change in your hearing or hearing loss with other symptoms, such as:  Headache, Vision changes, Dizziness, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

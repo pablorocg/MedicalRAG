@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000976" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000700.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>COPD - managing stress and your mood</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000976-1" qtype="information">What is (are) COPD - managing stress and your mood ?</Question>
-			<Answer></Answer>
+			<Answer>When you have COPD, caring for your emotional health is just as important as taking care of your physical health. Learning how to deal with stress and anxiety and seeking care for depression can help you manage COPD and feel better in general.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000976-4" qtype="treatment">What are the treatments for COPD - managing stress and your mood ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

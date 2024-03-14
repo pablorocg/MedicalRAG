@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003029" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000577.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Peripheral artery disease of the legs - self-care</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,11 +20,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003029-1" qtype="information">What is (are) Peripheral artery disease of the legs - self-care ?</Question>
-			<Answer></Answer>
+			<Answer>Peripheral artery disease (PAD) is a narrowing of the blood vessels that bring blood to the legs and feet. It can occur when cholesterol and other fatty material ( atherosclerotic plaque ) build-up on the walls of your arteries. PAD is mostly seen in people above 65 years of age.  Diabetes , smoking, and  high blood pressure  increase the risk for PAD. The symptoms of PAD include cramps in the legs mostly during physical activities (intermittent claudication). In severe cases, there may also be pain when the leg is at rest. Managing the risk factors can reduce the risk of further cardiovascular damage. Treatment mainly includes medicines and rehabilitation. In severe cases, surgery or other procedures may also be done.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003029-6" qtype="when to contact a medical professional">Do I need to see a doctor for Peripheral artery disease of the legs - self-care ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

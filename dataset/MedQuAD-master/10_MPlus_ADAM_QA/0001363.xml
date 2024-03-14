@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001363" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002350.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Electrolytes</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001363-1" qtype="information">Do you have information about Electrolytes</Question>
-			<Answer></Answer>
+			<Answer>Electrolytes are minerals in your blood and other body fluids that carry an electric charge. Electrolytes affect how your body functions in many ways, including: The amount of water in your body, The acidity of your blood (pH), Your nerve and muscle function, Other important processes ,  You lose electrolytes when you sweat. You must replace them by drinking fluids that contain electrolytes. Water does not contain electrolytes. Common electrolytes include: Calcium, Chloride, Magnesium, Phosphorus, Potassium, Sodium ,  Electrolytes can be acids, bases, or salts. They can be measured by different blood tests. Each electrolyte can be measured separately, such as: Ionized calcium ,  Serum calcium ,  Serum chloride ,  Serum magnesium ,  Serum phosphorus , Serum potassium,  Serum sodium ,  Note: Serum is the part of blood that doesn't contain cells. Sodium, potassium, chloride, and calcium levels can also be measured as part of a  basic metabolic panel . A more complete test, called comprehensive metabolic panel, can test for these and several more chemicals. The  electrolytes - urine test  measures electrolytes in urine. It tests the levels of calcium, chloride, potassium, sodium, and other electrolytes.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

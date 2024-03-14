@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000594" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001088.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bronchopulmonary dysplasia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000594-1" qtype="information">What is (are) Bronchopulmonary dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Bronchopulmonary dysplasia (BPD) is a long-term ( chronic ) lung condition that affects newborn babies who were either put on a breathing machine (ventilator) after birth or were born very early (prematurely).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000594-2" qtype="causes">What causes Bronchopulmonary dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>BPD occurs in very ill infants who received high levels of oxygen for a long period. BPD can also occur in infants who were on a breathing machine. BPD is more common in infants born early, whose lungs were not fully developed at birth. Risk factors include: Congenital heart disease &#160;(problem with the heart's structure and function that is present at birth), Prematurity, usually in infants born before 32 weeks gestation, Severe respiratory or lung infection ,  Risk of severe BPD has decreased in recent years.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000594-3" qtype="symptoms">What are the symptoms of Bronchopulmonary dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include any of the following: Bluish skin  color (cyanosis),  Cough ,  Rapid breathing , Shortness of breath, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000594-4" qtype="exams and tests">How to diagnose Bronchopulmonary dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Tests that may be done to help diagnose BPD include: Arterial blood gas ,  Chest CT scan ,  Chest x-ray , Pulse oximetry, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000594-5" qtype="treatment">What are the treatments for Bronchopulmonary dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>IN THE HOSPITAL Infants who have breathing problems are often put on a ventilator. This is a breathing machine that sends pressure to the baby's lungs to keep them inflated and to deliver more oxygen. As the baby's lungs develop, the pressure and oxygen are slowly reduced. The baby is weaned from the ventilator. The baby may continue to get oxygen by a mask or nasal tube for several weeks or months. Infants with BPD are usually fed by  tubes inserted into the stomach (NG tube) . These babies need extra calories due to the effort of breathing. To keep their lungs from filling with fluid, their fluid intake may need to be limited. They may also be given medicines (diuretics) that remove water from the body. Other medicines can include corticosteroids, bronchodilators, and surfactant. Surfactant is a slippery, soapy-like substance in the lungs that helps the lungs fill with air and keeps the air sacs from deflating. Parents of these infants need emotional support. This is because BPD takes time to get better and the infant may need to stay in the hospital for a long time. AT HOME Infants with BPD may need oxygen therapy for weeks to months after leaving the hospital. Follow your health care provider's instructions to ensure your baby gets enough nutrition during recovery. Your baby may need tube feedings or special formulas. It is very important to prevent your baby from getting colds and other infections, such as  respiratory syncytial virus  (RSV). RSV can cause a severe lung infection, especially in a baby with BPD. A simple way to help prevent RSV infection is to wash your hands often. Follow these measures: Wash your hands with warm water and soap  before touching your baby. Tell others to wash their hands, too, before touching your baby., Ask others to avoid contact with your baby if they have a cold or fever, or ask them to wear a mask., Be aware that kissing your baby can spread RSV., Try to keep young children away from your baby. RSV is very common among young children and spreads easily from child-to-child., DO NOT smoke inside your house, car, or anywhere near your baby. Exposure to tobacco smoke increases the risk of RSV illness. ,  Parents of babies with BPD should avoid crowds during outbreaks of RSV. Outbreaks are often reported by local news media. Your baby's provider may prescribe the medicine palivizumab (Synagis) to prevent RSV infection in your baby. Follow instructions on how to give your baby this medicine.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000594-6" qtype="outlook">What is the outlook for Bronchopulmonary dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Babies with BPD get better slowly over time. Oxygen therapy may be needed for many months. Some infants have long-term lung damage and require oxygen and breathing support, such as with a ventilator. Some infants with this condition may not survive.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000594-7" qtype="complications">What are the complications of Bronchopulmonary dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Babies who have had BPD are at greater risk for repeated respiratory infections, such as  pneumonia ,  bronchiolitis , and RSV that require a hospital stay. Other possible complications in babies who have had BPD are: Developmental problems, Poor growth,  Pulmonary hypertension  (high blood pressure in the arteries of the lungs), Long-term lung and breathing problems such as scarring or bronchiectasis , In severe cases, lung transplantation might be needed, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000594-8" qtype="when to contact a medical professional">Do I need to see a doctor for Bronchopulmonary dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>If your baby had BPD, watch for any  breathing problems . Contact your child's provider if you see any signs of a respiratory infection.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000594-9" qtype="prevention">How to prevent Bronchopulmonary dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>To help prevent BPD: Prevent premature delivery whenever possible. If you are pregnant or thinking about getting pregnant, get  prenatal care  to help keep you and your baby healthy., If your baby is on breathing support, ask the provider how soon your baby can be weaned from the ventilator., Your baby may receive surfactant to help keep the lungs open., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

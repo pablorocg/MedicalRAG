@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000482" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000067.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Blockage of upper airway</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000482-1" qtype="information">What is (are) Blockage of upper airway ?</Question>
-			<Answer></Answer>
+			<Answer>Blockage of the upper airway occurs when the upper breathing passages become narrowed or blocked, making it hard to breathe. Areas in the upper airway that can be affected are the windpipe (trachea), voice box (larynx), or throat (pharynx).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000482-2" qtype="causes">What causes Blockage of upper airway ?</Question>
-			<Answer></Answer>
+			<Answer>The airway can become narrowed or blocked due to many causes, including: Allergic reactions  in which swelling of the trachea or throat in response to bee sting, peanuts, and tree nuts, or medicines such as antibiotics (such as penicillin), and ACE inhibitors (a medicine to treat high blood pressure),  Chemical burns  and reactions,  Epiglottitis  (infection of the structure separating the trachea from the esophagus), Fire or burns from breathing in smoke, Foreign bodies, such as peanuts and other breathed-in foods, pieces of a balloon, buttons, coins, and small toys, Infections of the upper airway area, Injury to the upper airway area,  Peritonsillar abscess  (collection of infected material near the tonsils), Poisoning from certain substances, such as strychnine,  Retropharyngeal abscess  (collection of infected material in the back of the airway), Severe  asthma attack ,  Throat cancer ,  Tracheomalacia  (weakness of the cartilage that supports the trachea), Vocal cord problems, Passing out or being unconscious ,  People at higher risk for airway obstruction include those who have: Neurologic problems such as swallowing difficulty after a stroke or head injury, Lost teeth, Certain mental health problems,  Young children and older adults are also at higher risk for airway obstruction.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000482-3" qtype="symptoms">What are the symptoms of Blockage of upper airway ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms vary, depending on the cause. But some symptoms are common to all types of airway blockage. These include: Agitation  or fidgeting, Bluish color of the skin ( cyanosis ),  Changes in consciousness ,  Choking , Confusion,  Difficulty breathing , gasping for air, leading to panic,  Unconsciousness  (lack of responsiveness),  Wheezing , crowing, whistling, or other unusual breathing noises indicating breathing difficulty , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000482-4" qtype="exams and tests">How to diagnose Blockage of upper airway ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will do a physical examination and check the airway. The provider will also ask about the possible cause of the blockage. Tests are usually not necessary, but may include: Bronchoscopy  (tube through the mouth into the trachea and bronchial tubes), Laryngoscopy (tube through the mouth into the back of the throat and voicebox), X-rays or CT scan (computerized tomography), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000482-5" qtype="treatment">What are the treatments for Blockage of upper airway ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment depends on the cause of the blockage. Objects stuck in the airway may be removed with special instruments., A tube may be inserted into the airway ( endotracheal tube ) to help with breathing., Sometimes an opening is made through the neck into the airway ( tracheostomy  or cricothyrotomy). ,  If the obstruction is due to a foreign body, such as a piece of food that has been breathed in, doing  abdominal thrusts , back blows, or chest compressions can save the person's life.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000482-6" qtype="outlook">What is the outlook for Blockage of upper airway ?</Question>
-			<Answer></Answer>
+			<Answer>Prompt treatment is often successful. But the condition is dangerous and may be fatal, even when treated.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000482-7" qtype="complications">What are the complications of Blockage of upper airway ?</Question>
-			<Answer></Answer>
+			<Answer>If the obstruction is not relieved, it can cause: Brain damage ,  Breathing failure ,  Death , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000482-8" qtype="when to contact a medical professional">Do I need to see a doctor for Blockage of upper airway ?</Question>
-			<Answer></Answer>
+			<Answer>Airway obstruction is often an emergency. Call 911 or the local emergency number for medical help. Follow instructions on how to help keep the person breathing until help arrives.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000482-9" qtype="prevention">How to prevent Blockage of upper airway ?</Question>
-			<Answer></Answer>
+			<Answer>Prevention depends on the cause of the upper airway obstruction. The following methods may help prevent an obstruction: Eat slowly and chew food completely., Do not drink too much alcohol before or while eating., Keep small objects away from young children., Make sure dentures fit properly. ,  Learn to recognize the universal sign for inability to breathe due to a blocked airway: grabbing the neck with one or both hands. Also learn how to clear a foreign body from the airway using a method such as abdominal thrusts.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

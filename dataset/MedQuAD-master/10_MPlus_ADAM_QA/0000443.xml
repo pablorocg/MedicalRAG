@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000443" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002240.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Biliary system</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000443-1" qtype="information">Do you have information about Biliary system</Question>
-			<Answer></Answer>
+			<Answer>The biliary system creates, moves, stores, and releases  bile  into the  duodenum . This helps the body digest food. It also assists in transporting waste products from the liver to the duodenum. The biliary system includes:  The gallbladder, Bile ducts and certain cells inside the liver, Bile ducts outside the liver, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

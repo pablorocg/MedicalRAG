@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003488" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002201.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Scoliosis - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,7 +21,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003488-1" qtype="information">What is (are) Scoliosis - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on  scoliosis : American Academy of Orthopaedic Surgeons --  orthoinfo.aaos.org/en/diseases--conditions/scoliosis-frequently-asked-questions , National Institute of Arthritis and Musculoskeletal and Skin Diseases --  www.niams.nih.gov/health-topics/scoliosis , Scoliosis Research Society --  www.srs.org/patients-and-families , US National Library of Medicine, Genetics Home Reference --  ghr.nlm.nih.gov/condition/adolescent-idiopathic-scoliosis , US National Library of Medicine, MedlinePlus --  medlineplus.gov/scoliosis.html , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

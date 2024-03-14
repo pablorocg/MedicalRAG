@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001110" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000368.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Deciding to have knee or hip replacement</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001110-1" qtype="information">Do you have information about Deciding to have knee or hip replacement</Question>
-			<Answer></Answer>
+			<Answer>There are many things you can do to help decide whether to have  knee  or  hip  replacement surgery or not. These may include reading about the operation and talking to others with knee or hip problems. A key step is talking to your health care provider about your quality of life and goals for surgery. Surgery may or may not be the right choice for you. Only careful thought can help you make a decision.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

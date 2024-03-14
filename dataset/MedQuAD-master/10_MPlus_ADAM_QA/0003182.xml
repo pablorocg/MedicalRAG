@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003182" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000778.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Prediabetes</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,19 +21,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003182-1" qtype="information">What is (are) Prediabetes ?</Question>
-			<Answer></Answer>
+			<Answer>Prediabetes occurs when the level of sugar (glucose) in your blood is too high, but not high enough to be called  diabetes .  If you have prediabetes, you are at an increased risk of developing  type 2 diabetes  within 10 years. It also increases your risk for  heart disease  and stroke.  Losing extra weight and getting regular exercise will reduce the chance of your prediabetes becoming type 2 diabetes. </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003182-2" qtype="information">What is (are) Prediabetes ?</Question>
-			<Answer></Answer>
+			<Answer>Prediabetes occurs when the level of sugar (glucose) in your blood is too high, but not high enough to be called  diabetes .  If you have prediabetes, you are at an increased risk of developing  type 2 diabetes  within 10 years. It also increases your risk for  heart disease  and stroke.  Losing extra weight and getting regular exercise will reduce the chance of your prediabetes becoming type 2 diabetes. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003182-3" qtype="prevention">How to prevent Prediabetes ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003182-4" qtype="susceptibility">Who is at risk for Prediabetes? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

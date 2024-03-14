@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002328" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000180.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Laparoscopic gastric banding - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002328-1" qtype="information">Do you have information about Laparoscopic gastric banding - discharge</Question>
-			<Answer></Answer>
+			<Answer>You had gastric banding surgery to help with weight loss. This article tells you how to take care of yourself after the procedure.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

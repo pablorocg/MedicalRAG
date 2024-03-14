@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000560" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007469.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Breast PET scan</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000560-1" qtype="information">Do you have information about Breast PET scan</Question>
-			<Answer></Answer>
+			<Answer>A positron emission tomography  (PET) scan  is an imaging test that uses a radioactive substance (called a tracer) to look for potential spread of  breast cancer . This tracer can help identify areas of cancer that an MRI or CT scan may not show.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

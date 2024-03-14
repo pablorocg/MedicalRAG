@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000085" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000512.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Acute tubular necrosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,35 +21,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000085-1" qtype="information">What is (are) Acute tubular necrosis ?</Question>
-			<Answer></Answer>
+			<Answer>Acute tubular necrosis (ATN) is a kidney disorder involving damage to the tubule cells of the kidneys, which can lead to  acute kidney failure . The tubules are tiny ducts in the kidneys that help filter the blood when it passes through the kidneys.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000085-2" qtype="causes">What causes Acute tubular necrosis ?</Question>
-			<Answer></Answer>
+			<Answer>ATN is often caused by a lack of blood flow and oxygen to the kidney tissues (ischemia of the kidneys). It may also occur if the kidney cells are damaged by a poison or harmful substance. The internal structures of the kidney, particularly the tissues of the kidney tubule, become damaged or destroyed. ATN is one of the most common structural changes that can lead to acute kidney failure. ATN is a common cause of kidney failure in people who are in the hospital. Risks for ATN include: Blood transfusion reaction , Injury or trauma that damages the muscles, Low blood pressure (hypotension) that lasts longer than 30 minutes, Recent major surgery,  Septic shock  (serious condition that occurs when a body-wide infection leads to dangerously low blood pressure),  Liver disease and kidney damage caused by diabetes ( diabetic nephropathy ) may make a person more prone to develop ATN. ATN can also be caused by medicines that are toxic to the kidneys. These medicines include aminoglycoside antibiotics and the antifungal drug amphotericin.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000085-3" qtype="symptoms">What are the symptoms of Acute tubular necrosis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include any of the following: Decreased consciousness , coma,  delirium  or  confusion , drowsiness, and lethargy,  Decreased urine output  or no urine output, General swelling, fluid retention, Nausea, vomiting, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000085-4" qtype="exams and tests">How to diagnose Acute tubular necrosis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam. Your provider may hear abnormal sounds when listening to the heart and lungs with a stethoscope. This is due to too much fluid in the body. Tests that may be done include: Blood urea nitrogen (BUN)  and serum creatinine,  Fractional excretion of sodium ,  Kidney biopsy ,  Urinalysis ,  Urine sodium ,  Urine specific gravity  and  urine osmolarity , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000085-5" qtype="treatment">What are the treatments for Acute tubular necrosis ?</Question>
-			<Answer></Answer>
+			<Answer>In most people, ATN is reversible. The goal of treatment is to prevent life-threatening complications of acute kidney failure Treatment focuses on preventing the buildup of fluids and wastes, while allowing the kidneys to heal. Treatment may include any of the following: Identifying and treating the underlying cause of the problem, Restricting fluid intake, Taking medicines to help control the potassium level in the blood, Medicines taken by mouth or through an IV to help remove fluid from the body ,  Temporary  dialysis  can remove excess waste and fluids. This can help improve your symptoms so that you feel better. It may also make kidney failure easier to control. Dialysis may not be necessary for all people, but is often lifesaving, especially if  potassium  is dangerously high. Dialysis may be needed in the following cases: Decreased mental status, Fluid overload, Increased potassium level,  Pericarditis  (inflammation of the sac-like covering around the heart), Removal of toxins that are dangerous to the kidneys, Total lack of urine production, Uncontrolled buildup of nitrogen waste products , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000085-6" qtype="outlook">What is the outlook for Acute tubular necrosis ?</Question>
-			<Answer></Answer>
+			<Answer>ATN can last for a few days to 6 weeks or more. This may be followed by 1 or 2 days of making an unusually large amount of urine as the kidneys recover. Kidney function often returns to normal, but there may be other serious problems and complications.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000085-7" qtype="when to contact a medical professional">Do I need to see a doctor for Acute tubular necrosis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if your urine output decreases or stops, or if you develop other symptoms of ATN.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000085-8" qtype="prevention">How to prevent Acute tubular necrosis ?</Question>
-			<Answer></Answer>
+			<Answer>Promptly treating conditions that can lead to decreased blood flow as well as decreased oxygen to the kidneys can reduce the risk for ATN. Blood transfusions are crossmatched to reduce the risk of incompatibility reactions. Diabetes, liver disorders, and heart problems need to be managed well to reduce the risk for ATN. If you know you're taking medicine that can injure your kidneys, ask your provider about having your blood level of the medicine checked regularly. Drink a lot of fluids after having any contrast dyes to allow them to be removed from the body and reduce the risk for kidney damage.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

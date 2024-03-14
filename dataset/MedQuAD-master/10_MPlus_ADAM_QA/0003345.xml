@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003345" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000440.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Reactive arthritis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003345-1" qtype="information">What is (are) Reactive arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Reactive arthritis is a type of arthritis that follows an infection. It may also cause inflammation of the eyes, skin and urinary and genital systems.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003345-2" qtype="causes">What causes Reactive arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>The exact cause of reactive arthritis is unknown. However, it most often follows an infection, but the joint itself is not infected. Reactive arthritis most often occurs in men between the ages of 20 and 40, although it does sometimes affect women. It may follow an infection in the urethra after unprotected sex. The most common bacteria that cause such infections is called  Chlamydia trachomatis.  Reactive arthritis can also follow a gastrointestinal infection (such as food poisoning). In up to one half of people thought to have reactive arthritis, there may be no infection. It is possible that such cases are a form of  spondyloarthritis . Certain genes may make you more likely to get this condition. The disorder is rare in young children, but it may occur in teenagers. Reactive arthritis may occur in children ages 6 to 14 after  Clostridium difficile  gastrointestinal infections.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003345-3" qtype="symptoms">What are the symptoms of Reactive arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Urinary symptoms will appear within days or weeks of an infection. These symptoms may include: Burning when urinating, Fluid leaking from the urethra (discharge), Problems starting or continuing a urine stream, Needing to urinate more often than normal,  A low fever along with eye discharge, burning, or redness ( conjunctivitis  or "pink eye") can develop over the next several weeks. Infections in the intestine may cause diarrhea and abdominal pain. The diarrhea may be watery or bloody. Joint pain and stiffness also begin during this time period. The arthritis may be mild or severe. Arthritis symptoms may include: Heel pain  or pain in the Achilles tendon, Pain in the hip, knee, ankle, and low back, Pain and swelling that affects one or more joints,  Symptoms may include  skin sores  on the palms and soles that look like  psoriasis . There may also be small, painless  ulcers  in the mouth, tongue, and  penis .</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003345-4" qtype="exams and tests">How to diagnose Reactive arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will diagnose the condition based on your symptoms. A physical exam may show signs of conjunctivitis or skin sores. All symptoms may not appear at the same time, so there may be a delay in getting a diagnosis. You may have the following tests: HLA-B27 antigen ,  Joint x-rays , Blood tests to rule out other types of arthritis such as rheumatoid arthritis, gout, or systemic lupus erythematosus, Erythrocyte sedimentation rate ( ESR ),  Urinalysis , Culture of stool if you have diarrhea, Urine tests for bacterial DNA such as  Chlamydia trachomatis , Aspiration of a swollen joint, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003345-5" qtype="treatment">What are the treatments for Reactive arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to relieve symptoms and treat the infection that is causing this condition. Eye problems and skin sores do not need to be treated most of the time. They will go away on their own.&#160;If eye problems persist, you should be evaluated by a specialist in eye disease (ophthalmologist). Your provider will prescribe antibiotics if you have an infection. Nonsteroidal anti-inflammatory drugs (NSAIDs) and  pain relievers  may help with joint pain. If a joint is very swollen for a long period of time, you may have corticosteroid medicine injected into the joint. If arthritis continues in spite of NSAIDs, sulfasalazine or methotrexate may be helpful. Finally, people who do not respond to these medicines may need anti-tumor necrosis factor (TNF) biologic agents such as etanercept (Enbrel) or adalimumab (Humira) to suppress the immune system. Physical therapy can help ease the pain. It can also help you move better and maintain muscle strength.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003345-6" qtype="outlook">What is the outlook for Reactive arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Reactive arthritis may go away in a few weeks, but it can last for a few months&#160;and require medicines during that time. Symptoms may return over a period of years in up to one half of the people who have this condition. Rarely, the condition can lead to abnormal heart rhythm or problems with the aortic heart valve.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003345-7" qtype="when to contact a medical professional">Do I need to see a doctor for Reactive arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>See your provider if you develop symptoms of this condition.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003345-8" qtype="prevention">How to prevent Reactive arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Avoid infections that can bring on reactive arthritis by practicing safe sex and avoiding things that can cause  food poisoning .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

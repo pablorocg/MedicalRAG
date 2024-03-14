@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004303" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000617.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>When you need to gain more weight during pregnancy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004303-1" qtype="information">What is (are) When you need to gain more weight during pregnancy ?</Question>
-			<Answer></Answer>
+			<Answer>Most women should gain somewhere between 25 and 35 pounds (11 and 16 kilograms) during pregnancy. If a woman does not gain enough weight, there may be health problems for the mother and baby.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

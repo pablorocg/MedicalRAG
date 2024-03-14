@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001127" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000029.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Dementia - behavior and sleep problems</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,11 +20,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001127-1" qtype="information">What is (are) Dementia - behavior and sleep problems ?</Question>
-			<Answer></Answer>
+			<Answer>People with  dementia  often have certain problems when it gets dark at the end of the day and into the night. This problem is called sundowning. The problems that get worse may include: Increased confusion, Anxiety and agitation, Not being able to get to sleep and stay asleep , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001127-3" qtype="when to contact a medical professional">Do I need to see a doctor for Dementia - behavior and sleep problems ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

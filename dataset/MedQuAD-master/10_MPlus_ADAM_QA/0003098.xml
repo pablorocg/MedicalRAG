@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003098" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001463.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pityriasis alba</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,35 +16,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003098-1" qtype="information">What is (are) Pityriasis alba ?</Question>
-			<Answer></Answer>
+			<Answer>Pityriasis alba is a common skin disorder that causes patches of light-colored (hypopigmented) areas.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003098-2" qtype="causes">What causes Pityriasis alba ?</Question>
-			<Answer></Answer>
+			<Answer>The cause is unknown but may be linked to  atopic dermatitis  (eczema). The disorder is most common in children and teens. It is more noticeable in children with dark skin.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003098-3" qtype="symptoms">What are the symptoms of Pityriasis alba ?</Question>
-			<Answer></Answer>
+			<Answer>The problem areas on the skin (lesions) often start as slightly red and scaly patches that are round or oval. They usually appear on the face, upper arms, neck, and upper middle of the body. After these lesions go away, the patches turn light-colored (hypopigmented). The patches do not tan easily. Because of this, they may get red quickly in the sun. As the skin surrounding the patches darkens normally, the patches may become more visible.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003098-4" qtype="exams and tests">How to diagnose Pityriasis alba ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider can usually diagnose the condition by looking at the skin. Tests, such as potassium hydroxide ( KOH ), may be done to check for other skin problems. In very rare cases, a  skin biopsy  is done.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003098-5" qtype="treatment">What are the treatments for Pityriasis alba ?</Question>
-			<Answer></Answer>
+			<Answer>Your provider may recommend the following treatments: Moisturizer, Mild steroid creams, Medicine, called immunomodulators, applied to the skin to reduce inflammation, Treatment with ultraviolet light to control the inflammation, Medicines by mouth or shots to control the dermatitis, if severe, Laser treatment, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003098-6" qtype="outlook">What is the outlook for Pityriasis alba ?</Question>
-			<Answer></Answer>
+			<Answer>Pityriasis alba usually goes away on its own with patches returning to normal pigment over many months.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003098-7" qtype="complications">What are the complications of Pityriasis alba ?</Question>
-			<Answer></Answer>
+			<Answer>Patches may get sunburned when exposed to sunlight. Applying sunscreen and using other sun protection can help prevent sunburn.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003098-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pityriasis alba ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if your child has patches of hypopigmented skin.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

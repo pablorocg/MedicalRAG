@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001730" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000301.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Gilbert disease</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,39 +23,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001730-1" qtype="information">What is (are) Gilbert disease ?</Question>
-			<Answer></Answer>
+			<Answer>Gilbert syndrome is a common disorder passed down through families. It affects the way bilirubin is processed by the liver, and may cause the skin to take on a yellow color ( jaundice ) at times.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001730-2" qtype="causes">What causes Gilbert disease ?</Question>
-			<Answer></Answer>
+			<Answer>Gilbert syndrome affects 1 in 10 people in some white groups. This condition occurs due to an abnormal gene, which is passed from parents to their children.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001730-3" qtype="symptoms">What are the symptoms of Gilbert disease ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Fatigue, Yellowing of the skin and whites of the eyes (mild jaundice) ,  In people with Gilbert syndrome, jaundice most often appears during times of exertion, stress, and infection, or when they do not eat.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001730-4" qtype="exams and tests">How to diagnose Gilbert disease ?</Question>
-			<Answer></Answer>
+			<Answer>A blood test for bilirubin shows changes that occur with Gilbert syndrome. The total bilirubin level is mildly elevated, with most being unconjugated bilirubin. Most often the total level is less than 2 mg/dL, and the conjugated bilirubin level is normal. Gilbert syndrome is due to a genetic change, but genetic testing is not needed.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001730-5" qtype="treatment">What are the treatments for Gilbert disease ?</Question>
-			<Answer></Answer>
+			<Answer>No treatment is necessary for Gilbert syndrome.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001730-6" qtype="outlook">What is the outlook for Gilbert disease ?</Question>
-			<Answer></Answer>
+			<Answer>Jaundice may come and go throughout life. It is more likely to appear during illnesses such as colds. It does not cause health problems. However, it can confuse the results of tests for jaundice.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001730-7" qtype="complications">What are the complications of Gilbert disease ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known complications.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001730-8" qtype="when to contact a medical professional">Do I need to see a doctor for Gilbert disease ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have jaundice or pain in the abdomen that does not go away.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001730-9" qtype="prevention">How to prevent Gilbert disease ?</Question>
-			<Answer></Answer>
+			<Answer>There is no proven prevention.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

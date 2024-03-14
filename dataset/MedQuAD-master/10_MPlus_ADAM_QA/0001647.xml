@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001647" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001411.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Friedreich ataxia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001647-1" qtype="information">What is (are) Friedreich ataxia ?</Question>
-			<Answer></Answer>
+			<Answer>Friedreich ataxia is a rare disease passed down through families (inherited). It affects the muscles and heart.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001647-2" qtype="causes">What causes Friedreich ataxia ?</Question>
-			<Answer></Answer>
+			<Answer>Friedreich ataxia is caused by a defect in a gene called frataxin (FXN). Changes in this gene cause the body to make too much of a part of DNA called trinucleotide repeat (GAA). Normally, the body contains about 8 to 30 copies of GAA. People with Friedreich ataxia have as many as 1,000 copies. The more copies of GAA a person has, the earlier in life the disease starts and the faster it gets worse. Friedreich ataxia is an  autosomal recessive  genetic disorder. This means you must get a copy of the defective gene from both your mother and father.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001647-3" qtype="symptoms">What are the symptoms of Friedreich ataxia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms are caused by the wearing away of structures in areas of the brain and spinal cord that control coordination, muscle movement, and other functions. Symptoms most often begin before puberty. Symptoms may include: Abnormal speech, Changes in vision, particularly color vision, Decrease in ability to feel vibrations in lower limbs, Foot problems, such as  hammer toe  and  high arches , Hearing loss, this occurs in about 10% of people,  Jerky eye movements ,  Loss of coordination  and balance, which leads to frequent falls,  Muscle weakness , No reflexes in the legs,  Unsteady gait  and uncoordinated movements ( ataxia ), which gets worse with time ,  Muscle problems lead to changes in the spine. This may result in  scoliosis  or  kyphoscoliosis . Heart disease  most often develops and may lead to  heart failure . Heart failure or  dysrhythmias  that do not respond to treatment may result in death.  Diabetes  may develop in later stages of the disease.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001647-4" qtype="exams and tests">How to diagnose Friedreich ataxia ?</Question>
-			<Answer></Answer>
+			<Answer>The following tests may be done: ECG , Electrophysiological studies,  EMG  (electromyography), Genetic testing,  Nerve conduction tests ,  Muscle biopsy ,  X-ray ,  CT  scan, or  MRI of the head ,  X-ray of the chest ,  X-ray of the spine ,  Blood sugar (glucose) tests may show diabetes or glucose intolerance. An eye exam may show damage to the optic nerve, which most often occurs without symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001647-5" qtype="treatment">What are the treatments for Friedreich ataxia ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment for Friedreich ataxia includes: Counseling, Speech therapy, Physical therapy, Walking aids or wheelchairs ,  Orthopedic devices (braces) may be needed for scoliosis and foot problems. Treating heart disease and diabetes help people live longer and improve their quality of life. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001647-6" qtype="outlook">What is the outlook for Friedreich ataxia ?</Question>
-			<Answer></Answer>
+			<Answer>Friedreich ataxia slowly gets worse and causes problems doing everyday activities. Most people need to use a wheelchair within 15 years of the disease's start. The disease may lead to early death.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001647-7" qtype="complications">What are the complications of Friedreich ataxia ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Diabetes, Heart failure or heart disease, Loss of ability to move around , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001647-8" qtype="when to contact a medical professional">Do I need to see a doctor for Friedreich ataxia ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if symptoms of Friedreich ataxia occur, especially if there is a family history of the disorder.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001647-9" qtype="prevention">How to prevent Friedreich ataxia ?</Question>
-			<Answer></Answer>
+			<Answer>People with a family history of Friedreich ataxia who intend to have children may want to consider genetic screening to determine their risk.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

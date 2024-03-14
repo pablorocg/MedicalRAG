@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000034" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/331.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>DHEA</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,73 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000034-1" qtype="information">What is DHEA ?</Question>
-			<Answer></Answer>
+			<Answer>Dehydroepiandrosterone (DHEA) is a hormone that is turned into male and female sex hormones in the body. Prescription DHEA is used to treat thin vaginal tissue. 
+
+DHEA is made by the adrenal glands and by the liver. DHEA levels seem to go down as people get older. DHEA levels seem to be lower in people with depression and after menopause. 
+
+People commonly use prescription DHEA for vaginal tissue thinning. DHEA supplements are used for aging skin, depression, infertility, muscle strength, heart disease, erectile dysfunction (ED), and many other conditions, but there is no good scientific evidence to support many of these other uses. 
+
+DHEA is banned by the National Collegiate Athletic Association (NCAA), the International Olympic Committee, and the World Anti-Doping Agency (WADA). Don't confuse DHEA with 7-alpha-hydroxy-DHEA, 7-beta-hydroxy-DHEA, and 7-keto-DHEA. These are all different forms of DHEA but are not the same as DHEA.
+ 
+
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000034-2" qtype="how effective is it">How effective is DHEA ?</Question>
-			<Answer></Answer>
+			<Answer>Natural Medicines Comprehensive Database  rates effectiveness based on scientific evidence according to the following scale:  Effective, Likely Effective, Possibly Effective, Possibly Ineffective, Likely Ineffective, Ineffective, and Insufficient Evidence to Rate. The effectiveness ratings for  DHEA  are as follows: Likely effective for... 
+ Thinning of vaginal tissue (vaginal atrophy) . Using vaginal inserts containing DHEA can reduce pain during sex by up to 15% after menopause. A prescription DHEA product is available for this condition. ,  
+ Possibly effective for... 
+
+ Aging skin . Taking DHEA by mouth or applying it to the skin might improve skin appearance after menopause and in people over the age of 60 years. , 
+
+ Depression . Taking 30-500 mg of DHEA by mouth daily seems to improve symptoms of depression. Lower doses don't seem to help.  , 
+
+ Inability to become pregnant within a year of trying to conceive (infertility) . Taking DHEA by mouth before in-vitro fertilization (IVF) might improve the chances of pregnancy and having a baby. But it's not clear if taking DHEA helps prevent miscarriage after IVF. , 
+
+
+ 
+ Possibly ineffective for... 
+ Aging . Taking DHEA by mouth daily for up to 2 years doesn't seem to improve body shape, bone strength, muscle strength, or quality of life in people older than 60 who have low DHEA levels. , 
+
+ Muscle strength . Taking DHEA by mouth doesn't improve muscle strength in adults. , 
+
+
+ Physical performance in elderly adults . Taking DHEA by mouth doesn't improve physical performance in older adults.  , 
+
+
+ 
+ Likely ineffective for... 
+ Memory and thinking skills (cognitive function) . Taking DHEA by mouth does not seem to improve mental function or decrease mental decline in healthy older people, people with HIV, or in healthy young adults., 
+
+ An autoimmune disorder in which the glands that produce tears and saliva are damaged (Sjogren syndrome) . Taking DHEA by mouth does not improve symptoms of this condition., 
+
+ 
+
+There is interest in using DHEA for a number of other purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000034-3" qtype="how does it work">What is the action of DHEA and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000034-4" qtype="precautions">Are there safety concerns or special precautions about DHEA ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000034-5" qtype="interactions with medications">Are there interactions between DHEA and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Moderate Be cautious with this combination. Fulvestrant (Faslodex) Estrogen-sensitive cancers are cancers that are affected by estrogen levels in the body. Fulvestrant is used for these types of cancer. DHEA might increase estrogen in the body and decrease the effects of fulvestrant for treating cancer. Do not take DHEA if you are taking fulvestrant. Medications changed by the liver (Cytochrome P450 3A4 (CYP3A4) substrates) Some medications are changed and broken down by the liver. DHEA might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications. Medications for depression (Antidepressant drugs) There is some concern that taking DHEA along with antidepressant drugs might increase the risk for serious side effects. Speak with a healthcare provider before taking DHEA if you are taking an antidepressant. Medications for estrogen sensitive cancers (Aromatase inhibitors) The body changes DHEA to estrogen in the body. Aromatase inhibitors are used to help lower estrogen levels in the body. Taking DHEA might decrease the effects of aromatase inhibitors. Medications that slow blood clotting (Anticoagulant / Antiplatelet drugs) DHEA might slow blood clotting. Taking DHEA along with medications that also slow blood clotting might increase the risk of bruising and bleeding. Tamoxifen (Nolvadex) Estrogen-sensitive cancers are cancers that are affected by estrogen levels in the body. Tamoxifen is used to help treat and prevent these types of cancer. DHEA increases estrogen levels in the body and might decrease the effects of tamoxifen. Do not take DHEA if you are taking tamoxifen. Triazolam (Halcion) DHEA might decrease how quickly the body breaks down triazolam. Taking DHEA with triazolam might increase the effects and side effects of triazolam. Tuberculosis Vaccine Taking DHEA might reduce the effects of the tuberculosis vaccine. Do not take DHEA if you are receiving a tuberculosis vaccine. Minor Be watchful with this combination. Estrogens DHEA might increase estrogen levels in the body. Taking DHEA along with estrogen might cause too much estrogen in the body. Testosterone Taking DHEA with testosterone might cause there to be too much testosterone in the body. This might increase the effects and side effects of testosterone.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000034-6" qtype="interactions with herbs and supplements">Are there interactions between DHEA and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>Herbs and supplements that might slow blood clotting DHEA might slow blood clotting and increase the risk of bleeding. Taking it with other supplements with similar effects might increase the risk of bleeding in some people. Examples of supplements with this effect include garlic, ginger, ginkgo, nattokinase, and Panax ginseng. Licorice Taking licorice increases levels of DHEA in the body. Taking licorice with DHEA might increase the side effects of DHEA. Soy It was previously thought that soy might decrease the effects of DHEA, but this doesn't seem to be a major concern.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000034-7" qtype="interactions with foods">Are there interactions between DHEA and foods ?</Question>
-			<Answer></Answer>
+			<Answer>It was previously thought that eating soy or a high fiber diet might decrease the effects of DHEA, but this doesn't seem to be a major concern.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000034-8" qtype="dose">What is the dosage of DHEA ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

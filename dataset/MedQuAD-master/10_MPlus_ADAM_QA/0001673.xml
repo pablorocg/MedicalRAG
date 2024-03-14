@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001673" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001437.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ganglioneuroma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,35 +16,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001673-1" qtype="information">What is (are) Ganglioneuroma ?</Question>
-			<Answer></Answer>
+			<Answer>Ganglioneuroma is a tumor of the autonomic nervous system.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001673-2" qtype="causes">What causes Ganglioneuroma ?</Question>
-			<Answer></Answer>
+			<Answer>Ganglioneuromas are rare tumors that most often start in autonomic nerve cells. Autonomic nerves manage body functions such as blood pressure, heart rate, sweating, bowel and bladder emptying, and digestion. The tumors are usually noncancerous ( benign ). Ganglioneuromas usually occur in people over 10 years of age. They grow slowly, and may release certain chemicals or hormones. There are no known risk factors. However, the tumors may be associated with some genetic problems, such as  neurofibromatosis type 1 .</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001673-3" qtype="symptoms">What are the symptoms of Ganglioneuroma ?</Question>
-			<Answer></Answer>
+			<Answer>A ganglioneuroma usually causes no symptoms. The tumor is only discovered when a person is examined or treated for another condition. Symptoms depend on the location of the tumor and the type of chemicals it releases. If the tumor is in the chest area (mediastinum), symptoms may include: Breathing difficulty,  Chest pain , Compression of the windpipe (trachea) ,  If the tumor is lower down in the abdomen in the area called the retroperitoneal space, symptoms may include: Abdominal pain, Bloating ,  If the tumor is near the spinal cord, it may cause: Compression of the spinal cord, which leads to pain and loss of strength or feeling in the legs, arms, or both, Spine deformity ,  These tumors may produce certain hormones, which can cause the following symptoms: Diarrhea, Enlarged clitoris (women), High blood pressure, Increased body hair, Sweating , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001673-4" qtype="exams and tests">How to diagnose Ganglioneuroma ?</Question>
-			<Answer></Answer>
+			<Answer>The best tests to identify a ganglioneuroma are: CT scan  of the chest, abdomen, and pelvis,  MRI scan  of the chest and abdomen,  Ultrasound of the abdomen or pelvis ,  Blood and urine tests may be done to determine if the tumor is producing hormones or other chemicals. A  biopsy  or complete removal of the tumor may be needed to confirm the diagnosis.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001673-5" qtype="treatment">What are the treatments for Ganglioneuroma ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment involves surgery to remove the tumor (if it is causing symptoms).</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001673-6" qtype="outlook">What is the outlook for Ganglioneuroma ?</Question>
-			<Answer></Answer>
+			<Answer>Most ganglioneuromas are noncancerous. The expected outcome is usually good.  A ganglioneuroma may become cancerous and spread to other areas. It may also come back after it is removed.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001673-7" qtype="complications">What are the complications of Ganglioneuroma ?</Question>
-			<Answer></Answer>
+			<Answer>If the tumor has been present for a long time and has pressed on the spinal cord or caused other symptoms, surgery to remove the tumor may not reverse the damage. Compression of the spinal cord may result in loss of movement (paralysis), especially if the cause is not detected promptly. Surgery to remove the tumor may also lead to complications in some cases. In rare cases, problems due to compression may occur even after the tumor is removed.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001673-8" qtype="when to contact a medical professional">Do I need to see a doctor for Ganglioneuroma ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you or your child has symptoms that may be caused by this type of tumor.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

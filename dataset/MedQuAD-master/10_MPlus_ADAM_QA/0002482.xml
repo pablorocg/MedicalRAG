@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002482" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001117.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lymphatic obstruction</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002482-1" qtype="information">What is (are) Lymphatic obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Lymphatic obstruction is a blockage of the  lymph vessels  that drain fluid from tissues throughout the body and allow immune cells to travel where they are needed. Lymphatic obstruction may cause lymphedema, which means swelling due to a blockage of the lymph passages.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002482-2" qtype="causes">What causes Lymphatic obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>The most common reason for lymphatic obstruction is the removal or enlargement of the lymph nodes. Other causes of lymphatic obstruction include: Infections with parasites, such as filariasis, Injury,  Radiation therapy , Skin infections, such as  cellulitis  (more common in obese people), Surgery,  Tumors ,  A common cause of lymphedema is removal of the breast ( mastectomy ) and underarm lymph tissue for breast cancer treatment. This causes lymphedema of the arm in some people, because the lymphatic drainage of the arm passes through the armpit (axilla). Rare forms of lymphedema that are present from birth (congenital) may result from problems in the development of the lymphatic vessels.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002482-3" qtype="symptoms">What are the symptoms of Lymphatic obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>The main symptom is persistent (chronic) swelling, usually of the arm or leg.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002482-4" qtype="exams and tests">How to diagnose Lymphatic obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam and ask about your medical history. This will include questions about how much the swelling improves with elevation and how firm the tissues are. The following tests may be done: CT  or  MRI  scan, Imaging tests to check the lymph nodes and lymph drainage ( lymphangiography  and lymphoscintigraphy), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002482-5" qtype="treatment">What are the treatments for Lymphatic obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment for lymphedema includes: Compression (usually with wrapping in bandages or stockings), Manual lymph drainage (MLD), Range of motion or resistance exercises ,  Manual lymph drainage is a light massage therapy technique. During massage, the skin is moved in certain directions based on the structure of the lymphatic system. This helps the lymph fluid drain through the proper channels. Treatment also includes skin care to prevent injuries, infection, and skin breakdown. Light exercise and movement programs may also be prescribed. Wearing compression garments on the affected area or using a pneumatic compression pump may be helpful. Your provider and physical therapist will decide which compression methods are best. Surgery is used in some cases, but it has limited success. The surgeon must have a lot of experience with this type of procedure. You will still need physical therapy after surgery to reduce lymphedema. Types of surgery include: Liposuction , Removal of abnormal lymphatic tissue, Transplant of normal lymphatic tissues to areas with abnormal lymphatic drainage (rarely done) ,  In rare cases, surgery to bypass abnormal lymph tissue using vein grafts is done. These procedures are most effective for early lymphedema and should be performed by an experienced surgeon.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002482-6" qtype="outlook">What is the outlook for Lymphatic obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Lymphedema is a  chronic &#160;condition that usually requires lifelong management. In some cases, lymphedema improves with time. Some swelling is usually permanent.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002482-7" qtype="complications">What are the complications of Lymphatic obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>In addition to swelling, the most common complications include: Chronic wounds and  ulcers , Skin breakdown, Cancer of the lymph tissue (rare) , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002482-8" qtype="when to contact a medical professional">Do I need to see a doctor for Lymphatic obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>See your provider if you have swelling of your arms, legs, or lymph nodes that does not respond to treatment or go away.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002482-9" qtype="prevention">How to prevent Lymphatic obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Most surgeons now use a technique called sentinel lymph node sampling to reduce your risk for lymphedema after breast cancer surgery. However, this technique is not always appropriate or effective.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

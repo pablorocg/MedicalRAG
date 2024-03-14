@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003918" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007488.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Thrombolytic drugs for heart attack</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,7 +24,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003918-1" qtype="information">What is (are) Thrombolytic drugs for heart attack ?</Question>
-			<Answer></Answer>
+			<Answer>Small blood vessels called coronary arteries supply oxygen carrying blood to the heart muscle. A heart attack can occur if a blood clot stops the flow of blood through one of these arteries.,  Unstable angina  refers to chest pain and other warning signs that a heart attack may happen soon. It is most often caused by blood clots in the arteries that partially block them.,  Some people may be given drugs to break up the clot if the artery is completely blocked. These drugs are called thrombolytics, or clot-busting drugs., They are only given for a type of  heart attack , where certain changes are noted on the ECG. This type of heart attack is called an ST segment elevation myocardial infarction (STEMI)., These drugs should be given as soon as possible after the chest pain first occurs (most often in less than 12 hours)., The medicine is given through a vein (IV)., Blood thinners taken by mouth may be prescribed later to prevent more clots from forming. ,  The main risk when receiving clot-busting drugs is bleeding, with the most serious being bleeding in the brain. Thrombolytic therapy is not safe for people who have: Bleeding inside the head or a stroke, Brain abnormalities, such as tumors or poorly-formed blood vessels, Had a head injury within the past 3 months, A history of using blood thinners or a bleeding disorder, Had major surgery, a major injury, or internal bleeding within the past 3 to 4 weeks,  Peptic ulcer  disease, Severe high blood pressure ,  Other treatments to open blocked or narrowed vessels that may be done in place of or after treatment with thrombolytic therapy include: Angioplasty ,  Heart bypass surgery , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

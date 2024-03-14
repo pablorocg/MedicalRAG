@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002941" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003233.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Papule</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002941-1" qtype="information">What is (are) Papule ?</Question>
-			<Answer></Answer>
+			<Answer>A papule is a solid or cystic raised spot on the skin that is less than 1 centimeter (cm) wide. It is a type of  skin lesion .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

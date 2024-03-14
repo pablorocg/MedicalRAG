@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003429" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000654.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Rocky Mountain spotted fever</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003429-1" qtype="information">What is (are) Rocky Mountain spotted fever ?</Question>
-			<Answer></Answer>
+			<Answer>Rocky Mountain spotted fever (RMSF) is a disease caused by a type of bacteria carried by ticks.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003429-2" qtype="causes">What causes Rocky Mountain spotted fever ?</Question>
-			<Answer></Answer>
+			<Answer>RMSF is caused by the bacterium  Rickettsia rickettsii (R Rickettsii) , which is carried by ticks. The bacteria is spread to humans through a  tick  bite. In the western United States, the bacteria are carried by the wood tick. In the eastern US, they are carried by the dog tick. Other ticks spread the infection in the southern US and in Central and South America. Contrary to the name "Rocky Mountain," most recent cases have been reported in the eastern US. States include North and South Carolina, Virginia, Georgia, Tennessee, and Oklahoma. Most cases occur in the spring and summer and are found in children. Risk factors include recent hiking or exposure to ticks in an area where the disease is known to occur. The bacteria are unlikely to be transmitted to a person by a tick that has been attached for less than 20 hours. Only about 1 in 1,000 ticks carry the bacteria. Bacteria can also infect people who crush ticks they have removed from pets with their bare fingers. Not all people will remember getting a tick bite.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003429-3" qtype="symptoms">What are the symptoms of Rocky Mountain spotted fever ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms usually develop about 2 to 14 days after the tick bite. They may include: Chills and fever, Confusion, Headache, Muscle pain, Rash -- usually starts a few days after the fever; first appears on wrists and ankles as spots that are 1 to 5 mm in diameter, then spreads to most of the body. Some infected people don't get a rash.,  Other symptoms that may occur with this disease: Diarrhea ,  Light sensitivity ,  Hallucinations ,  Loss of appetite ,  Nausea and vomiting ,  Abdominal pain ,  Thirst , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003429-4" qtype="exams and tests">How to diagnose Rocky Mountain spotted fever ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical examination and ask about your symptoms. Tests that may be done include: Antibody titer  by  complement  fixation or immunofluorescence,  Complete blood count  (CBC),  Kidney function tests ,  Partial thromboplastin time (PTT) ,  Prothrombin time (PT) , Skin biopsy taken from the rash to check for  R. rickettsii , Urinalysis to check for  blood  or  protein in the urine , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003429-5" qtype="treatment">What are the treatments for Rocky Mountain spotted fever ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment involves antibiotics and carefully removing the tick from the skin. To get rid of the infection, antibiotics such as doxycycline or tetracycline need to be taken. Pregnant women are usually prescribed chloramphenicol.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003429-6" qtype="outlook">What is the outlook for Rocky Mountain spotted fever ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment usually cures the infection. About 3% of people who get this disease will die.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003429-7" qtype="complications">What are the complications of Rocky Mountain spotted fever ?</Question>
-			<Answer></Answer>
+			<Answer>Untreated, the infection may lead to health problems such as: Brain damage, Clotting problems, Heart failure, Kidney failure, Lung failure,  Meningitis , Pneumonitis (lung inflammation), Shock, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003429-8" qtype="when to contact a medical professional">Do I need to see a doctor for Rocky Mountain spotted fever ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop symptoms after exposure to ticks or a tick bite. The complications of untreated RMSF are often life threatening.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003429-9" qtype="prevention">How to prevent Rocky Mountain spotted fever ?</Question>
-			<Answer></Answer>
+			<Answer>When walking or hiking in tick-infested areas, tuck long pants into socks to protect the legs. Wear shoes and long-sleeved shirts. Ticks will show up on white or light colors better than on dark colors, making them easier to see and remove. Remove ticks immediately by using tweezers, pulling carefully and steadily. Insect repellent may be helpful. Because only about 1 in 1,000 ticks carry this infection, antibiotics are not usually given after a tick bite.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

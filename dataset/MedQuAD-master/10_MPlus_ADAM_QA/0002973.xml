@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002973" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000880.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Patient portals - An online tool for your health</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002973-1" qtype="information">Do you have information about Patient portals - An online tool for your health</Question>
-			<Answer></Answer>
+			<Answer>A patient portal is a website for your personal health care.&#160;This online tool helps you to keep track of your health care provider visits, test results, billing, prescriptions, and so on. You can also message your provider questions through the portal. Many providers now offer patient portals. For access, you will need to set up an account. The service is usually free. A password is used so that all of your information is private and secure.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

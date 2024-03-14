@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000823" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000455.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Choosing effective patient education materials</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000823-1" qtype="information">Do you have information about Choosing effective patient education materials</Question>
-			<Answer></Answer>
+			<Answer>Once you have assessed your patient's needs, concerns, readiness to learn, preferences, support, and possible barriers to learning, you will need to: Make a plan with your patient and their support person, Agree with your patient on realistic learning objectives, Select resources that fit your patient's needs,  The first step is to assess the patient's current knowledge about their condition and what they want to know. Some patients need time to adjust to new information, master new skills, or make short- or long-term lifestyle changes.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

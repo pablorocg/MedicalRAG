@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003102" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000605.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Placenta abruptio</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003102-1" qtype="information">Do you have information about Placenta abruptio</Question>
-			<Answer></Answer>
+			<Answer>The placenta connects the fetus (unborn baby) to the mother's uterus. It allows the baby to get nutrients, blood, and oxygen from the mother. It also helps the baby get rid of waste. Placenta abruptio (also called placental abruption) is when the placenta separates from the inner wall of the uterus before the baby is born. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

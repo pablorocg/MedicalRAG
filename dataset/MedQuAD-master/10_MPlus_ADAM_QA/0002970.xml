@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002970" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001113.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Patent foramen ovale</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,35 +21,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002970-1" qtype="information">What is (are) Patent foramen ovale ?</Question>
-			<Answer></Answer>
+			<Answer>Patent foramen ovale (PFO) is a hole between the left and right atria (upper chambers) of the heart. This hole exists in everyone before birth, but most often closes shortly after being born. PFO is what the hole is called when it fails to close naturally after a baby is born.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002970-2" qtype="causes">What causes Patent foramen ovale ?</Question>
-			<Answer></Answer>
+			<Answer>A foramen ovale allows blood to go around the lungs. A baby's lungs are not used when it grows in the womb, so the hole does not cause problems in an unborn infant.  The opening is supposed to close soon after birth, but sometimes it does not. In about 1 out of 4 people, the opening never closes. If it does not close, it is called a PFO. The cause of a PFO is unknown. There are no known risk factors.&#160;It can be found along with other heart abnormalities such as atrial septal aneurysms or Chiari network.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002970-3" qtype="symptoms">What are the symptoms of Patent foramen ovale ?</Question>
-			<Answer></Answer>
+			<Answer>Infants with a PFO and no other heart defects do not have symptoms. Some adults with PFOs also suffer from migraine headaches.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002970-4" qtype="exams and tests">How to diagnose Patent foramen ovale ?</Question>
-			<Answer></Answer>
+			<Answer>An  echocardiogram  can be done to diagnose a PFO. If the PFO is not easily seen, a cardiologist can perform a "bubble test." Saline solution (salt water) is injected into the body as the cardiologist watches the heart on an ultrasound (echocardiogram) monitor. If a PFO exists, tiny air bubbles will be seen moving from the right to left side of the heart.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002970-5" qtype="treatment">What are the treatments for Patent foramen ovale ?</Question>
-			<Answer></Answer>
+			<Answer>This condition is not treated unless there are other heart problems, symptoms, or if the person had a stroke caused by a blood clot to the brain. Treatment most often requires a procedure called  cardiac catheterization , which is performed by a trained cardiologist to permanently seal the PFO. Open heart surgery is no longer used to treat this condition unless another surgery is being performed.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002970-6" qtype="outlook">What is the outlook for Patent foramen ovale ?</Question>
-			<Answer></Answer>
+			<Answer>An infant who has no other heart defects will have normal health and life span.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002970-7" qtype="complications">What are the complications of Patent foramen ovale ?</Question>
-			<Answer></Answer>
+			<Answer>Unless there are other defects, there are no complications from a PFO in most cases. Some people may have a condition with shortness of breath and low arterial blood oxygen levels when sitting or standing. This is called platypnea-orthodeoxia. This is rare. Rarely, people with PFOs may have a higher rate of a certain type of stroke (called paradoxical thromboembolic stroke). In a paradoxical stroke, a blood clot that develops in a vein (often leg veins) breaks free and travels to the right side of the heart. Normally, this clot would then continue to the lungs, but in someone with a PFO, the clot could pass through the hole to the left side of the heart. It may then be pumped out to the body, travel to the brain and become stuck there, preventing blood flow to that part of the brain ( stroke ). Having a very mobile septum along with a PFO may lead to a higher risk for having a stroke. Some people may take medicines to prevent blood clots.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002970-8" qtype="when to contact a medical professional">Do I need to see a doctor for Patent foramen ovale ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if your baby turns blue when crying or having a bowel movement, has difficulty feeding, or showing poor growth.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

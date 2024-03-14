@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000434" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000388.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bicycle safety</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000434-1" qtype="information">Do you have information about Bicycle safety</Question>
-			<Answer></Answer>
+			<Answer>Many cities and states have bike lanes and laws that protect bicycle riders. But riders are still at risk of being hit by cars. Therefore, you need to ride carefully, obey the laws, and watch for other vehicles. Always be prepared to stop or take evasive action. While riding your bicycle: Watch for opening car doors, potholes, children, and animals that may run in front of you., Do not wear headphones or talk on your cellphone., Be predictable and ride defensively. Ride where drivers can see you. Bicycles are frequently hit because drivers did not know the bikes were there., Wear brightly colored clothing so that drivers can easily see you. ,  Obey the rules of the road. Ride in the same direction as the flow of traffic., At intersections, stop at stop signs and obey traffic lights as cars do., Check for traffic before turning., Use correct hand or arm signals., Stop first before riding out into a street., Know the law in your city about riding on the sidewalk. In most cities, bicyclists older than 10 must ride in the street. If you must be on the sidewalk, walk your bike. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

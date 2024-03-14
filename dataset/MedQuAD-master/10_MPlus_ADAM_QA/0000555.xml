@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000555" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002918.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Breast lump removal</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,19 +23,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000555-1" qtype="information">What is (are) Breast lump removal ?</Question>
-			<Answer></Answer>
+			<Answer>Breast lump removal is surgery to remove a lump that may be a breast cancer. Tissue around the lump is also removed. This surgery is called an excisional breast biopsy, or lumpectomy. When a noncancerous tumor such as a  fibroadenoma  of the breast is removed, this is also called an excisional breast biopsy, or a lumpectomy.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000555-2" qtype="information">What is (are) Breast lump removal ?</Question>
-			<Answer></Answer>
+			<Answer>Breast lump removal is surgery to remove a lump that may be a breast cancer. Tissue around the lump is also removed. This surgery is called an excisional breast biopsy, or lumpectomy. When a noncancerous tumor such as a  fibroadenoma  of the breast is removed, this is also called an excisional breast biopsy, or a lumpectomy.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000555-4" qtype="susceptibility">Who is at risk for Breast lump removal? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000555-7" qtype="outlook">What is the outlook for Breast lump removal ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome of a lumpectomy for breast cancer depends mostly on the size of the cancer, as well as the make up of the tumor.&#160;It also depends on its spread to lymph nodes underneath your arm. A lumpectomy for breast cancer is most often followed by  radiation therapy  and other treatments such as  chemotherapy ,  hormonal therapy , or both. In most cases, you do not need a&#160; breast reconstruction  after lumpectomy.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001091" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003866.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cytology exam of pleural fluid</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001091-1" qtype="information">Do you have information about Cytology exam of pleural fluid</Question>
-			<Answer></Answer>
+			<Answer>A  cytology exam  of pleural fluid is a laboratory test to detect cancer cells and certain other cells in the fluid from the area that surrounds the lungs. This area is called the pleural space. Cytology means the study of cells.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

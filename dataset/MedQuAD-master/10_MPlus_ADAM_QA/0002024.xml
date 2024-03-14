@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002024" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000740.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>How to care for pressure sores</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,19 +23,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002024-1" qtype="information">What is (are) How to care for pressure sores ?</Question>
-			<Answer></Answer>
+			<Answer>A pressure sore is an area of the skin that breaks down when something keeps rubbing or pressing against the skin.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002024-2" qtype="causes">What causes How to care for pressure sores ?</Question>
-			<Answer></Answer>
+			<Answer>Pressure sores  occur when there is too much pressure on the skin for too long. This reduces blood flow to the area. Without enough blood to nourish the skin, the skin can die and a sore may form. You are more likely to get a pressure sore if you: Use a wheelchair or stay in bed for a long time, Are an older adult, Cannot move certain parts of your body without help, Have a disease that affects blood flow, including diabetes or vascular disease, Have Alzheimer disease or another condition that affects your mental state, Have fragile skin, Cannot control your bladder or bowels, Do not get enough nutrition , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002024-3" qtype="symptoms">What are the symptoms of How to care for pressure sores ?</Question>
-			<Answer></Answer>
+			<Answer>Pressure sores are grouped by the severity of symptoms. Stage I is the mildest stage. Stage IV is the worst. Stage I:  A reddened, painful area on the skin that does not turn white (blanch) when pressed. This is a sign that a pressure ulcer may be forming. The skin may be warm or cool, firm or soft.,  Stage II:  The skin blisters or forms an open sore. The area around the sore may be red and irritated.,  Stage III:  The skin now develops an open, sunken hole called a crater or ulcer. The tissue below the skin is damaged. You may be able to see body fat in the ulcer.,  Stage IV:  The pressure ulcer has become so deep that there is damage to the muscle and bone, and sometimes to tendons and joints.,  There are two other types of pressure sores that don't fit into the stages. Sores covered in dead skin that is yellow, tan, green, or brown. The dead skin makes it hard to tell how deep the sore is. This type of sore is "unstageable.", Pressure sores that develop in the tissue deep below the skin. This is called a deep tissue injury. The area may be dark purple or maroon. There may be a blood-filled blister under the skin. This type of skin injury can quickly become a stage III or IV pressure sore.,  Pressure sores tend to form where skin covers bony areas with less tissue under the skin to pad the area. These include: Buttocks, Elbow, Hips, Heels, Ankles, Shoulders, Back, Back of head, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002024-5" qtype="when to contact a medical professional">Do I need to see a doctor for How to care for pressure sores ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

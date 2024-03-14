@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003468" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002991.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Scar revision</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003468-1" qtype="information">Do you have information about Scar revision</Question>
-			<Answer></Answer>
+			<Answer>Scar revision is surgery to improve or reduce the appearance of scars. It also restores function, and corrects skin changes (disfigurement) caused by an injury, wound, poor healing, or previous surgery.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

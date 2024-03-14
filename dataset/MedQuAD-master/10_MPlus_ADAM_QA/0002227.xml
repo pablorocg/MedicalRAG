@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002227" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007629.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Intravitreal injection</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002227-1" qtype="information">Do you have information about Intravitreal injection</Question>
-			<Answer></Answer>
+			<Answer>An intravitreal injection is a shot of medicine into the eye. The inside of the eye is filled with a jelly-like fluid (vitreous). During this procedure, your health care provider (usually an ophthalmologist) injects medicine into the vitreous, near the retina at the back of the eye. The medicine can treat certain eye problems and help protect your vision. This method is most often used to get a higher level of medicine to the retina.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

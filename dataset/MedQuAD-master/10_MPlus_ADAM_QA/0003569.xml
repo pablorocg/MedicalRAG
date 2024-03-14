@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003569" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000178.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Shoulder replacement - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -16,7 +15,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003569-1" qtype="information">Do you have information about Shoulder replacement - discharge</Question>
-			<Answer></Answer>
+			<Answer>You had  shoulder replacement surgery  to replace the bones of your shoulder joint with artificial joint parts. The parts include a stem made of metal and a metal ball that connects with a plastic liner that acts as a bearing. Now that you're going home, be sure to follow your surgeon's instructions on how to take care of your new shoulder. Use the information below as a reminder.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

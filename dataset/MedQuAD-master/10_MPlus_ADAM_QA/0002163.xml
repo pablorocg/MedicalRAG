@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002163" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003978.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Incontinence - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002163-1" qtype="information">What is (are) Incontinence - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on incontinence. Fecal (bowel) incontinence : International Foundation for Functional Gastrointestinal Disorders --  aboutincontinence.org/ , National Association for Continence --  nafc.org/bowel-health/ , National Institute of Diabetes and Digestive and Kidney Diseases --  www.niddk.nih.gov/health-information/digestive-diseases/bowel-control-problems-fecal-incontinence , Simon Foundation for Continence --  simonfoundation.org/fecal-bowel-incontinence/ , US National Library of Medicine, MedlinePlus --  medlineplus.gov/bowelincontinence.html ,  Urinary incontinence : National Association for Continence -- www.nafc.org/urinary-incontinence, National Institute of Diabetes and Digestive and Kidney Diseases --  www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems , Simon Foundation for Continence --  simonfoundation.org/category/types-of-incontinence/ , Urology Care Foundation --  www.urologyhealth.org/urology-a-z/u/urinary-incontinence , US National Library of Medicine, MedlinePlus --  medlineplus.gov/urinaryincontinence.html , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

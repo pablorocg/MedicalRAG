@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001308" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000033.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Dysarthria - care</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,7 +18,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001308-1" qtype="information">What is (are) Dysarthria - care ?</Question>
-			<Answer></Answer>
+			<Answer>Dysarthria  is a condition that occurs when there are problems with the part of the brain, nerves, or muscles that help you talk. Most times, dysarthria occurs: As a result of brain damage after a stroke, head injury, or brain cancer, When there is damage to the nerves of the muscles that help you talk, When there is an illness of the nervous system, such as  myasthenia gravis  or amyotrophic lateral sclerosis,  Use the tips below for improving communication with someone who has dysarthria.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

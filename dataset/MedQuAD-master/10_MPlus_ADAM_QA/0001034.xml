@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001034" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000194.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Crohn disease - discharge</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,19 +23,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001034-1" qtype="information">What is (are) Crohn disease - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>Crohn disease is a disease where parts of the digestive tract become inflamed. It is a form of inflammatory bowel disease. </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001034-2" qtype="outlook">What is the outlook for Crohn disease - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001034-5" qtype="treatment">What are the treatments for Crohn disease - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>Your provider may give you some medicines to help relieve your symptoms. Based on how bad your Crohn disease is and how you respond to treatment, your provider may recommend one or more of these medicines: Anti-diarrhea medicines can help when you have very bad diarrhea. Loperamide (Imodium) can be bought without a prescription. Always talk to your provider before using these medicines., Fiber supplements may help your symptoms. You can buy psyllium powder (Metamucil) or methylcellulose (Citrucel) without a prescription. Ask your provider about these., Always talk to your provider before using any laxative medicines., You may use acetaminophen (Tylenol) for mild pain. Medicines such as aspirin, ibuprofen (Advil, Motrin), or naproxen (Aleve, Naprosyn) may make your symptoms worse. Talk to your provider about medicines you can use. You may need a prescription for stronger pain medicines. ,  There are many types of medicines that can help prevent or treat attacks of your Crohn disease.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001034-6" qtype="when to contact a medical professional">Do I need to see a doctor for Crohn disease - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

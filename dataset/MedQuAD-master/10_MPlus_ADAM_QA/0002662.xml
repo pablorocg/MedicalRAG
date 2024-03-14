@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002662" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000485.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Monitoring your baby before labor</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002662-1" qtype="information">Do you have information about Monitoring your baby before labor</Question>
-			<Answer></Answer>
+			<Answer>While you are pregnant, your health care provider may do tests to check your baby's health. The tests may be done at any time while you are pregnant.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

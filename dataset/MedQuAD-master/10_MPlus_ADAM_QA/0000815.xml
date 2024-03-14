@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000815" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000215.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cholestasis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,68 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000815-1" qtype="information">What is (are) Cholestasis ?</Question>
-			<Answer></Answer>
+			<Answer>Cholestasis is any condition in which the flow of  bile  from the liver is slowed or blocked.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000815-2" qtype="causes">What causes Cholestasis ?</Question>
-			<Answer></Answer>
+			<Answer>There are many causes of cholestasis. Extrahepatic cholestasis occurs outside the liver. It can be caused by: 
+   Bile duct tumors
+   , 
+   Cysts affecting the bile duct, 
+   Narrowing of the bile duct (strictures)
+   , 
+   Stones in the common bile duct
+   , 
+   Pancreatitis
+   , 
+   Pancreatic tumor or pseudocyst
+   , 
+   Pressure on the bile ducts due to a nearby mass or tumor
+   , 
+   Primary sclerosing cholangitis
+   ,  Intrahepatic cholestasis occurs inside the liver. It can be caused by: 
+   Alcoholic liver disease
+   , 
+   Amyloidosis
+   , 
+   Bacterial  abscess  in the liver
+   , 
+   Being fed exclusively through a vein (IV)
+   , 
+   Lymphoma
+   , 
+   Pregnancy
+   , Primary biliary cholangitis (previously called primary biliary cirrhosis), Primary or  metastatic  liver cancer, Primary sclerosing cholangitis,  Sarcoidosis , 
+   Serious infections that have spread through the bloodstream (sepsis)
+   , Tuberculosis, Viral hepatitis ,  Certain medicines can also cause cholestasis, including: Antibiotics, such as ampicillin and other penicillin, Anabolic steroids, Birth control pills, Chlorpromazine, Cimetidine, Estradiol, Imipramine, Prochlorperazine, Terbinafine, Tolbutamide , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000815-3" qtype="symptoms">What are the symptoms of Cholestasis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Clay-colored or pale stools, Dark urine, Inability to digest certain foods, Itching, Nausea or vomiting, Pain in the right upper part of the abdomen , Yellow skin or eyes, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000815-4" qtype="exams and tests">How to diagnose Cholestasis ?</Question>
-			<Answer></Answer>
+			<Answer>Blood tests may show that you have elevated&#160; bilirubin  and  alkaline phosphatase . Imaging tests are used to diagnose this condition. Tests include: CT scan of the abdomen, MRI of the abdomen, Magnetic resonance cholangiopancreatography (MRCP), Endoscopic retrograde cholangiopancreatography (ERCP), can also determine cause, Ultrasound of the abdomen, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000815-5" qtype="treatment">What are the treatments for Cholestasis ?</Question>
-			<Answer></Answer>
+			<Answer>The underlying cause of cholestasis must be treated.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000815-6" qtype="outlook">What is the outlook for Cholestasis ?</Question>
-			<Answer></Answer>
+			<Answer>How well a person does depends on the disease causing the condition. Stones in the common bile duct can often be removed. This can cure the cholestasis. Stents can be placed to open areas of the common bile duct that are narrowed or blocked by cancers. If the condition is caused by the use of a certain medicine, it will often go away when you stop taking that drug.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000815-7" qtype="complications">What are the complications of Cholestasis ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Diarrhea, Organ failure can occur if sepsis develops, Poor absorption of fat and fat-soluble vitamins, Severe itching, Weak bones (osteomalacia) due to having cholestasis for a very long time, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000815-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cholestasis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have: Itching that does not go away, Yellow skin or eyes, Other symptoms of cholestasis, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000815-9" qtype="prevention">How to prevent Cholestasis ?</Question>
-			<Answer></Answer>
+			<Answer>Get vaccinated for hepatitis A and B if you are at risk. Do not use intravenous drugs and share needles. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

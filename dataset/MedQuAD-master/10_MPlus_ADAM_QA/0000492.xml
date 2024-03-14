@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000492" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003665.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Blood smear</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000492-1" qtype="information">Do you have information about Blood smear</Question>
-			<Answer></Answer>
+			<Answer>A blood smear is a blood test that gives information about the number and shape of blood cells. It is often done as part of or along with a complete blood count (CBC).</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

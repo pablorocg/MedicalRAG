@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003155" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001208.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Porphyria</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,39 +22,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003155-1" qtype="information">What is (are) Porphyria ?</Question>
-			<Answer></Answer>
+			<Answer>Porphyrias are a group of rare inherited disorders. An important part of  hemoglobin , called heme, is not made properly. Hemoglobin is a protein in red blood cells that carries oxygen. Heme is also found in myoglobin, a protein found in certain muscles.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003155-2" qtype="causes">What causes Porphyria ?</Question>
-			<Answer></Answer>
+			<Answer>Normally, the body makes heme in a multi-step process. Porphyrins are made during several steps of this process. People with porphyria are lacking certain  enzymes  needed for this process. This causes abnormal amounts of porphyrins or related chemicals to build up in the body. There are many different forms of porphyria. The most common type is porphyria cutanea tarda (PCT). Drugs, infection, alcohol, and hormones such as estrogen may trigger attacks of certain types of porphyria. Porphyria is inherited. This means the disorder is passed down through families.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003155-3" qtype="symptoms">What are the symptoms of Porphyria ?</Question>
-			<Answer></Answer>
+			<Answer>Porphyria causes three major symptoms: Abdominal pain or cramping (only in some forms of the disease), Sensitivity to light that can cause rashes, blistering, and scarring of the skin (photodermatitis), Problems with the nervous system and muscles (seizures, mental disturbances, nerve damage) ,  Attacks can occur suddenly. They often start with severe abdominal pain followed by vomiting and constipation. Being out in the sun can cause pain, sensations of heat, blistering, and skin redness and swelling. Blisters heal slowly, often with scarring or skin color changes. The scarring may be disfiguring. Urine may turn red or brown after an attack. Other symptoms include: Muscle pain, Muscle weakness or paralysis, Numbness or tingling, Pain in the arms or legs, Pain in the back, Personality changes or psychosis,  Attacks can sometimes be life threatening, producing: Low blood pressure, Severe electrolyte imbalances, Shock , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003155-4" qtype="exams and tests">How to diagnose Porphyria ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam, which includes listening to your heart. You may have a fast heart rate (tachycardia). The provider may find that your deep tendon reflexes (knee jerks or others) do not work properly. Blood and urine tests may reveal kidney problems or other problems. Some of the other tests that may be done include: Blood gases ,  Comprehensive metabolic panel , Porphyrin levels and levels of other chemicals linked to this condition (checked in the  blood &#160;or 
+  urine ),  Ultrasound of the abdomen ,  Urinalysis , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003155-5" qtype="treatment">What are the treatments for Porphyria ?</Question>
-			<Answer></Answer>
+			<Answer>Some of the medicines used to treat a sudden (acute) attack of porphyria may include: Hematin given through a vein ( intravenously ), Pain medicine, Propranolol to control the heartbeat, Sedatives to help you feel calm and less anxious ,  Other treatments may include: Beta-carotene supplements to lessen photosensitivity, Chloroquine in low doses to reduce levels of porphyrins, Fluids and glucose to boost  carbohydrate  levels, which helps limit the production of porphyrins, Removal of blood (phlebotomy) to reduce levels of porphyrins,  Depending on the type of porphyria you have, your provider may tell you to: Avoid all alcohol, Avoid certain drugs that may trigger an attack, Avoid injuring the skin, Avoid sunlight as much as possible and use sunscreen when outside, Eat a high-carbohydrate diet , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003155-6" qtype="outlook">What is the outlook for Porphyria ?</Question>
-			<Answer></Answer>
+			<Answer>Porphyria is a life-long disease with symptoms that come and go. Some forms of the disease cause more symptoms than others. Getting proper treatment and staying away from triggers can help lengthen the time between attacks.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003155-7" qtype="complications">What are the complications of Porphyria ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Coma ,  Gallstones ,  Paralysis , Respiratory failure (due to weakness of chest muscles), Scarring of the skin , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003155-8" qtype="when to contact a medical professional">Do I need to see a doctor for Porphyria ?</Question>
-			<Answer></Answer>
+			<Answer>Get medical help as soon as you have signs of an acute attack. Talk to your provider about your risk for this condition if you have a long history of undiagnosed abdominal pain, muscle and nerve problems, and sensitivity to sunlight. </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003155-9" qtype="prevention">How to prevent Porphyria ?</Question>
-			<Answer></Answer>
+			<Answer>Genetic counseling  may benefit people who want to have children and who have a family history of any type of porphyria.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

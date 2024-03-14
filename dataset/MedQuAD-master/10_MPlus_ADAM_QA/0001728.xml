@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001728" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000288.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Giardia infection</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,35 +22,37 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001728-1" qtype="information">What is (are) Giardia infection ?</Question>
-			<Answer></Answer>
+			<Answer>Giardia, or giardiasis, is a parasitic infection of the small intestine. A tiny parasite called  Giardia lamblia  causes it.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001728-2" qtype="causes">What causes Giardia infection ?</Question>
-			<Answer></Answer>
+			<Answer>The giardia parasite lives in soil, food, and water. It may also be found on surfaces that have come into contact with animal or human waste.  You may become infected if you:  Are exposed to a family member with giardiasis, Drink water from lakes or streams where animals such as beavers and muskrats, or domestic animals such as sheep, have left their waste, Eat raw or undercooked food that has been contaminated with the parasite, Have direct person-to-person contact in daycare centers, long-term care homes, or nursing homes with people who are infected with the parasite, Have unprotected anal sex,  Travelers are at risk for giardiasis throughout the world. Campers and hikers are at risk if they drink untreated water from streams and lakes. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001728-3" qtype="symptoms">What are the symptoms of Giardia infection ?</Question>
-			<Answer></Answer>
+			<Answer>The time between becoming infected and symptoms is 7 to 14 days.  Non-bloody diarrhea is the main symptom. Other symptoms include: Abdominal gas or  bloating ,  Headache ,  Loss of appetite , Low-grade  fever ,  Nausea , Weight loss and loss of body fluids,  Some people who have had a giardia infection for a long time continue having symptoms, even after the infection is gone. </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001728-4" qtype="exams and tests">How to diagnose Giardia infection ?</Question>
-			<Answer></Answer>
+			<Answer>Tests that may be done include:  
+ Stool antigen test to check for giardia 
+  ,  Stool ova and parasites exam ,  String test  (rarely performed), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001728-5" qtype="treatment">What are the treatments for Giardia infection ?</Question>
-			<Answer></Answer>
+			<Answer>If there are no symptoms or only mild symptoms, no treatment may be needed. Some infections go away on their own within a few weeks.  Medicines may be used for: Severe symptoms or symptoms that do not go away, People who work in a daycare center or nursing home, to reduce the spread of disease ,  Antibiotic treatment is successful for most people. These include tinidazole, nitazoxanide or metronidazole. A change in the type of antibiotic will be tried if symptoms do not go away. Side effects from some of the medicines used to treat giardia are: Metallic taste in the mouth, Nausea, Severe reaction to alcohol ,  In most pregnant women, treatment should not start until after delivery. Some drugs used to treat the infection can be harmful to the unborn baby.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001728-6" qtype="complications">What are the complications of Giardia infection ?</Question>
-			<Answer></Answer>
+			<Answer>These complications can occur: Dehydration  (loss of water and other fluids in the body),  Malabsorption  (inadequate absorption of nutrients from the intestinal tract),  Weight loss , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001728-7" qtype="when to contact a medical professional">Do I need to see a doctor for Giardia infection ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if: Diarrhea or other symptoms last for more than 14 days, You have  blood in your stool , You are dehydrated, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001728-8" qtype="prevention">How to prevent Giardia infection ?</Question>
-			<Answer></Answer>
+			<Answer>Purify all stream, pond, river, lake, or well water before drinking it. Use methods such as boiling, filtration, or iodine treatment.  Workers in daycare centers or institutions should use good handwashing and hygiene techniques when moving from child to child or person to person. Safer sexual practices  may decrease the risk for getting or spreading giardiasis. People practicing anal sex should be especially careful. Peel or wash fresh fruits and vegetables before eating them.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

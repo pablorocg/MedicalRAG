@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000043" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003576.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Acetylcholine receptor antibody</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000043-1" qtype="information">Do you have information about Acetylcholine receptor antibody</Question>
-			<Answer></Answer>
+			<Answer>Acetylcholine receptor antibody is a protein found in the blood of many people with  myasthenia gravis . The  antibody  affects the part of nerve cells that send signals from nerves to muscles. This article discusses the blood test for acetylcholine receptor antibody.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

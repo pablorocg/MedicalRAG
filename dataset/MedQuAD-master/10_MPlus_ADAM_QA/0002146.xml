@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002146" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000818.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Immunodeficiency disorders</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002146-1" qtype="information">What is (are) Immunodeficiency disorders ?</Question>
-			<Answer></Answer>
+			<Answer>Immunodeficiency disorders occur when the body's  immune response  is reduced or absent.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002146-2" qtype="causes">What causes Immunodeficiency disorders ?</Question>
-			<Answer></Answer>
+			<Answer>The immune system is made up of lymphoid tissue in the body, which includes: Bone marrow, Lymph nodes, Parts of the spleen and gastrointestinal tract, Thymus, Tonsils ,  Proteins and cells in the blood are also part of the immune system. The immune system helps protect the body from harmful substances called  antigens . Examples of antigens include bacteria, viruses,  toxins ,  cancer  cells, and foreign blood or tissues from another person or species. Watch this video about: Immune response When the immune system detects an antigen, it responds by producing proteins called  antibodies  that destroy the harmful substances. The immune system response also involves a process called phagocytosis. During this process, certain white blood cells swallow and destroy bacteria and other foreign substances. Proteins called complement help with this process. The immune system also activates cells known as T cells, which interact with cells known as B cells. Watch this video about: Phagocytosis Immunodeficiency disorders may affect any part of the immune system. Most often, these conditions occur when special white blood cells called T or B lymphocytes (or both) do not function normally or your body does not produce enough antibodies. Inherited immunodeficiency disorders that affect B cells include: Hypogammaglobulinemia, which usually leads to  respiratory  and gastrointestinal infections,  Agammaglobulinemia , which results in severe infections early in life, and is often deadly ,  Inherited immunodeficiency disorders that affect T cells may cause repeated Candida (yeast) infections. Inherited combined immunodeficiency affects both T cells and B cells. It may be deadly within the first year of life if it isn't treated early. People are said to be immunosuppressed when they have an immunodeficiency disorder due to medicines that weaken the immune system. Examples include: Corticosteroids&#160;, Drugs used to treat health problems such as rheumatoid arthritis, inflammatory bowel disease, and certain skin conditions, Chemotherapy given to treat cancer,  Acquired immunodeficiency may be a complication of diseases such as  HIV/AIDS  and malnutrition (especially if the person does not eat enough protein). Many cancers may also cause immunodeficiency. People who have had their  spleen removed  have an acquired immunodeficiency, and are at higher risk for infection by certain bacteria that the spleen would normally help fight. People with diabetes are also at higher risk for certain infections. As you get older, the immune system becomes less effective. Immune system tissues (especially lymphoid tissue such as the thymus) shrink, and the number and activity of white blood cells drop. The following conditions and diseases can lead to an immunodeficiency disorder: Ataxia-telangiectasia , Complement deficiencies, DiGeorge syndrome, Hypogammaglobulinemia,  Job syndrome , Leukocyte adhesion defects, Agammaglobulinemia, Wiskott-Aldrich syndrome , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002146-3" qtype="symptoms">What are the symptoms of Immunodeficiency disorders ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider might think you have an immunodeficiency disorder if you have: Infections that keep coming back or do not go away, Severe infection from bacteria or other germs that do not usually cause severe infection ,  Other signs include: Poor response to treatment for infections, Delayed or incomplete recovery from illness, Certain types of cancers (such as Kaposi sarcoma or non-Hodgkin lymphoma), Certain infections (including some forms of pneumonia or repeated yeast infections) ,  Symptoms depend on the disorder. For example, those with  decreased levels of IgA  combined with low levels of certain IgG subclasses are likely to have problems involving the lungs, sinuses, ears, throat, and digestive tract.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002146-4" qtype="exams and tests">How to diagnose Immunodeficiency disorders ?</Question>
-			<Answer></Answer>
+			<Answer>Tests used to help diagnose an immunodeficiency disorder may include: Complement levels in the blood, or other tests to measure substances released by the immune system, HIV test, Immunoglobulin levels in the blood, Protein electrophoresis ( blood  or  urine ),  T (thymus derived) lymphocyte count ,  White blood cell count , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002146-5" qtype="treatment">What are the treatments for Immunodeficiency disorders ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to prevent infections and treat any disease and infections that do develop. If you have a weakened immune system, you should avoid contact with persons who have infections or contagious disorders. You may have to avoid people who have been vaccinated with live virus vaccines within the past 2 weeks. If you develop an infection, your provider will treat you aggressively. This may involve long-term use of antibiotic or antifungal drugs to prevent infections from coming back. Interferon is used to treat viral infections and some types of cancer. It is a medicine that makes the immune system work better. Persons with HIV/AIDS may take combinations of drugs to reduce the amount of HIV in their immune systems and improve their immunity. People who are going to have a planned spleen removal should be vaccinated 2 weeks before the surgery against bacteria such as  Streptococcus pneumonia  and  Haemophilus influenzae . People who haven't been previously vaccinated or have no known immunity should also receive the  MMR , and  chicken pox  vaccines. In addition, it is also recommended that people get the  DTaP  vaccine series or a booster shot as needed. People who will undergo cancer chemotherapy should get inactivated vaccines 2 weeks prior to the initiation of therapy. They should receive live vaccines 4 weeks prior to the initiation of therapy. Bone marrow transplants  may be used to treat certain immunodeficiency conditions. Passive immunity (receiving antibodies produced by another person or animal) may sometimes be recommended to prevent illness after you have been exposed to certain bacteria or viruses. People with low or absent levels of certain immunoglobulins may be helped with intravenous immunoglobulin (IVIG), given through a vein.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002146-6" qtype="outlook">What is the outlook for Immunodeficiency disorders ?</Question>
-			<Answer></Answer>
+			<Answer>Some immunodeficiency disorders are mild and cause illness from time to time. Others are severe and may be fatal. Immunosuppression caused by medicines often goes away once the medicine is stopped.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002146-7" qtype="complications">What are the complications of Immunodeficiency disorders ?</Question>
-			<Answer></Answer>
+			<Answer>Complications of immunodeficiency disorders may include: Frequent or ongoing illness, Increased risk for certain cancers or tumors, Increased risk for infection , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002146-8" qtype="when to contact a medical professional">Do I need to see a doctor for Immunodeficiency disorders ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider right away if you are on chemotherapy or corticosteroids and you develop:  A fever of 100.5&#176;F (38&#176;C) or higher, A cough with shortness of breath, Stomach pain, Other new symptoms ,  Go to the emergency room or call your local emergency number (such as 911) if you have a stiff neck and headache with the fever. Contact your provider if you have repeated yeast infections or oral  thrush .</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002146-9" qtype="prevention">How to prevent Immunodeficiency disorders ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known way to prevent inherited immunodeficiency disorders. If you have a family history of immunodeficiency disorders, you might want to seek genetic counseling. Practicing safer sex  and avoiding the sharing of body fluids may help prevent HIV/AIDS. Ask your provider if a medicine called Truvada is right for you to prevent HIV infection. Good nutrition may prevent acquired immunodeficiency caused by malnutrition.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003642" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000504.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Smoking and asthma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,7 +18,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003642-1" qtype="information">What is (are) Smoking and asthma ?</Question>
-			<Answer></Answer>
+			<Answer>Things that make your allergies or asthma worse are called triggers. Smoking is a trigger for many people who have asthma.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001403" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000164.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Enteral nutrition - child - managing problems</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001403-1" qtype="information">Do you have information about Enteral nutrition - child - managing problems</Question>
-			<Answer></Answer>
+			<Answer>Enteral feeding is a way to feed your child using a feeding tube. You will learn how to care for the tube and the skin, flush the tube, and set up the bolus or pump feedings. This article will help you manage minor problems that may occur with feedings.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

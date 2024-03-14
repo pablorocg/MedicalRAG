@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004200" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000746.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Vascular dementia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,39 +22,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004200-1" qtype="information">What is (are) Vascular dementia ?</Question>
-			<Answer></Answer>
+			<Answer>Dementia is a permanent loss of specific brain functions. This occurs with certain diseases. It affects memory, thinking, language, judgment, and behavior. Vascular dementia is caused by a series of small strokes over time. Dementia may also be referred to as major  neurocognitive disorder .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004200-2" qtype="causes">What causes Vascular dementia ?</Question>
-			<Answer></Answer>
+			<Answer>Vascular dementia is the second most common cause of  dementia  after  Alzheimer disease  in people over age 65. Vascular dementia is caused by a series of small strokes. A  stroke  is brain damage due to a blockage of the blood supply to any part of the brain. A stroke is also called an infarct. Multi-infarct means that more than one area in the brain has been injured due to a lack of blood., If blood flow is stopped for longer than a few seconds, the brain cannot get oxygen. Brain cells can die, causing permanent damage., When strokes affect a small area, there may be no symptoms. These are called silent strokes. Over time, as more areas of the brain are damaged, the symptoms of dementia appear., Not all strokes are silent. Larger strokes that affect strength, sensation, or other brain and nervous system (neurologic) function can also lead to dementia. ,  Risk factors for vascular dementia include: Diabetes , Hardening of the arteries ( atherosclerosis ), Heart disease, High blood pressure ( hypertension ), Smoking, Stroke or other vascular disease,  Symptoms of dementia may also be caused by other types of disorders of the brain. One such disorder is Alzheimer disease. Symptoms of Alzheimer disease can be similar to those of vascular dementia. Vascular dementia and Alzheimer disease are the most common causes of dementia, and may occur together.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004200-3" qtype="symptoms">What are the symptoms of Vascular dementia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of vascular dementia may develop gradually or may progress after each small stroke. Symptoms may begin suddenly after each stroke. Some people with vascular dementia may improve for short periods, but decline after having more silent strokes. Symptoms of vascular dementia will depend on the areas of the brain that are injured due to the stroke. Early symptoms of dementia can include: Difficulty performing cognitive tasks that used to come easily, such as balancing a checkbook, playing games (such as bridge), and learning new information or routines, Getting lost on familiar routes, Language problems, such as trouble finding the name of familiar objects, Losing interest in things you previously enjoyed, flat mood, Misplacing items, Personality changes and loss of social skills as well as behavioral changes,  As dementia worsens, symptoms are more obvious and the ability to take care of oneself declines. Symptoms may include: Change in sleep patterns, often waking up at night, Difficulty doing basic tasks, such as preparing meals, choosing proper clothing, or driving, Forgetting details about current events, Forgetting events in your own life history, losing awareness of who you are, Having delusions, depression, or agitation, Having hallucinations, arguments, striking out, or violent behavior, Having more difficulty reading or writing, Having poor judgment and loss of ability to recognize danger, Using the wrong word, not pronouncing words correctly, or speaking in confusing sentences, Withdrawing from social contact ,  Nervous system (neurologic) problems that occur with a stroke may also be present.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004200-4" qtype="exams and tests">How to diagnose Vascular dementia ?</Question>
-			<Answer></Answer>
+			<Answer>Tests may be ordered to help determine whether other medical problems could be causing dementia or making it worse, such as: Anemia , Brain tumor, Chronic infection, Drug and medicine intoxication ( overdose ), Severe depression, Thyroid disease, Vitamin deficiency ,  Other tests may be done to find out what parts of thinking have been affected and to guide other tests such as neuropsychological testing. Tests that can show evidence of previous strokes in the brain may include: Head CT scan ,  MRI of the brain , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004200-5" qtype="treatment">What are the treatments for Vascular dementia ?</Question>
-			<Answer></Answer>
+			<Answer>There is no treatment to repair damage to the brain caused by small strokes. An important goal is to control symptoms and correct the risk factors. To prevent future strokes: Avoid fatty foods. Follow a healthy, low-fat diet., Do not drink more than 1 to 2 alcoholic drinks a day., Keep blood pressure lower than 130/80 mm/Hg. Ask your health care provider what your blood pressure should be., Keep LDL (bad) cholesterol lower than 70 mg/dL., Do not smoke., Your provider may suggest blood thinners, such as aspirin, to help prevent blood clots from forming in your arteries. Do not start taking aspirin or stop taking it without talking to your provider first. ,  The goals of  helping someone with dementia in the home  are to: Manage behavior problems, confusion, sleep problems, and agitation, Remove safety hazards in the home, Support family members and other caregivers ,  Medicines may be needed to control aggressive, agitated, or dangerous behaviors. Medicines used to treat Alzheimer disease have not been shown to work for vascular dementia.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004200-6" qtype="outlook">What is the outlook for Vascular dementia ?</Question>
-			<Answer></Answer>
+			<Answer>Some improvement may occur for short periods, but the disorder will generally get worse over time. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004200-7" qtype="complications">What are the complications of Vascular dementia ?</Question>
-			<Answer></Answer>
+			<Answer>Complications include the following: Future strokes, Heart disease, Loss of ability to function or care for self, Loss of ability to interact, Pneumonia,  Pressure sores , Skin infections, Urinary tract infections, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004200-8" qtype="when to contact a medical professional">Do I need to see a doctor for Vascular dementia ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if symptoms of vascular dementia occur. Go to the emergency room or call 911 or the local emergency number if there is a sudden  change in mental status , sensation, or movement. These are emergency symptoms of stroke.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0004200-9" qtype="prevention">How to prevent Vascular dementia ?</Question>
-			<Answer></Answer>
+			<Answer>Control conditions that increase the risk of hardening of the arteries (atherosclerosis) by: Controlling high blood pressure, Controlling weight, Stopping the use of tobacco products, Reducing saturated fats and salt in the diet, Treating related disorders , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002053" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001204.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hurler syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002053-1" qtype="information">What is (are) Hurler syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Mucopolysaccharidosis type I (MPS I) is a rare disease in which the body is missing or does not have enough of an  enzyme  needed to break down long chains of sugar molecules. These chains of molecules are called glycosaminoglycans (formerly called mucopolysaccharides). As a result, the molecules build up in different parts of the body and cause various health problems. The condition belongs to a group of diseases called  mucopolysaccharidoses  (MPSs). MPS I is the most common. There are several other types of MPSs, including: MPS II  (Hunter syndrome),  MPS III  (Sanfilippo syndrome),  MPS IV  (Morquio syndrome), </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002053-2" qtype="causes">What causes Hurler syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>MPS I is inherited, which means that your parents typically pass the disease on to you. If both parents carry a nonworking copy of the gene related to this condition, each of their children has a 25% (1 in 4) chance of developing the disease. People with MPS I do not make an enzyme called lysosomal alpha-L-iduronidase. This enzyme helps break down long chains of sugar molecules called glycosaminoglycans. These molecules are found throughout the body, often in mucus and in fluid around the joints. Without the enzyme, glycosaminoglycans build up and damage organs, including the heart. Symptoms can range from mild to severe. The mild form is called attenuated MPS I and the severe form is called severe MPS I.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002053-3" qtype="symptoms">What are the symptoms of Hurler syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of MPS I most often appear from ages 3 to 8 years. Children with severe MPS I develop symptoms earlier than those with the less severe form. Some of the symptoms include: Abnormal bones in the spine, Inability to fully open the fingers ( claw hand ),  Cloudy corneas ,  Deafness , Halted growth, Heart valve problems, Joint disease, including stiffness,  Intellectual disability  that gets worse over time in severe MPS I, Thick, coarse facial features with  low nasal bridge , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002053-4" qtype="exams and tests">How to diagnose Hurler syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>In some states, babies are tested for MPS I as part of the  newborn screening tests . Other tests that may be done depending on symptoms include: Electrocardiogram &#160;(ECG), Genetic testing for changes to the alpha-L-iduronidase (IDUA) gene, Urine tests for extra mucopolysaccharides, X-ray of the spine , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002053-5" qtype="treatment">What are the treatments for Hurler syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Enzyme replacement therapy may be recommended. The medicine, called laronidase (Aldurazyme), is given through a vein (IV, intravenously). It replaces the missing enzyme. Talk to your child's provider for more information. Bone marrow transplant  has been tried. The treatment has had mixed results. Other treatments depend on the organs that are affected.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002053-6" qtype="support groups">Where to find support for people with Hurler syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>More information and support for people with MPS I and their families can be found at: National MPS Society --  mpssociety.org , National Organization for Rare Disorders --  rarediseases.org/rare-diseases/mucopolysaccharidosis-type-i , NIH Genetic and Rare Diseases Information Center --  rarediseases.info.nih.gov/diseases/10335/mucopolysaccharidosis-type-i , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002053-7" qtype="outlook">What is the outlook for Hurler syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Children with severe MPS I usually do not do well. Their health problems worsen over time, resulting in death by age 10. Children with attenuated (milder) MPS I have fewer health problems, with many leading fairly normal lives into adulthood.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002053-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hurler syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: You have a family history of MPS I and are considering having children, Your child begins to show symptoms of MPS I, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002053-9" qtype="prevention">How to prevent Hurler syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Experts recommend  genetic counseling  and testing for couples with a family history of MPS I who are considering having children. Prenatal testing is available.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

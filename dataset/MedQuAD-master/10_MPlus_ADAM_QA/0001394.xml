@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001394" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007291.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Endoscopic thoracic sympathectomy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001394-1" qtype="information">Do you have information about Endoscopic thoracic sympathectomy</Question>
-			<Answer></Answer>
+			<Answer>Endoscopic thoracic sympathectomy (ETS) is surgery to treat sweating that is much heavier than normal. This condition is called  hyperhidrosis . Usually the surgery is used to treat sweating of the palms or face. The sympathetic nerves control sweating. The surgery cuts these nerves to the part of the body that sweats too much.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

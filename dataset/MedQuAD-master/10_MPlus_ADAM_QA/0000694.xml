@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000694" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000063.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Caring for muscle spasticity or spasms</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,11 +23,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000694-1" qtype="information">What is (are) Caring for muscle spasticity or spasms ?</Question>
-			<Answer></Answer>
+			<Answer>Muscle spasticity, or spasms, causes your muscles to become stiff or rigid. It can also cause exaggerated, deep tendon reflexes, like a knee-jerk reaction when your reflexes are checked. Muscle spasms are typically brief whereas spasticity lasts longer. Muscle spasticity is usually due to a neurologic condition but muscle spasms often occur in people with no known neurologic condition.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000694-4" qtype="when to contact a medical professional">Do I need to see a doctor for Caring for muscle spasticity or spasms ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

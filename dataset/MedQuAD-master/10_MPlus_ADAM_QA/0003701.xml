@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003701" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003724.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Sputum stain for mycobacteria</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,15 +22,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003701-1" qtype="information">What is (are) Sputum stain for mycobacteria ?</Question>
-			<Answer></Answer>
+			<Answer>Sputum stain for mycobacteria is a test to check for a type of bacteria that cause  tuberculosis  and other infections.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003701-8" qtype="susceptibility">Who is at risk for Sputum stain for mycobacteria? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003701-9" qtype="considerations">What to do for Sputum stain for mycobacteria ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

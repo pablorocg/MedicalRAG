@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002654" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007411.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Mitral valve surgery - minimally invasive</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002654-1" qtype="information">Do you have information about Mitral valve surgery - minimally invasive</Question>
-			<Answer></Answer>
+			<Answer>Mitral valve surgery is surgery to either repair or replace the mitral valve in your heart. Blood flows from the lungs and enters a pumping chamber of the heart called the left atrium. The blood then flows into the final pumping chamber of the heart called the left ventricle. The mitral valve is located between these two chambers. It makes sure that the blood keeps moving forward through the heart. You may need surgery on your mitral valve if: The mitral valve is hardened (calcified). This prevents blood from moving forward through the valve., The mitral valve is too loose. Blood tends to flow backward when this occurs.,  Minimally invasive mitral valve surgery is done through several small cuts. Another type of operation, open mitral valve surgery, requires a larger cut.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

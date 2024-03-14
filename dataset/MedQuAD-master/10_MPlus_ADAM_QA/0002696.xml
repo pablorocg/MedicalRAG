@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002696" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002153.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Multiple sclerosis - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002696-1" qtype="information">What is (are) Multiple sclerosis - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations provide information on  multiple sclerosis : Multiple Sclerosis Association of America --  mymsaa.org , Multiple Sclerosis Foundation --  www.msfocus.org , National Institute of Neurological Disorders and Stroke --&#160; www.ninds.nih.gov/health-information/disorders/multiple-sclerosis , National Multiple Sclerosis Society --  www.nationalmssociety.org , US National Library of Medicine, MedlinePlus --  medlineplus.gov/multiplesclerosis.html , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001273" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a611032.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Valsartan and Hydrochlorothiazide</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,11 +7,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001273-1" qtype="brand names of combination products">What are the brand names of combination products of Valsartan and Hydrochlorothiazide ?</Question>
-			<Answer></Answer>
+			<Answer>This product contains two medications,  valsartan  and  hydrochlorothiazide . Please see the individual monographs for information about each of the medications contained in this product.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001273-2" qtype="brand names of combination products">What are the brand names of combination products of Valsartan and Hydrochlorothiazide ?</Question>
-			<Answer></Answer>
+			<Answer>This product contains two medications,  valsartan  and  hydrochlorothiazide . Please see the individual monographs for information about each of the medications contained in this product.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

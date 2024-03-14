@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002549" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002255.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Medial</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002549-1" qtype="information">Do you have information about Medial</Question>
-			<Answer></Answer>
+			<Answer>Medial means toward the middle or center. It is the opposite of  lateral . The term is used to describe general positions of body parts. For example, the chest is medial to the arm. Your health care provider may use this term to clearly explain the relationship between things found during a physical exam or on medical tests. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

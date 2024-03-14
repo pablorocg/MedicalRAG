@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003449" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000610.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Sacroiliac joint pain - aftercare</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,19 +23,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003449-1" qtype="information">What is (are) Sacroiliac joint pain - aftercare ?</Question>
-			<Answer></Answer>
+			<Answer>The sacroiliac joint (SIJ) is a term used to describe the place where the sacrum and the iliac bones join. The sacrum is located at the base of your spine. It is made up of 5 vertebrae, or backbones, that are fused together., The iliac bones are the 2 large bones that make up the sides of your pelvis. The sacrum sits between the iliac bones., </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003449-2" qtype="information">What is (are) Sacroiliac joint pain - aftercare ?</Question>
-			<Answer></Answer>
+			<Answer>The sacroiliac joint (SIJ) is a term used to describe the place where the sacrum and the iliac bones join. The sacrum is located at the base of your spine. It is made up of 5 vertebrae, or backbones, that are fused together., The iliac bones are the 2 large bones that make up the sides of your pelvis. The sacrum sits between the iliac bones., </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003449-3" qtype="outlook">What is the outlook for Sacroiliac joint pain - aftercare ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003449-7" qtype="when to contact a medical professional">Do I need to see a doctor for Sacroiliac joint pain - aftercare ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

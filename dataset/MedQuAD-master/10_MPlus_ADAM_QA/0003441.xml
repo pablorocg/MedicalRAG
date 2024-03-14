@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003441" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003348.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>RSV antibody test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003441-1" qtype="information">Do you have information about RSV antibody test</Question>
-			<Answer></Answer>
+			<Answer>Respiratory syncytial virus (RSV)  antibody test is a blood test that measures the levels of antibodies (immunoglobulins) the body makes after an infection with RSV.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

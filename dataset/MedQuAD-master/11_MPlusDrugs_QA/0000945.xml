@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000945" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a607057.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Pegaptanib Injection</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,39 +7,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000945-1" qtype="indication">Who should get Pegaptanib Injection and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Pegaptanib injection is used to treat wet age-related macular degeneration (AMD; an ongoing disease of the eye that causes loss of the ability to see straight ahead and may make it more difficult to read, drive, or perform other daily activities). Pegaptanib injection is in a class of medications called vascular endothelial growth factor (VEGF) antagonists. It works by stopping abnormal blood vessel growth and leakage in the eye(s) that may cause vision loss in people with wet AMD.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000945-2" qtype="usage">How should Pegaptanib Injection be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Pegaptanib injection comes as a solution (liquid) to be injected into the eye by a doctor. It is usually given in a doctor's office once every 6 weeks.  Before you receive a pegaptanib injection, your doctor will clean your eye to prevent infection and numb your eye to reduce discomfort during the injection. You may feel pressure in your eye when the medication is injected. After your injection, your doctor will need to examine your eyes before you leave the office. Pegaptanib controls wet AMD, but does not cure it. Your doctor will watch you carefully to see how well pegaptanib works for you. Talk to your doctor about how long you should continue treatment with pegaptanib.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000945-4" qtype="precautions">Are there safety concerns or special precautions about Pegaptanib Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Before receiving pegaptanib injection, tell your doctor and pharmacist if you are allergic to pegaptanib or any other medications., tell your doctor and pharmacist what prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take., tell your doctor if you have an infection in or around the eye. Your doctor may tell you that you should not receive pegaptanib injection., tell your doctor if you have or have ever had diabetes, high blood pressure, a heart attack, or a stroke., tell your doctor if you are pregnant, plan to become pregnant, or are breast-feeding. If you become pregnant while using pegaptanib injection, call your doctor. , talk to your doctor about testing your vision at home during your treatment. Check your vision in both eyes as directed by your doctor, and call your doctor if there are any changes in your vision., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000945-5" qtype="dietary">What special dietary instructions should I follow with Pegaptanib Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000945-6" qtype="forget a dose">What should I do if I forget a dose of Pegaptanib Injection ?</Question>
-			<Answer></Answer>
+			<Answer>If you miss an appointment to receive pegaptanib, call your doctor as soon as possible.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000945-7" qtype="side effects">What are the side effects or risks of Pegaptanib Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Pegaptanib injection may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ eye discharge, eye discomfort, diarrhea, nausea, dizziness,  Some side effects can be serious. If you experience any of these symptoms, call your doctor immediately. If you cannot reach your doctor, call a different eye doctor or get medical treatment right away:
+ hives, rash, itching, difficulty breathing or swallowing, swelling of the face, throat, tongue, lips, eyes, hands, feet, ankles, or lower legs, hoarseness, eye redness or pain, sensitivity to light, change or decrease in vision, blurred vision, floaters in the eye, seeing flashes of light, swelling of the eyelid,  Pegaptanib injection may cause other side effects. Call your doctor if you have any unusual problems while using this medication.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000945-8" qtype="emergency or overdose">What to do in case of emergency or overdose of Pegaptanib Injection ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000945-9" qtype="other information">What other information should I know about Pegaptanib Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor. Your doctor will need to examine your eyes to see if you are developing serious side effects within 2 to 7 days after you receive each pegaptanib injection. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000945-10" qtype="brand names">What are the brand names of Pegaptanib Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Macugen &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

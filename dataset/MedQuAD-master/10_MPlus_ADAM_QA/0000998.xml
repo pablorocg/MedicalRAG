@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000998" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003693.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cortisol blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000998-1" qtype="information">Do you have information about Cortisol blood test</Question>
-			<Answer></Answer>
+			<Answer>The cortisol blood test measures the level of cortisol in the blood. Cortisol is a steroid (glucocorticoid or corticosteroid) hormone produced by the  adrenal gland . Cortisol can also be measured using a  urine  or saliva test.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

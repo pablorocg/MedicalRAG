@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001690" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002178.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Gastrointestinal disorders - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001690-1" qtype="information">What is (are) Gastrointestinal disorders - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations provide information on gastrointestinal disorders: American College of Gastroenterology --  gi.org , International Foundation for Functional Gastrointestinal Disorders (IFFGD) --  iffgd.org , American Liver Foundation --  liverfoundation.org , National Institute of Diabetes and Digestive and Kidney Diseases --  www.niddk.nih.gov/health-information/digestive-diseases , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

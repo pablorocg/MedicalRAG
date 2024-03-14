@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003288" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003813.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pulmonary angiography</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003288-1" qtype="information">Do you have information about Pulmonary angiography</Question>
-			<Answer></Answer>
+			<Answer>Pulmonary angiography is a test to see how blood flows through the lung.  Angiography is an imaging test that uses  x-rays  and a special dye to see the insides of the arteries. Arteries are blood vessels that carry blood away from the heart.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

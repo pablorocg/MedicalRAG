@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003499" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002296.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Scrotum</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003499-1" qtype="information">Do you have information about Scrotum</Question>
-			<Answer></Answer>
+			<Answer>The scrotum is a part of a male's body that is located below the  penis . The scrotum is the sac (pouch) that contains the  testes , epididymis, and the lower part of the spermatic cord (blood vessels and vas deferens).</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

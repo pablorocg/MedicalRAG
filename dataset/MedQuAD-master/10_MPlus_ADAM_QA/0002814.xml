@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002814" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001342.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Noma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002814-1" qtype="information">What is (are) Noma ?</Question>
-			<Answer></Answer>
+			<Answer>Noma is a type of  gangrene  that destroys mucous membranes of the mouth and other tissues. It occurs in malnourished children in areas where sanitation and cleanliness are lacking.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002814-2" qtype="causes">What causes Noma ?</Question>
-			<Answer></Answer>
+			<Answer>The exact cause is unknown, but noma may be due to a certain kind of bacteria. This disorder most often occurs in young, severely malnourished children from ages 2 to 5 years. Often they have had an illness such as measles, scarlet fever, tuberculosis, or cancer. They may also have a weakened immune system. Risk factors include: A type of malnutrition called  Kwashiorkor , and other forms of severe protein malnutrition, Poor sanitation and dirty living conditions, Disorders such as measles or leukemia, Living in a developing country, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002814-3" qtype="symptoms">What are the symptoms of Noma ?</Question>
-			<Answer></Answer>
+			<Answer>Noma causes sudden tissue destruction that rapidly gets worse. First, the gums and lining of the cheeks become inflamed and develop sores (ulcers). The ulcers develop a foul-smelling drainage, causing  bad breath  and skin odor. The infection spreads to the skin, and the tissues in the lips and cheeks die. This can eventually destroy the soft tissue and bone. The destruction of the bones around the mouth causes deformity of the face and loss of teeth. Noma can also affect the genitals, spreading to the genital skin (this is sometimes called noma pudendi).</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002814-4" qtype="exams and tests">How to diagnose Noma ?</Question>
-			<Answer></Answer>
+			<Answer>A physical exam shows inflamed areas of the mucous membranes, mouth ulcers, and skin ulcers. These ulcers have a foul-smelling drainage. There may be other signs of malnutrition.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002814-5" qtype="treatment">What are the treatments for Noma ?</Question>
-			<Answer></Answer>
+			<Answer>Antibiotics and proper nutrition helps stop the disease from getting worse. Plastic surgery may be necessary to remove destroyed tissues and reconstruct facial bones. This will improve facial appearance and the function of the mouth and jaw.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002814-6" qtype="outlook">What is the outlook for Noma ?</Question>
-			<Answer></Answer>
+			<Answer>In some cases, this condition can be deadly if it is not treated. Other times, the condition may heal over time, even without treatment. However, it can cause severe scarring and deformity.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002814-7" qtype="complications">What are the complications of Noma ?</Question>
-			<Answer></Answer>
+			<Answer>These complications can occur: Deformity of the face, Discomfort, Difficulty speaking and chewing, Social isolation , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002814-8" qtype="when to contact a medical professional">Do I need to see a doctor for Noma ?</Question>
-			<Answer></Answer>
+			<Answer>Medical care is needed if  mouth sores  and inflammation occur and persist or get worse.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002814-9" qtype="prevention">How to prevent Noma ?</Question>
-			<Answer></Answer>
+			<Answer>Improving nutrition, cleanliness, and sanitation may help.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

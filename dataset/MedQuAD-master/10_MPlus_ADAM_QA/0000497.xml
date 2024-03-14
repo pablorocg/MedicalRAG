@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000497" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003130.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bloody or tarry stools</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000497-1" qtype="information">Do you have information about Bloody or tarry stools</Question>
-			<Answer></Answer>
+			<Answer>Black or tarry stools with a foul smell are a sign of a problem in the upper digestive tract. It most often indicates that there is bleeding in the stomach, small intestine, or right side of the colon. The term melena is used to describe this finding.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

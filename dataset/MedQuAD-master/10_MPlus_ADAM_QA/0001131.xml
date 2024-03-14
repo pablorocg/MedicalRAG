@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001131" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000216.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Dementia - what to ask your doctor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,7 +22,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001131-1" qtype="information">What is (are) Dementia - what to ask your doctor ?</Question>
-			<Answer></Answer>
+			<Answer>You are caring for someone who has  dementia . Below are questions you may want to ask their health care provider to help you take care of that person.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

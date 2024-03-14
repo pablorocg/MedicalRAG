@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003308" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002922.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pyloroplasty</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003308-1" qtype="information">Do you have information about Pyloroplasty</Question>
-			<Answer></Answer>
+			<Answer>Pyloroplasty is surgery to widen the opening in the lower part of the stomach (pylorus) so that stomach contents can empty into the small intestine ( duodenum ). The pylorus is a thick, muscular area. When it thickens or its opening narrows, food cannot pass through.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001587" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000912.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Fibrocystic breast disease</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,31 +23,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001587-1" qtype="information">What is (are) Fibrocystic breast disease ?</Question>
-			<Answer></Answer>
+			<Answer>Fibrocystic breasts are painful, lumpy breasts. Formerly called fibrocystic breast disease, this common condition is, in fact, not a disease. Many women experience these normal breast changes, usually around their period. </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001587-2" qtype="causes">What causes Fibrocystic breast disease ?</Question>
-			<Answer></Answer>
+			<Answer>Fibrocystic breast changes
+occur when thickening of breast tissue (fibrosis) and fluid-filled cysts
+develop in one or both breasts. It is thought that hormones made in the ovaries
+during menstruation can trigger these breast changes. This may make your
+breasts feel swollen, lumpy, or painful before or during your period each
+month. More than half of women
+have this condition at some time during their life. It is most common between
+the ages of 30 and 50. It is rare in women after menopause unless they are
+taking estrogen. Fibrocystic breast changes do not change your risk for breast
+cancer.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001587-3" qtype="symptoms">What are the symptoms of Fibrocystic breast disease ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms are more often worse right before your menstrual period. They tend to get better after your period starts. If you have heavy, irregular periods, your symptoms may be worse. If you take birth control pills, you may have fewer symptoms. In most cases, symptoms get better after menopause. Symptoms may include:  Pain or discomfort in both breasts that may come and go with your period, but may last through the whole month, Breasts that feel full, swollen, or heavy, Pain or discomfort under the arms, Breast lumps that change in size with the menstrual period,  You may have a lump in the same area of the breast that becomes larger before each period and returns to its original size afterward. This type of lump moves when it is pushed with your fingers. It does not feel stuck or fixed to the tissue around it. This type of lump is common with fibrocystic breasts.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001587-4" qtype="exams and tests">How to diagnose Fibrocystic breast disease ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will examine you. This will include a breast exam. Tell your provider if you have noticed any breast changes. If you are over 40, ask your provider how often you should have a  mammogram  to screen for breast cancer. For women under 35, a  breast ultrasound  may be used to look more closely at breast tissue. You may need further tests if a lump was found during a breast exam or your imaging result was abnormal. If the lump appears to be a cyst, your provider may aspirate the lump with a needle, which confirms the lump was a cyst and sometimes may improve the symptoms. For other types of lumps, additional imaging may be done. If these exams are normal but your provider still has concerns about a lump, a  biopsy  may be performed.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001587-5" qtype="treatment">What are the treatments for Fibrocystic breast disease ?</Question>
-			<Answer></Answer>
+			<Answer>Women who have no symptoms or only mild symptoms do not need treatment. Your provider may recommend the following self-care measures: Take over-the-counter medicine, such as acetaminophen or ibuprofen for pain, Apply heat or ice on the breast, Wear a well-fitting supportive bra, such as a sports bra ,  Some women believe that eating less fat, caffeine, or chocolate helps with their symptoms. There is no clear evidence that these measures help. Vitamin E, thiamine, magnesium, and evening primrose oil are not harmful in most cases. Studies have not shown these to be helpful. Talk with your provider before taking any medicine or supplement. For more severe symptoms, your provider may prescribe hormones, such as  birth control pills  or other medicine. Take the medicine exactly as instructed. Be sure to let your provider know if you have side effects from the medicine. Surgery is never done to treat this condition. However, a lump that stays the same throughout your menstrual cycle is considered suspicious. In this case, your provider may recommend a core needle biopsy. In this test, a small amount of tissue is removed from the lump and examined under a microscope.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001587-6" qtype="outlook">What is the outlook for Fibrocystic breast disease ?</Question>
-			<Answer></Answer>
+			<Answer>If your breast exams and mammograms are normal, you do not need to worry about your symptoms. Fibrocystic breast changes do not generally increase your risk for breast cancer. However, if you have a family history of breast cancer and fibrocystic changes, there is a small increase in the risk. Symptoms usually improve after menopause.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001587-7" qtype="when to contact a medical professional">Do I need to see a doctor for Fibrocystic breast disease ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: You find new or different lumps during your  breast self-exam ., You have new discharge from the nipple or any discharge that is bloody or clear., You have redness or puckering of the skin, or flattening or indentation of the nipple., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

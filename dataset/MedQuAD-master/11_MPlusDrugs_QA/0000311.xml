@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000311" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a682750.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Dacarbazine</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,39 +7,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000311-1" qtype="important warning">What important warning or information should I know about Dacarbazine ?</Question>
-			<Answer></Answer>
+			<Answer>Dacarbazine injection must be given in a hospital or medical facility under the supervision of a doctor who is experienced in giving chemotherapy medications for cancer. Dacarbazine can cause a severe decrease in the number of blood cells in your bone marrow. This may cause certain symptoms and may increase the risk that you will develop a serious infection or bleeding. If you have a low number of blood cells, your doctor may stop or delay your treatment. If you experience any of the following symptoms, call your doctor immediately: fever, sore throat, ongoing cough and congestion, or other signs of infection; unusual bleeding or bruising. Dacarbazine may cause serious or life-threatening liver damage. Liver damage may occur more often in people that are receiving other cancer chemotherapy drugs along with dacarbazine treatment. If you experience any of the following symptoms, call your doctor immediately: nausea, extreme tiredness, unusual bleeding or bruising, lack of energy, loss of appetite, pain in the upper right part of the stomach, or yellowing of the skin or eyes. Dacarbazine injection has caused birth defects in animals. This medication has not been studied in pregnant women, but it is possible that it may also cause birth defects in babies whose mothers received dacarbazine injection during pregnancy. You should not use dacarbazine injection while you are pregnant or plan to become pregnant unless your doctor decides that this is the best treatment for your condition. Keep all appointments with your doctor and the laboratory. Your doctor will order certain tests to check your body's response to dacarbazine. Talk to your doctor about the risks of using dacarbazine injection.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000311-2" qtype="indication">Who should get Dacarbazine and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Dacarbazine is used to treat melanoma (a type of skin cancer) that has spread to other parts of your body. Dacarbazine is also used in combination with other medications to treat Hodgkin's lymphoma (Hodgkin's disease; a type of cancer that begins in a type of white blood cells that normally fights infection). Dacarbazine is in a class of medications known as purine analogs. It works by slowing or stopping the growth of cancer cells in your body.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000311-3" qtype="usage">How should Dacarbazine be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Dacarbazine injection comes as a powder to be mixed with liquid to be injected intravenously (into a vein) over 1 minute or infused intravenously over 15 to 30 minutes by a doctor or nurse in a medical facility. When dacarbazine is used to treat melanoma, it may be injected once a day for 10 days in a row every 4 weeks or it may be injected once a day for 5 days in a row every 3 weeks. When dacarbazine is used to treat Hodgkin's lymphoma is may be injected once a day for 5 days in a row every 4 weeks or it may be injected once every 15 days. Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000311-5" qtype="precautions">Are there safety concerns or special precautions about Dacarbazine ?</Question>
-			<Answer></Answer>
+			<Answer>Before receiving dacarbazine, tell your doctor and pharmacist if you are allergic to dacarbazine, any other medications, or any of the ingredients in dacarbazine injection. Ask your pharmacist for a list of the ingredients., tell your doctor and pharmacist what other prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take., tell your doctor if you are breast-feeding., plan to avoid unnecessary or prolonged exposure to sunlight and to wear protective clothing, sunglasses, and sunscreen. Dacarbazine may make your skin sensitive to sunlight., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000311-6" qtype="dietary">What special dietary instructions should I follow with Dacarbazine ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000311-7" qtype="side effects">What are the side effects or risks of Dacarbazine ?</Question>
-			<Answer></Answer>
+			<Answer>Dacarbazine may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ nausea, vomiting, loss of appetite, diarrhea, sores in the mouth and throat, hair loss, feeling of burning or tingling on the face, flushing, flu-like symptoms,  Some side effects can be serious. If you experience any of these symptoms or those listed in the IMPORTANT WARNING section, call your doctor immediately:
+ redness, pain, swelling, or burning at the site where the injection was given, hives, skin rash, itching, difficulty breathing or swallowing , fever, muscle aches, and general feeling of pain and tiredness,  Dacarbazine may cause other side effects. Call your doctor if you have any unusual problems while taking this medication. If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000311-8" qtype="emergency or overdose">What to do in case of emergency or overdose of Dacarbazine ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000311-9" qtype="other information">What other information should I know about Dacarbazine ?</Question>
-			<Answer></Answer>
+			<Answer>It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000311-10" qtype="brand names">What are the brand names of Dacarbazine ?</Question>
-			<Answer></Answer>
+			<Answer>DTIC-Dome &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

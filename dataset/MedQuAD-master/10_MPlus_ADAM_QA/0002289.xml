@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002289" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000186.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Kidney stones - what to ask your doctor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,7 +21,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002289-1" qtype="information">What is (are) Kidney stones - what to ask your doctor ?</Question>
-			<Answer></Answer>
+			<Answer>A  kidney stone  is a solid piece of material that forms in your kidney. The kidney stone may get stuck in your ureter (the tube that carries urine from your kidneys to your bladder). It also may get stuck in your bladder or urethra (the tube that carries urine from your bladder to outside your body). A stone can block the flow of your urine and cause great pain. In most cases, a stone that is in the kidney and not blocking the flow of urine does not cause pain. Below are some questions you may want to ask your health care provider.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

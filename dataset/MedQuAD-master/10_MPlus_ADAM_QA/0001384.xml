@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001384" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003753.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Endocervical gram stain</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001384-1" qtype="information">Do you have information about Endocervical gram stain</Question>
-			<Answer></Answer>
+			<Answer>Endocervical Gram stain is a method to detect bacteria on tissue from the cervix. This is done using a special series of stains.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000069" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/1080.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Oscillococcinum</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,42 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000069-1" qtype="information">What is Oscillococcinum ?</Question>
-			<Answer></Answer>
+			<Answer>Oscillococcinum is a patented homeopathic product manufactured by Boiron Laboratories. It is made from the heart and liver of wild duck. 
+
+Homeopathic products are extreme dilutions of active ingredients. They are often so diluted that they don't contain any active medicine. The basic principles are "like treats like" and "potentiation through dilution." For example, the flu would be treated with an extreme dilution of a substance that causes flu-like symptoms. 
+
+People use oscillococcinum for symptoms of the common cold and flu, but there is no good scientific evidence to support these uses. 
+
+Homeopathic products have been permitted for sale in the US since 1938. But homeopathic products are not held to safety and effectiveness standards the way that conventional medicines are.
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000069-2" qtype="how effective is it">How effective is Oscillococcinum ?</Question>
-			<Answer></Answer>
+			<Answer>There is interest in using oscillococcinum for a number of purposes, but there isn't enough reliable information to say whether it might be helpful. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000069-3" qtype="how does it work">What is the action of Oscillococcinum and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000069-4" qtype="precautions">Are there safety concerns or special precautions about Oscillococcinum ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000069-5" qtype="interactions with medications">Are there interactions between Oscillococcinum and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>It is not known if this product interacts with any medicines.    Before taking this product, talk with your health professional if you take any medications.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000069-6" qtype="interactions with herbs and supplements">Are there interactions between Oscillococcinum and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with herbs and supplements.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000069-7" qtype="interactions with foods">Are there interactions between Oscillococcinum and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000069-8" qtype="dose">What is the dosage of Oscillococcinum ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

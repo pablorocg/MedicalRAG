@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001735" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000660.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Giving an insulin injection</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001735-1" qtype="information">Do you have information about Giving an insulin injection</Question>
-			<Answer></Answer>
+			<Answer>To give an insulin injection, you need to fill the right syringe with the right amount of insulin, decide where to give the injection, and know how to give the injection. Your health care provider or a certified diabetes educator (CDE) will teach you all of these steps, watch you practice, and answer your questions. You may take notes to remember the details. Use the information below as a reminder.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

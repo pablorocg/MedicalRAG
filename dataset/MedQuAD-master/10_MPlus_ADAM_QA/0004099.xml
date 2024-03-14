@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004099" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003906.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ureteral retrograde brush biopsy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004099-1" qtype="information">Do you have information about Ureteral retrograde brush biopsy</Question>
-			<Answer></Answer>
+			<Answer>Ureteral retrograde brush  biopsy  is a surgical procedure. During the surgery, your surgeon takes a small sample of tissue from the lining of the kidney or ureter. The ureter is the tube that connects a kidney to the bladder. The tissue is sent to a lab for testing.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

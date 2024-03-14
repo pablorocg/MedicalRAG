@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000540" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007222.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Brain tumor - primary - adults</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -30,31 +29,33 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000540-1" qtype="information">What is (are) Brain tumor - primary - adults ?</Question>
-			<Answer></Answer>
+			<Answer>A primary brain tumor is a group (mass) of abnormal cells that start in the brain.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000540-2" qtype="causes">What causes Brain tumor - primary - adults ?</Question>
-			<Answer></Answer>
+			<Answer>Primary brain tumors include any  tumor  that starts in the brain. Primary brain tumors can start from brain cells, the membranes around the brain (meninges), nerves, or glands. Tumors can directly destroy brain cells. They can also damage cells by producing inflammation, placing pressure on other parts of the brain, and increasing  pressure within the skull . The cause of primary brain tumors is unknown. There are many risk factors that could play a role: Radiation therapy used to treat brain cancers increases the risk of brain tumors up to 20 or 30 years later., Some inherited conditions increase the risk of brain tumors, including neurofibromatosis, Von Hippel-Lindau syndrome, Li-Fraumeni syndrome, and Turcot syndrome., Lymphomas that begin in the brain in people with a weakened immune system are sometimes linked to infection by the Epstein-Barr virus. ,  These have not proven to be risk factors: Exposure to radiation at work, or to power lines, cell phones, cordless phones, or wireless devices, Head injuries, Smoking, Hormone therapy ,  SPECIFIC TUMOR TYPES Brain tumors are classified depending on:  Location of the tumor, Type of tissue involved, Whether they are noncancerous (benign) or cancerous (malignant), Other factors ,  Sometimes, tumors that start out less aggressive can change their biologic behavior and become more aggressive. Tumors can occur at any age, but many types are most common in a certain age group. In adults, gliomas and meningiomas are the most common. Gliomas come from glial cells such as astrocytes, oligodendrocytes, and ependymal cells. Gliomas are divided into three types: Astrocytic tumors include astrocytomas (can be noncancerous), anaplastic astrocytomas, and glioblastomas., Oligodendroglial tumors. Some primary brain tumors are made up of both astrocytic and oligodendrocytic tumors. These are called mixed gliomas., Glioblastomas are the most aggressive type of primary brain tumor. ,  Meningiomas and schwannomas are two other types of brain tumors. These tumors: Occur most often between ages 40 and 70., Are usually noncancerous, but can still cause serious complications and death from their size or location. Some are cancerous and aggressive. ,  Other primary brain tumors in adults are rare. These include: Ependymomas, Craniopharyngiomas, Pituitary tumors, Primary (central nervous system - CNS) lymphoma, Pineal gland tumors, Primary germ cell tumors of the brain , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000540-3" qtype="symptoms">What are the symptoms of Brain tumor - primary - adults ?</Question>
-			<Answer></Answer>
+			<Answer>Some tumors do not cause symptoms until they are very large. Other tumors have symptoms that develop slowly. Symptoms depend on the tumor's size, location, how far it has spread, and whether there is brain swelling. The most common symptoms are: Changes in the person's mental function, Headaches, Seizures (especially in older adults), Weakness in one part of the body ,  Headaches caused by brain tumors may: Be worse when the person wakes up in the morning, and clear up in a few hours, Occur during sleep, Occur with vomiting, confusion, double vision, weakness, or numbness, Get worse with coughing or exercise, or with a change in body position ,  Other symptoms can include: Change in alertness (including sleepiness, unconsciousness, and coma), Changes in hearing, taste, or smell, Changes that affect touch and the ability to feel pain, pressure, different temperatures, or other stimuli, Confusion or memory loss,  Difficulty swallowing , Difficulty writing or reading, Dizziness or abnormal sensation of movement (vertigo), Eye problems such as eyelid drooping, pupils of different sizes, uncontrollable eye movement, vision difficulties (including decreased vision, double vision, or total loss of vision), 
+   Hand tremor
+   , Lack of control over the bladder or bowels, Loss of balance or coordination, clumsiness, trouble walking, Muscle weakness in the face, arm, or leg (usually on just one side), Numbness or tingling on one side of the body, Personality, mood, behavior, or emotional changes, Trouble speaking or understanding others who are speaking ,  Other symptoms that may occur with a  pituitary tumor : Abnormal nipple discharge, Absent menstruation (periods), Breast development in men, Enlarged hands, feet, Excessive body hair, Facial changes,  Low blood pressure , Obesity, Sensitivity to heat or cold , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000540-4" qtype="exams and tests">How to diagnose Brain tumor - primary - adults ?</Question>
-			<Answer></Answer>
+			<Answer>The following tests may confirm the presence of a brain tumor and&#160;find its location: CT scan of the head ,  EEG &#160;(to measure the electrical activity of the brain), Examination of tissue removed from the tumor during surgery or CT-guided  biopsy  (may confirm the type of tumor), Examination of the cerebral spinal fluid (CSF) (may show cancerous cells),  MRI of the head , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000540-5" qtype="treatment">What are the treatments for Brain tumor - primary - adults ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment can involve surgery, radiation therapy, and chemotherapy. Brain tumors are best treated by a team that includes: Neuro-oncologist, Neurosurgeon, Medical oncologist, Radiation oncologist, Other health care providers, such as neurologists and social workers,  Early treatment often improves the chance of a good outcome. Treatment depends on the size and type of tumor and your general health. Goals of treatment may be to cure the tumor, relieve symptoms, and improve brain function or comfort. Surgery is often needed for most primary brain tumors. Some tumors may be completely removed. Those that are deep inside the brain or that enter brain tissue may be debulked instead of removed. Debulking is a procedure to reduce the tumor's size. Tumors can be hard to remove completely by surgery alone. This is because the tumor invades surrounding brain tissue much like roots from a plant spread through soil. When the tumor cannot be removed, surgery may still help reduce pressure and relieve symptoms. Radiation therapy  is used for certain tumors. Chemotherapy may be used with surgery or radiation treatment. Other medicines used to treat primary brain tumors in children may include: Medicines to reduce brain swelling and pressure, Anticonvulsants to reduce seizures, Pain medicines,  Comfort measures, safety measures, physical therapy, and occupational therapy may be needed to improve quality of life. Counseling, support groups, and similar measures can help people cope with the disorder. You may consider enrolling in a clinical trial after talking with your treatment team.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000540-6" qtype="complications">What are the complications of Brain tumor - primary - adults ?</Question>
-			<Answer></Answer>
+			<Answer>Complications that may result from brain tumors include: Brain herniation  (often fatal), Loss of ability to interact or function, Permanent, worsening, and severe loss of brain function, Return of tumor growth, Side effects of medicines, including chemotherapy, Side effects of radiation treatments , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000540-7" qtype="when to contact a medical professional">Do I need to see a doctor for Brain tumor - primary - adults ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop any new, persistent headaches or other symptoms of a brain tumor. Contact your provider or go to the emergency room if you start having seizures, or suddenly develop  stupor  (reduced alertness), vision changes, or speech changes.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001454" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003401.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Esophageal pH monitoring</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001454-1" qtype="information">Do you have information about Esophageal pH monitoring</Question>
-			<Answer></Answer>
+			<Answer>Esophageal pH monitoring is a test that measures how often stomach acid enters the tube that leads from the mouth to the stomach (called the esophagus). The test also measures how long the acid stays there.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

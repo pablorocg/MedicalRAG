@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002525" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000516.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Managing your chronic back pain</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002525-1" qtype="information">What is (are) Managing your chronic back pain ?</Question>
-			<Answer></Answer>
+			<Answer>Managing  chronic back pain  means finding ways to make your back pain tolerable so you can live your life. You may not be able to get rid of your pain completely, but you can change some things that worsen your pain. These things are called stressors. Some of them may be physical, like the chair you sit in at work. Some may be emotional, like a difficult relationship. Reducing stress can improve your physical and emotional health. It is not always easy to reduce stress, but it's easier if you are able to ask your friends and family for help.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

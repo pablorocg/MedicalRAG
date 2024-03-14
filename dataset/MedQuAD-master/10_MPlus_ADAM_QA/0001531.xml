@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001531" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000553.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Factor X deficiency</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,43 +19,43 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001531-1" qtype="information">What is (are) Factor X deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Factor X (ten) deficiency is a disorder caused by a lack of a protein called factor X in the blood. It leads to problems with blood clotting (coagulation).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001531-2" qtype="causes">What causes Factor X deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>When you bleed, a series of reactions take place in the body that helps blood clots form. This process is called the coagulation cascade. It involves special proteins called coagulation, or clotting, factors. You may have a higher chance of excess bleeding if one or more of these factors are missing or are not functioning like they should. Factor X is one such coagulation factor. Factor X deficiency is often caused by an inherited defect in the factor X gene. This is called inherited factor X deficiency. Bleeding ranges from mild to severe depending on how severe the deficiency is. Factor X deficiency can also be due to another condition or use of certain medicines. This is called acquired factor X deficiency. Acquired factor X deficiency is common. It can be caused by: Lack of vitamin K (some newborns are born with vitamin K deficiency), Buildup of abnormal proteins in the tissues and organs ( amyloidosis ), Severe liver disease, Use of medicines that prevent clotting (anticoagulants such as warfarin) ,  Women with factor X deficiency may first be diagnosed when they have very heavy menstrual bleeding and bleeding after childbirth. The condition may be first noticed in newborn boys if they have bleeding that lasts longer than normal after circumcision.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001531-3" qtype="symptoms">What are the symptoms of Factor X deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include any of the following: Bleeding into the joints, Bleeding into the muscles, Bruising easily, Heavy menstrual bleeding,  Mucus membrane  bleeding, Nosebleeds that do not stop easily, Umbilical cord bleeding after birth , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001531-4" qtype="exams and tests">How to diagnose Factor X deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Tests that may be done include: Factor X assay ,  Partial thromboplastin time  (PTT),  Prothrombin time  (PT) , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001531-5" qtype="treatment">What are the treatments for Factor X deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Bleeding can be controlled by getting intravenous (IV) infusions of plasma or concentrates of clotting factors. If you lack vitamin K, your doctor will prescribe vitamin K for you to take by mouth, through injections under the skin, or through a vein (intravenously). If you have this bleeding disorder, be sure to: Tell your health care providers before you have any kind of procedure, including surgery and dental work., Tell your family members because they may have the same disorder but do not know it yet., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001531-6" qtype="support groups">Where to find support for people with Factor X deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>More information and support for people with factor X deficiency and their families can be found at: National Hemophilia Foundation --  www.hemophilia.org/community-resources , National Organization for Rare Disorders --  rarediseases.org/rare-diseases/factor-x-deficiency/ , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001531-7" qtype="outlook">What is the outlook for Factor X deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome is good if the condition is mild or you get treatment.  Inherited factor X deficiency is a lifelong condition. The outlook for acquired factor X deficiency depends on the cause. If it is caused by liver disease, the outcome depends on how well your liver disease can be treated. Taking vitamin K supplements will treat vitamin K deficiency. If the disorder is caused by amyloidosis, there are several treatment options. Your provider can tell you more.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001531-8" qtype="complications">What are the complications of Factor X deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Severe  bleeding  or sudden loss of blood (hemorrhage) can occur. The joints may get deformed in severe disease from many bleeds.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001531-9" qtype="when to contact a medical professional">Do I need to see a doctor for Factor X deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Get emergency medical help if you have an unexplained or severe loss of blood.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0001531-10" qtype="prevention">How to prevent Factor X deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known prevention for inherited factor X deficiency. When a lack of vitamin K is the cause, using vitamin K supplements can help.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

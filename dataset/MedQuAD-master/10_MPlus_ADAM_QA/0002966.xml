@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002966" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007256.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Partial knee replacement</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -16,7 +15,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002966-1" qtype="information">Do you have information about Partial knee replacement</Question>
-			<Answer></Answer>
+			<Answer>A partial knee replacement is surgery to replace only one part of a damaged knee. It can replace either the inside (medial) part, the outside (lateral) part, or the kneecap part of the knee.  Surgery to replace the whole knee joint is called  total knee replacement .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

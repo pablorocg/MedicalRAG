@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002027" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000661.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>How to give a heparin shot</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002027-1" qtype="information">Do you have information about How to give a heparin shot</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider prescribed a blood thinning medicine called heparin. It has to be given as a shot at home. A nurse or other health professional will teach you how to prepare the medicine and give the shot. They will watch you practice and answer your questions. You may take notes to remember the details. Keep this sheet as a reminder of what you need to do.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

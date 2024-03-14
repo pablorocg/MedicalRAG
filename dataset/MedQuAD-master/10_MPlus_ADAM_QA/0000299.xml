@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000299" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000328.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Apoplexy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000299-1" qtype="information">What is (are) Apoplexy ?</Question>
-			<Answer></Answer>
+			<Answer>Apoplexy is bleeding into an organ or loss of blood flow to an organ. For example,  Adrenal apoplexy -- bleeding into the  adrenal glands , Pituitary apoplexy -- bleeding into the pituitary gland,  Apoplexy most often refers to stroke symptoms that occur suddenly. Such symptoms occur due to bleeding into the brain. It can also occur by a blood clot in a brain blood vessel. Conditions such as  subarachnoid hemorrhage  or  stroke  are sometimes called apoplexy. Functional apoplexy is when a person appears to be having stroke-like symptoms. However, there is no brain defect.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

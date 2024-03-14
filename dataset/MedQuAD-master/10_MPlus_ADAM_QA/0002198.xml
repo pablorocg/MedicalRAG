@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002198" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002388.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Inspection</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002198-1" qtype="information">Do you have information about Inspection</Question>
-			<Answer></Answer>
+			<Answer>In medical terms, "inspection" means to look at the person or body part. It is the first step in a physical exam.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

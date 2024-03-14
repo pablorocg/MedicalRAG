@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003601" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000611.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Skin and hair changes during pregnancy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003601-1" qtype="information">Do you have information about Skin and hair changes during pregnancy</Question>
-			<Answer></Answer>
+			<Answer>Most women have changes in their skin, hair, and nails during pregnancy. Most of these are normal and go away after pregnancy. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

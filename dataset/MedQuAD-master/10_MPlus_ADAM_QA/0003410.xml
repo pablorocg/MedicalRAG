@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003410" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003940.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Rheumatic fever</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,42 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003410-1" qtype="information">What is (are) Rheumatic fever ?</Question>
-			<Answer></Answer>
+			<Answer>Rheumatic fever is a disease that may develop after an infection with group A streptococcus bacteria (such as  strep throat  or  scarlet fever ). It can cause severe illness in the heart, joints, skin, and brain.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003410-2" qtype="causes">What causes Rheumatic fever ?</Question>
-			<Answer></Answer>
+			<Answer>Rheumatic fever is still common in countries that have a lot of poverty and poor health systems. It does not often occur in the United States and other developed countries. When rheumatic fever does occur in the United States, it is most often in small outbreaks. The latest outbreak in the United States&#160;was in the 1980s. Rheumatic fever occurs after infections with a germ or bacteria called  Streptococcus pyogenes  or group A streptococcus. This germ appears to trick the immune system into attacking healthy tissues in the body. These tissues become swollen or inflamed. This abnormal reaction seems to almost always occur with strep throat or scarlet fever. Strep infections that involve other parts of the body do not seem to trigger rheumatic fever.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003410-3" qtype="symptoms">What are the symptoms of Rheumatic fever ?</Question>
-			<Answer></Answer>
+			<Answer>Rheumatic fever mainly affects children ages 5 to 15 who have had strep throat or scarlet fever. If it occurs, it develops about 14 to 28 days after these illnesses. Symptoms can affect many systems in the body. General symptoms may include: Fever , Nosebleeds, Pain in the abdomen, Heart problems, which may have no symptoms, or may lead to shortness of breath and chest pain ,  Symptoms in the joints can: Cause pain, swelling, redness, and warmth, Mainly occur in the knees, elbows, ankles, and wrists, Change or move from one joint to another ,  Skin changes may also occur, such as: Ring-shaped or snake-like skin rash on the trunk and upper part of the arms or legs, Skin lumps or nodules ,  A condition that affects the brain and nervous system, called  Sydenham chorea , can also occur. Symptoms of this condition are: Loss of control of emotions, with bouts of unusual crying or laughing, Quick, jerky movements that mainly affect the face, feet, and hands , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003410-4" qtype="exams and tests">How to diagnose Rheumatic fever ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will examine you and will carefully check your heart sounds, skin, and joints. Tests may include: Blood test for repeated strep infection (such as an  ASO  test),  Complete blood count  (CBC),  Electrocardiogram  (ECG),  Sedimentation rate  (ESR -- a test that measures inflammation in the body) ,  Several factors called major and minor criteria have been developed to help diagnose rheumatic fever in a standard way.  The major criteria for diagnosis include: Arthritis in several large joints, Heart inflammation, Nodules under the skin, Rapid, jerky movements (chorea, Sydenham chorea), Skin rash ,  The minor criteria include: Fever, High ESR, Joint pain, Abnormal ECG ,  You'll likely be diagnosed with rheumatic fever if you: Meet 2 major criteria, or 1 major and 2 minor criteria, Have signs of a past strep infection , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003410-5" qtype="treatment">What are the treatments for Rheumatic fever ?</Question>
-			<Answer></Answer>
+			<Answer>If you or your child is diagnosed with acute rheumatic fever, you or your child will be treated with antibiotics. The goal of this treatment is to remove all of the strep bacteria from the body. After the first treatment is complete, more antibiotics are prescribed. The goal of these medicines is to prevent rheumatic fever from recurring. All children will continue the antibiotics until age 21., Teenagers and young adults will need to take antibiotics for at least 5 years.,  If you or your child had heart problems when the rheumatic fever occurred, antibiotics may be needed for even longer, perhaps for life. To help manage swelling of inflamed tissues during acute rheumatic fever, medicines such as aspirin or corticosteroids may be needed. For problems with abnormal movements or abnormal behaviors, medicines often used to treat seizures may be prescribed.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003410-6" qtype="outlook">What is the outlook for Rheumatic fever ?</Question>
-			<Answer></Answer>
+			<Answer>Rheumatic fever can cause severe heart problems and heart damage.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003410-7" qtype="complications">What are the complications of Rheumatic fever ?</Question>
-			<Answer></Answer>
+			<Answer>Long-term heart problems can occur, such as: Damage to heart valves. This damage may cause leakage in the heart valve or narrowing that slows blood flow through the valve., 
+ Damage to the heart muscle.,  Heart failure . 
+ , Infection of the inner lining of your heart ( endocarditis )., Swelling of the membrane around the heart ( pericarditis ).,  Heart rhythm that is fast and unsteady . 
+ , Sydenham chorea. , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003410-8" qtype="when to contact a medical professional">Do I need to see a doctor for Rheumatic fever ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you or your child develops symptoms of rheumatic fever. Because several other conditions have similar symptoms, you or your child will need careful medical evaluation. If symptoms of strep throat develop, tell your provider. You or your child will need to be checked and treated if strep throat is present. This will decrease the risk of developing rheumatic fever.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003410-9" qtype="prevention">How to prevent Rheumatic fever ?</Question>
-			<Answer></Answer>
+			<Answer>The most important way to prevent rheumatic fever is by getting quick treatment for strep throat and scarlet fever.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

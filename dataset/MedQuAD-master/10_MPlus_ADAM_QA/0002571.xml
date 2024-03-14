@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002571" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000475.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Membranoproliferative glomerulonephritis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -27,39 +26,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002571-1" qtype="information">What is (are) Membranoproliferative glomerulonephritis ?</Question>
-			<Answer></Answer>
+			<Answer>Membranoproliferative glomerulonephritis is a kidney disorder that involves inflammation and changes to kidney cells. It may lead to  kidney failure .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002571-2" qtype="causes">What causes Membranoproliferative glomerulonephritis ?</Question>
-			<Answer></Answer>
+			<Answer>Glomerulonephritis  is an inflammation of the glomeruli. The glomeruli of the kidney help filter wastes and fluids from the blood to form urine. Membranoproliferative glomerulonephritis (MPGN) is a form of glomerulonephritis caused by an abnormal  immune response . Deposits of  antibodies  build up in a part of the kidneys called the glomerular basement membrane. This membrane helps filter wastes and extra fluids from the blood. Damage to this membrane affects the kidney's ability to create urine normally. It may allow blood and protein to leak into the urine. If enough protein leaks into the urine, fluid may leak out of the blood vessels into body tissues, leading to swelling ( edema ). Nitrogen waste products may also build up in the blood ( azotemia ). The 2 forms of this disease are MPGN I and MPGN II. Most people with the disease have type I. MPGN II is much less common. It also tends to get worse faster than MPGN I. Causes of MPGN may include: Autoimmune diseases ( systemic lupus erythematosus ,  scleroderma ,  Sj&#246;gren syndrome ,  sarcoidosis )
+   , Cancer (leukemia, lymphoma), Infections ( hepatitis B ,  hepatitis C ,  endocarditis ,  malaria ), </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002571-3" qtype="symptoms">What are the symptoms of Membranoproliferative glomerulonephritis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include any of the following: Blood in the urine ,  Changes in mental status  such as  decreased alertness  or decreased concentration,  Cloudy urine ,  Dark urine  (smoke, cola, or tea colored),  Decrease in urine volume ,  Swelling  of any part of the body, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002571-4" qtype="exams and tests">How to diagnose Membranoproliferative glomerulonephritis ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will examine you and ask about your symptoms. The provider may find that you have signs of too much fluid in the body, such as: Swelling, often in the legs, Abnormal sounds when listening to your heart and lungs with a stethoscope, You may have high blood pressure,  The following tests help confirm the diagnosis: BUN  and  creatinine  blood test ,  Blood complement levels ,  Urinalysis ,  Urine protein ,  Kidney biopsy  (to confirm membranoproliferative GN I or II), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002571-5" qtype="treatment">What are the treatments for Membranoproliferative glomerulonephritis ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment depends on the symptoms. The goals of treatment are to reduce symptoms, prevent complications, and slow the progression of the disorder. You may need a change in diet. This may include limiting sodium, fluids, or protein to help control high blood pressure, swelling, and the buildup of waste products in the blood. Medicines that may be prescribed include: Blood pressure medicines, Dipyridamole, with or without aspirin, Diuretics, Medicines to suppress the immune system, such as cyclophosphamide, Steroids,  Treatment is more effective in children than in adults. Dialysis or  kidney transplant  may eventually be needed to manage kidney failure.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002571-6" qtype="outlook">What is the outlook for Membranoproliferative glomerulonephritis ?</Question>
-			<Answer></Answer>
+			<Answer>The disorder often slowly gets worse and eventually results in  chronic kidney failure .  Half of people with this condition develop long-term (chronic) kidney failure within 10 years. This is more likely in those who have higher levels of protein in their urine.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002571-7" qtype="complications">What are the complications of Membranoproliferative glomerulonephritis ?</Question>
-			<Answer></Answer>
+			<Answer>Complications that may result from this disease include: Acute nephritic syndrome ,  Acute renal failure ,  Chronic kidney disease , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002571-8" qtype="when to contact a medical professional">Do I need to see a doctor for Membranoproliferative glomerulonephritis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: You have symptoms of this condition, Your symptoms get worse or do not go away, You develop new symptoms, including decreased urine output, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002571-9" qtype="prevention">How to prevent Membranoproliferative glomerulonephritis ?</Question>
-			<Answer></Answer>
+			<Answer>Preventing infections such as hepatitis or managing diseases such as lupus may help prevent MPGN.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000381" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003294.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Babinski reflex</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,11 +21,13 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000381-1" qtype="information">What is (are) Babinski reflex ?</Question>
-			<Answer></Answer>
+			<Answer>Reflexes are responses that occur when the body receives a certain stimulus. The Babinski reflex occurs after the sole of the foot has been firmly stroked. The big toe then moves upward or toward the top surface of the foot. The other toes fan out. Babinski reflex is one of the normal reflexes in infants and in children up to 2 years old. It disappears as the child gets older. It may disappear as early as 12 months. In adults, this reflex is not normal and often indicates a problem with the brain or spinal cord.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000381-2" qtype="causes">What causes Babinski reflex ?</Question>
-			<Answer></Answer>
+			<Answer>When the Babinski reflex is present in a child older than 2 years or in an adult, it is often a sign of a central nervous system disorder. The central nervous system includes the brain and spinal cord. Disorders may include: Amyotrophic lateral sclerosis  (Lou Gehrig disease),  Brain tumor  or injury
+ ,  Meningitis &#160;(infection of the membranes covering the brain and spinal cord), Viral infection of the brain,  Multiple sclerosis ,  Spinal cord injury , defect, or tumor
+ ,  Stroke , Neurodegenerative diseases, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

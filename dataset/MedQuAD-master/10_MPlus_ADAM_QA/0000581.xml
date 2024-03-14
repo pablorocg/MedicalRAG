@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000581" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001529.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Brief psychotic disorder</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,35 +16,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000581-1" qtype="information">What is (are) Brief psychotic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Brief psychotic disorder is a sudden, short-term display of psychotic behavior, such as  hallucinations  or delusions, which occurs with a stressful event.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000581-2" qtype="causes">What causes Brief psychotic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Brief psychotic disorder is triggered by extreme stress, such as a traumatic accident or loss of a loved one. It is followed by a return to the previous level of function. The person may or may not be aware of the strange behavior. This condition most often affects people in their 20s, 30s, and 40s. Those who have personality disorders are at high risk of having a brief reactive psychosis.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000581-3" qtype="symptoms">What are the symptoms of Brief psychotic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of brief psychotic disorder may include the following: Behavior that is odd or out of character, False ideas about what is taking place (delusions), Hearing or seeing things that aren't real (hallucinations), Strange speech or language ,  The symptoms are not due to alcohol or other drug use, and they last longer than a day, but less than a month.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000581-4" qtype="exams and tests">How to diagnose Brief psychotic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>A psychiatric evaluation can confirm the diagnosis. A physical exam and laboratory testing can rule out medical illness as the cause of the symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000581-5" qtype="treatment">What are the treatments for Brief psychotic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>By definition, psychotic symptoms go away on their own in less than 1 month. In some cases, brief psychotic disorder can be the beginning of a more chronic psychotic condition, such as  schizophrenia  or  schizoaffective disorder . Antipsychotic drugs can help decrease or stop the psychotic symptoms. Talk therapy may also help you cope with the emotional stress that triggered the problem.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000581-6" qtype="outlook">What is the outlook for Brief psychotic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Most people with this disorder have a good outcome. Repeat episodes may occur in response to stress.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000581-7" qtype="complications">What are the complications of Brief psychotic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>As with all psychotic illnesses, this condition can severely disrupt your life and possibly lead to violence and suicide.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000581-8" qtype="when to contact a medical professional">Do I need to see a doctor for Brief psychotic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Call for an appointment with a mental health professional if you have symptoms of this disorder. If you or someone you know is thinking about suicide, call or text 988 or chat  988lifeline.org . You can also call 1-800-273-8255 (1-800-273-TALK). The 988 Suicide and Crisis Lifeline provides free and confidential support 24/7, anytime day or night. You can also call 911 or the local emergency number or go to the hospital emergency room. DO NOT delay. If someone you know has attempted suicide, call 911 or the local emergency number right away. DO NOT leave the person alone, even after you have called for help.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003464" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000864.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Savings account for health care costs</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -28,11 +27,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003464-1" qtype="information">What is (are) Savings account for health care costs ?</Question>
-			<Answer></Answer>
+			<Answer>As health insurance changes, out-of-pocket costs continue to grow. With special savings accounts, you can set aside tax-exempt money for your health care expenses. This means you will pay no or reduced income taxes on the money deposited in the accounts.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003464-2" qtype="information">What is (are) Savings account for health care costs ?</Question>
-			<Answer></Answer>
+			<Answer>As health insurance changes, out-of-pocket costs continue to grow. With special savings accounts, you can set aside tax-exempt money for your health care expenses. This means you will pay no or reduced income taxes on the money deposited in the accounts.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002565" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000465.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Medullary cystic kidney disease</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002565-1" qtype="information">What is (are) Medullary cystic kidney disease ?</Question>
-			<Answer></Answer>
+			<Answer>Autosomal dominant tubulointerstitial kidney disease (ADTKD) is a group of inherited conditions that affect the tubules of the kidneys, causing the kidneys to gradually lose their ability to work.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002565-2" qtype="causes">What causes Medullary cystic kidney disease ?</Question>
-			<Answer></Answer>
+			<Answer>ADTKD is caused by mutations in certain genes. These gene problems are passed down through families (inherited) in an  autosomal dominant pattern . This means the abnormal gene is needed from only one parent in order to inherit the disease. Often, many family members have the disease. With all forms of ADTKD, as the disease progresses, the kidney tubules are damaged. These are the structures in the kidneys that allow most fluid in the blood to be filtered and returned to the blood. The abnormal genes that cause the different forms of ADTKD are: UMOD  gene -- causes ADTKD- UMOD , or uromodulin kidney disease,  MUC1  gene -- causes ADTKD- MUC1 , or mucin-1 kidney disease,  REN  gene -- causes ADTKD- REN , or familial juvenile hyperuricemic nephropathy type 2 (FJHN2),  HNF1B  gene -- causes ADTKD- HNF1B , or maturity-onset diabetes mellitus of the young type 5 (MODY5) ,  When the cause of ADTKD is not known or a genetic test has not been done, it is called ADTKD-NOS.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002565-3" qtype="symptoms">What are the symptoms of Medullary cystic kidney disease ?</Question>
-			<Answer></Answer>
+			<Answer>Early in the disease, depending on the form of ADTKD, symptoms may include: Excessive urination (polyuria),  Gout , Salt cravings,  Urination at night  (nocturia), Weakness ,  As the disease worsens, symptoms of  kidney failure  may develop, which include: Easy bruising or bleeding,  Fatigue , weakness, Frequent hiccups, Headache, Increased skin color (skin may appear yellow or brown), Itching,  Malaise  (general ill feeling), Muscle twitching or cramps, Nausea, Pale skin, Reduced sensation in the hands, feet, or other areas, Vomiting blood or blood in the stool, Weight loss,  Seizures , Confusion, decreased alertness, coma , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002565-4" qtype="exams and tests">How to diagnose Medullary cystic kidney disease ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will examine you and ask about your symptoms. You'll likely be asked if other family members have ADTKD or kidney disease. Tests that may be done include: 24-hour urine volume  and  electrolytes ,  Blood urea nitrogen  (BUN),  Complete blood count  (CBC),  Creatinine  blood test,  Creatinine clearance  -- blood and urine, Uric acid blood test,  Urine specific gravity  (will be low) ,  The following tests can help diagnose this condition: Abdominal CT scan ,  Abdominal ultrasound ,  Kidney biopsy , Kidney ultrasound , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002565-5" qtype="treatment">What are the treatments for Medullary cystic kidney disease ?</Question>
-			<Answer></Answer>
+			<Answer>There is no cure for ADTKD. At first, treatment focuses on controlling symptoms, reducing complications, and slowing the progression of the disease. Because so much water and salt may be lost, you may need to follow instructions on drinking plenty of fluids and taking salt supplements to avoid dehydration. As the disease progresses, kidney failure develops. Treatment may involve taking medicines and diet changes, limiting foods containing phosphorus and potassium. You may need dialysis and a kidney transplant.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002565-6" qtype="outlook">What is the outlook for Medullary cystic kidney disease ?</Question>
-			<Answer></Answer>
+			<Answer>The age at which people with ADTKD reach  end-stage kidney disease  varies, depending on the form of the disease. It can be as young as in the teens or in older adulthood. Lifelong treatment may control the symptoms of chronic kidney disease.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002565-7" qtype="complications">What are the complications of Medullary cystic kidney disease ?</Question>
-			<Answer></Answer>
+			<Answer>Kidney damage due to ADTKD may lead to the following health problems: Anemia , Bone weakening and fractures,  Cardiac tamponade , Changes in glucose metabolism, Congestive heart failure, End-stage kidney disease,  High blood pressure ,  Hyponatremia  (low blood sodium level),  Hyperkalemia  (too much potassium in the blood), especially with end-stage kidney disease,  Hypokalemia  (too little potassium in the blood), Infertility, Menstrual problems, Miscarriage,  Pericarditis ,  Peripheral neuropathy , Platelet dysfunction with easy bruising, Skin color changes, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002565-8" qtype="when to contact a medical professional">Do I need to see a doctor for Medullary cystic kidney disease ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have any symptoms of urinary or kidney problems.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002565-9" qtype="prevention">How to prevent Medullary cystic kidney disease ?</Question>
-			<Answer></Answer>
+			<Answer>Autosomal dominant tubulointerstitial kidney disease is an inherited disorder. It may not be preventable.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

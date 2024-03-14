@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002288" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000135.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Kidney stones - self-care</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,15 +21,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002288-1" qtype="information">What is (are) Kidney stones - self-care ?</Question>
-			<Answer></Answer>
+			<Answer>A  kidney stone  is a small solid mass made up of tiny crystals. Your health care provider may ask you to take self-care steps to treat kidney stones or prevent them from returning.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002288-2" qtype="information">What is (are) Kidney stones - self-care ?</Question>
-			<Answer></Answer>
+			<Answer>A  kidney stone  is a small solid mass made up of tiny crystals. Your health care provider may ask you to take self-care steps to treat kidney stones or prevent them from returning.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002288-6" qtype="when to contact a medical professional">Do I need to see a doctor for Kidney stones - self-care ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

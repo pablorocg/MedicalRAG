@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000308" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007347.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Arm CT scan</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000308-1" qtype="information">Do you have information about Arm CT scan</Question>
-			<Answer></Answer>
+			<Answer>A computed tomography (CT) scan of the arm is an imaging method that uses x-rays to make cross-sectional pictures of the arm.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

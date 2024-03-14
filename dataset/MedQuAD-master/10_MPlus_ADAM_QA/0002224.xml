@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002224" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002383.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Intravenous</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002224-1" qtype="information">Do you have information about Intravenous</Question>
-			<Answer></Answer>
+			<Answer>Intravenous means "within a vein." Most often it refers to giving medicines or fluids through a needle or tube inserted into a vein. This allows the medicine or fluid to enter your bloodstream right away. For example, your health care provider may prescribe medicines to be given through a vein, or an intravenous (IV) line.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

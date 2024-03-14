@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001502" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002085.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Eye floaters</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001502-1" qtype="information">What is (are) Eye floaters ?</Question>
-			<Answer></Answer>
+			<Answer>The floating specks you sometimes see in front of your eyes are not on the surface of your eyes but inside them. They are made up of bits of cell debris that drift around in the fluid (vitreous) in the back of your eye. Floaters may look like spots, specks, bubbles, threads, or clumps. Most adults have at least a few floaters. There are times when they may be more visible than at other times, such as when you are reading, especially if the floater is dense or dark. Most of the time floaters are harmless. However, they can be a symptom of a tear in the  retina . If you notice a sudden increase in floaters or if you see floaters along with flashes of light in your side vision, this may be a symptom of a retinal tear or detachment. Go to an eye doctor or emergency room if you have these symptoms. Treatment It is difficult to eliminate floaters. A vitrectomy can remove floaters, but it is a major eye operation and many doctors feel that it is too risky for a minor problem such as floaters. A YAG laser treatment can break up floaters and possibly make them less visible, but it doesn't really remove the floaters. Research is being done on femtosecond lasers (like the ones often used in LASIK) since this method may prove to be safer. Atropine eye drops, which slightly dilate the pupil, can make floaters less visible. However, the drops may cause blurred vision. Some homeopathic eye drops are marketed as treatment for floaters, but not been shown to have proven benefit.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

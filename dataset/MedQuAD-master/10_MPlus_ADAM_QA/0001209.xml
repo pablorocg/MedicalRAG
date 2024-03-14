@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001209" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000218.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Diarrhea - what to ask your health care provider - adult</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,7 +22,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001209-1" qtype="information">What is (are) Diarrhea - what to ask your health care provider - adult ?</Question>
-			<Answer></Answer>
+			<Answer>Diarrhea  is when you have more than 3 very loose, watery, or unformed bowel movements in 1 day. For many, diarrhea is mild and will pass within a few days. For others, it may last longer. It can make you feel weak and dehydrated. It can also lead to unhealthy weight loss. A stomach or intestinal illness can cause diarrhea. It can be a side effect of treatments, such as antibiotics and some cancer treatments. It may also result from taking some medicines and consuming artificial sweeteners such as those used to sweeten sugar free gum and candies. Below are questions you may want to ask your health care provider to help you take care of your diarrhea.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

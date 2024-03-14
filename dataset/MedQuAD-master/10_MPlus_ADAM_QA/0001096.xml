@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001096" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003606.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>D-xylose absorption</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001096-1" qtype="information">Do you have information about D-xylose absorption</Question>
-			<Answer></Answer>
+			<Answer>D-xylose absorption is a laboratory test to check how well the intestines absorb a simple sugar (D-xylose). The test helps detect if nutrients are being properly absorbed.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

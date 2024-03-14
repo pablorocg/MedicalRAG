@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001436" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007479.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>ERCP</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001436-1" qtype="information">Do you have information about ERCP</Question>
-			<Answer></Answer>
+			<Answer>ERCP is short for endoscopic retrograde cholangiopancreatography. It is a procedure that looks at the bile and pancreatic ducts. It is done through an endoscope. Bile ducts are the tubes that carry  bile  from the liver to the gallbladder and small intestine., Pancreatic ducts are the tubes that carry fluid from the pancreas into the small intestine., ERCP is used to treat and evaluate stones, tumors, or narrowed areas of the bile and pancreatic ducts., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004300" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000121.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>When you have diarrhea</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,15 +20,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004300-1" qtype="information">What is (are) When you have diarrhea ?</Question>
-			<Answer></Answer>
+			<Answer>Diarrhea is the passage of loose or watery stool. For some, diarrhea is mild and will go away within a few days. For others, it may last longer. It can make you lose too much fluid (dehydrated) and feel weak. It can also lead to unhealthy weight loss. A  stomach or intestinal illness  is a common cause of diarrhea. Medical treatments, such as antibiotics and some cancer treatments can also cause diarrhea. Many other medicines can also cause diarrhea.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004300-2" qtype="treatment">What are the treatments for When you have diarrhea ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004300-5" qtype="when to contact a medical professional">Do I need to see a doctor for When you have diarrhea ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001089" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002315.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cytochrome b5 reductase</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001089-1" qtype="information">Do you have information about Cytochrome b5 reductase</Question>
-			<Answer></Answer>
+			<Answer>Cytochrome b5 reductase is an  enzyme  in the blood. It controls the amount of iron in your red blood cells, and helps the cells carry the normal amount of oxygen. People who do not have enough of this enzyme may develop a condition called  methemoglobinemia .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

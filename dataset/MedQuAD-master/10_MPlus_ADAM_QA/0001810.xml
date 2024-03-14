@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001810" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000444.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Handling sharps and needles</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001810-1" qtype="information">Do you have information about Handling sharps and needles</Question>
-			<Answer></Answer>
+			<Answer>Sharps are medical devices like needles, scalpels, and other tools that cut or go into the skin. Learning how to safely handle sharps is important to prevent  accidental needlesticks and cuts .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000237" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007584.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ankle arthroscopy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000237-1" qtype="information">Do you have information about Ankle arthroscopy</Question>
-			<Answer></Answer>
+			<Answer>Ankle arthroscopy is surgery that uses a tiny camera and surgical tools to examine or repair the tissues inside or around your ankle. The camera is called an arthroscope. The procedure allows your surgeon to detect problems and make repairs to your ankle without making larger cuts in the skin and tissue. This means that you may have less pain and recover more quickly than open surgery.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

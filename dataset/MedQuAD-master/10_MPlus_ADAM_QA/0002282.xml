@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002282" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002172.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Kidney disease - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002282-1" qtype="information">What is (are) Kidney disease - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on kidney disease: American Geriatrics Society's Health in Aging Foundation --  www.healthinaging.org/a-z-topic/kidney-problems , American Kidney Fund --  www.kidneyfund.org , Centers for Disease Control and Prevention --  www.cdc.gov/kidneydisease/basics.html , National Institute of Diabetes and Digestive and Kidney Disease --&#160; www.niddk.nih.gov/health-information/kidney-disease , National Kidney Foundation --&#160; www.kidney.org , US National Library of Medicine, MedlinePlus --  medlineplus.gov/kidneydiseases.html , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

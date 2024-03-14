@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003580" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000388.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Silent thyroiditis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,31 +24,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003580-1" qtype="information">What is (are) Silent thyroiditis ?</Question>
-			<Answer></Answer>
+			<Answer>Silent thyroiditis is an immune reaction of the thyroid gland. The disorder can cause hyperthyroidism, followed by hypothyroidism. The thyroid gland is located in the neck, just above where your collarbones meet in the middle.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003580-2" qtype="causes">What causes Silent thyroiditis ?</Question>
-			<Answer></Answer>
+			<Answer>The cause of the disease is unknown. But it is related to an attack against the thyroid by the  immune system . The disease affects women more often than men. The disease can occur in women who have just had a baby. It can also be caused by medicines such as interferon and amiodarone, and some types of chemotherapy, which affect the immune system.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003580-3" qtype="symptoms">What are the symptoms of Silent thyroiditis ?</Question>
-			<Answer></Answer>
+			<Answer>The earliest symptoms result from an overactive thyroid gland ( hyperthyroidism ). These symptoms may last for up to 3 months. Symptoms are often mild, and may include: Fatigue , feeling weak
+   , 
+   Frequent bowel movements
+   ,  Heat intolerance ,  Increased appetite , Increased sweating
+   , Irregular menstrual periods, Mood changes, such as irritability,  Muscle cramps , Nervousness,  restlessness ,  Palpitations , Weight loss ,  Later symptoms may be of an underactive thyroid ( hypothyroidism ), including: Fatigue, Constipation, Dry skin, Weight gain, Cold intolerance,  These symptoms can persist until the thyroid recovers normal function. The recovery of the thyroid can take many months in some people. Some people only notice the hypothyroid symptoms and do not have symptoms of hyperthyroidism to begin with.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003580-4" qtype="exams and tests">How to diagnose Silent thyroiditis ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will examine you and ask about your symptoms and medical history. A physical examination may show: Enlarged thyroid gland that is not painful to the touch, Rapid heart rate, Shaking hands (tremor) , Brisk reflexes , Sweaty, warm skin,  Tests that may be done include: Radioactive iodine uptake , Thyroid hormones  T3  and  T4 ,  TSH ,  Erythrocyte sedimentation rate ,  C-reactive protein ,  Many providers now screen for thyroid disease before and after starting medicines that commonly cause this condition.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003580-5" qtype="treatment">What are the treatments for Silent thyroiditis ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment is based on symptoms. Medicines called beta-blockers may be used to relieve rapid heart rate and excessive sweating.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003580-6" qtype="outlook">What is the outlook for Silent thyroiditis ?</Question>
-			<Answer></Answer>
+			<Answer>Silent thyroiditis often goes away on its own within 1 year. The  acute  phase usually ends within 3 months. Some people develop hypothyroidism over time. They need to be treated for a while with a medicine that replaces thyroid hormone. Regular follow-ups with a provider are recommended. The disease is not infectious. People cannot catch the disease from you. It also is not inherited within families like some other thyroid conditions.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003580-7" qtype="when to contact a medical professional">Do I need to see a doctor for Silent thyroiditis ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if you have symptoms of this condition.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

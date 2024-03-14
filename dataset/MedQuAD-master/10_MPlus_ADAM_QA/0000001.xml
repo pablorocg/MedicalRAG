@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000001" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000823.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>A guide to clinical trials for cancer</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,23 +19,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000001-1" qtype="information">What is (are) A guide to clinical trials for cancer ?</Question>
-			<Answer></Answer>
+			<Answer>If you have cancer, a clinical trial may be an option for you. A clinical trial is a study using people who agree to participate in new tests or treatments. Clinical trials help researchers know whether a new treatment works well and is safe. Trials are available for many cancers and all stages of cancer, not just advanced cancer.  If you join a trial, you may get treatment that can help you. Plus, you will help others to learn more about your cancer as well as new tests or treatments. There are many things to consider before joining a trial. Learn about why you might want to enroll in a clinical trial and where to find one.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000001-2" qtype="research">what research (or clinical trials) is being done for A guide to clinical trials for cancer ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000001-3" qtype="research">what research (or clinical trials) is being done for A guide to clinical trials for cancer ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000001-6" qtype="research">what research (or clinical trials) is being done for A guide to clinical trials for cancer ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000001-7" qtype="research">what research (or clinical trials) is being done for A guide to clinical trials for cancer ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

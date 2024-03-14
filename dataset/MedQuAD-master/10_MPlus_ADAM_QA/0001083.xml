@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001083" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000627.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cysticercosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001083-1" qtype="information">What is (are) Cysticercosis ?</Question>
-			<Answer></Answer>
+			<Answer>Cysticercosis is an infection by a parasite called  Taenia solium  ( T solium ). It is a pork tapeworm that creates cysts in different areas in the body.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001083-2" qtype="causes">What causes Cysticercosis ?</Question>
-			<Answer></Answer>
+			<Answer>Cysticercosis is caused by swallowing eggs from  T solium . The eggs are found in contaminated food. Autoinfection is when a person who is already infected with adult  T solium  swallows its eggs. This occurs due to improper hand washing after a bowel movement (fecal-oral transmission). Risk factors include eating pork, fruits, and vegetables contaminated with  T solium  as a result of undercooking or improper food preparation. The disease can also be spread by contact with infected feces. The disease is rare in the United States. It is common in many developing countries.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001083-3" qtype="symptoms">What are the symptoms of Cysticercosis ?</Question>
-			<Answer></Answer>
+			<Answer>Most often, the worms stay in muscles and do not cause symptoms. Symptoms occur depending on where the infection is found in the body: Brain --  seizures  or symptoms similar to those of a  brain tumor , Eyes -- decreased vision or blindness, Heart -- abnormal heart rhythms or heart failure (rare), Spine -- weakness or changes in walking due to damage to nerves in the spine, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001083-4" qtype="exams and tests">How to diagnose Cysticercosis ?</Question>
-			<Answer></Answer>
+			<Answer>Tests that may be done include: Blood tests to detect antibodies to the parasite,  Biopsy  of the affected area
+   ,  CT  scan,  MRI  scan, or  x-rays  to detect the lesion, Spinal tap (lumbar puncture), Test in which an ophthalmologist looks inside the eye, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001083-5" qtype="treatment">What are the treatments for Cysticercosis ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment may involve: Medicines to kill the parasites, such as albendazole or praziquantel, Powerful anti-inflammatories (steroids) to reduce swelling,  If the cyst is in the eye or brain, steroids should be started a few days before other medicines to avoid problems caused by swelling during antiparasitic treatment. Not all people benefit from antiparasitic treatment. Sometimes, surgery may be needed to remove the infected area.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001083-6" qtype="outlook">What is the outlook for Cysticercosis ?</Question>
-			<Answer></Answer>
+			<Answer>The outlook is good, unless the lesion has caused blindness, heart failure, or brain damage. These are rare complications.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001083-7" qtype="complications">What are the complications of Cysticercosis ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Blindness, decreased vision, Heart failure or abnormal heart rhythm,  Hydrocephalus  (fluid buildup in part of the brain, often with increased pressure), Seizures, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001083-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cysticercosis ?</Question>
-			<Answer></Answer>
+			<Answer>If you have any symptoms of cysticercosis, contact your health care provider.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001083-9" qtype="prevention">How to prevent Cysticercosis ?</Question>
-			<Answer></Answer>
+			<Answer>Avoid unwashed foods, do not eat uncooked foods while traveling, and always wash fruits and vegetables well.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

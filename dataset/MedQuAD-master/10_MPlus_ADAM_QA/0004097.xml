@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004097" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003816.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Upper GI and small bowel series</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,8 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004097-1" qtype="information">Do you have information about Upper GI and small bowel series</Question>
-			<Answer></Answer>
+			<Answer>An upper GI and small bowel series is a set of  x-rays  taken to examine the esophagus, stomach, and small intestine. Barium enema  is a related test that examines the large intestine.
+ </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

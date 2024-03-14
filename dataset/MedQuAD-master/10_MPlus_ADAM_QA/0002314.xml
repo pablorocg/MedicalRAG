@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002314" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000497.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lacerations - liquid bandage</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,11 +20,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002314-1" qtype="information">What is (are) Lacerations - liquid bandage ?</Question>
-			<Answer></Answer>
+			<Answer>A laceration is a cut that goes all the way through the skin. A small cut can be cared for at home. A large cut requires immediate medical attention. If the cut is minor, a liquid bandage (liquid adhesive) can be used on the cut to close the wound and help stop bleeding. Using a liquid bandage is quick to apply. It causes only slight burning when applied. Liquid bandages seal the cut closed after only 1 application. There is less chance for infection since the wound is sealed shut. These products are waterproof, so you can shower or bathe without worry. The seal lasts for 5 to 10 days. It will fall off naturally after it has done its job. In some cases after the seal falls off, you can reapply more liquid bandage, but only after seeking medical advice from your health care provider. But most minor cuts will be mostly healed at this point. Using these products may also reduce the size of scars that form at the injury site. Liquid skin adhesives can be found at your local pharmacy.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002314-3" qtype="when to contact a medical professional">Do I need to see a doctor for Lacerations - liquid bandage ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

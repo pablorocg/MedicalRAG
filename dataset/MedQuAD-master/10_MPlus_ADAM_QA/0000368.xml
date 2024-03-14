@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000368" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002218.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Autoinoculation</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000368-1" qtype="information">Do you have information about Autoinoculation</Question>
-			<Answer></Answer>
+			<Answer>Autoinoculation is a procedure in which cells are removed from the body, treated or medically changed, and then placed back into the body. It is done to help prevent an immune reaction or to help diagnose a medical condition or illness. Autoinoculation can also refer to the movement of microorganisms from one part of the body to another.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

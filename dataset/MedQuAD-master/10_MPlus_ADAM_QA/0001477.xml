@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001477" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002923.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Exchange transfusion</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001477-1" qtype="information">Do you have information about Exchange transfusion</Question>
-			<Answer></Answer>
+			<Answer>Exchange transfusion is a potentially life-saving procedure that is done to counteract the effects of serious jaundice or changes in the blood due to diseases such as sickle cell anemia. The procedure involves slowly removing the person's blood and replacing it with fresh donor blood or plasma.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

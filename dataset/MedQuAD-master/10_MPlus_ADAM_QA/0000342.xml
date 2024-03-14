@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000342" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000019.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Asthma and school</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000342-1" qtype="information">What is (are) Asthma and school ?</Question>
-			<Answer></Answer>
+			<Answer>Children with  asthma  may need extra support at school. They may need help from school staff to keep their asthma under control and to be able to do school activities. You should give your child's school staff an asthma action plan that tells them how to take care of your child's asthma. Ask your child's health care provider to write one. The student and school staff should follow this asthma action plan. Your child should be able to take asthma medicines at school when needed. School staff should know what things make your child's asthma worse. These are called  triggers . Your child should be able to go to another location to get away from asthma triggers, if needed.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

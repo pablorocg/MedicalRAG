@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003754" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000630.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Strongyloidiasis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003754-1" qtype="information">What is (are) Strongyloidiasis ?</Question>
-			<Answer></Answer>
+			<Answer>Strongyloidiasis is an infection with the roundworm  Strongyloides stercoralis (S&#160;stercoralis).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003754-2" qtype="causes">What causes Strongyloidiasis ?</Question>
-			<Answer></Answer>
+			<Answer>S&#160;stercoralis  is a roundworm that is fairly common in warm, moist areas. In rare cases, it can be found as far north as Canada. People catch the infection when their skin comes in contact with soil that is contaminated with the worms. The tiny worm is barely visible to the naked eye. Young roundworms can move through a person's skin and eventually into the bloodstream to the lungs and airways. They then move up to the throat, where they are swallowed into the stomach. From the stomach, the worms move to the small intestine, where they attach to the intestinal wall. Later, they produce eggs, which hatch into tiny larvae (immature worms) and pass out of the body. Unlike other worms, these larvae can re-enter the body through the skin around the anus, which allows an infection to grow. Areas where the worms go through the skin can become red and painful. This infection is uncommon in the United States, but it does occur in the southeastern US. Most cases in North America are brought by travelers who have visited or lived in South America or Africa. Some people are at risk for a severe type called strongyloidiasis hyperinfection syndrome. In this form of the condition, there are more worms and they multiply more quickly than normal. It can occur in people who have a weakened immune system. This includes people who have had an organ or blood-product transplant, people with HIV/AIDS, and those who take steroid medicine or immune-suppressing drugs.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003754-3" qtype="symptoms">What are the symptoms of Strongyloidiasis ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, there are no symptoms. If there are symptoms, they may include: Abdominal pain  (upper abdomen), Cough,  Diarrhea , Rash, Red hive-like areas near the anus, Vomiting, Weight loss , Fever, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003754-4" qtype="exams and tests">How to diagnose Strongyloidiasis ?</Question>
-			<Answer></Answer>
+			<Answer>The following tests may be done: Blood tests such as  complete blood count  with differential,  eosinophil count  (a type of white blood cell), antigen test for  S stercoralis , Duodenal  aspiration  (removing a small amount of tissue from the first part of the small intestine) to check for  S&#160;stercoralis  (uncommon),  Sputum culture  to check for  S&#160;stercoralis ,  Stool sample exam  to check for  S&#160;stercoralis , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003754-5" qtype="treatment">What are the treatments for Strongyloidiasis ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to eliminate the worms with anti-worm medicines, such as ivermectin or albendazole. Sometimes, people with no symptoms are treated. This includes people who take drugs that suppress the immune system, such as those who are going to have, or have had, a transplant.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003754-6" qtype="outlook">What is the outlook for Strongyloidiasis ?</Question>
-			<Answer></Answer>
+			<Answer>With proper treatment, the worms can be killed and full recovery is expected. Sometimes, treatment needs to be repeated. Infections that are severe (hyperinfection syndrome) or that have spread to many areas of the body (disseminated infection) often have a poor outcome, especially in people with a weakened immune system.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003754-7" qtype="complications">What are the complications of Strongyloidiasis ?</Question>
-			<Answer></Answer>
+			<Answer>Possible complications include: Disseminated strongyloidiasis, particularly in people with HIV or an otherwise weakened immune system, Strongyloidiasis hyperinfection syndrome, also more common in people with a weakened immune system,  Eosinophilic pneumonia ,  Malnutrition  due to problems absorbing nutrients from the gastrointestinal tract , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003754-8" qtype="when to contact a medical professional">Do I need to see a doctor for Strongyloidiasis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider for an appointment if you have symptoms of strongyloidiasis.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003754-9" qtype="prevention">How to prevent Strongyloidiasis ?</Question>
-			<Answer></Answer>
+			<Answer>Good personal hygiene can reduce the risk of strongyloidiasis. Public health services and sanitary facilities provide good infection control.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

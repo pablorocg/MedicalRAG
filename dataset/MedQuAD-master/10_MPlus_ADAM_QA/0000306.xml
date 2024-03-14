@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000306" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003288.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Arachnodactyly</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,23 +22,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000306-1" qtype="information">What is (are) Arachnodactyly ?</Question>
-			<Answer></Answer>
+			<Answer>Arachnodactyly is a condition in which the fingers are long, slender, and curved. They look like the legs of a spider (arachnid).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000306-2" qtype="considerations">What to do for Arachnodactyly ?</Question>
-			<Answer></Answer>
+			<Answer>Long, slender fingers can be normal and not associated with any medical problems. In some cases, however, "spider fingers" can be a sign of an underlying disorder.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000306-3" qtype="causes">What causes Arachnodactyly ?</Question>
-			<Answer></Answer>
+			<Answer>Causes may include: Homocystinuria ,  Marfan syndrome , Other rare genetic disorders , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000306-4" qtype="when to contact a medical professional">Do I need to see a doctor for Arachnodactyly ?</Question>
-			<Answer></Answer>
+			<Answer>Some children are born with arachnodactyly. It may become more evident over time. Talk to your health care provider if your child has long, slender fingers and you are concerned that an underlying condition may exist.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000306-5" qtype="outlook">What is the outlook for Arachnodactyly ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

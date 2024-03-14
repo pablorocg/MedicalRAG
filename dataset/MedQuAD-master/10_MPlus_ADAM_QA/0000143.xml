@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000143" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000323.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Alcoholic ketoacidosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000143-1" qtype="information">What is (are) Alcoholic ketoacidosis ?</Question>
-			<Answer></Answer>
+			<Answer>Alcoholic ketoacidosis is the buildup of ketones in the blood due to alcohol use. Ketones are a type of acid that form when the body breaks down fat for energy. The condition is an  acute  form of  metabolic acidosis , a condition in which there is too much acid in body fluids.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000143-2" qtype="causes">What causes Alcoholic ketoacidosis ?</Question>
-			<Answer></Answer>
+			<Answer>Alcoholic ketoacidosis is caused by very heavy alcohol use. It most often occurs in a  malnourished  person who drinks large amounts of alcohol every day.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000143-3" qtype="symptoms">What are the symptoms of Alcoholic ketoacidosis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of alcoholic ketoacidosis include: Nausea and vomiting, Abdominal pain,  Agitation ,  confusion , Changed level of alertness, which may lead to coma,  Fatigue , slow movements, Deep, labored,  rapid breathing , Loss of appetite, Symptoms of  dehydration , such as dizziness, lightheadedness, and thirst, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000143-4" qtype="exams and tests">How to diagnose Alcoholic ketoacidosis ?</Question>
-			<Answer></Answer>
+			<Answer>Tests may include: Arterial  blood gases  (measures the acid/base balance and oxygen level in blood), Blood alcohol level, Blood chemistries and liver function tests, CBC (complete blood count), measures red and white blood cells, and platelets, which help blood to clot, Prothrombin time (PT), measures blood clotting, often abnormal from liver disease, Toxicology study (checking for other poisons in your body),  Urine ketones , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000143-5" qtype="treatment">What are the treatments for Alcoholic ketoacidosis ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment may involve fluids (salt and sugar solution) given through a vein. You may need to have frequent blood tests. You may get vitamin supplements to treat malnutrition caused by excessive alcohol use. People with this condition are usually admitted to the hospital, often to the intensive care unit (ICU). Alcohol use is stopped to help recovery. Medicines may be given to prevent  alcohol withdrawal  symptoms. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000143-6" qtype="outlook">What is the outlook for Alcoholic ketoacidosis ?</Question>
-			<Answer></Answer>
+			<Answer>Prompt medical attention improves the overall outlook. How severe the alcohol use is, and the presence of liver disease or other problems, may also affect the outlook.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000143-7" qtype="complications">What are the complications of Alcoholic ketoacidosis ?</Question>
-			<Answer></Answer>
+			<Answer>This can be a life-threatening condition. Complications may include: Coma and seizures,  Gastrointestinal bleeding ,  Inflamed pancreas  (pancreatitis),  Pneumonia , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000143-8" qtype="when to contact a medical professional">Do I need to see a doctor for Alcoholic ketoacidosis ?</Question>
-			<Answer></Answer>
+			<Answer>If you or someone else has symptoms of alcoholic ketoacidosis, seek emergency medical help.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000143-9" qtype="prevention">How to prevent Alcoholic ketoacidosis ?</Question>
-			<Answer></Answer>
+			<Answer>Limiting the amount of alcohol you drink will help prevent this condition.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

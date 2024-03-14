@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001429" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000482.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Episiotomy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001429-1" qtype="information">Do you have information about Episiotomy</Question>
-			<Answer></Answer>
+			<Answer>An episiotomy is a minor surgery that widens the opening of the vagina during childbirth. It is a cut to the perineum -- the skin and muscles between the vaginal opening and anus.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

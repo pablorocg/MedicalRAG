@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000559" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003152.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Breast pain</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,27 +23,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000559-1" qtype="information">What is (are) Breast pain ?</Question>
-			<Answer></Answer>
+			<Answer>
+
+
+
+
+
+Breast pain is any discomfort or pain in the breast. 
+
+
+
+
+
+ 
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000559-2" qtype="considerations">What to do for Breast pain ?</Question>
-			<Answer></Answer>
+			<Answer>There are many possible causes for breast pain. For example, changes in the level of hormones during menstruation or pregnancy often cause breast pain. Some swelling and tenderness just before your period is normal. Some women who have pain in one or both breasts may fear  breast cancer . However, breast pain is not a common symptom of cancer.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000559-3" qtype="causes">What causes Breast pain ?</Question>
-			<Answer></Answer>
+			<Answer>Some breast tenderness is normal. The discomfort may be caused by hormone changes from: Menopause (unless a woman is taking hormone replacement therapy), Menstruation and  premenstrual syndrome  (PMS), Pregnancy -- breast tenderness tends to be more common during the first trimester, Puberty in both girls and boys ,  Soon after having a baby, a woman's breasts may become swollen with milk. This can be very painful. If you also have an area of redness, call your health care provider, as this may be a sign of an infection or other more serious breast problem.  Breastfeeding itself may also cause breast pain. Fibrocystic breast changes  are a common cause of breast pain. Fibrocystic breast tissue contains lumps or cysts that tend to be more tender just before your menstrual period. Certain medicines may also cause breast pain, including:  Oxymetholone, Chlorpromazine and other antipsychotic medicines, Water pills (diuretics), Digitalis preparations, Methyldopa, Spironolactone, Oral contraceptives, Estrogen replacement therapy, Selective serotonin reuptake inhibitors, such as fluoxetine,  Shingles  can lead to pain in the breast as there is a painful blistering rash that appears on the skin of your breasts.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000559-4" qtype="considerations">What to do for Breast pain ?</Question>
-			<Answer></Answer>
+			<Answer>There are many possible causes for breast pain. For example, changes in the level of hormones during menstruation or pregnancy often cause breast pain. Some swelling and tenderness just before your period is normal. Some women who have pain in one or both breasts may fear  breast cancer . However, breast pain is not a common symptom of cancer.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000559-5" qtype="when to contact a medical professional">Do I need to see a doctor for Breast pain ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have: Bloody or clear discharge from your nipple, Given birth within the last week and your breasts are swollen or hard, Noticed a new lump that does not go away after your menstrual period, Persistent, unexplained breast pain, Signs of a breast infection, including redness, pus drainage, or fever, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000559-6" qtype="outlook">What is the outlook for Breast pain ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

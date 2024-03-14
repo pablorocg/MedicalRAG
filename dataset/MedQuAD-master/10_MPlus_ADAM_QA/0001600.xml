@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001600" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002365.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Fistula</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001600-1" qtype="information">What is (are) Fistula ?</Question>
-			<Answer></Answer>
+			<Answer>Fistulas may occur in many parts of the body. They can form between: An artery and vein (arteriovenous fistula),  Bile  ducts and the surface of the skin (from gallbladder surgery), The  cervix  and vagina, The neck and throat, The space inside the skull and nasal sinus, The bowel and vagina, The colon or intestine and surface of the body, causing feces to exit through an opening other than the anus (enterocutaneous fistula), The stomach and surface of the skin, The uterus and peritoneal cavity (the space between the walls of the abdomen and internal organs), An artery and vein in the lungs (results in blood not picking up enough oxygen in the lungs), The navel and gastrointestinal tract,  Crohn disease can lead to fistulas between one loop of intestine and another. Injury can cause fistulas to form between arteries and veins. Types of fistulas include: Blind (open on one end only, but connects to two structures), Complete (has openings both outside and inside the body), Horseshoe (connects the anus to the surface of the skin after going around the rectum), Incomplete (a tube from the skin that is closed on the inside and does not connect to any internal structure) , </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001600-2" qtype="information">What is (are) Fistula ?</Question>
-			<Answer></Answer>
+			<Answer>Fistulas may occur in many parts of the body. They can form between: An artery and vein (arteriovenous fistula),  Bile  ducts and the surface of the skin (from gallbladder surgery), The  cervix  and vagina, The neck and throat, The space inside the skull and nasal sinus, The bowel and vagina, The colon or intestine and surface of the body, causing feces to exit through an opening other than the anus (enterocutaneous fistula), The stomach and surface of the skin, The uterus and peritoneal cavity (the space between the walls of the abdomen and internal organs), An artery and vein in the lungs (results in blood not picking up enough oxygen in the lungs), The navel and gastrointestinal tract,  Crohn disease can lead to fistulas between one loop of intestine and another. Injury can cause fistulas to form between arteries and veins. Types of fistulas include: Blind (open on one end only, but connects to two structures), Complete (has openings both outside and inside the body), Horseshoe (connects the anus to the surface of the skin after going around the rectum), Incomplete (a tube from the skin that is closed on the inside and does not connect to any internal structure) , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

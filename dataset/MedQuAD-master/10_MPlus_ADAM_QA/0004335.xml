@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004335" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001447.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Xanthoma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004335-1" qtype="information">What is (are) Xanthoma ?</Question>
-			<Answer></Answer>
+			<Answer>Xanthoma is a skin condition in which certain fats build up under the surface of the skin.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004335-2" qtype="causes">What causes Xanthoma ?</Question>
-			<Answer></Answer>
+			<Answer>Xanthomas are common, especially among older adults and people with high blood lipids (fats). Xanthomas vary in size. Some are very small. Others are bigger than 3 inches (7.5 centimeters) in diameter. They may appear anywhere on the body. But, they are most often seen on the elbows, joints, tendons, knees, hands, feet, or buttocks. Xanthomas may be a sign of a medical condition that involves an increase in blood lipids. Such conditions include: Certain cancers,  Diabetes ,  High blood cholesterol levels , Inherited metabolic disorders, such as  familial hypercholesterolemia , Scarring of the liver due to blocked bile ducts ( primary biliary cirrhosis ), Inflammation and swelling of the pancreas ( pancreatitis ), Underactive thyroid ( hypothyroidism ) ,  Xanthelasma palpebra is a common type of xanthoma that appears on the eyelids. It usually occurs without any underlying medical condition.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004335-3" qtype="symptoms">What are the symptoms of Xanthoma ?</Question>
-			<Answer></Answer>
+			<Answer>A xanthoma looks like a yellow to orange bump (papule) with defined borders. There may be several individual ones or they may form clusters.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004335-4" qtype="exams and tests">How to diagnose Xanthoma ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will examine your skin. Usually, a diagnosis can be made by looking at xanthoma. If needed, your provider will  remove a sample of the growth for testing  (skin biopsy). You may have blood tests done to check lipid levels, liver function, and for diabetes.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004335-5" qtype="treatment">What are the treatments for Xanthoma ?</Question>
-			<Answer></Answer>
+			<Answer>If you have a disease that causes increased blood lipids, treating the condition may help reduce the development of xanthomas. If the growth bothers you, your provider may remove it by surgery or with a laser. However, xanthomas may come back after surgery. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004335-6" qtype="outlook">What is the outlook for Xanthoma ?</Question>
-			<Answer></Answer>
+			<Answer>The growth is noncancerous and painless, but it may be a sign of another medical condition. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004335-7" qtype="when to contact a medical professional">Do I need to see a doctor for Xanthoma ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if xanthomas develop. They may indicate an underlying disorder that needs treatment.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004335-8" qtype="prevention">How to prevent Xanthoma ?</Question>
-			<Answer></Answer>
+			<Answer>To reduce the development of xanthomas, you may need to control your blood  triglyceride  and cholesterol levels.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

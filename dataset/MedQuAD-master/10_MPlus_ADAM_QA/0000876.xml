@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000876" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001228.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Clubfoot</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000876-1" qtype="information">What is (are) Clubfoot ?</Question>
-			<Answer></Answer>
+			<Answer>Clubfoot is a condition that involves both the foot and lower leg in which the foot turns inward and downward. It is a congenital condition, which means it is present at birth.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000876-2" qtype="causes">What causes Clubfoot ?</Question>
-			<Answer></Answer>
+			<Answer>Clubfoot is the most common congenital disorder of the legs. It can range from mild and flexible to severe and rigid. The cause is not known. Most often, it occurs by itself. But the condition may be passed down through families in some cases. Risk factors include a family history of the disorder and being male. Clubfoot can also occur as part of an underlying genetic syndrome, such as  trisomy 18 . A related problem, called positional clubfoot, is not true clubfoot. It results from a normal foot positioned abnormally while the baby is in the womb. This problem is easily corrected after birth.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000876-3" qtype="symptoms">What are the symptoms of Clubfoot ?</Question>
-			<Answer></Answer>
+			<Answer>The physical appearance of the foot may vary. One or both feet may be affected. The foot turns inward and downward at birth and is difficult to place in the correct position. The calf muscle and foot may be slightly smaller than normal.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000876-4" qtype="exams and tests">How to diagnose Clubfoot ?</Question>
-			<Answer></Answer>
+			<Answer>The disorder is identified during a physical examination. A foot x-ray may be done. Ultrasound during the first 6 months of pregnancy can also help to identify the disorder.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000876-5" qtype="treatment">What are the treatments for Clubfoot ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment may involve moving the foot into the correct position and using a cast to keep it there. This is often done by an orthopedic specialist. Treatment should be started as early as possible, ideally, shortly after birth, when it is easiest to reshape the foot. Gentle stretching and recasting will be done every week to improve the position of the foot. Generally, 5 to 10 casts are needed. The final cast will stay in place for 3 weeks. After the foot is in the correct position, the child will wear a special brace nearly full time for 3 months. Then, the child will wear the brace at night for 3 to 5 years. Often, the problem is a tightened Achilles tendon, and a simple procedure is needed to release it. Some severe cases of clubfoot will need  surgery  if other treatments do not work, or if the problem returns. The child should be monitored by your health care provider until the foot is fully grown.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000876-6" qtype="outlook">What is the outlook for Clubfoot ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome is usually good with treatment.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000876-7" qtype="complications">What are the complications of Clubfoot ?</Question>
-			<Answer></Answer>
+			<Answer>Some defects may not be completely fixed. However, treatment can improve the appearance and function of the foot. Treatment may be less successful if the clubfoot is linked to other birth disorders.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000876-8" qtype="when to contact a medical professional">Do I need to see a doctor for Clubfoot ?</Question>
-			<Answer></Answer>
+			<Answer>If your child is being treated for clubfoot, contact your provider if: The toes swell, bleed, or change color under the cast, The cast appears to be causing significant pain, The toes disappear into the cast, The cast slides off, The foot begins to turn in again after treatment , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

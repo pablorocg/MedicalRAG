@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000135" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002187.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>AIDS - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000135-1" qtype="information">What is (are) AIDS - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on  HIV/AIDS : HIVinfo.NIH.gov --  hivinfo.nih.gov/ , Centers for Disease Control and Prevention --  www.cdc.gov/hiv/default.html , HIV.gov --  www.hiv.gov/ , US Dept of Health and Human Services, Office on Women's Health --  www.womenshealth.gov/hiv-and-aids , US National Library of Medicine, MedlinePlus --  medlineplus.gov/hivaids.html , World Health Organization --  www.who.int/news-room/fact-sheets/detail/hiv-aids , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002141" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007451.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Imaging and radiology</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002141-1" qtype="information">Do you have information about Imaging and radiology</Question>
-			<Answer></Answer>
+			<Answer>DIAGNOSTIC RADIOLOGY Diagnostic radiology helps health care providers see structures inside your body. Doctors that specialize in the interpretation of these images are called diagnostic radiologists. Using the diagnostic images, the radiologist or other providers can often: Diagnose the cause of your symptoms, Monitor how well your body is responding to a treatment you are receiving for your disease or condition, Screen for different illnesses, such as breast cancer, colon cancer, or heart disease ,  The most common types of diagnostic radiology exams include: Computed tomography  (CT), also known as a computerized axial tomography (CAT) scan, including CT angiography, Fluoroscopy, including upper GI and barium enema,  Magnetic resonance imaging  (MRI) and  magnetic resonance angiography  (MRA),  Mammography , Nuclear medicine, which includes such tests as a  bone scan ,  thyroid scan , and  thallium cardiac stress test , Plain  x-rays , which includes chest x-ray,  Positron emission tomography , also called PET imaging, PET scan, or PET-CT when it is combined with CT,  Ultrasound ,  INTERVENTIONAL RADIOLOGY Interventional radiologists are doctors that use imaging such as CT, ultrasound, MRI, and fluoroscopy to help guide procedures. The imaging is helpful to the doctor when inserting catheters, wires, and other small instruments and tools into your body. This typically allows for smaller incisions (cuts). Providers can use this technology to detect or treat conditions in almost any part of the body instead of using larger incisions and directly looking inside of your body through a scope (camera) or with open surgery. Interventional radiologists often are involved in treating cancers or tumors, blockages in the arteries and veins, fibroids in the uterus, back pain, liver problems, and kidney problems. The&#160;interventional radiologist will make no incision or only a very small one. You rarely need to stay in the hospital after the procedure. Most people need only  moderate sedation  (medicines to help you relax). Examples of interventional radiology procedures include: Angiography  or  angioplasty  and  stent placement , Embolization to control bleeding, Cancer treatments including tumor embolization using chemoembolization or Y-90 radioembolization, Tumor ablation with radiofrequency ablation, cryoablation, or microwave ablation, Vertebroplasty and kyphoplasty,  Needle biopsies  of different organs, such as the lungs and thyroid gland, Breast biopsy, guided either by  stereotactic  or  ultrasound  techniques,  Uterine artery embolization , Feeding tube placement, Venous access catheter placement, such as ports and PICCs , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

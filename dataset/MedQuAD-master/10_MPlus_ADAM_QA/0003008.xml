@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003008" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000137.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Percutaneous urinary procedures - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003008-1" qtype="information">Do you have information about Percutaneous urinary procedures - discharge</Question>
-			<Answer></Answer>
+			<Answer>You had a  procedure  to drain urine from your kidney or to get rid of  kidney stones . This article gives you advice on what to expect after the procedure and steps you should take to care for yourself.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

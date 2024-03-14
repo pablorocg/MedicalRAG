@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003131" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000093.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pneumonia - weakened immune system</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,42 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003131-1" qtype="information">What is (are) Pneumonia - weakened immune system ?</Question>
-			<Answer></Answer>
+			<Answer>Pneumonia is a lung infection. It can be caused by many different germs, including bacteria, viruses, and fungi. This article discusses pneumonia that occurs in a person who has a hard time fighting off infection because of problems with the immune system. This type of disease is called "pneumonia in an immunocompromised host." Related conditions include: Hospital-acquired pneumonia ,  
+   Pneumocystis jiroveci
+    
+   (previously called  Pneumocystis carinii ) pneumonia,  Pneumonia cytomegalovirus , Fungal pneumonia,  Pneumonia ,  Viral pneumonia ,  Walking pneumonia , </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003131-2" qtype="causes">What causes Pneumonia - weakened immune system ?</Question>
-			<Answer></Answer>
+			<Answer>People whose immune system is not working well are less able to fight off germs. This makes them prone to infections from germs that do not often cause disease in healthy people. They are also more vulnerable to regular causes of  pneumonia , which can affect anyone. Your immune system may be weakened or not work well because of: Bone marrow transplant ,  Chemotherapy , HIV infection,  Leukemia , lymphoma, and other conditions that harm your bone marrow,  Autoimmune disorders , Medicines (including steroids, and those used to treat cancer and control autoimmune diseases), Organ transplant (including kidney, heart, and lung), </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003131-3" qtype="symptoms">What are the symptoms of Pneumonia - weakened immune system ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Cough  (may be dry or produce mucus-like, greenish, or pus-like sputum),  Chills  with shaking,  Fatigue ,  Fever , General discomfort, uneasiness, or ill feeling ( malaise ),  Headache , Loss of appetite,  Nausea and vomiting , Sharp or stabbing  chest pain  that gets worse with deep breathing or coughing,  Shortness of breath ,  Other symptoms that may occur: Heavy sweating or night sweats, Stiff joints (rare), Stiff muscles (rare), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003131-4" qtype="exams and tests">How to diagnose Pneumonia - weakened immune system ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider may hear crackles or other abnormal breath sounds when listening to your chest with a stethoscope. Decreased volume of breath sounds is a key sign. This finding may mean there is a buildup of fluid between the chest wall and lung ( pleural effusion ). Tests may include: Arterial blood gases , Blood chemistries,  Blood culture ,  Bronchoscopy  (in certain cases),  Chest CT scan  (in certain cases),  Chest x-ray ,  Complete blood count , COVID test,  Lung biopsy  (in certain cases), Serum cryptococcus antigen test, Serum galactomannan test, Galactomannan test from bronchial alveolar fluid,  Sputum culture ,  Sputum Gram stain ,  Sputum immunofluorescence tests  (or other immune tests), Urine tests (to diagnose  Legionnaire's disease  or Histoplasmosis) , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003131-5" qtype="treatment">What are the treatments for Pneumonia - weakened immune system ?</Question>
-			<Answer></Answer>
+			<Answer>Antibiotics or antifungal medicines may be used, depending on the type of germ that is causing the infection. Antibiotics are not helpful for viral infections, but newer medicines may treat some viral infections for example COVID-19. You may need to stay in the hospital during the early stages of the illness. Oxygen and treatments to remove fluid and mucus from the respiratory system are often needed.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003131-6" qtype="outlook">What is the outlook for Pneumonia - weakened immune system ?</Question>
-			<Answer></Answer>
+			<Answer>Factors that may lead to a worse outcome include:  The pneumonia that is caused by a fungus., The person has a very weak immune system., </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003131-7" qtype="complications">What are the complications of Pneumonia - weakened immune system ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Respiratory failure (a condition in which a patient can't take in oxygen and get rid of carbon dioxide without the use of a machine to deliver breaths.),  Sepsis , Spread of the infection, Death, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003131-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pneumonia - weakened immune system ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have a weakened immune system and you have symptoms of pneumonia.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003131-9" qtype="prevention">How to prevent Pneumonia - weakened immune system ?</Question>
-			<Answer></Answer>
+			<Answer>If you have a weakened immune system, you may receive daily antibiotics to prevent some types of pneumonia. Ask your provider if you should receive the influenza (flu), pneumococcal (pneumonia), and COVID-19 vaccines. Practice good hygiene. Thoroughly wash your hands with soap and water: After being outdoors, After changing a diaper, After doing housework, After going to the bathroom, After touching body fluids, such as mucus or blood, After using the telephone, Before handling food or eating,  Other things you can do to reduce your exposure to germs include: Consider wearing a face mask when outside of your house., Keep your house clean., Stay away from crowds., Ask visitors who have a cold to wear a mask or not to visit., Do not do yard work or handle plants or flowers (they can carry germs)., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

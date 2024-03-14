@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002815" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000581.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Non-Hodgkin lymphoma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,39 +24,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002815-1" qtype="information">What is (are) Non-Hodgkin lymphoma ?</Question>
-			<Answer></Answer>
+			<Answer>Non-Hodgkin lymphoma (NHL) is cancer of the lymph tissue. Lymph tissue is found in the lymph nodes, spleen, and other organs of the immune system. White blood cells, called lymphocytes, are found in lymph tissue. They help prevent infections. Most lymphomas start in a type of white blood cell called the B lymphocyte, or B cell.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002815-2" qtype="causes">What causes Non-Hodgkin lymphoma ?</Question>
-			<Answer></Answer>
+			<Answer>For most people, the cause of NHL is unknown. But lymphomas may develop in people with weakened immune systems, including people who have had an organ transplant or people with HIV infection or&#160;Epstein-Barr virus infection. NHL most often affects adults. Men develop NHL more often than women. Children can also develop some forms of NHL. There are many types of NHL. One classification (grouping) is by how fast the cancer spreads. The cancer may be low grade (slow growing), intermediate grade, or high grade (fast growing).  NHL is further grouped by how the cells look under the microscope, what type of white blood cell it originates from, what special tests show about it, and whether there are certain DNA changes in the tumor cells themselves.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002815-3" qtype="symptoms">What are the symptoms of Non-Hodgkin lymphoma ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms depend on what area of the body is affected by the cancer and how fast the cancer is growing. Symptoms may include: Drenching night sweats, Fever and chills that come and go, Itching,  Swollen lymph nodes  in the neck, underarms, groin, or other areas, Weight loss, Coughing or shortness of breath if the cancer affects the thymus gland or lymph nodes in the chest, putting pressure on the windpipe (trachea) or its branches, Abdominal pain or swelling, leading to loss of appetite, constipation, nausea, and vomiting, Headache, concentration problems, personality changes, or  seizures  if the cancer affects the brain , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002815-4" qtype="exams and tests">How to diagnose Non-Hodgkin lymphoma ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam and check body areas with lymph nodes to feel if they are swollen. The disease is usually diagnosed after biopsy of suspected tissue, usually a  lymph node biopsy . Other tests that may be done include: Blood test to check protein levels, liver function, kidney function, and uric acid level,  Complete blood count  (CBC),  CT scans  of the chest, abdomen and pelvis,  Bone marrow biopsy ,  PET scan ,  If tests show you have NHL, more tests may be done to see how far it has spread. This is called staging. Staging helps guide future treatment and follow-up.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002815-5" qtype="treatment">What are the treatments for Non-Hodgkin lymphoma ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment depends on: The specific type of NHL, The  stage  when you are first diagnosed, Your age and overall health, Symptoms, including weight loss, fever, and night sweats,  You may receive  chemotherapy ,  radiation therapy , or both. Or you may not need immediate treatment. Your provider can tell you more about your specific treatment. Radioimmunotherapy may be used in some cases. This involves linking a radioactive substance to an antibody that targets the cancerous cells and injecting the substance into the body. A type of chemotherapy called  targeted therapy  may be tried. It uses a drug to focus on specific targets (molecules) in or on cancer cells. Using these targets, the drug disables the cancer cells so they cannot spread. High-dose chemotherapy may be given when NHL recurs or fails to respond to the first treatment administered. This is followed by an autologous  stem cell transplant  (using your own stem cells) to rescue the bone marrow after the high-dose chemotherapy.&#160;Stem cells from donors can also be used. With certain types of NHL, these treatment steps are used at first remission to try and achieve a cure. CAR-T cell therapy (a form of  immunotherapy ) can be used if lymphoma comes back or does not respond to other treatments. Blood transfusions or platelet transfusions may be required if blood counts are low. You and your provider may need to manage other concerns during your leukemia treatment, including: Having chemotherapy at home ,  Managing your pets  during chemotherapy,  Bleeding problems ,  Dry mouth ,  Eating enough calories , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002815-6" qtype="support groups">Where to find support for people with Non-Hodgkin lymphoma ?</Question>
-			<Answer></Answer>
+			<Answer>You can ease the stress of illness by joining a  cancer support group . Sharing with others who have common experiences and problems can help you not feel alone.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002815-7" qtype="outlook">What is the outlook for Non-Hodgkin lymphoma ?</Question>
-			<Answer></Answer>
+			<Answer>Low-grade NHL often cannot be cured by chemotherapy alone. Low-grade NHL progresses slowly and may take many years before the disease gets worse or even requires treatment. The need for treatment is usually determined by the type of lymphoma, symptoms, and how fast the disease is progressing. Chemotherapy may cure many types of high-grade lymphomas. If the cancer does not respond to chemotherapy, the disease can cause rapid death.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002815-8" qtype="complications">What are the complications of Non-Hodgkin lymphoma ?</Question>
-			<Answer></Answer>
+			<Answer>NHL itself and its treatments can lead to health problems. These include: Autoimmune hemolytic anemia , a condition in which red blood cells are destroyed by the immune system, Infection, Side effects of chemotherapy drugs ,  Keep following up with a provider who knows about monitoring and preventing these complications.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002815-9" qtype="when to contact a medical professional">Do I need to see a doctor for Non-Hodgkin lymphoma ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop symptoms of this disorder. If you have NHL, contact your provider if you experience persistent fever or other signs of infection.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

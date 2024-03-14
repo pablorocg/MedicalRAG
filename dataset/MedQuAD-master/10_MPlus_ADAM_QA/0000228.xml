@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000228" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000846.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Angioedema</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,31 +20,33 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000228-1" qtype="information">What is (are) Angioedema ?</Question>
-			<Answer></Answer>
+			<Answer>Angioedema is swelling that is similar to  hives , but the swelling is under the skin instead of on the surface.  Hives are often called welts. They are a surface swelling. It is possible to have angioedema without hives.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000228-2" qtype="causes">What causes Angioedema ?</Question>
-			<Answer></Answer>
+			<Answer>Angioedema may be caused by an  allergic reaction . During the reaction, histamine and other chemicals are released into the bloodstream. The body releases histamine when the immune system detects a foreign substance called an  allergen . In most cases, the cause of angioedema is never found. The following may cause angioedema: Animal dander ( scales  of shed skin), Exposure to water, sunlight, cold or heat, Foods (such as berries, shellfish, fish, nuts, eggs, and milk),  Insect bites , Medicines ( drug allergy ) such as antibiotics (penicillin and sulfa drugs), nonsteroidal anti-inflammatory drugs (NSAIDs), and blood pressure medicines (ACE inhibitors), Pollen , Autoimmune diseases such as lupus,  Hives and angioedema may also occur after infections or with other illnesses (including  autoimmune disorders  such as lupus, and  leukemia  and lymphoma). A form of angioedema runs in families and has different triggers, complications, and treatments. This is called  hereditary angioedema .</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000228-3" qtype="symptoms">What are the symptoms of Angioedema ?</Question>
-			<Answer></Answer>
+			<Answer>The main symptom is sudden swelling below the skin surface. Welts or swelling on the surface of the skin can also develop. The swelling usually occurs around the eyes and lips. It may also be found on the hands, feet, and throat. The swelling may form a line or be more spread out. The welts are painful and may be itchy. This is known as hives (urticaria). They turn pale and swell if irritated. The deeper swelling of angioedema may also be painful. Other symptoms may include: Abdominal cramping ,  Breathing difficulty , Swollen eyes and mouth, Swollen lining of the eyes ( chemosis ) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000228-4" qtype="exams and tests">How to diagnose Angioedema ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will look at your skin and ask if you have been exposed to any irritating substances.&#160;If your throat is affected, a&#160;physical exam might reveal abnormal sounds ( stridor ) when you breathe in. Blood tests or  allergy testing  may be ordered.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000228-5" qtype="treatment">What are the treatments for Angioedema ?</Question>
-			<Answer></Answer>
+			<Answer>Mild symptoms may not need treatment. Moderate to severe symptoms may need to be treated. Breathing difficulty is an emergency condition. People with angioedema should: Avoid any known allergen or trigger that causes their symptoms., Avoid any medicines, herbs, or supplements that are not prescribed by a provider. ,  Cool compresses or soaks can relieve pain. Medicines used to treat angioedema include: Antihistamines , 
+  Anti-inflammatory medicines (corticosteroids)
+  , Epinephrine shots (people with a history of severe symptoms can carry these with them), Inhaler medicines that help open up the airways,  If the person has trouble breathing, seek medical help right away. A severe, life-threatening airway blockage may occur if the throat swells.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000228-6" qtype="outlook">What is the outlook for Angioedema ?</Question>
-			<Answer></Answer>
+			<Answer>Angioedema that does not affect the breathing may be uncomfortable. It is usually harmless and goes away in a few days.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000228-7" qtype="when to contact a medical professional">Do I need to see a doctor for Angioedema ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: Angioedema does not respond to treatment, It is severe, You have never had angioedema before,  Go to the emergency room or call the local emergency number (such as 911) if there are any of the following symptoms: Abnormal breathing sounds, Difficulty breathing or wheezing, Fainting, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

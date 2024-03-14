@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001061" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003330.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>CT scan</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001061-1" qtype="information">Do you have information about CT scan</Question>
-			<Answer></Answer>
+			<Answer>A computed tomography (CT) scan is an imaging method that uses x-rays to create pictures of cross-sections of the body. Related tests include: Abdominal and pelvis CT scan ,  Cranial or head CT scan , Cervical, thoracic, and  lumbosacral spine CT scan ,  Orbit CT scan ,  Chest CT scan , CT angiogram, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

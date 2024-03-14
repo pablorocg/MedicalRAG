@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001485" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000036.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Exercise-induced asthma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001485-1" qtype="information">What is (are) Exercise-induced asthma ?</Question>
-			<Answer></Answer>
+			<Answer>Sometimes exercise triggers  asthma  symptoms. This is called exercise-induced bronchoconstriction (EIB). In the past this was a called exercise-induced asthma. Exercise does not cause asthma, but it can cause airways to constrict (narrow). Most people with asthma have EIB, but not everyone with EIB has asthma. The symptoms of EIB are coughing, wheezing, a feeling of tightness in your chest, or shortness of breath. Most times, these symptoms start soon after you stop exercising. Some people may have symptoms after they start exercising.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

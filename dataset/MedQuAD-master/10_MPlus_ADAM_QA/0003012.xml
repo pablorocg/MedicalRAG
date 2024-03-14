@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003012" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003720.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pericardial fluid culture</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003012-1" qtype="information">Do you have information about Pericardial fluid culture</Question>
-			<Answer></Answer>
+			<Answer>Pericardial fluid culture is a test performed on a sample of fluid from the sac surrounding the heart. It is done to identify organisms that cause infection. Pericardial fluid Gram stain  is a related topic.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

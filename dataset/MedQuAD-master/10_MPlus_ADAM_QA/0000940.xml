@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000940" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000212.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Concussion - what to ask your doctor - adult</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000940-1" qtype="information">What is (are) Concussion - what to ask your doctor - adult ?</Question>
-			<Answer></Answer>
+			<Answer>You had a  concussion . This is a mild brain injury. It can affect how your brain works for a while. Below are some questions you may want to ask your health care provider to help you take care of your concussion.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

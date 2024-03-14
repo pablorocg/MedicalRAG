@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002453" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003277.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lump in the abdomen</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,19 +23,20 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002453-1" qtype="information">What is (are) Lump in the abdomen ?</Question>
-			<Answer></Answer>
+			<Answer>A lump in the abdomen is a small area of swelling or  bulge of tissue in the belly .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002453-2" qtype="causes">What causes Lump in the abdomen ?</Question>
-			<Answer></Answer>
+			<Answer>Most often, a lump in the abdomen is caused by a hernia. An abdominal hernia occurs when there is a weak spot in the abdominal wall. This allows the internal organs to bulge through the muscles of the abdomen. A hernia may appear after you strain, or lift something heavy, or after a long period of coughing. There are several types of hernias, based on where they occur: Inguinal hernia appears as a bulge in the groin or scrotum. This type is more common in men than women., Incisional hernia can occur through a scar if you have had abdominal surgery.,  Umbilical hernia  appears as a bulge around the belly button. It occurs when the muscle around the navel does not close completely. ,  Other causes of a lump in the abdominal wall include: Hematoma (collection of blood under the skin after injury), Lipoma (collection of fatty tissue under the skin), Lymph nodes, Tumor of the skin or muscles 
+, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002453-3" qtype="when to contact a medical professional">Do I need to see a doctor for Lump in the abdomen ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have a lump in your abdomen, especially if it becomes larger, changes color, or is painful. If you have a hernia, contact your provider if:  Your hernia changes in appearance., Your hernia is causing more pain., You have stopped passing gas or feel bloated., You have a fever., There is pain or tenderness around the hernia., You have vomiting or nausea. ,  The blood supply may be cut off to the organs that stick out through the hernia. This is called a strangulated hernia. This condition is very rare, but it is a medical emergency when it occurs.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002453-4" qtype="outlook">What is the outlook for Lump in the abdomen ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

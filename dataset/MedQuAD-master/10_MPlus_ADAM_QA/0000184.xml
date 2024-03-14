@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000184" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000211.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Amebic liver abscess</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,42 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000184-1" qtype="information">What is (are) Amebic liver abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Amebic liver abscess is a collection of pus in the liver in response to an intestinal parasite called  Entamoeba histolytica .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000184-2" qtype="causes">What causes Amebic liver abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Amebic liver abscess is caused by a parasite called&#160; Entamoeba histolytica.  This parasite causes  amebiasis , an intestinal infection that is also called amebic dysentery. After an infection has occurred, the parasite may be carried by the bloodstream from the intestines to the liver. Amebiasis spreads from eating food or water that has been contaminated with feces. This is sometimes due to the use of human waste as fertilizer. Amebiasis is also spread through person-to-person contact.
+ The infection occurs worldwide. It is most common in tropical areas where crowded living conditions and poor sanitation exist. Africa, Latin America, Southeast Asia, and India have significant health problems from this disease. Risk factors for amebic liver abscess include: Recent travel to a tropical region, Alcoholism, Cancer,  Immunosuppression , including HIV/AIDS infection, Malnutrition, Old age, Pregnancy, Steroid use, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000184-3" qtype="symptoms">What are the symptoms of Amebic liver abscess ?</Question>
-			<Answer></Answer>
+			<Answer>There are usually no symptoms of intestinal infection. But people with amebic liver abscess do have symptoms, including:  Abdominal pain, more so in the right, upper part of the abdomen; pain is intense, continuous or stabbing
+   ,  Cough ,  Fever  and  chills ,  Diarrhea, non-bloody  (in only one-third of people with amebic liver abscess), General discomfort, uneasiness, or ill feeling ( malaise ),  Hiccups  that do not stop (rare),  Jaundice 
+   (yellowing of the skin, mucous membranes, or eyes),  Loss of appetite ,  Sweating , Weight loss, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000184-4" qtype="exams and tests">How to diagnose Amebic liver abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical examination. You'll be asked about your symptoms and recent travel. Tests that may be done include: Abdominal ultrasound ,  Abdominal CT scan  or  MRI ,  Complete blood count , Liver abscess aspiration to check for bacterial infection in the liver abscess,  Liver scan ,  Liver function tests , Blood test for amebiasis,  Stool testing  for amebiasis, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000184-5" qtype="treatment">What are the treatments for Amebic liver abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Antibiotics such as metronidazole (Flagyl) or tinidazole (Tindamax) are the usual treatment for liver abscess. A medicine such as paromomycin or diloxanide must also be taken to get rid of all the ameba in the intestine and to prevent the disease from coming back. This treatment can usually wait until after the abscess has been treated. In rare cases, the abscess may need to be drained using a catheter or surgery to relieve some of the abdominal pain and to increase chances of treatment success.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000184-6" qtype="outlook">What is the outlook for Amebic liver abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Without treatment, the abscess may break open (rupture) and spread into other organs, leading to death. People who are treated have a very high chance of a complete cure or only minor complications.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000184-7" qtype="complications">What are the complications of Amebic liver abscess ?</Question>
-			<Answer></Answer>
+			<Answer>The abscess may rupture into the abdominal cavity, the lining of the lungs, the lungs, or the sac around the heart. The infection can also spread to the brain.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000184-8" qtype="when to contact a medical professional">Do I need to see a doctor for Amebic liver abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop symptoms of this disease, especially if you have recently traveled to an area where the disease is known to occur.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000184-9" qtype="prevention">How to prevent Amebic liver abscess ?</Question>
-			<Answer></Answer>
+			<Answer>When traveling in tropical countries with poor sanitation, drink purified water and do not eat uncooked vegetables or unpeeled fruit.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

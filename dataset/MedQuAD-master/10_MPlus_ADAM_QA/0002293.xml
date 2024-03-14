@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002293" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000150.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Klippel-Trenaunay syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -27,27 +26,28 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002293-1" qtype="information">What is (are) Klippel-Trenaunay syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Klippel-Trenaunay syndrome (KTS) is a rare condition that is typically present at birth. The syndrome often involves port wine stains, excess growth of bones and soft tissue, and varicose veins.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002293-2" qtype="causes">What causes Klippel-Trenaunay syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Most cases of KTS occur for no clear reason. However, a few cases are thought to be passed down through families (inherited).</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002293-3" qtype="symptoms">What are the symptoms of Klippel-Trenaunay syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of KTS include: Many  port wine stains  or other blood vessel problems, including dark spots on the skin,  Varicose veins  (may be seen in early infancy, but are more likely to be seen later in childhood or adolescence), Unstable gait due to limb-length difference (involved limb is longer), Bone, vein, or nerve pain ,  Other possible symptoms: Bleeding from the rectum, Blood in the urine , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002293-4" qtype="exams and tests">How to diagnose Klippel-Trenaunay syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>People with this condition may have excessive growth of bones and soft tissue. This occurs most commonly in the legs, but it also may affect the arms, face, head, or internal organs. Various imaging techniques can be used to find out any change in body structures due to this condition. These also help in deciding the plan of treatment. These may include: MRA ,  Endoscopic thermal ablation therapy , X-rays, CT scans or CT venography,  MRI ,  Color duplex ultrasonography ,  
+Rarely would an  ultrasound  during pregnancy help detect the condition.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002293-5" qtype="support groups">Where to find support for people with Klippel-Trenaunay syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>More information and support for people with KTS and their families can be found at: The Klippel-Trenaunay Syndrome Support Group --  k-t.org , Vascular Birthmarks Foundation --  www.birthmark.org , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002293-6" qtype="outlook">What is the outlook for Klippel-Trenaunay syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Most people with KTS do well, although the condition may affect their appearance.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

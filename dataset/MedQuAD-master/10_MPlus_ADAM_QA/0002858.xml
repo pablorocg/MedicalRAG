@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002858" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000948.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Opioid intoxication</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,27 +19,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002858-1" qtype="information">What is (are) Opioid intoxication ?</Question>
-			<Answer></Answer>
+			<Answer> Opioid-based drugs include morphine, oxycodone, and synthetic (man-made) opioid narcotics, such as fentanyl. They are prescribed to treat pain after surgery or a dental procedure. Sometimes, they are used to treat severe cough or diarrhea. The illegal drug heroin is also an opioid. When  abused , opioids cause a person to feel relaxed and intensely happy (euphoria). In short, the drugs are used to get high. Opioid intoxication is a condition in which you're not only high from using the drug, but you also have body-wide symptoms that can make you ill and impaired.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002858-2" qtype="causes">What causes Opioid intoxication ?</Question>
-			<Answer></Answer>
+			<Answer>Opioid intoxication may occur when a health care provider prescribes an opioid, but: The provider doesn't know the person is already taking another opioid at home., The person has a health problem, such as a liver or kidney problem, that may easily result in intoxication., The provider prescribes a sleep medicine (sedative) in addition to the opioid., The provider doesn't know that another provider already prescribed an opioid.,  In people who use opioids to get high, intoxication may be caused by: Using too much of the drug, Using an opioid with certain other drugs, such as sleep medicine or alcohol, Taking the opioid in ways not normally used, such as smoked or inhaled through the nose (snorted), </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002858-3" qtype="symptoms">What are the symptoms of Opioid intoxication ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms depend on how much of the drug is taken. Symptoms of opioid intoxication can include: Altered mental status, such as confusion,  delirium , or decreased awareness or responsiveness, Breathing problems (breathing may slow and eventually stop), Extreme sleepiness or loss of alertness, Nausea and vomiting, Small pupils , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002858-4" qtype="exams and tests">How to diagnose Opioid intoxication ?</Question>
-			<Answer></Answer>
+			<Answer>Tests that are ordered depend on the provider's concern for additional medical problems. Tests may include: Blood tests,  CT scan of the brain , if the person is having seizures or might have a head injury, ECG ( electrocardiogram ) to measure electrical activity in the heart,  Chest x-ray  to check for pneumonia, Toxicology (poison) screening, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002858-5" qtype="treatment">What are the treatments for Opioid intoxication ?</Question>
-			<Answer></Answer>
+			<Answer>The provider will measure and monitor the person's vital signs, including temperature, pulse, breathing rate, and blood pressure. Symptoms will be treated as appropriate. The person may receive: Breathing support, including oxygen, or a tube that goes through the mouth into the lungs and attachment to a  breathing machine , IV (fluids given through a vein), Medicine called naloxone (Evzio, Narcan) to block the effect of the opioid on the central nervous system, Other medicines as needed ,  Since the effect of the naloxone is often short, the health care team will monitor the patient for 4 to 6 hours in the emergency department. People with moderate to severe intoxications will likely be admitted to the hospital for 24 to 48 hours. A mental health evaluation is needed if the person is suicidal.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002858-6" qtype="outlook">What is the outlook for Opioid intoxication ?</Question>
-			<Answer></Answer>
+			<Answer>Many factors determine the short- and long-term outcome after opioid intoxication. Some of these are: The degree of poisoning, for example, if the person stopped breathing, and for how long, How often the drugs are used, Effect of impurities mixed in with illegal substances, Injuries that occur as a result of the drug use, Underlying medical conditions , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

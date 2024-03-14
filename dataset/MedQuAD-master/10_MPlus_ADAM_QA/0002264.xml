@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002264" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003262.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Joint swelling</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,27 +19,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002264-1" qtype="information">What is (are) Joint swelling ?</Question>
-			<Answer></Answer>
+			<Answer>Joint swelling is the buildup of fluid in the soft tissue surrounding the joint or the joint itself.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002264-2" qtype="considerations">What to do for Joint swelling ?</Question>
-			<Answer></Answer>
+			<Answer>Joint swelling may occur along with  joint pain . The swelling may cause the joint to appear larger or abnormally shaped. Joint swelling can cause pain or stiffness. After an injury, swelling of the joint may mean you have a broken bone or a tear in the muscle tendon or ligament. Many different types of arthritis may cause swelling, redness, or warmth around the joint. An infection in the joint can cause swelling, pain, and fever.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002264-3" qtype="causes">What causes Joint swelling ?</Question>
-			<Answer></Answer>
+			<Answer>Joint swelling may be caused by different conditions, including: 
+   Chronic type of arthritis called  ankylosing spondylitis , 
+   Painful type of arthritis caused by buildup of uric acid crystals in a joint ( gout ), Arthritis caused by wear and tear of joints ( osteoarthritis ), 
+   Arthritis caused by buildup of calcium-type crystals in joints ( pseudogout ), 
+   Disorder that involves arthritis and a skin condition called psoriasis ( psoriatic arthritis ), 
+   Group of conditions that involve the joints, eyes, and urinary and genital systems ( reactive arthritis ), 
+   Inflammation of joints, nearby tissues, and sometimes other organs ( rheumatoid arthritis ), 
+   Inflammation of a joint due to an infection ( septic arthritis ), 
+   Disorder in which the body's immune system attacks healthy tissue ( systemic lupus erythematosus ), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002264-4" qtype="considerations">What to do for Joint swelling ?</Question>
-			<Answer></Answer>
+			<Answer>Joint swelling may occur along with  joint pain . The swelling may cause the joint to appear larger or abnormally shaped. Joint swelling can cause pain or stiffness. After an injury, swelling of the joint may mean you have a broken bone or a tear in the muscle tendon or ligament. Many different types of arthritis may cause swelling, redness, or warmth around the joint. An infection in the joint can cause swelling, pain, and fever.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002264-5" qtype="when to contact a medical professional">Do I need to see a doctor for Joint swelling ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider right away if you have joint pain and swelling with a fever. Also contact your provider if you have: Unexplained joint swelling, Joint swelling after an injury , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002264-6" qtype="outlook">What is the outlook for Joint swelling ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

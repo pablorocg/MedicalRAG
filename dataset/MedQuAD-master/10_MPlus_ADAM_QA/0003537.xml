@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003537" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003677.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Serum free hemoglobin test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003537-1" qtype="information">Do you have information about Serum free hemoglobin test</Question>
-			<Answer></Answer>
+			<Answer>Serum free hemoglobin is a blood test that measures the level of free  hemoglobin  in the liquid part of the blood (the serum). Free hemoglobin is the hemoglobin outside of the red blood cells. Most of the hemoglobin is found inside the red blood cells, not in the serum. Hemoglobin carries oxygen in the blood.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003796" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003308.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Sutures - ridged</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003796-1" qtype="information">Do you have information about Sutures - ridged</Question>
-			<Answer></Answer>
+			<Answer>Ridged sutures refer to an overlap of the bony plates of the skull in an infant, with or without early closure.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

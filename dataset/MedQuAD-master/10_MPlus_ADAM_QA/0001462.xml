@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001462" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003638.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>ESR</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001462-1" qtype="information">Do you have information about ESR</Question>
-			<Answer></Answer>
+			<Answer>ESR stands for erythrocyte sedimentation rate. It is commonly called a "sed rate." It is a test that indirectly measures the level of certain proteins in the blood. This measurement correlates with the amount of inflammation in the body.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

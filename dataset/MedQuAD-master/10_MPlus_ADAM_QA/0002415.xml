@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002415" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001141.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Liver spots</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,35 +22,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002415-1" qtype="information">What is (are) Liver spots ?</Question>
-			<Answer></Answer>
+			<Answer>Liver spots are flat, brown or black spots that can appear on areas of the skin that are exposed to the sun. They have nothing to do with the liver or liver function.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002415-2" qtype="causes">What causes Liver spots ?</Question>
-			<Answer></Answer>
+			<Answer>Liver spots are changes in skin color that occur in older skin. The coloring may be due to aging, exposure to the sun or other sources of ultraviolet light, or causes that are not known. Liver spots are very common after age 40. They occur most often on areas that have had the greatest sun exposure, such as the: Backs of the hands ,  Face ,  Forearms ,  Forehead ,  Shoulders , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002415-3" qtype="symptoms">What are the symptoms of Liver spots ?</Question>
-			<Answer></Answer>
+			<Answer>Liver spots appear as a  patch  or area of skin color change that is: Flat, Light brown to black, Painless , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002415-4" qtype="exams and tests">How to diagnose Liver spots ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider usually diagnoses the condition based on how your skin looks, especially if you are over 40 and have had a lot of sun exposure. You may need a skin biopsy to confirm the diagnosis. The biopsy also helps rule out a skin cancer called  melanoma  if you have a liver spot that looks irregular or is unusual in other ways.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002415-5" qtype="treatment">What are the treatments for Liver spots ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, no treatment is needed. Talk to your provider about using bleaching lotions or creams. Most bleaching products use hydroquinone. This medicine is thought to be safe in the form used to lighten darkened skin areas. However, hydroquinone can cause blisters or skin reactions in sensitive people.  Talk to your provider about other treatment options, including: Freezing ( cryotherapy ), Laser treatment, Intense pulsed light, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002415-6" qtype="outlook">What is the outlook for Liver spots ?</Question>
-			<Answer></Answer>
+			<Answer>Liver spots are not dangerous to your health. They are permanent skin changes that affect how your skin looks.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002415-7" qtype="when to contact a medical professional">Do I need to see a doctor for Liver spots ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: You have liver spots and want them removed ,  You develop any new symptoms, especially changes in the appearance of a liver spot , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002415-8" qtype="prevention">How to prevent Liver spots ?</Question>
-			<Answer></Answer>
+			<Answer>Protect your skin from the sun  by taking the following steps: Cover your skin with clothing such as hats, long-sleeved shirts, long skirts, or pants., Try to avoid the sun at midday, when sunlight is strongest., Use sunglasses to protect your eyes., Use high-quality broad-spectrum sunscreens that have an SPF rating of at least 30. Apply sunscreen at least 30 minutes before you go out in the sun. Reapply it often. Also use sunscreen on cloudy days and in the winter. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

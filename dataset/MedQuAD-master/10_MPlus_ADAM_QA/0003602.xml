@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003602" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003241.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Skin blushing/flushing</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003602-1" qtype="information">Do you have information about Skin blushing/flushing</Question>
-			<Answer></Answer>
+			<Answer>Skin blushing or flushing is a sudden reddening of the face, neck, or upper chest due to increased blood flow.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

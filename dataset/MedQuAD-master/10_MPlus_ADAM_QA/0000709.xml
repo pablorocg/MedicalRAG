@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000709" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003561.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Catecholamine blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000709-1" qtype="information">Do you have information about Catecholamine blood test</Question>
-			<Answer></Answer>
+			<Answer>This test measures the levels of catecholamines in the blood. Catecholamines are hormones made by the adrenal glands. The three catecholamines are epinephrine (adrenaline), norepinephrine, and dopamine. Catecholamines are more often measured with a  urine test  than with a blood test.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

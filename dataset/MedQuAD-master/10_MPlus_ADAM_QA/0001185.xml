@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001185" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000082.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Diabetes - tests and checkups</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,19 +17,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001185-1" qtype="information">What is (are) Diabetes - tests and checkups ?</Question>
-			<Answer></Answer>
+			<Answer>People who take control of their own  diabetes  care by eating healthy foods, living an active lifestyle, and taking medicines as prescribed often have good control of their blood sugar levels. Still, regular health checkups and tests are needed. These visits give you a chance to: Ask your health care provider questions, Learn more about your diabetes and what you can do to keep your blood sugar in your target range, Make sure you are taking your medicines the right way , </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001185-2" qtype="information">What is (are) Diabetes - tests and checkups ?</Question>
-			<Answer></Answer>
+			<Answer>People who take control of their own  diabetes  care by eating healthy foods, living an active lifestyle, and taking medicines as prescribed often have good control of their blood sugar levels. Still, regular health checkups and tests are needed. These visits give you a chance to: Ask your health care provider questions, Learn more about your diabetes and what you can do to keep your blood sugar in your target range, Make sure you are taking your medicines the right way , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001185-6" qtype="exams and tests">How to diagnose Diabetes - tests and checkups ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001185-8" qtype="exams and tests">How to diagnose Diabetes - tests and checkups ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

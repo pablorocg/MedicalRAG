@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003277" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002197.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Psoriasis - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003277-1" qtype="information">What is (are) Psoriasis - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information about  psoriasis : American Academy of Dermatology Association --  www.aad.org/public/diseases/psoriasis , National Institute of Arthritis and Musculoskeletal and Skin Diseases --  www.niams.nih.gov/health-topics/psoriasis , National Psoriasis Foundation --  www.psoriasis.org , US National Library of Medicine, MedlinePlus --  medlineplus.gov/psoriasis.html , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

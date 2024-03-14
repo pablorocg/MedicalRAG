@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000686" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000096.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cardiac catheterization - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000686-1" qtype="information">Do you have information about Cardiac catheterization - discharge</Question>
-			<Answer></Answer>
+			<Answer>Cardiac catheterization involves passing a thin flexible tube (catheter) into the right or left side of the heart. The catheter is most often inserted from the groin or the arm. This article discusses how to care for yourself after this procedure.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

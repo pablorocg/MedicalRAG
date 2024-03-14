@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004309" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000852.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>When your child's treatment stops working</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004309-1" qtype="information">Do you have information about When your child's treatment stops working</Question>
-			<Answer></Answer>
+			<Answer>Sometimes even the best treatments are not enough to stop cancer. Your child's cancer may have become resistant to anti-cancer drugs. It may have come back or kept growing despite several rounds of treatment. This can be a difficult time for you and your family as you make decisions about ongoing treatment and what comes next.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

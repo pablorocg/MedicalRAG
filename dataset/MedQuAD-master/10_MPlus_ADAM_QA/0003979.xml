@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003979" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003489.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Total iron binding capacity</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003979-1" qtype="information">Do you have information about Total iron binding capacity</Question>
-			<Answer></Answer>
+			<Answer>Total iron binding capacity (TIBC) is a blood test to see if you have too much or too little iron in your blood. Iron moves through the blood attached to a protein called transferrin. This test helps your health care provider know how well that protein can carry iron in your blood.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

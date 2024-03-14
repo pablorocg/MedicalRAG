@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003887" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003909.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Testicular self-exam</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003887-1" qtype="information">Do you have information about Testicular self-exam</Question>
-			<Answer></Answer>
+			<Answer>Testicular self-exam is an examination of the testicles that you do on yourself.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

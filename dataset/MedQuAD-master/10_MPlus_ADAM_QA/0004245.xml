@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004245" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002404.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Vitamin C</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004245-1" qtype="information">Do you have information about Vitamin C</Question>
-			<Answer></Answer>
+			<Answer>Vitamin C is a water-soluble vitamin. It is needed for normal growth and development. Water-soluble vitamins dissolve in water. Leftover amounts of the vitamin leave the body through the urine. Although the body keeps a small reserve of these vitamins, they have to be taken regularly to prevent a shortage in the body.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

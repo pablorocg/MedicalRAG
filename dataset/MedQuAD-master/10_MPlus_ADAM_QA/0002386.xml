@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002386" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000409.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Leydig cell tumor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,43 +21,43 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002386-1" qtype="information">What is (are) Leydig cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>A Leydig cell tumor is a  tumor  of the testicle. It develops from Leydig cells. These are the cells in the testicles that release the male hormone,  testosterone .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002386-2" qtype="causes">What causes Leydig cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>The cause of this tumor is unknown. There are no known risk factors for this tumor. Unlike germ cell tumors of the testicles, this tumor does not seem to be linked to  undescended testes . Leydig cell tumors make up a very small number of all testicular tumors. They are most often found in men between 30 and 60 years of age. This tumor is not common in children before puberty, but it may cause  early puberty .</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002386-3" qtype="symptoms">What are the symptoms of Leydig cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>There may be no symptoms. When symptoms do occur, they can include: Discomfort or pain in the testicle, Enlargement of a testicle or change in the way it feels, Excess growth of breast tissue ( gynecomastia ) -- however, this can occur normally in adolescent boys who do not have testicular cancer, Heaviness in the scrotum, Lump or swelling in either testicle, Pain in the lower abdomen or back, Not able to father children (infertility),  Symptoms in other parts of the body, such as the lungs, abdomen, pelvis, back, or brain may also occur if the cancer has spread.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002386-4" qtype="exams and tests">How to diagnose Leydig cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>A physical examination typically reveals a firm lump in one of the testicles. When the health care provider holds a flashlight up to the scrotum, the light does not pass through the lump. This test is called  transillumination . Other tests include: Blood tests for tumor markers:  alpha fetoprotein  (AFP),  human chorionic gonadotropin  (beta HCG), and  lactate dehydrogenase  (LDH),  CT scan of the chest, abdomen  and pelvis to check if the cancer has spread,  Ultrasound  of the scrotum,  An examination of the tissue is usually done after the entire testicle is surgically removed (orchiectomy).</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002386-5" qtype="treatment">What are the treatments for Leydig cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment of a Leydig cell tumor depends on its stage. Stage I cancer has not spread beyond the testicle., Stage II cancer has spread to lymph nodes in the abdomen., Stage III cancer has spread beyond the lymph nodes (possibly as far as the liver, lungs, or brain).,  Surgery is done to remove the testicle (orchiectomy). Nearby lymph nodes may also be removed (lymphadenectomy). Chemotherapy  may be used to treat this tumor. As Leydig cell tumors are rare, these treatments have not been studied as much as treatments for other, more common testicular cancers.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002386-6" qtype="support groups">Where to find support for people with Leydig cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Joining a  support group  where members share common experiences and problems can often help ease the stress of illness.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002386-7" qtype="outlook">What is the outlook for Leydig cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Testicular cancer is&#160;one of the most treatable and curable cancers. Outlook is worse if the tumor is not found early.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002386-8" qtype="complications">What are the complications of Leydig cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>The cancer may spread to other parts of the body. The most common sites include the: Abdomen, Lungs, Retroperitoneal area (the area near the kidneys behind the other organs in the belly area), Spine ,  Complications of surgery can include: Bleeding and infection,  Infertility  (if both testicles are removed) ,  If you are of childbearing age, ask your provider about methods to save your sperm for use at a later date.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002386-9" qtype="when to contact a medical professional">Do I need to see a doctor for Leydig cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if you have symptoms of testicular cancer.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0002386-10" qtype="prevention">How to prevent Leydig cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Performing  testicular self-examination (TSE)  each month may help detect testicular cancer at an early stage, before it spreads. Finding testicular cancer early is important for successful treatment and survival.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

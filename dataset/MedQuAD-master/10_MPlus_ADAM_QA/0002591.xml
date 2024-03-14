@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002591" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003326.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Mental status testing</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002591-1" qtype="information">What is (are) Mental status testing ?</Question>
-			<Answer></Answer>
+			<Answer>Mental status testing is done to check a person's thinking ability and to determine if any problems are getting better or worse. It is also called neurocognitive testing.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

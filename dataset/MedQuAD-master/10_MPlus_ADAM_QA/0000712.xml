@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000712" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000483.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Catheter-related UTI</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,35 +23,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000712-1" qtype="information">What is (are) Catheter-related UTI ?</Question>
-			<Answer></Answer>
+			<Answer>A urinary catheter is a tube in your bladder that removes urine from the body. This tube may stay in place for an extended period of time. If so, it is called an  indwelling catheter . The urine drains from your bladder into a bag outside your body. When you have an indwelling urinary catheter, you are more likely to develop a urinary tract infection (UTI) in your bladder or kidneys. </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000712-2" qtype="causes">What causes Catheter-related UTI ?</Question>
-			<Answer></Answer>
+			<Answer>Many types of bacteria or fungi can cause a catheter-related UTI. This type of UTI is harder to treat with common antibiotics. Common reasons to have an indwelling catheter are: Urine leakage ( incontinence ), Not being able to empty your bladder, Surgery on your bladder, prostate, or vagina ,  During a hospital stay, you may have an indwelling catheter: Right after any type of surgery, If you are unable to urinate, If the amount of urine you produce needs to be monitored, If you are very ill and cannot control your urine, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000712-3" qtype="symptoms">What are the symptoms of Catheter-related UTI ?</Question>
-			<Answer></Answer>
+			<Answer>Some of the common symptoms are: Abnormal urine color  or cloudy urine 
+ ,  Blood in the urine  ( hematuria ), Foul or strong urine odor, Frequent and strong urge to urinate, Pressure, pain, or spasms in your back or the lower part of your belly,  Other symptoms that may occur with a UTI: Chills,  Fever ,  Flank pain ,  Mental changes  or  confusion  (these may be the only signs of a UTI in an older person), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000712-4" qtype="exams and tests">How to diagnose Catheter-related UTI ?</Question>
-			<Answer></Answer>
+			<Answer>Urine tests will check for infection: Urinalysis  may show white blood cells (WBCs) or red blood cells (RBCs).,  Urine culture  can help determine the type of bacteria in the urine. This will help your health care provider decide on the best antibiotic to use. ,  Your&#160;provider may recommend: Ultrasound of the abdomen or pelvis, CT exam of the abdomen or pelvis, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000712-5" qtype="treatment">What are the treatments for Catheter-related UTI ?</Question>
-			<Answer></Answer>
+			<Answer>People with an indwelling catheter will often have an abnormal urinalysis and culture from urine in the bag. But even if these tests are abnormal, you may not have a UTI. This fact makes it harder for your provider to choose whether to treat you. If you also have symptoms of a UTI, your provider will likely treat you with antibiotics. If you do not have symptoms, your provider will treat you with antibiotics only if: You are pregnant, You are undergoing a procedure related to urinary tract,  Most of the time, you can take antibiotics by mouth. It is very important to take all of the prescribed pills, even if you feel better before you finish them. If your infection is more severe, you may receive medicine into the vein. You may also receive medicine to lessen bladder spasms. You will need more fluids to help flush bacteria out of your bladder. If you are treating yourself at home, this may mean drinking 6 to 8 glasses of fluid a day. You should ask your provider how much fluid is safe for you. Avoid fluids that may irritate your bladder, such as alcohol, citrus juices, and drinks that contain caffeine. After you have finished your treatment, you may have another urine test. This test will make sure the germs are gone. Your catheter will need to be changed when you have a UTI. If you have many UTIs, your provider may remove the catheter. The provider may also:  Ask you to insert a urine catheter intermittently so you don't keep one in all the time, Suggest other urine collection devices, Suggest surgery so you do not need a catheter, Use a special coated catheter that can reduce risk of infection, Prescribe a low-dose antibiotic or other antibacterial for you to take every day,  This can help prevent bacteria from growing in your catheter.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000712-6" qtype="outlook">What is the outlook for Catheter-related UTI ?</Question>
-			<Answer></Answer>
+			<Answer>UTIs related to catheters can be harder to treat than other UTIs. Having many infections over time may lead to kidney damage or kidney stones and bladder stones. Untreated UTI may develop kidney damage or more severe infections.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000712-7" qtype="when to contact a medical professional">Do I need to see a doctor for Catheter-related UTI ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have: 
+  Any symptoms of&#160;a UTI
+  , 
+  Back or  flank pain ,  Fever ,  Vomiting , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000712-8" qtype="prevention">How to prevent Catheter-related UTI ?</Question>
-			<Answer></Answer>
+			<Answer>If you have an indwelling catheter,  you must do these things to help prevent infection : Clean around the catheter opening every day., Clean the catheter with soap and water every day., Clean your rectal area thoroughly after every bowel movement., Keep your drainage bag lower than your bladder. This prevents the urine in the bag from going back into your bladder.,  Empty the drainage bag  at least once every 8 hours, or whenever it is full., Have your indwelling catheter changed at least once a month., Wash your hands before and after you touch your urine., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

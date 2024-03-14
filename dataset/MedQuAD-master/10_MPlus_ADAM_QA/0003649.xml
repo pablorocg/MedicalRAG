@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003649" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000031.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Snake bites</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003649-1" qtype="information">What is (are) Snake bites ?</Question>
-			<Answer></Answer>
+			<Answer>Snake bites occur when a snake bites the skin. They are medical emergencies if the snake is venomous. Venomous animals account for a large number of deaths and injuries worldwide. Snakes alone are estimated to inflict 2.5 million venomous bites each year, resulting in about 150,000 deaths. The actual number may be much larger. Southeast Asia, India, Brazil, and areas of Africa have the most deaths due to snakebite.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003649-2" qtype="considerations">What to do for Snake bites ?</Question>
-			<Answer></Answer>
+			<Answer>Snake bites can be deadly if not treated quickly. Because of their smaller body size, children are at higher risk for death or serious complications due to snake bites. The right antivenom can save a person's life. Getting to an emergency room as quickly as possible is very important. If properly treated, many snake bites will not have serious effects. Even the bite of a non-venomous snake can sometimes cause significant injury, particularly to children.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003649-3" qtype="causes">What causes Snake bites ?</Question>
-			<Answer></Answer>
+			<Answer>Most species of snake are harmless and their bites are not life threatening. Venomous snake bites include bites by any of the following: Cobra, Copperhead, Coral snake, Cottonmouth (water moccasin), Rattlesnake, Various snakes found at zoos,  Most snakes will avoid people if possible, but all snakes will bite as a last resort when threatened or surprised. If you are bitten by any snake, consider it a serious event.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003649-4" qtype="symptoms">What are the symptoms of Snake bites ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms depend on the type of snake, but may include: Bleeding from wound,  Blurred vision , Burning of the skin,  Seizures  (convulsions),  Diarrhea ,  Dizziness ,  Excessive sweating ,  Fainting , Fang marks in the skin,  Fever ,  Increased thirst ,  Loss of muscle coordination ,  Nausea and vomiting ,  Numbness and tingling ,  Rapid pulse , Tissue death, Severe pain, Skin discoloration,  Swelling  at the site of the bite,  Weakness ,  Rattlesnake bites are painful when they occur. Symptoms usually begin right away and may include: Bleeding, Breathing difficulty,  
+ Blurred vision 
+ ,  Eyelid drooping ,  Low blood pressure , Nausea and vomiting,  Numbness , Pain at site of bite, Paralysis, Rapid pulse,  Skin color changes , Swelling, Tingling, Tissue damage, Thirst, Tiredness, Weakness, Weak pulse,  Cottonmouth and copperhead bites are painful right when they occur. Symptoms, which usually begin right away, may include: Bleeding, Breathing difficulty, Low blood pressure, Nausea and vomiting, Numbness and tingling, Pain at site of bite, Shock, Skin color changes, Swelling, Thirst, Tiredness, Tissue damage, Weakness, Weak pulse,  Coral snake bites may be painless at first. Major symptoms may not develop for hours. Do not make the mistake of thinking you will be fine if the bite area looks good and you are not in a lot of pain. Untreated coral snake bites can be deadly. Symptoms may include: Blurred vision, Breathing difficulty,  Convulsions , Drowsiness, Eyelid drooping, Headache, Low blood pressure, Mouth watering ( excessive salivation ), Nausea and vomiting, Numbness, Pain and swelling at site of bite, Paralysis, Shock, Slurred speech, 
+  Swallowing difficulty
+  , Swelling of tongue and throat, Weakness, Skin color changes, Skin tissue damage, Stomach or abdominal pain, Weak pulse, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003649-5" qtype="considerations">What to do for Snake bites ?</Question>
-			<Answer></Answer>
+			<Answer>Snake bites can be deadly if not treated quickly. Because of their smaller body size, children are at higher risk for death or serious complications due to snake bites. The right antivenom can save a person's life. Getting to an emergency room as quickly as possible is very important. If properly treated, many snake bites will not have serious effects. Even the bite of a non-venomous snake can sometimes cause significant injury, particularly to children.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003649-6" qtype="considerations">What to do for Snake bites ?</Question>
-			<Answer></Answer>
+			<Answer>Snake bites can be deadly if not treated quickly. Because of their smaller body size, children are at higher risk for death or serious complications due to snake bites. The right antivenom can save a person's life. Getting to an emergency room as quickly as possible is very important. If properly treated, many snake bites will not have serious effects. Even the bite of a non-venomous snake can sometimes cause significant injury, particularly to children.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003649-7" qtype="when to contact a medical professional">Do I need to see a doctor for Snake bites ?</Question>
-			<Answer></Answer>
+			<Answer>Call 911 or the local emergency number if someone has been bitten by a snake. If possible, call ahead to the emergency room so that antivenom can be ready when the person arrives. Your local poison control center can be reached directly by calling the national toll-free  Poison Help hotline  (1-800-222-1222) from anywhere in the United States. This national hotline number will let you talk to experts in poisoning. They will give you further instructions. This is a free and confidential service. All local poison control centers in the United States use this national number. You should call if you have any questions about poisoning or poison prevention. It does NOT need to be an emergency. You can call for any reason, 24 hours a day, 7 days a week.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003649-8" qtype="prevention">How to prevent Snake bites ?</Question>
-			<Answer></Answer>
+			<Answer>To prevent snake bites: Avoid areas where snakes may be hiding, such as under rocks and logs., Even though most snakes are not venomous, avoid picking up or playing with any snake unless you have been properly trained., Don't provoke a snake. That is when many serious snake bites occur., Tap ahead of you with a walking stick before entering an area where you can't see your feet. Snakes will try to avoid you if given enough warning., When hiking in an area known to have snakes, wear long pants and boots if possible. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

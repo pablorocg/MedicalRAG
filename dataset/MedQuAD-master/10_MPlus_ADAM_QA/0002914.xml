@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002914" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001627.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ozena</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002914-1" qtype="information">What is (are) Ozena ?</Question>
-			<Answer></Answer>
+			<Answer>Ozena is a disease of the nose in which the bony ridges and mucous membranes of the nose waste away. Ozena is also called atrophic rhinitis.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002914-2" qtype="symptoms">What are the symptoms of Ozena ?</Question>
-			<Answer></Answer>
+			<Answer>Nasal crusting, discharge, congestion, and a very bad smell are other common symptoms of ozena. Ozena may develop after a long period of nasal swelling.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

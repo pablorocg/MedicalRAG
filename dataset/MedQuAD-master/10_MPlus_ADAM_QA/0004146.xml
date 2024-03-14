@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004146" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000477.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Urostomy - stoma and skin care</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004146-1" qtype="information">Do you have information about Urostomy - stoma and skin care</Question>
-			<Answer></Answer>
+			<Answer>Urostomy pouches are special bags that are used to collect urine after some types of bladder surgery.  Instead of going to your bladder, urine will go outside of your abdomen. The part that sticks outside your abdomen is called the stoma.  After a urostomy, your urine will go through your stoma into a special bag called a urostomy pouch.  Caring for your stoma and the skin around it is very important to prevent infection of your skin and kidneys. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

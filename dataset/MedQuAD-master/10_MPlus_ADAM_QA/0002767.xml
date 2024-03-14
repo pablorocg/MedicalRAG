@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002767" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001193.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Neonatal hypothyroidism</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,38 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002767-1" qtype="information">What is (are) Neonatal hypothyroidism ?</Question>
-			<Answer></Answer>
+			<Answer>Neonatal hypothyroidism is decreased thyroid hormone production in a newborn. In very rare cases, no thyroid hormone is produced.&#160;The condition is also called congenital hypothyroidism. Congenital means present from birth.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002767-2" qtype="causes">What causes Neonatal hypothyroidism ?</Question>
-			<Answer></Answer>
+			<Answer>The thyroid gland is an important organ of the  endocrine system . It is located at the front of the neck, just above where the collarbones meet. The thyroid makes hormones that control the way every cell in the body uses energy. This process is called  metabolism . Hypothyroidism in the newborn may be caused by: A missing or poorly developed thyroid gland, A pituitary gland that does not stimulate the thyroid gland, Thyroid hormones that are poorly formed or do not work, Medicines the mother took during pregnancy, Lack of iodine in the mother's diet during pregnancy,  Antibodies  made by the mother's body that block the baby's thyroid function,  A thyroid gland that is not fully developed is the most common defect. Girls are affected twice as often as boys.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002767-3" qtype="symptoms">What are the symptoms of Neonatal hypothyroidism ?</Question>
-			<Answer></Answer>
+			<Answer>Most affected infants have few or no symptoms. This is because their thyroid hormone level is only slightly low. Infants with severe hypothyroidism often have a unique appearance, including: 
+   Dull look
+   , Puffy face, Thick tongue that sticks out,  This appearance often develops as the disease gets worse. The child may also have: Poor feeding, choking episodes, Constipation, Dry, brittle hair, Hoarse cry,  Jaundice  (skin and whites of the eyes look yellow), Lack of muscle tone ( floppy  infant), Low hairline, Short height, Sleepiness, Sluggishness, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002767-4" qtype="exams and tests">How to diagnose Neonatal hypothyroidism ?</Question>
-			<Answer></Answer>
+			<Answer>A physical exam of the infant may show: Decreased muscle tone, Slow growth, Hoarse-sounding cry or voice, Short arms and legs, Very large soft spots on the skull (fontanelles), Wide hands with short fingers,  Widely separated skull bones ,  Blood tests are done to check thyroid function. Other tests may include: Thyroid ultrasound scan , 
+   X-ray of the  long bones , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002767-5" qtype="treatment">What are the treatments for Neonatal hypothyroidism ?</Question>
-			<Answer></Answer>
+			<Answer>Early diagnosis is very important. Most of the effects of hypothyroidism are easy to reverse. For this reason, most US states require that all newborns be screened for hypothyroidism. Thyroxine is usually given to treat hypothyroidism. Once the child starts taking this medicine, blood tests are regularly done to make sure thyroid hormone levels are in a normal range. Referral to a pediatric endocrinologist is recommended for care.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002767-6" qtype="outlook">What is the outlook for Neonatal hypothyroidism ?</Question>
-			<Answer></Answer>
+			<Answer>Getting diagnosed early usually leads to a good outcome. Newborns diagnosed and treated in the first month or so usually have normal intelligence. Untreated mild hypothyroidism can lead to severe  intellectual disability  and growth problems. The nervous system goes through important development during the first few months after birth. Lack of thyroid hormones can cause damage that cannot be reversed.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002767-7" qtype="when to contact a medical professional">Do I need to see a doctor for Neonatal hypothyroidism ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if: You feel your infant shows signs or symptoms of hypothyroidism ,  You are pregnant and have been exposed to antithyroid medicines or procedures , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002767-8" qtype="prevention">How to prevent Neonatal hypothyroidism ?</Question>
-			<Answer></Answer>
+			<Answer>If a pregnant woman takes radioactive iodine for thyroid cancer, the thyroid gland may be destroyed in the developing fetus. Infants whose mothers have taken such medicines should be observed carefully after birth for signs of hypothyroidism.&#160;Also, pregnant women should not avoid iodine-supplemented salt. Most states require a routine  screening test  to check all newborns for hypothyroidism.&#160;If your state does not have this requirement, ask your provider if your newborn should be screened.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

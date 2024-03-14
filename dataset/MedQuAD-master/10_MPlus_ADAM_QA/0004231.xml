@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004231" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007253.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Virtual colonoscopy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004231-1" qtype="information">Do you have information about Virtual colonoscopy</Question>
-			<Answer></Answer>
+			<Answer>Virtual colonoscopy (VC) is an imaging or x-ray test that looks for cancer,  polyps , or other disease in the large intestine (colon). The medical name of this test is CT colonography.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

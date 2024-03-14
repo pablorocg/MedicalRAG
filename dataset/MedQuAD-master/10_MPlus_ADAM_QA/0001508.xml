@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001508" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001018.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Eyelid drooping</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001508-1" qtype="information">Do you have information about Eyelid drooping</Question>
-			<Answer></Answer>
+			<Answer>Eyelid drooping is excess sagging of the upper eyelid. The edge of the upper eyelid may be lower than it should be (ptosis) or there may be excess baggy skin in the upper eyelid (dermatochalasis). Eyelid drooping is often a combination of both conditions. The problem is also called ptosis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

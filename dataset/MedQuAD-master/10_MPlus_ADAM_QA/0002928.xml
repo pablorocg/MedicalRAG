@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002928" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002284.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Palpation</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002928-1" qtype="information">Do you have information about Palpation</Question>
-			<Answer></Answer>
+			<Answer>Palpation is a method of feeling with the fingers or hands during a physical examination. The health care provider touches and feels your body to examine the size, consistency, texture, location, and tenderness of an organ or body part.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

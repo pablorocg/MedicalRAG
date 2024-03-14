@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000674" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000137.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Caplan syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,43 +19,43 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000674-1" qtype="information">What is (are) Caplan syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Rheumatoid pneumoconiosis (RP, also known as Caplan syndrome) is swelling (inflammation) and scarring of the lungs. It occurs in people with  rheumatoid arthritis  who have breathed in dust, such as from coal ( coal worker's pneumoconiosis ) or  silica .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000674-2" qtype="causes">What causes Caplan syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>RP is caused by breathing in inorganic dust. This is dust that comes from grinding metals, minerals, or rock. After the dust enters the lungs, it causes inflammation. This can lead to the formation of many small lumps in the lungs and an airway disease similar to mild asthma. It is not clear how RP develops. There are two theories: When people breathe in inorganic dust, it affects their immune system and leads to rheumatoid arthritis (RA). RA is an  autoimmune disease  in which the body's immune system attacks healthy body tissue by mistake., When people who already have RA or are at high risk for it are exposed to mineral dust, they develop RP., </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000674-3" qtype="symptoms">What are the symptoms of Caplan syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of RP are: Cough ,  Joint swelling  and pain, Lumps under the skin (rheumatoid nodules),  Shortness of breath ,  Wheezing , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000674-4" qtype="exams and tests">How to diagnose Caplan syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will take a detailed medical history. It will include questions about your jobs (past and present) and other possible sources of exposure to inorganic dust. Your provider will also do a physical exam, paying special attention to any joint and skin disease. Other tests can include: Chest x-ray ,  CT scan of the chest ,  Joint x-rays ,  Lung function tests ,  Rheumatoid factor  test and other blood tests, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000674-5" qtype="treatment">What are the treatments for Caplan syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>There is no specific treatment for RP, other than treating any lung and joint disease. Stop exposure to coal dust. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000674-6" qtype="support groups">Where to find support for people with Caplan syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Attending a support group with people who have the same disease or a similar disease can help you understand your condition better. It can also help you adjust to your treatment and lifestyle changes. Support groups take place online and in person. Ask your provider about a support group that might help you. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000674-7" qtype="outlook">What is the outlook for Caplan syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>RP rarely causes serious breathing trouble or disability due to lung problems.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000674-8" qtype="complications">What are the complications of Caplan syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>These complications can occur from RP: Increased risk for tuberculosis, Scarring in the lungs (progressive massive fibrosis), Side effects from medicines you take, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000674-9" qtype="when to contact a medical professional">Do I need to see a doctor for Caplan syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider for an appointment if you have symptoms of RP and exposure to coal dust. Talk to your provider about getting the flu and pneumonia vaccines. If you've been diagnosed with RP, contact your provider right away if you develop a cough, shortness of breath, fever, or other signs of a lung infection, especially if you think you have the flu. Since your lungs are already damaged, it's very important to have the infection treated promptly. This will prevent breathing problems from becoming severe, as well as further damage to your lungs.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000674-10" qtype="prevention">How to prevent Caplan syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>People with RA should avoid exposure to inorganic dust.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

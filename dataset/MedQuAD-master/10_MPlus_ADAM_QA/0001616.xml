@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001616" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003686.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Folic acid - test</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,11 +19,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001616-1" qtype="information">What is (are) Folic acid - test ?</Question>
-			<Answer></Answer>
+			<Answer>Folic acid is also called vitamin B9. This article discusses the test to measure the amount of folic acid in the blood. It is often done together with a vitamin B12 test of the blood.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001616-8" qtype="susceptibility">Who is at risk for Folic acid - test? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

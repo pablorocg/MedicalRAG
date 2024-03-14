@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000428" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000339.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Beriberi</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000428-1" qtype="information">What is (are) Beriberi ?</Question>
-			<Answer></Answer>
+			<Answer>Beriberi is a disease in which the body does not have enough  thiamine  (vitamin B1).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000428-2" qtype="causes">What causes Beriberi ?</Question>
-			<Answer></Answer>
+			<Answer>There are two major types of beriberi: Wet beriberi: Affects the cardiovascular system., Dry beriberi and  Wernicke-Korsakoff syndrome : Affects the nervous system.,  Beriberi is rare in the United States. This is because most foods are now vitamin enriched. If you eat a normal, healthy diet, you should get enough thiamine. Today, beriberi occurs mostly in people who abuse alcohol. Drinking heavily can lead to poor nutrition. Excess alcohol makes it harder for the body to absorb and store vitamin B1. In rare cases, beriberi can be genetic. This condition is passed down through families. People with this condition lose the ability to absorb thiamine from foods. This can happen slowly over time. The symptoms occur when the person is an adult. However, this diagnosis is often missed. This is because health care providers may not consider beriberi in nonalcoholics. Beriberi can occur in infants when they are: Breastfed and the mother's body is lacking in thiamine, Fed unusual  formulas  that don't have enough thiamine,  Some medical treatments that can raise your risk of beriberi are: Getting  dialysis , Taking high doses of diuretics (water pills), </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000428-3" qtype="symptoms">What are the symptoms of Beriberi ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of dry beriberi include: Difficulty walking,  Loss of feeling (sensation)  in hands and feet, Loss of muscle function or paralysis of the lower legs, Mental  confusion , Pain, Speech difficulties, Strange eye movements (nystagmus), Tingling, Vomiting,  Symptoms of wet beriberi include: Awakening at night short of breath, Increased heart rate,  Shortness of breath  with activity, Swelling of the lower legs, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000428-4" qtype="exams and tests">How to diagnose Beriberi ?</Question>
-			<Answer></Answer>
+			<Answer>A physical examination may show signs of  congestive heart failure , including: Difficulty breathing, with neck veins that stick out, Enlarged heart, Fluid in the lungs, Rapid heartbeat,  Swelling in both lower legs ,  A person with late-stage beriberi may be confused or have memory loss and delusions. The person may be less able to sense vibrations. A neurological exam may show signs of: Changes in walking, Coordination problems, Decreased reflexes, Drooping of the eyelids,  The following tests may be done: Blood tests to measure the amount of thiamine in the blood, Urine tests to see if thiamine is passing through the urine, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000428-5" qtype="treatment">What are the treatments for Beriberi ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to replace the thiamine your body is lacking. This is done with thiamine supplements. Thiamine supplements are given through a shot (injection) or taken by mouth. Your provider may also suggest other types of vitamins. Blood tests may be repeated after the treatment is started. These tests will show how well you are responding to the medicine.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000428-6" qtype="outlook">What is the outlook for Beriberi ?</Question>
-			<Answer></Answer>
+			<Answer>Untreated, beriberi can be fatal. With treatment, symptoms usually improve quickly. Heart damage is usually reversible. A full recovery is expected in these cases. However, if acute heart failure has already occurred, the outlook is poor. Nervous system damage is also reversible, if caught early. If it is not caught early, some symptoms (such as memory loss or confusion) may remain, even with treatment. If a person with Wernicke encephalopathy receives thiamine replacement, language problems, unusual eye movements, and walking difficulties may go away. However, Korsakoff syndrome (or Korsakoff psychosis) tends to develop as Wernicke symptoms go away.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000428-7" qtype="complications">What are the complications of Beriberi ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Coma, Congestive heart failure, Death,  Psychosis , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000428-8" qtype="when to contact a medical professional">Do I need to see a doctor for Beriberi ?</Question>
-			<Answer></Answer>
+			<Answer>Beriberi is extremely rare in the United States. However, contact your provider if: You feel your family's diet is inadequate or poorly balanced, You or your children have any symptoms of beriberi, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000428-9" qtype="prevention">How to prevent Beriberi ?</Question>
-			<Answer></Answer>
+			<Answer>Eating a proper diet that is rich in vitamins will prevent beriberi. Nursing mothers should make sure that their diet contains all vitamins. If your infant is not breastfed, make sure that the infant formula contains thiamine. If you drink heavily, try to cut down or quit. Also, take B vitamins to make sure your body is properly absorbing and storing thiamine.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

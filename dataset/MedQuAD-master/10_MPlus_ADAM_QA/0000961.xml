@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000961" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007409.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Conscious sedation for surgical procedures</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000961-1" qtype="information">Do you have information about Conscious sedation for surgical procedures</Question>
-			<Answer></Answer>
+			<Answer>Conscious sedation is a combination of medicines to help you relax (a sedative) and to block pain (an anesthetic) during a medical or dental procedure. You will probably stay awake, but may not be able to speak. Conscious sedation lets you recover quickly and return to your everyday activities soon after your procedure.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

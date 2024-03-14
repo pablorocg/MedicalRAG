@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002676" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001448.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Mouth ulcers</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002676-1" qtype="information">What is (are) Mouth ulcers ?</Question>
-			<Answer></Answer>
+			<Answer>Mouth  ulcers  are sores or open lesions in the mouth.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002676-2" qtype="causes">What causes Mouth ulcers ?</Question>
-			<Answer></Answer>
+			<Answer>Mouth ulcers are caused by many disorders. These include: Canker sores ,  Gingivostomatitis , Herpes simplex ( fever blister ),  Leukoplakia ,  Oral cancer ,  Oral lichen planus , Oral  thrush ,  A skin sore caused by histoplasmosis may also appear as a mouth ulcer.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002676-3" qtype="symptoms">What are the symptoms of Mouth ulcers ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms will vary, based on the cause of the mouth ulcer. Symptoms may include: Open sores in the mouth, Pain or discomfort in the mouth, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002676-4" qtype="exams and tests">How to diagnose Mouth ulcers ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, a health care provider or dentist will look at the ulcer and where it is in the mouth to make the diagnosis. You may need blood tests or a biopsy of the ulcer may be needed to confirm the cause.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002676-5" qtype="treatment">What are the treatments for Mouth ulcers ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to relieve symptoms. The underlying cause of the ulcer should be treated if it is known. , Gently cleaning your mouth and teeth may help relieve your symptoms., Medicines that you rub directly on the ulcer. These include antihistamines, antacids, and corticosteroids that may help soothe discomfort., Avoid hot or spicy foods until the ulcer is healed., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002676-6" qtype="outlook">What is the outlook for Mouth ulcers ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome varies depending on the cause of the ulcer. Many mouth ulcers are harmless and heal without treatment. Some types of  cancer  may first appear as a mouth ulcer that does not heal.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002676-7" qtype="complications">What are the complications of Mouth ulcers ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Cellulitis  of the mouth, from secondary bacterial infection of ulcers, Dental infections ( tooth abscesses ), Oral cancer, Spread of contagious disorders to other people , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002676-8" qtype="when to contact a medical professional">Do I need to see a doctor for Mouth ulcers ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: A mouth ulcer does not go away after 3 weeks., You have mouth ulcers return often, or if new symptoms develop., </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002676-9" qtype="prevention">How to prevent Mouth ulcers ?</Question>
-			<Answer></Answer>
+			<Answer>To help prevent mouth ulcers and complications from them: Brush your teeth at least twice a day and floss once a day., Get regular dental cleanings and checkups. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

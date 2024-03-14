@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000089" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001493.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Adhesion</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,35 +21,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000089-1" qtype="information">What is (are) Adhesion ?</Question>
-			<Answer></Answer>
+			<Answer>Adhesions are bands of scar-like tissue that form between&#160;two surfaces inside the body and cause them to stick together.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000089-2" qtype="causes">What causes Adhesion ?</Question>
-			<Answer></Answer>
+			<Answer>With movement of the body, internal organs such as the bowel or uterus are normally able to shift and to slide past each other. This is because these tissues and organs in the abdominal cavity have smooth, slippery surfaces. Inflammation (swelling), surgery, or injury can cause adhesions to form and prevent this movement. Adhesions can occur almost anywhere in the body, including: Joints, such as the shoulder, Eyes, Inside the abdomen or pelvis,  Adhesions can become larger or tighter over time. Problems may occur if the adhesions cause an organ or body part to: Twist, Pull out of position, Be unable to move normally,  The risk of forming adhesions is high after bowel or female organ surgeries. Surgery using a laparoscope is less likely to cause adhesions than open surgery. Other causes of adhesions in the abdomen or pelvis include: Appendicitis , most often when the appendix breaks open (ruptures), Cancer,  Endometriosis , Infections in the abdomen and pelvis, such as appendicitis or fallopian tube infection, Radiation treatment,  Adhesions around the joints may occur: After surgery or trauma, With certain types of arthritis, With overuse of a joint or tendon, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000089-3" qtype="symptoms">What are the symptoms of Adhesion ?</Question>
-			<Answer></Answer>
+			<Answer>Adhesions in joints, tendons, or ligaments make it harder to move the joint. They may also cause pain. Adhesions in the belly (abdomen) may cause a  blockage of the intestines . Symptoms include: Bloating or swelling of your belly,  Constipation , Nausea and vomiting, No longer being able to pass gas, Pain in the belly that is severe and crampy ,  Adhesions in the pelvis may cause long-term (chronic) pelvic pain.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000089-4" qtype="exams and tests">How to diagnose Adhesion ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, the adhesions cannot be seen using x-rays or imaging tests. Hysterosalpingography  may help detect adhesions inside the uterus or fallopian tubes., X-rays of the abdomen, barium contrast studies, and CT scans may help detect a blockage of the intestines caused by adhesions.,  Endoscopy (a way of looking inside the body using a flexible tube that has a small camera on the end) may help diagnose adhesions: Hysteroscopy looks inside the uterus,  Laparoscopy  looks inside the abdomen and pelvis, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000089-5" qtype="treatment">What are the treatments for Adhesion ?</Question>
-			<Answer></Answer>
+			<Answer>Surgery may be done to separate the adhesions. This can let the organ regain normal movement and reduce symptoms. However, the risk for more adhesions goes up with more surgeries. Depending on the location of the adhesions, a barrier may be placed at the time of surgery to help reduce the chance of the adhesions returning.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000089-6" qtype="outlook">What is the outlook for Adhesion ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome is good in most cases.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000089-7" qtype="complications">What are the complications of Adhesion ?</Question>
-			<Answer></Answer>
+			<Answer>Adhesions can cause various disorders, depending on the tissues affected. In the eye, adhesion of the iris to the lens can lead to  glaucoma ., In the intestines, adhesions can cause partial or complete  bowel obstruction ., Adhesions inside the uterine cavity can cause a condition called  Asherman syndrome . This can cause a woman to have irregular menstrual cycles and be unable to get pregnant., Pelvic adhesions that involve scarring of the fallopian tubes can lead to  infertility  and reproductive problems., Abdominal and pelvic adhesions can cause chronic pain., </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000089-8" qtype="when to contact a medical professional">Do I need to see a doctor for Adhesion ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have: Abdominal pain ,  An inability to pass gas ,  Nausea and vomiting that do not go away ,  Pain in the belly that is severe and crampy , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

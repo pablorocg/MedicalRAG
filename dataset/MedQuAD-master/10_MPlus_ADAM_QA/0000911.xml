@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000911" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003886.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Colonoscopy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000911-1" qtype="information">Do you have information about Colonoscopy</Question>
-			<Answer></Answer>
+			<Answer>A colonoscopy is an exam that views the inside of the colon (large intestine) and rectum, using a tool called a colonoscope. The colonoscope has a small camera attached to a flexible tube that can reach the entire length of the colon.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

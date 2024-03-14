@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001114" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000440.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Deep breathing after surgery</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,7 +18,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001114-1" qtype="information">What is (are) Deep breathing after surgery ?</Question>
-			<Answer></Answer>
+			<Answer>After surgery it is important to take an active role in your recovery. Your health care provider may recommend that you do deep breathing exercises.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

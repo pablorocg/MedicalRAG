@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004252" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003494.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>VLDL test</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,11 +19,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004252-1" qtype="information">What is (are) VLDL test ?</Question>
-			<Answer></Answer>
+			<Answer>VLDL stands for very low density lipoprotein. Lipoproteins are made up of  cholesterol , triglycerides, and proteins. They move cholesterol, triglycerides, and other lipids (fats) around the body. VLDL is one of the three main types of lipoproteins. VLDL contains the highest amount of triglycerides. VLDL is a type of "bad cholesterol" because it helps cholesterol build up on the walls of arteries. A lab test is used to measure the amount of VLDL in your blood.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004252-7" qtype="considerations">What to do for VLDL test ?</Question>
-			<Answer></Answer>
+			<Answer>There is no direct way of measuring VLDL. Most labs estimate your VLDL based on your triglycerides level. It is about one fifth of your triglycerides level. This estimate is not accurate if your triglycerides level is above 400 mg/dL.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

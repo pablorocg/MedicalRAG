@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000022" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/235.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Calendula</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000022-1" qtype="information">What is Calendula ?</Question>
-			<Answer></Answer>
+			<Answer>Calendula (Calendula officinalis) is a plant known as pot marigold. It is not the same as ornamental marigolds of the Tagetes genus grown in vegetable gardens. 
+
+Calendula is native to Asia and southern Europe and has been traditionally used in Ayurvedic and Unani systems of medicine. The chemicals in calendula might help new tissue grow in wounds and decrease swelling in the mouth and throat.  
+
+Calendula flower is commonly used for wounds, rashes, infections, inflammation, and many other conditions. But there's no strong evidence to support the use of calendula for any purpose.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000022-2" qtype="how effective is it">How effective is Calendula ?</Question>
-			<Answer></Answer>
+			<Answer>There is interest in using calendula for a number of purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000022-3" qtype="how does it work">What is the action of Calendula and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000022-4" qtype="precautions">Are there safety concerns or special precautions about Calendula ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000022-5" qtype="interactions with medications">Are there interactions between Calendula and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Moderate Be cautious with this combination. Sedative medications (CNS depressants) Calendula might cause sleepiness and slowed breathing. Some medications, called sedatives, can also cause sleepiness and slowed breathing. Taking calendula with sedative medications might cause breathing problems and/or too much sleepiness.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000022-6" qtype="interactions with herbs and supplements">Are there interactions between Calendula and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with herbs and supplements.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000022-7" qtype="interactions with foods">Are there interactions between Calendula and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000022-8" qtype="dose">What is the dosage of Calendula ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

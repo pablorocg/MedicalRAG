@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004090" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000881.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Understanding your hospital bill</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004090-1" qtype="information">Do you have information about Understanding your hospital bill</Question>
-			<Answer></Answer>
+			<Answer>If you have been in the hospital, you will receive a bill listing the charges. Hospital bills can be complex and confusing. While it may seem hard to do, you should look closely at the bill and ask questions if you see something you do not understand. The recently enacted  No Surprises Medical Billing Act  establishes new rules to help protect people in job-related and individual health plans from having to pay surprise bills for emergency care, non-emergency care from out-of-network providers at in-network facilities, and air ambulance services from out-of-network providers. Here are some tips for reading your hospital bill and suggestions for what to do if you find an error. Looking closely at your bill may help you save money.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002746" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003747.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Nasopharyngeal culture</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002746-1" qtype="information">Do you have information about Nasopharyngeal culture</Question>
-			<Answer></Answer>
+			<Answer>Nasopharyngeal culture is a test that examines a sample of secretions from the uppermost part of the throat, behind the nose, to detect organisms that can cause disease.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

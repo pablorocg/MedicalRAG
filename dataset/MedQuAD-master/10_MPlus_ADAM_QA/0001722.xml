@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001722" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000174.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Getting out of bed after surgery</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001722-1" qtype="information">Do you have information about Getting out of bed after surgery</Question>
-			<Answer></Answer>
+			<Answer>After surgery, it is normal to feel a little weak. Getting out of bed after surgery is not always easy, but spending time out of bed will help you heal faster.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000407" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000154.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bathroom safety - children</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000407-1" qtype="information">Do you have information about Bathroom safety - children</Question>
-			<Answer></Answer>
+			<Answer>To prevent accidents in the bathroom, never leave your child alone in the bathroom. When the bathroom is not being used, keep the door closed.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

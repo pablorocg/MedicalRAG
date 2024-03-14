@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000740" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002167.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cerebral palsy - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000740-1" qtype="information">What is (are) Cerebral palsy - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on  cerebral palsy : Centers for Disease Control and Prevention --  www.cdc.gov/ncbddd/cp/index.html , Cerebral Palsy Foundation --  www.yourcpf.org , National Institute of Neurological Disorders and Stroke --  www.ninds.nih.gov/health-information/disorders/cerebral-palsy , United Cerebral Palsy --  ucp.org , US National Library of Medicine, MedlinePlus --  medlineplus.gov/cerebralpalsy.html , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004305" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000626.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>When your baby is stillborn</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004305-1" qtype="information">Do you have information about When your baby is stillborn</Question>
-			<Answer></Answer>
+			<Answer>
+
+ 
+A stillbirth is when a baby dies in the womb during the last 20 weeks of pregnancy. A miscarriage is a fetal loss in the first half of pregnancy.
+</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

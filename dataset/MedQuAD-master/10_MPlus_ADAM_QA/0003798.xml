@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003798" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001097.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>SVC obstruction</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003798-1" qtype="information">What is (are) SVC obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>SVC obstruction is a narrowing or blockage of the superior vena cava (SVC), which is the second largest vein in the human body. The superior vena cava moves blood from the upper parts of the body to the heart.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003798-2" qtype="causes">What causes SVC obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>SVC obstruction is a rare condition. It is most often caused by cancer or a  tumor  in the mediastinum (the area of the chest under the breastbone and between the lungs). Other types of cancer that can lead to this condition include: Breast cancer, Lymphoma,  Metastatic lung cancer  (lung cancer that spreads), Testicular cancer, Thyroid cancer, Thymus tumor ,  SVC obstruction can also be caused by noncancerous conditions that cause scarring. These conditions include: Histoplasmosis  (a type of fungal infection), Inflammation of a vein ( thrombophlebitis ), Lung infections (such as  tuberculosis ) ,  Other causes of SVC obstruction include: Aortic aneurysm  (a widening of the artery that leaves the heart), Blood clots in the SVC,  Constrictive pericarditis  (tightening of the thin lining of the heart), Effects of radiation therapy for certain medical conditions, Enlargement of the thyroid gland (goiter) ,  Catheters placed in the large veins of the upper arm and neck may cause blood clots in the SVC.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003798-3" qtype="symptoms">What are the symptoms of SVC obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms occur when something blocks the blood flowing back to the heart. Symptoms may begin suddenly or gradually, and may worsen when you bend over or lie down. Early signs include: Swelling around the eye, Swelling of the face, Swelling of the whites of the eyes , Distended veins in the neck,  The swelling may be worse or more prominent when lying down than when upright. It may be worse in the early morning hours and may go away by mid-morning. The most common symptoms are  shortness of breath  (dyspnea) and swelling of the face, neck, trunk, and arms. Other possible symptoms include: Decreased alertness ,  Dizziness , fainting, Headache, Reddish face or cheeks, Reddish palms, Reddish mucous membranes (inside the nose, mouth, and other places), Redness changing to blueness later, Sensation of head or ear fullness, Vision changes , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003798-4" qtype="exams and tests">How to diagnose SVC obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam, which may show enlarged veins of the face, neck, and upper chest. Blood pressure is often high in the arms and low in the legs. If lung cancer is suspected, a  bronchoscopy  may be done. During this procedure, a camera is used to view inside the airways and lungs.  Blockage of the SVC may be visible on: Chest x-ray ,  CT scan of the chest  or  MRI of chest ,  Coronary angiography  (a heart blood vessel study),  Doppler ultrasound  (sound wave test of the blood vessels),  Radionuclide ventriculography  (nuclear study of heart motion) , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003798-5" qtype="treatment">What are the treatments for SVC obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to relieve the blockage. Diuretics (water pills) or steroids (anti-inflammatory drugs) may be used to temporarily relieve  swelling . Other treatment options may include radiation or  chemotherapy  to shrink the tumor, or surgery to remove the tumors. Surgery to bypass the obstruction is rarely performed. Placement of a  stent  (tube placed inside a blood vessel) to open up the SVC may be performed.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003798-6" qtype="outlook">What is the outlook for SVC obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome varies, depending on the cause and the amount of blockage. SVC obstruction caused by a tumor is a sign that the tumor has spread, and it indicates a poorer long-term outlook.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003798-7" qtype="complications">What are the complications of SVC obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>The throat could become blocked, which can block the airways. Increased pressure may develop in the brain, leading to changed levels of consciousness, nausea, vomiting, or vision changes.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003798-8" qtype="when to contact a medical professional">Do I need to see a doctor for SVC obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop symptoms of SVC obstruction. Complications are serious and can sometimes be fatal.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003798-9" qtype="prevention">How to prevent SVC obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Prompt treatment of other medical disorders may reduce the risk of developing SVC obstruction.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

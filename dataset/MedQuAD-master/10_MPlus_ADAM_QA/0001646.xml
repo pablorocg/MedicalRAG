@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001646" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003140.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Frequent or urgent urination</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,23 +20,29 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001646-1" qtype="information">What is (are) Frequent or urgent urination ?</Question>
-			<Answer></Answer>
+			<Answer>Frequent urination means needing to urinate more often than usual. Urgent urination is a sudden, strong need to urinate. This causes a discomfort in your bladder. Urgent urination makes it difficult to delay using the toilet. A frequent need to urinate at night is called  nocturia . Most people can sleep for 6 to 8 hours without having to urinate.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001646-2" qtype="causes">What causes Frequent or urgent urination ?</Question>
-			<Answer></Answer>
+			<Answer>Common causes of these symptoms are: Urinary tract infection  (UTI),  Enlarged prostate  in middle-aged and older men, Swelling and infection of the urethra, Vaginitis (swelling or discharge of the vulva and vagina), Nerve related problems, Caffeine intake,  Less common causes include: Alcohol use, Anxiety,  Bladder cancer  (not common), Spine problems, Diabetes that is not well controlled, Pregnancy,  Interstitial cystitis , Medicines such as water pills (diuretics), Overactive bladder syndrome, Radiation therapy to the pelvis, which is used to treat certain cancers, Stroke and other brain or nervous system diseases, Tumor or growth in the pelvis, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001646-3" qtype="considerations">What to do for Frequent or urgent urination ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001646-4" qtype="when to contact a medical professional">Do I need to see a doctor for Frequent or urgent urination ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider right away if: 
+  You have fever, back or side pain, vomiting, or shaking chills
+  , 
+  You have increased thirst or appetite, fatigue, or sudden weight loss
+  ,  Also contact your provider if: 
+  You have urinary frequency or urgency, but you are not pregnant and you are not drinking large amounts of fluid.
+  , You have incontinence or you have changed your lifestyle because of your symptoms., You have bloody or cloudy urine., There is a discharge from the penis or vagina. , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001646-5" qtype="outlook">What is the outlook for Frequent or urgent urination ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

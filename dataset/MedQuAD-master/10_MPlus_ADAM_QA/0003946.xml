@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003946" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001465.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tinea versicolor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003946-1" qtype="information">What is (are) Tinea versicolor ?</Question>
-			<Answer></Answer>
+			<Answer>Tinea versicolor is a common fungal infection of the outer layer of the skin.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003946-2" qtype="causes">What causes Tinea versicolor ?</Question>
-			<Answer></Answer>
+			<Answer>Tinea versicolor is fairly common. It is caused by a type of fungus called  Malassezia . This fungus is normally found on human skin. It only causes a problem in certain settings. The condition is most common in adolescents and young adults. It typically occurs in warm and humid climates. It does not spread person to person.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003946-3" qtype="symptoms">What are the symptoms of Tinea versicolor ?</Question>
-			<Answer></Answer>
+			<Answer>The main symptom is  patches  of discolored skin that: Have sharp borders (edges) and fine scales, Are often&#160;lighter or darker than the surrounding skin, Are found on the back, underarms, upper arms, chest, and neck, Are found on the forehead (in children), Do not darken in the sun, so may appear lighter than the surrounding healthy skin ,  African Americans and other people of color may have a loss of skin color or an increase in skin color. Other symptoms include: Increased sweating,  Mild itching , Mild swelling , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003946-4" qtype="exams and tests">How to diagnose Tinea versicolor ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will examine a  skin scraping  under a microscope to look for the fungus. A  skin biopsy  may also be performed with a special stain called PAS to identify fungus and yeast.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003946-5" qtype="treatment">What are the treatments for Tinea versicolor ?</Question>
-			<Answer></Answer>
+			<Answer>The condition is treated with antifungal medicine that is either applied to the skin or taken by mouth.  Applying over-the-counter dandruff shampoo containing selenium sulfide or ketoconazole to the skin for 10 minutes each day in the shower is another treatment option.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003946-6" qtype="outlook">What is the outlook for Tinea versicolor ?</Question>
-			<Answer></Answer>
+			<Answer>Tinea versicolor is easy to treat. Changes in skin color&#160;may last for months. The condition may come back during warm weather.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003946-7" qtype="when to contact a medical professional">Do I need to see a doctor for Tinea versicolor ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop symptoms of tinea versicolor.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003946-8" qtype="prevention">How to prevent Tinea versicolor ?</Question>
-			<Answer></Answer>
+			<Answer>Avoid excessive heat or sweating if you have had this condition in the past. You can also use anti-dandruff shampoo on your skin&#160;every month to help prevent the problem. &#160; </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

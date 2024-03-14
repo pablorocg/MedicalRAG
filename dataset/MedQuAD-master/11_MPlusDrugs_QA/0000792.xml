@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000792" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a601159.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Metronidazole Injection</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,31 +7,33 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000792-1" qtype="important warning">What important warning or information should I know about Metronidazole Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Metronidazole injection can cause cancer in laboratory animals. Talk to your doctor about the risks and benefits of using this medication.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000792-2" qtype="other information">What other information should I know about Metronidazole Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Before having any laboratory test, tell your doctor and the laboratory personnel that you are receiving metronidazole injection. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000792-3" qtype="precautions">Are there safety concerns or special precautions about Metronidazole Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Before using metronidazole injection, tell your doctor and pharmacist if you are allergic to metronidazole, any other medications, or any of the ingredients in metronidazole injection. Ask your pharmacist for a list of the ingredients., tell your doctor if you are have taken or are taking disulfiram (Antabuse). Your doctor will probably tell you not to use metronidazole injection if you are taking this medication or have taken it within the last 2 weeks., tell your doctor and pharmacist what other prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take. Be sure to mention any of the following: anticoagulants ('blood thinners') such as warfarin (Coumadin, Jantoven), busulfan (Buselfex, Myleran), cimetidine (Tagamet), corticosteroids, lithium (Lithobid), phenobarbital, and phenytoin (Dilantin, Phenytek). Your doctor may need to change the doses of your medications or monitor you carefully for side effects. Many other medications may also interact with metronidazole injection, so be sure to tell your doctor about all the medications you are taking, even those that do not appear on this list., tell your doctor if you have or have ever had Crohn's disease (a condition in which the body attacks the lining of the digestive tract, causing pain, diarrhea, weight loss, and fever), a yeast infection, edema (fluid retention and swelling; excess fluid held in body tissues), or blood, kidney, or liver disease., remember not to drink alcoholic beverages or take products with alcohol or propylene glycol while receiving metronidazole injection and for at least 3 days after treatment is finished. Alcohol and propylene glycol may cause nausea, vomiting, stomach cramps, headache, sweating, and flushing (redness of the face) when taken during treatment with metronidazole injection., tell your doctor if you are pregnant, plan to become pregnant, or are breast-feeding. If you become pregnant while using metronidazole injection, call your doctor., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000792-5" qtype="side effects">What are the side effects or risks of Metronidazole Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Metronidazole injection may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ nausea, vomiting, loss of appetite, stomach pain and cramping, diarrhea, constipation, headache, irritability, depression, weakness, difficulty falling asleep or staying asleep, dry mouth; sharp, unpleasant metallic taste, furry tongue; mouth or tongue irritation, redness, pain, or swelling at the injection site,  Some side effects can be serious. If you experience any of these symptoms, stop using metronidazole injection and call your doctor immediately:
+ rash, itching, hives, skin blistering, peeling, or shedding in the area, flushing, seizures, numbness, pain, burning, or tingling in your hands or feet, fever, eye sensitivity to light, stiff neck, difficulty speaking, problems with coordination, confusion, fainting, dizziness,  Metronidazole injection may cause other side effects. Call your doctor if you have any unusual problems while using this medication. If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000792-6" qtype="storage and disposal">What should I know about storage and disposal of Metronidazole Injection ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000792-7" qtype="emergency or overdose">What to do in case of emergency or overdose of Metronidazole Injection ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000792-9" qtype="brand names">What are the brand names of Metronidazole Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Flagyl &#174;  I.V., Flagyl &#174;  I.V. RTU &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

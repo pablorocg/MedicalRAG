@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003650" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003060.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Sneezing</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,23 +19,26 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003650-1" qtype="information">What is (are) Sneezing ?</Question>
-			<Answer></Answer>
+			<Answer>A sneeze is a sudden, forceful, uncontrolled burst of air through the nose and mouth. 
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003650-2" qtype="causes">What causes Sneezing ?</Question>
-			<Answer></Answer>
+			<Answer>Sneezing is caused by irritation to the mucous membranes of the nose or throat. It can be very bothersome, but is rarely a sign of a serious problem. Sneezing can be due to: Allergy to pollen ( hay fever ), mold, dander, dust, Breathing in corticosteroids or other medicines (from certain nose sprays),  Common cold  or  the flu , 
+   Drug withdrawal
+   , Triggers such as dust, air pollution, dry air, spicy foods, strong emotions, certain medicines, and powders , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003650-3" qtype="considerations">What to do for Sneezing ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003650-4" qtype="when to contact a medical professional">Do I need to see a doctor for Sneezing ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care&#160;provider if sneezing is affecting your life and home remedies do not work.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003650-5" qtype="outlook">What is the outlook for Sneezing ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

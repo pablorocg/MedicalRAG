@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003817" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002293.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Symptomatic</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003817-1" qtype="information">Do you have information about Symptomatic</Question>
-			<Answer></Answer>
+			<Answer>Symptomatic can mean showing symptoms, or it may concern a specific symptom. Symptoms may be signs of disease or injury. They are what a person feels. Many conditions and diseases have symptoms. A cough can be symptomatic of an  upper respiratory infection . When a person has some symptoms associated with a disease or condition, they are considered symptomatic. When a disease exists without noticeable symptoms, the person is  asymptomatic .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000437" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000787.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bile acid sequestrants for cholesterol</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000437-1" qtype="information">Do you have information about Bile acid sequestrants for cholesterol</Question>
-			<Answer></Answer>
+			<Answer>Bile acid sequestrants are medicines that help lower your LDL (bad)  cholesterol . Too much cholesterol in your blood can stick to the walls of your arteries and narrow or block them. These medicines work by blocking bile acid in your stomach from being absorbed in your blood. Your liver then needs the cholesterol from your blood to make more bile acid. This reduces your cholesterol level. This medicine also may help people with type 2 diabetes manage their blood sugar.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

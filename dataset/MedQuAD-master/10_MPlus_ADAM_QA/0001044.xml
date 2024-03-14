@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001044" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000540.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cryoglobulinemia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001044-1" qtype="information">What is (are) Cryoglobulinemia ?</Question>
-			<Answer></Answer>
+			<Answer>Cryoglobulinemia is the presence of abnormal  proteins  in the blood. These proteins thicken in cold temperatures.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001044-2" qtype="causes">What causes Cryoglobulinemia ?</Question>
-			<Answer></Answer>
+			<Answer>Cryoglobulins are  antibodies . It is not yet known why they become solid or gel-like at low temperatures in the laboratory. In the body, these antibodies can form immune complexes that can cause inflammation and block blood vessels. This is called cryoglobulinemic vasculitis. This may lead to problems ranging from skin rashes to kidney failure. Cryoglobulinemia is part of a group of diseases that cause damage and inflammation of the blood vessels throughout the body (vasculitis). There are three main types of this condition. They are grouped based on the type of antibody that is produced: Type I, Type II, Type III,  Type I cryoglobulinemia is most often related to cancer of the blood or immune systems. Types II and III are also referred to as mixed cryoglobulinemia . Types II and III are most often found in people who have a long-lasting (chronic) inflammatory condition, such as an  autoimmune disease  or hepatitis C. Most people with the type II form of cryoglobulinemia have a chronic hepatitis C infection. Other conditions that may be related to cryoglobulinemia include: Leukemia, Multiple myeloma, Primary macroglobulinemia,  Rheumatoid arthritis ,  Systemic lupus erythematosus , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001044-3" qtype="symptoms">What are the symptoms of Cryoglobulinemia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms will vary, depending on the type of disorder you have and the organs that are involved. Symptoms may include: 
+   Breathing problems, Fatigue,  Glomerulonephritis  (kidney inflammation), Joint pain, Muscle pain,  Purpura ,  Raynaud phenomenon , Skin death, Skin ulcers, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001044-4" qtype="exams and tests">How to diagnose Cryoglobulinemia ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will do a physical exam. You will be checked for signs of liver and spleen swelling. Tests for cryoglobulinemia include: Complete blood count  (CBC).,  Complement assay  -- complement levels will be low.,  Cryoglobulin test  -- may show presence of cryoglobulins. (This is a complicated laboratory procedure that involves many steps. It is important that the lab that performs the test is familiar with the process.),  Liver function tests  -- may be high if hepatitis C is present.,  Rheumatoid factor  -- positive in types II and III., Skin  biopsy  -- may show inflammation in blood vessels, vasculitis.,  Protein electrophoresis - blood  -- may show an abnormal antibody protein., Urinalysis -- may show  blood in the urine  if the kidneys are affected. ,  Other tests may include: Angiogram , Chest x-ray,  ESR , Hepatitis C test, Nerve conduction tests, if the person has numbness or weakness in the arms or legs, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001044-5" qtype="treatment">What are the treatments for Cryoglobulinemia ?</Question>
-			<Answer></Answer>
+			<Answer>MIXED CRYOGLOBULINEMIA (TYPES II AND III) Mild or moderate forms of cryoglobulinemia can often be treated by taking steps to deal with the underlying cause. Current direct-acting medicines for hepatitis C eliminate the virus in nearly all people. As hepatitis C goes away, the cryoglobulins will disappear in about one half of all people over the next 12 months. Your provider will continue to monitor the cryoglobulins after treatment. Severe cryoglobulinemia vasculitis involves vital organs or large areas of skin. It is treated with corticosteroids and other medicines that suppress the immune system. Rituximab is an effective drug and has fewer risks than other medicines., Cyclophosphamide is used in life-threatening conditions where rituximab is not working or available. This medicine was used more often in the past., A treatment called plasmapheresis is also used. In this procedure, blood plasma is taken out of blood circulation and abnormal cryoglobulin antibody proteins are removed. The plasma is replaced by fluid, protein, or donated plasma.,  TYPE I CRYOGLOBULINEMIA This disorder is due to a cancer of the blood or immune system such as  multiple myeloma . Treatment is directed against the abnormal cancer cells that produce the cryoglobulin.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001044-6" qtype="outlook">What is the outlook for Cryoglobulinemia ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, mixed cryoglobulinemia does not lead to death. Outlook can be poor if the kidneys are affected.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001044-7" qtype="complications">What are the complications of Cryoglobulinemia ?</Question>
-			<Answer></Answer>
+			<Answer>Complications include: 
+   Bleeding in the digestive tract (rare), Heart disease (rare), Skin infections or ulcers, Kidney failure, Liver failure, Skin death, Death, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001044-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cryoglobulinemia ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: You develop symptoms of cryoglobulinemia., You have hepatitis C and develop symptoms of cryoglobulinemia., You have cryoglobulinemia and develop new or worsening symptoms. , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001044-9" qtype="prevention">How to prevent Cryoglobulinemia ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known prevention for the condition.  Staying away from cold temperatures may prevent some symptoms., Testing and treatment for hepatitis C infection will reduce your risk., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

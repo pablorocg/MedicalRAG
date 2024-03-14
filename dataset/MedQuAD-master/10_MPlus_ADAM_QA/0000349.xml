@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000349" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000480.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Atheroembolic renal disease</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,11 +22,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000349-1" qtype="information">What is (are) Atheroembolic renal disease ?</Question>
-			<Answer></Answer>
+			<Answer>Atheroembolic renal disease (AERD) occurs when small particles made of hardened cholesterol and fat spread to the small blood vessels of the kidneys.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000349-2" qtype="causes">What causes Atheroembolic renal disease ?</Question>
-			<Answer></Answer>
+			<Answer>AERD is linked to  atherosclerosis . Atherosclerosis is a common disorder of the arteries. It occurs when fat, cholesterol, and other substances build up in the walls of arteries and form a hard substance called plaque. In AERD, cholesterol crystals break off from the plaque lining the arteries. These crystals move into the bloodstream. Once in circulation, the crystals get stuck in tiny blood vessels called arterioles. There, they reduce blood flow to tissues and cause swelling (inflammation) and tissue damage that can harm the kidneys or other parts of the body.  Acute arterial occlusion  occurs when the large artery that supplies blood to the kidney suddenly becomes blocked. The kidneys are involved about half of the time that plaque fragments block blood flow to blood vessels. Other body parts that may be involved include the skin, eyes, muscles and bones, brain and nerves, and organs in the abdomen.  Acute kidney failure  is possible if the blockages of the kidney blood vessels are severe. Atherosclerosis of the aorta is the most common cause of AERD. The cholesterol crystals may also break off during  aortic angiography ,  cardiac catheterization , or surgery of the aorta or other major arteries. In some cases, AERD may occur without a known cause. The risk factors for AERD are the same as risk factors for atherosclerosis, including age, male sex, cigarette smoking, high blood pressure, high cholesterol and diabetes.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001370" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003332.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>ELISA</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001370-1" qtype="information">Do you have information about ELISA</Question>
-			<Answer></Answer>
+			<Answer>ELISA stands for enzyme-linked immunoassay. It is a commonly used laboratory test to detect  antibodies  in the blood. An antibody is a protein produced by the body's immune system when it detects harmful substances, called antigens.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

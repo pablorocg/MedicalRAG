@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000027" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/251.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Clove</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000027-1" qtype="information">What is Clove ?</Question>
-			<Answer></Answer>
+			<Answer>Clove (Syzygium aromaticum) is a tree native to Indonesia. Its dried flower buds are a popular spice and are also used in Chinese and Ayurvedic medicine.  
+
+Clove oils, dried flower buds, leaves, and stems are used to make medicine. Clove oil contains a chemical called eugenol that might help decrease pain and fight infections. Clove is also a popular ingredient in cigarettes.  
+
+People commonly use clove for toothache, pain during dental work, dental plaque, hangover, indigestion, and many other conditions, but there is no good scientific evidence to support these uses.
+ 
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000027-2" qtype="how effective is it">How effective is Clove ?</Question>
-			<Answer></Answer>
+			<Answer>There is interest in using clove for a number of purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000027-3" qtype="how does it work">What is the action of Clove and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000027-4" qtype="precautions">Are there safety concerns or special precautions about Clove ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000027-5" qtype="interactions with medications">Are there interactions between Clove and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Moderate Be cautious with this combination. Medications for diabetes (Antidiabetes drugs) Clove might lower blood sugar levels. Taking clove along with diabetes medications might cause blood sugar to drop too low. Monitor your blood sugar closely. Minor Be watchful with this combination. Ibuprofen (Advil, others) Adding ibuprofen to clove oil before applying it to the skin might increase how much ibuprofen gets absorbed through the skin, possibly increasing side effects. Medications that slow blood clotting (Anticoagulant / Antiplatelet drugs) Clove might slow blood clotting. Taking clove along with medications that also slow blood clotting might increase the risk of bruising and bleeding.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000027-6" qtype="interactions with herbs and supplements">Are there interactions between Clove and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>Herbs and supplements that might lower blood sugar Clove might lower blood sugar. Taking it with other supplements with similar effects might lower blood sugar too much. Examples of supplements with this effect include aloe, bitter melon, cassia cinnamon, chromium, and prickly pear cactus. Herbs and supplements that might slow blood clotting Clove might slow blood clotting and increase the risk of bleeding. Taking it with other supplements with similar effects might increase the risk of bleeding in some people. Examples of supplements with this effect include garlic, ginger, ginkgo, nattokinase, and Panax ginseng.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000027-7" qtype="interactions with foods">Are there interactions between Clove and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000027-8" qtype="dose">What is the dosage of Clove ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

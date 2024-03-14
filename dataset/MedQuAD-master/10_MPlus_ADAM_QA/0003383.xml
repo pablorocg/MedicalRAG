@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003383" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001564.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Respiratory syncytial virus (RSV)</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,50 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003383-1" qtype="information">What is (are) Respiratory syncytial virus (RSV) ?</Question>
-			<Answer></Answer>
+			<Answer>Respiratory syncytial virus (RSV) is a very common virus that leads to mild, cold-like symptoms in adults and older healthy children. It can be more serious in young babies, especially those in certain high-risk groups.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003383-2" qtype="causes">What causes Respiratory syncytial virus (RSV) ?</Question>
-			<Answer></Answer>
+			<Answer>RSV is the most common germ that causes lung and airway infections in infants and young children. Most infants have had this infection by age 2. Outbreaks of RSV infections most often begin in the fall and run into the spring. The infection can occur in people of all ages. The virus spreads through tiny droplets that go into the air when a sick person blows their nose, coughs, or sneezes. You can catch RSV if: A person with RSV sneezes, coughs, or blows their nose near you., You touch, kiss, or shake hands with someone who is infected by the virus., You touch your nose, eyes, or mouth after you have touched something contaminated by the virus, such as a toy or doorknob. ,  RSV often spreads quickly in crowded households and day care centers. The virus can live for a half an hour or more on hands. The virus can also live for up to 5 hours on countertops and for several hours on used tissues. The following increase the risk for RSV: 
+  Attending day care
+  , 
+  Being near tobacco smoke
+  , 
+  
+  Having school-aged brothers or sisters
+  
+  , 
+  Living in crowded conditions
+  , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003383-3" qtype="symptoms">What are the symptoms of Respiratory syncytial virus (RSV) ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms can vary and differ with age: They usually appear 2 to 8 days after coming in contact with the virus., Older children most often have only mild, cold-like symptoms, such as a  barking cough ,  stuffy nose , or low-grade  fever . ,  Infants under age 1 year may have more severe symptoms and often have the most trouble breathing: Bluish skin color due to a lack of oxygen ( cyanosis ) in more severe cases,  Breathing difficulty  or labored breathing,  Nasal flaring ,  Rapid breathing  (tachypnea), Shortness of breath, 
+ Whistling sound ( wheezing ), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003383-4" qtype="exams and tests">How to diagnose Respiratory syncytial virus (RSV) ?</Question>
-			<Answer></Answer>
+			<Answer>Many hospitals and clinics can rapidly test for RSV using a sample of fluid taken from the nose with a cotton swab.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003383-5" qtype="treatment">What are the treatments for Respiratory syncytial virus (RSV) ?</Question>
-			<Answer></Answer>
+			<Answer>Antibiotics and bronchodilators are not used to treat RSV. Mild infections go away without treatment. Infants and children with a severe RSV infection may be admitted to the hospital. Treatment will include: Supplemental oxygen, Moist (humidified) air, Suctioning of nasal secretions, Fluids through a vein (by IV) ,  A breathing machine (ventilator) may be needed.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003383-6" qtype="outlook">What is the outlook for Respiratory syncytial virus (RSV) ?</Question>
-			<Answer></Answer>
+			<Answer>More severe RSV disease may occur in the following infants: Premature infants, Infants with chronic lung disease, Infants whose immune system does not work well, Infants with certain forms of heart disease ,  Rarely, RSV infection can cause death in infants. However, this is unlikely if the child is seen by a health care provider in the early stages of the disease. Children who have had RSV bronchiolitis may be more likely to develop asthma.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003383-7" qtype="complications">What are the complications of Respiratory syncytial virus (RSV) ?</Question>
-			<Answer></Answer>
+			<Answer>In young children, RSV can cause: Bronchiolitis, Lung failure,  Pneumonia , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003383-8" qtype="when to contact a medical professional">Do I need to see a doctor for Respiratory syncytial virus (RSV) ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider right away if you or your child have: Bluish skin color, Difficulty breathing, High fever, Shortness of breath,  Any breathing problems in an infant are an emergency. Seek medical help right away.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003383-9" qtype="prevention">How to prevent Respiratory syncytial virus (RSV) ?</Question>
-			<Answer></Answer>
+			<Answer>To help prevent RSV infection, wash your hands often, especially before touching your baby. Make certain that other people, especially caregivers, take steps to avoid giving RSV to your baby. The following simple steps can help protect your baby from getting sick: Insist that others wash their hands with warm water and soap before touching your baby., Have others avoid contact with your baby if they have a cold or fever. If necessary, have them wear a mask., Be aware that kissing your baby can spread RSV infection., Try to keep young children away from your baby. RSV is very common among young children and easily spreads from child to child., Do not smoke inside your house, car, or anywhere near your baby. Exposure to tobacco smoke increases the risk for RSV illness. ,  Parents of high-risk young infants should avoid crowds during outbreaks of RSV. Moderate-to-large outbreaks are often reported by local news sources to provide parents with an opportunity to avoid exposure. The drug Synagis (palivizumab) is approved for the prevention of RSV disease in children younger than 24 months who are at high risk for serious RSV disease. Ask your provider if your child should receive this medicine.&#160;At this time, there is no RSV vaccine that can be given to children to protect them from RSV, but research is ongoing. As recommended by the Centers for Disease Control and Prevention, adults age 60 and older may want to talk with their provider about receiving the  RSV vaccine . The RSV vaccine can prevent lower respiratory tract disease caused by the RSV virus.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

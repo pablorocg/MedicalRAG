@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000272" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002224.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Antigen</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000272-1" qtype="information">Do you have information about Antigen</Question>
-			<Answer></Answer>
+			<Answer>An antigen is any substance that causes your immune system to produce  antibodies  against it. This means your immune system does not recognize the substance, and is trying to fight it off. An antigen may be a substance from the environment, such as chemicals, bacteria, viruses, or pollen. An antigen may also form inside the body.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

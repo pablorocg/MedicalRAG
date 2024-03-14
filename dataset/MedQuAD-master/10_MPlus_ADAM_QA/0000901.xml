@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000901" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001223.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Collagen vascular disease</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000901-1" qtype="information">What is (are) Collagen vascular disease ?</Question>
-			<Answer></Answer>
+			<Answer>In a class of diseases known as  autoimmune disorders , the body's immune system attacks its own tissues. Some of these diseases are similar to each other. They may involve arthritis and inflammation of arteries in the tissues. People who developed these disorders were previously said to have "connective tissue" or "collagen vascular" disease. We now have names for many specific conditions such as: Ankylosing spondylitis ,  Dermatomyositis ,  Polyarteritis nodosa , Polymyositis,  Psoriatic arthritis ,  Rheumatoid arthritis ,  Scleroderma ,  Systemic lupus erythematosus , Mixed connective tissue disease, Relapsing polychondritis, Vasculitis,  When a specific disease cannot be diagnosed, more general terms may be used. These are called undifferentiated systemic rheumatic (connective tissue) diseases or overlap syndromes. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

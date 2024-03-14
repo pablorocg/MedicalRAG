@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004315" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001116.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Williams syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,43 +20,43 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004315-1" qtype="information">What is (are) Williams syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Williams syndrome is a rare disorder that can lead to problems with development.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004315-2" qtype="causes">What causes Williams syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Williams syndrome is caused by not having a copy of 25 to 27 genes on chromosome number 7. In most cases, the gene changes (mutations) occur on their own, either in the sperm or egg that a baby develops from., However, once someone carries the genetic change, their children have a 50% chance of inheriting it.,  One of the missing genes is the gene that produces elastin. This is a protein that allows blood vessels and other tissues in the body to stretch. It is likely that missing a copy of this gene results in the narrowing of blood vessels, stretchy skin, and flexible joints seen in this condition.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004315-3" qtype="symptoms">What are the symptoms of Williams syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of Williams syndrome are: Feeding problems, including colic,  reflux , and vomiting, Inward bend of the small finger , Sunken chest, Heart disease or blood vessel problems , Developmental delay, mild to moderate intellectual disability, learning disorders, Delayed speech that may later turn into strong speaking ability and strong learning by hearing , Easily distracted,  attention deficit hyperactivity disorder  (ADHD), Personality traits including being very friendly, trusting strangers, fearing loud sounds or physical contact, and being interested in music, Short, compared to the rest of the person's family,  The face and mouth of someone with Williams syndrome may show: A  flattened nasal bridge  with small upturned nose, Long ridges in the skin that run from the nose to the upper lip, Prominent lips with an open mouth, Skin that covers the inner corner of the eye, Partially missing teeth, defective tooth enamel, or small, widely spaced teeth , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004315-4" qtype="exams and tests">How to diagnose Williams syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Signs include: Narrowing of some blood vessels,  Farsightedness , Dental problems, such as teeth that are widely spaced, High blood calcium level that may cause seizures and rigid muscles,  High blood pressure , Loose joints that may change to stiffness as the person gets older, Unusual star-like pattern in iris of the eye,  Tests for Williams syndrome include: Blood pressure check, Genetic testing, such as a blood test for a missing piece of chromosome 7 (FISH test or microarray), Urine and blood tests for calcium level,  Echocardiography  combined with Doppler ultrasound, Kidney ultrasound, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004315-5" qtype="treatment">What are the treatments for Williams syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>There is no cure for Williams syndrome. Avoid taking extra calcium and vitamin D. Treat high blood calcium if it occurs. Blood vessel narrowing can be a major health problem. Treatment is based on how severe it is. Physical therapy is helpful for people with joint stiffness. Developmental and speech therapy can also help. For example, having strong verbal skills can help make up for other weaknesses. Other treatments are based on the person's symptoms. It can help to have treatment coordinated by a geneticist who is experienced with Williams syndrome.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004315-6" qtype="support groups">Where to find support for people with Williams syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>More information and support for people with Williams syndrome and their families can be found at: Williams Syndrome Association --  williams-syndrome.org</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004315-7" qtype="outlook">What is the outlook for Williams syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Most people with Williams syndrome: Have some intellectual disability., Will not live as long as normal due to the various medical issues and other possible complications., Require full-time caregivers and often live in supervised group homes., </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004315-8" qtype="complications">What are the complications of Williams syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Calcium deposits in the kidney and other kidney problems, Death (in rare cases from anesthesia), Heart failure due to narrowed blood vessels, Pain in the abdomen , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0004315-9" qtype="when to contact a medical professional">Do I need to see a doctor for Williams syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Many of the symptoms and signs of Williams syndrome may not be obvious at birth. Contact your health care provider if your child has features similar to those of Williams syndrome. Seek genetic counseling if you have a family history of Williams syndrome.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0004315-10" qtype="prevention">How to prevent Williams syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known way to prevent the genetic problem that causes Williams syndrome. Prenatal testing is available for couples with a family history of Williams syndrome who wish to conceive.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

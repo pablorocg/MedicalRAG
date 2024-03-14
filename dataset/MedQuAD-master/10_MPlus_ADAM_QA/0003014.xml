@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003014" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003872.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pericardiocentesis</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003014-1" qtype="information">Do you have information about Pericardiocentesis</Question>
-			<Answer></Answer>
+			<Answer>Pericardiocentesis is a procedure that uses a needle to remove fluid from the pericardial sac. This is the tissue that surrounds the heart.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

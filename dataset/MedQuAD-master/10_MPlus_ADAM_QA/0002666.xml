@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002666" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003454.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Mononucleosis spot test</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,11 +23,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002666-1" qtype="information">What is (are) Mononucleosis spot test ?</Question>
-			<Answer></Answer>
+			<Answer>The mononucleosis spot test looks for 2  antibodies  in the blood. These antibodies appear during or after an infection with the virus that causes mononucleosis, or mono.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002666-8" qtype="susceptibility">Who is at risk for Mononucleosis spot test? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

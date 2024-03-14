@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002842" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001048.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Occupational hearing loss</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,36 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002842-1" qtype="information">What is (are) Occupational hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>Occupational hearing loss is damage to the inner ear from noise or vibrations due to certain types of jobs.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002842-2" qtype="causes">What causes Occupational hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>Over time, repeated exposure to loud noise or music can cause hearing loss.  Watch this video about: Hearing and the cochlea Sounds above 80 decibels (dB, a measurement of the loudness or strength of sound vibration) may cause vibrations intense enough to damage the inner ear. This is more likely to happen if the sound continues for a long time. 90 dB -- a large truck 5 yards (4.5 meters) away (motorcycles, snowmobiles, and similar engines range from 85 to 90 dB), 100 dB -- some rock concerts, 120 dB -- a jackhammer about 3 feet (1 meter) away, 130 dB -- a jet engine from 100 feet (30 meters) away ,  A general rule of thumb is that if you need to shout to be heard, the sound is in the range that can damage hearing. Some jobs carry a high risk for  hearing loss , such as: Airline ground maintenance, Construction, Farming, Jobs involving loud music or machinery, Military jobs that involve combat, aircraft noise, or other loud noise posts ,  In the United States, laws regulate the maximum job noise exposure that it is allowed. Both the length of exposure and decibel level are considered. If the sound is at or greater than the maximum levels recommended, you need to take steps to protect your hearing. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002842-3" qtype="symptoms">What are the symptoms of Occupational hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>The main symptom is partial or complete hearing loss. The hearing loss will likely get worse over time with continued exposure. Noise in the ear ( tinnitus ) may accompany hearing loss.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002842-4" qtype="exams and tests">How to diagnose Occupational hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>A physical exam will not show any specific changes in most cases. Tests that may be done include: Audiology/audiometry ,  CT scan of the head , MRI of the brain , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002842-5" qtype="treatment">What are the treatments for Occupational hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>The hearing loss is very often permanent. The goals of treatment are to: Prevent further hearing loss, Improve communication with any remaining hearing, Develop coping skills (such as lip reading) ,  You may need to  learn to live with hearing loss . There are techniques you can learn to improve communication and avoid stress. Many things in your surroundings can affect how well you hear and understand what others are saying. Using a hearing aid may help you understand speech. You can also use  other devices  to help with hearing loss. If the hearing loss is severe enough, a  cochlear implant  may help. Protecting your ears from any further damage and hearing loss is a key part of treatment. Protect your ears when you are exposed to loud noises. Wear ear plugs or earmuffs to protect against damage from loud equipment. Be aware of risks connected with recreation such as shooting a gun, driving snowmobiles, or other similar activities. Learn how to protect your ears when listening to music at home or concerts.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002842-6" qtype="outlook">What is the outlook for Occupational hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>Hearing loss is often permanent. The loss may get worse if you don't take measures to prevent further damage.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002842-7" qtype="when to contact a medical professional">Do I need to see a doctor for Occupational hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if: 
+   You have hearing loss, The hearing loss gets worse, You develop other new symptoms, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002842-8" qtype="prevention">How to prevent Occupational hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>The following steps can help prevent hearing loss. Protect your ears when you are exposed to loud noises. Wear proper protective ear plugs or earmuffs when you are around loud equipment., Be aware of the risks to hearing from recreational activities such as shooting a gun or driving snowmobiles., DO NOT listen to loud music for long periods of time, including using headphones. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

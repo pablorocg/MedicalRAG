@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000337" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000005.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Asthma - control drugs</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000337-1" qtype="information">What is (are) Asthma - control drugs ?</Question>
-			<Answer></Answer>
+			<Answer>Control medicines for  asthma  are drugs you take to control your asthma symptoms. You must use these medicines every day for them to work well. You and your health care provider can make a plan for the medicines that work for you. This plan will include when you should take them and how much you should take. You may need to take these medicines for at least a month before you start to feel the full effects. Take the medicines even when you feel OK. Take enough with you when you travel. Plan ahead. Make sure you do not run out.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

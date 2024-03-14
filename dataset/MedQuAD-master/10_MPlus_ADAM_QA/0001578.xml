@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001578" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003407.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Fetal-maternal erythrocyte distribution</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001578-1" qtype="information">Do you have information about Fetal-maternal erythrocyte distribution</Question>
-			<Answer></Answer>
+			<Answer>The fetal-maternal erythrocyte distribution test is used to measure the number of the unborn baby's red blood cells in a pregnant woman's blood.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

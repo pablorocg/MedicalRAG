@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003514" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001546.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Selective mutism</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,39 +17,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003514-1" qtype="information">What is (are) Selective mutism ?</Question>
-			<Answer></Answer>
+			<Answer>Selective mutism is a condition in which a child can speak, but then suddenly stops speaking. It most often takes place in school or social settings.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003514-2" qtype="causes">What causes Selective mutism ?</Question>
-			<Answer></Answer>
+			<Answer>Selective mutism is most common in children under age 5. The cause, or causes, are unknown. Most experts believe that children with the condition inherit a tendency to be anxious and inhibited. Most children with selective mutism have some form of extreme social fear ( phobia ). Parents often think that the child is choosing not to speak. However in most cases, the child is truly unable to speak in certain settings. Some affected children have a family history of selective mutism, extreme shyness, or anxiety disorders, which may increase their risk for similar problems.  This syndrome is not the same as mutism. In selective mutism, the child can understand and speak, but is unable to speak in certain settings or environments. Children with mutism never speak.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003514-3" qtype="symptoms">What are the symptoms of Selective mutism ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Ability to speak at home with family, Fear or anxiety around people they do not know well, Inability to speak in certain social situations, Shyness ,  This pattern must be seen for at least 1 month to be called selective mutism. (The first month of school does not count, because shyness is common during this period.)</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003514-4" qtype="exams and tests">How to diagnose Selective mutism ?</Question>
-			<Answer></Answer>
+			<Answer>There is no test for selective mutism. Diagnosis is based on the person's history of symptoms. Teachers and counselors should consider cultural issues, such as recently moving to a new country and speaking another language. Children who are uncertain about speaking a new language may not want to use it outside of a familiar setting. This is not selective mutism. The person's history of mutism should also be considered. People who have been through trauma may show some of the same symptoms seen in selective mutism.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003514-5" qtype="treatment">What are the treatments for Selective mutism ?</Question>
-			<Answer></Answer>
+			<Answer>Treating selective mutism involves behavior changes. The child's family and school should be involved. Certain medicines that treat anxiety and social phobia have been used safely and successfully.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003514-6" qtype="support groups">Where to find support for people with Selective mutism ?</Question>
-			<Answer></Answer>
+			<Answer>You can find information and resources through  selective mutism support groups .</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003514-7" qtype="outlook">What is the outlook for Selective mutism ?</Question>
-			<Answer></Answer>
+			<Answer>Children with this syndrome can have different outcomes. Some may need to continue therapy for shyness and social anxiety into the teenage years, and possibly into adulthood.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003514-8" qtype="complications">What are the complications of Selective mutism ?</Question>
-			<Answer></Answer>
+			<Answer>Selective mutism can affect the child's ability to function in school or social settings. Without treatment, symptoms may get worse.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003514-9" qtype="when to contact a medical professional">Do I need to see a doctor for Selective mutism ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if your child has symptoms of selective mutism, and it is affecting school and social activities.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

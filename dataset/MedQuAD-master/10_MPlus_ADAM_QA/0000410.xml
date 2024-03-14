@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000410" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000581.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bed rest during pregnancy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000410-1" qtype="information">Do you have information about Bed rest during pregnancy</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider may order you to stay in bed for a few days or weeks. This is called bed rest. Bed rest used to be recommended routinely for a number of pregnancy problems, including: High blood pressure, Premature or preterm changes in the cervix, Problems with the placenta, Vaginal bleeding, Early labor, More than one baby, History of early birth or miscarriage, Baby is not growing well, Baby has medical problems,  Now, though, most providers have stopped recommending bed rest except in rare circumstances. The reason is that studies have not shown that being on bed rest can prevent  preterm birth  or other pregnancy problems. And some complications may also occur due to bed rest. If your provider recommends bed rest, discuss the pros and cons carefully with them.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

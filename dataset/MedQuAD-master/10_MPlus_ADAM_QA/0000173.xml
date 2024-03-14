@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000173" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002189.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>ALS - resources</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000173-1" qtype="information">Do you have information about ALS - resources</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on  amyotrophic lateral sclerosis : Muscular Dystrophy Association --  www.mda.org/disease/amyotrophic-lateral-sclerosis , National Amyotrophic Lateral Sclerosis (ALS) Registry --  www.cdc.gov/als/ , National Institute of Neurological Disorders and Stroke --  www.ninds.nih.gov/health-information/disorders/amyotrophic-lateral-sclerosis-als , ALS Association --  www.als.org/ , US National Library of Medicine, MedlinePlus --  medlineplus.gov/genetics/condition/amyotrophic-lateral-sclerosis/ , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

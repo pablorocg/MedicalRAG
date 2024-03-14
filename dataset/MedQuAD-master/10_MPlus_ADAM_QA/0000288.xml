@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000288" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000178.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Aortic stenosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,31 +21,32 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000288-1" qtype="information">What is (are) Aortic stenosis ?</Question>
-			<Answer></Answer>
+			<Answer>The aorta is the main artery that carries blood out of the heart to the rest of the body. Blood flows out of the heart and into the aorta through the aortic valve. In aortic stenosis, the aortic valve does not open fully. This decreases blood flow from the heart.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000288-2" qtype="causes">What causes Aortic stenosis ?</Question>
-			<Answer></Answer>
+			<Answer>As the aortic valve narrows, the left ventricle has to work harder to pump blood out through the valve. To do this extra work, the muscles in the ventricle walls become thicker. This can lead to chest pain. As the pressure continues to rise, blood may back up into the lungs. Severe aortic stenosis can limit the amount of blood that reaches the brain and the rest of the body. Aortic stenosis may be present from birth (congenital), but most often it develops later in life. Children with aortic stenosis may have other conditions present from birth. Aortic stenosis mainly occurs due to the buildup of calcium deposits that narrow the valve. This is called calcific aortic stenosis. The problem mostly affects older people. Calcium buildup of the valve happens sooner in people who are born with abnormal aortic or bicuspid valves. In rare cases, calcium buildup can develop more quickly when a person has received chest radiation (such as for cancer treatment). Another cause is rheumatic fever. This condition can develop after strep throat or scarlet fever. Valve problems do not develop for 5 to 10 years or longer after rheumatic fever occurs. Rheumatic fever is becoming rarer in the United States. Aortic stenosis occurs in about 2% of people over 65 years of age. It occurs more often in men than in women.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000288-3" qtype="symptoms">What are the symptoms of Aortic stenosis ?</Question>
-			<Answer></Answer>
+			<Answer>Most people with aortic stenosis do not develop symptoms until the disease is advanced. The diagnosis may have been made when the health care provider heard a heart murmur and performed tests. Symptoms of aortic stenosis include: Chest discomfort: The chest pain may get worse with activity and reach into the arm, neck, or jaw. The chest may also feel tight or squeezed.
+, Cough, possibly bloody., Breathing problems when exercising., Becoming easily tired., Feeling the heartbeat (palpitations)., Fainting, weakness, or dizziness with activity.,  In infants and children, symptoms include: Becoming easily tired with exertion (in mild cases), Failure to gain weight, Poor feeding, Serious breathing problems that develop within days or weeks of birth (in severe cases),  Children with mild or moderate aortic stenosis may get worse as they get older. They are also at risk for a heart infection called bacterial endocarditis.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000288-4" qtype="exams and tests">How to diagnose Aortic stenosis ?</Question>
-			<Answer></Answer>
+			<Answer>A heart murmur, click, or other abnormal sound is almost always heard through a stethoscope. The provider may be able to feel a vibration or movement when placing a hand over the heart. There may be a faint pulse or changes in the quality of the pulse in the neck. Blood pressure may be low. Aortic stenosis is most often detected and then followed using a test called a transthoracic echocardiogram (TTE). The following tests may also be performed: ECG, Exercise stress testing, Left cardiac catheterization, MRI of the heart, Transesophageal echocardiogram (TEE), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000288-5" qtype="treatment">What are the treatments for Aortic stenosis ?</Question>
-			<Answer></Answer>
+			<Answer>Regular checkups by a provider may be all that is needed if your symptoms are not severe. The provider should ask about your health history, do a physical exam, and perform an echocardiogram. People with severe aortic stenosis may be told not to play competitive sports, even if they have no symptoms. If symptoms do occur, strenuous activity must often be limited. Medicines are used to treat symptoms of  heart failure  or abnormal heart rhythms (most commonly atrial fibrillation). These include diuretics (water pills), nitrates, and beta-blockers. High blood pressure should also be treated. If aortic stenosis is severe, this treatment must be done carefully so blood pressure does not drop too far. In the past, most people with heart valve problems were given antibiotics before dental work or a procedure such as colonoscopy. The antibiotics were given to prevent an infection of the damaged heart. However, antibiotics are now used much less often before dental work and other procedures. Check with your provider to find out whether you need antibiotics. People with this and other heart conditions should stop smoking and be tested for high cholesterol. Surgery to repair or replace the valve  is often done for adults or children who develop symptoms. Even if symptoms are not very bad, the doctor may recommend surgery based on test results. A less invasive procedure called balloon valvuloplasty may be done instead of or before surgery. A balloon is placed into an artery in the groin, threaded to the heart, placed across the valve, and inflated. However, narrowing often occurs again after this procedure., A newer procedure done at the same time as valvuloplasty can implant an artificial valve (transcatheter aortic valve replacement or TAVR). This procedure is most often done in patients who cannot have surgery, but it is becoming more common.,  Some children may need aortic valve repair or replacement. Children with mild aortic stenosis may be able to take part in most activities.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000288-6" qtype="outlook">What is the outlook for Aortic stenosis ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome varies. The disorder may be mild and not produce symptoms. Over time, the aortic valve may become narrower. This may result in more severe heart problems such as: Atrial fibrillation and atrial flutter, Blood clots to the brain (stroke), intestines, kidneys, or other areas, Fainting spells (syncope), Heart failure, High blood pressure in the arteries of the lungs (pulmonary hypertension),  The results of aortic valve replacement are often excellent. To get the best treatment, go to a center that regularly performs this type of surgery.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000288-7" qtype="when to contact a medical professional">Do I need to see a doctor for Aortic stenosis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you or your child has symptoms of aortic stenosis. Also contact your doctor right away if you have been diagnosed with this condition and your symptoms get worse or new symptoms develop.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

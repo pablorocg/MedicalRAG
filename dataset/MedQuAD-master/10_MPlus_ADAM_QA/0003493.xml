@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003493" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000355.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Screen time and children</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003493-1" qtype="information">Do you have information about Screen time and children</Question>
-			<Answer></Answer>
+			<Answer>"Screen time" is a term used for activities done in front of a screen, such as watching TV, working on a computer, or playing video games. Screen time is a sedentary activity, meaning you are being physically inactive while sitting down. Very little energy is used during screen time. Most American children spend about 3 hours a day watching TV. Added together, all types of screen time can total 5 to 7 hours a day. Too much screen time can: Make it hard for your child to sleep at night, Raise your child's risk for attention problems, anxiety, and depression, Raise your child's risk for gaining too much weight ( obesity ) ,  Screen time increases your child's risk for  obesity  because: Sitting and watching a screen is time that is not spent being physically active., TV commercials and other screen ads can lead to  unhealthy food choices . Most of the time, the foods in ads that are aimed at kids are high in sugar, salt, or fats., Children eat more when they are watching TV, especially if they see ads for food. ,  Computers can help kids with their schoolwork. But surfing the internet, spending too much time on Facebook, or watching YouTube videos is considered unhealthy screen time.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

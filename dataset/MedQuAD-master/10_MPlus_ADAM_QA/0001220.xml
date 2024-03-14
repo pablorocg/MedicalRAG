@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001220" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000206.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Diet - full liquid</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001220-1" qtype="information">What is (are) Diet - full liquid ?</Question>
-			<Answer></Answer>
+			<Answer>A full liquid diet is made up only of fluids and foods that are normally liquid and foods that turn to liquid when they are at room temperature, like ice cream. It also includes: Strained creamy soups, Tea, Juice, Jell-O, Milkshakes, Pudding, Popsicles ,  You cannot eat solid foods when you are on a full liquid diet.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

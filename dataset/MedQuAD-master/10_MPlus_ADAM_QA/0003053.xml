@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003053" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001254.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Petrositis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003053-1" qtype="information">What is (are) Petrositis ?</Question>
-			<Answer></Answer>
+			<Answer>Petrositis most often refers to infection of the petrous portion of the temporal bone, the bone in the skull that surrounds the ear. This infection goes deep to the inner ear and can be a serious problem. It is sometimes associated with  otitis media  (a middle ear infection).</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

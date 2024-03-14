@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003881" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002334.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Testes</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003881-1" qtype="information">Do you have information about Testes</Question>
-			<Answer></Answer>
+			<Answer>The testes are 2 egg-shaped male reproductive organs located in the  scrotum . They produce sperm and the male hormone,  testosterone . Watch this video about: Sperm release pathway</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

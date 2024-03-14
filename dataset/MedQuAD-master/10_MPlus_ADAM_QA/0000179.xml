@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000179" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000508.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Am I in labor?</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000179-1" qtype="information">Do you have information about Am I in labor?</Question>
-			<Answer></Answer>
+			<Answer>If you have never given birth before, you may think you will just know when the time comes. In reality, it is not always easy to know when you are going into labor. The steps leading up to labor can drag on for days. Keep in mind that your due date is just a general idea of when your labor may start. Normal term labor can start any time between 3 weeks before and 2 weeks after this date.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

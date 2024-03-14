@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002512" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001316.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Malignant teratoma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002512-1" qtype="information">What is (are) Malignant teratoma ?</Question>
-			<Answer></Answer>
+			<Answer>A teratoma is a type of cancer that contains one or more of the three layers of cells found in a developing baby (embryo). These cells are called germ cells. A teratoma is one type of germ cell tumor. The mediastinum is located inside the front of the chest in the area that separates the lungs. The heart, large blood vessels, windpipe, thymus gland, lymph nodes and esophagus are found there.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002512-2" qtype="causes">What causes Malignant teratoma ?</Question>
-			<Answer></Answer>
+			<Answer>Malignant mediastinal teratoma occurs most often in young men in their 20s or 30s. Most malignant teratomas can spread throughout the body, and have spread by the time of diagnosis. Blood cancers are often associated with this tumor, including: Acute myelogenous leukemia (AML) , Myelodysplastic syndromes (group of bone marrow disorders), </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002512-3" qtype="symptoms">What are the symptoms of Malignant teratoma ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Chest pain or pressure, Cough, Fatigue, Limited ability to tolerate exercise, Shortness of breath, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002512-4" qtype="exams and tests">How to diagnose Malignant teratoma ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam and ask about the symptoms. The exam may reveal a blockage of the veins entering the center of the chest due to increased pressure in the chest area. The following tests help diagnose the tumor: Chest x-ray,  CT ,  MRI , or&#160; PET  scans of the chest, abdomen, and pelvis, Nuclear imaging, Blood tests to check  beta-HCG ,  alpha fetoprotein  (AFP), and  lactate dehydrogenase (LDH)  levels,  Mediastinoscopy with biopsy , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002512-5" qtype="treatment">What are the treatments for Malignant teratoma ?</Question>
-			<Answer></Answer>
+			<Answer>Surgical removal is the mainstay of treatment. Chemotherapy  is used to treat the immature teratoma. A combination of medicines (usually cisplatin, etoposide, and ifosfamide) is commonly used. After chemotherapy is complete, CT scans are taken again to see if any of the tumor remains. Surgery may be recommended if there is a risk that the cancer will grow back in that area or if any cancer has been left behind.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002512-6" qtype="support groups">Where to find support for people with Malignant teratoma ?</Question>
-			<Answer></Answer>
+			<Answer>There are many support groups available for people with  cancer .</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002512-7" qtype="outlook">What is the outlook for Malignant teratoma ?</Question>
-			<Answer></Answer>
+			<Answer>The outlook depends on the tumor size and location and the age of the patient.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002512-8" qtype="complications">What are the complications of Malignant teratoma ?</Question>
-			<Answer></Answer>
+			<Answer>The cancer can spread throughout the body and there may be complications of surgery or related to chemotherapy.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002512-9" qtype="when to contact a medical professional">Do I need to see a doctor for Malignant teratoma ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have symptoms of malignant teratoma.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003686" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000286.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Spleen removal - laparoscopic - adults - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003686-1" qtype="information">Do you have information about Spleen removal - laparoscopic - adults - discharge</Question>
-			<Answer></Answer>
+			<Answer>You had surgery to remove your spleen. This operation is called  splenectomy . Now that you're going home, follow your surgeon's or health care provider's instructions on how to care for yourself while you heal.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

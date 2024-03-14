@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000469" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000068.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bland diet</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000469-1" qtype="information">What is (are) Bland diet ?</Question>
-			<Answer></Answer>
+			<Answer>A bland diet can be used alongside lifestyle changes to help address the symptoms of ulcers, heartburn,  GERD , nausea, and vomiting. You may also need a bland diet after stomach or intestinal surgery.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

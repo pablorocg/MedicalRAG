@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002900" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001163.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ovarian hypofunction</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,27 +21,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002900-1" qtype="information">What is (are) Ovarian hypofunction ?</Question>
-			<Answer></Answer>
+			<Answer>Premature ovarian failure is reduced function of the ovaries (including decreased production of hormones). Ovarian failure that occurs before the age of 40 is considered premature ovarian failure.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002900-2" qtype="causes">What causes Ovarian hypofunction ?</Question>
-			<Answer></Answer>
+			<Answer>Premature ovarian failure may be caused by genetic factors such as chromosome abnormalities. It may also occur with certain autoimmune disorders that disrupt the normal function of the ovaries. Most often there is no obvious cause, although a family history of the condition may play a role. Chemotherapy and radiation therapy can also cause premature ovarian failure.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002900-3" qtype="symptoms">What are the symptoms of Ovarian hypofunction ?</Question>
-			<Answer></Answer>
+			<Answer>Women with premature ovarian failure may develop symptoms of menopause, which include:  Hot flashes, Irregular or absent periods, Mood swings, Night sweats, Vaginal dryness ,  This condition may also make it hard for a woman to become pregnant.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002900-4" qtype="exams and tests">How to diagnose Ovarian hypofunction ?</Question>
-			<Answer></Answer>
+			<Answer>A blood test will be done to check your level of follicle-stimulating hormone, or  FSH . FSH levels are higher than normal in women with premature ovarian failure. A vaginal ultrasound may be done to check how many follicles the ovaries contain. Reduced numbers of ovarian follicles may occur in women who develop this condition. Other blood tests may be done to look for autoimmune disorders or thyroid disease. Women with premature ovarian failure who want to become pregnant may be concerned about their ability to conceive. Those younger than age 30 may have a chromosome analysis to check for problems. In most cases, older women who are close to menopause do not need this test.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002900-5" qtype="treatment">What are the treatments for Ovarian hypofunction ?</Question>
-			<Answer></Answer>
+			<Answer>Estrogen therapy often helps relieve menopausal symptoms and prevents bone loss. However, it will not increase your chances of becoming pregnant. Fewer than 1 in 10 women with this condition will be able to get pregnant. The chance of getting pregnant increases to 50% when you use a fertilized donor egg (an egg from another woman).</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002900-6" qtype="when to contact a medical professional">Do I need to see a doctor for Ovarian hypofunction ?</Question>
-			<Answer></Answer>
+			<Answer>Call your health care provider if: You are no longer having monthly periods., You have symptoms of early menopause., You are having difficulty becoming pregnant., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

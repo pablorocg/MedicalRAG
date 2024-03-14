@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004263" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000775.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Warning signs and symptoms of heart disease</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,7 +18,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004263-1" qtype="information">What is (are) Warning signs and symptoms of heart disease ?</Question>
-			<Answer></Answer>
+			<Answer>Heart disease  often develops over time. You may have early signs or symptoms long before you have serious heart problems. Or, you may not realize you are developing heart disease. The warning signs of heart disease may not be obvious. Also, not every person has the same symptoms. Certain symptoms, such as chest pain, ankle swelling, and shortness of breath may be signals that something is wrong. Learning the warning signs can help you get treatment and help prevent a  heart attack  or  stroke .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

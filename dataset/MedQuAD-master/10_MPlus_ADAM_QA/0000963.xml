@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000963" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000120.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Constipation - self-care</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,15 +18,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000963-1" qtype="information">What is (are) Constipation - self-care ?</Question>
-			<Answer></Answer>
+			<Answer>Constipation is when you do not pass stool as often as you normally do. Your stool may become hard and dry, and it can be difficult to pass.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000963-2" qtype="treatment">What are the treatments for Constipation - self-care ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000963-5" qtype="when to contact a medical professional">Do I need to see a doctor for Constipation - self-care ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you: Have not had a bowel movement in 3 days, Are bloated or have pain in your stomach, Have  nausea  or throw up, Have blood in your stool , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

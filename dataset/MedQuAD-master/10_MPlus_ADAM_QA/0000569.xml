@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000569" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000631.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Breastfeeding - self-care</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000569-1" qtype="information">Do you have information about Breastfeeding - self-care</Question>
-			<Answer></Answer>
+			<Answer>As a breastfeeding mother, know how to take care of yourself. Keeping yourself well is the best thing for breastfeeding your baby. Here are some tips about taking care of yourself. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

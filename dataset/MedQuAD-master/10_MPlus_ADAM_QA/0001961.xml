@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001961" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001383.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Herpetic stomatitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001961-1" qtype="information">What is (are) Herpetic stomatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Herpetic stomatitis is a viral infection of the mouth that causes sores and ulcers. These mouth ulcers are not the same as  canker sores , which are not caused by a virus.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001961-2" qtype="causes">What causes Herpetic stomatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Herpetic stomatitis is an infection caused by the herpes simplex virus (HSV), or  oral herpes . Young children commonly get it when they are first exposed to HSV. The first outbreak is usually the most severe. HSV can easily be spread from one child to another. If you or another adult in the family has a cold sore, it could have spread to your child and caused herpetic stomatitis. More likely, you won't know how your child became infected. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001961-3" qtype="symptoms">What are the symptoms of Herpetic stomatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Blisters in the mouth, often on the tongue, cheeks, roof of the mouth, gums, and on the border between the inside of the lip and the skin next to it, After blisters pop, they form ulcers in the mouth, often on the tongue or cheeks, Difficulty swallowing, Drooling, Fever, often as high as 104&#176;F&#160;(40&#176;C), which may occur 1 to 2 days before blisters and ulcers appear, Irritability, Mouth pain, Swollen gums ,  Symptoms may be so uncomfortable that your child doesn't want to eat or drink.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001961-4" qtype="exams and tests">How to diagnose Herpetic stomatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your child's health care provider can most often diagnose this condition by looking at your child's mouth sores.  Sometimes, special laboratory tests are used to help confirm the diagnosis.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001961-5" qtype="treatment">What are the treatments for Herpetic stomatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your child's provider may prescribe: Acyclovir, a medicine your child takes that fights the virus causing the infection, Numbing medicine (viscous lidocaine), which you can apply to your child's mouth to ease severe pain,  Use lidocaine with care, because it can numb all feeling in your child's mouth. This can make it hard for your child to swallow, and may lead to burns in the mouth or throat from eating hot foods, or cause choking. There are several things you can do at home to help your child feel better: Give your child cool, noncarbonated, nonacidic drinks, such as water, milk shakes, or diluted apple juice. Dehydration can occur quickly in children, so make sure your child is getting enough fluids., Offer cool, bland, easy-to-swallow foods such as frozen pops, ice cream, mashed potatoes, gelatin, or applesauce., Give your child acetaminophen or ibuprofen for pain. (Never give aspirin to a child under age 2. It can cause Reye syndrome, a rare, but serious illness.), Bad breath and a coated tongue are common side effects. Gently brush your child's teeth every day., Make sure your child gets plenty of sleep and rests as much as possible., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001961-6" qtype="outlook">What is the outlook for Herpetic stomatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your child should recover completely within 10 days without treatment. Acyclovir may speed up your child's recovery.  Your child will carry the herpes virus for life. In most people, the virus stays inactive in their body. If the virus wakes up again, it most often causes a cold sore on the mouth. Sometimes, it can affect the inside of the mouth, but it won't be as severe as the first episode. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001961-7" qtype="when to contact a medical professional">Do I need to see a doctor for Herpetic stomatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if your child develops a fever followed by a sore mouth, and your child stops eating and drinking. Your child can quickly become dehydrated. If the herpes infection spreads to the eye, it is an emergency and can lead to blindness. Contact your provider right away.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001961-8" qtype="prevention">How to prevent Herpetic stomatitis ?</Question>
-			<Answer></Answer>
+			<Answer>About 90% of the population carries HSV. There's little you can do to prevent your child from picking up the virus sometime during childhood. Your child should avoid all close contact with people who have cold sores. So if you get a cold sore, explain why you can't kiss your child until the sore is gone. Your child should also avoid other children with herpetic stomatitis.  If your child has herpetic stomatitis, avoid spreading the virus to other children. While your child has symptoms: Have your child wash their hands often., Keep toys clean and don't share them with other children., Don't allow children to share dishes, cups, or eating utensils., Don't let your child kiss other children. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

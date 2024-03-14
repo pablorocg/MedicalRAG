@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001020" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a682395.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Probenecid</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,47 +7,49 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001020-1" qtype="indication">Who should get Probenecid and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Probenecid is used to treat chronic gout and gouty arthritis. It is used to prevent attacks related to gout, not treat them once they occur. It acts on the kidneys to help the body eliminate uric acid. Probenecid is also used to make certain antibiotics more effective by preventing the body from passing them in the urine. This medication is sometimes prescribed for other uses; ask your doctor or pharmacist for more information.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001020-2" qtype="usage">How should Probenecid be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Probenecid comes in a tablet to take by mouth. It usually is taken two times a day when prescribed for chronic gout or gouty arthritis and four times a day when prescribed with antibiotics to make them more effective. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take probenecid exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor. Probenecid may increase the frequency of gout attacks during the first 6 to 12 months that you take it, although it will eventually prevent them. Another drug, such as colchicine, may be prescribed to decrease this effect.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001020-3" qtype="precautions">Are there safety concerns or special precautions about Probenecid ?</Question>
-			<Answer></Answer>
+			<Answer>Before taking probenecid, tell your doctor and pharmacist if you are allergic to probenecid or any other drugs., tell your doctor and pharmacist what prescription and nonprescription medications you are taking, especially aminosalicylic acid, antibiotics, aspirin, cancer chemotherapy agents (methotrexate), clofibrate (Atromid-S), dapsone, diflunisal (Dolobid), diuretics ('water pills'), heparin, indomethacin (Indocin), medication for anxiety, nitrofurantoin (Macrodantin, Macrobid), oral diabetes medications, pyrazinamide, salsalate (Disalcid), and vitamins. Because aspirin products may affect the way your body responds to probenecid, you should avoid them while taking probenecid. If you need something to relieve minor pain or fever, ask your doctor or pharmacist to recommend an aspirin substitute, such as acetaminophen (Tylenol)., tell your doctor if you have or have ever had ulcers, kidney stones, a kidney disorder, or a blood disorder., tell your doctor if you are pregnant, plan to become pregnant, or are breast-feeding. If you become pregnant while taking probenecid, call your doctor immediately., tell your doctor if you plan to have surgery involving a general anesthetic., if you are having any urine tests done, tell your doctor and the laboratory personnel that you are taking probenecid because it may affect the results of the test., </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001020-4" qtype="dietary">What special dietary instructions should I follow with Probenecid ?</Question>
-			<Answer></Answer>
+			<Answer>Drink at least six to eight full glasses of water a day while taking probenecid to prevent kidney stones, unless directed to do otherwise by your doctor. Probenecid may cause an upset stomach. Take with food or antacids.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001020-5" qtype="forget a dose">What should I do if I forget a dose of Probenecid ?</Question>
-			<Answer></Answer>
+			<Answer>Take the missed dose as soon as you remember it. However, if it is almost time for the next dose, skip the missed dose and continue your regular dosing schedule. Do not take a double dose to make up for a missed one.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001020-6" qtype="side effects">What are the side effects or risks of Probenecid ?</Question>
-			<Answer></Answer>
+			<Answer>Probenecid may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ headache, upset stomach, vomiting, loss of appetite, dizziness,  If you experience any of the following symptoms, call your doctor immediately:
+ severe skin rash, difficulty breathing or swallowing, unusual bleeding or bruising,  If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001020-7" qtype="storage and disposal">What should I know about storage and disposal of Probenecid ?</Question>
-			<Answer></Answer>
+			<Answer>Keep this medication in the container it came in, tightly closed, and out of reach of children. Store it at room temperature and away from excess heat and moisture (not in the bathroom). Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program. It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001020-8" qtype="emergency or overdose">What to do in case of emergency or overdose of Probenecid ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001020-9" qtype="other information">What other information should I know about Probenecid ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor and the laboratory. Your doctor will order certain lab tests to check your response to probenecid. Do not let anyone else take your medication. Ask your pharmacist any questions you have about refilling your prescription. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0001020-10" qtype="brand names">What are the brand names of Probenecid ?</Question>
-			<Answer></Answer>
+			<Answer>Benemid &#174; &#182; , Probalan &#174; , </Answer>
 	</QAPair>
 	<QAPair pid="11">
 			<Question qid="0001020-11" qtype="brand names of combination products">What are the brand names of combination products of Probenecid ?</Question>
-			<Answer></Answer>
+			<Answer>Benemid &#174; &#182; , Probalan &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

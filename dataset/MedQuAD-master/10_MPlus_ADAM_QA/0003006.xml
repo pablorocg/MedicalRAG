@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003006" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003820.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Percutaneous transhepatic cholangiogram</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003006-1" qtype="information">Do you have information about Percutaneous transhepatic cholangiogram</Question>
-			<Answer></Answer>
+			<Answer>A percutaneous transhepatic cholangiogram (PTC) is an  x-ray  of the bile ducts. These are the tubes that carry bile from the liver to the gallbladder and small intestine.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

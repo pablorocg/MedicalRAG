@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000090" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000932.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Adjustment disorder</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,31 +16,51 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000090-1" qtype="information">What is (are) Adjustment disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Adjustment disorder is a group of symptoms, such as stress, feeling sad or hopeless, and physical symptoms that can occur after you go through a stressful life event. The symptoms occur because you are having a hard time coping. Your reaction is stronger than expected for the type of event that occurred.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000090-2" qtype="causes">What causes Adjustment disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Many different events may trigger symptoms of an adjustment disorder. Whatever the trigger is, the event may become too much for you. Stressors for people of any age include: 
+ Death of a loved one
+ , 
+ Divorce or problems with a relationship
+ , 
+ General life changes
+ , 
+ Illness or other health issues in yourself or a loved one
+ , 
+ Moving to a different home or a different city
+ , 
+ Unexpected catastrophes
+ , 
+ Worries about money
+ ,  Triggers of stress in teenagers and young adults may include: Family problems or conflict, School problems, Sexuality issues ,  There is no way to predict which people who are affected by the same stress are likely to develop adjustment disorder. Your social skills before the event and how you have learned to deal with stress in the past may play roles. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000090-3" qtype="symptoms">What are the symptoms of Adjustment disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of adjustment disorder are often severe enough to affect work or social life. Symptoms include: Acting defiant or showing impulsive behavior, Acting nervous or tense, Crying, feeling sad or hopeless, and possibly withdrawing from other people, Skipped heartbeats and other physical complaints, Trembling or twitching ,  To have adjustment disorder, you must have the following: The symptoms clearly come after a stressor, most often within 3 months, The symptoms are more severe than would be expected, There do not appear to be other disorders involved, The symptoms are not part of normal grieving for the death of a loved one ,  Sometimes, symptoms can be severe and the person may have thoughts of suicide or make a suicide attempt.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000090-4" qtype="exams and tests">How to diagnose Adjustment disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will do a mental health assessment to find out about your behavior and symptoms. You may be referred to a psychiatrist to confirm the diagnosis.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000090-5" qtype="treatment">What are the treatments for Adjustment disorder ?</Question>
-			<Answer></Answer>
+			<Answer>The main goal of treatment is to relieve symptoms and help you return to a similar level of functioning as before the stressful event occurred. Most mental health professionals recommend some type of talk therapy. This type of therapy can help you identify or change your responses to the stressors in your life.  Cognitive behavioral therapy (CBT) is a type of talk therapy. It can help you deal with your feelings: First the therapist helps you recognize the negative feelings and thoughts that occur., Then the therapist teaches you how to change these into helpful thoughts and healthy actions. ,  Other types of therapy may include:  
+  Long-term therapy, where you will explore your thoughts and feelings over many months or more
+  , 
+  Family therapy, where you will meet with a therapist along with your family
+  , 
+  Self-help groups, where the support of others may help you get better
+  ,  Medicines may be used, but only along with talk therapy. These medicines may help if you are: Nervous or anxious most of the time, Not sleeping very well, Very sad or depressed , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000090-6" qtype="outlook">What is the outlook for Adjustment disorder ?</Question>
-			<Answer></Answer>
+			<Answer>With the right help and support, you should get better quickly. The problem usually does not last longer than 6 months, unless the stressor continues to be present. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000090-7" qtype="when to contact a medical professional">Do I need to see a doctor for Adjustment disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider for an appointment if you develop symptoms of adjustment disorder. If you or someone you know is thinking about suicide, call or text 988 or chat  988lifeline.org . You can also call 1-800-273-8255 (1-800-273-TALK). The 988 Suicide and Crisis Lifeline provides free and confidential support 24/7, anytime day or night. You can also call 911 or the local emergency number or go to the hospital emergency room. DO NOT delay. If someone you know has attempted suicide, call 911 or the local emergency number right away. DO NOT leave the person alone, even after you have called for help.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

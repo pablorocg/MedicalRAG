@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001999" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003551.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>HLA-B27 antigen</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001999-1" qtype="information">Do you have information about HLA-B27 antigen</Question>
-			<Answer></Answer>
+			<Answer>HLA-B27 is a blood test to look for a protein that is found on the surface of white blood cells. The protein is called human leukocyte antigen B27 (HLA-B27). Human leukocyte antigens (HLAs) are proteins that help the body's immune system tell the difference between its own cells and foreign, harmful substances. They are made from instructions by inherited genes.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

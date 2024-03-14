@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000972" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002461.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cooking utensils and nutrition</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000972-1" qtype="information">Do you have information about Cooking utensils and nutrition</Question>
-			<Answer></Answer>
+			<Answer>Cooking utensils can have an effect on your nutrition.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

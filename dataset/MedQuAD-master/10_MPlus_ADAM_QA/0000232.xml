@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000232" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007473.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Angioplasty and stent placement - heart</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000232-1" qtype="information">Do you have information about Angioplasty and stent placement - heart</Question>
-			<Answer></Answer>
+			<Answer>Angioplasty is a procedure to open narrowed or blocked blood vessels that supply blood to the heart. These blood vessels are called the coronary arteries. A coronary artery stent is a small, metal mesh tube that expands inside a coronary artery. A  stent  is often placed during or immediately after angioplasty. It helps prevent the artery from closing up again. A drug-eluting stent has medicine embedded in it that helps prevent the artery from closing in the long term. Watch this video about: Balloon angioplasty - short segment</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

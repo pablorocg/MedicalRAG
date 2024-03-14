@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002990" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002916.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pelvic laparoscopy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002990-1" qtype="information">Do you have information about Pelvic laparoscopy</Question>
-			<Answer></Answer>
+			<Answer>Pelvic laparoscopy is surgery to examine pelvic organs. It uses a viewing tool called a laparoscope. The surgery is also used to treat certain diseases of the pelvic organs.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

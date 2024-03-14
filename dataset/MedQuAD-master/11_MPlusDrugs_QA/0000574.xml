@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000574" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a682826.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Heparin Injection</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,43 +7,46 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000574-1" qtype="indication">Who should get Heparin Injection and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Heparin is used to prevent blood clots from forming in people who have certain medical conditions or who are undergoing certain medical procedures that increase the chance that clots will form. Heparin is also used to stop the growth of clots that have already formed in the blood vessels, but it cannot be used to decrease the size of clots that have already formed. Heparin is also used in small amounts to prevent blood clots from forming in catheters (small plastic tubes through which medication can be administered or blood drawn) that are left in veins over a period of time. Heparin is in a class of medications called anticoagulants ('blood thinners'). It works by decreasing the clotting ability of the blood.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000574-2" qtype="usage">How should Heparin Injection be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Heparin comes as a solution (liquid) to be injected intravenously (into a vein) or deeply under the skin and as a dilute (less concentrated) solution to be injected into intravenous catheters. Heparin should not be injected into a muscle. Heparin is sometimes injected one to six times a day and sometimes given as a slow, continuous injection into the vein. When heparin is used to prevent blood clots from forming in intravenous catheters, it is usually used when the catheter is first put in place, and every time that blood is drawn out of the catheter or medication is given through the catheter. Heparin may be given to you by a nurse or other healthcare provider, or you may be told to inject the medication by yourself at home. If you will be injecting heparin yourself, a healthcare provider will show you how to inject the medication. Ask your doctor, nurse, or pharmacist if you do not understand these directions or have any questions about where on your body you should inject heparin, how to give the injection, or how to dispose of used needles and syringes after you inject the medication. If you will be injecting heparin yourself, follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use heparin exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor. Heparin solution comes in different strengths, and using the wrong strength may cause serious problems. Before giving an injection of heparin, check the package label to make sure it is the strength of heparin solution that your doctor prescribed for you. If the strength of heparin is not correct do not use the heparin and call your doctor or pharmacist right away. Your doctor may increase or decrease your dose during your heparin treatment. If you will be injecting heparin yourself, be sure you know how much medication you should use.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000574-4" qtype="precautions">Are there safety concerns or special precautions about Heparin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Before using heparin, tell your doctor and pharmacist if you are allergic to heparin, any other medications, beef products,pork products, or any of the ingredients in heparin injection. Ask your doctor or pharmacist for a list of the ingredients., tell your doctor and pharmacist what prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take. Be sure to mention any of the following: other anticoagulants such as warfarin (Coumadin); antihistamines (in many cough and cold products); antithrombin III (Thrombate III); aspirin or aspirin-containing products and other nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen (Advil, Motrin) and naproxen (Aleve, Naprosyn); dextran; digoxin (Digitek, Lanoxin); dipyridamole (Persantine, in Aggrenox); hydroxychloroquine (Plaquenil); indomethacin (Indocin); phenylbutazone (Azolid) (not available in the US); quinine; and tetracycline antibiotics such as demeclocycline (Declomycin), doxycycline (Monodox, Vibramycin), minocycline (Dynacin, Minocin) and tetracycline (Bristacycline, Sumycin). Your doctor may need to change the doses of your medications or monitor you carefully for side effects., tell your doctor if you have a low level of platelets (type of blood cells needed for normal clotting) in your blood and if you have heavy bleeding that cannot be stopped anywhere in your body. Your doctor may tell you not to use heparin., tell your doctor if you are currently experiencing your menstrual period; if you have a fever or an infection; and if you have recently had a spinal tap (removal of a small amount of the fluid that bathes the spinal cord to test for infection or other problems), spinal anesthesia (administration of pain medication in the area around the spine), surgery, especially involving the brain, spinal cord or eye, or a heart attack. Also tell your doctor if you have or have ever had a bleeding disorder such as hemophilia (condition in which the blood does not clot normally), antithrombin III deficiency (condition that causes blood clots to form), blood clots in the legs, lungs, or anywhere in the body, unusual bruising or purple spots under the skin, cancer, ulcers in the stomach or intestine, a tube that drains the stomach or intestine, high blood pressure, or liver disease., tell your doctor if you are pregnant, plan to become pregnant, or are breast-feeding. If you become pregnant while using heparin, call your doctor. , if you are having surgery, including dental surgery, tell the doctor or dentist that you are using heparin., tell your doctor if you smoke or use tobacco products and if you stop smoking at any time during your treatment with heparin. Smoking may decrease the effectiveness of this medication., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000574-5" qtype="dietary">What special dietary instructions should I follow with Heparin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000574-6" qtype="forget a dose">What should I do if I forget a dose of Heparin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>If you will be injecting heparin yourself at home, talk to your doctor about what you should do if you forget to inject a dose.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000574-7" qtype="side effects">What are the side effects or risks of Heparin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Heparin may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ redness, pain, bruising, or sores at the spot where heparin was injected, hair loss,  Some side effects can be serious. If you experience any of these symptoms, call your doctor immediately:
+ unusual bruising or bleeding, vomit that is bloody or looks like coffee grounds, stool that contains bright red blood or is black and tarry, blood in urine, excessive tiredness, nausea, vomiting, chest pain, pressure, or squeezing discomfort, discomfort in the arms, shoulder, jaw, neck, or back, coughing up blood, excessive sweating, sudden severe headache, lightheadedness or fainting, sudden loss of balance or coordination, sudden trouble walking, sudden numbness or weakness of the face, arm or leg, especially on one side of the body, sudden confusion, or difficulty speaking or understanding speech, difficulty seeing in one or both eyes, purple or black skin discoloration, pain and blue or dark discoloration in the arms or legs, itching and burning, especially on the bottoms of the feet, chills, fever, hives, rash, wheezing, shortness of breath, difficulty breathing or swallowing, hoarseness, painful erection that lasts for hours,  Heparin may cause osteoporosis (condition in which the bones become weak and may break easily), especially in people who use the medication for a long time. Talk to your doctor about the risks of using this medication. Heparin may cause other side effects. Call your doctor if you have any unusual problems while using this medication.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000574-8" qtype="storage and disposal">What should I know about storage and disposal of Heparin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>If you will be injecting heparin at home, your healthcare provider will tell you how to store the medication. Follow these directions carefully. Be sure to keep this medication in the container it came in, tightly closed, and out of reach of children. Store it at room temperature and away from excess heat and moisture (not in the bathroom). Do not freeze heparin. It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000574-9" qtype="emergency or overdose">What to do in case of emergency or overdose of Heparin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911. Symptoms of overdose may include:
+ nosebleed, blood in urine, black, tarry stools, easy bruising, unusual bleeding, red blood in stools, vomit that is bloody or looks like coffee grounds, </Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000574-10" qtype="other information">What other information should I know about Heparin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor and the laboratory. Your doctor will order certain lab tests to check your body's response to heparin. Your doctor may ask you to check your stool for blood using an at-home test. Before having any laboratory test, tell your doctor and the laboratory personnel that you are using heparin. Do not let anyone else use your medication. Ask your pharmacist any questions you have about refilling your prescription. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="11">
 			<Question qid="0000574-11" qtype="brand names">What are the brand names of Heparin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Lipo-Hepin &#174; &#182; , Liquaemin &#174; &#182; , Panheparin &#174; &#182; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

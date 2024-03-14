@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002883" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001573.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Osteogenesis imperfecta</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,39 +22,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002883-1" qtype="information">What is (are) Osteogenesis imperfecta ?</Question>
-			<Answer></Answer>
+			<Answer>Osteogenesis imperfecta is a condition causing extremely fragile bones.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002883-2" qtype="causes">What causes Osteogenesis imperfecta ?</Question>
-			<Answer></Answer>
+			<Answer>Osteogenesis imperfecta (OI) is present at birth. It is often caused by a defect in the gene that produces type I collagen, an important building block of bone. There are many defects that can affect this gene. The severity of OI depends on the specific gene defect. If you have one copy of the gene, you will have the disease. Most cases of OI are inherited from a parent. However, some cases are the result of new genetic mutations. A person with OI has a 50% chance of passing on the gene and the disease to their children.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002883-3" qtype="symptoms">What are the symptoms of Osteogenesis imperfecta ?</Question>
-			<Answer></Answer>
+			<Answer>All people with OI have weak bones, and fractures are more likely. People with OI are most often below average height ( short stature ). However, the severity of the disease varies greatly. The classic symptoms include: Blue tint to the whites of their eyes (blue sclera), Multiple  bone fractures , Early hearing loss ( deafness ),  Because type I collagen is also found in ligaments, people with OI often have loose joints (hypermobility) and flat feet. Some types of OI also lead to the development of poor teeth. Symptoms of more severe forms of OI may include: Bowed legs and arms,  Kyphosis , Scoliosis (S-curve spine), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002883-4" qtype="exams and tests">How to diagnose Osteogenesis imperfecta ?</Question>
-			<Answer></Answer>
+			<Answer>OI is most often suspected in children whose bones break with very little force. A physical exam may show that the whites of their eyes have a blue tint. A definitive diagnosis may be made using a  skin punch biopsy . Family members may be given a DNA blood test. If there is a family history of OI,  chorionic villus sampling   may be done during pregnancy to determine if the baby has the condition. However, because so many different mutations can cause OI, some forms cannot be diagnosed with a genetic test. The severe form of type II OI can be seen on ultrasound when the fetus is as young as 16 weeks.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002883-5" qtype="treatment">What are the treatments for Osteogenesis imperfecta ?</Question>
-			<Answer></Answer>
+			<Answer>There is not yet a cure for this disease. However, specific therapies can reduce the pain and complications from OI. Medicines that can increase the strength and density of bone are used in people with OI. They have been shown to reduce bone pain and fracture rate (especially in the bones of the spine). They are called bisphosphonates. Low impact exercises, such as swimming, keep muscles strong and help maintain strong bones. People with OI can benefit from these exercises and should be encouraged to do them. In severe cases, surgery to place metal rods into the long bones of the legs may be considered. This procedure can strengthen the bone and reduce the risk for fracture. Bracing can also be helpful for some people. Surgery may be needed to correct any deformities. This treatment is important because deformities (such as bowed legs or a spinal problem) can interfere with a person's ability to move or walk. Even with treatment, fractures will occur. Most fractures heal quickly. Time in a cast should be limited, because bone loss may occur when you do not use a part of your body for a period of time. Many children with OI develop body image problems as they enter their teenage years. A social worker or psychologist can help them adapt to life with OI.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002883-6" qtype="outlook">What is the outlook for Osteogenesis imperfecta ?</Question>
-			<Answer></Answer>
+			<Answer>How well a person does depends on the type of OI they have. Type I, or mild OI, is the most common form. People with this type can live a normal lifespan., Type II is a severe form that often leads to death in the first year of life., Type III is also called severe OI. People with this type have many fractures starting very early in life and can have severe bone deformities. Many people need to use a wheelchair and often have a somewhat shortened life expectancy., Type IV, or moderately severe OI, is similar to type I, although people with type IV often need braces or crutches to walk. Life expectancy is normal or near normal. ,  There are other types of OI, but they occur very rarely and most are considered subtypes of the moderately severe form (type IV).</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002883-7" qtype="complications">What are the complications of Osteogenesis imperfecta ?</Question>
-			<Answer></Answer>
+			<Answer>Complications are largely based on the type of OI present. They are often directly related to the problems with weak bones and multiple fractures. Complications may include: Hearing loss (common in type I and type III), Heart failure (type II), Respiratory problems and pneumonias due to chest wall deformities, Spinal cord or brain stem problems, Permanent deformity , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002883-8" qtype="when to contact a medical professional">Do I need to see a doctor for Osteogenesis imperfecta ?</Question>
-			<Answer></Answer>
+			<Answer>Severe forms are most often diagnosed early in life, but mild cases may not be noted until later in life. See your health care provider if you or your child have symptoms of this condition.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002883-9" qtype="prevention">How to prevent Osteogenesis imperfecta ?</Question>
-			<Answer></Answer>
+			<Answer>Genetic counseling is recommended for couples considering pregnancy if there is a personal or family history of this condition.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

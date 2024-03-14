@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000875" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003282.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Clubbing of the fingers or toes</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000875-1" qtype="information">Do you have information about Clubbing of the fingers or toes</Question>
-			<Answer></Answer>
+			<Answer>Clubbing is changes in the areas under and around the toenails and fingernails that occur with some disorders. The nails may also show changes.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

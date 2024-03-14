@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001108" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000694.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Deciding about hormone therapy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001108-1" qtype="information">Do you have information about Deciding about hormone therapy</Question>
-			<Answer></Answer>
+			<Answer>Hormone therapy (HT) uses one or more hormones to treat  symptoms of menopause .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

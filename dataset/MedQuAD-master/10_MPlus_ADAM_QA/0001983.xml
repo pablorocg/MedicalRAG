@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001983" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000233.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hip or knee replacement - before - what to ask your doctor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,7 +23,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001983-1" qtype="information">What is (are) Hip or knee replacement - before - what to ask your doctor ?</Question>
-			<Answer></Answer>
+			<Answer>You are going to have a hip or knee joint replacement surgery to replace all or part of your hip or knee joint with an artificial device (a prosthesis). Below are some questions you may want to ask your health care provider to help you prepare for your hip or knee replacement.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002695" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000129.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Multiple sclerosis - discharge</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,11 +19,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002695-1" qtype="information">What is (are) Multiple sclerosis - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider has told you that you have multiple sclerosis ( MS ). This disease affects the brain and spinal cord (central nervous system). At home follow your provider's instructions on self-care. Use the information below as a reminder.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0002695-10" qtype="when to contact a medical professional">Do I need to see a doctor for Multiple sclerosis - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

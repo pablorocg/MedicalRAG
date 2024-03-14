@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000054" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003766.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Acid-fast stain</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000054-1" qtype="information">Do you have information about Acid-fast stain</Question>
-			<Answer></Answer>
+			<Answer>The acid-fast stain is a laboratory test that determines if a sample of tissue, blood, or other body substance is infected with the bacteria that causes tuberculosis ( TB ) and other illnesses.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

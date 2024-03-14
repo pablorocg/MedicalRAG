@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002933" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000270.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pancreatic abscess</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002933-1" qtype="information">What is (are) Pancreatic abscess ?</Question>
-			<Answer></Answer>
+			<Answer>A pancreatic abscess is an area filled with pus within the pancreas.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002933-2" qtype="causes">What causes Pancreatic abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Pancreatic  abscesses  develop in people who have: Pancreatic pseudocysts , Severe pancreatitis&#160;that becomes infected, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002933-3" qtype="symptoms">What are the symptoms of Pancreatic abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Abdominal mass ,  Abdominal pain ,  Chills ,  Fever , Inability to eat,  Nausea and vomiting , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002933-4" qtype="exams and tests">How to diagnose Pancreatic abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Most people with pancreatic abscesses have had pancreatitis. However, the complication often takes 7 or more days to develop. Signs of an abscess can be seen on: CT scan  of the abdomen,  MRI of the abdomen ,  Ultrasound  of the abdomen ,  Blood culture will show high white blood cell count.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002933-5" qtype="treatment">What are the treatments for Pancreatic abscess ?</Question>
-			<Answer></Answer>
+			<Answer>It may be possible to drain the abscess through the skin (percutaneous). Abscess drainage can be done through an endoscope using endoscopic ultrasound (EUS) in some cases. Surgery to drain the abscess and remove dead tissue is often needed.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002933-6" qtype="outlook">What is the outlook for Pancreatic abscess ?</Question>
-			<Answer></Answer>
+			<Answer>How well a person does depends on how severe the infection is. The death rate from undrained pancreatic abscesses is very high.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002933-7" qtype="complications">What are the complications of Pancreatic abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Multiple abscesses,  Sepsis , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002933-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pancreatic abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have: Abdominal pain with fever, Other signs of a pancreatic abscess, especially if you have recently had a pancreatic pseudocyst or pancreatitis, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002933-9" qtype="prevention">How to prevent Pancreatic abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Draining a pancreatic pseudocyst may help prevent some cases of pancreatic abscess. However, in many cases, the disorder is not preventable.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

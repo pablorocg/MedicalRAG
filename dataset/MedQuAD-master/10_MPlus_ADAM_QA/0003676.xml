@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003676" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002968.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Spinal fusion</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -26,19 +25,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003676-1" qtype="information">What is (are) Spinal fusion ?</Question>
-			<Answer></Answer>
+			<Answer>Spinal fusion is surgery to permanently join together two or more bones in the spine so there is no movement between them. These bones are called vertebrae.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003676-2" qtype="information">What is (are) Spinal fusion ?</Question>
-			<Answer></Answer>
+			<Answer>Spinal fusion is surgery to permanently join together two or more bones in the spine so there is no movement between them. These bones are called vertebrae.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003676-4" qtype="susceptibility">Who is at risk for Spinal fusion? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003676-7" qtype="outlook">What is the outlook for Spinal fusion ?</Question>
-			<Answer></Answer>
+			<Answer>Surgery does not always improve pain, and in some cases, can make it worse. However, in some people, surgery can be effective for severe pain that does not get better with other treatments. If you had  chronic back pain  before surgery, you will likely still have some pain afterward. Spinal fusion is unlikely to take away all your pain and other symptoms. It is hard to predict which people will improve and how much relief surgery will provide, even when using MRI scans or other tests.  Losing weight and getting exercise increase your chances of feeling better.  Future spine problems are possible after spine surgery. After spinal fusion, the area that was fused together can no longer move. Therefore, the spinal column above and below the fusion are more likely to be stressed when the spine moves, and may cause problems later on.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

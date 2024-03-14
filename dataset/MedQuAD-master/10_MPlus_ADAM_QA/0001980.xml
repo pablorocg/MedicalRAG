@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001980" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007633.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hip joint injection</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001980-1" qtype="information">Do you have information about Hip joint injection</Question>
-			<Answer></Answer>
+			<Answer>A hip joint injection is a shot of medicine into the hip joint. The medicine can help relieve pain and inflammation. It can also help diagnose the source of hip pain.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001773" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002368.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Gross motor control</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001773-1" qtype="information">Do you have information about Gross motor control</Question>
-			<Answer></Answer>
+			<Answer>Gross motor control is a milestone in the development of an infant. Infants develop gross motor control before they develop the ability to make small, precise movements known as  fine motor control . </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

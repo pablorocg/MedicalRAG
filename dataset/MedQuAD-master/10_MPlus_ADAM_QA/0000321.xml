@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000321" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000286.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ascites</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,31 +24,33 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000321-1" qtype="information">What is (are) Ascites ?</Question>
-			<Answer></Answer>
+			<Answer>Ascites is the build-up of fluid in the space between the lining of the abdomen and abdominal organs. </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000321-2" qtype="causes">What causes Ascites ?</Question>
-			<Answer></Answer>
+			<Answer>Ascites results from high pressure in certain veins of the liver (portal hypertension) and low blood levels of a protein called  albumin . Diseases that can cause  severe liver damage  can lead to ascites. These include: Chronic  hepatitis C or B infection ,  Alcohol overuse  over many years, Fatty liver disease (non-alcoholic steatohepatitis or NASH), Cirrhosis caused by genetic diseases,  People with certain cancers in the abdomen may develop ascites. These include cancer of the appendix, colon, ovaries, uterus, pancreas, and liver. Other conditions that can cause this problem include: Clots in the veins of the liver (portal vein thrombosis),  Congestive heart failure , 
+   Pancreatitis
+   , Thickening and scarring of the sac-like covering of the heart (pericarditis),  Kidney dialysis may also be linked to ascites.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000321-3" qtype="symptoms">What are the symptoms of Ascites ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may develop slowly or suddenly depending on the cause of ascites. You may have no symptoms if there is only a small amount of fluid in the belly. As more fluid collects, you may have abdominal pain and bloating. Large amounts of fluid can cause shortness of breath. This happens because the fluid pushes up on the diaphragm, which in turn compresses the lower lungs. Many other symptoms of liver failure may also be present.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000321-4" qtype="exams and tests">How to diagnose Ascites ?</Question>
-			<Answer></Answer>
+			<Answer>Your doctor will do a physical exam to determine if the swelling is likely due to fluid buildup in your belly. You may also have the following tests to assess your liver and kidneys: 24-hour urine collection , Electrolyte levels, Kidney function tests, Liver function tests, Tests to measure the risk of bleeding and protein levels in the blood, Urinalysis, Abdominal ultrasound , CT scan of the abdomen,  Your doctor may also  use a thin needle  to withdraw ascites fluid from your belly. The fluid is tested to look for the cause of ascites and to check if the fluid is infected.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000321-5" qtype="treatment">What are the treatments for Ascites ?</Question>
-			<Answer></Answer>
+			<Answer>The condition that causes ascites will be treated, if possible. Treatments for fluid build-up may include  lifestyle changes : Avoiding alcohol, Lowering salt in your diet (no more than 1,500 mg/day of sodium), Limiting fluid intake ,  You may also get medicines from your doctor, including: "Water pills" (diuretics) to get rid of extra fluid, Antibiotics for infections ,  Other things you can do to help take care of your liver disease are: Get vaccinated for diseases such as influenza, hepatitis A and hepatitis B, and pneumococcal infection, Talk to your doctor about all medicines you take, including herbs and supplements and over-the-counter medicines,  Procedures that you may have are: Inserting a needle into the belly to remove large volumes of fluid (called a paracentesis), Placing a  special tube or shunt  inside your liver (TIPS) to repair blood flow to the liver ,  People with end-stage liver disease may need a  liver transplant . If you have cirrhosis, avoid taking nonsteroidal anti-inflammatory medicines, such as ibuprofen (Advil, Motrin) and naproxen (Aleve, Naprosyn). Acetaminophen should be taken in reduced doses.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000321-6" qtype="complications">What are the complications of Ascites ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Spontaneous bacterial peritonitis  (a life-threatening infection of the ascitic fluid),  Hepatorenal syndrome  (kidney failure), Weight loss and protein malnutrition, Mental confusion, change in the level of alertness, or coma (hepatic encephalopathy), Bleeding from the upper or lower gastrointestinal tract, Build-up of fluid in the space between your lungs and chest cavity (pleural effusion), Other complications of liver cirrhosis , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000321-7" qtype="when to contact a medical professional">Do I need to see a doctor for Ascites ?</Question>
-			<Answer></Answer>
+			<Answer>If you have ascites, contact your health care provider right away if you have: Fever above 100.5&#176;F (38.05&#176;C), or a fever that does not go away, Belly pain, Blood in your stool or black, tarry stools, Blood in your vomit, Bruising or bleeding that occurs easily, Build-up of fluid in your belly, Swollen legs or ankles, Breathing problems, Confusion or problems staying awake, Yellow color in your skin and the whites of your eyes (jaundice) , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

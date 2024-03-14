@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003227" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000559.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Problems sleeping during pregnancy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003227-1" qtype="information">Do you have information about Problems sleeping during pregnancy</Question>
-			<Answer></Answer>
+			<Answer>You may sleep well during the first trimester. You may also need more sleep than usual. Your body is working hard to make a baby. So you will tire easily. But later in your pregnancy, you may have a hard time sleeping well.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

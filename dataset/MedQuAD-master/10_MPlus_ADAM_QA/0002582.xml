@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002582" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000613.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Meningitis - staphylococcal</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,49 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002582-1" qtype="information">What is (are) Meningitis - staphylococcal ?</Question>
-			<Answer></Answer>
+			<Answer>Meningitis  is an infection of the membranes covering the brain and spinal cord. This covering is called the meninges. Bacteria are one type of germ that may cause meningitis. The staphylococcal bacteria are one type of bacteria that cause meningitis.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002582-2" qtype="causes">What causes Meningitis - staphylococcal ?</Question>
-			<Answer></Answer>
+			<Answer>Staphylococcal meningitis is caused by staphylococcus bacteria. When it is caused by  Staphylococcus aureus  or  Staphylococcus epidermidis  bacteria, it usually develops as a complication of surgery or as an infection that spreads through the blood from another site. Risk factors include: Infections of heart valves, Past infection of the brain, Past meningitis due to spinal fluid shunts, Recent brain surgery, The presence of a spinal fluid shunt, Trauma , Bloodstream infection with  Staphylococcus aureus , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002582-3" qtype="symptoms">What are the symptoms of Meningitis - staphylococcal ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may come on quickly, and include: 
+   Fever and chills,  Mental status changes , Nausea and vomiting, Sensitivity to light ( photophobia ), Severe headache, Stiff neck ,  Other symptoms that can occur with this disease: Agitation,  Bulging fontanelles  in infants, Decreased alertness, Poor feeding or irritability in children, Rapid breathing, Unusual posture, with the head and neck arched backwards ( opisthotonos ) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002582-4" qtype="exams and tests">How to diagnose Meningitis - staphylococcal ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam. Questions will focus on symptoms and risk factors. If the doctor thinks meningitis is possible, a lumbar puncture ( spinal tap ) is done to remove a sample of spinal fluid for testing. If you have a spinal fluid shunt, the sample may be taken from this instead.  Tests may include: Blood culture ,  Chest x-ray ,  CT scan of the head , Gram stain or other special stains, and  culture of the spinal fluid , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002582-5" qtype="treatment">What are the treatments for Meningitis - staphylococcal ?</Question>
-			<Answer></Answer>
+			<Answer>Antibiotics will be started as soon as possible. Vancomycin is the first choice for suspected staphylococcal meningitis. Nafcillin is used when tests show that the bacteria are sensitive to this antibiotic. Often, treatment will include a search for, and removal of, possible sources of bacteria in the body. These include shunts or artificial heart valves.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002582-6" qtype="outlook">What is the outlook for Meningitis - staphylococcal ?</Question>
-			<Answer></Answer>
+			<Answer>Early treatment improves the outcome. However, some people do not survive. Young children and adults over age 50 have the highest risk for death. Staphylococcal meningitis often improves more quickly, with fewer complications, if the source of the infection is removed. The source may include shunts, hardware in joints, or artificial heart valves.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002582-7" qtype="complications">What are the complications of Meningitis - staphylococcal ?</Question>
-			<Answer></Answer>
+			<Answer>Long-term complications may include: Brain damage, Buildup of fluid between the skull and brain ( subdural effusion ), Buildup of fluid inside the skull that leads to brain swelling ( hydrocephalus ) ,  Hearing loss ,  Seizures ,  
+ Staph infection in another area of the body, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002582-8" qtype="when to contact a medical professional">Do I need to see a doctor for Meningitis - staphylococcal ?</Question>
-			<Answer></Answer>
+			<Answer>Call 911 or the local emergency number or go to an emergency room if you suspect meningitis in a young child who has the following symptoms: 
+   Feeding problems
+   , 
+   High-pitched cry
+   , 
+   Irritability
+   , 
+   Persistent, unexplained fever
+   ,  Meningitis can quickly become a life-threatening illness.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002582-9" qtype="prevention">How to prevent Meningitis - staphylococcal ?</Question>
-			<Answer></Answer>
+			<Answer>In high-risk people, taking antibiotics before diagnostic or surgical procedures may help reduce the risk. Discuss this with your doctor.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

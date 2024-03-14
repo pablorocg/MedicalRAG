@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000071" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000357.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Acute adrenal crisis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,35 +21,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000071-1" qtype="information">What is (are) Acute adrenal crisis ?</Question>
-			<Answer></Answer>
+			<Answer>Acute adrenal crisis is a life-threatening condition that occurs when there is not enough cortisol. This is a hormone produced by the  adrenal glands .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000071-2" qtype="causes">What causes Acute adrenal crisis ?</Question>
-			<Answer></Answer>
+			<Answer>The adrenal glands are small hormone-releasing organs located on top of each kidney. They are made up of an outer portion called the cortex, and an inner portion called the medulla. The cortex produces 3 hormones: Glucocorticoid hormones (such as cortisol) maintain sugar (glucose) control, blood pressure, decrease (suppress) immune response, and help the body respond to stress., Mineralocorticoid hormones (such as aldosterone) regulate sodium, water and potassium balance., Sex hormones, androgens (male) and estrogens (female), affect sexual development and sex drive.,  The medulla produces the hormone adrenaline (also called epinephrine). Both cortisol and adrenaline are released in response to  stress . Cortisol production is regulated by the pituitary. This is a small gland just underneath the brain. The pituitary releases adrenocorticotropic hormone (ACTH). This is a hormone that causes the adrenal glands to release cortisol.  Adrenaline production is regulated by nerves coming from the brain and spinal cord and by circulating hormones. Adrenal crisis can occur from any of the following: The adrenal gland is damaged due to, for example,  Addison disease  or other adrenal gland disease, or surgery, The pituitary is injured and cannot release ACTH ( hypopituitarism ), Adrenal insufficiency is not properly treated, You've been taking glucocorticoid medicines for a long time, and suddenly stop, You've become very dehydrated, Infection or other physical stress, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000071-3" qtype="symptoms">What are the symptoms of Acute adrenal crisis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms and signs of adrenal crisis can include any of the following: Abdominal pain  or  flank pain ,  Confusion , loss of consciousness, or  coma ,  Dehydration , Dizziness or lightheadedness,  
+ Fatigue, severe weakness, Headache, High fever 
+ ,  
+ Loss of appetite 
+ ,  Low blood pressure , Low blood sugar,  
+ Nausea, vomiting
+ ,  Rapid heart rate ,  Rapid respiratory rate , Slow, sluggish movement, Unusual and excessive sweating on face or palms, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000071-4" qtype="exams and tests">How to diagnose Acute adrenal crisis ?</Question>
-			<Answer></Answer>
+			<Answer>Tests that may be ordered to help diagnose acute adrenal crisis include: ACTH (cosyntropin) stimulation test ,  Cortisol level ,  Blood sugar ,  Potassium level ,  Sodium level , Blood pH level , Thyroid hormone level, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000071-5" qtype="treatment">What are the treatments for Acute adrenal crisis ?</Question>
-			<Answer></Answer>
+			<Answer>Adrenal crisis is a medical emergency. In adrenal crisis, you need to be given the medicine hydrocortisone right away through a vein ( intravenous ) or muscle (intramuscular). You may receive intravenous fluids if you have low blood pressure. You will need to go to the hospital for treatment and monitoring. If infection or another medical problem caused the crisis, you may need additional treatment. Many people with primary or secondary adrenal insufficiency have an emergency syringe with hydrocortisone at home that a family member can inject into muscle if they are too sick or too weak to take their hydrocortisone pills.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000071-6" qtype="outlook">What is the outlook for Acute adrenal crisis ?</Question>
-			<Answer></Answer>
+			<Answer>Shock  may occur if treatment is not provided early, and it can be life threatening from very low blood pressure and heart problems.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000071-7" qtype="when to contact a medical professional">Do I need to see a doctor for Acute adrenal crisis ?</Question>
-			<Answer></Answer>
+			<Answer>Go to the emergency room or call the local emergency number (such as 911) if you develop symptoms of acute adrenal crisis. Contact your health care provider if you have Addison disease or hypopituitarism and are unable to take your glucocorticoid medicine for any reason. If you have Addison disease, you will usually be told to temporarily increase the dosage of your glucocorticoid medicine if you are stressed or ill, or before having surgery. This is called 'stress' or 'sick-day' dosing.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000071-8" qtype="prevention">How to prevent Acute adrenal crisis ?</Question>
-			<Answer></Answer>
+			<Answer>If you have Addison disease, learn to recognize the signs of potential stress that may cause an acute adrenal crisis. If you have been instructed by your provider, be prepared to give yourself an emergency shot of glucocorticoid or to increase your dosage of oral glucocorticoid medicine in times of stress. Parents should learn to do this for their children who have adrenal insufficiency. Always carry medical ID (card, bracelet, or necklace) that says you have adrenal insufficiency. The ID should also say the type of medicine and dosage you need in case of an emergency. If you take glucocorticoid medicines for pituitary ACTH deficiency, be sure you know when to take a stress dose of your medicine. Discuss this with your provider. Never miss taking your medicines.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

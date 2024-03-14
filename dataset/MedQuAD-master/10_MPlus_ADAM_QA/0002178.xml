@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002178" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001597.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Infant of diabetic mother</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,39 +22,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002178-1" qtype="information">What is (are) Infant of diabetic mother ?</Question>
-			<Answer></Answer>
+			<Answer>A fetus (baby) of a mother with diabetes may be exposed to high blood sugar (glucose) levels, and high levels of other nutrients, throughout the pregnancy.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002178-2" qtype="causes">What causes Infant of diabetic mother ?</Question>
-			<Answer></Answer>
+			<Answer>There are two forms of diabetes during pregnancy: Gestational diabetes --  high blood sugar (diabetes) that starts or is first detected during pregnancy, Pre-existing or pre-gestational diabetes -- already having diabetes before becoming pregnant,  If diabetes is not well controlled during pregnancy, the baby is exposed to high blood sugar levels. This can affect the baby and mother during pregnancy, at the time of birth, and after birth. Infants of diabetic mothers (IDM) are often larger than other babies, especially if diabetes is not well-controlled. This may make vaginal birth harder and may increase the risk for nerve injuries and other trauma during birth. Also, cesarean births are more likely.  An IDM is more likely to have periods of low blood sugar (hypoglycemia) shortly after birth, and during first few days of life. This is because the baby has been used to getting more sugar than needed from the mother. They have a higher insulin level than needed after birth. Insulin lowers the blood sugar. It can take days for babies' insulin levels to adjust after birth. IDMs are more likely to have: Breathing difficulty due to less mature lungs, High red blood cell count (polycythemia), High bilirubin level (newborn jaundice), Thickening of the heart muscle between the large chambers (ventricles),  If diabetes is not well-controlled, chances of miscarriage or  stillborn  child are higher. An IDM has a higher risk of birth defects if the mother has pre-existing diabetes that is not well controlled from the very beginning.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002178-3" qtype="symptoms">What are the symptoms of Infant of diabetic mother ?</Question>
-			<Answer></Answer>
+			<Answer>The infant is often  larger than usual for babies born  after the same length of time in the mother's womb (large for gestational age). In some cases, especially if mothers have more longstanding illness, the baby may be smaller (small for gestational age). Other symptoms may include: 
+   Blue skin color, rapid heart rate, rapid breathing (signs of immature lungs or heart failure), Poor sucking, lethargy, weak cry, Seizures (sign of severe low blood sugar), Poor feeding, Puffy face, Tremors or shaking shortly after birth, Jaundice (yellow skin color), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002178-4" qtype="exams and tests">How to diagnose Infant of diabetic mother ?</Question>
-			<Answer></Answer>
+			<Answer>Before the baby is born: Ultrasound in the last few months of pregnancy can monitor the size of the baby relative to the opening to the birth canal., Lung maturity testing may be done on the amniotic fluid. This is VERY rarely done but may be helpful if the due date was not determined early in pregnancy. Delivery before 39 weeks is not generally recommended for IDMs.,  After the baby is born: The baby's blood sugar will be checked within the first hour or two after birth, and rechecked regularly until it is consistently normal. This may take a day or two, or even longer., The baby will be watched for signs of trouble with the heart or lungs., The baby's bilirubin will be checked before going home from the hospital, and sooner if there are signs of jaundice., An echocardiogram may be done to look at the size of the baby's heart., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002178-5" qtype="treatment">What are the treatments for Infant of diabetic mother ?</Question>
-			<Answer></Answer>
+			<Answer>All infants who are born to mothers with diabetes should be tested for low blood sugar, even if they have no symptoms. Efforts are made to ensure the baby has enough glucose in the blood: Feeding soon after birth may prevent low blood sugar in mild cases. Even if the plan is to breastfeed, the baby may need some formula during the first 8 to 24 hours if the blood sugar is low., Many hospitals are now giving dextrose (sugar) gel inside the baby's cheek instead of giving formula if there is not enough mother's milk., Low blood sugar that does not improve with feeding is treated with fluid containing sugar (glucose) and water given through a vein (IV)., In severe cases, if the baby needs large amounts of sugar, fluid containing glucose must be given through an umbilical (belly button) vein for several days.,  Rarely, the infant may need breathing support or medicines to treat other effects of diabetes. High bilirubin levels are treated with light therapy (phototherapy).</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002178-6" qtype="outlook">What is the outlook for Infant of diabetic mother ?</Question>
-			<Answer></Answer>
+			<Answer>In most cases, an infant's symptoms go away within hours, days, or a few weeks. However, an enlarged heart may take several months to get better. Very rarely, blood sugar may be so low as to cause brain damage.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002178-7" qtype="complications">What are the complications of Infant of diabetic mother ?</Question>
-			<Answer></Answer>
+			<Answer>The risk of stillbirth is higher in women with diabetes that is not well controlled. There is also an increased risk for a number of birth defects or problems: Congenital heart defects., High bilirubin level (hyperbilirubinemia)., Immature lungs.,  Neonatal polycythemia  (more red blood cells than normal). This may cause a blockage in the blood vessels or hyperbilirubinemia., Small left colon syndrome. This causes symptoms of intestinal blockage., Difficulty with delivery due to large size of the baby (if blood sugar is not well controlled)., </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002178-8" qtype="when to contact a medical professional">Do I need to see a doctor for Infant of diabetic mother ?</Question>
-			<Answer></Answer>
+			<Answer>If you are pregnant and getting regular prenatal care, routine testing will show if you develop gestational diabetes. If you are pregnant and have diabetes that is not under control, call your provider right away. If you are pregnant and are not receiving prenatal care, call a provider for an appointment.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002178-9" qtype="prevention">How to prevent Infant of diabetic mother ?</Question>
-			<Answer></Answer>
+			<Answer>Women with diabetes need special care during pregnancy to prevent problems. Controlling blood sugar can prevent many problems. Carefully monitoring the infant in the first hours and days after birth may prevent health problems due to low blood sugar. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

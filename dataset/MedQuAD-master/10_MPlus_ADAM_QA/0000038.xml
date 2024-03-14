@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000038" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000087.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>ACE inhibitors</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000038-1" qtype="information">Do you have information about ACE inhibitors</Question>
-			<Answer></Answer>
+			<Answer>Angiotensin-converting enzyme (ACE) inhibitors are medicines. They treat heart, blood vessel, and kidney problems.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

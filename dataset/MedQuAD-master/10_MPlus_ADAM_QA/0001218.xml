@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001218" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002442.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Diet - chronic kidney disease</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,7 +21,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001218-1" qtype="information">What is (are) Diet - chronic kidney disease ?</Question>
-			<Answer></Answer>
+			<Answer>You may need to make changes to your diet when you have chronic kidney disease (CKD). These changes may include limiting fluids, eating a low-protein diet, limiting salt, potassium, phosphorous, and other  electrolytes , and getting enough calories if you are losing weight. You may need to alter your diet more if your kidney disease gets worse, or if you need  dialysis .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

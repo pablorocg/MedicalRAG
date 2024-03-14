@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003963" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003013.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tonsillectomy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003963-1" qtype="information">Do you have information about Tonsillectomy</Question>
-			<Answer></Answer>
+			<Answer>Tonsillectomy is a surgery to remove the tonsils. The tonsils are glands at the back of your throat. The tonsils are often removed along with the adenoid glands. The latter surgery is called  adenoidectomy  and is most often done in children.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

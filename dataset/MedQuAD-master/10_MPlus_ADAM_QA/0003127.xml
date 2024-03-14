@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003127" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000084.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pneumomediastinum</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003127-1" qtype="information">What is (are) Pneumomediastinum ?</Question>
-			<Answer></Answer>
+			<Answer>Pneumomediastinum is air in the mediastinum. The mediastinum is the space in the middle of the chest, between the lungs and around the heart.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003127-2" qtype="causes">What causes Pneumomediastinum ?</Question>
-			<Answer></Answer>
+			<Answer>Pneumomediastinum is uncommon. The condition can be caused by injury or disease. Most often, it occurs when air leaks from any part of the lung or airways into the mediastinum. Increased pressure in the lungs or airways may be caused by: Too much coughing, Repeated bearing down to increase abdominal pressure (such as pushing during childbirth or a bowel movement), Sneezing, Vomiting ,  It may also happen after: An infection in the neck or center of the chest, Rapid rises in altitude, or scuba diving, Tearing of the esophagus (the tube that connects the mouth and stomach), Tearing of the trachea (windpipe), Use of a breathing machine (ventilator), Use of inhaled recreational drugs, such as marijuana or crack cocaine, Surgery , Trauma to the chest,  Pneumomediastinum also can occur with collapsed lung ( pneumothorax ) or other diseases.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003127-3" qtype="symptoms">What are the symptoms of Pneumomediastinum ?</Question>
-			<Answer></Answer>
+			<Answer>There may be no symptoms. The condition usually causes chest pain behind the breastbone, which may spread to the neck or arms. The pain may be worse when you take a breath or swallow.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003127-4" qtype="exams and tests">How to diagnose Pneumomediastinum ?</Question>
-			<Answer></Answer>
+			<Answer>During a physical examination, the health care provider may feel small bubbles of air under the skin of the chest, arms, or neck. A  chest x-ray  or  CT scan of the chest  may be done. This is to confirm that air is in the mediastinum, and to help diagnose a hole in the trachea or esophagus. When examined, sometimes the person can look very puffy (swollen) in the face and eyes. This can look worse than it actually is.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003127-5" qtype="treatment">What are the treatments for Pneumomediastinum ?</Question>
-			<Answer></Answer>
+			<Answer>Often, no treatment is needed because the body will gradually absorb the air. Breathing high concentrations of oxygen may speed this process. The provider may put in a  chest tube  if you also have a collapsed lung. You may also need treatment for the cause of the problem. A hole in the trachea or esophagus needs to be repaired with surgery.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003127-6" qtype="outlook">What is the outlook for Pneumomediastinum ?</Question>
-			<Answer></Answer>
+			<Answer>The outlook depends on the disease or events that caused the pneumomediastinum.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003127-7" qtype="complications">What are the complications of Pneumomediastinum ?</Question>
-			<Answer></Answer>
+			<Answer>Air may build up and enter the space around the lungs (pleural space), causing the lung to collapse. In rare cases, air may enter the area between the heart and the thin sac that surrounds the heart. This condition is called a pneumopericardium. In other rare cases, so much air builds up in the middle of the chest that it pushes on the heart and the great blood vessels, so they cannot work properly. All of these complications require urgent attention because they can be life threatening.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003127-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pneumomediastinum ?</Question>
-			<Answer></Answer>
+			<Answer>Go to the emergency room or call 911 or the local emergency number if you have severe chest pain or difficulty breathing.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

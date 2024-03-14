@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000333" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000509.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Assisted delivery with forceps</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000333-1" qtype="information">What is (are) Assisted delivery with forceps ?</Question>
-			<Answer></Answer>
+			<Answer>In an assisted vaginal delivery, the doctor will use special tools called forceps to help move the baby through the birth canal. Forceps look like 2 large salad spoons. The doctor uses them to guide the baby's head out of the birth canal. The mother will push the baby the rest of the way out. Another technique your doctor may use to deliver the baby is called  vacuum assisted delivery .</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000333-4" qtype="susceptibility">Who is at risk for Assisted delivery with forceps? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

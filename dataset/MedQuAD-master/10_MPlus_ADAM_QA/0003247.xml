@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003247" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000397.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Prostate cancer staging and grading</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003247-1" qtype="information">What is (are) Prostate cancer staging and grading ?</Question>
-			<Answer></Answer>
+			<Answer>Cancer staging is a way to describe how much cancer is in your body and where it is located in your body.  Prostate cancer  staging helps determine how big your tumor is, whether it has spread, and where it has spread. Knowing the stage of your cancer helps your cancer team: Decide the best way to treat the cancer, Determine your chance of recovery, Find clinical trials you may be able to join , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

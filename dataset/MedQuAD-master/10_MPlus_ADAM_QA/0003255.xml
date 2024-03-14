@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003255" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002286.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Prosthesis</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003255-1" qtype="information">Do you have information about Prosthesis</Question>
-			<Answer></Answer>
+			<Answer>A prosthesis is a device designed to replace a missing part of the body or to make a part of the body work better. Diseased or missing eyes, arms, hands, legs, or joints are commonly replaced by prosthetic devices. False teeth are known as dental prostheses. An artificial replacement of the jaw bone is called a maxillofacial prosthesis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

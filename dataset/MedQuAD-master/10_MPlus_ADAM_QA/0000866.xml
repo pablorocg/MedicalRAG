@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000866" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002165.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cleft palate - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,7 +24,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000866-1" qtype="information">What is (are) Cleft palate - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on  cleft palate : American Cleft Palate - Craniofacial Association --  acpacares.org/ , American Speech-Language-Hearing Association --  www.asha.org/public/speech/disorders/cleftlip , Centers for Disease Control and Prevention --  www.cdc.gov/ncbddd/birthdefects/CleftLip.html , March of Dimes --  www.marchofdimes.org/complications/cleft-lip-and-cleft-palate.aspx , Operation Smile --  www.operationsmile.org , US National Library of Medicine, MedlinePlus --  medlineplus.gov/cleftlipandpalate.html , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000699" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003774.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Carotid duplex</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -16,7 +15,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000699-1" qtype="information">Do you have information about Carotid duplex</Question>
-			<Answer></Answer>
+			<Answer>Carotid duplex is an  ultrasound  test that shows how well blood is flowing through the carotid arteries. The carotid arteries are located in the neck. They supply blood directly to the brain.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

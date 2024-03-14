@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002407" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007113.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lithotripsy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002407-1" qtype="information">Do you have information about Lithotripsy</Question>
-			<Answer></Answer>
+			<Answer>Lithotripsy is a procedure that uses shock waves to break up stones in the kidney and parts of the ureter (tube that carries urine from your kidneys to your bladder). After the procedure, the tiny pieces of stones pass out of your body in your urine.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

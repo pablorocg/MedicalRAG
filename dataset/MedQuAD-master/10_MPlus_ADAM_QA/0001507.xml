@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001507" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001009.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Eyelid bump</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001507-1" qtype="information">Do you have information about Eyelid bump</Question>
-			<Answer></Answer>
+			<Answer>Most bumps on the eyelid are styes. A stye is an inflamed oil gland on the edge of your eyelid, where the eyelash meets the lid. It appears as a red, swollen bump that looks like a pimple. It is often tender to the touch.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

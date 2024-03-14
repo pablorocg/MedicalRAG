@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003329" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003689.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Radioactive iodine uptake</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003329-1" qtype="information">Do you have information about Radioactive iodine uptake</Question>
-			<Answer></Answer>
+			<Answer>Radioactive iodine uptake (RAIU) tests thyroid function. It measures how much radioactive iodine is taken up by your thyroid gland in a certain time period. A similar test is the  thyroid scan . The 2 tests are commonly performed together, but they can be done separately.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000259" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003375.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Anti-insulin antibody test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000259-1" qtype="information">Do you have information about Anti-insulin antibody test</Question>
-			<Answer></Answer>
+			<Answer>The anti-insulin antibody test checks to see if your body has produced  antibodies  against insulin. Antibodies are proteins the body produces to protect itself when it detects anything "foreign," such as a virus or transplanted organ.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

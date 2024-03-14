@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003051" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003827.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>PET scan</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003051-1" qtype="information">Do you have information about PET scan</Question>
-			<Answer></Answer>
+			<Answer>A positron emission tomography (PET) scan is a type of imaging test. It uses a radioactive substance called a tracer to look for disease in the body. A PET scan shows how organs and tissues are working.  This is different than  MRI  and  CT  scans. These tests show the structure of, and blood flow to and from organs., Machines that combine the PET and CT images, called a PET/CT, are commonly used. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

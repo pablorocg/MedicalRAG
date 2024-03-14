@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000843" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000570.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Chronic myelogenous leukemia (CML)</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,39 +22,43 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000843-1" qtype="information">What is (are) Chronic myelogenous leukemia (CML) ?</Question>
-			<Answer></Answer>
+			<Answer>Chronic myelogenous leukemia (CML) is  cancer  that starts inside bone marrow. This is the soft tissue in the center of bones that helps form all blood cells. CML causes an uncontrolled growth of immature and mature cells that make a certain type of white blood cell called myeloid cells. The diseased cells build up in the bone marrow and blood.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000843-2" qtype="causes">What causes Chronic myelogenous leukemia (CML) ?</Question>
-			<Answer></Answer>
+			<Answer>Cause of CML is related to an abnormal chromosome called the Philadelphia chromosome. Radiation exposure can increase the risk of developing CML. Radiation exposure can be from radiation treatments used in the past to treat thyroid cancer or Hodgkin lymphoma or from a nuclear disaster. It takes many years to develop leukemia from radiation exposure. Most people treated for cancer with radiation do not develop leukemia. And most people with CML have not been exposed to radiation. CML most often occurs in middle-age adults and in children.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000843-3" qtype="symptoms">What are the symptoms of Chronic myelogenous leukemia (CML) ?</Question>
-			<Answer></Answer>
+			<Answer>Chronic myelogenous leukemia is grouped into phases: Chronic, Accelerated, Blast crisis,  The chronic phase can last for months or years. The disease may have few or no symptoms during this time. Most people are diagnosed during this stage, when they have blood tests done for other reasons. The accelerated phase is a more dangerous phase. Leukemia cells grow more quickly. Common symptoms include  fever  (even without infection),  bone pain , and a  swollen spleen . Untreated CML leads to the blast crisis phase. Bleeding and infection may occur due to bone marrow failure.  Other possible symptoms of a blast crisis include: Bruising,  Excessive sweating  (night sweats),  Fatigue , 
+  Fever
+  , Pressure under the lower left ribs from a swollen spleen
+  , Rash -- small pinpoint red marks on the skin ( petechiae ),  Weakness , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000843-4" qtype="exams and tests">How to diagnose Chronic myelogenous leukemia (CML) ?</Question>
-			<Answer></Answer>
+			<Answer>A physical examination often reveals a swollen spleen. A complete blood count ( CBC ) shows an increased number of white blood cells with many immature forms present and an increased number of platelets. These are parts of the blood that help blood clot. Other tests that may be done include: Bone marrow  biopsy, Blood and bone marrow  testing  for the presence of the Philadelphia chromosome
+   ,  Platelet count , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000843-5" qtype="treatment">What are the treatments for Chronic myelogenous leukemia (CML) ?</Question>
-			<Answer></Answer>
+			<Answer>Medicines that target the abnormal protein made by the Philadelphia chromosome are often the first treatment for CML. These medicines can be taken as pills.&#160;People treated with these drugs often go into remission quickly and can stay in remission for many years. Sometimes, chemotherapy is used first to reduce the white blood cell count if it is very high at diagnosis. The blast crisis phase is very difficult to treat. This is because there is a very high count of immature white blood cells (leukemia cells) that are resistant to treatment. The only known cure for CML is a  bone marrow transplant , or stem cell transplant. Most people, though, do not need a transplant because the targeted medicines are successful. Discuss your options with your oncologist.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000843-6" qtype="support groups">Where to find support for people with Chronic myelogenous leukemia (CML) ?</Question>
-			<Answer></Answer>
+			<Answer>You can ease the stress of illness by joining a  cancer support group . Sharing with others who have common experiences and problems can help you not feel alone.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000843-7" qtype="outlook">What is the outlook for Chronic myelogenous leukemia (CML) ?</Question>
-			<Answer></Answer>
+			<Answer>Targeted medicines have greatly improved the outlook for people with CML. Most people can remain in remission, assessed typically by blood tests, for many years while on this medicine. Stem cell or bone marrow transplant is often considered in people whose disease comes back or gets worse while taking the initial medicines. Transplant may also be recommended for people who are diagnosed in accelerated phase or blast crisis.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000843-8" qtype="complications">What are the complications of Chronic myelogenous leukemia (CML) ?</Question>
-			<Answer></Answer>
+			<Answer>Blast crisis can lead to complications, including infection, bleeding, fatigue, unexplained fever, and kidney problems. Chemotherapy can have serious side effects, depending on the drugs used.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000843-9" qtype="prevention">How to prevent Chronic myelogenous leukemia (CML) ?</Question>
-			<Answer></Answer>
+			<Answer>Avoid exposure to radiation when possible.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

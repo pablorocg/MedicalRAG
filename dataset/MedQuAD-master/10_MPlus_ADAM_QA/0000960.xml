@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000960" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001010.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Conjunctivitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000960-1" qtype="information">What is (are) Conjunctivitis ?</Question>
-			<Answer></Answer>
+			<Answer>The conjunctiva is a clear layer of tissue lining the eyelids and covering the white of the eye. Conjunctivitis occurs when the  conjunctiva  becomes swollen or inflamed. This swelling can be due to an infection, an irritant, dry eyes, or an allergy.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000960-2" qtype="causes">What causes Conjunctivitis ?</Question>
-			<Answer></Answer>
+			<Answer>Tears most often protect the eyes by washing away germs and irritants. Tears contain proteins and  antibodies  that kill germs. If your eyes are dry, germs and irritants are more likely to cause problems. Conjunctivitis is most often caused by germs such as viruses and bacteria. "Pink eye" most often refers to a highly contagious viral infection that spreads easily among children., Conjunctivitis can be found in people with COVID-19 before they have other typical symptoms., In newborns, an eye infection may be caused by bacteria in the birth canal. This must be treated at once to preserve eyesight., Allergic conjunctivitis occurs when the conjunctiva becomes inflamed due to a reaction to pollen, dander, mold, or other allergy-causing substances.,  A type of long-term allergic conjunctivitis may occur in people who have chronic allergies or asthma. This condition is called vernal conjunctivitis. It most commonly occurs in young men and boys in the spring and summer months. A similar condition can occur in long-time contact lens wearers. It may make it difficult to continue to wear contact lenses. Anything which irritates the eye may also cause conjunctivitis. These include: Chemicals., Smoke., Dust., Over-use of contact lenses (often extended-wear lenses) can lead to conjunctivitis., </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000960-3" qtype="symptoms">What are the symptoms of Conjunctivitis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Blurred vision , Crusts that form on the eyelid overnight (most often caused by bacteria),  Eye pain ,  Gritty feeling in the eyes ,  
+ Increased tearing 
+ ,  Itching of the eye ,  Redness in the eyes ,  Sensitivity to light , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000960-4" qtype="exams and tests">How to diagnose Conjunctivitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will: Examine your eyes, Swab the conjunctiva to get a sample for analysis,  There are tests that can sometimes be done in the office to look for a specific type of virus as the cause.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000960-5" qtype="treatment">What are the treatments for Conjunctivitis ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment of conjunctivitis depends on the cause. Allergic conjunctivitis  may improve when allergies are treated. It may go away on its own when you avoid your allergy triggers. Cool compresses may help soothe allergic conjunctivitis. Eye drops that contain antihistamines for the eye or drops containing steroids, may be necessary in more severe cases. Antibiotic medicines work well to treat conjunctivitis caused by bacteria. These are most often given in the form of eye drops. Viral conjunctivitis will go away on its own without antibiotics. Mild steroid eye drops may help ease discomfort. If your eyes are dry, if may help to use artificial tears in conjunction with any other drops you may be using. Be sure to allow about 10 minutes in between using different types of eye drops. Crustiness of the eyelids can be helped by applying warm compresses. Gently press clean cloth soaked in warm water to your closed eyes. Other helpful steps include: Do not smoke and avoid secondhand smoke, direct wind, and air conditioning., Use a humidifier, especially in the winter., Limit medicines that may dry you out and worsen your symptoms., Clean eyelashes regularly and apply warm compresses. , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000960-6" qtype="outlook">What is the outlook for Conjunctivitis ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome for bacterial infections is most often good with early antibiotic treatment. Pinkeye (viral conjunctivitis) can easily spread through entire households or classrooms, but a full recovery is expected.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000960-7" qtype="complications">What are the complications of Conjunctivitis ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000960-8" qtype="when to contact a medical professional">Do I need to see a doctor for Conjunctivitis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: Your symptoms last longer than 3 or 4 days., Your vision is affected., You have light sensitivity., You develop eye pain that is severe or becoming worse., Your eyelids or the skin around your eyes becomes swollen or red., You have a headache in addition to your other symptom., </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000960-9" qtype="prevention">How to prevent Conjunctivitis ?</Question>
-			<Answer></Answer>
+			<Answer>Good hygiene can help prevent the spread of conjunctivitis. Things you can do include: Change pillowcases often., Do not share eye makeup and replace it regularly., Do not share towels or handkerchiefs., Handle and clean contact lenses properly., Keep hands away from the eye., Wash your hands often., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

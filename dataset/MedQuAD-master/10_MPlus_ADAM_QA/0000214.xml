@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000214" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007134.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Anemia caused by low iron - children</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,35 +21,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000214-1" qtype="information">What is (are) Anemia caused by low iron - children ?</Question>
-			<Answer></Answer>
+			<Answer>Anemia is a condition in which the body does not have enough healthy red blood cells. Red blood cells provide oxygen to body tissues. There are many types of anemia. Iron helps make red blood cells and helps these cells carry oxygen. A lack of iron in the body may lead to anemia. The medical name of this problem is iron deficiency anemia.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000214-2" qtype="causes">What causes Anemia caused by low iron - children ?</Question>
-			<Answer></Answer>
+			<Answer>Anemia caused by a low iron level is the most common form of  anemia . The body gets iron through certain foods. It also reuses iron from old red blood cells. A diet that does not have enough iron is the most common cause of this type of anemia in children. When a child is growing rapidly, such as during puberty, even more iron is needed. Toddlers who drink too much cow's milk may also become anemic because too much cow's milk makes it difficult for the body to absorb iron. Also, children who drink too much cow's milk may not eat enough other healthy foods that have iron. Other causes may be: The body is not able to absorb iron well, even though the child is eating enough iron., Slow blood loss over a long period, often due to menstrual periods or bleeding in the digestive tract. ,  Iron deficiency in children can also be related to  lead poisoning .</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000214-3" qtype="symptoms">What are the symptoms of Anemia caused by low iron - children ?</Question>
-			<Answer></Answer>
+			<Answer>Mild anemia may have no symptoms. As the iron level and blood counts become lower, your child may: Act irritable, Become  short of breath ,  Crave unusual foods  (pica),  Eat less food ,  Feel tired  or  weak  all the time, Have a sore tongue, Have  headaches  or dizziness ,  With more severe anemia, your child may have: Blue-tinged or very pale whites of eyes,  Brittle nails ,  Pale skin , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000214-4" qtype="exams and tests">How to diagnose Anemia caused by low iron - children ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam. Blood tests that may be abnormal with low iron stores include: Hematocrit ,  Serum ferritin ,  Serum iron ,  Total iron binding capacity  (TIBC),  A measurement called iron saturation (serum iron level divided by the TIBC value) can help diagnose iron deficiency. A value of less than 15% supports the diagnosis.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000214-5" qtype="treatment">What are the treatments for Anemia caused by low iron - children ?</Question>
-			<Answer></Answer>
+			<Answer>Since children only absorb a small amount of the iron they eat, most children need to have 3 mg to 6 mg of iron per day.  Eating healthy foods is the most important way to prevent and treat iron deficiency. Good sources of iron include: Apricots, Chicken, turkey, fish, and other meats, Dried beans, lentils, and soybeans, Eggs, Liver, Molasses, Oatmeal, Peanut butter, Prune juice, Raisins and prunes, Spinach, kale and other green leafy vegetables,  If a healthy diet does not prevent or treat your child's low iron level and anemia, your provider will likely recommend iron supplements for your child. These are taken by mouth. Do not give your child iron supplements or vitamins with iron without checking with your child's provider. The provider will prescribe the right kind of supplement for your child. Too much iron in children can be toxic. Supplemental iron is usually prescribed to be taken by mouth, but may also be given intravenously (through a vein).</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000214-6" qtype="outlook">What is the outlook for Anemia caused by low iron - children ?</Question>
-			<Answer></Answer>
+			<Answer>With treatment, the outcome is likely to be good. In most cases, the blood counts will return to normal in 2 to 3 months. It is important that the provider finds the cause of your child's iron deficiency.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000214-7" qtype="complications">What are the complications of Anemia caused by low iron - children ?</Question>
-			<Answer></Answer>
+			<Answer>Anemia caused by a low iron level can affect a child's ability to learn in school. A low iron level can cause decreased attention span, reduced alertness, and learning problems in children. A low iron level can cause the body to absorb too much lead.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000214-8" qtype="prevention">How to prevent Anemia caused by low iron - children ?</Question>
-			<Answer></Answer>
+			<Answer>Eating a variety of healthy foods is the most important way to prevent and treat iron deficiency.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

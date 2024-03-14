@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003554" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000295.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Shigellosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,39 +22,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003554-1" qtype="information">What is (are) Shigellosis ?</Question>
-			<Answer></Answer>
+			<Answer>Shigellosis is a bacterial infection of the lining of the intestines. It is caused by a group of bacteria called Shigella.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003554-2" qtype="causes">What causes Shigellosis ?</Question>
-			<Answer></Answer>
+			<Answer>There are several types of Shigella bacteria, including: Shigella sonnei , also called "group D" Shigella, is responsible for most cases of shigellosis in the United States.,  Shigella flexneri , or "group B" Shigella, causes almost all other cases.,  Shigella dysenteriae,  or "group A" Shigella is rare in the United States. However, it can lead to deadly outbreaks in developing countries. ,  People infected with the bacteria release it into their stool. They can spread the bacteria to water or food, or directly to another person. Getting just a little bit of the Shigella bacteria into your mouth is enough to cause infection. Outbreaks of shigellosis are linked with poor sanitation, contaminated food and water, and crowded living conditions. Shigellosis is common among travelers in developing countries and workers or residents in refugee camps. In the United States, the condition is most commonly seen in daycare centers and places where groups of people live, such as nursing homes.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003554-3" qtype="symptoms">What are the symptoms of Shigellosis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms often develop about 1 to 7 days (average 3 days) after coming into contact with the bacteria. Symptoms include: Acute (sudden)  abdominal pain  or cramping, Acute fever,  Blood, mucus, or pus in the stool , Crampy rectal pain, Nausea and vomiting, Watery and bloody diarrhea, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003554-4" qtype="exams and tests">How to diagnose Shigellosis ?</Question>
-			<Answer></Answer>
+			<Answer>If you have symptoms of shigellosis, your health care provider will check for: Dehydration (not enough fluids in your body) with a fast heart rate and low blood pressure, Abdominal tenderness, Elevated level of white blood cells in the blood,  Stool culture 
+ to check for the presence of the bacteria, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003554-5" qtype="treatment">What are the treatments for Shigellosis ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to replace fluids and  electrolytes  (salt and minerals) that are lost in diarrhea. Medicines that stop diarrhea are generally not given because they can cause the infection to take longer to go away. Self-care measures to avoid  dehydration  include drinking electrolyte solutions to replace the fluids lost by diarrhea. Several types of electrolyte solutions are available over-the-counter (without a prescription). Antibiotics can help shorten the length of the illness. These medicines also help prevent the illness from spreading to others in group living or daycare settings. They may also be prescribed for people with severe symptoms. If you have diarrhea and cannot drink fluids by mouth because of severe nausea, you may need medical care and  intravenous  (IV) fluids. This is more common in small children who have shigellosis. People who take diuretics ("water pills") may need to stop taking these medicines if they have  acute &#160;Shigella enteritis. Never stop taking any medicine without first talking to your provider.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003554-6" qtype="outlook">What is the outlook for Shigellosis ?</Question>
-			<Answer></Answer>
+			<Answer>The infection can be mild and goes away on its own. Most people, except malnourished children and those with weakened immune systems, typically recover fully.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003554-7" qtype="complications">What are the complications of Shigellosis ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include:  Dehydration, severe,  Hemolytic-uremic syndrome  (HUS), a form of kidney failure with anemia and clotting problems,  Reactive arthritis ,  About 1 in 10 children (under age 15) with severe Shigella enteritis develop nervous system problems. These may include  febrile seizures  (also called a "fever fit") when body temperature rises quickly and the child has seizures. A brain disease (encephalopathy) with headache,  lethargy ,  confusion , and stiff neck can also develop.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003554-8" qtype="when to contact a medical professional">Do I need to see a doctor for Shigellosis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if diarrhea does not improve, if there is blood in the stool, or if there are signs of dehydration. Go to the emergency room if these symptoms occur in a person with shigellosis: Confusion ,  Headache with stiff neck ,  Lethargy ,  Seizures ,  These&#160;symptoms are most common in children.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003554-9" qtype="prevention">How to prevent Shigellosis ?</Question>
-			<Answer></Answer>
+			<Answer>Prevention includes properly handling, storing, and preparing food, and good personal hygiene. Handwashing is the most effective way to prevent shigellosis. Avoid food and water that may be contaminated.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

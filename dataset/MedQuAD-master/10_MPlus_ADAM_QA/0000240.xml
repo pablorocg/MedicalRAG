@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000240" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007254.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ankle replacement</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,19 +22,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000240-1" qtype="information">What is (are) Ankle replacement ?</Question>
-			<Answer></Answer>
+			<Answer>Ankle replacement is surgery to replace the damaged bone and cartilage in the ankle joint. Artificial joint parts (prosthetics) are used to replace your own bones. There are different types of ankle replacement surgeries.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000240-2" qtype="information">What is (are) Ankle replacement ?</Question>
-			<Answer></Answer>
+			<Answer>Ankle replacement is surgery to replace the damaged bone and cartilage in the ankle joint. Artificial joint parts (prosthetics) are used to replace your own bones. There are different types of ankle replacement surgeries.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000240-4" qtype="susceptibility">Who is at risk for Ankle replacement? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000240-7" qtype="outlook">What is the outlook for Ankle replacement ?</Question>
-			<Answer></Answer>
+			<Answer>A successful ankle replacement will likely: Decrease or get rid of your pain, Allow you to move your ankle up and down ,  In most cases, total ankle replacements last 10 or more years. How long yours lasts will depend on your activity level, overall health, and the amount of damage to your ankle joint before surgery.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

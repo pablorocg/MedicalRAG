@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003912" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003806.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Thoracic spine x-ray</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -16,7 +15,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003912-1" qtype="information">Do you have information about Thoracic spine x-ray</Question>
-			<Answer></Answer>
+			<Answer>A thoracic spine x-ray is an x-ray of the 12 chest (thoracic) bones (vertebrae) of the spine. The vertebrae are separated by flat pads of cartilage called disks that provide a cushion between the bones.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

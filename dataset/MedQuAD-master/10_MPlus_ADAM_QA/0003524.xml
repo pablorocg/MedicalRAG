@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003524" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000666.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Sepsis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,31 +17,32 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003524-1" qtype="information">What is (are) Sepsis ?</Question>
-			<Answer></Answer>
+			<Answer>Sepsis is an illness in which the body has a severe, inflammatory response to bacteria or other germs.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003524-2" qtype="causes">What causes Sepsis ?</Question>
-			<Answer></Answer>
+			<Answer>The symptoms of sepsis are not caused by the germs themselves. Instead, chemicals the body releases cause the response. A bacterial infection anywhere in the body may set off the response that leads to sepsis. Common places where an infection might start include the: Bloodstream, Bones (common in children), Bowel (usually seen with  peritonitis ), Kidneys (upper  urinary tract infection , pyelonephritis or urosepsis), Lining of the brain ( meningitis ), Liver or gallbladder, Lungs ( bacterial pneumonia ), Skin ( cellulitis ),  For people in or recently discharged from the hospital, common sites of infection include  intravenous  lines, surgical wounds, surgical drains, and sites of skin breakdown, known as bedsores or  pressure ulcers . Sepsis commonly affects infants or older adults. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003524-3" qtype="symptoms">What are the symptoms of Sepsis ?</Question>
-			<Answer></Answer>
+			<Answer>In sepsis, blood pressure drops, resulting in  shock . Major organs and body systems, including the kidneys, liver, lungs, and central nervous system may stop working properly because of poor blood flow. A  change in mental status  and very fast breathing may be the earliest signs of sepsis. In general, symptoms of sepsis can include: Chills,  Confusion  or  delirium ,  
+ Fever or low body temperature ( hypothermia ), Lightheadedness due to low blood pressure,  Rapid heartbeat ,  Skin rash  or  mottled skin , Warm skin , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003524-4" qtype="exams and tests">How to diagnose Sepsis ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will examine the person and ask about the person's medical history. The infection is often confirmed by a blood test. But a blood test may not reveal infection in people who have been receiving antibiotics. Some infections that can cause sepsis cannot be diagnosed by a blood test. Other tests that may be done include: Blood gases ,  Kidney function tests ,  Platelet count ,  fibrin degradation products , and coagulation times ( PT  and  PTT ) to check for bleeding risk,  White blood cell count ,  White blood cell differential , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003524-5" qtype="treatment">What are the treatments for Sepsis ?</Question>
-			<Answer></Answer>
+			<Answer>A person with sepsis will be admitted to a hospital, usually in the intensive care unit (ICU). Antibiotics are usually given through a vein (intravenously). Other medical treatments include: Oxygen to help with breathing, Fluids given through a vein, Medicines that increase blood pressure,  Dialysis  if there is kidney failure, A breathing machine ( mechanical ventilation ) if there is lung failure, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003524-6" qtype="outlook">What is the outlook for Sepsis ?</Question>
-			<Answer></Answer>
+			<Answer>Sepsis is often life threatening, especially in people with a weak immune system or a long-term (chronic) illness. Damage caused by a decrease in blood flow to vital organs such as the brain, heart, and kidneys may take time to improve. There may be long-term problems with these organs.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003524-7" qtype="prevention">How to prevent Sepsis ?</Question>
-			<Answer></Answer>
+			<Answer>The risk of sepsis can be reduced by getting all recommended vaccines.  In the hospital, careful hand washing can help prevent hospital-acquired infections that lead to sepsis. Prompt removal of urinary catheters and IV lines when they are no longer needed can also help prevent infections that lead to sepsis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

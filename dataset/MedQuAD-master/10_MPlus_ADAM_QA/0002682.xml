@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002682" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000428.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Moving a patient from bed to a wheelchair</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002682-1" qtype="information">What is (are) Moving a patient from bed to a wheelchair ?</Question>
-			<Answer></Answer>
+			<Answer>Follow these steps to move a patient from bed to a wheelchair. The technique below assumes the patient can stand on at least one leg. If the patient cannot use at least one leg, you will need to use a lift to transfer the patient.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

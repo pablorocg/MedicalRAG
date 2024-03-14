@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004325" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003386.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Wood's lamp examination</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004325-1" qtype="information">Do you have information about Wood's lamp examination</Question>
-			<Answer></Answer>
+			<Answer>A Wood lamp examination is a test that uses ultraviolet (UV) light to look at the skin closely.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001255" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000818.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Distracted driving</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001255-1" qtype="information">Do you have information about Distracted driving</Question>
-			<Answer></Answer>
+			<Answer>Distracted driving is doing any activity that takes your attention away from driving. This includes using a cell phone to call or text while driving. Distracted driving makes you more likely to get into a crash. As a result, many states have enacted laws to help stop the practice. You can avoid distracted driving by learning how to stay safe with a cell phone in the car.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

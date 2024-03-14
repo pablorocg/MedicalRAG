@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000800" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003601.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Chloride - urine test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000800-1" qtype="information">Do you have information about Chloride - urine test</Question>
-			<Answer></Answer>
+			<Answer>The urine chloride test measures the amount of chloride in the urine.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

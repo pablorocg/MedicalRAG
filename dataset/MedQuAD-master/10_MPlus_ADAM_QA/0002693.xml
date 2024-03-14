@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002693" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000583.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Multiple myeloma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,39 +23,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002693-1" qtype="information">What is (are) Multiple myeloma ?</Question>
-			<Answer></Answer>
+			<Answer>Multiple myeloma is a blood cancer that starts in the plasma cells in the bone marrow. Bone marrow is the soft, spongy tissue found inside most bones in children and in the front chest bone (sternum) and the pelvis bones in adults. The bone marrow makes blood cells. Plasma cells help your body fight infection by producing proteins called  antibodies . In people with multiple myeloma, abnormal plasma cells grow out of control in the bone marrow and form tumors in the areas of solid bone. The growth of these bone tumors weakens the bones. It also makes it harder for the bone marrow to make healthy blood cells and platelets.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002693-2" qtype="causes">What causes Multiple myeloma ?</Question>
-			<Answer></Answer>
+			<Answer>The cause of multiple myeloma is unknown. Past treatment with radiation therapy increases the risk for this type of  cancer . Multiple myeloma mainly affects older adults.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002693-3" qtype="symptoms">What are the symptoms of Multiple myeloma ?</Question>
-			<Answer></Answer>
+			<Answer>Multiple myeloma most commonly causes: Low red blood cell count ( anemia ), which can lead to fatigue and shortness of breath, Low white blood cell count, which makes you more likely to get infections, Low platelet count, which can lead to abnormal bleeding,  As the cancer cells grow in the bone marrow, you may have bone pain, most often in the ribs or back. The cancer cells can weaken bones. As a result: You may develop broken bones (bone fractures) just from doing normal activities., If cancer grows in the spine bones, it can press on the nerves. This can lead to  numbness  or weakness of the arms or legs., Frequent infections may occur., </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002693-4" qtype="exams and tests">How to diagnose Multiple myeloma ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam and ask about your symptoms.  Blood tests can help diagnose this disease. These tests include: Calcium level ,  Total protein level ,  Kidney function ,  Complete blood count  (CBC),  Immunofixation ,  Quantitative nephelometry , Serum protein electrophoresis , Urine protein electrophoresis,  Bone x-rays, CT scans, or MRI may show fractures or hollowed out areas of bone. If your provider suspects this type of cancer, a  bone marrow biopsy  will be performed. Bone density testing may show bone loss.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002693-5" qtype="treatment">What are the treatments for Multiple myeloma ?</Question>
-			<Answer></Answer>
+			<Answer>People who have mild disease or in whom the diagnosis is not certain are usually closely monitored without giving treatment. Some people have a form of multiple myeloma that grows slowly (smoldering myeloma), which takes years to cause symptoms. Various types of medicines are used to treat multiple myeloma. They are most often given to prevent complications such as bone fractures and kidney damage. Radiation therapy  may be used to relieve bone pain or to shrink a tumor that is pushing on the spinal cord. A  bone marrow transplant  may be recommended: An autologous bone marrow or stem cell transplantation is performed using a person's own stem cells., An allogeneic transplant uses someone else's stem cells. This treatment has additional risks, but may offer the chance of a cure. ,  You and your provider may need to manage other concerns during your treatment, including: Having chemotherapy at home ,  Managing your pets , Avoiding infections,  Bleeding problems ,  Dry mouth ,  Eating enough calories ,  Safe eating  during cancer treatment , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002693-6" qtype="support groups">Where to find support for people with Multiple myeloma ?</Question>
-			<Answer></Answer>
+			<Answer>You can ease the stress of illness by joining a  cancer support group . Sharing with others who have common experiences and problems can help you not feel alone.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002693-7" qtype="outlook">What is the outlook for Multiple myeloma ?</Question>
-			<Answer></Answer>
+			<Answer>Outlook depends on the person's age and the stage of disease. In some cases, the disease progresses very rapidly. In other cases, it takes years for symptoms to appear. In general, multiple myeloma is treatable, but only in rare cases can it be cured.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002693-8" qtype="complications">What are the complications of Multiple myeloma ?</Question>
-			<Answer></Answer>
+			<Answer>Kidney damage that may lead to  Kidney failure  is a frequent complication. Others may include: Bone fractures, High level of calcium in the blood (hypercalcemia), which can be very dangerous, Increased chances for infection, especially in the lungs, Anemia, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002693-9" qtype="when to contact a medical professional">Do I need to see a doctor for Multiple myeloma ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have multiple myeloma and you develop an infection, or numbness, loss of movement, or loss of sensation.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

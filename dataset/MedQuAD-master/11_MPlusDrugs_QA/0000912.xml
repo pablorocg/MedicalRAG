@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000912" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a616005.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Osimertinib</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,43 +7,45 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000912-1" qtype="indication">Who should get Osimertinib and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Osimertinib is used to help prevent a certain type of non small-cell lung cancer (NSCLC) from returning after the tumor(s) has been removed by surgery in adults. It is also used as a first treatment for a certain type of NSCLC that has spread to other parts of the body in adults. Osimertinib is also used to treat certain types of NSCLC that has spread to other parts of the body in adults who could not be treated successfully with other similar chemotherapy medications. Osimertinib is in a class of medications called kinase inhibitors. It works by blocking the action of the abnormal protein that signals cancer cells to multiply. This helps stop or slow the spread of cancer cells and may help shrink tumors.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000912-2" qtype="usage">How should Osimertinib be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Osimertinib comes as a tablet to take by mouth. It is usually taken with or without food once a day. The length of your treatment depends on how well this medication works for you, and the side effects that you experience. Take osimertinib at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take osimertinib exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor. If you cannot swallow the tablets, place the tablet into 4 tablespoons (2 oz [60 mL]) of water and stir until the tablet is in small pieces. Drink the mixture right away. Pour in another half a cup (4 oz [120 mL]) to a cup of water (8 oz [240 mL]) to the container you used, rinse, and drink to make sure you get the full dose of osimertinib. Do not use carbonated water or any other liquid to dissolve the osimertinib tablet. Do not crush the tablet or heat the mixture. If you have a nasogastric (NG) tube, your doctor or pharmacist will explain how to give this mixture through an NG tube. Your doctor may temporarily or permanently stop your treatment or decrease your dose of osimertinib depending on the side effects that you experience. Be sure to talk to your doctor about how you are feeling during your treatment. Do not stop taking osimertinib without talking to your doctor. Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000912-4" qtype="precautions">Are there safety concerns or special precautions about Osimertinib ?</Question>
-			<Answer></Answer>
+			<Answer>Before taking osimertinib, tell your doctor and pharmacist if you are allergic to osimertinib, any other medications, or any of the ingredients in the osimertinib tablet. Ask your pharmacist for a list of the ingredients., tell your doctor and pharmacist what prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take. Your doctor may need to change the doses of your medications or monitor you carefully for side effects., tell your doctor what nonprescription or herbal products you are taking, especially St. John's wort. Be sure to let your doctor and pharmacist know that you are taking these medications before you start taking osimertinib. Do not start any of these medications while taking osimertinib without discussing with your healthcare provider., tell your doctor if you have or have ever had long QT syndrome (condition that increases the risk of developing an irregular heartbeat that may cause fainting or sudden death); an irregular heartbeat; heart failure (condition in which the heart is unable to pump enough blood to the other parts of the body); high blood pressure; higher or lower than normal levels of sodium, potassium, calcium, or magnesium in your blood; eye problems; or other lung conditions., you should know that osimertinib may decrease fertility in men and women. However, you should not assume that you or your partner cannot become pregnant. Tell your doctor if you are pregnant, or plan to become pregnant. You will need to take a pregnancy test before starting treatment and should not become pregnant while you are taking osimertinib. Use effective birth control during your treatment with osimertinib, and for 6 weeks after your final dose. If you are a male and your partner can become pregnant, you should use effective birth control during your treatment and for 4 months after your final dose. Talk to your doctor about birth control methods that will work for you. If you or your partner become pregnant while taking osimertinib, call your doctor immediately. Osimertinib may harm the fetus., tell your doctor if you are breastfeeding. Your doctor may tell you not to breastfeed during your treatment and for 2 weeks after your final dose., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000912-5" qtype="dietary">What special dietary instructions should I follow with Osimertinib ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000912-6" qtype="forget a dose">What should I do if I forget a dose of Osimertinib ?</Question>
-			<Answer></Answer>
+			<Answer>Skip the missed dose and continue your regular dosing schedule. Do not take a dose late or take a double dose to make up for a missed one.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000912-7" qtype="side effects">What are the side effects or risks of Osimertinib ?</Question>
-			<Answer></Answer>
+			<Answer>Osimertinib may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ diarrhea, constipation, stomach pain, rash, itching, dry or cracking skin, eczema, nausea, vomiting, loss of appetite, swelling or sores in the mouth, back pain, headache, nail changes including swelling, redness, pain, splitting, breaking, and separation or loss from nailbed,  Some side effects can be serious. If you experience any of these symptoms, call your doctor immediately or get emergency medical treatment:
+ fast, or pounding heartbeat; shortness of breath; swelling of ankles or feet, or feeling lightheaded, fever; new or worsening shortness of breath; difficulty breathing, or cough, rash, skin blisters, or skin peeling, purple spots, redness, or hives on arms, lower legs, buttocks, or trunk (torso)., chest pain, swollen, red, teary or painful eyes; sensitivity to light; or vision changes, new or persistent fever, bruising or bleeding, pale skin, unusual tiredness or weakness, or any signs of an infection,  Osimertinib may cause other side effects. Call your doctor if you have any unusual problems while taking this medication. If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000912-8" qtype="storage and disposal">What should I know about storage and disposal of Osimertinib ?</Question>
-			<Answer></Answer>
+			<Answer>Keep this medication in the container it came in, tightly closed, and out of reach of children. Store it at room temperature and away from excess heat and moisture (not in the bathroom). It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000912-9" qtype="emergency or overdose">What to do in case of emergency or overdose of Osimertinib ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000912-10" qtype="other information">What other information should I know about Osimertinib ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor and the laboratory. Your doctor will order certain heart function tests before and during your treatment to be sure it is safe for you to take osimertinib, and to check your body's response to the medication. Your doctor may also order a lab test before you begin your treatment to find out if your cancer can be treated with osimertinib. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="11">
 			<Question qid="0000912-11" qtype="brand names">What are the brand names of Osimertinib ?</Question>
-			<Answer></Answer>
+			<Answer>Tagrisso &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

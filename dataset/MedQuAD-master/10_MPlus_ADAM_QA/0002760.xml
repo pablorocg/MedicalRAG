@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002760" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001148.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Necrotizing enterocolitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,35 +17,36 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002760-1" qtype="information">What is (are) Necrotizing enterocolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Necrotizing enterocolitis (NEC) is the death of tissue in the intestine. It occurs most often in premature or sick babies.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002760-2" qtype="causes">What causes Necrotizing enterocolitis ?</Question>
-			<Answer></Answer>
+			<Answer>NEC occurs when the lining of the intestinal wall dies. This problem nearly always develops in an infant who is ill or premature. It is likely to occur while the infant is still in the hospital. The exact cause of this disorder is unknown. A drop in blood flow to the bowel can damage the tissue. Bacteria in the intestine may also add to the problem. Also, premature infants have an undeveloped immune response to factors such as bacteria or low blood flow. An imbalance in immune regulation appears to be involved in NEC. Babies at higher risk for the condition include: Premature infants, Infants who are fed formula rather than human milk. (Human milk contains growth factors, antibodies and immune cells which may help prevent the problem.), Infants in a nursery where an outbreak has occurred, Infants who have received blood exchange transfusions or have been seriously ill , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002760-3" qtype="symptoms">What are the symptoms of Necrotizing enterocolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may come on slowly or suddenly, and may include: Abdominal bloating ,  Blood in the stool , Diarrhea, Feeding problems,  Lack of energy , Unstable body temperature, Unstable breathing, heart rate, or blood pressure, Vomiting , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002760-4" qtype="exams and tests">How to diagnose Necrotizing enterocolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Tests may include: Abdominal x-ray , Stool for occult blood test, 
+  Complete blood count ( CBC ), Electrolyte levels, blood gases and other blood tests, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002760-5" qtype="treatment">What are the treatments for Necrotizing enterocolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment for a baby who may have NEC most often includes:  Halting enteral (GI tract) feedings, Relieving gas in the bowel by inserting a tube in the stomach, Giving  IV  fluids and nutrition , Giving IV antibiotics, Monitoring the condition with abdominal x-rays, blood tests, and measurement of blood gases ,  The infant will need surgery if there is a hole in the intestines or inflammation of the abdominal wall (peritonitis). In this surgery, the doctor will: Remove dead bowel tissue, Perform a  colostomy  or  ileostomy ,  The bowel may be reconnected after several weeks or months when the infection has healed.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002760-6" qtype="outlook">What is the outlook for Necrotizing enterocolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Necrotizing enterocolitis is a serious disease. Up to 40% of infants with NEC die from it. Early, aggressive treatment can help improve the outcome.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002760-7" qtype="complications">What are the complications of Necrotizing enterocolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Peritonitis,  Sepsis , Intestinal perforation,  Intestinal stricture , Liver problems from prolonged inability to tolerate enteral feeds and need for parenteral (IV) nutrition, Short bowel syndrome if a large amount of intestine is lost , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002760-8" qtype="when to contact a medical professional">Do I need to see a doctor for Necrotizing enterocolitis ?</Question>
-			<Answer></Answer>
+			<Answer>Get emergency medical care if any symptoms of necrotizing enterocolitis develop. Infants who are hospitalized for illness or prematurity are at higher risk for NEC. They are watched closely for this problem before they are sent home. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

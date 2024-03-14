@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000365" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000816.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Autoimmune disorders</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000365-1" qtype="information">What is (are) Autoimmune disorders ?</Question>
-			<Answer></Answer>
+			<Answer>An autoimmune disorder occurs when  the body's immune system  attacks and destroys healthy body tissue by mistake. There are more than 80 autoimmune disorders.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000365-2" qtype="causes">What causes Autoimmune disorders ?</Question>
-			<Answer></Answer>
+			<Answer>The blood cells in the body's immune system help protect against harmful substances. Examples include bacteria, viruses,  toxins ,  cancer  cells, and blood and tissue from outside the body. These substances contain antigens. The immune system produces  antibodies  against these antigens that enable it to destroy these harmful substances. When you have an autoimmune disorder, your immune system does not distinguish between healthy tissue and potentially harmful antigens. As a result, your body sets off a reaction that destroys normal tissues.  The exact cause of autoimmune disorders is unknown. One theory is that some microorganisms (such as bacteria or viruses) or drugs may trigger changes that confuse the immune system. This may happen more often in people who have genes that make them more prone to autoimmune disorders. An autoimmune disorder may result in: The destruction of body tissue, Abnormal growth of an organ, Changes in organ function ,  An autoimmune disorder may affect one or more organ or tissue types. Areas often affected by autoimmune disorders include: Blood vessels, Connective tissues,  Endocrine  glands such as the thyroid or pancreas, Joints, Muscles, Red blood cells, Skin ,  A person may have more than one autoimmune disorder at the same time. Common autoimmune disorders include: Addison disease ,  Celiac disease - sprue  (gluten-sensitive enteropathy),  Dermatomyositis ,  Graves disease ,  Hashimoto thyroiditis , Inflammatory bowel disease (Crohn disease, ulcerative colitis),  Multiple sclerosis ,  Myasthenia gravis ,  Pernicious anemia ,  Reactive arthritis ,  Rheumatoid arthritis ,  Sj&#246;gren syndrome ,  Systemic lupus erythematosus &#160;(lupus),  Type I diabetes , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000365-3" qtype="symptoms">What are the symptoms of Autoimmune disorders ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms will vary, based on the type and location of the faulty immune response. Common symptoms include: Fatigue ,  Fever ,  General ill feeling  (malaise),  Joint pain ,  Rash , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000365-4" qtype="exams and tests">How to diagnose Autoimmune disorders ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will do a physical exam. Signs depend on the type of disease. Tests that may be done to diagnose an autoimmune disorder include: Antinuclear antibody (ANA) tests , Autoantibody tests,  Complete blood count (CBC)  with white blood cell differential (CBC with WBC differential),  Comprehensive metabolic panel ,  C-reactive protein (CRP) ,  Erythrocyte sedimentation rate (ESR) ,  Urinalysis , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000365-5" qtype="treatment">What are the treatments for Autoimmune disorders ?</Question>
-			<Answer></Answer>
+			<Answer>The goals of treatment are to: Control the autoimmune process, Maintain your body's ability to fight disease, Reduce symptoms,  Treatments will depend on your disease and symptoms. Types of treatments include: Supplements to replace a substance that the body lacks, such as thyroid hormone, vitamin B12, or insulin, due to the autoimmune disease, Blood transfusions if blood is affected, Physical therapy to help with movement if the bones, joints, or muscles are affected ,  Many people take medicines to reduce the immune system's abnormal response. These are called immunosuppressive medicines. Examples include corticosteroids (such as prednisone) and nonsteroid drugs such as azathioprine, cyclophosphamide, mycophenolate, sirolimus, or tacrolimus. Targeted drugs such as tumor necrosis factor (TNF) blockers and Interleukin inhibitors can be used for some diseases.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000365-6" qtype="outlook">What is the outlook for Autoimmune disorders ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome depends on the disease. Most autoimmune diseases are  chronic , but many can be controlled with treatment. Symptoms of autoimmune disorders can come and go. When symptoms get worse, it is called a flare-up.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000365-7" qtype="complications">What are the complications of Autoimmune disorders ?</Question>
-			<Answer></Answer>
+			<Answer>Complications depend on the disease. Medicines used to suppress the immune system can cause severe side effects, such as higher risk for infections. </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000365-8" qtype="when to contact a medical professional">Do I need to see a doctor for Autoimmune disorders ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop symptoms of an autoimmune disorder.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000365-9" qtype="prevention">How to prevent Autoimmune disorders ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known prevention for most autoimmune disorders.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

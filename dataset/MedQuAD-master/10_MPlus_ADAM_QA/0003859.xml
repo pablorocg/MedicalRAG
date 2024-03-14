@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003859" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003936.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tay-Sachs - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003859-1" qtype="information">What is (are) Tay-Sachs - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations provide information on  Tay-Sachs disease : Genetic and Rare Diseases Information Center --  rarediseases.info.nih.gov/diseases/7737/tay-sachs-disease , National Human Genome Research Institute --  www.genome.gov/Genetic-Disorders/Tay-Sachs-Disease , National Organization for Rare Disorders --  rarediseases.org/rare-diseases/tay-sachs-disease/ , National Tay-Sachs &amp; Allied Diseases Association --  ntsad.org , US National Library of Medicine, Medline Plus --  medlineplus.gov/genetics/condition/tay-sachs-disease/ , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

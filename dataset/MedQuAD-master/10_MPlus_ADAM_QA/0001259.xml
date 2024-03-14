@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001259" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007668.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Diverticulosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -26,35 +25,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001259-1" qtype="information">What is (are) Diverticulosis ?</Question>
-			<Answer></Answer>
+			<Answer>Diverticulosis occurs when small, bulging sacs or pouches form on the inner wall of the intestine. These sacs are called diverticula. Most often, these pouches form in the large intestine (colon). They may also occur in the jejunum in the small intestine, although this is less common.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001259-2" qtype="causes">What causes Diverticulosis ?</Question>
-			<Answer></Answer>
+			<Answer>Diverticulosis is less common in people age 40 and younger. It's more common in older adults. About half of Americans over age 60 have this condition. Most people will have it by age 80. No one knows exactly what causes these pouches to form.  For many years, it was thought that eating a low-fiber diet may play a role. Not eating enough fiber can cause constipation (hard stools). Straining to pass stools (feces) increases the pressure in the colon or intestines. This may cause the pouches to form at weak spots in the colon wall. However, whether a low-fiber diet leads to this problem is not well proven. Other possible risk factors that are also not well proven are lack of exercise and obesity. Eating nuts, popcorn, or corn does not appear to lead to inflammation of these pouches ( diverticulitis ).</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001259-3" qtype="symptoms">What are the symptoms of Diverticulosis ?</Question>
-			<Answer></Answer>
+			<Answer>Most people with diverticulosis have no symptoms.  When symptoms occur, they may include: Pain and cramps in your stomach especially in the left lower abdomen,  Constipation  (sometimes diarrhea), Bloating or gas, Not feeling hungry and not eating,  You may notice small amounts of blood in your stools or on toilet paper. Rarely, more severe bleeding may occur.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001259-4" qtype="exams and tests">How to diagnose Diverticulosis ?</Question>
-			<Answer></Answer>
+			<Answer>Diverticulosis is often found during an exam for another health problem. For example, it is often discovered during a  colonoscopy . If you do have symptoms, you may have one or more of the following tests: Blood tests to see if you have an infection or have lost too much blood,  CT scan  or  ultrasound  of the abdomen if you have bleeding, loose stools, or pain,  A colonoscopy is needed to make the diagnosis: A colonoscopy is an exam that views the inside of the colon and rectum. This test should not be done when you are having symptoms of acute diverticulitis., A small camera attached to a tube can reach the length of the colon.,  Angiography : Angiography is an imaging test that uses x-rays and a special dye to see inside the blood vessels., This test may be used if the area of bleeding is not seen during a colonoscopy., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001259-5" qtype="treatment">What are the treatments for Diverticulosis ?</Question>
-			<Answer></Answer>
+			<Answer>Because most people have no symptoms, most of the time, no treatment is needed. Your health care provider may recommend getting more fiber in your diet. A  high-fiber diet  has many health benefits. Most people don't get enough fiber. To help prevent constipation, you should: Eat plenty of whole grains, beans, fruits, and vegetables. Limit processed foods., Drink plenty of fluids., Get regular exercise., Talk with your provider about taking a fiber supplement. ,  You should avoid NSAIDs such as aspirin, ibuprofen (Motrin), and naproxen (Aleve). These medicines can make bleeding more likely. For bleeding that does not stop or recurs: Colonoscopy may be used to inject medicines or burn a certain area in the intestine to stop the bleeding., Angiography may be used to infuse medicines or block off a blood vessel. ,  If bleeding does not stop or recurs many times,  removal of a section of the colon  may be needed.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001259-6" qtype="outlook">What is the outlook for Diverticulosis ?</Question>
-			<Answer></Answer>
+			<Answer>Most people who have diverticulosis have no symptoms. Once these pouches have formed, you will have them for life. Up to 25% of people with the condition will develop  diverticulitis . This occurs when small pieces of stool become trapped in the pouches, causing infection or swelling.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001259-7" qtype="complications">What are the complications of Diverticulosis ?</Question>
-			<Answer></Answer>
+			<Answer>More serious problems that may develop include: Abnormal connections that form between parts of the colon or between the colon and another part of the body (fistula), Hole or tear in the colon (perforation), Narrowed area in the colon (stricture), Pockets filled with pus or infection (abscess) , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001259-8" qtype="when to contact a medical professional">Do I need to see a doctor for Diverticulosis ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if symptoms of  diverticulitis  occur.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

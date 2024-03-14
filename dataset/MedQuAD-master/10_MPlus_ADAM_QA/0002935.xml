@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002935" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000393.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pancreatic islet cell tumor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,52 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002935-1" qtype="information">What is (are) Pancreatic islet cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>A pancreatic islet cell  tumor  is a rare tumor of the pancreas that starts from a type of cell called the islet cell.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002935-2" qtype="causes">What causes Pancreatic islet cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>In the healthy pancreas, cells called islet cells produce hormones that regulate several bodily functions. These include blood sugar level and the production of stomach acid. Tumors that arise from islet cells of the pancreas can also produce a variety of hormones, which can lead to specific symptoms.  Pancreatic islet cell tumors can be noncancerous ( benign ) or cancerous (malignant). Islet cell tumors include: Gastrinoma ( Zollinger-Ellison syndrome ),  Glucagonoma &#160;,  Insulinoma , Somatostatinoma , VIPoma (Verner-Morrison syndrome),  A family history of multiple  endocrine  neoplasia, type I ( MEN I ) is a risk factor for the development of islet cell tumors.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002935-3" qtype="symptoms">What are the symptoms of Pancreatic islet cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms depend on which&#160;hormone is made by the tumor. For example, insulinomas produce insulin, which lowers blood sugar level. Symptoms may include: 
+   Feeling tired or weak, Shaking or sweating, Headache, Hunger, Nervousness, anxiety, or feeling irritable, Unclear thinking or feeling uneasy, Double or blurry vision, Fast or pounding heartbeat,  If your blood sugar level gets too low, you may faint, have a seizure, or even go into a coma. Gastrinomas make the hormone gastrin, which tells the body to make stomach acid. Symptoms may include: 
+   Abdominal pain, Diarrhea, Ulcers in the stomach and small bowel, Vomiting blood (occasionally),  Glucagonomas make the hormone glucagon, which helps the body raise blood sugar level. Symptoms can include: 
+   Diabetes, Red, blistery rash in the groin or buttocks, Weight loss, Frequent urination and thirst,  Somatostatinomas make the hormone somatostatin. Symptoms may include: High blood sugar, Gallstones, Yellowish appearance to skin, and eyes, Weight loss, Diarrhea with foul smelling stools,  VIPomas make the hormone vasoactive intestinal peptide (VIP) which is involved in maintaining the balance of salts, sodium, potassium and other minerals in the GI tract. VIPomas may cause: Severe diarrhea that may lead to dehydration, Low blood potassium levels, and high calcium levels, Abdominal cramps, Weight loss, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002935-4" qtype="exams and tests">How to diagnose Pancreatic islet cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will take your medical history and perform a physical exam. Blood tests may vary, depending upon the symptoms, but may include: Fasting glucose  level,  Gastrin level ,  Glucose tolerance test ,  Secretin stimulation test  for pancreas,  Blood glucagon  level,  Blood insulin C-peptide , Blood insulin level , Fasting serum somatostatin level, Serum vasoactive intestinal peptide (VIP) level,  Imaging tests may be done: Abdominal CT scan ,  Abdominal ultrasound , Endoscopic  ultrasound ,  MRI of abdomen ,  A blood sample may also be taken from a vein in the pancreas for testing. Sometimes, surgery is needed to diagnose and treat this condition. During this procedure, the surgeon examines the pancreas by hand and with ultrasound.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002935-5" qtype="treatment">What are the treatments for Pancreatic islet cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment depends on the type of tumor and if it is cancerous.  Cancerous tumors can grow quickly and spread to other organs. They may not be treatable. Tumors are often removed with surgery, if possible. If cancer cells spread to the liver, a part of the liver may also be removed, if possible. If the cancer is widespread, chemotherapy may be used to try and shrink the tumors. If the abnormal production of hormones is causing symptoms, you may receive medicines to counteract their effects. For example, with gastrinomas, the overproduction of gastrin leads to too much acid in the stomach. Medicines that block stomach acid release can reduce symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002935-6" qtype="outlook">What is the outlook for Pancreatic islet cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>You may be cured if the tumors are surgically removed before they have spread to other organs. If tumors are cancerous, chemotherapy may be used, but it usually cannot cure people. Life-threatening problems (such as very low blood sugar) can occur due to excess hormone production, or if the cancer spreads throughout the body.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002935-7" qtype="complications">What are the complications of Pancreatic islet cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Complications of these tumors include: 
+   Diabetes
+   , 
+   Hormone crises (if the tumor releases certain types of hormones)
+   , 
+   Severe low blood sugar (from insulinomas)
+   , 
+   Severe ulcers in the stomach and small intestine (from gastrinomas)
+   , 
+   Spread of the tumor to the liver
+   , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002935-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pancreatic islet cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop symptoms of these tumors, especially if you have a family history of MEN I.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002935-9" qtype="prevention">How to prevent Pancreatic islet cell tumor ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known prevention for these tumors.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

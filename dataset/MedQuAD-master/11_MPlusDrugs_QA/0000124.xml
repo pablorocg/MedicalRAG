@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000124" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a612011.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Belatacept Injection</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,43 +7,46 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000124-1" qtype="important warning">What important warning or information should I know about Belatacept Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Receiving belatacept injection may increase the risk that you will develop post-transplant lymphoproliferative disorder (PTLD, a serious condition with rapid growth of certain white blood cells, which may develop into a type of cancer). The risk for developing PTLD is higher if you have not been exposed to Epstein-Barr virus (EBV, a virus causing mononucleosis or ''mono'') or if you have cytomegalovirus infection (CMV) or have received other treatments that lower amounts of T lymphocytes (a type of white blood cell) in your blood. Your doctor will order certain lab tests to check for these conditions before you begin treatment with this medication. If you have not been exposed to Epstein-Barr virus, your doctor will probably not give you belatacept injection. If you experience any of the following symptoms after receiving belatacept injection, call your doctor immediately: confusion, difficulty thinking, problems with memory, changes in mood or your usual behavior, changes in the way you walk or talk, decreased strength or weakness on one side of your body, or changes in vision. Receiving belatacept injection may also increase the risk for developing cancers, including skin cancer, and serious infections, including tuberculosis (TB, a bacterial lung infection) and progressive multifocal leukoencephalopathy (PML, a rare, serious brain infection). If you experience any of the following symptoms after receiving belatacept, call your doctor right away: a new skin lesion or bump, or a change in the size or color of a mole, fever, sore throat, chills, cough, and other signs of infection; night sweats; tiredness that does not go away; weight loss; swollen lymph nodes; flu-like symptoms; pain in the stomach area; vomiting; diarrhea; tenderness over the area of the transplanted kidney; frequent or painful urination; blood in the urine; clumsiness; increasing weakness; personality changes; or changes in vision and speech. Belatacept injection should only be given in a medical facility under the supervision of a doctor who is experienced in treating people who have had a kidney transplant and in prescribing medications that decrease the activity of the immune system. Belatacept injection may cause rejection of the new liver or death in people who have had liver transplants. This medication should not be given to prevent rejection of liver transplants. Your doctor or pharmacist will give you the manufacturer's patient information sheet (Medication Guide) when you begin treatment with belatacept injection and each time you refill your prescription. Read the information carefully and ask your doctor or pharmacist if you have any questions. You can also visit the Food and Drug Administration (FDA) website ( http://www.fda.gov/Drugs/DrugSafety/ucm085729.htm ) or the manufacturer's website to obtain the Medication Guide. Talk to your doctor about the risks of receiving treatment with belatacept.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000124-2" qtype="indication">Who should get Belatacept Injection and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Belatacept injection is used in combination with other medications to prevent rejection (attack of a transplanted organ by the immune system of a person receiving the organ) of kidney transplants. Belatacept injection is in a class of medications called immunosuppressants. It works by decreasing the activity of the immune system to prevent it from attacking the transplanted kidney.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000124-3" qtype="usage">How should Belatacept Injection be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Belatacept injection comes as a solution (liquid) to be injected over 30 minutes into a vein, usually by a doctor or nurse in a hospital or medical facility. It is usually given on the day of transplant, 5 days after transplant, at the end of weeks 2 and 4, then once every 4 weeks. Your doctor will monitor you carefully. Talk to your doctor about how you are feeling during your treatment.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000124-5" qtype="precautions">Are there safety concerns or special precautions about Belatacept Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Before receiving belatacept injection, tell your doctor and pharmacist if you are allergic to belatacept or any other medications, or any of the ingredients in belatacept injection. Ask your pharmacist or check the Medication Guide for a list of the ingredients., tell your doctor and pharmacist what other prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take. Your doctor may need to change the doses of your medications or monitor you carefully for side effects., tell your doctor if you have any medical conditions., tell your doctor if you are pregnant, plan to become pregnant, or are breast-feeding. If you become pregnant while taking belatacept injection, call your doctor., if you are having surgery, including dental surgery, tell the doctor or dentist that you are receiving belatacept injection., plan to avoid unnecessary or prolonged exposure to sunlight, tanning beds, and sun lamps. Belatacept may make your skin sensitive to sunlight. Wear protective clothing, sunglasses, and sunscreen with a high protection factor (SPF) when you have to be in the sun during your treatment., do not have any vaccinations without talking to your doctor., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000124-6" qtype="dietary">What special dietary instructions should I follow with Belatacept Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000124-7" qtype="forget a dose">What should I do if I forget a dose of Belatacept Injection ?</Question>
-			<Answer></Answer>
+			<Answer>If you miss an appointment to receive belatacept injection, call your doctor as soon as possible.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000124-8" qtype="side effects">What are the side effects or risks of Belatacept Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Belatacept injection may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ headache, excessive tiredness, pale skin, fast heart beat, weakness, swelling of the hands, feet, ankles, or lower legs, constipation,  Some side effects can be serious. If you experience any of these symptoms, or those listed in the IMPORTANT WARNING section, call your doctor immediately:
+ shortness of breath,  Belatacept injection may cause other side effects. Call your doctor if you have any unusual problems while receiving this medication. If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000124-9" qtype="emergency or overdose">What to do in case of emergency or overdose of Belatacept Injection ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911. Symptoms of overdose may include the following:
+ confusion, difficulty remembering, change in mood, personality, or behavior, clumsiness, change in walking or talking, decreased strength or weakness on one side of body, change in vision or speech, </Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000124-10" qtype="other information">What other information should I know about Belatacept Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor and the laboratory. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="11">
 			<Question qid="0000124-11" qtype="brand names">What are the brand names of Belatacept Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Nulojix &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

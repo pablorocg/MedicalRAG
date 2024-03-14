@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001829" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000424.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Headaches - danger signs</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,15 +16,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001829-1" qtype="information">What is (are) Headaches - danger signs ?</Question>
-			<Answer></Answer>
+			<Answer>A  headache  is a pain or discomfort in the head, scalp, or neck. Common types of headaches include  tension headaches ,  migraine  or  cluster headaches , sinus headaches, and headaches that begin in your neck. You may have a mild headache with a  cold , the  flu , or other viral illnesses when you also have a low fever. Some headaches are a sign of a more serious problem and need medical attention right away.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001829-2" qtype="causes">What causes Headaches - danger signs ?</Question>
-			<Answer></Answer>
+			<Answer>Problems with blood vessels and bleeding in the brain can cause a headache. These problems include: Abnormal connection between the arteries and veins in the brain that usually forms before birth. This problem is called an  arteriovenous malformation , or AVM., Blood flow to part of the brain stops. This is called a  stroke ., Weakening of the wall of a blood vessel that can break open and bleed into the brain. This is known as a  brain aneurysm ., Bleeding in the brain. This is called an intracerebral hematoma., Bleeding around the brain. This can be a  subarachnoid hemorrhage , a  subdural hematoma , or an  epidural hematoma . , Clots in the veins prevent blood flow from leaving the brain (sinus thrombosis).,  Other causes of headaches that should be checked by a health care provider right away include: Acute  hydrocephalus , which results from an interruption of cerebrospinal fluid flow.,  Blood pressure  that is very high.,  Brain tumor ., Brain swelling (brain edema) from altitude sickness, carbon monoxide poisoning, or acute brain injury., Buildup of pressure inside the skull that appears to be, but is not, a tumor ( pseudotumor cerebri ).,  Infection in the brain  or  the tissue that surrounds the brain , as well as a  brain abscess ., Swollen, inflamed artery that supplies blood to part of the head, temple, and neck area ( temporal arteritis ). , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001829-3" qtype="when to contact a medical professional">Do I need to see a doctor for Headaches - danger signs ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

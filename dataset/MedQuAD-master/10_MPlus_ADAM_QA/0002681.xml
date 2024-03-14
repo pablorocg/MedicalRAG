@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002681" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003196.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Movement - unpredictable or jerky</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002681-1" qtype="information">Do you have information about Movement - unpredictable or jerky</Question>
-			<Answer></Answer>
+			<Answer>Jerky body movement is a condition in which a person makes fast movements that they cannot control and that have no purpose. These movements interrupt the person's normal movement or posture. When abnormal movements are excessive, they are called &#8216;hyperkinetic&#8217; movements and include myoclonus (jerking and twitching) and ballismus (violent flinging of extremities), chorea (slow, twisting, or continued movements), among others.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001182" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000080.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Diabetes - preventing heart attack and stroke</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001182-1" qtype="information">What is (are) Diabetes - preventing heart attack and stroke ?</Question>
-			<Answer></Answer>
+			<Answer>People with  diabetes  have a higher chance of having heart attacks and strokes than those without diabetes. Smoking and having high blood pressure and high cholesterol increase these risks even more. Controlling blood sugar, blood pressure, and cholesterol levels are very important for preventing heart attacks and strokes. See your doctor who treats your diabetes as often as instructed. During these visits, health care providers will check your cholesterol, blood sugar, and blood pressure. You may also be instructed to take medicines.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

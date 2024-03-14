@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000463" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003238.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Blackheads</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000463-1" qtype="information">What is (are) Blackheads ?</Question>
-			<Answer></Answer>
+			<Answer>Blackheads are tiny, dark spots on the skin. They are caused by a small plug in the opening of a follicle (pore). Blackheads are also called open  comedones . They are one type of acne, often on the face, chest and back. Related conditions include: Acne ,  Whiteheads , </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000463-2" qtype="considerations">What to do for Blackheads ?</Question>
-			<Answer></Answer>
+			<Answer>Blackheads can be treated with creams that contain salicylic acid or tretinoin. They can be removed by a skin doctor.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

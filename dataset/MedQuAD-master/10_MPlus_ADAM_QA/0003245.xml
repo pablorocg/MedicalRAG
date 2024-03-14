@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003245" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000403.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Prostate cancer - treatment</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003245-1" qtype="information">What is (are) Prostate cancer - treatment ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment for your  prostate cancer  is chosen after a thorough evaluation. Your health care provider will discuss the benefits and risks of each treatment. Sometimes your provider may recommend one treatment for you because of your type of cancer and risk factors. Other times, there may be two or more treatments that could be good for you. Factors you and your provider must think about include: Your age and other medical problems you may have, Side effects that occur with each type of treatment, Whether the prostate cancer is localized or how much the prostate cancer has spread&#160;(described by the  stage of the cancer ), Your  Gleason score , which tells how aggressive the cancer is, Your  prostate-specific antigen (PSA) test  result ,  Ask your provider to explain these things following about your treatment choices: Which choices offer the best chance of curing your cancer or controlling its spread?, How likely is it that you will have different side effects, and how they will affect your life? , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

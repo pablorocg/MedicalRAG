@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003414" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001037.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Rhinophyma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,35 +21,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003414-1" qtype="information">What is (are) Rhinophyma ?</Question>
-			<Answer></Answer>
+			<Answer>Rhinophyma is a large red-colored (ruddy) nose. The nose has a bulb shape.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003414-2" qtype="causes">What causes Rhinophyma ?</Question>
-			<Answer></Answer>
+			<Answer>Rhinophyma was once thought to be caused by heavy alcohol use. This is not correct. Rhinophyma occurs equally in people who do not use alcohol and in those who drink heavily. The problem is much more common in men than in women. The cause of rhinophyma is unknown. It may be a severe form of a skin disease called  rosacea . It is an uncommon disorder.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003414-3" qtype="symptoms">What are the symptoms of Rhinophyma ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include changes in the nose, such as: Bulb-like (bulbous) shape, Many oil glands, Reddish color (possible), Thickening of the skin, Waxy, yellow surface , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003414-4" qtype="exams and tests">How to diagnose Rhinophyma ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, a health care provider can diagnose rhinophyma without any tests. Sometimes a skin biopsy may be needed.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003414-5" qtype="treatment">What are the treatments for Rhinophyma ?</Question>
-			<Answer></Answer>
+			<Answer>The most common treatment is surgery to reshape the nose. Surgery may be done with a  laser , scalpel, or rotating brush ( dermabrasion ). Certain acne medicines may also help treat the condition.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003414-6" qtype="outlook">What is the outlook for Rhinophyma ?</Question>
-			<Answer></Answer>
+			<Answer>Rhinophyma can be corrected with surgery. The condition may return.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003414-7" qtype="complications">What are the complications of Rhinophyma ?</Question>
-			<Answer></Answer>
+			<Answer>Rhinophyma can cause emotional distress. This is because of the way it looks.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003414-8" qtype="when to contact a medical professional">Do I need to see a doctor for Rhinophyma ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have symptoms of rhinophyma and would like to talk about treatment.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

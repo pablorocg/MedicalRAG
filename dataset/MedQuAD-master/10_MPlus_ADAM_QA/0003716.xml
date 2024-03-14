@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003716" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007577.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Stereotactic radiosurgery - Gamma Knife</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003716-1" qtype="information">Do you have information about Stereotactic radiosurgery - Gamma Knife</Question>
-			<Answer></Answer>
+			<Answer>Stereotactic radiosurgery (SRS) is a form of radiation therapy that focuses high-power energy on a small area of the body. Despite its name, radiosurgery is not actually a surgical procedure -- there is no cutting or sewing, rather it is a radiation therapy treatment technique. More than one system  is used to perform radiosurgery. This article is about Gamma Knife radiosurgery.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

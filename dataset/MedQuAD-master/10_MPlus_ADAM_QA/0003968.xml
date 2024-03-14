@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003968" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002214.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tooth anatomy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003968-1" qtype="information">Do you have information about Tooth anatomy</Question>
-			<Answer></Answer>
+			<Answer>The part of the tooth you can see is called the crown. The outer surface of the crown is made of enamel. Just beneath the enamel is dentin, a substance harder than bone. The gum surrounds the base (root) of the tooth. The root of the tooth extends down into the jawbone. The root contains blood vessels and nerves, which supply blood and feeling to the whole tooth. This area is known as the "pulp" of the tooth. The jawbone is attached to all of the teeth. It keeps your teeth stable and allows you to move your mouth and teeth to chew. The lower jawbone is called the mandible. The upper jawbone is called the maxilla.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

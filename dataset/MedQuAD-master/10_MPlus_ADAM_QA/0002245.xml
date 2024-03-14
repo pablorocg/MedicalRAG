@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002245" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000801.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Isolated sleep paralysis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,19 +20,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002245-1" qtype="information">What is (are) Isolated sleep paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>Sleep paralysis is a condition in which you are unable to move or speak right as you're falling asleep or waking up. During an episode of sleep paralysis, you are totally aware of what is happening.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002245-2" qtype="symptoms">What are the symptoms of Isolated sleep paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>The normal sleep cycle has stages, from light drowsiness to deep sleep. During the stage called rapid eye movement (REM) sleep, your eyes move quickly and vivid dreaming is most common. Each night, people go through several cycles of non-REM and REM sleep. During REM sleep, your body is relaxed and your muscles don't move. Sleep paralysis occurs when the sleep cycle is shifting between stages. When you wake up suddenly from REM, your brain is awake, but your body is still in REM mode and can't move, causing you to feel like you're paralyzed. Episodes of sleep paralysis last from a few seconds to 1 or 2 minutes. These spells end on their own or when you are touched or moved. In rare cases, you can have dream-like sensations or  hallucinations , which may be scary. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002245-3" qtype="exams and tests">How to diagnose Isolated sleep paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will ask about your symptoms, focusing on your sleep habits and things that may affect your sleep. You may be asked to fill out a questionnaire about your sleep to help your provider reach a diagnosis.  Sleep paralysis can be a sign of  narcolepsy . But if you do not have other symptoms of narcolepsy, there is usually no need to have  sleep studies  done.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002245-4" qtype="treatment">What are the treatments for Isolated sleep paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>In most cases, sleep paralysis occurs so rarely that treatment is not needed. If the cause is known, for example, due to lack of sleep, correcting the cause by getting enough sleep often resolves the condition. Sometimes, medicines that prevent REM during sleep are prescribed. In people with mental health conditions, such as anxiety, medicine and behavioral therapy (talk therapy) to help treat the mental health condition may resolve sleep paralysis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

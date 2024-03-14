@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003205" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000702.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Preparing for surgery when you have diabetes</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003205-1" qtype="information">What is (are) Preparing for surgery when you have diabetes ?</Question>
-			<Answer></Answer>
+			<Answer>You may need surgery for a diabetes related condition. Or, you may need surgery for a medical problem that is unrelated to your  diabetes . Your diabetes may increase your risk for problems during or after your surgery, such as: Infection after surgery (especially at the site of the surgery), Healing more slowly, Fluid,  electrolyte , and kidney problems, Heart problems, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

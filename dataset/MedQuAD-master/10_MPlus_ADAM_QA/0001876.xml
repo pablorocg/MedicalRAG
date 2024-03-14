@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001876" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000363.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Heart failure - surgeries and devices</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001876-1" qtype="information">What is (are) Heart failure - surgeries and devices ?</Question>
-			<Answer></Answer>
+			<Answer>The main treatments for  heart failure  are making lifestyle changes and taking your medicines. However, there are procedures and surgeries that may help.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

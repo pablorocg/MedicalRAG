@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001401" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000398.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Enlarged prostate - after care</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,11 +21,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001401-1" qtype="information">What is (are) Enlarged prostate - after care ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider has told you that you have an enlarged  prostate gland . Here are some things to know about your condition.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001401-4" qtype="when to contact a medical professional">Do I need to see a doctor for Enlarged prostate - after care ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

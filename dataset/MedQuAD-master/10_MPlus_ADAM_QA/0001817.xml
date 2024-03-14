@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001817" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000457.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hazardous materials</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001817-1" qtype="information">Do you have information about Hazardous materials</Question>
-			<Answer></Answer>
+			<Answer>Hazardous materials are substances that could harm human health or the environment. Hazardous means dangerous, so these materials must be handled the right way. Hazard communication, or HAZCOM is teaching people how to work with hazardous materials and waste. There are many different kinds of hazardous materials, including: Chemicals, like some that are used for cleaning, Medicines, like chemotherapy to treat cancer, Radioactive material that is used for x-rays or radiation treatments, Human or animal tissue, blood, or other substances from the body that may carry harmful germs, Gases that are used to make people sleep during surgery,  Hazardous materials can harm you if they: Touch your skin, Splash into your eyes, Get into your airways or lungs when you breathe, Cause fires or explosions,  Your hospital or workplace has policies about how to deal with these materials. You will receive special training if you work with these materials.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

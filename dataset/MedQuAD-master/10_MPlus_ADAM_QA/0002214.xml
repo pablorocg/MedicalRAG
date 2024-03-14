@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002214" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002927.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Intestinal obstruction repair</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,19 +23,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002214-1" qtype="information">What is (are) Intestinal obstruction repair ?</Question>
-			<Answer></Answer>
+			<Answer>Intestinal obstruction repair is surgery to relieve a  bowel obstruction . A bowel obstruction occurs when the contents of the intestines cannot pass through and exit the body. A complete obstruction is a surgical emergency.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002214-2" qtype="information">What is (are) Intestinal obstruction repair ?</Question>
-			<Answer></Answer>
+			<Answer>Intestinal obstruction repair is surgery to relieve a  bowel obstruction . A bowel obstruction occurs when the contents of the intestines cannot pass through and exit the body. A complete obstruction is a surgical emergency.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002214-4" qtype="susceptibility">Who is at risk for Intestinal obstruction repair? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002214-6" qtype="outlook">What is the outlook for Intestinal obstruction repair ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome is usually good if the obstruction is treated before bowel blood flow is affected. People who have had many abdominal surgeries may form scar tissue. They are more likely to have bowel obstructions in the future.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

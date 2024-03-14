@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000556" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000633.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Breast milk - pumping and storing</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000556-1" qtype="information">Do you have information about Breast milk - pumping and storing</Question>
-			<Answer></Answer>
+			<Answer>Breast milk is the best nutrition for your baby. Learn to pump, collect, and store breast milk. You can continue to give your baby breast milk when you return to work. Find a lactation consultant, also called a breastfeeding expert, for help if you need it. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

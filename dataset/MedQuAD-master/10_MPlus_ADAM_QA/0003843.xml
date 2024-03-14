@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003843" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000413.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Taking narcotics for back pain</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,7 +23,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003843-1" qtype="information">What is (are) Taking narcotics for back pain ?</Question>
-			<Answer></Answer>
+			<Answer>Narcotics are strong medicines that are sometimes used to treat pain. They are also called opioids. You take them only when your pain is so severe that you cannot work or do your daily tasks. They may also be used if other types of pain medicine do not relieve pain. Narcotics can provide short-term relief of severe back pain. This can allow you to return to your normal daily routine. Narcotics work by attaching themselves to pain receptors in your brain. Pain receptors receive chemical signals sent to your brain and help create the sensation of pain. When narcotics attach to pain receptors, the medicine can block the feeling of pain. Even though narcotics can block the pain, they cannot cure the cause of your pain.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

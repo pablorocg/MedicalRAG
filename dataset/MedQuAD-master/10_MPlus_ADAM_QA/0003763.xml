@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003763" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001501.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Subareolar abscess</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003763-1" qtype="information">What is (are) Subareolar abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Subareolar  abscess  is an abscess, or growth, on the areolar gland. The areolar gland is located in the breast under or below the areola (colored area around the nipple).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003763-2" qtype="causes">What causes Subareolar abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Subareolar abscess is caused by a blockage of the small glands or ducts below the skin of the areola. This blockage leads to infection of the glands. This is an uncommon problem. It affects younger or middle-aged women who are not breastfeeding. Risk factors include: Diabetes, Nipple piercing, Smoking, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003763-3" qtype="symptoms">What are the symptoms of Subareolar abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of an areolar abscess are: Swollen, tender lump beneath the areolar area, with swelling and warmth of the skin over it, Drainage and possible pus from this lump,  Fever and chills ,  General ill feeling or fatigue , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003763-4" qtype="exams and tests">How to diagnose Subareolar abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a breast exam. Sometimes an  ultrasound  or other imaging test of the breast is recommended. A blood count and a culture of the abscess, if drained, may be ordered.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003763-5" qtype="treatment">What are the treatments for Subareolar abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Subareolar abscesses are treated with antibiotics and by opening and draining the infected tissue. This can be done in a doctor's office with local numbing medicine. If the abscess returns, the affected glands should be surgically removed. The abscess can also be drained using a sterile needle. This is often done under ultrasound guidance.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003763-6" qtype="outlook">What is the outlook for Subareolar abscess ?</Question>
-			<Answer></Answer>
+			<Answer>The outlook is good after the abscess is drained.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003763-7" qtype="complications">What are the complications of Subareolar abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Subareolar abscess may return until the affected gland is surgically removed. Any infection in a female who is not nursing has the potential to be due to a rare form of breast cancer. You may need to have a biopsy or other tests if standard treatment fails.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003763-8" qtype="when to contact a medical professional">Do I need to see a doctor for Subareolar abscess ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop a painful lump under your nipple or areola. It is very important to have your provider evaluate any breast mass.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

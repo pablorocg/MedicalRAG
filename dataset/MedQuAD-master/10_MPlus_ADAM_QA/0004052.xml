@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004052" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000288.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tubal ligation - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004052-1" qtype="information">Do you have information about Tubal ligation - discharge</Question>
-			<Answer></Answer>
+			<Answer>Tubal ligation is surgery to close the fallopian tubes. After tubal ligation, a woman is sterile. This article tells you how to care for yourself after leaving the hospital.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

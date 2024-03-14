@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004126" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003141.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Urinating more at night</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004126-1" qtype="information">Do you have information about Urinating more at night</Question>
-			<Answer></Answer>
+			<Answer>Normally, the amount of urine your body produces decreases at night. This allows most people to sleep 6 to 8 hours without having to urinate. Some people wake up from sleep more often to urinate during the night. This can disrupt sleep cycles.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003164" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000503.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Post-streptococcal glomerulonephritis (GN)</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,39 +22,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003164-1" qtype="information">What is (are) Post-streptococcal glomerulonephritis (GN) ?</Question>
-			<Answer></Answer>
+			<Answer>Poststreptococcal glomerulonephritis (GN) is a kidney disorder that occurs after infection with certain strains of streptococcus bacteria.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003164-2" qtype="causes">What causes Post-streptococcal glomerulonephritis (GN) ?</Question>
-			<Answer></Answer>
+			<Answer>Poststreptococcal GN is a form of  glomerulonephritis . It is caused by an infection with a type of streptococcus bacteria. The infection does not occur in the kidneys, but in a different part of the body, such as the skin or throat. The disorder may develop 1 to 2 weeks after an untreated throat infection, or 3 to 4 weeks after a skin infection. It may occur in people of any age, but it most often occurs in children ages 6 through 10. Although skin and throat infections are common in children, poststreptococcal GN is rarely a complication of these infections. Poststreptococcal GN causes the tiny blood vessels in the filtering units of the kidneys (glomeruli) to become inflamed. This makes the kidneys less able to filter the blood to create urine. The condition is not common today because infections that can lead to the disorder are treated with antibiotics. Risk factors include: Strep throat , Streptococcal skin infections (such as  impetigo ), </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003164-3" qtype="symptoms">What are the symptoms of Post-streptococcal glomerulonephritis (GN) ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include any of the following: Decreased urine output , Rust-colored urine, Swelling (edema), general swelling, swelling of the abdomen, swelling of the face or eyes, swelling of the feet, ankles, hands, Visible blood in the urine, Joint pain, Joint stiffness or swelling , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003164-4" qtype="exams and tests">How to diagnose Post-streptococcal glomerulonephritis (GN) ?</Question>
-			<Answer></Answer>
+			<Answer>A physical examination shows swelling (edema), especially in the face. Abnormal sounds may be heard when listening to the heart and lungs with a stethoscope. Blood pressure is often high. Other tests that may be done include: Anti-DNase B ,  Serum ASO  (and streptolysin O),  Serum complement levels ,  Urinalysis ,  Kidney biopsy  (usually not needed) , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003164-5" qtype="treatment">What are the treatments for Post-streptococcal glomerulonephritis (GN) ?</Question>
-			<Answer></Answer>
+			<Answer>There is no specific treatment for this disorder. Treatment is focused on relieving symptoms. Antibiotics, such as penicillin, will likely be used to destroy any streptococcal bacteria that remain in the body., Blood pressure medicines and diuretic drugs may be needed to control swelling and high blood pressure., Corticosteroids and other anti-inflammatory medicines are generally not effective.,  You may need to limit salt in your diet to control swelling and high blood pressure.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003164-6" qtype="outlook">What is the outlook for Post-streptococcal glomerulonephritis (GN) ?</Question>
-			<Answer></Answer>
+			<Answer>Poststreptococcal GN usually goes away by itself after several weeks to months. In small number of adults, it may get worse and lead to long-term (chronic) kidney failure. Sometimes, it can progress to  end-stage kidney disease , which requires  dialysis  and a  kidney transplant .</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003164-7" qtype="complications">What are the complications of Post-streptococcal glomerulonephritis (GN) ?</Question>
-			<Answer></Answer>
+			<Answer>Health problems that may result from this disorder include: Acute renal failure  (rapid loss of kidneys' ability to remove waste and help balance fluids and electrolytes in the body), Chronic glomerulonephritis, Chronic kidney disease,  Heart failure  or  pulmonary edema  (fluid buildup in the lungs),  End-stage renal disease ,  Hyperkalemia  (abnormally high potassium level in the blood), High blood pressure (hypertension),  Nephrotic syndrome  (group of symptoms that include protein in the urine, low blood protein levels in the blood, high cholesterol levels, high triglyceride levels, and swelling), </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003164-8" qtype="when to contact a medical professional">Do I need to see a doctor for Post-streptococcal glomerulonephritis (GN) ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if: You have symptoms of poststreptococcal GN, You have poststreptococcal GN, and you have decreased urine output or other new symptoms, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003164-9" qtype="prevention">How to prevent Post-streptococcal glomerulonephritis (GN) ?</Question>
-			<Answer></Answer>
+			<Answer>Treating known streptococcal infections may help prevent poststreptococcal GN. Also, practicing good hygiene such as washing hands often prevents the spread of the infection.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

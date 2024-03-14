@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000354" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000184.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Atrial fibrillation or flutter</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,35 +24,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000354-1" qtype="information">What is (are) Atrial fibrillation or flutter ?</Question>
-			<Answer></Answer>
+			<Answer>Atrial fibrillation (Afib) and atrial flutter are common types of abnormal heart rhythms (arrhythmias) which affect the upper chambers (atria) of the heart. In atrial flutter, the heart beats too fast, but mostly continues to contract in a regular rhythm. AFib is a closely related condition in which the atria contract in a chaotic manner, or "quivers." This creates an irregular heart rhythm that is also usually too fast. Afib and atrial flutter often occur in the same person at different times.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000354-2" qtype="causes">What causes Atrial fibrillation or flutter ?</Question>
-			<Answer></Answer>
+			<Answer>When working well, the 4 chambers of the heart contract (squeeze) in an organized way. Electrical signals direct your heart to pump the right amount of blood for your body's needs. The signals begin in an area called the sinoatrial node (also called the sinus node or SA node). In people with AFib, the electrical impulse of the heart is not regular. This is because the sinoatrial node no longer controls the sequence of heart muscle contractions (rhythm) in the upper chambers of the heart (atria). In AFib:&#160; The atria do not contract in an organized pattern., The lower chambers of the heart (ventricles) contract in an irregular manner that is often too fast., As a result, the heart cannot pump enough blood to meet the body's needs.,  In people with atrial flutter, the atria beat very rapidly, but in a regular pattern. These problems can affect both men and women. They become more common with increasing age. Common causes of AFib include: Alcohol use (especially binge drinking),  Coronary artery disease ,  Heart attack  or  heart bypass surgery ,  Heart failure  or an  enlarged heart , Heart valve disease (most often the mitral valve),  Hypertension , Medicines, Overactive thyroid gland ( hyperthyroidism ),  Pericarditis ,  Sick sinus syndrome , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000354-3" qtype="symptoms">What are the symptoms of Atrial fibrillation or flutter ?</Question>
-			<Answer></Answer>
+			<Answer>You may not be aware that your heart is not beating in a normal pattern. When symptoms are present, they may include one or more of the following: Pulse  that feels rapid, racing, pounding or thumping, fluttering, irregular, or too slow., Sensation of feeling the heart beat ( palpitations ).,  Confusion .,  Dizziness , lightheadedness.,  Fainting .,  Fatigue ., Weakness., Loss of ability to exercise., Shortness of breath and anxiety., Sweating.,  Chest pain or pressure , which may be a sign of a heart attack. Call 911 or the local emergency number right away if you have chest pain or pressure., </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000354-4" qtype="exams and tests">How to diagnose Atrial fibrillation or flutter ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider may hear a fast heartbeat while listening to your heart with a stethoscope. Your pulse may feel fast, uneven, or both. The normal heart rate is 60 to 100 beats per minute. In Afib or flutter, the heart rate may be as high as 250 to 350 beats per minute and is very often over 100 beats per minute. Blood pressure may be normal or low. An  ECG  (a test that records the electrical activity of the heart) may show AFib or atrial flutter. If your abnormal heart rhythm comes and goes, you may need to wear a special monitor to diagnose the problem. The monitor records the heart's rhythms over a period of time. Event monitor (3 to 4 weeks),  Holter monitor  (24-hour test), Implanted loop recorder (extended monitoring),  Tests to find heart disease may include: Echocardiogram  (ultrasound imaging of the heart), Tests to examine the blood supply of the heart muscle,  Tests to study the heart's electrical system , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000354-5" qtype="treatment">What are the treatments for Atrial fibrillation or flutter ?</Question>
-			<Answer></Answer>
+			<Answer>Cardioversion  treatment may be used to get the heart back into a normal rhythm right away. There are two options for treatment: Electric shocks to your heart, Drugs given through a vein,  These treatments may be done as emergency methods, or planned ahead of time. Daily medicines taken by mouth are used to: Slow the irregular heartbeat and maintain normal heart rhythm -- These drugs may include beta-blockers, calcium channel blockers, digoxin, and anti-arrhythmics., Prevent blood clots -- Blood-thinning medicines are often given to reduce the risk of blood clots that can result from ongoing irregular heart rhythms., Prevent AFib from coming back -- These drugs work well in many people, but they can have serious side effects. AFib returns in many people, even while they are taking these medicines.,  A procedure called  radiofrequency ablation  can be used to scar areas in your heart where the heart rhythm problems are triggered. This can prevent the abnormal electrical signals that cause AFib or flutter from moving through your heart. You may need a heart  pacemaker  after this procedure. All people with AFib will need to learn how to  manage this condition at home . People with AFib will most often need to take blood thinner medicines. These medicines are used to reduce the risk of developing a blood clot that travels in the body (and that can cause a stroke, for example). The irregular heart rhythm that occurs with AFib makes blood clots more likely to form. Blood thinner medicines  include  heparin ,  warfarin  (Coumadin), apixaban (Eliquis), rivaroxaban (Xarelto), edoxaban (Savaysa) and dabigatran (Pradaxa). Antiplatelet drugs such as  aspirin  or  clopidogrel  may also be prescribed. However, blood thinners increase the chance of bleeding, so not everyone can use them. Another stroke prevention option for people who cannot safely take these medicines is the Watchman Device, which has recently been approved by the FDA. This is a small basket-shaped implant that is placed inside the heart to block off the area of the heart where most of the clots form. This limits clots from forming. Your provider will consider your age and other medical problems when deciding which stroke prevention methods are best for you.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000354-6" qtype="outlook">What is the outlook for Atrial fibrillation or flutter ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment can often control this disorder. Many people with AFib do very well with treatment. AFib tends to return and get worse. It may come back in some people, even with treatment. Clots that break off and travel to the brain can cause a  stroke .</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000354-7" qtype="when to contact a medical professional">Do I need to see a doctor for Atrial fibrillation or flutter ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have symptoms of AFib or flutter.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000354-8" qtype="prevention">How to prevent Atrial fibrillation or flutter ?</Question>
-			<Answer></Answer>
+			<Answer>Talk to your provider about steps to treat conditions that cause atrial fibrillation and flutter. Avoid binge drinking.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

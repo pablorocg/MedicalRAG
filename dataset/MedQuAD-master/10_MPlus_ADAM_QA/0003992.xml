@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003992" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000637.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Toxoplasmosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,55 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003992-1" qtype="information">What is (are) Toxoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>Toxoplasmosis is an infection due to the parasite  Toxoplasma gondii .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003992-2" qtype="causes">What causes Toxoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>Toxoplasmosis is found in humans worldwide and in many kinds of animals and birds. The parasite also lives in cats. Human infection may result from: 
+   Blood transfusions or solid organ transplants
+   , 
+   Handling cat litter
+   , 
+   Eating contaminated soil
+   , 
+   Eating raw or undercooked meat (lamb, pork, and beef)
+   ,  Toxoplasmosis also affects people who have weakened immune systems. These people are more likely to have symptoms. The infection may also be passed from an infected mother to her baby through the placenta. This results in  congenital toxoplasmosis . </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003992-3" qtype="symptoms">What are the symptoms of Toxoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>There may be no symptoms. If there are symptoms, they usually occur about 1 to 2 weeks after contact with the parasite. The disease can affect the brain, lung, heart, eyes, or liver. Symptoms in people with otherwise healthy immune systems can include: Enlarged lymph nodes  in the head and neck, Headache, Fever, Mild illness similar to  mononucleosis , Muscle pain, Sore throat ,  Symptoms in people with a weakened immune system can include: Confusion , Fever, Headache, Blurred vision due to inflammation of the retina,  Seizures , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003992-4" qtype="exams and tests">How to diagnose Toxoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam. Tests that may be done include: Blood test for toxoplasmosis ,  CT scan of the head ,  MRI of brain ,  Slit lamp exam of the eyes , Brain  biopsy , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003992-5" qtype="treatment">What are the treatments for Toxoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>People without symptoms usually do not need treatment. Medicines to treat the infection include an antimalarial drug and antibiotics. People with AIDS should continue treatment for as long as their immune system is weak, to prevent the disease from reactivating.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003992-6" qtype="outlook">What is the outlook for Toxoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>With treatment, people with a healthy immune system usually recover well. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003992-7" qtype="complications">What are the complications of Toxoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>The disease may return.  In people with a weakened immune system, the infection may spread throughout the body, leading to death. </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003992-8" qtype="when to contact a medical professional">Do I need to see a doctor for Toxoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider for an appointment if you develop symptoms of toxoplasmosis. Medical care is needed right away if symptoms occur in: Infants or babies, Someone with a weakened immune system due to certain medicines or disease,  Also seek medical treatment right away if the following symptoms occur: Confusion, Seizures, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003992-9" qtype="prevention">How to prevent Toxoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>Tips for preventing this condition: 
+   Do not eat undercooked meat.
+   , 
+   Wash hands after handling raw meat.
+   , 
+   Keep children's play areas free from cat and dog feces.
+   , 
+   Wash your hands thoroughly after touching&#160;soil that may be contaminated with animal feces.
+   ,  Pregnant women and those with weakened immune systems should take the following precautions: Do not clean cat litter boxes., Do not touch anything that may contain cat feces., Do not touch anything that&#160;could be contaminated by insects, such as cockroaches and flies that may be exposed to cat feces.,  Pregnant women and those with HIV/AIDS should be screened for toxoplasmosis. A blood test can be done. In some cases, medicine to prevent toxoplasmosis may be given.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

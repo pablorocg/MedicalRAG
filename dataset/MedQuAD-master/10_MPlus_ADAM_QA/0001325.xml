@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001325" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003046.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Earache</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,27 +21,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001325-1" qtype="information">What is (are) Earache ?</Question>
-			<Answer></Answer>
+			<Answer>An earache is a sharp, dull, or burning pain in one or both ears. The pain may last a short time or be ongoing. Related conditions include: Otitis media,  Swimmer's ear ,  Malignant otitis externa , </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001325-2" qtype="considerations">What to do for Earache ?</Question>
-			<Answer></Answer>
+			<Answer>The symptoms of an ear infection may include: Ear pain,  Fever , Fussiness, Increased crying, Irritability ,  Many children will have minor hearing loss during or right after an ear infection. Most of the time, the problem goes away. Lasting hearing loss is rare, but the risk increases with the number of infections.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001325-3" qtype="causes">What causes Earache ?</Question>
-			<Answer></Answer>
+			<Answer>The eustachian tube runs from the middle part of each ear to the back of the throat. This tube drains fluid that is made in the middle ear. If the eustachian tube becomes blocked, fluid can build up. This may lead to pressure behind the eardrum or an  ear infection . Ear pain in adults is less likely to be from an ear infection. Pain that you feel in the ear may be coming from another place, such as your teeth, the joint in your jaw ( temporomandibular joint ), or your throat. This is called "referred" pain. Causes of ear pain may include: Arthritis  of the jaw,  Short-term (acute) ear infection ,  Long-term (chronic) ear infection ,  Ear injury from pressure changes  (from high altitudes and other causes),  Object stuck in the ear  or buildup of ear wax,  Hole in the eardrum ,  Sinus infection , Sore throat,  Temporomandibular joint syndrome  (TMJ),  Tooth infection ,  Ear pain in a child or infant may be due to infection. Other causes may include: Ear canal irritation from cotton-tipped swabs, Soap or shampoo staying in the ear , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001325-4" qtype="considerations">What to do for Earache ?</Question>
-			<Answer></Answer>
+			<Answer>The symptoms of an ear infection may include: Ear pain,  Fever , Fussiness, Increased crying, Irritability ,  Many children will have minor hearing loss during or right after an ear infection. Most of the time, the problem goes away. Lasting hearing loss is rare, but the risk increases with the number of infections.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001325-5" qtype="when to contact a medical professional">Do I need to see a doctor for Earache ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if: Your child has a high fever, severe pain, or seems sicker than is usual for an ear infection., Your child has new symptoms such as dizziness, headache, swelling around the ear, or weakness in the face muscles., Severe pain suddenly stops (this may be a sign of a ruptured eardrum)., Symptoms (pain, fever, or irritability) get worse or do not improve within 24 to 48 hours. , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001325-6" qtype="outlook">What is the outlook for Earache ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

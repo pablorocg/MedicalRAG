@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002253" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000019.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Jaw - broken or dislocated</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002253-1" qtype="information">Do you have information about Jaw - broken or dislocated</Question>
-			<Answer></Answer>
+			<Answer>A broken jaw is a break (fracture) in the jaw bone. A dislocated jaw means the lower part of the jaw has moved out of its normal position at one or both joints where the jaw bone connects to the skull (temporomandibular joints). A jaw bone joint is called the temporomandibular joint (TMJ).</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

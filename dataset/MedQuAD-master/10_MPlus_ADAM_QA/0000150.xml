@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000150" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001183.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Alkalosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000150-1" qtype="information">What is (are) Alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>Alkalosis is a condition in which the body fluids have excess base (alkali). This is the opposite of excess acid ( acidosis ).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000150-2" qtype="causes">What causes Alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>The kidneys and lungs maintain the proper balance (proper pH level) of chemicals called acids and bases in the body. Decreased carbon dioxide (an acid) level or increased bicarbonate (a base) level makes the body too alkaline, a condition called alkalosis. There are different types of alkalosis. These are described below.  Respiratory alkalosis  is caused by a low carbon dioxide level in the blood. This can be due to: Fever, Being at a high altitude, Lack of oxygen, Liver disease, Lung disease, which causes you to breathe faster ( hyperventilate ),  Aspirin poisoning ,  Metabolic alkalosis is caused by too much bicarbonate in the blood. It can also occur due to certain kidney diseases. Hypochloremic alkalosis is caused by an extreme lack or loss of chloride, such as from prolonged vomiting. Hypokalemic alkalosis is caused by the kidneys' response to an extreme lack or loss of potassium. This can occur from taking certain water pills (diuretics). Compensated alkalosis occurs when the body returns the acid-base balance to near normal in cases of alkalosis, but bicarbonate and carbon dioxide levels remain abnormal.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000150-3" qtype="symptoms">What are the symptoms of Alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of alkalosis can include any of the following: Confusion  (can progress to stupor or coma), Hand tremor, Lightheadedness, Muscle twitching, Nausea, vomiting, Numbness or tingling in the face, hands, or feet, Prolonged  muscle spasms  (tetany) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000150-4" qtype="exams and tests">How to diagnose Alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam and ask about your symptoms. Laboratory tests that may be ordered include: Arterial or venous blood gas analysis ., Electrolytes test, such as  basic metabolic panel  to confirm alkalosis and show whether it is respiratory or metabolic alkalosis.,  Other blood tests may be needed to determine the cause of the alkalosis. Other tests may be needed to determine the cause of the alkalosis. These may include: Chest x-ray,  Urinalysis ,  Urine pH , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000150-5" qtype="treatment">What are the treatments for Alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>To treat alkalosis, your provider needs to first find the underlying cause. For alkalosis caused by hyperventilation, breathing into a paper bag allows you to keep more carbon dioxide in your body, which improves the alkalosis. If your oxygen level is low, you may receive oxygen. Medicines may be needed to correct chemical loss (such as chloride and potassium). Your provider will monitor your  vital signs  (temperature, pulse, rate of breathing, and blood pressure).</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000150-6" qtype="outlook">What is the outlook for Alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>Most cases of alkalosis respond well to treatment.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000150-7" qtype="complications">What are the complications of Alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>Untreated or not treated properly, complications may include any of the following: Arrhythmias  (heart beating too fast, too slow, or irregularly)
+  , Coma,  Electrolyte  imbalance (such as  low potassium level ) , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000150-8" qtype="when to contact a medical professional">Do I need to see a doctor for Alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you become confused, unable to concentrate, or unable to "catch your breath." Go to the emergency room or call 911 or the local emergency number if there is: Loss of consciousness ,  Rapidly worsening symptoms of alkalosis ,  Seizures ,  Severe breathing difficulties , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000150-9" qtype="prevention">How to prevent Alkalosis ?</Question>
-			<Answer></Answer>
+			<Answer>Prevention depends on the cause of the alkalosis. People with healthy kidneys and lungs do not usually have serious alkalosis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

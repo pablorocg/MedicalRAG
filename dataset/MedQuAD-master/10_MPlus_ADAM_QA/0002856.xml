@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002856" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003881.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ophthalmoscopy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002856-1" qtype="information">Do you have information about Ophthalmoscopy</Question>
-			<Answer></Answer>
+			<Answer>Ophthalmoscopy is an examination of the back part of the eye (fundus), which includes the  retina , optic disc,  choroid , and blood vessels.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

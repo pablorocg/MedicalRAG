@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001348" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003931.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>EEG</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001348-1" qtype="information">Do you have information about EEG</Question>
-			<Answer></Answer>
+			<Answer>An electroencephalogram (EEG) is a test to measure the electrical activity of the brain.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

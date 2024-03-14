@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002968" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003231.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Patches</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002968-1" qtype="information">Do you have information about Patches</Question>
-			<Answer></Answer>
+			<Answer>A patch is a flat area of color change in the skin that is 1 cm or more wide.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

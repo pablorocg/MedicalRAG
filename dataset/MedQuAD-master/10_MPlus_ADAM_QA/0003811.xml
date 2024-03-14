@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003811" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003103.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Swelling</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,27 +22,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003811-1" qtype="information">What is (are) Swelling ?</Question>
-			<Answer></Answer>
+			<Answer>Swelling is the enlargement of organs, skin, or other body parts. It is caused by a buildup of fluid in the tissues. The extra fluid can lead to a rapid increase in weight over a short period of time (days to weeks). Swelling can occur all over the body (generalized) or only in one part of the body (localized).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003811-2" qtype="considerations">What to do for Swelling ?</Question>
-			<Answer></Answer>
+			<Answer>Slight swelling (edema) of the lower legs is common in warm summer months, especially if a person has been standing or walking a lot. General swelling, or massive edema (also called anasarca), is a common sign in people who are very sick. Although slight edema may be hard to detect, a large amount of swelling is obvious. Edema is described as pitting or non-pitting. Pitting edema leaves a dent in the skin after you press the area with a finger for about 5 seconds. The dent will slowly fill back in., Non-pitting edema does not leave this type of dent when pressing on the swollen area., </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003811-3" qtype="causes">What causes Swelling ?</Question>
-			<Answer></Answer>
+			<Answer>Swelling can be caused by any of the following: Acute glomerulonephritis  (a kidney disease),  Burns , including sunburn, Chronic kidney disease,  Heart failure , Liver failure from  cirrhosis ,  Nephrotic syndrome  (a kidney disease), Poor nutrition, Pregnancy, Thyroid disease, Too little  albumin  in the blood (hypoalbuminemia), Too much salt or sodium, Use of certain drugs, such as corticosteroids or drugs used to treat heart disease, high blood pressure, or diabetes , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003811-4" qtype="considerations">What to do for Swelling ?</Question>
-			<Answer></Answer>
+			<Answer>Slight swelling (edema) of the lower legs is common in warm summer months, especially if a person has been standing or walking a lot. General swelling, or massive edema (also called anasarca), is a common sign in people who are very sick. Although slight edema may be hard to detect, a large amount of swelling is obvious. Edema is described as pitting or non-pitting. Pitting edema leaves a dent in the skin after you press the area with a finger for about 5 seconds. The dent will slowly fill back in., Non-pitting edema does not leave this type of dent when pressing on the swollen area., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003811-5" qtype="when to contact a medical professional">Do I need to see a doctor for Swelling ?</Question>
-			<Answer></Answer>
+			<Answer>If you notice any unexplained swelling, contact your provider.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003811-6" qtype="outlook">What is the outlook for Swelling ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004281" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000889.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Weight loss and alcohol</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,11 +22,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004281-1" qtype="information">What is (are) Weight loss and alcohol ?</Question>
-			<Answer></Answer>
+			<Answer>If you are trying to lose weight, you can boost your efforts by cutting back on alcoholic drinks. Alcohol can cause weight gain in a couple of ways. First, alcohol is high in calories. Some mixed drinks can contain as many calories as a meal, but without the nutrients. Second, you also may make poor food choices when you drink. While you do not have to entirely cut out alcohol, you may need to consume it more mindfully. You should watch the number, and type, of drinks you choose. You will also want to keep an eye on how drinking affects your eating habits. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004281-6" qtype="when to contact a medical professional">Do I need to see a doctor for Weight loss and alcohol ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

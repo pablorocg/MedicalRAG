@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001638" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007390.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Foraminotomy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001638-1" qtype="information">Do you have information about Foraminotomy</Question>
-			<Answer></Answer>
+			<Answer>Foraminotomy is surgery that widens the opening in your spine where nerve roots leave your spinal canal. You may have a narrowing of the nerve opening (foraminal stenosis).</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

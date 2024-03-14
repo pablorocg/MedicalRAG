@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002586" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001349.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Meningococcemia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002586-1" qtype="information">What is (are) Meningococcemia ?</Question>
-			<Answer></Answer>
+			<Answer>Meningococcemia is an  acute  and potentially life-threatening infection of the bloodstream.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002586-2" qtype="causes">What causes Meningococcemia ?</Question>
-			<Answer></Answer>
+			<Answer>Meningococcemia is caused by bacteria called  Neisseria meningitidis . The bacteria often live in a person's upper respiratory tract without causing signs of illness. They can be spread from person to person through respiratory droplets. For example, you may become infected if you are around someone with the condition and they sneeze or cough. Family members and those closely exposed to someone with the condition are at increased risk. The infection occurs more often in winter and early spring.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002586-3" qtype="symptoms">What are the symptoms of Meningococcemia ?</Question>
-			<Answer></Answer>
+			<Answer>There may be few symptoms at first. Some may include: Fever, Headache, Irritability, Muscle pain, Nausea, Rash with very small red or purple spots on the feet or legs,  Later symptoms may include: A decline in your level of consciousness, Large areas of bleeding under the skin,  Shock , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002586-4" qtype="exams and tests">How to diagnose Meningococcemia ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will examine you and ask about your symptoms. Blood tests will be done to rule out other infections and help confirm meningococcemia. Such tests may include: Blood culture ,  Complete blood count  with differential, Blood clotting studies ,  Other tests that may be done include: Lumbar puncture  to get a sample of spinal fluid for Gram stain and culture,  Skin biopsy  and Gram stain and culture,  Urine analysis , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002586-5" qtype="treatment">What are the treatments for Meningococcemia ?</Question>
-			<Answer></Answer>
+			<Answer>Meningococcemia is a medical emergency. People with this infection are often admitted to the intensive care unit of the hospital, where they are closely monitored. They may be placed in respiratory isolation for the first 24 hours to help prevent the spread of the infection to others. Treatments may include: Antibiotics given through a vein immediately, Breathing support, Clotting factors or platelet replacement, if  bleeding disorders  develop, Fluids through a vein, Medicines to treat low blood pressure, Wound care for areas of skin with blood clots , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002586-6" qtype="outlook">What is the outlook for Meningococcemia ?</Question>
-			<Answer></Answer>
+			<Answer>Early treatment results in a good outcome. When shock develops, the outcome is less certain. The condition is most life threatening in those who also have: A severe bleeding disorder called  disseminated intravascular coagulopathy (DIC ), Kidney failure, Shock , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002586-7" qtype="complications">What are the complications of Meningococcemia ?</Question>
-			<Answer></Answer>
+			<Answer>Possible complications of this infection are: Arthritis , Bleeding disorder (DIC),  Gangrene  due to lack of blood supply, Inflammation of blood vessels in the skin, Inflammation of the heart muscle, Inflammation of the heart lining, Shock, Severe damage to adrenal glands that can lead to low blood pressure ( Waterhouse-Friderichsen syndrome ) , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002586-8" qtype="when to contact a medical professional">Do I need to see a doctor for Meningococcemia ?</Question>
-			<Answer></Answer>
+			<Answer>Go to the emergency room immediately if you have symptoms of meningococcemia. Contact your provider if you have been around someone with the disease.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002586-9" qtype="prevention">How to prevent Meningococcemia ?</Question>
-			<Answer></Answer>
+			<Answer>Preventive antibiotics for family members and other close contacts are often recommended. Speak with your provider about this option. A  vaccine  that covers some, but not all, strains of meningococcus is recommended for children age 11 or 12. A booster is given at age 16. Unvaccinated college students who live in dormitories should also consider receiving this vaccine. It should be given a few weeks before they first move into the dorm. Talk to your provider about this vaccine.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

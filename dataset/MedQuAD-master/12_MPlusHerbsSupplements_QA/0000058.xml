@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000058" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/754.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Lutein</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,57 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000058-1" qtype="information">What is Lutein ?</Question>
-			<Answer></Answer>
+			<Answer>Lutein is a type of organic pigment called a carotenoid. It is related to beta-carotene and vitamin A. Many people think of lutein as "the eye vitamin." 
+
+Lutein is one of two major carotenoids found in the human eye (macula and retina). It is thought to function as a light filter, protecting the eye tissues from sunlight damage. Foods rich in lutein include egg yolks, spinach, kale, corn, orange pepper, kiwi fruit, grapes, zucchini, and squash.  
+
+Lutein is commonly taken by mouth to prevent eye diseases, including cataracts and a disease that leads to vision loss in older adults (age-related macular degeneration or AMD). Lutein is used for many other conditions, but there is no good scientific evidence to support these other uses.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000058-2" qtype="how effective is it">How effective is Lutein ?</Question>
-			<Answer></Answer>
+			<Answer>Natural Medicines Comprehensive Database  rates effectiveness based on scientific evidence according to the following scale:  Effective, Likely Effective, Possibly Effective, Possibly Ineffective, Likely Ineffective, Ineffective, and Insufficient Evidence to Rate. The effectiveness ratings for  LUTEIN  are as follows: Possibly effective for... An eye disease that leads to vision loss in older adults (age-related macular degeneration or AMD) . Taking lutein supplements by mouth for up to 36 months can improve some symptoms of AMD. More benefits might be seen when it's taken for at least 3 months at doses above 5 mg, and when it's combined with other carotenoid vitamins. But lutein doesn't seem to keep AMD from becoming worse over time., 
+
+ Cataracts . Eating higher amounts of lutein in the diet is linked with a lower risk of developing cataracts. But it's not clear if taking lutein supplements by mouth helps people who already have cataracts., 
+
+
+ Possibly ineffective for... 
+
+ A lung disease that affects newborns (bronchopulmonary dysplasia) . Giving preterm infants lutein and zeaxanthin by mouth doesn't reduce the chance of developing bronchopulmonary dysplasia. , 
+
+
+ A serious intestinal disease in premature infants (necrotizing enterocolitis or NEC) . Giving preterm infants lutein and zeaxanthin by mouth doesn't prevent NEC., 
+
+ An inherited eye condition that causes poor night vision and loss of side vision (retinitis pigmentosa) . Taking lutein by mouth doesn't improve vision or other symptoms in people with retinitis pigmentosa., 
+
+ An eye disorder in premature infants that can lead to blindness (retinopathy of prematurity) . Giving preterm infants lutein and zeaxanthin by mouth doesn't prevent retinopathy of prematurity., 
+ 
+
+There is interest in using lutein for a number of other purposes, but there isn't enough reliable information to say whether it might be helpful.
+</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000058-3" qtype="how does it work">What is the action of Lutein and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000058-4" qtype="precautions">Are there safety concerns or special precautions about Lutein ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000058-5" qtype="interactions with medications">Are there interactions between Lutein and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>It is not known if this product interacts with any medicines.    Before taking this product, talk with your health professional if you take any medications.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000058-6" qtype="interactions with herbs and supplements">Are there interactions between Lutein and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>Beta-carotene Using beta-carotene along with lutein may reduce the amount of lutein or beta-carotene that the body can absorb. Vitamin E Taking lutein supplements might decrease how much vitamin E the body absorbs. Taking lutein and vitamin E together might decrease the effects of vitamin E.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000058-7" qtype="interactions with foods">Are there interactions between Lutein and foods ?</Question>
-			<Answer></Answer>
+			<Answer>Lutein is better absorbed by the body when it is taken with a high-fat meal.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000058-8" qtype="dose">What is the dosage of Lutein ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

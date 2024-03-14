@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001500" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003034.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Eye burning - itching and discharge</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,23 +23,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001500-1" qtype="information">What is (are) Eye burning - itching and discharge ?</Question>
-			<Answer></Answer>
+			<Answer>Eye burning with discharge is burning, itching, or drainage from the eye of any substance other than tears.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001500-2" qtype="causes">What causes Eye burning - itching and discharge ?</Question>
-			<Answer></Answer>
+			<Answer>Causes may include: Allergies , including seasonal allergies or hay fever, Infections, bacterial or viral including COVID-19 ( conjunctivitis  or pink eye), Chemical irritants (such as chlorine in a swimming pool or makeup),  Dry eyes ,  Irritants  in the air (cigarette smoke or smog) , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001500-3" qtype="considerations">What to do for Eye burning - itching and discharge ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001500-4" qtype="when to contact a medical professional">Do I need to see a doctor for Eye burning - itching and discharge ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: The discharge is thick, greenish, or resembles pus. (This may be from bacterial conjunctivitis.), You have excessive eye pain or sensitivity to light., Your vision is decreased., You have increased swelling in the eyelids. , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001500-5" qtype="outlook">What is the outlook for Eye burning - itching and discharge ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

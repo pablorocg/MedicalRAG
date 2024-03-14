@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003296" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000345.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pulmonary hypertension - at home</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,11 +18,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003296-1" qtype="information">What is (are) Pulmonary hypertension - at home ?</Question>
-			<Answer></Answer>
+			<Answer>Pulmonary hypertension  (PAH) is abnormally high blood pressure in the arteries of the lungs. With PAH, the right side of the heart has to work harder than normal. As the illness gets worse, you will need to do more to take care of yourself. You will also need to make changes in your home and get more help around the house.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003296-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pulmonary hypertension - at home ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

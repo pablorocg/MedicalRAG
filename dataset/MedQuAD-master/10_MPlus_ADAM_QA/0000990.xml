@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000990" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000243.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Corneal transplant - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000990-1" qtype="information">Do you have information about Corneal transplant - discharge</Question>
-			<Answer></Answer>
+			<Answer>The cornea is the clear outer lens on the front of the eye. A corneal transplant is surgery to replace the cornea with tissue from a donor. It is one of the most common transplants done.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

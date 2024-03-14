@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001002" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000164.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Costochondritis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,35 +21,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001002-1" qtype="information">What is (are) Costochondritis ?</Question>
-			<Answer></Answer>
+			<Answer>All but your lowest 2 ribs are connected to your breastbone by cartilage. This cartilage can become inflamed and cause pain. This condition is called costochondritis. It is a common cause of  chest pain .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001002-2" qtype="causes">What causes Costochondritis ?</Question>
-			<Answer></Answer>
+			<Answer>There is often no known cause of costochondritis. But it may be caused by: Chest injury, Hard exercise or heavy lifting, Viral infections, such as respiratory infections, Strain from coughing, Infections after surgery or from IV drug use , Some  types of arthritis , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001002-3" qtype="symptoms">What are the symptoms of Costochondritis ?</Question>
-			<Answer></Answer>
+			<Answer>The most common symptoms of costochondritis are pain and tenderness in the chest. You may feel: Sharp pain at the front of your chest wall, which may move to your back or stomach, Increased pain when you take a deep breath or cough, Tenderness when you press the area where the rib joins the breastbone, Less pain when you stop moving and breathe quietly, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001002-4" qtype="exams and tests">How to diagnose Costochondritis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will take your medical history and do a physical exam. The area where the ribs meet the breastbone is checked. If this area is tender and sore, costochondritis is the most likely cause of your chest pain. A chest x-ray may be done if your symptoms are severe or do not improve with treatment. Your provider may also order tests to rule out other conditions, such as a heart attack.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001002-5" qtype="treatment">What are the treatments for Costochondritis ?</Question>
-			<Answer></Answer>
+			<Answer>Costochondritis most often goes away on its own in a few days or weeks. It can also take up to a few months. Treatment focuses on relieving the pain. Apply hot or cold compresses., Avoid activities that make the pain worse.,  Pain medicines, such as ibuprofen (Advil, Motrin) or naproxen (Aleve), may help to ease pain and swelling. You can buy these without a prescription. Talk with your provider before using these medicines if you have heart disease, high blood pressure, kidney disease, liver disease, or have had stomach ulcers or internal bleeding in the past., Take the dose as advised by the provider. Do not take more than the amount recommended on the bottle. Carefully read the warnings on the label before taking any medicine.,  You may also take acetaminophen (Tylenol) instead, if your provider tells you it is safe to do so. People with liver disease should not take this medicine. If your pain is severe, your provider may prescribe stronger pain medicine. In some cases, your provider may recommend physical therapy.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001002-6" qtype="outlook">What is the outlook for Costochondritis ?</Question>
-			<Answer></Answer>
+			<Answer>Costochondritis pain often goes away in a few days or weeks.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001002-7" qtype="when to contact a medical professional">Do I need to see a doctor for Costochondritis ?</Question>
-			<Answer></Answer>
+			<Answer>Call 911 or the local emergency number, or go to your local emergency room right away if you have chest pain. The pain of costochondritis can be similar to the pain of a heart attack. If you have already been diagnosed with costochondritis, contact your provider if you have any of the following symptoms: Trouble breathing, A high fever, Any signs of infection such as pus, redness, or swelling around your ribs, Pain that continues or gets worse after taking pain medicine, Sharp pain with every breath, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001002-8" qtype="prevention">How to prevent Costochondritis ?</Question>
-			<Answer></Answer>
+			<Answer>Because the cause is often unknown, there is no known way to prevent costochondritis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

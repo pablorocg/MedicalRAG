@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001302" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001131.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Duodenal atresia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001302-1" qtype="information">What is (are) Duodenal atresia ?</Question>
-			<Answer></Answer>
+			<Answer>Duodenal atresia is a condition in which the first part of the small bowel (the  duodenum ) has not developed properly. It is not open and does not allow the passage of stomach contents.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001302-2" qtype="causes">What causes Duodenal atresia ?</Question>
-			<Answer></Answer>
+			<Answer>The cause of duodenal atresia is not known. It is thought to result from problems during an embryo's development. The duodenum does not change from a solid to a tube-like structure, as it normally would. Many infants with duodenal atresia also have  Down syndrome . Duodenal atresia is often associated with other birth defects.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001302-3" qtype="symptoms">What are the symptoms of Duodenal atresia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of duodenal atresia include: Upper abdominal swelling (sometimes), Early vomiting of large amounts, which may be greenish (containing  bile ), Continued vomiting even when infant has not been fed for several hours, No bowel movements after first few meconium stools , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001302-4" qtype="exams and tests">How to diagnose Duodenal atresia ?</Question>
-			<Answer></Answer>
+			<Answer>A fetal ultrasound may show high amounts of  amniotic fluid  in the womb ( polyhydramnios ). It may also show swelling of the baby's stomach and part of the duodenum. An  abdominal x-ray  may show air in the stomach and first part of duodenum, with no air beyond that. This is known as the double-bubble sign.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001302-5" qtype="treatment">What are the treatments for Duodenal atresia ?</Question>
-			<Answer></Answer>
+			<Answer>A tube is placed to decompress the stomach. Dehydration and electrolyte imbalances are corrected by providing fluids through an intravenous tube (IV, into a vein). Checking for other congenital anomalies should be done. Surgery to correct the duodenal blockage is necessary, but not an emergency. The exact surgery will depend on the nature of the abnormality. Other problems (such as those related to Down syndrome) must be treated as appropriate.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001302-6" qtype="outlook">What is the outlook for Duodenal atresia ?</Question>
-			<Answer></Answer>
+			<Answer>Recovery from the duodenal atresia is expected after treatment. If not treated, the condition is deadly.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001302-7" qtype="complications">What are the complications of Duodenal atresia ?</Question>
-			<Answer></Answer>
+			<Answer>These complications may occur: Other birth defects,  Dehydration ,  After surgery, there may be complications such as: Swelling of the first part of the small bowel, Problems with movement through the intestines, Gastroesophageal reflux , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001302-8" qtype="when to contact a medical professional">Do I need to see a doctor for Duodenal atresia ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if your newborn is: Feeding poorly or not at all, Vomiting (not simply spitting up) or if the vomit is green, Not urinating or having bowel movements, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001302-9" qtype="prevention">How to prevent Duodenal atresia ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known prevention.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

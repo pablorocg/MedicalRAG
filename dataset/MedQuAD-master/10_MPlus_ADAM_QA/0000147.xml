@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000147" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003566.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Aldolase blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000147-1" qtype="information">Do you have information about Aldolase blood test</Question>
-			<Answer></Answer>
+			<Answer>Aldolase is a protein (called an enzyme) that helps break down certain sugars to produce energy. It is found in high amount in muscle and liver tissue. A test can be done to measure the amount of aldolase in your blood.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

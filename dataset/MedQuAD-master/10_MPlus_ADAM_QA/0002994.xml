@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002994" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000882.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pemphigus vulgaris</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,35 +16,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002994-1" qtype="information">What is (are) Pemphigus vulgaris ?</Question>
-			<Answer></Answer>
+			<Answer>Pemphigus vulgaris (PV) is an  autoimmune disorder &#160;of the skin. It involves blistering and sores (erosions) of the skin and  mucous membranes .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002994-2" qtype="causes">What causes Pemphigus vulgaris ?</Question>
-			<Answer></Answer>
+			<Answer>The immune system produces  antibodies  against specific proteins in the skin and mucous membranes. These antibodies break the bonds between skin cells. This leads to the formation of a blister. The exact cause is unknown. In rare cases, pemphigus is caused by some medicines, including: A medicine called penicillamine, which removes certain materials from the blood (chelating agent), Blood pressure medicines called ACE inhibitors , Nonsteroidal anti-inflammatory drugs (NSAIDs),  Pemphigus is uncommon. It most often occurs in middle-aged or older people.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002994-3" qtype="symptoms">What are the symptoms of Pemphigus vulgaris ?</Question>
-			<Answer></Answer>
+			<Answer>About 50% of people with this condition first develop painful blisters and sores in the mouth. This is followed by skin blisters. Skin sores may come and go. The skin sores may be described as: Draining, Oozing, Crusting, Peeling or easily detached,  They may be located: In the mouth and down the throat, On the scalp, trunk, or other skin areas, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002994-4" qtype="exams and tests">How to diagnose Pemphigus vulgaris ?</Question>
-			<Answer></Answer>
+			<Answer>The skin separates easily when the surface of unaffected skin is rubbed sideways with a cotton swab or finger. This is called a positive  Nikolsky sign . A  skin biopsy &#160;and blood tests are often done to confirm the diagnosis.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002994-5" qtype="treatment">What are the treatments for Pemphigus vulgaris ?</Question>
-			<Answer></Answer>
+			<Answer>Severe cases of pemphigus may need wound management, similar to the treatment for severe  burns . People with PV may need to stay in a hospital and receive care in a burn unit or intensive care unit. Treatment is aimed at reducing symptoms, including pain. It also aims to prevent complications, especially infections. Treatment may involve: Antibiotics and antifungal medicines to control or prevent infections, Fluids and  electrolytes  given through a vein (IV) if there are severe mouth ulcers, IV feedings if there are severe mouth ulcers, Numbing (anesthetic) mouth lozenges to reduce mouth ulcer pain, Pain medicines if local pain relief is not enough ,  Body-wide (systemic) therapy is needed to control pemphigus and should be started as early as possible. Systemic treatment includes: An anti-inflammatory medicine called dapsone, Corticosteroids, Medicines containing gold, Medicines that suppress the immune system (such as azathioprine, methotrexate, cyclosporine, cyclophosphamide, mycophenolate mofetil, or rituximab) ,  Antibiotics may be used to treat or prevent infection. Intravenous immunoglobulin (IVIg) is occasionally used. Plasmapheresis may be used along with systemic medicines to reduce the amount of antibodies in the blood. Plasmapheresis is a process in which antibody-containing plasma is removed from the blood and replaced with intravenous fluids or donated plasma. Ulcer and blister treatments include soothing or drying lotions, wet dressings, or similar measures.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002994-6" qtype="outlook">What is the outlook for Pemphigus vulgaris ?</Question>
-			<Answer></Answer>
+			<Answer>Without treatment, this condition can be life threatening. Severe infection is the most frequent cause of death. With treatment, the disorder tends to be  chronic . Side effects of treatment may be severe or disabling.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002994-7" qtype="complications">What are the complications of Pemphigus vulgaris ?</Question>
-			<Answer></Answer>
+			<Answer>Complications of PV include: Secondary skin infections, Severe dehydration, Side effects of medicines, Spread of infection through the bloodstream ( sepsis ), </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002994-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pemphigus vulgaris ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider should examine any unexplained blisters. Contact your provider if you have been treated for PV and you develop any of the following symptoms: Chills, Fever, 
+  General ill feeling
+  , 
+  Joint aches
+  , 
+  Muscle aches
+  , New blisters or ulcers, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

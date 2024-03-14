@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002479" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001301.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lymphadenitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002479-1" qtype="information">What is (are) Lymphadenitis ?</Question>
-			<Answer></Answer>
+			<Answer>Lymphadenitis is an infection of the  lymph nodes  (also called lymph glands). It is a complication of certain bacterial infections.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002479-2" qtype="causes">What causes Lymphadenitis ?</Question>
-			<Answer></Answer>
+			<Answer>The  lymph system  (lymphatics) is a network of lymph nodes, lymph ducts, lymph vessels, and organs that produce and move a fluid called lymph from tissues to the bloodstream.  The lymph glands, or lymph nodes, are small structures that filter the lymph fluid. There are many white blood cells in the lymph nodes to help fight infection. Lymphadenitis occurs when the glands become enlarged by swelling (inflammation), often in response to bacteria, viruses, or fungi. The swollen glands are usually found near the site of an infection, tumor, or inflammation. Lymphadenitis may occur after skin infections or other infections caused by bacteria such as streptococcus or staphylococcus. Sometimes, it is caused by rare infections such as tuberculosis or  cat scratch disease  (bartonella).</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002479-3" qtype="symptoms">What are the symptoms of Lymphadenitis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Red, tender skin over lymph node, Swollen, tender, or hard lymph nodes, Fever,  Lymph nodes may feel rubbery if an  abscess  (pocket of pus) has formed or they have become inflamed.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002479-4" qtype="exams and tests">How to diagnose Lymphadenitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam. This includes feeling your lymph nodes and looking for signs of injury or infection around any swollen lymph nodes. A  biopsy  and culture of the affected area or node may reveal the cause of the inflammation.  Blood cultures  may reveal spread of infection (often bacteria) to the bloodstream.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002479-5" qtype="treatment">What are the treatments for Lymphadenitis ?</Question>
-			<Answer></Answer>
+			<Answer>Lymphadenitis may spread within hours. Treatment should begin right away. Treatment may include: Antibiotics to treat any bacterial infection,  Analgesics  (painkillers) to control pain, Anti-inflammatory medicines to reduce inflammation, Cool compresses to reduce inflammation and pain,  Surgery may be needed to drain an abscess.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002479-6" qtype="outlook">What is the outlook for Lymphadenitis ?</Question>
-			<Answer></Answer>
+			<Answer>Prompt treatment with antibiotics usually leads to a complete recovery. It may take weeks, or even months, for swelling to disappear.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002479-7" qtype="complications">What are the complications of Lymphadenitis ?</Question>
-			<Answer></Answer>
+			<Answer>Untreated lymphadenitis may lead to: Abscess formation,  Cellulitis  (a skin infection),  Fistulas  (seen in lymphadenitis that is due to tuberculosis),  Sepsis  (bloodstream infection), which can lead to death, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002479-8" qtype="when to contact a medical professional">Do I need to see a doctor for Lymphadenitis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider or go to the emergency room if you have symptoms of lymphadenitis.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002479-9" qtype="prevention">How to prevent Lymphadenitis ?</Question>
-			<Answer></Answer>
+			<Answer>Good general health and hygiene are helpful in the prevention of any infection.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

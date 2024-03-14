@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003249" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007415.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Prostate resection - minimally invasive</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -28,7 +27,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003249-1" qtype="information">Do you have information about Prostate resection - minimally invasive</Question>
-			<Answer></Answer>
+			<Answer>Minimally invasive prostate resection is surgery to remove part of the prostate gland, to treat an  enlarged prostate . The surgery will improve the flow of urine through the urethra, the tube that carries urine from the bladder outside of your body. It can be done in different ways. There is no incision (cut) in your skin.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

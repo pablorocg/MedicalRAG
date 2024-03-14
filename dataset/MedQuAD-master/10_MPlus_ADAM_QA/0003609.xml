@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003609" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003451.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Skin lesion aspiration</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003609-1" qtype="information">What is (are) Skin lesion aspiration ?</Question>
-			<Answer></Answer>
+			<Answer>Skin lesion aspiration is the withdrawal of fluid from a skin lesion (sore).</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003609-7" qtype="susceptibility">Who is at risk for Skin lesion aspiration? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

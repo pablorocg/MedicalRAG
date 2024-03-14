@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001786" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007421.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>H1N1 influenza (Swine flu)</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,11 +21,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001786-1" qtype="information">What is (are) H1N1 influenza (Swine flu) ?</Question>
-			<Answer></Answer>
+			<Answer>The H1N1 virus (swine flu) is an infection of the nose, throat, and lungs. It is caused by the H1N1 influenza virus.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001786-2" qtype="causes">What causes H1N1 influenza (Swine flu) ?</Question>
-			<Answer></Answer>
+			<Answer>Earlier forms of the H1N1 virus were found in pigs (swine). Over time, the virus changed (mutated) and infected humans. H1N1 is a new virus first detected in humans in 2009. It spread quickly around the world. The H1N1 virus is now considered a regular flu virus. It is one of the three viruses included in the regular (seasonal)  flu vaccine . You cannot get H1N1 flu virus from eating pork or any other food, drinking water, swimming in pools, or using hot tubs or saunas. Any flu virus can spread from person to person when: Someone with the flu coughs or sneezes into air that others breathe in., Someone touches a doorknob, desk, computer, or counter with the flu virus on it and then touches their mouth, eyes, or nose., Someone touches mucus while taking care of a child or adult who is ill with the flu. ,  Symptoms, diagnosis, and treatment of H1N1 influenza are similar to that for the  flu in general .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

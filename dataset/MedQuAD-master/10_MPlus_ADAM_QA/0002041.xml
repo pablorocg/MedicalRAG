@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002041" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000043.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>How to use your peak flow meter</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002041-1" qtype="information">Do you have information about How to use your peak flow meter</Question>
-			<Answer></Answer>
+			<Answer>A peak flow meter is a small device that helps you check how well your  asthma  is controlled. Peak flow meters are most helpful if you have moderate to severe persistent asthma.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

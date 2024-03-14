@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002669" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003293.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Moro reflex</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002669-1" qtype="information">Do you have information about Moro reflex</Question>
-			<Answer></Answer>
+			<Answer>A reflex is a type of involuntary (without trying) response to stimulation. The Moro reflex is one of many  reflexes  that are seen at birth. It normally goes away after 3 or 4 months.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004107" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003616.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Uric acid urine test</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004107-1" qtype="information">What is (are) Uric acid urine test ?</Question>
-			<Answer></Answer>
+			<Answer>The uric acid urine test measures the level of uric acid in the urine. The uric acid blood level can be checked using a blood test.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004107-8" qtype="susceptibility">Who is at risk for Uric acid urine test? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

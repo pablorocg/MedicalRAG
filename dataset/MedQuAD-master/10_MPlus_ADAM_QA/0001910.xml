@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001910" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001291.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hemoglobinopathy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001910-1" qtype="information">What is (are) Hemoglobinopathy ?</Question>
-			<Answer></Answer>
+			<Answer>Hemoglobinopathy is a group of disorders in which there is abnormal production or structure of the  hemoglobin  molecule. It is passed down through families (inherited).  This group of disorders includes  hemoglobin C disease , hemoglobin S-C disease,  sickle cell anemia , and  thalassemias .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

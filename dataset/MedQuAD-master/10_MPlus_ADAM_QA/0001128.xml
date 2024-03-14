@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001128" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000030.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Dementia - daily care</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001128-1" qtype="information">What is (are) Dementia - daily care ?</Question>
-			<Answer></Answer>
+			<Answer>People who have  dementia  may have trouble with:  Language and communication, Eating, Handling their own personal care, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

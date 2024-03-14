@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002322" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000710.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lambert-Eaton syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,35 +22,43 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002322-1" qtype="information">What is (are) Lambert-Eaton syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Lambert-Eaton myasthenic syndrome (LEMS) is a rare disorder in which faulty communication between nerves and muscles leads to  muscle weakness .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002322-2" qtype="causes">What causes Lambert-Eaton syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>LEMS is an  autoimmune disorder . This means your immune system mistakenly targets healthy cells and tissues in the body. With LEMS,  antibodies  produced by the immune system attack nerve cells. This makes nerves cells unable to release enough of a chemical called acetylcholine. This chemical transmits impulses between nerves and muscles. The result is muscle weakness. LEMS may occur with cancers such as  small cell lung cancer  or autoimmune disorders such as  vitiligo , which leads to a loss of skin pigment. LEMS affects men more often than women. The most common age of occurrence is around age 60 years. LEMS is rare in children.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002322-3" qtype="symptoms">What are the symptoms of Lambert-Eaton syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Weakness  or loss of movement that can be more or less severe, including: Difficulty climbing stairs, walking, or lifting things, Muscle pain, Drooping of the head, The need to use the hands to get up from a sitting or lying position, Problems talking, Problems chewing or swallowing, which may include gagging or  choking , Vision changes, such as  blurry  vision, double vision, and problem keeping a steady gaze,  Weakness is generally mild in LEMS. Leg muscles are mostly affected. Weakness may improve after exercise, but continuous exertion causes fatigue in some cases. Symptoms related to the other parts of the nervous system often occur, and include: Blood pressure changes, Dizziness upon standing, Dry mouth,  Erectile dysfunction , Dry eyes, Constipation, Decreased sweating, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002322-4" qtype="exams and tests">How to diagnose Lambert-Eaton syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam and ask about the symptoms. The exam may show: 
+   Decreased reflexes
+   , 
+   Possible loss of muscle tissue
+   , 
+   Weakness or paralysis that gets slightly better with activity
+   ,  Tests to help diagnose and confirm LEMS may include: Blood tests to look for the antibodies that attack the nerves,  Electromyography  (EMG) to test the health of the muscle fibers
+   ,  Nerve conduction velocity  (NCV) to test the speed of electrical activity along nerves
+   ,  CT scan  and  MRI  of the chest and the abdomen, followed by bronchoscopy for smokers may be done to evaluate for cancer.  PET scan  may also be done if a lung tumor is suspected. You may be referred to an oncologist (cancer specialist) to determine if other cancer testing is needed.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002322-5" qtype="treatment">What are the treatments for Lambert-Eaton syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The main goals of treatment are to: Identify and treat any underlying disorders, such as lung cancer, Give treatment to help with the weakness,  Plasma exchange, or plasmapheresis, is a treatment that helps remove from the body any harmful proteins (antibodies) that are interfering with nerve function. This involves removing blood plasma that contains the  antibodies . Other proteins (such as albumin) or donated plasma are then infused into the body. Another procedure involves using intravenous immunoglobulin (IVIg) to infuse a large amount of helpful antibodies directly into the bloodstream. Medicines that may also be tried include: Drugs that suppress the  immune system's response , Anticholinesterase drugs to improve muscle tone (although these are not very effective when given alone), Drugs that increase the release of acetylcholine from nerve cells, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002322-6" qtype="outlook">What is the outlook for Lambert-Eaton syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of LEMS may improve by treating the underlying disease, suppressing the immune system, or removing the antibodies. However, paraneoplastic LEMS may not respond as well to treatment. (Paraneoplastic LEMS symptoms are due to an altered immune system response to a tumor). Death is due to underlying malignancy.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002322-7" qtype="complications">What are the complications of Lambert-Eaton syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Complications of LEMS may include: Difficulty breathing, including  respiratory failure  (less common), Difficulty swallowing, Infections, such as  pneumonia , Injuries from falls and problems with coordination, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002322-8" qtype="when to contact a medical professional">Do I need to see a doctor for Lambert-Eaton syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if symptoms of LEMS develop.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

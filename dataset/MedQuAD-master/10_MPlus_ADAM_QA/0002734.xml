@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002734" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002507.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Naproxen sodium overdose</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002734-1" qtype="information">Do you have information about Naproxen sodium overdose</Question>
-			<Answer></Answer>
+			<Answer>Naproxen sodium is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve mild to moderate aches and pains and swelling. Naproxen sodium overdose occurs when someone accidentally or intentionally takes more than the recommended amount of this medicine. People with kidney or liver disease are more likely to develop serious side effects or worsening of their disease from NSAIDs. As a group, and because of their common use, NSAIDs are responsible for more serious drug-related side effects than any other class of pain-relieving drugs. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with overdoses, call the local emergency number (such as 911), or the local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

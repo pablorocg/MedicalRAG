@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000985" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002496.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Copper poisoning</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,23 +16,24 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000985-1" qtype="information">What is (are) Copper poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>This article discusses poisoning from copper. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000985-4" qtype="symptoms">What are the symptoms of Copper poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Swallowing large amounts of copper may cause:  Abdominal pain, Diarrhea, Vomiting, Yellow skin and whites of the eyes (jaundice) ,  Touching large amounts of copper can cause the hair to turn a different color (green). Breathing in copper dust and fumes may cause an acute syndrome of metal fume fever (MFF). People with MFF have: Chest pain, Chills, Cough, Fever, General weakness, Headache,  Metallic taste  in the mouth ,  Long-term exposure may cause lung inflammation and permanent scarring. This can lead to decreased lung function. Symptoms of long-term exposure include: Anemia  (low red blood cell count), Burning sensation, Chills,  Convulsions , Dementia,  Diarrhea  (often bloody and may be blue in color), Difficulty speaking,  Fever , Involuntary movements, Jaundice (yellow skin), Kidney failure, Liver failure, 
+   Metallic taste in the mouth, Muscle aches,  Nausea , Pain,  Shock , Tremor (shaking), Vomiting,  Weakness , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000985-5" qtype="considerations">What to do for Copper poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000985-8" qtype="outlook">What is the outlook for Copper poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Sudden (acute) copper poisoning is rare. However, serious health problems from long-term exposure to copper can occur. Severe poisoning can cause liver failure and death. In poisonings from a long-term buildup of copper in the body, the outcome depends on how much damage there is to the body's organs.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000985-9" qtype="outlook">What is the outlook for Copper poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Sudden (acute) copper poisoning is rare. However, serious health problems from long-term exposure to copper can occur. Severe poisoning can cause liver failure and death. In poisonings from a long-term buildup of copper in the body, the outcome depends on how much damage there is to the body's organs.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

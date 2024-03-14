@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003595" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000436.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Skilled nursing and rehabilitation facilities - choosing</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003595-1" qtype="information">Do you have information about Skilled nursing and rehabilitation facilities - choosing</Question>
-			<Answer></Answer>
+			<Answer>When you no longer need the amount of care provided in the hospital, the hospital will begin the process to discharge you. Most people hope to go straight home from the hospital after surgery or being ill. But even if you and your health care provider planned for you to go home, your recovery may be slower than expected. So, you may need to go to a  skilled nursing or rehabilitation facility . Skilled nursing facilities provide care for people who are not yet able to care for themselves at home. After your stay at the facility, you may be able to return home and care for yourself.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

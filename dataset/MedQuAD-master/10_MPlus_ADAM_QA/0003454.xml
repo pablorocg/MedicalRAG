@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003454" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000801.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Saline nasal washes</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003454-1" qtype="information">Do you have information about Saline nasal washes</Question>
-			<Answer></Answer>
+			<Answer>A saline nasal wash helps flush pollen, dust, and other debris from your nasal passages. It also helps remove excess mucus (snot) and adds moisture. Your nasal passages are open spaces behind your nose. Air passes through your nasal passages before entering your lungs.  Nasal washes can help relieve  nasal allergy symptoms  and help prevent sinus infections ( sinusitis ). </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003513" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001476.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Selective deficiency of IgA</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003513-1" qtype="information">Do you have information about Selective deficiency of IgA</Question>
-			<Answer></Answer>
+			<Answer>Selective deficiency of IgA is the most common  immune deficiency disorder . People with this disorder have a low or absent level of a blood protein called immunoglobulin A.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

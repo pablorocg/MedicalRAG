@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001670" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000196.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Gallstones - discharge</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,15 +23,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001670-1" qtype="information">What is (are) Gallstones - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>You have  gallstones . These are hard, pebble-like deposits that formed inside your gallbladder. This article tells you how to take care of yourself when you leave the hospital. </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001670-2" qtype="outlook">What is the outlook for Gallstones - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001670-4" qtype="when to contact a medical professional">Do I need to see a doctor for Gallstones - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

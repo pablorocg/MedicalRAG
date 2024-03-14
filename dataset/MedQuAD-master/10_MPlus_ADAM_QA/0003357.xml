@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003357" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000245.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Refractive corneal surgery - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003357-1" qtype="information">Do you have information about Refractive corneal surgery - discharge</Question>
-			<Answer></Answer>
+			<Answer>You had refractive corneal surgery to help improve your vision. This article tells you what you need to know to care for yourself following the procedure.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

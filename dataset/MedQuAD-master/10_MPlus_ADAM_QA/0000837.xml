@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000837" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002168.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Chronic fatigue syndrome - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000837-1" qtype="information">What is (are) Chronic fatigue syndrome - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations provide information on  chronic fatigue syndrome : Solve ME/CFS Initiative --  solvecfs.org , US Centers for Disease Control and Prevention --  www.cdc.gov/me-cfs , National Fibromyalgia &amp; Chronic Pain Association --  askjan.org/disabilities/Chronic-Fatigue-Syndrome.cfm , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

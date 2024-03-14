@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001608" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003845.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Fluorescein eye stain</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001608-1" qtype="information">Do you have information about Fluorescein eye stain</Question>
-			<Answer></Answer>
+			<Answer>This is a test that uses orange dye (fluorescein) and a blue light to detect foreign bodies in the eye. This test can also detect damage to the cornea. The cornea is the outer surface of the eye.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

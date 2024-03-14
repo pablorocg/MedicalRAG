@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002107" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003000.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hypospadias repair</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,8 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002107-1" qtype="information">Do you have information about Hypospadias repair</Question>
-			<Answer></Answer>
+			<Answer> 
+ Hypospadias repair is surgery to correct a defect in the opening of the penis that is present at birth. The urethra (the tube that carries urine from the bladder to outside the body) does not end at the tip of the  penis . Instead, it ends on the underside of the penis. In more severe cases, the urethra opens at the middle or bottom of the penis, or in or behind the scrotum.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

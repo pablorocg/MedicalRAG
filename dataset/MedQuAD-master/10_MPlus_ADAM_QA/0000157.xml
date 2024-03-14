@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000157" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000247.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Allergic rhinitis - what to ask your doctor - adult</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,7 +22,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000157-1" qtype="information">What is (are) Allergic rhinitis - what to ask your doctor - adult ?</Question>
-			<Answer></Answer>
+			<Answer>Allergies to pollen, dust mites, and animal dander in the nose and nasal passages cause a condition called  allergic rhinitis . Hay fever is another term often used for this problem. Symptoms are usually a watery, runny nose and itching in your nose. Allergies can also bother your eyes. Below are questions you may want to ask your health care provider to help you take care of your allergies.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

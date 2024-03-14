@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002891" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007499.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Osteotomy of the knee</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002891-1" qtype="information">Do you have information about Osteotomy of the knee</Question>
-			<Answer></Answer>
+			<Answer>Osteotomy of the knee is surgery that involves making a cut in one of the bones in your lower leg. This can be done to relieve symptoms of arthritis by realigning your leg.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002324" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007389.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Laminectomy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002324-1" qtype="information">Do you have information about Laminectomy</Question>
-			<Answer></Answer>
+			<Answer>Laminectomy is surgery to remove the lamina. This is part of the bone that makes up a vertebra in the spine. Laminectomy may also be done to remove bone spurs or a herniated (slipped) disk in your spine. The procedure can take pressure off your spinal nerves or spinal cord.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

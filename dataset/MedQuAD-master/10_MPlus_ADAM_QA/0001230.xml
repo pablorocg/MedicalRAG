@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001230" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000104.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Dietary fats explained</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001230-1" qtype="information">Do you have information about Dietary fats explained</Question>
-			<Answer></Answer>
+			<Answer>Fats are an important part of your diet but some types are healthier than others. Choosing healthy fats from vegetable sources more often than less healthy types from animal products can help lower your risk for heart attack, stroke, and other major health problems.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

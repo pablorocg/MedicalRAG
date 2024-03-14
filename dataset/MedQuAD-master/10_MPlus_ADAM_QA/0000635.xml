@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000635" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003477.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Calcium blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000635-1" qtype="information">Do you have information about Calcium blood test</Question>
-			<Answer></Answer>
+			<Answer>The calcium blood test measures the level of calcium in the blood. This article discusses the test to measure the total amount of calcium in your blood. About one half of the calcium in the blood is attached to proteins, mainly albumin. A separate test that measures calcium that is not attached to proteins in your blood is sometimes performed. Such calcium is called free or  ionized calcium . Calcium can also be measured in the  urine .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

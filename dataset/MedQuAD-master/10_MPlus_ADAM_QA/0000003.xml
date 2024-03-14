@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000003" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003640.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>A1C test</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,11 +23,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000003-1" qtype="information">What is (are) A1C test ?</Question>
-			<Answer></Answer>
+			<Answer>A1C is a lab test that shows the average level of blood sugar (glucose) over the previous 3 months. It shows how well you are controlling your blood sugar to help prevent complications from diabetes.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000003-8" qtype="susceptibility">Who is at risk for A1C test? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004172" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000589.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Vaginal birth after C-section</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004172-1" qtype="information">Do you have information about Vaginal birth after C-section</Question>
-			<Answer></Answer>
+			<Answer>If you had a  cesarean birth (C-section)  before, it does not mean that you will have to deliver the same way again. Many women can have vaginal deliveries after having a C-section in the past. This is called a vaginal birth after cesarean (VBAC).</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

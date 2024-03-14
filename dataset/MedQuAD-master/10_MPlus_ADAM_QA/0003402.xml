@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003402" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001506.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Retroversion of the uterus</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003402-1" qtype="information">Do you have information about Retroversion of the uterus</Question>
-			<Answer></Answer>
+			<Answer>Retroversion of the uterus occurs when a woman's uterus (womb) tilts backward rather than forward. It is commonly called a "tipped uterus."</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

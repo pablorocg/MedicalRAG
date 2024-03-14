@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002028" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000017.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>How to make a sling</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002028-1" qtype="information">Do you have information about How to make a sling</Question>
-			<Answer></Answer>
+			<Answer>A sling is a device used to support and keep still (immobilize) an injured part of the body.  Slings can be used for many different injuries. They are most often used when you have a broken ( fractured ) or  dislocated  arm, elbow, collarbone, or shoulder.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

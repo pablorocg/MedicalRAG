@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001001" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002988.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cosmetic ear surgery</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001001-1" qtype="information">Do you have information about Cosmetic ear surgery</Question>
-			<Answer></Answer>
+			<Answer>Cosmetic ear surgery is a procedure to improve the appearance of the ear. The most common procedure is to move very large or prominent ears closer to the head.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

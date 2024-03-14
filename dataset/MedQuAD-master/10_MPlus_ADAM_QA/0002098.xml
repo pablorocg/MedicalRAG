@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002098" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001195.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hypogonadism</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002098-1" qtype="information">What is (are) Hypogonadism ?</Question>
-			<Answer></Answer>
+			<Answer>Hypogonadism occurs when the body's sex glands (gonads) produce little or no hormones. In men, these glands are the testes. In women, these glands are the ovaries.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002098-2" qtype="causes">What causes Hypogonadism ?</Question>
-			<Answer></Answer>
+			<Answer>The cause of hypogonadism can be primary (testes or ovaries) or secondary (problem with the pituitary or hypothalamus). In primary hypogonadism, the ovaries or testes themselves do not function properly. Causes of primary hypogonadism include: Certain  autoimmune disorders , Genetic and developmental disorders, Infection, Iron excess (hemochromatosis), Liver and kidney disease, Radiation (to the gonads), Surgery, Trauma ,  The most common genetic disorders that cause primary hypogonadism are  Turner syndrome  (in women) and  Klinefelter syndrome  (in men). If you already have other autoimmune disorders you may be at higher risk for autoimmune damage to the gonads. These can include disorders that affect the liver, adrenal glands, and thyroid glands, as well as type 1 diabetes. In central hypogonadism, the centers in the brain that control the gonads (hypothalamus and pituitary) do not function properly. Causes of central hypogonadism include: Anorexia nervosa, Bleeding in the area of the pituitary, Taking medicines, such as glucocorticoids and opiates, Stopping anabolic steroids, Genetic problems, Infections, Nutritional deficiencies, Iron excess ( hemochromatosis ), Radiation (to the pituitary or hypothalamus), Rapid, significant weight loss (including weight loss after bariatric surgery), Surgery (skull base surgery near the pituitary), Trauma, Tumors ,  A genetic cause of central hypogonadism is  Kallmann syndrome . Many people with this condition also have a decreased sense of smell. Menopause is the most common reason for hypogonadism. It is normal in all women and occurs on average around age 50. Testosterone levels decrease in men as they age, as well. The range of normal testosterone in the blood is much lower in a 50 to 60 year-old man than it is in a 20 to 30 year-old man.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002098-3" qtype="symptoms">What are the symptoms of Hypogonadism ?</Question>
-			<Answer></Answer>
+			<Answer>Girls who have hypogonadism will not begin menstruating. Hypogonadism can affect their breast development and height. If hypogonadism occurs after puberty, symptoms in women include: Hot flashes, Energy and mood changes, Menstruation becomes irregular or stops ,  In boys, hypogonadism affects muscle, beard, genital and voice development. It also leads to growth problems. In men the symptoms are: Breast enlargement, Muscle loss, Decreased interest in sex (low libido) ,  If a pituitary or other brain tumor is present (central hypogonadism), there may be: Headaches or vision loss, Milky breast discharge (from a prolactinoma, a tumor that produces the hormone prolactin), Symptoms of other hormonal deficiencies (such as  hypothyroidism ) ,  The most common tumors affecting the pituitary are craniopharyngioma in children and prolactinoma adenomas in adults.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002098-4" qtype="exams and tests">How to diagnose Hypogonadism ?</Question>
-			<Answer></Answer>
+			<Answer>You may need to have tests to check:  Estrogen level (women), 
+   Follicle stimulating hormone ( FSH level ) and luteinizing hormone ( LH) level ,  Testosterone level  (men) - interpretation of this test in older men and men who are obese can be difficult so results should be discussed with a hormone specialist (endocrinologist), Other measures of pituitary function,  Other tests may include: Blood tests for  anemia  and iron, Genetic tests&#160;including a karyotype to check chromosomal structure,  Prolactin level  (milk hormone),  Sperm count , Thyroid tests ,  Sometimes imaging tests are needed, such as a  sonogram  of the ovaries. If pituitary disease is suspected, an  MRI  or  CT scan of the brain  may be done.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002098-5" qtype="treatment">What are the treatments for Hypogonadism ?</Question>
-			<Answer></Answer>
+			<Answer>You may need to take hormone-based medicines. Estrogen and progesterone are used for girls and women. The medicines come in the form of a pill or skin patch. Testosterone is used for boys and men. The medicine can be given as a skin patch, skin gel, a solution applied to the armpit, a patch applied to the upper gum, or by injection. For women who have not had their uterus removed, combination treatment with estrogen and progesterone may decrease the chance of developing&#160; endometrial cancer . Women with hypogonadism who have low sex drive, specifically diagnosed as Hypoactive Sexual Desire Disorder (HSDD), may also be prescribed low-dose testosterone. In some women, injections or pills can be used to stimulate ovulation. Injections of pituitary hormone may be used to help men produce sperm. Other people may need surgery and radiation therapy if there is a pituitary or hypothalamic cause of the disorder.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002098-6" qtype="outlook">What is the outlook for Hypogonadism ?</Question>
-			<Answer></Answer>
+			<Answer>Many forms of hypogonadism are treatable and have a good outlook.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002098-7" qtype="complications">What are the complications of Hypogonadism ?</Question>
-			<Answer></Answer>
+			<Answer>In women, hypogonadism may cause  infertility . Menopause is a form of hypogonadism that occurs naturally. It can cause hot flashes, vaginal dryness, and irritability as estrogen levels fall. The risk for&#160; osteoporosis  and  heart disease  increase after menopause. Some women with hypogonadism take  estrogen therapy , most often those who have early menopause. But long-term use of hormone therapy may increase the risk for breast cancer, blood clots and heart disease (especially in older women). Women should talk with their health care provider about the risks and benefits of menopausal hormone therapy. In men, hypogonadism results in the loss of sex drive and may cause: Impotence, Infertility, Osteoporosis, Weakness ,  Men normally have lower testosterone as they age. However, the decline in hormone levels is not as dramatic as it is in women.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002098-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hypogonadism ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you notice: Breast discharge, Breast enlargement (men), Hot flashes (women), Impotence, Loss of body hair, Loss of menstrual period, Problems getting pregnant, Problems with your sex drive, Weakness,  Both men and women should contact their provider if they have headaches or vision problems.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002098-9" qtype="prevention">How to prevent Hypogonadism ?</Question>
-			<Answer></Answer>
+			<Answer>Maintaining fitness, normal body weight and healthy eating habits may help in some cases. Other causes may not be preventable.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

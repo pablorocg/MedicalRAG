@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000225" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000207.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Angina - what to ask your doctor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000225-1" qtype="information">What is (are) Angina - what to ask your doctor ?</Question>
-			<Answer></Answer>
+			<Answer>Angina  is pain, pressure, or other sensation in the chest that happens when your heart muscle is not getting enough blood and oxygen. You sometimes feel it in your neck or jaw. Sometimes you may notice only that your breath is short. Below are some questions you may want to ask your health care provider to help you take care of your angina.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000041" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002598.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Acetaminophen overdose</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,23 +20,28 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000041-1" qtype="information">What is (are) Acetaminophen overdose ?</Question>
-			<Answer></Answer>
+			<Answer>Acetaminophen (most common brand name Tylenol) is a pain medicine. Acetaminophen overdose occurs when someone takes more than the recommended amount of this medicine. Acetaminophen overdose is one of the most common poisonings. People often think that this medicine is very safe. However, it can be deadly if taken in large doses. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with overdoses, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000041-3" qtype="symptoms">What are the symptoms of Acetaminophen overdose ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Abdominal pain,  upset stomach , Appetite loss,  Coma ,  Seizures , 
+   Diarrhea
+   , Irritability, Jaundice&#160;(yellow skin and whites of the eyes), 
+   Nausea, vomiting, 
+   Sweating
+   ,  Note: Symptoms may not occur until 12 or more hours after the acetaminophen was swallowed.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000041-4" qtype="considerations">What to do for Acetaminophen overdose ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000041-7" qtype="outlook">What is the outlook for Acetaminophen overdose ?</Question>
-			<Answer></Answer>
+			<Answer>If treatment is received within 8 hours of the overdose, there is a very good chance of recovery. However, without rapid treatment, a very large overdose of acetaminophen can lead to liver failure and death in a few days.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000041-8" qtype="outlook">What is the outlook for Acetaminophen overdose ?</Question>
-			<Answer></Answer>
+			<Answer>If treatment is received within 8 hours of the overdose, there is a very good chance of recovery. However, without rapid treatment, a very large overdose of acetaminophen can lead to liver failure and death in a few days.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

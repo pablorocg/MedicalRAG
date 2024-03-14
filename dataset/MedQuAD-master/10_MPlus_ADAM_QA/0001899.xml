@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001899" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000844.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Helping your child understand a cancer diagnosis</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001899-1" qtype="information">Do you have information about Helping your child understand a cancer diagnosis</Question>
-			<Answer></Answer>
+			<Answer>Learning that your child has cancer can feel overwhelming and scary. You want to protect your child, not only from the cancer, but also from the fear that comes with having a serious illness.  Explaining what it means to have cancer will not be easy. Here are some things to know when talking with a child about having cancer.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

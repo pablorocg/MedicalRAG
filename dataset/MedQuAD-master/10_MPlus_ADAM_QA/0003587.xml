@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003587" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007356.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Sinus MRI scan</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003587-1" qtype="information">Do you have information about Sinus MRI scan</Question>
-			<Answer></Answer>
+			<Answer>A magnetic resonance imaging (MRI) scan of the sinuses creates detailed pictures of the air-filled spaces inside the skull. These spaces are called the sinuses. The test is noninvasive. MRI uses powerful magnets and radio waves instead of radiation. Signals from the magnetic field bounce off your body and are sent to a computer. There, they are turned into images. Different types of tissues send back different signals. Single MRI images are called slices. The images can be stored on a computer or printed on film. One exam produces dozens or sometimes hundreds of images.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

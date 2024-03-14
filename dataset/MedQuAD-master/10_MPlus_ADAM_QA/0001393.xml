@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001393" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002360.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Endoscope</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001393-1" qtype="information">Do you have information about Endoscope</Question>
-			<Answer></Answer>
+			<Answer>An endoscope is a medical device with a light attached. It is used to look inside a body cavity or organ. The scope is inserted through a natural opening, such as the mouth during a  bronchoscopy , or the rectum for a  sigmoidoscopy . A medical procedure using any type of endoscope is called an  endoscopy . Related topics include: Colonoscopy ,  Cystourethroscopy ,  Esophagogastroduodenoscopy ,  Gastroscopy , Laryngoscopy,  Proctosigmoidoscopy , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

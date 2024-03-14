@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003739" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000042.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Strains</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,27 +19,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003739-1" qtype="information">What is (are) Strains ?</Question>
-			<Answer></Answer>
+			<Answer>A strain is when a muscle is stretched too much and part of it tears. It is also called a pulled muscle. A strain is a painful injury. It can be caused by an accident, overusing a muscle, or using a muscle in the wrong way.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003739-2" qtype="causes">What causes Strains ?</Question>
-			<Answer></Answer>
+			<Answer>A strain may be caused by: Too much physical activity or effort, Improperly warming up before a physical activity, Poor flexibility , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003739-3" qtype="symptoms">What are the symptoms of Strains ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of a strain can include: Pain and difficulty moving the injured muscle, Discolored and bruised skin, Swelling, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003739-4" qtype="considerations">What to do for Strains ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003739-5" qtype="when to contact a medical professional">Do I need to see a doctor for Strains ?</Question>
-			<Answer></Answer>
+			<Answer>Call your local emergency number, such as 911, if: You are unable to move the muscle., The injury is bleeding. ,  Contact your health care provider if the pain does not go away after several weeks.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003739-6" qtype="prevention">How to prevent Strains ?</Question>
-			<Answer></Answer>
+			<Answer>The following tips may help you reduce your risk for a strain: Warm-up properly before exercise and sports. ,  Keep your muscles strong and flexible. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

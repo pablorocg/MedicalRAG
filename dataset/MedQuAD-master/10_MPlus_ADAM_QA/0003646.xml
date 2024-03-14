@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003646" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000322.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Snacking when you have diabetes</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003646-1" qtype="information">What is (are) Snacking when you have diabetes ?</Question>
-			<Answer></Answer>
+			<Answer>When you have  diabetes , you need to control your blood sugar. Insulin or diabetes medicines, as well as  exercise  in general, help lower your blood sugar.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

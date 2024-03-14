@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003163" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001290.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Post-splenectomy syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,11 +19,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003163-1" qtype="information">What is (are) Post-splenectomy syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Post-splenectomy complications can occur after surgery to remove the spleen. Complications may include:  Blood clots,  Destruction of red blood cells , Increased risk for severe infections from bacteria such as  Streptococcus pneumoniae  and  Neisseria meningitidis , Thrombocytosis (increased  platelet count , which can cause  blood clots ) , Increased red and white blood cell counts, </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003163-2" qtype="complications">What are the complications of Post-splenectomy syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Possible long-term medical problems include: Hardening of the arteries ( atherosclerosis ),  Pulmonary hypertension  (a disease affecting the blood vessels in your lungs) , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

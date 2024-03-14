@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003145" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001318.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Polychromatophilia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003145-1" qtype="information">What is (are) Polychromatophilia ?</Question>
-			<Answer></Answer>
+			<Answer>Polychromatophilia refers to how red blood cells look under a microscope when the cells are stained with special dyes. It means there is more staining than normal with certain dyes. The extra staining is due to an increased number of immature red blood cells (RBCs) called reticulocytes. These cells have a blue-colored center. Increased reticulocytes are the result of the bone marrow making more red blood cells than normal. This can be caused by certain conditions that require increased production of red blood cells, such as  hemolytic anemia .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000066" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003696.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>ACTH (cosyntropin) stimulation test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000066-1" qtype="information">Do you have information about ACTH (cosyntropin) stimulation test</Question>
-			<Answer></Answer>
+			<Answer>The ACTH stimulation test measures how well the adrenal glands respond to adrenocorticotropic hormone ( ACTH ). ACTH is a hormone produced in the pituitary gland that stimulates the  adrenal glands  to release a hormone called cortisol. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

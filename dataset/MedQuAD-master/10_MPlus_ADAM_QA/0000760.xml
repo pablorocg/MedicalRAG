@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000760" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000204.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Changing your ostomy pouch</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000760-1" qtype="information">Do you have information about Changing your ostomy pouch</Question>
-			<Answer></Answer>
+			<Answer>Your ostomy pouch is a heavy-duty plastic bag that you wear outside your body to collect your stool. Using an ostomy pouch is the best way to handle bowel movements after certain kinds of surgery on the colon or small intestine. You'll need to learn how to change your ostomy pouch. Follow any specific instructions your health care provider or nurse gives you on changing the pouch. Use the information below as a reminder of what to do.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

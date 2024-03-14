@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003311" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003357.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pyruvate kinase blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003311-1" qtype="information">Do you have information about Pyruvate kinase blood test</Question>
-			<Answer></Answer>
+			<Answer>The pyruvate kinase test measures the level of the enzyme pyruvate kinase in the blood. Pyruvate kinase is an  enzyme  found in red blood cells. It helps change sugar in the blood (glucose) to energy when oxygen levels are low.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

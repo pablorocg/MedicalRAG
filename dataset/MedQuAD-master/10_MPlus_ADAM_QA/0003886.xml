@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003886" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000395.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Testicular failure</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003886-1" qtype="information">What is (are) Testicular failure ?</Question>
-			<Answer></Answer>
+			<Answer>Testicular failure&#160;occurs when the  testicles  cannot produce sperm or male hormones, such as testosterone. 
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003886-2" qtype="causes">What causes Testicular failure ?</Question>
-			<Answer></Answer>
+			<Answer>Testicular failure is uncommon. Causes include: Certain medicines, including glucocorticoids, ketoconazole, chemotherapy, and opioid pain medicines, Diseases that affect the testicle, including  hemochromatosis ,  mumps ,  orchitis ,  testicular cancer ,  testicular torsion , and  varicocele , Injury or trauma to the testicles, Obesity, Genetic diseases, such as  Klinefelter syndrome  or  Prader-Willi syndrome , Other diseases, such as  cystic fibrosis ,  The following can increase the risk of testicular failure: Activities that cause constant, low-level injury to the  scrotum , such as riding a motorcycle or bicycle, Frequent or heavy use of  marijuana ,  Undescended testicles  at birth, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003886-3" qtype="symptoms">What are the symptoms of Testicular failure ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms depend on the age when testicular failure develops, either before or after puberty. Symptoms may include: Decrease in height,  Enlarged breasts  (gynecomastia),  Infertility , Loss of muscle mass, Lack of sex drive (libido), Loss of armpit and pubic hair, Slow development or lack of secondary male sex characteristics (hair growth, scrotum enlargement, penis enlargement, voice changes),  Men may also notice they do not need to shave as often.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003886-4" qtype="exams and tests">How to diagnose Testicular failure ?</Question>
-			<Answer></Answer>
+			<Answer>A physical exam may show: Genitals that do not clearly look either male or female (usually found during infancy), Abnormally small, firm testicles, Tumor or an abnormal mass in the testicle or the scrotum,  Other tests may show low bone mineral density and fractures. Blood tests may show a low level of  testosterone  and high levels of prolactin, follicle-stimulating hormone ( FSH ), and luteinizing hormone ( LH ). These hormone levels determine if testicular failure primary or secondary (due to a pituitary gland problem). If your concern is fertility, your health care provider may also order a  semen analysis  to examine the number of healthy sperm you are producing. Sometimes, an ultrasound of the testes will be ordered. Testicular failure and low testosterone level may be hard to diagnose in older men because testosterone level normally decreases slowly with age. Testicular failure and low testosterone level also may be hard to diagnose in obese men. This is because obesity lowers a carrier molecule for testosterone called sex hormone binding globulin (SHBG). The free testosterone level in the blood is usually normal in obese men who do not have testicular failure.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003886-5" qtype="treatment">What are the treatments for Testicular failure ?</Question>
-			<Answer></Answer>
+			<Answer>Male hormone supplements may treat some forms of testicular failure. This treatment is called testosterone replacement therapy (TRT). TRT can be given as a gel, patch, injection, or implant. Avoiding the medicine or activity that is causing the problem may bring testicle function back to normal.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003886-6" qtype="outlook">What is the outlook for Testicular failure ?</Question>
-			<Answer></Answer>
+			<Answer>Many forms of testicular failure cannot be reversed. TRT can help reverse symptoms, although it may not restore fertility. Men who are having chemotherapy that can cause testicular failure should discuss freezing sperm samples before starting treatment.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003886-7" qtype="complications">What are the complications of Testicular failure ?</Question>
-			<Answer></Answer>
+			<Answer>Testicular failure that begins before puberty will stop normal body growth. It can prevent adult male characteristics (such as deep voice and beard) from developing. This can be treated with TRT. Men who take TRT need to be carefully monitored by their provider. TRT may cause the following: Enlarged prostate , leading to difficulty urinating, Blood clots, Changes in sleep and mood, Changes in good cholesterol (HDL), Blood becomes too thick (polycythemia), </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003886-8" qtype="when to contact a medical professional">Do I need to see a doctor for Testicular failure ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider for an appointment if you have symptoms of testicular failure.  Also, contact your provider if you're on TRT and you think you're having side effects from the treatment.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003886-9" qtype="prevention">How to prevent Testicular failure ?</Question>
-			<Answer></Answer>
+			<Answer>Avoid higher-risk activities if possible. Remain active and prevent weight gain as you get older.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

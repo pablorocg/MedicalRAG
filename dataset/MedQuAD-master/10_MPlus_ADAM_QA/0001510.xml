@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001510" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000756.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Eyelid twitch</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,31 +23,31 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001510-1" qtype="information">What is (are) Eyelid twitch ?</Question>
-			<Answer></Answer>
+			<Answer>An eyelid twitch is a general term for spasms of the eyelid muscles. These spasms happen without your control. The eyelid may repeatedly close (or nearly close) and reopen. This article discusses eyelid twitches in general. </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001510-2" qtype="causes">What causes Eyelid twitch ?</Question>
-			<Answer></Answer>
+			<Answer>The most common things that make the muscle in your eyelid twitch are fatigue, stress, caffeine, and excessive alcohol intake. Rarely, they can be a side effect of a medicine used for migraine headaches. Once spasms begin, they may continue off and on for a few days. Then, they disappear. Most people have this type of eyelid twitch once in a while and find it very annoying. In most cases, you won't even notice when the twitch has stopped. You may have more severe contractions, where the eyelid completely closes. This form of eyelid twitching is called blepharospasm. It lasts much longer than the more common type of eyelid twitch. It is often very uncomfortable and may cause your eyelids to close completely. Twitching can be caused by irritation of the: Surface of the eye (cornea), Membranes lining the eyelids (conjunctiva),  Sometimes, the reason your eyelid is twitching cannot be found.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001510-3" qtype="symptoms">What are the symptoms of Eyelid twitch ?</Question>
-			<Answer></Answer>
+			<Answer>Common symptoms of eyelid twitch are: Repeated uncontrollable twitching or spasms of your eyelid (most often the upper lid), Light sensitivity (sometimes, this is the cause of the twitching), Blurry vision (sometimes) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001510-4" qtype="treatment">What are the treatments for Eyelid twitch ?</Question>
-			<Answer></Answer>
+			<Answer>Eyelid twitching most often goes away without treatment. In the meantime, the following steps may help: Get more sleep., Drink less caffeine., Consume less alcohol., Lubricate your eyes with eye drops.,  If twitching is severe or lasts a long time, small injections of botulinum toxin can control the spasms. In rare cases of severe blepharospasm, limited removal of some of the muscles around the eyelids or brain surgery may be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001510-5" qtype="outlook">What is the outlook for Eyelid twitch ?</Question>
-			<Answer></Answer>
+			<Answer>The outlook depends on the specific type or cause of eyelid twitch. In most cases, the twitches stop within a week.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001510-6" qtype="complications">What are the complications of Eyelid twitch ?</Question>
-			<Answer></Answer>
+			<Answer>There could be some loss of vision if the eyelid twitch is due to an undetected injury. This occurs rarely.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001510-7" qtype="when to contact a medical professional">Do I need to see a doctor for Eyelid twitch ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your primary care doctor or eye doctor (ophthalmologist or optometrist) if: Eyelid twitching does not go away within 1 week, Twitching completely closes your eyelid, Twitching involves other parts of your face, You have redness, swelling, or a discharge from your eye, Your  upper eyelid is drooping , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

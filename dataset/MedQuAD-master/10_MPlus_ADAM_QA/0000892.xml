@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000892" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000415.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cognitive behavioral therapy for back pain</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,11 +23,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000892-1" qtype="information">What is (are) Cognitive behavioral therapy for back pain ?</Question>
-			<Answer></Answer>
+			<Answer>Cognitive behavioral therapy (CBT) can help many people deal with  chronic pain .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000892-2" qtype="information">What is (are) Cognitive behavioral therapy for back pain ?</Question>
-			<Answer></Answer>
+			<Answer>Cognitive behavioral therapy (CBT) can help many people deal with  chronic pain .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

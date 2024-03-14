@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002017" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000862.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hospitals as health educators</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002017-1" qtype="information">Do you have information about Hospitals as health educators</Question>
-			<Answer></Answer>
+			<Answer>If you are looking for a trusted source of health education, look no further than your local hospital. From health videos to yoga classes, many hospitals offer information families need to stay healthy. You also may be able to find ways to save money on health supplies and services.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

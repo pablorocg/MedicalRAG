@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000877" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002964.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Clubfoot repair</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,19 +24,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000877-1" qtype="information">What is (are) Clubfoot repair ?</Question>
-			<Answer></Answer>
+			<Answer>Clubfoot  repair is surgery to correct a birth defect of the foot and ankle.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000877-2" qtype="information">What is (are) Clubfoot repair ?</Question>
-			<Answer></Answer>
+			<Answer>Clubfoot  repair is surgery to correct a birth defect of the foot and ankle.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000877-4" qtype="susceptibility">Who is at risk for Clubfoot repair? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000877-7" qtype="outlook">What is the outlook for Clubfoot repair ?</Question>
-			<Answer></Answer>
+			<Answer>After recovering from surgery, your child's foot will be in a much better position. Your child should be able to have a normal, active life, including playing sports. But the foot may be stiffer than a foot that has not been treated with surgery. In most cases of clubfoot, if only one side is affected, the child's foot and calf will be smaller than normal for the rest of the child's life. Children who have had clubfoot surgery may need another surgery later in life.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

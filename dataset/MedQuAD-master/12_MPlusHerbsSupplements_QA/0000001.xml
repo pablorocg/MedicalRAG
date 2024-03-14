@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000001" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/269.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Activated Charcoal</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000001-1" qtype="information">What is Activated Charcoal ?</Question>
-			<Answer></Answer>
+			<Answer>Activated charcoal has pores that can trap chemicals. It is typically taken by mouth as a treatment for some swallowed poisons. There is little evidence for other uses. 
+
+Charcoal is made from peat, coal, wood, coconut shell, or petroleum. Activated charcoal is made by heating charcoal in the presence of a gas. This process causes the charcoal to develop lots of internal spaces or pores. These pores help activated charcoal trap chemicals. 
+
+Activated charcoal is commonly used to treat poisoning. It is also used for high cholesterol, hangovers, and upset stomach, but there is no strong scientific evidence to support most of these uses.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000001-2" qtype="how effective is it">How effective is Activated Charcoal ?</Question>
-			<Answer></Answer>
+			<Answer>Natural Medicines Comprehensive Database  rates effectiveness based on scientific evidence according to the following scale:  Effective, Likely Effective, Possibly Effective, Possibly Ineffective, Likely Ineffective, Ineffective, and Insufficient Evidence to Rate. The effectiveness ratings for  ACTIVATED CHARCOAL  are as follows: Possibly effective for... Poisoning . Taking activated charcoal by mouth is useful for trapping drugs and other types of chemicals to stop poisoning. It should be used under the guidance of a healthcare provider along with standard treatments for poisoning. There is interest in using activated charcoal for a number of other purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000001-3" qtype="how does it work">What is the action of Activated Charcoal and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000001-4" qtype="precautions">Are there safety concerns or special precautions about Activated Charcoal ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000001-5" qtype="interactions with medications">Are there interactions between Activated Charcoal and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Moderate Be cautious with this combination. Alcohol (Ethanol) Taking alcohol with activated charcoal might decrease how well activated charcoal works to prevent poison absorption. Birth control pills (Contraceptive drugs) Activated charcoal reduces absorption of substances in the stomach and intestines. Taking activated charcoal along with birth control pills can decrease how much of the birth control pills the body absorbs. This can decrease the effects of birth control pills. To prevent this interaction, take activated charcoal at least 3 hours after or 12 hours before birth control pills. Medications taken by mouth (Oral drugs) Activated charcoal reduces absorption of drugs and other chemicals in the stomach and intestines. Taking activated charcoal along with medications taken by mouth can decrease how much medicine the body absorbs. This can decrease the effects of your medication. To prevent this interaction, take activated charcoal at least one hour after medications you take by mouth. Syrup of ipecac Activated charcoal can bind syrup of ipecac in the stomach. This decreases the effects of syrup of ipecac.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000001-6" qtype="interactions with herbs and supplements">Are there interactions between Activated Charcoal and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with herbs and supplements.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000001-7" qtype="interactions with foods">Are there interactions between Activated Charcoal and foods ?</Question>
-			<Answer></Answer>
+			<Answer>Drinking alcohol might make activated charcoal less effective in trapping poisons and other chemicals. Also, keep in mind that activated charcoal can make it more difficult for the body to absorb micronutrients.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000001-8" qtype="dose">What is the dosage of Activated Charcoal ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000338" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000008.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Asthma - quick-relief drugs</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,7 +23,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000338-1" qtype="information">What is (are) Asthma - quick-relief drugs ?</Question>
-			<Answer></Answer>
+			<Answer>Asthma quick-relief medicines work fast to control  asthma  symptoms. You take them when you are coughing, wheezing, having trouble breathing, or having an asthma attack. They are also called rescue drugs. Many of these medicines are called "bronchodilators" because they open (dilate) and help relax the muscles of your airways (bronchi). You and your health care provider can make a plan for the quick-relief drugs that work for you. This plan will include when you should take them and how much you should take. Plan ahead. Make sure you do not run out. Bring enough medicine with you when you travel.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

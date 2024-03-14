@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003519" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003627.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Semen analysis</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003519-1" qtype="information">Do you have information about Semen analysis</Question>
-			<Answer></Answer>
+			<Answer>Semen analysis measures the amount and quality of a man's semen and sperm. Semen is the thick, white fluid released during ejaculation that contains sperm. This test is sometimes called a sperm count.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

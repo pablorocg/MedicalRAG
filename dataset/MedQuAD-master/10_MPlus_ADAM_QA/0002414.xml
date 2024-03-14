@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002414" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003825.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Liver scan</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002414-1" qtype="information">Do you have information about Liver scan</Question>
-			<Answer></Answer>
+			<Answer>A liver scan uses a radioactive material to check how well the liver or spleen is working and to assess masses in the liver.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

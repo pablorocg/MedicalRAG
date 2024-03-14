@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000857" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003618.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Citric acid urine test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000857-1" qtype="information">Do you have information about Citric acid urine test</Question>
-			<Answer></Answer>
+			<Answer>Citric acid urine test measures the level of citric acid in urine.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

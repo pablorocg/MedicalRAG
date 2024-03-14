@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003793" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000738.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Surgical wound care - closed</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003793-1" qtype="information">Do you have information about Surgical wound care - closed</Question>
-			<Answer></Answer>
+			<Answer>An incision is a cut through the skin made during surgery. It is also called a "surgical wound." Some incisions are small. Others are very long. The size of an incision depends on the kind of surgery you had. To close your incision, your doctor used one of the following: Stitches (sutures), Clips, Staples, Skin glue ,  Proper wound care can help prevent infection and reduce scarring as your surgical wound heals.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

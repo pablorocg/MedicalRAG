@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000698" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000238.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Carotid artery surgery - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000698-1" qtype="information">Do you have information about Carotid artery surgery - discharge</Question>
-			<Answer></Answer>
+			<Answer>The carotid artery brings needed blood to your brain and face. You have one of these arteries on each side of your neck. Carotid artery surgery is a procedure to restore proper blood flow to the brain.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

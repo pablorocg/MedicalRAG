@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003511" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003892.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Secretin stimulation test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003511-1" qtype="information">Do you have information about Secretin stimulation test</Question>
-			<Answer></Answer>
+			<Answer>The secretin stimulation test measures the ability of the pancreas to respond to a hormone called secretin. The small intestine produces secretin when partially digested food from the stomach moves into the area.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

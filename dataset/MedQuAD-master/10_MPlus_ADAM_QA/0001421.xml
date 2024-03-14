@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001421" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000605.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Epiglottitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,37 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001421-1" qtype="information">What is (are) Epiglottitis ?</Question>
-			<Answer></Answer>
+			<Answer>Epiglottitis is inflammation of the epiglottis. This is the tissue that covers the trachea (windpipe). Epiglottitis can be a life-threatening disease.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001421-2" qtype="causes">What causes Epiglottitis ?</Question>
-			<Answer></Answer>
+			<Answer>The epiglottis is a stiff, yet flexible tissue (called cartilage) at the back of the tongue. It closes your windpipe (trachea) when you swallow so food does not enter your airway. This helps prevent coughing or choking after swallowing. In children, epiglottitis is usually caused by the bacteria  Haemophilus influenzae  ( H influenzae ) type B. In adults, it is often due to other bacteria such as  Streptococcus pneumoniae , or viruses such as herpes simplex virus and varicella-zoster. Epiglottitis is now very uncommon because the  H influenzae type B (Hib) vaccine  is given routinely to all children. The disease was once most often seen in children ages 2 through 6. In rare cases, epiglottitis can occur in adults.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001421-3" qtype="symptoms">What are the symptoms of Epiglottitis ?</Question>
-			<Answer></Answer>
+			<Answer>Epiglottitis begins with a high fever and sore throat. Other symptoms may include: Abnormal breathing sounds ( stridor ), Fever, Blue skin color ( cyanosis ), Drooling, Difficulty breathing (the person may need to sit upright and lean slightly forward to breathe), Difficulty swallowing, Voice changes (hoarseness) ,  The airways can become totally blocked, which can result in cardiac arrest and death.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001421-4" qtype="exams and tests">How to diagnose Epiglottitis ?</Question>
-			<Answer></Answer>
+			<Answer>Epiglottitis can be a medical emergency. Seek medical help right away. Do not use anything to press the tongue down to try to look at the throat at home. Doing so may make the condition worse. The health care provider may examine the voice box (larynx) using a small mirror held against the back of the throat. Or a viewing tube called a laryngoscope may be used. This examination is best done in the operating room or a similar setting where sudden breathing problems can be more easily handled.  Tests that may be done include: Blood culture  or  throat culture ,  Complete blood count (CBC) , Neck x-ray , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001421-5" qtype="treatment">What are the treatments for Epiglottitis ?</Question>
-			<Answer></Answer>
+			<Answer>A hospital stay is needed, usually in the intensive care unit (ICU). Treatment involves methods to help the person breathe, including: 
+   Breathing tube ( intubation) ,  Moistened (humidified) oxygen , A surgical airway, called tracheostomy, as a last resort if other measures fail,  Other treatments may include: 
+   Antibiotics to treat the infection, Anti-inflammatory medicines, called corticosteroids, to decrease throat swelling, Fluids given through a vein (by IV), </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001421-6" qtype="outlook">What is the outlook for Epiglottitis ?</Question>
-			<Answer></Answer>
+			<Answer>Epiglottitis can be a life-threatening emergency. With proper treatment, the outcome is usually good.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001421-7" qtype="when to contact a medical professional">Do I need to see a doctor for Epiglottitis ?</Question>
-			<Answer></Answer>
+			<Answer>Seek immediate medical attention or call 911 or the local emergency number if a person has breathing trouble. Difficulty breathing is a late, but important sign. Spasm may cause the airways to suddenly close. Or, the airways may become totally blocked. Either of these situations could result in death.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001421-8" qtype="prevention">How to prevent Epiglottitis ?</Question>
-			<Answer></Answer>
+			<Answer>The Hib vaccine protects most children from epiglottitis. The most common bacteria ( H influenza  type b )  that causes epiglottitis is easily spread. If someone in your family is sick from this bacteria, other family members need to be tested and treated.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

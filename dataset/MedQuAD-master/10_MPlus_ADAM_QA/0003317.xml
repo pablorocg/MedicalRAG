@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003317" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000666.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Questions to ask your doctor after knee replacement</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,7 +21,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003317-1" qtype="information">What is (are) Questions to ask your doctor after knee replacement ?</Question>
-			<Answer></Answer>
+			<Answer>You had surgery to get a new knee joint. Below are questions you may want to ask your surgeon or health care provider to help you take care of your new joint. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

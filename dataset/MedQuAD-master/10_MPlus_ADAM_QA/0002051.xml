@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002051" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001203.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hunter syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002051-1" qtype="information">What is (are) Hunter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Mucopolysaccharidosis type II (MPS II) is a rare disease in which the body is missing or does not have enough of an  enzyme  needed to break down long chains of sugar molecules. These chains of molecules are called glycosaminoglycans (formerly called mucopolysaccharides). As a result, the molecules build up in different parts of the body and cause various health problems. The condition belongs to a group of diseases called mucopolysaccharidoses (MPSs). MPS II is also known as Hunter syndrome. There are several other types of MPSs, including: MPS I  (Hurler syndrome; Hurler-Scheie syndrome; Scheie syndrome),  MPS III  (Sanfilippo syndrome),  MPS IV  (Morquio syndrome) , </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002051-2" qtype="causes">What causes Hunter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>MPS II is a genetic disorder. This means it can be passed down through families. The affected gene is on the X chromosome. Boys are most often affected because they inherit the X chromosome from their mothers. Their mothers do not have symptoms of the disease, but they carry a nonworking copy of the gene. MPS II is caused by a lack of the enzyme iduronate sulfatase. Without this enzyme, chains of sugar molecules build up in various body tissues, causing damage. The early-onset, severe form of the disease begins shortly after age 2. A late-onset, mild form causes less severe symptoms to appear later in life.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002051-3" qtype="symptoms">What are the symptoms of Hunter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>In the early-onset, severe form, symptoms include: Aggressive behavior,  Hyperactivity , Mental function gets worse over time, Severe  intellectual disability , Jerky body movements ,  In the late (mild) form, there can be mild to no mental deficiency. In both forms, symptoms include: Carpal tunnel syndrome , Coarse features of the face,  Deafness  (gets worse over time), 
+   Increased hair growth
+   , Joint stiffness,  Large head , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002051-4" qtype="exams and tests">How to diagnose Hunter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>A physical exam and tests may show: Abnormal  retina  (back of the eye), Decreased iduronate sulfatase enzyme in blood serum or cells,  Heart murmur  and leaky heart valves,  Enlarged liver ,  Enlarged spleen ,  Hernia in the groin , Joint  contractures  (from joint stiffness),  Tests may include: Enzyme study, Genetic testing for a change in the iduronate sulfatase gene, Urine test for heparan sulfate and dermatan sulfate , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002051-5" qtype="treatment">What are the treatments for Hunter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The medicine called idursulfase (Elaprase), which replaces the enzyme iduronate sulfatase may be recommended. It is given through a vein (IV, intravenously). Talk to your health care provider for more information. Bone marrow transplant  has been tried for the early-onset form, but the results can vary. Each health problem caused by this disease should be treated separately.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002051-6" qtype="outlook">What is the outlook for Hunter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>People with the early-onset (severe) form usually live for 10 to 20 years. People with the late-onset (mild) form usually live 20 to 60 years.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002051-7" qtype="complications">What are the complications of Hunter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>These complications may occur: Airway obstruction , Carpal tunnel syndrome, Hearing loss that gets worse over time, Loss of ability to complete daily living activities, Joint stiffness that leads to contractures, Mental function that gets worse over time , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002051-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hunter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: You or your child has a group of these symptoms, You know you are a genetic carrier and are considering having children , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002051-9" qtype="prevention">How to prevent Hunter syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Genetic counseling &#160;is recommended for couples who want to have children and who have a family history of MPS II. Prenatal testing is available. Carrier testing for female relatives of affected males is also available.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

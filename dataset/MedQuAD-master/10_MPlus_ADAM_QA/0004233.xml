@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004233" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002340.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Visceromegaly</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004233-1" qtype="information">What is (are) Visceromegaly ?</Question>
-			<Answer></Answer>
+			<Answer>Visceromegaly is enlargement of the organs inside the abdomen, such as the liver,  spleen , stomach, kidneys, or pancreas.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

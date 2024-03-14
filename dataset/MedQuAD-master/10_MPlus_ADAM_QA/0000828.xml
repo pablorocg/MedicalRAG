@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000828" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002318.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Choroid</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000828-1" qtype="information">Do you have information about Choroid</Question>
-			<Answer></Answer>
+			<Answer>The choroid is the layer of blood vessels and connective tissue between the white of the eye and  retina  (at the back of the eye). It is part of the  uvea  and supplies nutrients to the inner parts of the eye. Inflammation of the choroid is called  choroiditis .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

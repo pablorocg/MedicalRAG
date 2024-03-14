@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003745" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007150.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Stress echocardiography</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003745-1" qtype="information">Do you have information about Stress echocardiography</Question>
-			<Answer></Answer>
+			<Answer>Stress echocardiography is a test that uses ultrasound imaging to show how well your heart muscle is working to pump blood to your body while you exercise in a controlled setting. It is most often used to detect a decrease in blood flow to the heart muscle due to  narrowing in the coronary arteries .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

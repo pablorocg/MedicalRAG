@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003969" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000721.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tooth decay - early childhood</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,11 +22,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003969-1" qtype="information">What is (are) Tooth decay - early childhood ?</Question>
-			<Answer></Answer>
+			<Answer>Tooth decay is a serious problem for some children. Decay in the upper and lower front teeth are the most common problems.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003969-3" qtype="prevention">How to prevent Tooth decay - early childhood ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

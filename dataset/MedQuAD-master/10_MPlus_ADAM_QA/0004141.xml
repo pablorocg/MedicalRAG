@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004141" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007298.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Urine odor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,19 +16,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004141-1" qtype="information">What is (are) Urine odor ?</Question>
-			<Answer></Answer>
+			<Answer>Urine odor refers to the smell from your urine. Urine odor varies. Most of the time, urine does not have a strong smell if you are healthy and drink plenty of fluids.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004141-2" qtype="causes">What causes Urine odor ?</Question>
-			<Answer></Answer>
+			<Answer>Most changes in urine odor are not a sign of disease and go away in time. Some foods and medicines, including vitamins, may affect your urine's odor. For example, eating asparagus causes a distinct urine odor.  Foul-smelling urine may be due to bacteria. Sweet-smelling urine may be a sign of uncontrolled diabetes or a rare disease of metabolism. Liver disease and certain metabolic disorders may cause musty-smelling urine. Some conditions that can cause changes in urine odor include: Bladder  fistula , Bladder infection, Body is low on fluids (concentrated urine can smell like ammonia) , Poorly controlled diabetes (sweet smelling urine), Liver failure,  Ketonuria , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004141-3" qtype="when to contact a medical professional">Do I need to see a doctor for Urine odor ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have signs of a urinary tract infection with abnormal urine odor. These include: Fever , Chills , Burning pain with urination , Back pain , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004141-4" qtype="outlook">What is the outlook for Urine odor ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

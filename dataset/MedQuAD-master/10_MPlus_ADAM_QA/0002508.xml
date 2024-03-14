@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002508" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002253.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Malignancy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002508-1" qtype="information">What is (are) Malignancy ?</Question>
-			<Answer></Answer>
+			<Answer>The term "malignancy" refers to the presence of cancerous cells that have the ability to spread to other sites in the body (metastasize) or to invade nearby (locally) and destroy tissues. Malignant cells tend to have fast, uncontrolled growth and do not die normally due to changes in their genetic makeup. Malignant cells that are resistant to treatment may return after all detectable traces of them have been removed or destroyed.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

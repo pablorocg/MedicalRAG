@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001060" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003623.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>CSF-VDRL test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001060-1" qtype="information">Do you have information about CSF-VDRL test</Question>
-			<Answer></Answer>
+			<Answer>The CSF-VDRL test is used to help diagnose  neurosyphilis . It looks for substances (proteins) called  antibodies , which are sometimes produced by the body in reaction to the syphilis-causing bacteria.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

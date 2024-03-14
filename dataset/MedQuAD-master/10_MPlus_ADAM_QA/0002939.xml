@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002939" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002410.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pantothenic acid and biotin</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002939-1" qtype="information">Do you have information about Pantothenic acid and biotin</Question>
-			<Answer></Answer>
+			<Answer>Pantothenic acid (B5) and biotin (B7) are types of B vitamins. They are water-soluble, which means that the body can't store them. If the body can't use the entire vitamin, the extra amount leaves the body through the urine. The body keeps a small reserve of these vitamins. They have to be taken on a regular basis to maintain the reserve.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

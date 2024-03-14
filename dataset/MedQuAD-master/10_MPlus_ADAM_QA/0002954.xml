@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002954" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003690.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Parathyroid hormone (PTH) blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002954-1" qtype="information">Do you have information about Parathyroid hormone (PTH) blood test</Question>
-			<Answer></Answer>
+			<Answer>The PTH test measures the level of parathyroid hormone in the blood. PTH stands for parathyroid hormone. It is a protein hormone released by the parathyroid gland.  A laboratory test can be done to measure the amount of PTH in your blood.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

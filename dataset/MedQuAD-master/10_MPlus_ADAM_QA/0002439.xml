@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002439" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000315.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Low magnesium level</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002439-1" qtype="information">What is (are) Low magnesium level ?</Question>
-			<Answer></Answer>
+			<Answer>Magnesium deficiency is a condition in which the amount of magnesium in the blood is lower than normal. The medical name of this condition is hypomagnesemia.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002439-2" qtype="causes">What causes Low magnesium level ?</Question>
-			<Answer></Answer>
+			<Answer>Every organ in the body, especially the heart, muscles, and kidneys, needs the mineral magnesium. It also contributes to the makeup of teeth and bones. Magnesium is needed for many functions in the body. This includes the physical and chemical processes in the body that convert or use energy ( metabolism ). When the level of magnesium in the body drops below normal, symptoms may develop due to low magnesium. Common causes of low magnesium include: Alcohol use , Burns that affect a large area of the body, Chronic  diarrhea , Excessive urination (polyuria), such as in uncontrolled  diabetes  and during recovery from  acute kidney injury ,  Hyperaldosteronism  (disorder in which the adrenal gland releases too much of the hormone aldosterone into the blood), Kidney tubule disorders,  Malabsorption  syndromes, such as  celiac disease  and inflammatory bowel disease,  Malnutrition , Medicines including amphotericin, antibodies targeting the epidermal growth factor (EGF) receptor, cisplatin, cyclosporine, diuretics, proton pump inhibitors, tacrolimus, and aminoglycoside antibiotics, Pancreatitis (swelling and inflammation of the pancreas), Excessive sweating, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002439-3" qtype="symptoms">What are the symptoms of Low magnesium level ?</Question>
-			<Answer></Answer>
+			<Answer>Common symptoms include: Abnormal eye movements ( nystagmus ) ,  Convulsions ,  Fatigue ,  Muscle spasms or cramps ,  Muscle weakness ,  Numbness , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002439-4" qtype="exams and tests">How to diagnose Low magnesium level ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will do a physical exam and ask about your symptoms. Tests that may be ordered include an  electrocardiogram  (ECG). A  blood test  will be ordered to check your magnesium level. Normal range is 1.3 to 2.1 mEq/L (0.65 to 1.05 mmol/L). Other blood and urine tests that may be done include: Calcium blood test ,  Comprehensive metabolic panel ,  Potassium blood test , Urine magnesium test, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002439-5" qtype="treatment">What are the treatments for Low magnesium level ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment depends on the severity of the low magnesium problem and may include: Fluids given through a vein (IV), Magnesium by mouth or through a vein, Medicines to relieve symptoms, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002439-6" qtype="outlook">What is the outlook for Low magnesium level ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome depends on the condition that is causing the problem.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002439-7" qtype="complications">What are the complications of Low magnesium level ?</Question>
-			<Answer></Answer>
+			<Answer>Untreated, this condition can lead to: Cardiac arrest,  Respiratory arrest , Death, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002439-8" qtype="when to contact a medical professional">Do I need to see a doctor for Low magnesium level ?</Question>
-			<Answer></Answer>
+			<Answer>When your body's magnesium level drops too much, it can be a life-threatening emergency. Call your provider right away if you have symptoms of this condition.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002439-9" qtype="prevention">How to prevent Low magnesium level ?</Question>
-			<Answer></Answer>
+			<Answer>Treating the condition that is causing low magnesium can help.  If you play sports or do other vigorous activity, drink fluids such as sports drinks. They contain  electrolytes  to keep your magnesium level in a healthy range.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

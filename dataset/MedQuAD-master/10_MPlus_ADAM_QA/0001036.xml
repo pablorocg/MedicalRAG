@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001036" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000024.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Crush injury</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,11 +18,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001036-1" qtype="information">What is (are) Crush injury ?</Question>
-			<Answer></Answer>
+			<Answer>A crush injury occurs when excessive force or pressure is put on a body part. This type of injury most often happens when part of the body is squeezed between two heavy objects. Damage related to crush injuries include: Bleeding ,  Bruising ,  Compartment syndrome  (increased pressure, usually in an arm or leg, that causes serious muscle, nerve, blood vessel, and tissue damage),  Broken bone  (fracture),  Open wound  (laceration), 
+   Nerve injury
+   , 
+   Infection (caused by bacteria that enter the body through a wound)
+   , </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001036-2" qtype="considerations">What to do for Crush injury ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

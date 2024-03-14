@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000006" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/1185.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Bacillus coagulans</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,49 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000006-1" qtype="information">What is Bacillus coagulans ?</Question>
-			<Answer></Answer>
+			<Answer>Bacillus coagulans (B. coagulans) is a type of probiotic ("good" bacteria). It isn't naturally found in the body, but it produces lactic acid in the gut. 
+
+B. coagulans is now known as Weizmannia coagulans. However, most products continue to use the name Bacillus. Also, some products containing B. coagulans are marketed as Lactobacillus sporogenes. Although both lactobacillus and B. coagulans produce a compound called lactic acid, unlike lactobacillus, B. coagulans forms spores. Spores are important for telling B. coagulans apart from other lactic acid bacteria. 
+
+People take B. coagulans for constipation and irritable bowel syndrome (IBS). It is also used for diarrhea, gas, indigestion, and many other conditions, but there is no good scientific evidence to support these other uses. 
+
+Don't confuse B. coagulans with other probiotics, or with fermented food products such as fermented milk, kefir, or yogurt. These are not the same.
+ 
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000006-2" qtype="how effective is it">How effective is Bacillus coagulans ?</Question>
-			<Answer></Answer>
+			<Answer>Natural Medicines Comprehensive Database  rates effectiveness based on scientific evidence according to the following scale:  Effective, Likely Effective, Possibly Effective, Possibly Ineffective, Likely Ineffective, Ineffective, and Insufficient Evidence to Rate. The effectiveness ratings for  BACILLUS COAGULANS  are as follows: Possibly effective for... 
+ Constipation . Taking B. coagulans by mouth seems to help relieve constipation., 
+
+ A long-term disorder of the large intestines that causes stomach pain (irritable bowel syndrome or IBS) . Taking B. coagulans by mouth seems to help relieve symptoms of IBS., 
+ 
+
+There is interest in using B. coagulans for a number of other purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000006-3" qtype="how does it work">What is the action of Bacillus coagulans and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000006-4" qtype="precautions">Are there safety concerns or special precautions about Bacillus coagulans ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000006-5" qtype="interactions with medications">Are there interactions between Bacillus coagulans and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Moderate Be cautious with this combination. Antibiotic drugs B. coagulans is a type of friendly bacteria. Antibiotics are used to reduce harmful bacteria in the body. Taking antibiotics along with B. coagulans can reduce the effects of B. coagulans. To avoid this interaction, take B. coagulans products at least 2 hours before or after antibiotics.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000006-6" qtype="interactions with herbs and supplements">Are there interactions between Bacillus coagulans and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with herbs and supplements.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000006-7" qtype="interactions with foods">Are there interactions between Bacillus coagulans and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000006-8" qtype="dose">What is the dosage of Bacillus coagulans ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

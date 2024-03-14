@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004035" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000169.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tricuspid regurgitation</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004035-1" qtype="information">What is (are) Tricuspid regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>Blood that flows between different chambers of your heart must pass through a heart valve. These valves open up enough so that blood can flow through. They then close, keeping blood from flowing backward. The tricuspid valve separates the right lower heart chamber (the right ventricle) from the right upper heart chamber (right atrium). Tricuspid regurgitation is a disorder in which this valve does not close tight enough. This problem causes blood to flow backward into the right upper heart chamber (atrium) when the right lower heart chamber (ventricle) contracts.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004035-2" qtype="causes">What causes Tricuspid regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>An increase in size of the right ventricle is the most common cause of this condition. The right ventricle pumps blood to the lungs where it picks up oxygen. Any condition that puts extra strain on this chamber can cause it to enlarge. Examples include: Abnormally high blood pressure in the arteries of the lungs which can come from a lung problem (such as COPD, or a clot that has traveled to the lungs) , Other heart problem such as poor squeezing of the left side of the heart, Problem with the opening or closing of another one of the heart valves,  Tricuspid regurgitation may also be caused or worsened by infections, such as: Rheumatic fever, Infection of the tricuspid heart valve, which causes damage to the valve,  Less common causes of tricuspid regurgitation include: A type of heart defect present at birth called Ebstein anomaly., Carcinoid tumors, which release a hormone that damages the valve., Marfan syndrome, Rheumatoid arthritis., Radiation therapy., Past use of a diet pill called "Fen-Phen" (phentermine and fenfluramine) or dexfenfluramine. The drug was removed from the market in 1997., </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004035-3" qtype="symptoms">What are the symptoms of Tricuspid regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>Mild tricuspid regurgitation may not cause any symptoms. Symptoms of heart failure may occur, and can include: Active pulsing in the neck veins, Decreased  urine output ,  Fatigue , tiredness, General swelling,  Swelling of the abdomen ,  Swelling of the feet  and ankles,  Weakness , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004035-4" qtype="exams and tests">How to diagnose Tricuspid regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider may find abnormalities when gently pressing with the hand ( palpating ) on your chest. The provider may also feel a pulse over your liver. The physical exam may show liver and spleen swelling. Listening to the heart with a stethoscope may reveal a murmur or other abnormal sounds. There may be signs of fluid buildup in the abdomen. An  ECG  or  echocardiogram  may show enlargement of the right side of the heart. Doppler echocardiography or right-sided  cardiac catheterization  may be used to measure blood pressure inside the heart and lungs. Other tests, such as CT scan or MRI of the chest (heart), may reveal enlargement of the right side of the heart and other changes.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004035-5" qtype="treatment">What are the treatments for Tricuspid regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment may not be needed if there are few or no symptoms. You may need to go to the hospital to diagnose and treat severe symptoms. Swelling and other symptoms of heart failure may be managed with medicines that help remove fluids from the body (diuretics). Some people may be able to have surgery to repair or replace the tricuspid valve. Surgery is most often done as part of another procedure. Treatment of certain conditions may correct this disorder. These include: High blood pressure in the lungs, Swelling of the right lower heart chamber, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004035-6" qtype="outlook">What is the outlook for Tricuspid regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>Surgical valve repair or replacement most often provides a cure in people who need an intervention. The outlook is poor for people who have symptomatic, severe tricuspid regurgitation that cannot be corrected.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004035-7" qtype="when to contact a medical professional">Do I need to see a doctor for Tricuspid regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have symptoms of tricuspid regurgitation.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004035-8" qtype="prevention">How to prevent Tricuspid regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>People with abnormal or damaged heart valves are at risk for an infection called endocarditis. Anything that causes bacteria to get into your bloodstream may lead to this infection. Steps to avoid this problem include: Avoid unclean injections., Treat strep infections promptly to prevent rheumatic fever., Always tell your health care provider and dentist if you have a history of heart valve disease or congenital heart disease before treatment. Some people may need to take antibiotics before having a procedure.&#160;,  Prompt treatment of disorders that can cause valve or other heart diseases reduces your risk for tricuspid regurgitation.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

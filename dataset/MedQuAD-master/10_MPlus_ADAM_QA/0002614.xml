@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002614" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000769.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Metastatic brain tumor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002614-1" qtype="information">What is (are) Metastatic brain tumor ?</Question>
-			<Answer></Answer>
+			<Answer>A metastatic brain tumor is cancer that started in another part of the body and has spread to the brain.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002614-2" qtype="causes">What causes Metastatic brain tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Many tumor or cancer types can spread to the brain. The most common are: Lung cancer ,  Breast cancer ,  Melanoma ,  Kidney cancer ,  Colon cancer ,  Leukemia ,  Some types of cancer rarely spread to the brain, such as prostate cancer. In some cases, a tumor can spread to the brain from an unknown location. This is called cancer of unknown primary (CUP). Growing brain tumors can place pressure on nearby parts of the brain. Brain swelling due to these tumors also causes increased  pressure within the skull . Brain tumors that spread are classified based on the location of the tumor in the brain, the type of tissue involved, and the original location of the tumor. Metastatic brain tumors occur in about one fourth (25%) of all cancers that spread through the body. They are much more common than primary brain tumors (tumors that start in the brain).</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002614-3" qtype="symptoms">What are the symptoms of Metastatic brain tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include any of the following: Decreased coordination , clumsiness, falls,  General ill feeling  or  fatigue ,  Headache , new or more severe than usual, Memory loss, poor judgment, difficulty solving problems, Numbness, tingling, pain, and other changes in sensation, Personality changes, Rapid emotional changes or strange behaviors,  Seizures  that are new, Problems with speech,  Vision changes , double vision, decreased vision, 
+   Vomiting, with or without nausea, Weakness of a body area ,  Specific symptoms vary. Common symptoms of most types of metastatic brain tumors are caused by increased pressure in the brain.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002614-4" qtype="exams and tests">How to diagnose Metastatic brain tumor ?</Question>
-			<Answer></Answer>
+			<Answer>An exam can show brain and nervous system changes based on where the tumor is in the brain. Signs of increased pressure in the skull are also common. Some tumors may not show signs until they are very large. Then, they can cause a very quick decline in nervous system function. The original (primary) tumor may be found by examining tumor tissues from the brain. Tests may include: Mammogram ,  CT scans  of the chest, abdomen, and pelvis to find the original tumor site, CT scan or  MRI of the brain  to confirm the diagnosis and identify the tumor location (MRI is usually more sensitive for finding tumors in the brain), Examination of tissue removed from the tumor during surgery or&#160;CT scan- or MRI-guided  biopsy  to confirm the type of tumor,  Lumbar puncture  (spinal tap) , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002614-5" qtype="treatment">What are the treatments for Metastatic brain tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment depends on: The size and type of the tumor, Location in the body from where it spread, The person's general health,  The goals of treatment may be to relieve symptoms, improve functioning, or provide comfort. Whole brain radiation therapy (WBRT) is often used to treat tumors that have spread to the brain, especially if there are many tumors, and surgery is not a good option. Surgery may be used when there is a single tumor and the cancer has not spread to other parts of the body. Some tumors may be completely removed. Tumors that are deep or that extend into brain tissue may be reduced in size (debulked). Surgery may reduce pressure and relieve symptoms in cases when the tumor cannot be removed. Chemotherapy for metastatic brain tumors is usually not as helpful as surgery or radiation. Some types of tumors, though, do respond to chemotherapy. Stereotactic radiosurgery (SRS)  may also be used. This form of radiation therapy focuses high-power x-rays on a small area of the brain. It is used when there are only a few metastatic tumors. Medicines for brain tumor symptoms include: Anticonvulsants such as phenytoin or levetiracetam to reduce or prevent seizures, Corticosteroids such as dexamethasone to reduce brain swelling, Pain medicines,  When the cancer has spread, treatment may focus on relieving pain and other symptoms. This is called  palliative  or supportive care. Comfort measures, safety measures, physical therapy, occupational therapy, and other treatments may improve the patient's quality of life. Some people may want to seek legal advice to help them create an  advance directive  and power of attorney for health care.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002614-6" qtype="support groups">Where to find support for people with Metastatic brain tumor ?</Question>
-			<Answer></Answer>
+			<Answer>You can ease the stress of illness by joining a  cancer support group . Sharing with others who have common experiences and problems can help you not feel alone. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002614-7" qtype="outlook">What is the outlook for Metastatic brain tumor ?</Question>
-			<Answer></Answer>
+			<Answer>For many people with metastatic brain tumors, the cancer is not curable. It will eventually spread to other areas of the body. Prognosis depends on the type of tumor and how it responds to treatment.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002614-8" qtype="complications">What are the complications of Metastatic brain tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Health problems that may result include: Brain herniation (fatal), Loss of ability to function or care for self, Loss of ability to interact, Permanent, severe loss of nervous system function that gets worse over time, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002614-9" qtype="when to contact a medical professional">Do I need to see a doctor for Metastatic brain tumor ?</Question>
-			<Answer></Answer>
+			<Answer>Call your health care provider if you develop a persistent headache that is new or different for you. Call your provider or go to the emergency room if you or someone you know suddenly becomes sluggish or has vision changes, or speech impairment, or has seizures that are new or different.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

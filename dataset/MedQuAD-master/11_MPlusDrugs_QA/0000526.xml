@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000526" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a695002.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Fluticasone Nasal Spray</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,43 +7,46 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000526-1" qtype="indication">Who should get Fluticasone Nasal Spray and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Nonprescription (over the counter) fluticasone nasal spray is used to relieve symptoms of rhinitis such as sneezing and a runny, stuffy, or itchy nose and itchy, watery eyes caused by hay fever or other allergies (caused by an allergy to pollen, mold, dust, or pets). Prescription fluticasone nasal spray is used to relieve symptoms of nonallergic rhinitis such as sneezing and runny or stuffy nose which are not caused by allergies. Prescription fluticasone nasal spray (Xhance) is used to treat nasal polyps (swelling of the lining of the nose). Fluticasone nasal spray should not be used to treat symptoms (e.g., sneezing, stuffy, runny, itchy nose) caused by the common cold. Fluticasone is in a class of medications called corticosteroids. It works by blocking the release of certain natural substances that cause allergy symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000526-2" qtype="usage">How should Fluticasone Nasal Spray be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Fluticasone comes as a (prescription and nonprescription) liquid to spray in the nose. When nonprescription fluticasone nasal spray is used to relieve hay fever and other allergy symptoms, it is usually sprayed in each nostril once daily. When prescription fluticasone nasal spray is used to treat nonallergic rhinitis, it is usually sprayed in each nostril one or two times a day. When prescription fluticasone nasal spray is used to treat nasal polyps, it is usually sprayed in each nostril two times a day. Follow the directions on your prescription or product label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use fluticasone exactly as directed. Do not use more or less of it or use it more often than directed on the package label or prescribed by your doctor. Fluticasone nasal spray is only for use in the nose. Do not swallow the nasal spray and be careful not to spray it into your eyes or mouth. Each bottle of fluticasone nasal spray should only be used by one person. Do not share fluticasone nasal spray because this may spread germs. Fluticasone nasal spray controls the symptoms of hay fever, allergies, nonallergic rhinitis, or nasal polyps, but does not cure these conditions. Your symptoms may begin to improve 1 to 2 days after you first use fluticasone, but it may take longer before you feel the full benefit of fluticasone nasal spray. Fluticasone works best when used regularly. Use fluticasone on a regular schedule unless your doctor has told you to use it as needed. Call your doctor if your symptoms get worse or do not improve after you use nonprescription fluticasone nasal spray daily for 1 week. Fluticasone nasal spray is designed to provide a certain number of sprays. After the marked number of sprays has been used, the remaining sprays in the bottle might not contain the correct amount of medication. You should keep track of the number of sprays you have used and dispose of the bottle after you have used the marked number of sprays even if it still contains some liquid. Before you use fluticasone nasal spray for the first time, read the written directions that come with it. Ask your doctor or pharmacist if you have any questions about how to use the nasal spray. If you are using fluticasone nasal spray to treat hay fever, other allergy symptoms, or nonallergic rhinitis, follow these steps:
+ Shake the bottle gently before each use., Remove the dust cover., If you are using the nasal spray pump for the first time or if you haven't used your nasal spray for a period of time, you must prime the pump. Carefully read the instructions that come with your nasal spray pump, and ask your doctor or pharmacist to show you how and when to prime the nasal spray pump., Blow your nose until your nostrils are clear., Close one nostril by gently placing your finger against the side of your nose, tilt your head slightly forward and, keeping the bottle upright, insert the nasal tip into the other nostril. Begin to breathe in through your nose. While you are breathing, pump the spray bottle to release a spray according to the instructions that come with your nasal spray pump. Breathe gently in through the nostril and breathe out through your mouth., If your doctor told you to use two sprays in each nostril, repeat step 5., Wipe the applicator with a clean tissue and replace the plastic cap on the bottle., </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000526-4" qtype="precautions">Are there safety concerns or special precautions about Fluticasone Nasal Spray ?</Question>
-			<Answer></Answer>
+			<Answer>Before using fluticasone nasal spray, tell your doctor and pharmacist if you are allergic to fluticasone, any other medications, or any of the ingredients in fluticasone nasal spray. Check the package label or ask your pharmacist for a list of the ingredients., tell your doctor and pharmacist what prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking, or have recently taken, or plan to take Your doctor may need to change the doses of your medications or monitor you carefully for side effects., tell your doctor if you have recently had surgery on your nose, or injured your nose in any way, or if you have sores in your nose, if you have or have ever had cataracts (clouding of the lens of the eye), glaucoma (an eye disease), asthma (sudden episodes of wheezing, shortness of breath, and trouble breathing), any type of infection, or a herpes infection of the eye (an infection that causes a sore on the eyelid or eye surface). Also tell your doctor if you have chicken pox, measles, or tuberculosis (TB; a type of lung infection), or if you have been around someone who has one of these conditions., tell your doctor if you are pregnant, plan to become pregnant, or are breastfeeding. If you become pregnant while using fluticasone nasal spray, call your doctor., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000526-5" qtype="dietary">What special dietary instructions should I follow with Fluticasone Nasal Spray ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000526-6" qtype="forget a dose">What should I do if I forget a dose of Fluticasone Nasal Spray ?</Question>
-			<Answer></Answer>
+			<Answer>Use the missed dose as soon as you remember it. However, if it is almost time for the next dose, skip the missed dose and continue your regular dosing schedule. Do not use a double dose to make up for a missed one.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000526-7" qtype="side effects">What are the side effects or risks of Fluticasone Nasal Spray ?</Question>
-			<Answer></Answer>
+			<Answer>Fluticasone nasal spray may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ headache, dryness, stinging, burning or irritation in the nose, nausea, vomiting, diarrhea, bloody mucus in nose, dizziness,  Some side effects can be serious. If you experience any of these symptoms, stop using fluticasone nasal spray and call your doctor or get emergency medical treatment:
+ severe face pain, thick nasal discharge, fever, sore throat, chills, cough, and other signs of infection, whistling sound from the nose, hives, rash, itching, swelling of the face, throat, tongue, lips, eyes, hands, feet, ankles, or lower legs, hoarseness, difficulty breathing or swallowing, wheezing, feeling faint, severe or frequent nosebleeds,  You should know that this medication may cause children to grow at a slower rate. Talk to your child's doctor if your child is 2 to 11 years of age and needs to use the nonprescription fluticasone nasal spray for more than 2 months per year or if your child is 12 years of age or older and needs to use the nonprescription fluticasone nasal spray for more than 6 months per year. Fluticasone may increase the risk that you will develop glaucoma or cataracts. You will probably need to have regular eye exams during your treatment with fluticasone. Tell your doctor if you have any of the following: pain, redness, or discomfort of the eyes; blurred vision; seeing halos or bright colors around lights; or any other changes in vision. Talk to your doctor about the risks of using this medication. Fluticasone nasal spray may cause other side effects. Call your doctor if you have any unusual problems while using this medication. If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000526-8" qtype="storage and disposal">What should I know about storage and disposal of Fluticasone Nasal Spray ?</Question>
-			<Answer></Answer>
+			<Answer>Keep this medication in the container it came in, tightly closed, and out of reach of children. Store it at room temperature and away from excess light, heat and moisture (not in the bathroom). It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000526-9" qtype="emergency or overdose">What to do in case of emergency or overdose of Fluticasone Nasal Spray ?</Question>
-			<Answer></Answer>
+			<Answer>If someone swallows fluticasone nasal spray, call your local poison control center at 1-800-222-1222. If the victim has collapsed or is not breathing, call local emergency services at 911.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000526-10" qtype="other information">What other information should I know about Fluticasone Nasal Spray ?</Question>
-			<Answer></Answer>
+			<Answer>It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="11">
 			<Question qid="0000526-11" qtype="brand names">What are the brand names of Fluticasone Nasal Spray ?</Question>
-			<Answer></Answer>
+			<Answer>Flonase &#174;  Nasal Spray &#182; , Flonase &#174;  Allergy Relief Nasal Spray, Flonase &#174;  Sensimist Allergy Relief Nasal Spray, Xhance &#174;  Nasal Spray, Dymista &#174;  Nasal Spray (as a combination product containing Fluticasone, Azelastine), </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

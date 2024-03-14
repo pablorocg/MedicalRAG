@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001655" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000444.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Fungal arthritis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001655-1" qtype="information">What is (are) Fungal arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Fungal arthritis is swelling and irritation (inflammation) of a joint by a fungal infection. It is also called mycotic arthritis.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001655-2" qtype="causes">What causes Fungal arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Fungal arthritis is a rare condition. It can be caused by any of the invasive types of fungi. The infection can result from an infection in another organ, such as the lungs and travel to a joint through the bloodstream. A joint can also become infected during a surgery. People with weakened immune systems who travel or live in areas where the fungi are common, are more susceptible to most causes of fungal arthritis. Conditions that can cause fungal arthritis include: Blastomycosis ,  Candidiasis ,  Coccidioidomycosis ,  Cryptococcosis ,  Histoplasmosis ,  Sporotrichosis ,  
+   Exserohilum rostratum  (from injection with contaminated steroid vials), </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001655-3" qtype="symptoms">What are the symptoms of Fungal arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>The fungus can affect bone or joint tissue. One or more joints can be affected, most often the large, weight-bearing joints, such as the knees. Symptoms may include any of the following: Fever,  Joint pain ,  Joint stiffness ,  Joint swelling ,  Swelling of the ankles, feet, and legs , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001655-4" qtype="exams and tests">How to diagnose Fungal arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will examine you. Tests that may be ordered include: Removal of joint fluid to look for fungus under a microscope,  Culture of joint fluid  to look for fungus,  Joint x-ray  showing joint changes, Positive antibody test (serology) for fungal disease,  Synovial biopsy  showing fungus , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001655-5" qtype="treatment">What are the treatments for Fungal arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to cure the infection using antifungal drugs. Commonly used antifungal drugs are amphotericin B or drugs in the azole family (fluconazole, ketoconazole, or itraconazole).  
+ Chronic or advanced bone or joint infection may require surgery (debridement) to remove the infected tissue.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001655-6" qtype="outlook">What is the outlook for Fungal arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>How well you do depends on the underlying cause of the infection and your overall health. A weakened immune system, cancer, and certain medicines can affect the outcome.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001655-7" qtype="complications">What are the complications of Fungal arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Joint damage may occur and the risk of damage is higher if the infection is not treated right away.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001655-8" qtype="when to contact a medical professional">Do I need to see a doctor for Fungal arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider for an appointment if you have any symptoms of fungal arthritis.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001655-9" qtype="prevention">How to prevent Fungal arthritis ?</Question>
-			<Answer></Answer>
+			<Answer>Thorough treatment of fungal infections elsewhere in the body may help prevent fungal arthritis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

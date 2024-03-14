@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003195" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001562.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Premature infant</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003195-1" qtype="information">Do you have information about Premature infant</Question>
-			<Answer></Answer>
+			<Answer>A premature infant is a baby born before 37 full weeks of  gestation  (more than 3 weeks before the due date).</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

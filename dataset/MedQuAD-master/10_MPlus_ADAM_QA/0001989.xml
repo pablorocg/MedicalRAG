@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001989" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002374.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Histiocyte</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001989-1" qtype="information">Do you have information about Histiocyte</Question>
-			<Answer></Answer>
+			<Answer>Macrophages do not travel through the blood. Instead, they remain in one part of the body. Macrophages are found in many organs and tissues, including the: Brain, Breast tissue, Liver, Lung, Lymph nodes, Placenta, Spleen, Tonsils,  In people with a disease called Langerhans cell histiocytosis (previously called  histiocytosis X ), there is an excess of macrophages and other white blood cells in some bodily tissues.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000254" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003982.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Anterior vaginal wall repair</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000254-1" qtype="information">Do you have information about Anterior vaginal wall repair</Question>
-			<Answer></Answer>
+			<Answer>Anterior vaginal wall repair is a surgical procedure. This surgery tightens the front ( anterior ) wall of the vagina.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

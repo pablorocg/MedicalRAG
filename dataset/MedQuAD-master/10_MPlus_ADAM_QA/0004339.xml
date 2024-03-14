@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004339" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001341.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Yaws</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004339-1" qtype="information">What is (are) Yaws ?</Question>
-			<Answer></Answer>
+			<Answer>Yaws is a long-term (chronic) bacterial infection that mainly affects the skin, bones, and joints.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004339-2" qtype="causes">What causes Yaws ?</Question>
-			<Answer></Answer>
+			<Answer>Yaws is an infection caused by a form of the  Treponema pallidum  bacteria. It is closely related to the bacterium that causes syphilis, but this form of the bacterium is not sexually transmitted. Yaws mainly affects children in rural, warm, tropical areas, such as, Africa, Western Pacific islands, and Southeast Asia. Yaws is transmitted by direct contact with the skin sores of infected people.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004339-3" qtype="symptoms">What are the symptoms of Yaws ?</Question>
-			<Answer></Answer>
+			<Answer>About 2 to 4 weeks after infection, the person develops a sore called a "mother yaw" where bacteria entered the skin. The sore may be tan or reddish and looks like a raspberry. It is most often painless but does cause itching.  The sores may last for months. More sores may appear shortly before or after the mother yaw heals. Scratching the sore can spread the bacteria from the mother yaw to uninfected skin. Eventually, the skin sores heal. Other symptoms include: 
+Bone pain
+ , 
+Scarring of the skin
+ , 
+ Swelling of the bones and fingers
+ ,  In the advanced stage, sores on the skin and bones can lead to severe disfigurement and disability. This occurs in up to 1 in 5 people who do not get antibiotic treatment.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004339-4" qtype="exams and tests">How to diagnose Yaws ?</Question>
-			<Answer></Answer>
+			<Answer>A sample from a skin sore is examined under a special type of microscope (darkfield examination).  There is no blood test for yaws. However, the blood test for  syphilis  is often positive in people with yaws because the bacteria that cause these two conditions are closely related.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004339-5" qtype="treatment">What are the treatments for Yaws ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment involves a single dose of penicillin, or 3 weekly doses for later stage disease. It is rare for the disease to return.  People who live in the same house with someone who is infected should be examined for yaws and treated if they are infected.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004339-6" qtype="outlook">What is the outlook for Yaws ?</Question>
-			<Answer></Answer>
+			<Answer>If treated in its early stages, yaws can be cured. Skin lesions may take several months to heal. By its late stage, yaws may have already caused damage to the skin and bones. It may not be fully reversible, even with treatment.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004339-7" qtype="complications">What are the complications of Yaws ?</Question>
-			<Answer></Answer>
+			<Answer>Yaws may damage the skin and bones. It can affect a person's appearance and ability to move. It can also cause deformities of the legs, nose, palate, and upper jaw.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004339-8" qtype="when to contact a medical professional">Do I need to see a doctor for Yaws ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if: You or your child has sores on the skin or bone that don't go away. , You have stayed in tropical areas where yaws is known to occur., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

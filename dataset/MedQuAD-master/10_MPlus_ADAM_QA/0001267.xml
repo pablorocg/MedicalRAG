@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001267" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003668.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Donath-Landsteiner test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001267-1" qtype="information">Do you have information about Donath-Landsteiner test</Question>
-			<Answer></Answer>
+			<Answer>The Donath-Landsteiner test is a blood test to detect harmful  antibodies  related to a rare disorder called  paroxysmal cold hemoglobinuria . These antibodies form and destroy red blood cells when the body is exposed to cold temperatures.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

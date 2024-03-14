@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003907" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003420.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Thoracentesis</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003907-1" qtype="information">Do you have information about Thoracentesis</Question>
-			<Answer></Answer>
+			<Answer>Thoracentesis is a procedure to remove fluid from the space between the lining of the outside of the lungs (pleura) and the wall of the chest.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

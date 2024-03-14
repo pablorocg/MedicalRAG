@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000813" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000274.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Choledocholithiasis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000813-1" qtype="information">What is (are) Choledocholithiasis ?</Question>
-			<Answer></Answer>
+			<Answer>Choledocholithiasis is the presence of at least one gallstone in the common bile duct. The stone may be made up of  bile  pigments or calcium and cholesterol salts.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000813-2" qtype="causes">What causes Choledocholithiasis ?</Question>
-			<Answer></Answer>
+			<Answer>About 1 in 7 people with gallstones will develop stones in the common bile duct. This is the small tube that carries bile from the gallbladder to the intestine. Risk factors include a history of  gallstones . However, choledocholithiasis can occur in people who have had their gallbladder removed.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000813-3" qtype="symptoms">What are the symptoms of Choledocholithiasis ?</Question>
-			<Answer></Answer>
+			<Answer>Often, there are no symptoms unless the stone blocks the common bile duct. Symptoms may include: Pain in the right upper or middle upper abdomen for at least 30 minutes. The pain may be constant and intense. It can be mild or severe.,  Fever ., Yellowing of skin and whites of the eyes (jaundice)., Loss of appetite.,  Nausea and vomiting ., Clay-colored stools., </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000813-4" qtype="exams and tests">How to diagnose Choledocholithiasis ?</Question>
-			<Answer></Answer>
+			<Answer>Tests that show the location of stones in the bile duct include the following: Abdominal CT scan ,  Abdominal ultrasound ,  Endoscopic retrograde cholangiography  (ERCP), Endoscopic ultrasound, Magnetic resonance cholangiopancreatography (MRCP),  Percutaneous transhepatic cholangiogram (PTCA) ,  Your health care provider may order the following blood tests: Bilirubin ,  Complete blood count  (CBC),  Liver function tests , Pancreatic  enzymes  (amylase or lipase), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000813-5" qtype="treatment">What are the treatments for Choledocholithiasis ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to relieve the blockage. Treatment may involve: Surgery to remove the gallbladder and stones ,  ERCP  and a procedure called a sphincterotomy, which makes a surgical cut into the muscle in the common bile duct to allow stones to pass or be removed , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000813-6" qtype="outlook">What is the outlook for Choledocholithiasis ?</Question>
-			<Answer></Answer>
+			<Answer>Blockage and infection caused by stones in the biliary tract can be life threatening. Most of the time, the outcome is good if the problem is detected and treated early. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000813-7" qtype="complications">What are the complications of Choledocholithiasis ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Biliary  cirrhosis ,  Cholangitis , Pancreatitis , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000813-8" qtype="when to contact a medical professional">Do I need to see a doctor for Choledocholithiasis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: You develop abdominal pain, with or without fever, and there is no known cause, You develop jaundice, You have other symptoms of choledocholithiasis, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000948" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001615.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Congenital cataract</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000948-1" qtype="information">What is (are) Congenital cataract ?</Question>
-			<Answer></Answer>
+			<Answer>A congenital  cataract  is a clouding of the lens of the eye that is present at birth. The lens of the eye is normally clear. It focuses light that comes into the eye onto the  retina .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000948-2" qtype="causes">What causes Congenital cataract ?</Question>
-			<Answer></Answer>
+			<Answer>Unlike most cataracts, which occur with aging, congenital cataracts are present at birth. Congenital cataracts are rare. In most people, no cause can be found. Congenital cataracts often occur as part of the following birth defects: Chondrodysplasia syndrome, Congenital rubella, Conradi-H&#252;nermann syndrome, Down syndrome (trisomy 21),  Ectodermal dysplasia  syndrome, Familial congenital cataracts,  Galactosemia , Hallermann-Streiff syndrome, Lowe syndrome, Marinesco-Sj&#246;gren syndrome, Pierre-Robin syndrome,  Trisomy 13 , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000948-3" qtype="symptoms">What are the symptoms of Congenital cataract ?</Question>
-			<Answer></Answer>
+			<Answer>Congenital cataracts most often look different than other forms of cataract. Symptoms may include: An infant does not seem to be visually aware of the world around them (if cataracts are in both eyes), Gray or white cloudiness of the pupil (which is normally black), The "red eye" glow (red reflex) of the pupil is missing in photos, or is different between the 2 eyes, Unusual rapid eye movements ( nystagmus ) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000948-4" qtype="exams and tests">How to diagnose Congenital cataract ?</Question>
-			<Answer></Answer>
+			<Answer>To diagnose congenital cataract, the infant should have a complete eye exam by an ophthalmologist. The infant may also need to be examined by a pediatrician who is experienced in treating inherited disorders. Blood tests or  x-rays  may also be needed.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000948-5" qtype="treatment">What are the treatments for Congenital cataract ?</Question>
-			<Answer></Answer>
+			<Answer>If congenital cataracts are mild and do not affect vision, they may not need to be treated, especially if they are in both eyes. Moderate to severe cataracts that affect vision, or a cataract that is in only 1 eye, will need to be treated with  cataract removal  surgery. In most (noncongenital) cataract surgeries, an artificial intraocular lens (IOL) is inserted into the eye. The use of IOLs in infants is controversial. Without an IOL, the infant will need to wear a contact lens. Patching to force the child to use the weaker eye is often needed to prevent  amblyopia . The infant may also need to be treated for the inherited disorder that has caused the cataracts.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000948-6" qtype="outlook">What is the outlook for Congenital cataract ?</Question>
-			<Answer></Answer>
+			<Answer>Removing a congenital cataract is usually a safe, effective procedure. The child will need follow-up for vision rehabilitation. Most infants with congenital cataract in one eye have some level of "lazy eye" (amblyopia) and will need to use patching after the surgery in an attempt to reverse it.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000948-7" qtype="complications">What are the complications of Congenital cataract ?</Question>
-			<Answer></Answer>
+			<Answer>With cataract surgery there is a very slight risk of: Bleeding, Infection, Inflammation ,  Infants who have surgery for congenital cataracts are likely to develop another type of cataract, which may need further surgery or laser treatment. Many of the diseases that are associated with congenital cataract can also affect other organs.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000948-8" qtype="when to contact a medical professional">Do I need to see a doctor for Congenital cataract ?</Question>
-			<Answer></Answer>
+			<Answer>Call for an urgent appointment with your baby's health care provider if: You notice that the pupil of one or both eyes appears white or cloudy., The child seems to ignore part of their visual world. , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000948-9" qtype="prevention">How to prevent Congenital cataract ?</Question>
-			<Answer></Answer>
+			<Answer>If you have a family history of inheritable disorders that could cause congenital cataracts, consider seeking genetic counseling.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

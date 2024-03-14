@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002359" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000458.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Learning about ventilators</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002359-1" qtype="information">Do you have information about Learning about ventilators</Question>
-			<Answer></Answer>
+			<Answer>A ventilator is a machine that breathes for you or helps you breathe. It is also called a breathing machine or respirator. The ventilator:  Is attached to a computer with knobs and buttons that are controlled by a respiratory therapist, nurse, or health care provider., Has tubes that connect to the person through a breathing tube. The breathing tube is placed in the person's mouth or in an opening through the neck into the windpipe (trachea). This opening is called a  tracheostomy . It is often needed for those who have to be on the ventilator for a longer period of time., May sometimes be connected to a tight fitting mask over the mouth or nose of the person (similar to  CPAP and BiPAP )., Makes noise and has alarms that alert the health care team when something needs to be fixed or changed. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

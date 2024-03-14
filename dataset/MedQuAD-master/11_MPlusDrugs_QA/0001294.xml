@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001294" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a605022.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Voriconazole</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,43 +7,46 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001294-1" qtype="indication">Who should get Voriconazole and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Voriconazole is used in adults and children 2 years of age and older to treat serious fungal infections such as invasive aspergillosis (a fungal infection that begins in the lungs and spreads through the bloodstream to other organs), esophageal candidiasis (a yeast [a type of fungus] infection that may cause white patching in the mouth and throat), and candidemia (a fungal infection in the blood). It is also used to treat certain other fungal infections when other medications will not work for certain patients. Voriconazole is in a class of antifungal medications called triazoles. It works by slowing the growth of the fungi that cause infection.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001294-2" qtype="usage">How should Voriconazole be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Voriconazole comes as a tablet and a suspension (liquid) to take by mouth. It is usually taken every 12 hours on an empty stomach, at least 1 hour before or 1 hour after a meal. To help you remember to take voriconazole, take it at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take voriconazole exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor. If you are taking voriconazole suspension, shake the closed bottle for about 10 seconds before each use to mix the medication evenly. Do not mix the suspension with any other medications, water, or any other liquid. Always use the measuring device that comes with your medication. You may not receive the correct amount of medication if you use a household spoon to measure your dose. At the beginning of your treatment, you may receive voriconazole by intravenous (into a vein) injection. When you begin taking voriconazole by mouth, your doctor may start you on a low dose and increase your dose if your condition does not improve. Your doctor also may decrease your dose if you experience side effects from voriconazole.  The length of your treatment depends on your general health, the type of infection you have, and how well you respond to the medication. Continue to take voriconazole even if you feel well. Do not stop taking voriconazole without talking to your doctor.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001294-4" qtype="precautions">Are there safety concerns or special precautions about Voriconazole ?</Question>
-			<Answer></Answer>
+			<Answer>Before taking voriconazole, tell your doctor and pharmacist if you are allergic to voriconazole, other antifungal medications such as fluconazole (Diflucan), itraconazole (Onmel, Sporanox), or ketoconazole (Nizoral);any other medications, lactose, or any of the other ingredients in voriconazole tablets and suspension. Ask your pharmacist for a list of the ingredients in voriconazole tablets and suspension., some medications should not be taken with voriconazole. Make sure you have discussed any medications you are currently taking or plan to take before starting voriconazole with your doctor and pharmacist. Before starting, stopping or changing any medications while taking voriconazole, please get the advice of your doctor or pharmacist., the following nonprescription or herbal products may interact with voriconazole: fluticasone (Flonase), ibuprofen (Motrin), mometasone (Nasonex), omeprazole (Prilosec), St. John's Wort. Be sure to let your doctor and pharmacist know that you are taking these medications before you start taking voriconazole. Do not start these medications while taking voriconaole without discussing with your healthcare provider., tell your doctor if you have ever been treated with chemotherapy medications for cancer, and if you have or have ever had a prolonged QT interval (a rare heart problem that may cause irregular heartbeat, fainting, or sudden death), or if you have or ever had a slow or irregular heartbeat, low blood levels of potassium, magnesium, or calcium, cardiomyopathy (enlarged or thickened heart muscle that stops the heart from pumping blood normally), cancer of the blood cells, galactose intolerance or glucose&#8211;galactose malabsorption (inherited conditions where the body is not able to tolerate lactose); any condition that makes it difficult for you to digest sucrose (table sugar) or lactose (found in milk and milk products), or liver or kidney disease., tell your doctor if you are pregnant, plan to become pregnant, or are breastfeeding. You should not become pregnant while you are taking voriconazole. You should use effective birth control to prevent pregnancy during your treatment with voriconazole. Talk to your doctor about birth control methods that will work for you. If you become pregnant while taking voriconazole, call your doctor immediately. Voriconazole may harm the fetus., if you are having surgery, including dental surgery, tell the doctor or dentist that you are taking voriconazole., you should know that voriconazole may cause blurred vision or other problems with your eyesight and may make your eyes sensitive to bright light. Do not drive a car at night while taking voriconazole. Do not drive a car during the day or operate machinery if you have any problems with your vision while you are taking this medication., plan to avoid strong, direct sunlight or unnecessary or prolonged exposure to sunlight and to wear protective clothing, sunglasses, and sunscreen. Voriconazole may make your skin sensitive to sunlight. In some patients who have had a reaction to the sun while on voriconazole, skin cancer has developed. Your doctor may refer to you to a dermatologist (skin doctor) to screen and monitor you for skin cancer during and following treatment with voriconazole., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001294-5" qtype="dietary">What special dietary instructions should I follow with Voriconazole ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001294-6" qtype="forget a dose">What should I do if I forget a dose of Voriconazole ?</Question>
-			<Answer></Answer>
+			<Answer>Take the missed dose as soon as you remember it. However, if it is almost time for the next dose, skip the missed dose and continue your regular dosing schedule. Do not take a double dose to make up for a missed one.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001294-7" qtype="side effects">What are the side effects or risks of Voriconazole ?</Question>
-			<Answer></Answer>
+			<Answer>Voriconazole may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ abnormal vision, difficulty seeing colors, diarrhea, nausea, vomiting, headache, dizziness, dry mouth, flushing,  Some side effects can be serious. If you experience any of these symptoms or those listed in the SPECIAL PRECAUTIONS, call your doctor immediately:
+ fever, chills or shaking, fast heartbeat, fast breathing, confusion, upset stomach, extreme tiredness, unusual bruising or bleeding, loss of appetite, itching, dark urine, loss of appetite, fatigue, yellowing of the skin or eyes, pain in the upper right part of the stomach, nausea, vomiting, or flu-like symptoms, tiredness; lack of energy; weakness; nausea; vomiting; dizziness; weight loss, or abdominal pain, weight gain; fatty hump between the shoulders; rounded face (moon face); darkening of skin on stomach, thighs, breasts, and arms; thinning skin; bruising; excessive hair growth; or sweating, hallucinations (seeing things or hearing voices that do not exist), chest pain or tightness, rash, sweating, hives or skin peeling, difficulty breathing or swallowing, swelling of the hands, feet, ankles, or lower legs,  Voriconazole may cause other side effects. Call your doctor if you have any unusual problems while taking this medication. If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001294-8" qtype="storage and disposal">What should I know about storage and disposal of Voriconazole ?</Question>
-			<Answer></Answer>
+			<Answer>Keep this medication in the container it came in, tightly closed, and out of reach of children. Store the tablets at room temperature and away from excess heat and moisture (not in the bathroom). Store the unmixed oral suspension in the refrigerator, but once mixed store it at room temperature and do not refrigerate or freeze it. Dispose of any unused suspension after 14 days. It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001294-9" qtype="emergency or overdose">What to do in case of emergency or overdose of Voriconazole ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911. Symptoms of overdose may include the following:
+ sensitivity to light, widened pupils (black circles in the middle of the eyes), closed eyes, drooling, loss of balance while moving, depression, shortness of breath, seizures, swollen stomach, extreme tiredness, </Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0001294-10" qtype="other information">What other information should I know about Voriconazole ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor and the laboratory. Your doctor will order certain lab tests to check your body's response to voriconazole. Do not let anyone else take your medication. Ask your pharmacist any questions you have about refilling your prescription. If you still have symptoms of infection after you finish the voriconazole, call your doctor. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="11">
 			<Question qid="0001294-11" qtype="brand names">What are the brand names of Voriconazole ?</Question>
-			<Answer></Answer>
+			<Answer>Vfend &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

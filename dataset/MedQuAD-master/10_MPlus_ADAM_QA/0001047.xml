@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001047" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000907.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cryotherapy for prostate cancer</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,11 +21,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001047-1" qtype="information">What is (are) Cryotherapy for prostate cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Cryotherapy uses very cold temperatures to freeze and kill  prostate cancer &#160;cells. The goal of cryosurgery is to destroy the entire prostate gland and possibly surrounding tissue. Cryosurgery is generally not used as a first treatment for prostate cancer.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001047-3" qtype="treatment">What are the treatments for Cryotherapy for prostate cancer ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

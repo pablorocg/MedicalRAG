@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001192" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007430.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Diabetes diet - gestational</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001192-1" qtype="information">Do you have information about Diabetes diet - gestational</Question>
-			<Answer></Answer>
+			<Answer>Gestational diabetes  is high blood sugar (glucose) that starts during pregnancy. Eating a balanced, healthy diet can help you manage gestational diabetes. The diet recommendations that follow are for women with gestational diabetes who do NOT take insulin.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001353" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007317.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Eisenmenger syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,39 +23,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001353-1" qtype="information">What is (are) Eisenmenger syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Eisenmenger syndrome is a condition that affects blood flow from the heart to the lungs in some people who were born with structural problems of the heart.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001353-2" qtype="causes">What causes Eisenmenger syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Eisenmenger syndrome is a condition that results from abnormal blood circulation caused by a defect in the heart. Most often, people with this condition are born with a hole between the two pumping chambers -- the left and right ventricles -- of the heart ( ventricular septal defect ). The hole allows blood that has already picked up oxygen from the lungs to flow back into the lungs, instead of going out to the rest of the body. Other heart defects that can lead to Eisenmenger syndrome include: Atrioventricular canal defect,  Atrial septal defect ,  Cyanotic heart disease ,  Patent ductus arteriosus , Truncus arteriosus ,  Over many years, increased blood flow can damage the small blood vessels in the lungs. This causes high blood pressure in the lungs. As a result, the blood flow goes backward through the hole between the two pumping chambers. This allows oxygen-poor blood to travel to the rest of the body. Eisenmenger syndrome may begin to develop before a child reaches puberty. However, it also can develop in young adulthood, and may progress throughout young adulthood.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001353-3" qtype="symptoms">What are the symptoms of Eisenmenger syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Bluish lips, fingers, toes, and skin (cyanosis), Rounded fingernails and toenails (clubbing), Numbness and tingling of fingers and toes, Chest pain, Coughing up blood, Dizziness, Fainting, Feeling tired, Shortness of breath, Skipped heartbeats (palpitations), Stroke, Swelling in the joints caused by too much uric acid (gout), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001353-4" qtype="exams and tests">How to diagnose Eisenmenger syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will examine the child. During the exam, the provider may find: Abnormal heart rhythm (arrhythmia), Enlarged ends of the fingers or toes (clubbing), Heart murmur (an extra sound when listening to the heart) ,  The provider will diagnose Eisenmenger syndrome by looking at the person's history of heart problems. Tests may include: Complete blood count (CBC), Chest x-ray, MRI scan of the heart, Putting a thin tube in an artery to view the heart and blood vessels and measure pressures (cardiac catheterization), Test of the electrical activity in the heart (electrocardiogram), Ultrasound of the heart (echocardiogram) ,  The number of cases of this condition in the United States has dropped because doctors are now able to diagnose and correct the defect sooner. Therefore, the problem can be corrected before irreversible damage occurs to the small lung arteries.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001353-5" qtype="treatment">What are the treatments for Eisenmenger syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Affected people may receive oxygen, although it is unclear if it helps to prevent the disease from getting worse. In addition, medicines that work to relax and open the blood vessels may be given. People with very severe symptoms may eventually need a heart-lung transplant.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001353-6" qtype="outlook">What is the outlook for Eisenmenger syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>How well the affected person does depends on whether another medical condition is present, and the age at which high blood pressure develops in the lungs. People with this condition can live 20 to 50 years.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001353-7" qtype="complications">What are the complications of Eisenmenger syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Bleeding (hemorrhage) in the brain, Congestive heart failure, Gout, Heart attack,  Hyperviscosity  (sludging of the blood because it is too thick with blood cells), Infection (abscess) in the brain, Kidney failure, Poor blood flow to the brain, Stroke, Sudden death , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001353-8" qtype="when to contact a medical professional">Do I need to see a doctor for Eisenmenger syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if your child develops symptoms of Eisenmenger syndrome.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001353-9" qtype="prevention">How to prevent Eisenmenger syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Surgery as early as possible to correct the heart defect can prevent Eisenmenger syndrome.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

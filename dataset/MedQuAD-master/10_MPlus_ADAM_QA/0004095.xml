@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004095" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001267.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>UPJ obstruction</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,35 +21,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004095-1" qtype="information">What is (are) UPJ obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Ureteropelvic junction (UPJ) obstruction is a blockage at the point where part of the kidney attaches to one of the tubes to the bladder (ureters). This blocks the flow of urine out of the kidney.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004095-2" qtype="causes">What causes UPJ obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>UPJ obstruction mostly occurs in children. It often happens when a baby is still growing in the womb. This is called a congenital condition (present from birth). The blockage is caused when there is: A narrowing of area between the ureter and the part of the kidney called the renal pelvis, An abnormal blood vessel crossing over the ureter,  As a result, urine builds up and damages the kidney. In older children and adults, the problem may be due to scar tissue, infection, earlier treatments for a blockage, or kidney stones. UPJ obstruction is the most common cause of urinary blockages in children. It is now commonly found before birth with ultrasound tests. In some cases, the condition may not show up until after birth. Surgery may be needed early in life if the problem is severe. Most of the time, surgery is not needed until later. Some cases do not require surgery at all.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004095-3" qtype="symptoms">What are the symptoms of UPJ obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>There may not be any symptoms. When symptoms occur, they may include: Back or  flank pain  especially when consuming diuretics such as alcohol or caffeine, Bloody urine (hematuria), Lump in the abdomen (abdominal mass), Kidney infection, Poor growth in infants (failure to thrive),  Urinary tract infection , usually with fever, Vomiting, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004095-4" qtype="exams and tests">How to diagnose UPJ obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>An ultrasound during pregnancy may show kidney problems in the unborn baby. Tests after birth may include: BUN ,  Creatinine clearance , CT scan,  Electrolytes ,  IVP  -- less commonly used, CT urogram -- scan of both kidneys and ureters with IV contrast,  Nuclear scan of kidneys ,  Voiding cystourethrogram , Ultrasound, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004095-5" qtype="treatment">What are the treatments for UPJ obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Surgery to correct the blockage allows urine to flow normally. Most of the time, open (invasive) surgery is performed in infants. Adults may be treated with less-invasive procedures. These procedures involve much smaller surgical cuts than open surgery, and may include: Endoscopic (retrograde) technique which does not require a surgical cut on the skin. Instead, a small instrument is placed into the urethra and bladder and into the affected ureter. This allows the surgeon to open the blockage from the inside., Percutaneous (antegrade) technique involves a small surgical cut on the side of the body between the ribs and the hip., Pyeloplasty removes scar tissue from the blocked area and reconnects the healthy part of the kidney to the healthy ureter.,  Laparoscopy has also been used to treat UPJ obstruction in children and adults who have not had success with other procedures. A tube called a  stent  may be placed to drain urine from the kidney until the surgery heals. A nephrostomy tube, which is placed in the side of the body to drain urine, may also be needed for a short time after the surgery. This type of tube may also be used to treat a bad infection before surgery.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004095-6" qtype="outlook">What is the outlook for UPJ obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Detecting and treating the problem early can help prevent future kidney damage. UPJ obstruction diagnosed before birth or early after birth may actually improve on its own. Most children do well and have no long-term problems. Serious damage may occur in people who are diagnosed later in life.  Long-term outcomes are good with current treatments. Pyeloplasty has the best long-term success.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004095-7" qtype="complications">What are the complications of UPJ obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>If untreated, UPJ obstruction can lead to permanent loss of kidney function ( kidney failure ). Kidney stones or infection may occur in the affected kidney, even after treatment.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004095-8" qtype="when to contact a medical professional">Do I need to see a doctor for UPJ obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Contact the health care provider if your infant has: Bloody urine, Fever, A lump in the abdomen, Indications of back pain or pain in the flanks (the area toward the sides of the body between the ribs and the pelvis), </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

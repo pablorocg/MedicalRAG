@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002922" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003244.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Paleness</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,23 +20,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002922-1" qtype="information">What is (are) Paleness ?</Question>
-			<Answer></Answer>
+			<Answer>Paleness is an abnormal loss of color from normal skin or  mucous membranes .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002922-2" qtype="considerations">What to do for Paleness ?</Question>
-			<Answer></Answer>
+			<Answer>Unless pale skin is accompanied by pale lips, tongue, palms of the hands, inside of the mouth, and lining of the eyes, it is probably not a serious condition and does not require treatment. General paleness affects the entire body. It is most easily seen on the face, lining of the eyes, inner mouth, and nails. Local paleness usually affects a single limb. How easily paleness is diagnosed varies with skin color and the thickness and amount of blood vessels in the tissue under the skin. Sometimes it is only a lightening of skin color. Paleness may be difficult to detect in a dark-skinned person and is detected only in the eye and mouth lining.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002922-3" qtype="causes">What causes Paleness ?</Question>
-			<Answer></Answer>
+			<Answer>Paleness may be the result of decreased blood supply to the skin. It can also be due to decreased number of red blood cells (anemia). Paleness of the skin is not the same as loss of pigment from the skin. Paleness is related to blood flow in the skin rather than deposit of melanin in the skin. Paleness can be caused by: Anemia  ( blood loss , poor nutrition, or underlying disease), Problems with the circulatory system,  Shock ,  Fainting ,  Frostbite ,  Low blood sugar ,  Chronic  (long-term) diseases including infection and  cancer , Certain medicines , Certain vitamin deficiencies, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002922-4" qtype="when to contact a medical professional">Do I need to see a doctor for Paleness ?</Question>
-			<Answer></Answer>
+			<Answer>Call your health care provider or 911 or the local emergency number if a person suddenly develops generalized paleness. Emergency action may be needed to maintain proper blood circulation. Also call your provider if paleness is accompanied by shortness of breath, blood in the stool, or other unexplained symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002922-5" qtype="outlook">What is the outlook for Paleness ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

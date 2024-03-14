@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004313" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003237.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Whiteheads</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004313-1" qtype="information">What is (are) Whiteheads ?</Question>
-			<Answer></Answer>
+			<Answer>Whiteheads are small, white, raised bumps on the skin. They form when oil and skin collect in the pores. Whiteheads are also known as closed  comedones  and pimples. They are one type of  acne , often on the face, chest and back. Related conditions include: Acne, Blackheads, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

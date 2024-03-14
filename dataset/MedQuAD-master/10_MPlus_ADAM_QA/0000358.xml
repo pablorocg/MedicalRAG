@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000358" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000079.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Atypical pneumonia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000358-1" qtype="information">What is (are) Atypical pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Pneumonia is inflamed or swollen lung tissue due to infection with a germ. With atypical pneumonia, the infection is caused by different bacteria than the more common ones that cause pneumonia. Atypical pneumonia also tends to have milder symptoms than typical pneumonia.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000358-2" qtype="causes">What causes Atypical pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Bacteria that cause atypical pneumonia include:  Pneumonia  caused by the bacteria  Mycoplasma pneumoniae  often affects people younger than age 40., Pneumonia due to  Chlamydophila pneumoniae  bacteria occurs year round., Pneumonia due to  Legionella pneumophila  bacteria is seen more often in middle-aged and older adults, smokers, and those with chronic illnesses or a weak immune system. It can be more severe. This type of pneumonia is also called  Legionnaire disease ., </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000358-3" qtype="symptoms">What are the symptoms of Atypical pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Pneumonia due to mycoplasma and chlamydophila bacteria is usually mild. Pneumonia due to legionella gets worse during the first 4 to 6 days, and then improves over 4 to 5 days. The most common symptoms of pneumonia are: Chills, Cough (with legionella pneumonia, you may cough up bloody mucus), Fever, which may be mild or high, Shortness of breath (may only occur when you exert yourself),  Other symptoms include: Chest pain that gets worse when you breathe deeply or cough, Confusion, most often in older people or those with legionella pneumonia, Headache, Loss of appetite, low energy, and fatigue, Muscle aches and joint stiffness, Sweating and clammy skin,  Less common symptoms include: Diarrhea (often with legionella pneumonia), Ear pain (with mycoplasma pneumonia), Eye pain or soreness (with mycoplasma pneumonia), Neck lump (with mycoplasma pneumonia), Rash (with mycoplasma pneumonia), Sore throat (with mycoplasma pneumonia), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000358-4" qtype="exams and tests">How to diagnose Atypical pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>People with suspected pneumonia should have a complete medical evaluation. It may be hard for your health care provider to tell whether you have pneumonia,  bronchitis , or another respiratory infection, so you may need a  chest x-ray . The evaluation is similar for people who have more typical pneumonia. Depending on how severe the symptoms are, other tests may be done, including: Complete blood count  (CBC), Blood tests to identify the specific bacteria,  Bronchoscopy  (rarely needed),  CT scan of the chest , Measuring levels of oxygen and carbon dioxide in the blood ( arterial blood gases ), Nose or throat swab to check for bacteria and viruses, Blood cultures,  Open lung biopsy  (only done in very serious illnesses when the diagnosis cannot be made from other sources),  Sputum culture  to identify the specific bacteria, Urine test to check for legionella bacteria , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000358-5" qtype="treatment">What are the treatments for Atypical pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>To feel better, you can take these self-care measures at home: Control your fever with aspirin, non-steroidal anti-inflammatory drugs or NSAIDs (such as ibuprofen or naproxen), or acetaminophen. DO NOT give aspirin to children because it may cause a dangerous illness called  Reye syndrome ., DO NOT take cough medicines without first talking to your provider. Cough medicines may make it harder for your body to cough up the extra sputum., Drink plenty of fluids to help loosen secretions and bring up phlegm., Get a lot of rest. Have someone else do household chores. ,  If needed, you will be prescribed antibiotics. You may be able to take antibiotics by mouth at home., If your condition is severe, you will likely be admitted to a hospital. There, you will be given antibiotics through a vein (intravenously), as well as oxygen., Antibiotics might be used for 2 weeks or more, although fewer days are usually enough., Finish all the antibiotics you've been prescribed, even if you feel better. If you stop the medicine too soon, the pneumonia can return and may be harder to treat. , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000358-6" qtype="outlook">What is the outlook for Atypical pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Most people with pneumonia due to mycoplasma or chlamydophila get better with the right antibiotics. Legionella pneumonia can be severe. It can lead to problems, most often in those with kidney failure, diabetes, chronic obstructive pulmonary disease (COPD), or a weakened immune system. It can also lead to death.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000358-7" qtype="complications">What are the complications of Atypical pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Complications that may result include any of the following: Brain and nervous system infections, such as  meningitis , myelitis, and  encephalitis ,  Hemolytic anemia , a condition in which there are not enough red blood cells in the blood because the body is destroying them, Severe lung damage, Respiratory failure requiring breathing machine support (ventilator), </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000358-8" qtype="when to contact a medical professional">Do I need to see a doctor for Atypical pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop fever, cough, or shortness of breath. There are many causes for these symptoms. The provider will need to rule out pneumonia. Also, call if you have been diagnosed with this type of pneumonia and your symptoms become worse after improving first.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000358-9" qtype="prevention">How to prevent Atypical pneumonia ?</Question>
-			<Answer></Answer>
+			<Answer>Wash your hands often and have other people around you do the same. Avoid contact with sick people whenever possible. If your immune system is weak, stay away from crowds. Ask visitors who have a cold to wear a mask. DO NOT smoke. If you do, get help to quit. Get appropriate vaccines like flu and COVID-19 shot as prescribed. Ask your provider if you need a  pneumonia vaccine .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

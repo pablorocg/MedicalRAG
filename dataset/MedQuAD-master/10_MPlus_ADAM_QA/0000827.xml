@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000827" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003406.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Chorionic villus sampling</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000827-1" qtype="information">Do you have information about Chorionic villus sampling</Question>
-			<Answer></Answer>
+			<Answer>Chorionic villus sampling (CVS) is a test some pregnant women have to screen their baby for genetic problems. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

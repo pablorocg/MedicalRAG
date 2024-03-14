@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001058" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003768.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>CSF smear</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001058-1" qtype="information">Do you have information about CSF smear</Question>
-			<Answer></Answer>
+			<Answer>A cerebrospinal fluid (CSF) smear is a laboratory test to look for bacteria, fungi, and viruses in the fluid that moves in the space around the spinal cord and brain. CSF protects the brain and spinal cord from injury.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

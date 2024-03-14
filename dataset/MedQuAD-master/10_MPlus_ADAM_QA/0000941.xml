@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000941" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000213.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Concussion - what to ask your doctor - child</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000941-1" qtype="information">What is (are) Concussion - what to ask your doctor - child ?</Question>
-			<Answer></Answer>
+			<Answer>Your child has a mild brain injury ( concussion ). This may affect how your child's brain works for some time. Your child may have lost consciousness for a while. Your child also may have a bad headache. Below are some questions you may want to ask your health care provider to help you take care of your child's concussion.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

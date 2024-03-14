@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001461" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000646.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Esophagitis - infectious</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,39 +22,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001461-1" qtype="information">What is (are) Esophagitis - infectious ?</Question>
-			<Answer></Answer>
+			<Answer>Esophagitis is a term for any inflammation, irritation, or swelling of the esophagus. This is the tube that carries food and liquids from the mouth to the stomach. Infectious esophagitis is an infection of the esophagus from viruses, bacteria, fungi, or yeast. This most often occurs in people with a weak immune system.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001461-2" qtype="causes">What causes Esophagitis - infectious ?</Question>
-			<Answer></Answer>
+			<Answer>Infectious esophagitis is rare. It often occurs in people with weak immune systems. People who have strong immune systems don't usually develop the infection. Common causes of a weakened immune system include: HIV/AIDS ,  Chemotherapy ,  Diabetes ,  Leukemia  or lymphoma, Medicines that suppress the immune system, such as ones given after organ or bone marrow transplant, Other conditions that suppress or weaken your immune system ,  Organisms (germs) that cause esophagitis include fungi, yeast, and viruses. Common organisms include: Candida albicans  and other Candida species, Cytomegalovirus (CMV), Herpes simplex virus (HSV), Human papillomavirus (HPV), Tuberculosis bacteria ( Mycobacterium tuberculosis ) -- not common, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001461-3" qtype="symptoms">What are the symptoms of Esophagitis - infectious ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of infectious esophagitis include: Difficulty swallowing, Painful swallowing, Fever and chills,  Yeast infection of the tongue and lining of the mouth ( oral thrush ), Sores in the mouth or back of the throat (with herpes or CMV) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001461-4" qtype="exams and tests">How to diagnose Esophagitis - infectious ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will ask about your symptoms and examine your mouth and throat. Tests may include: Blood and urine tests for CMV, Culture of cells from the esophagus for herpes or CMV, Mouth or throat swab culture for candida,  You may need to have an  upper endoscopy exam . This is a test to examine the lining of the esophagus.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001461-5" qtype="treatment">What are the treatments for Esophagitis - infectious ?</Question>
-			<Answer></Answer>
+			<Answer>Most often, medicines can control the infection. The type of medicine given will depend on the cause of the infection. Antiviral medicines can treat a herpes infection. Common antiviral medicines for a herpes infection are: Acyclovir, Famciclovir, Valacyclovir,  Antifungal medicines can treat candida infection. Common antifungal medicines are: Fluconazole (taken by mouth), Caspofungin (given by injection), Amphotericin (given by injection),  Antiviral medicines can treat CMV infection. Ganciclovir or foscarnet are given through a vein (intravenously). In some cases, a medicine called valganciclovir, which is taken by mouth, can be used for CMV infection. Some people may also need pain medicine. Ask your provider for special diet recommendations. For example, there may be foods you need to avoid eating as your esophagitis heals. Many people need other long-term medicines to suppress the virus or fungus and to prevent the infection from coming back.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001461-6" qtype="outlook">What is the outlook for Esophagitis - infectious ?</Question>
-			<Answer></Answer>
+			<Answer>In people with a healthy immune system, esophagitis often goes away on its own. People with a weak immune system may take longer to get better.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001461-7" qtype="complications">What are the complications of Esophagitis - infectious ?</Question>
-			<Answer></Answer>
+			<Answer>Health problems that may result from infectious esophagitis include: Holes in your esophagus (perforations), Infection at other sites, Recurrent infection, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001461-8" qtype="when to contact a medical professional">Do I need to see a doctor for Esophagitis - infectious ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have any condition that can cause reduced  immune response  and you develop symptoms of infectious esophagitis.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001461-9" qtype="prevention">How to prevent Esophagitis - infectious ?</Question>
-			<Answer></Answer>
+			<Answer>If you have a weak immune system, try to avoid contact with people who have an infection with any of the organisms mentioned above.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

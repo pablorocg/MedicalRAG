@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000360" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001638.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Aural polyps</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,27 +16,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000360-1" qtype="information">What is (are) Aural polyps ?</Question>
-			<Answer></Answer>
+			<Answer>An aural polyp is a growth in the outside (external) ear canal or middle ear. It may be attached to the eardrum (tympanic membrane), or it may grow from the middle ear space.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000360-2" qtype="causes">What causes Aural polyps ?</Question>
-			<Answer></Answer>
+			<Answer>Aural polyps may be caused by: Cholesteatoma , Foreign object, Inflammation, Tumor , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000360-3" qtype="symptoms">What are the symptoms of Aural polyps ?</Question>
-			<Answer></Answer>
+			<Answer> Bloody  drainage from the ear  is the most common symptom. Hearing loss can also occur.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000360-4" qtype="exams and tests">How to diagnose Aural polyps ?</Question>
-			<Answer></Answer>
+			<Answer>An aural polyp is diagnosed through an exam of the ear canal and middle ear using an otoscope or microscope.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000360-5" qtype="treatment">What are the treatments for Aural polyps ?</Question>
-			<Answer></Answer>
+			<Answer> Treatment depends on the underlying cause. Your health care provider may first recommend: Avoiding water in the ear , Steroid medicines, Antibiotic ear drops,   If a cholesteatoma is the underlying problem or the condition fails to clear, then surgery may be needed.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000360-6" qtype="when to contact a medical professional">Do I need to see a doctor for Aural polyps ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have severe pain, bleeding from an ear or a sharp decrease in hearing.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

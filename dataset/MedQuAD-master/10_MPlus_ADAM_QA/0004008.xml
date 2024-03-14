@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004008" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000747.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Transient tic disorder</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,45 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004008-1" qtype="information">What is (are) Transient tic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Provisional (transient) tic disorder is a condition in which a person makes one or many brief, repeated, movements or noises (tics). These movements or noises are involuntary (not on purpose).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004008-2" qtype="causes">What causes Transient tic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Provisional tic disorder is common in children. The cause of provisional tic disorder can be physical or mental (psychological). It may be a mild form of  Tourette syndrome .</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004008-3" qtype="symptoms">What are the symptoms of Transient tic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>The child may have  facial tics  or tics involving movement of the arms, legs, or other areas. Tics may involve: Movements that occur again and again and do not have a rhythm, An overwhelming urge to make the movement, Brief and jerky movements that include blinking, clenching the fists, jerking the arms, kicking, raising the eyebrows, sticking out the tongue,  The tics often look like nervous behavior. Tics appear to get worse with stress. They do not occur during sleep. Sounds may also occur, such as: Clicking, Grunting, Hissing, 
+ Moaning
+  , 
+  Sniffing
+  , 
+  Snorting
+  , 
+  Squealing
+  , 
+  Throat clearing
+  , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004008-4" qtype="exams and tests">How to diagnose Transient tic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will consider physical causes of transient tic disorder before making a diagnosis. In order to be diagnosed with transient tic disorder, the child must have had tics almost every day for at least 4 weeks, but less than a year. Other disorders such as  anxiety , attention deficit hyperactivity disorder ( ADHD ), uncontrollable movement ( myoclonus ),  obsessive-compulsive disorder , and  epilepsy  may need to be ruled out.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004008-5" qtype="treatment">What are the treatments for Transient tic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Providers recommend that family members do not call attention to the tics at first. This is because unwanted attention may make the tics worse. If the tics are severe enough to cause problems at school or work, behavioral techniques and medicines may help.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004008-6" qtype="outlook">What is the outlook for Transient tic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Simple childhood tics usually disappear over a period of months.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004008-7" qtype="complications">What are the complications of Transient tic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>There are usually no complications. A  chronic motor tic disorder  can develop.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004008-8" qtype="when to contact a medical professional">Do I need to see a doctor for Transient tic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Talk to your child's provider if you are concerned about a transient tic disorder, especially if it continues or disrupts your child's life. If you are not sure whether the movements are a tic or a  seizure , call the provider right away.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

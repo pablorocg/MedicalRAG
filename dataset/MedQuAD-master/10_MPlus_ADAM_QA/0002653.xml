@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002653" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000176.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Mitral valve regurgitation</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002653-1" qtype="information">What is (are) Mitral valve regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>Mitral regurgitation is a disorder in which the mitral valve on the left side of the heart does not close properly. Regurgitation means leaking from a valve that does not close all the way.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002653-2" qtype="causes">What causes Mitral valve regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>Mitral regurgitation is a common type of heart valve disorder.  Blood that flows between different chambers of your heart must flow through a valve. The valve between the 2 chambers on the left side of your heart is called the mitral valve. When the mitral valve doesn't close all the way, blood flows backward into the upper heart chamber (atrium) from the lower chamber as it contracts. This cuts down on the amount of blood that flows to the rest of the body. As a result, the heart may try to pump harder. This may lead to congestive heart failure. Mitral regurgitation may begin suddenly. This often occurs after a heart attack. When the regurgitation does not go away, it becomes long-term (chronic). Many other diseases or problems can weaken or damage the valve or the heart tissue around the valve. You are at risk for mitral valve regurgitation if you have:  Coronary heart disease and high blood pressure, Infection of the heart valves,  Mitral valve prolapse  (MVP), Rare conditions, such as untreated syphilis or  Marfan syndrome , Rheumatic heart disease. This is a complication of untreated strep throat that is becoming less common., Swelling of the left lower heart chamber ,  Another important risk factor for mitral regurgitation is past use of a diet pill called "Fen-Phen" (fenfluramine and phentermine) or dexfenfluramine. The drug was removed from the market by the U.S. Food and Drug Administration (FDA) in 1997 because of safety concerns.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002653-3" qtype="symptoms">What are the symptoms of Mitral valve regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may begin suddenly if: A heart attack damages the muscles around the mitral valve., The cords that attach the muscle to the valve break., An infection of the valve destroys part of the valve. ,  There are often no symptoms. When symptoms occur, they often develop gradually, and may include: Cough,  Fatigue ,  exhaustion , and lightheadedness, Rapid breathing, Sensation of feeling the heart beat ( palpitations ) or a rapid heartbeat, Shortness of breath that increases with activity and when lying down, Waking up an hour or so after falling asleep because of trouble breathing,  Urination, excessive at night , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002653-4" qtype="exams and tests">How to diagnose Mitral valve regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>When listening to your heart and lungs, the health care provider may detect:  A thrill (vibration) over the heart when  feeling the chest area , An extra heart sound (S4 gallop), A distinctive heart murmur, Crackles in the lungs (if fluid backs up into the lungs) ,  The physical exam may also reveal: Ankle and leg swelling,  Enlarged liver , Bulging neck veins, Other signs of right-sided heart failure ,  The following tests may be done to look at the heart valve structure and function: CT scan of the heart ,  Echocardiogram  (an ultrasound examination of the heart) - transthoracic or transesophageal,  Magnetic resonance imaging  (MRI) ,  Cardiac catheterization may be done if heart function becomes worse.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002653-5" qtype="treatment">What are the treatments for Mitral valve regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment will depend on what symptoms you have, what condition caused the mitral valve regurgitation, how well the heart is working, and if the heart has become enlarged. People with high blood pressure or a weakened heart muscle may be given medicines to reduce the strain on the heart and ease symptoms. The following drugs may be prescribed when mitral regurgitation symptoms get worse: Beta-blockers, ACE inhibitors, or calcium channel blockers, Blood thinners (anticoagulants) to help prevent blood clots in people with atrial fibrillation, Drugs that help control uneven or abnormal heartbeats, Water pills (diuretics) to remove excess fluid in the lungs ,  A low-sodium diet may be helpful. You may need to limit your activity if symptoms develop. Once the diagnosis is made, you should visit your provider regularly to track your symptoms and heart function.  You may need  surgery to repair or replace the valve  if: Heart function is poor, The heart becomes enlarged (dilated), Symptoms get worse , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002653-6" qtype="outlook">What is the outlook for Mitral valve regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome varies. Most of the time the condition is mild, so no therapy or restriction is needed. Symptoms can most often be controlled with medicine. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002653-7" qtype="complications">What are the complications of Mitral valve regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>Problems that may develop include: Abnormal heart rhythms , including atrial fibrillation and possibly more serious, or even life-threatening abnormal rhythms, Clots that may travel to other areas of the body, such as the lungs or brain, Infection of the heart valve,  Heart failure , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002653-8" qtype="when to contact a medical professional">Do I need to see a doctor for Mitral valve regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if symptoms get worse or do not improve with treatment. Also contact your provider if you are being treated for this condition and develop signs of infection, which include: Chills, Fever, General ill feeling, Headache, Muscle aches , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002653-9" qtype="prevention">How to prevent Mitral valve regurgitation ?</Question>
-			<Answer></Answer>
+			<Answer>People with abnormal or damaged heart valves are at risk for an infection called endocarditis. Anything that causes bacteria to get into your bloodstream can lead to this infection. Steps to avoid this problem include:  Avoid unclean injections., Treat strep infections quickly to prevent  rheumatic fever ., Always tell your provider and dentist if you have a history of heart valve disease or congenital heart disease before treatment. Some people may need antibiotics before dental procedures or surgery. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003390" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001027.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Retinal detachment</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,39 +18,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003390-1" qtype="information">What is (are) Retinal detachment ?</Question>
-			<Answer></Answer>
+			<Answer>Retinal detachment is a separation of the light-sensitive membrane (retina) in the back of the eye from its supporting layers.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003390-2" qtype="causes">What causes Retinal detachment ?</Question>
-			<Answer></Answer>
+			<Answer>The  retina  is the clear tissue that lines the inside of the back of the eye. Light rays that enter the eye are focused by the cornea and lens into images that are formed on the retina. The most common type of retinal detachment is often due to a tear or hole in the retina. This type of detachment is called a rhegmatogenous retinal detachment. Eye fluid may leak through this opening. This causes the retina to separate from the underlying tissues, much like a bubble under wallpaper. This is most often caused by a condition called posterior vitreous detachment. It can also be caused by trauma and severe nearsightedness. A family history of retinal detachment also increases your risk., Another type of retinal detachment is called tractional detachment. This type occurs in people who have uncontrolled diabetes, had retinal surgery before, or have long-term (chronic) inflammation. ,  When the retina becomes detached, bleeding from nearby blood vessels can cloud the inside of the eye so that you may not see clearly or at all. Central vision becomes severely affected if the  macula  becomes detached. The macula is the part of the retina responsible for sharp, detailed vision.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003390-3" qtype="symptoms">What are the symptoms of Retinal detachment ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of detached retina can include: Bright flashes of light, especially in  peripheral  vision.,  Blurred vision ., New floaters in the eye that appear suddenly., Shadowing or decreased peripheral vision that seems like a curtain or shade across your vision.,  There is usually no pain in or around the eye.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003390-4" qtype="exams and tests">How to diagnose Retinal detachment ?</Question>
-			<Answer></Answer>
+			<Answer>The ophthalmologist (eye doctor) will examine your eyes. Tests to check the retina and pupil may include: Using special dye and a camera to look at blood flow in the retina (fluorescein angiography), Checking pressure inside the eye ( tonometry ), Examining the back part of the eye, including the retina ( ophthalmoscopy ), Checking eyeglass prescription ( refraction test ), Checking  color vision , Checking the smallest letters that can be read ( visual acuity ), Checking structures at the front of the eye ( slit-lamp examination ),  Ultrasound  of the eye, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003390-5" qtype="treatment">What are the treatments for Retinal detachment ?</Question>
-			<Answer></Answer>
+			<Answer>Most people with a retinal detachment need  surgery . Surgery may be done right away or within a short time after diagnosis. Some types of surgery can be done in your eye doctor's office. Lasers may be used to seal tears or holes in the retina before a retinal detachment occurs., If you have a small detachment, your eye doctor may place a gas bubble in the eye. This is called pneumatic retinopexy. It helps the retina float back into place. The hole is sealed with a laser.,  Severe detachments require surgery in a hospital. These procedures include: Scleral buckle to gently push the eye wall up against the retina, Vitrectomy to remove gel or scar tissue pulling on the retina, used for the largest tears and detachments,  Tractional retinal detachments may be watched for a while before surgery. If surgery is needed, a vitrectomy is usually done.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003390-6" qtype="outlook">What is the outlook for Retinal detachment ?</Question>
-			<Answer></Answer>
+			<Answer>How well you do after a retinal detachment depends on the location and extent of the detachment and early treatment. If the macula was not damaged, the outlook with treatment can be excellent. Successful repair of the retina does not always fully restore vision. Some detachments cannot be repaired.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003390-7" qtype="complications">What are the complications of Retinal detachment ?</Question>
-			<Answer></Answer>
+			<Answer>A retinal detachment causes loss of vision. Surgery to repair it may help restore some or all of your vision.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003390-8" qtype="when to contact a medical professional">Do I need to see a doctor for Retinal detachment ?</Question>
-			<Answer></Answer>
+			<Answer>A retinal detachment is an urgent problem that requires medical attention within 24 hours of the first symptoms of new flashes of light and floaters.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003390-9" qtype="prevention">How to prevent Retinal detachment ?</Question>
-			<Answer></Answer>
+			<Answer>Use protective eye wear to prevent eye trauma, especially when playing racquet sports. Control your blood sugar carefully if you have diabetes. See your eye care professional once a year. You may need more frequent visits if you have risk factors for retinal detachment. Be alert to symptoms of new flashes of light and floaters.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

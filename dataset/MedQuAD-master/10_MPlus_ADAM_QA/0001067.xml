@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001067" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001278.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Curvature of the penis</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001067-1" qtype="information">Do you have information about Curvature of the penis</Question>
-			<Answer></Answer>
+			<Answer>Curvature of the penis is an abnormal bend in the penis that occurs during erection. In adults, it is most often due to Peyronie disease.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000107" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000012.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>After chemotherapy - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000107-1" qtype="information">Do you have information about After chemotherapy - discharge</Question>
-			<Answer></Answer>
+			<Answer>You had chemotherapy treatment for your cancer. Your risk for infection, bleeding, and skin problems may be high. To stay healthy after chemotherapy, you'll need to take good care of yourself. This includes practicing mouth care, preventing infections, among other measures.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

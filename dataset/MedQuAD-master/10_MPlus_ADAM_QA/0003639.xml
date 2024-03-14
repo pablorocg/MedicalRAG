@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003639" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003729.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Smear of duodenal fluid aspirate</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003639-1" qtype="information">Do you have information about Smear of duodenal fluid aspirate</Question>
-			<Answer></Answer>
+			<Answer>Smear of duodenal fluid aspirate is an exam of fluid from the  duodenum  to check for signs of an infection (such as  giardia  or  strongyloides ). Rarely, this test is also done in a newborn to check for biliary atresia. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

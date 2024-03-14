@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000102" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003437.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Aerobic bacteria</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000102-1" qtype="information">What is (are) Aerobic bacteria ?</Question>
-			<Answer></Answer>
+			<Answer>Aerobic bacteria are bacteria that can grow and live when oxygen is present.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

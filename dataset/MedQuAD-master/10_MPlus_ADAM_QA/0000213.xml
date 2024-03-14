@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000213" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000574.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Anemia - B12 deficiency</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000213-1" qtype="information">What is (are) Anemia - B12 deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Anemia is a condition in which the body does not have enough healthy red blood cells. Red blood cells provide oxygen to body tissues. There are many types of anemia. Vitamin B12 deficiency anemia is a low red blood cell count due to a lack (deficiency) of  vitamin B12 .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000213-2" qtype="causes">What causes Anemia - B12 deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Your body needs vitamin B12 to make red blood cells. In order to provide vitamin B12 to your cells: You must eat foods that contain vitamin B12, such as meat, poultry, shellfish, eggs, fortified breakfast cereals, and dairy products., Your body must absorb enough vitamin B12. A special protein, called intrinsic factor, helps your body do this. This protein is released by cells in the stomach. ,  A lack of vitamin B12 may be due to dietary factors, including: Eating a strict vegetarian diet, Poor diet in infants, Poor nutrition during pregnancy ,  Certain health conditions can make it difficult for your body to absorb enough vitamin B12. They include: Alcohol use, Crohn disease, celiac disease, infection with the fish tapeworm, or other problems that make it difficult for your body to digest foods, Pernicious anemia, a type of vitamin B12 anemia that occurs when your body destroys cells that make intrinsic factor, Surgery that removes certain parts of your stomach or small intestine, such as some weight-loss surgeries, Taking antacids and other heartburn medicines for a long period of time, Abuse of "laughing gas" (nitrous oxide) , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000213-3" qtype="symptoms">What are the symptoms of Anemia - B12 deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>You may not have symptoms. Symptoms may be mild.  Symptoms can include:  Diarrhea  or constipation,  Fatigue , lack of energy, or lightheadedness when standing up or with exertion,  Loss of appetite ,  Pale  skin, Feeling irritable,  Shortness of breath , mostly during exercise, Swollen, red tongue or bleeding gums ,  If you have low vitamin B12 level for a long time, you can have nerve damage. Symptoms of nerve damage include:  Confusion or change in mental status ( dementia ) in severe cases, Problems concentrating,  Psychosis  (losing contact with reality), Loss of balance, Numbness and tingling of hands and feet,  Hallucinations , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000213-4" qtype="exams and tests">How to diagnose Anemia - B12 deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam. This may reveal problems with your reflexes.  Tests that may be done include:  Complete blood count ( CBC ),  Reticulocyte count , Lactate dehydrogenase ( LDH ) level, Serum bilirubin level,  Vitamin B12 level , Methylmalonic acid ( MMA ) level,  Serum homocysteine level (amino acid found in blood) ,  Other procedures that may be done include: Esophagogastroduodenoscopy ( EGD ) to examine the stomach and small intestine,  Bone marrow biopsy  if the diagnosis is not clear , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000213-5" qtype="treatment">What are the treatments for Anemia - B12 deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment depends on the cause of B12 deficiency anemia.  The goal of treatment is to increase your vitamin B12 level. Treatment may include a shot of vitamin B12 once a month. If you have a very low level of B12, you may need more shots in the beginning. It is possible you may need shots every month for the rest of your life., Some people may respond to treatment by taking vitamin B12 supplements by mouth. ,  Your provider will also recommend that you eat a variety of foods.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000213-6" qtype="outlook">What is the outlook for Anemia - B12 deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>People with this type of anemia often do well with treatment. Long-term vitamin B12 deficiency can cause nerve damage. This may be permanent if you do not start treatment within 6 months of when your symptoms begin. Vitamin B12 deficiency anemia most often responds well to treatment. It will likely get better when the underlying cause of the deficiency is treated. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000213-7" qtype="complications">What are the complications of Anemia - B12 deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>A woman with a low B12 level may have a false positive Pap smear. This is because vitamin B12 deficiency affects the way certain cells (epithelial cells) in the cervix look.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000213-8" qtype="when to contact a medical professional">Do I need to see a doctor for Anemia - B12 deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if you have any of the symptoms of anemia.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000213-9" qtype="prevention">How to prevent Anemia - B12 deficiency ?</Question>
-			<Answer></Answer>
+			<Answer>You can prevent anemia caused by a lack of vitamin B12 by eating a well-balanced diet. Shots of vitamin B12 can prevent anemia if you've had a surgery known to cause vitamin B12 deficiency. Early diagnosis and prompt treatment can reduce or prevent complications related to a low vitamin B12 level.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

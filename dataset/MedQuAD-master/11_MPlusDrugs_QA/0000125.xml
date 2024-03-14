@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000125" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a611027.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Belimumab Injection</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,43 +7,45 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000125-1" qtype="indication">Who should get Belimumab Injection and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Belimumab is used with other medications to treat certain types of systemic lupus erythematosus (SLE or lupus; an autoimmune disease in which the immune system attacks healthy parts of the body such as joints, skin, blood vessels, and organs) in adults and children 5 years of age and older. Belimumab is also used with other medications to treat lupus nephritis (an autoimmune disease in which the immune system attacks the kidneys) in adults and children 5 years of age and older. Belimumab is in a class of medications called monoclonal antibodies. It works by blocking the activity of a certain protein in people with SLE and lupus nephritis.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000125-2" qtype="usage">How should Belimumab Injection be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Belimumab comes as a powder to be mixed into a solution to be injected intravenously (into a vein) in adults and children 5 years of age and older. Belimumab also comes as a solution (liquid) in an autoinjector or prefilled syringe to inject subcutaneously (under the skin) in adults. When given intravenously, it is usually given over at least an hour by a doctor or nurse once every 2 weeks for the first three doses, and then once every 4 weeks. Your doctor will decide how often you are to receive belimumab intravenously based on your body's response to this medication. When given subcutaneously, it is usually given once weekly preferably on the same day each week. You will receive your first subcutaneous dose of belimumab injection in your doctor's office. If you will be injecting belimumab injection subcutaneously by yourself at home or having a friend or relative inject the medication for you, your doctor will show you or the person who will be injecting the medication how to inject it. You and the person who will be injecting the medication should also read the written instructions for use that come with the medication. Remove the autoinjector or prefilled syringe from the refrigerator and allow it to reach room temperature 30 minutes before you are ready to inject belimumab injection. Do not try to warm the medication by heating it in a microwave, placing it in warm water, or through any other method. The solution should be clear to opalescent and colorless to pale yellow. Call your pharmacist if there are any problems with the package or the syringe and do not inject the medication. You may inject belimumab injection on the front of the thighs or anywhere on your stomach except your navel (belly button) and the area 2 inches around it. Do not inject the medication into skin that is tender, bruised, red, hard, or not intact. Choose a different spot each time you inject the medication. Belimumab may cause serious reactions during and after you receive the medication. A doctor or nurse will watch you closely while you are receiving the infusion and after the infusion to be sure you are not having a serious reaction to the medication. You may be given other medications to treat or help prevent reactions to belimumab. Tell your doctor or nurse immediately if you experience any of the following symptoms that may occur during the intravenous infusion or the subcutaneous injection or for up to a week after you receive the medication: rash; itching; hives; swelling of the face, eyes, mouth, throat, tongue, or lips; difficulty breathing or swallowing; wheezing or shortness of breath; anxiousness; flushing; dizziness; fainting; headache; nausea; fever; chills; seizures; muscle aches; and slow heartbeat. Belimumab helps control lupus but does not cure it. Your doctor will watch you carefully to see how well belimumab works for you. It may take some time before you feel the full benefit of belimumab. It is important to tell your doctor how you are feeling during your treatment. Your doctor or pharmacist will give you the manufacturer's patient information sheet (Medication Guide) when you begin treatment with belimumab and each time you refill your prescription. Read the information carefully and ask your doctor or pharmacist if you have any questions. You can also visit the Food and Drug Administration (FDA) website  http://www.fda.gov/Drugs/DrugSafety/ucm085729.htm  or the manufacturer's website to obtain the Medication Guide.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000125-4" qtype="precautions">Are there safety concerns or special precautions about Belimumab Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Before using belimumab, tell your doctor and pharmacist if you are allergic to belimumab, any other medications, or any of the ingredients in belimumab injection. Ask your pharmacist or check the Medication Guide for a list of the ingredients., tell your doctor and pharmacist what other prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take while taking belimumab. Your doctor may need to change the doses of your medications or monitor you carefully for side effects., tell your doctor if you have an infection or if you have or have ever had an infection that keeps coming back, depression or thoughts of harming or killing yourself, or cancer., tell your doctor if you are pregnant or plan to become pregnant. It is not known if taking belimumab during pregnancy can harm your unborn baby. Your doctor may tell you that you should use effective birth control during your treatment with belimumab and for 4 months after your final dose. Talk to your doctor about birth control methods that you can use during your treatment. If you become pregnant during your treatment with belimumab, call your doctor., tell your doctor if you are breastfeeding., do not have any vaccinations without talking to your doctor. Tell your doctor if you have received a vaccine within the past 30 days., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000125-5" qtype="dietary">What special dietary instructions should I follow with Belimumab Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000125-6" qtype="forget a dose">What should I do if I forget a dose of Belimumab Injection ?</Question>
-			<Answer></Answer>
+			<Answer>If you miss an appointment to receive a belimumab infusion, call your doctor as soon as possible. If you miss your subcutaneous dose of belimumab injection, inject the missed dose as soon as you remember it. Then, inject your next dose at your regularly scheduled time or continue weekly dosing based on the new day injected. Do not inject a double dose to make up for a missed one. Call your doctor or pharmacist if you need help to decide when to inject belimumab injection.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000125-7" qtype="side effects">What are the side effects or risks of Belimumab Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Belimumab may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ nausea, diarrhea, headache or migraine, redness, itching, swelling, pain, discoloration, or irritation at the injection site, pain in the arms or legs, runny nose,  Some side effects can be serious. If you experience any of these symptoms or those listed in the HOW section, call your doctor immediately:
+ rash, hives, itching, shortness of breath, swelling of the face, throat, tongue, lips, and eyes, difficulty breathing or swallowing, fever, sore throat, chills, and other signs of infection, coughing up mucus, frequent, painful, or difficult urination, warm; red, or painful skin or sores on your body, thinking of harming or killing yourself or others, or planning or trying to do so, new or worsening depression or anxiety, difficulty falling asleep or staying asleep, unusual changes in your behavior or mood, acting on dangerous impulses, vision changes, memory loss, difficulty thinking clearly, difficulty talking or walking, dizziness or loss of balance,  Belimumab may increase your risk of certain cancers. Talk to your doctor about the risks of receiving this medication. Belimumab may cause other side effects. Call your doctor if you have any unusual problems while using this medication. If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000125-8" qtype="storage and disposal">What should I know about storage and disposal of Belimumab Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Keep this medication in the package it came in, away from light, tightly closed, and out of reach of children. Do not shake autoinjectors or prefilled syringes that contains belimumab. Store belimumab injection in the refrigerator; do not freeze. Avoid exposure to heat. Syringes may be stored outside of the refrigerator (up to 30&#176;C) for up to 12 hours if protected from sunlight. Do not use the syringes and do not place them back into the refrigerator if unrefrigerated for more than 12 hours. Discard any medication that is outdated or no longer needed. Talk to your pharmacist about the proper disposal of your medication. It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000125-9" qtype="emergency or overdose">What to do in case of emergency or overdose of Belimumab Injection ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000125-10" qtype="other information">What other information should I know about Belimumab Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor. Ask your pharmacist any questions you have about belimumab injection. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="11">
 			<Question qid="0000125-11" qtype="brand names">What are the brand names of Belimumab Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Benlysta &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

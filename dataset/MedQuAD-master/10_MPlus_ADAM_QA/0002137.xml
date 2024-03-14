@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002137" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000069.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ileostomy and your child</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -16,7 +15,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002137-1" qtype="information">Do you have information about Ileostomy and your child</Question>
-			<Answer></Answer>
+			<Answer>Your child had an injury or disease in their digestive system and needed an operation called an ileostomy. The operation changed the way your child's body gets rid of waste (stool, feces, or poop). Now your child has an opening called a stoma in their belly. Waste will pass through the stoma into a pouch that collects it. You and your child will need to take care of the stoma and empty the pouch several times a day.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002510" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001315.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Malignant hyperthermia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,43 +20,43 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002510-1" qtype="information">What is (are) Malignant hyperthermia ?</Question>
-			<Answer></Answer>
+			<Answer>Malignant hyperthermia (MH) is a disease that causes a fast rise in body temperature and severe muscle contractions when someone receives  general anesthesia  with one or more of the following drugs: halothane, isoflurane, sevoflurane, desflurane or succinylcholine. MH is a genetic disorder passed down through families. Hyperthermia means high body temperature. Malignant hyperthermia is not the same as hyperthermia from other medical emergencies such as  heat stroke  or infection.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002510-2" qtype="causes">What causes Malignant hyperthermia ?</Question>
-			<Answer></Answer>
+			<Answer>MH is inherited. Only one parent has to carry the gene for the disease for a child to inherit the condition. It may occur with some other inherited muscle diseases, such as multiminicore myopathy and central core disease.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002510-3" qtype="symptoms">What are the symptoms of Malignant hyperthermia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of MH include: Bleeding, Dark brown urine (due to a muscle protein called myoglobin in the urine), Muscle ache without an obvious cause, such as exercise or injury,  Muscle rigidity  and stiffness, Rise in body temperature to 105&#176;F (40.6&#176;C) or higher , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002510-4" qtype="exams and tests">How to diagnose Malignant hyperthermia ?</Question>
-			<Answer></Answer>
+			<Answer>MH is often discovered after a person is given anesthesia during surgery. There may be a family history of MH or unexplained death during anesthesia. The person may have a fast and often  irregular heart rate . Tests for MH may include: Blood clotting studies ( PT, or prothrombin time ;  PTT, or partial thromboplastin time ), Blood chemistry panel, including CK (creatinine kinase, which is higher in the blood when muscle is destroyed during a bout of the illness), Genetic testing to look for defects in the genes that are linked with the disease,  Muscle biopsy ,  Urine myoglobin  (testing for muscle protein in the urine) , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002510-5" qtype="treatment">What are the treatments for Malignant hyperthermia ?</Question>
-			<Answer></Answer>
+			<Answer>During an episode of MH, a medicine called dantrolene is often given. Wrapping the person in a cooling blanket can help reduce fever and the risk for serious complications.  To preserve kidney function during an episode, the person may receive fluids through a vein. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002510-6" qtype="support groups">Where to find support for people with Malignant hyperthermia ?</Question>
-			<Answer></Answer>
+			<Answer>These resources can provide more information about MH: Malignant Hyperthermia Association of the United States --  www.mhaus.org , National Organization for Rare Disorders --  rarediseases.org/rare-diseases/malignant-hyperthermia , US National Library of Medicine - MedlinePlus website --  medlineplus.gov/genetics/condition/malignant-hyperthermia/ , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002510-7" qtype="outlook">What is the outlook for Malignant hyperthermia ?</Question>
-			<Answer></Answer>
+			<Answer>Repeated or untreated episodes can cause kidney failure. Untreated episodes can be fatal.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002510-8" qtype="complications">What are the complications of Malignant hyperthermia ?</Question>
-			<Answer></Answer>
+			<Answer>These serious complications can occur: Amputation, Breakdown of muscle tissue , Swelling of the hands and feet and problems with blood flow and nerve function ( compartment syndrome ), Death, Abnormal blood clotting and bleeding , Heart rhythm problems, Kidney failure, Buildup of acid in the body fluids ( metabolic acidosis ), Fluid buildup in the lungs, Weak or deformed muscles (myopathy or  muscular dystrophy ), </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002510-9" qtype="when to contact a medical professional">Do I need to see a doctor for Malignant hyperthermia ?</Question>
-			<Answer></Answer>
+			<Answer>If you need surgery, tell both your surgeon and anesthesiologist before surgery if: You know that you or a member of your family has had problems with general anesthesia, You know you have a family history of MH,  Using certain medicines can prevent the complications of MH during surgery.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0002510-10" qtype="prevention">How to prevent Malignant hyperthermia ?</Question>
-			<Answer></Answer>
+			<Answer>Tell your health care provider before having surgery with general anesthesia, if you or anyone in your family has MH.  Avoid stimulant drugs such as cocaine, amphetamine (speed), and ecstasy. These drugs may cause problems similar to MH in people who are prone to this condition. Genetic counseling is recommended for anyone with a family history of myopathy, muscular dystrophy, or MH.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

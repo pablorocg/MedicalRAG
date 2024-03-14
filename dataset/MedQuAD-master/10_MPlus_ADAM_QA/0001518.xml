@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001518" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001410.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Facial tics</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,49 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001518-1" qtype="information">What is (are) Facial tics ?</Question>
-			<Answer></Answer>
+			<Answer>A facial tic is a repeated spasm, often involving the eyes and muscles of the face.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001518-2" qtype="causes">What causes Facial tics ?</Question>
-			<Answer></Answer>
+			<Answer>Tics most often occur in children, but may last into adulthood. Tics occur 3 to 4 times as often in boys as girls. Tics may affect as many as one quarter of all children at some time. The cause of tics is unknown, but stress appears to make tics worse. Short-lived tics ( transient tic disorder ) are common in childhood. A  chronic motor tic disorder  also exists. It may last for years. This form is very rare compared to the common short-lived childhood tic.  Tourette syndrome  is a separate condition in which tics are a major symptom.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001518-3" qtype="symptoms">What are the symptoms of Facial tics ?</Question>
-			<Answer></Answer>
+			<Answer>Tics may involve repeated, uncontrolled spasm-like muscle movements, such as: 
+
+ 
+  Eye blinking, Grimacing, Mouth twitching, Nose wrinkling, Squinting,  Repeated throat clearing or grunting may also be present.&#160;
+ </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001518-4" qtype="exams and tests">How to diagnose Facial tics ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will usually diagnose a tic during a physical examination. No special tests are needed. In rare cases, an  EEG  may be done to look for  seizures , which can be the source of tics.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001518-5" qtype="treatment">What are the treatments for Facial tics ?</Question>
-			<Answer></Answer>
+			<Answer>Short-lived childhood tics are not treated. Calling the child's attention to a tic may make it worse or cause it to continue. A non-stressful environment can make tics occur less often, and help them go away more quickly. Stress reduction programs or cognitive behavioral intervention may also be helpful. If tics severely affect a person's life, medicines may help control them.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001518-6" qtype="outlook">What is the outlook for Facial tics ?</Question>
-			<Answer></Answer>
+			<Answer>Simple childhood tics should go away on their own over a period of months.  Chronic  tics may continue for a longer period of time.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001518-7" qtype="complications">What are the complications of Facial tics ?</Question>
-			<Answer></Answer>
+			<Answer>In most cases, there are no complications.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001518-8" qtype="when to contact a medical professional">Do I need to see a doctor for Facial tics ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider for an appointment if tics: 
+  Affect many muscle groups
+  , 
+  Are persistent
+  , 
+  Are severe
+  , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001518-9" qtype="prevention">How to prevent Facial tics ?</Question>
-			<Answer></Answer>
+			<Answer>Many cases cannot be prevented. Reducing stress may be helpful. Sometimes, counseling can help your child learn how to cope with stress.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

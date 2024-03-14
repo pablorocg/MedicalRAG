@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003902" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002401.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Thiamin</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003902-1" qtype="information">Do you have information about Thiamin</Question>
-			<Answer></Answer>
+			<Answer>Thiamin is one of the B vitamins. The B vitamins are a group of water-soluble vitamins that are part of many of the chemical reactions in the body.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

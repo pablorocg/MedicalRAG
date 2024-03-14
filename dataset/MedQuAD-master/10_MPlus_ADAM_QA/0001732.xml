@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001732" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001056.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Gingivitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001732-1" qtype="information">What is (are) Gingivitis ?</Question>
-			<Answer></Answer>
+			<Answer>Gingivitis is inflammation of the gums.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001732-2" qtype="causes">What causes Gingivitis ?</Question>
-			<Answer></Answer>
+			<Answer>Gingivitis is an early form of  periodontal disease . Periodontal disease is inflammation and infection that destroys the tissues that support the teeth. This can include the gums, the periodontal ligaments, and bone. Gingivitis is due to the short-term effects of plaque deposits on your teeth. Plaque is a sticky material made up of bacteria, mucus, and food debris that builds up on the teeth both above, and below the gums. It is also a major cause of  tooth decay. If you do not remove plaque, it turns into a hard deposit called tartar (or calculus) that becomes trapped at the base of the tooth. Plaque and tartar irritate and inflame the gums. An excess of bacteria in the mouth, and the  toxins  they produce cause the gums to become swollen, and tender. This is called an inflammatory response, which is part of the body&#8217;s natural immune response to invading organisms. These things raise your risk for gingivitis: Certain infections and body-wide (systemic) diseases, Poor  dental hygiene , Pregnancy (hormonal changes increase the sensitivity of the gums), Uncontrolled diabetes, Smoking,  Misaligned teeth , rough edges of fillings, and ill-fitting or unclean mouth appliances (such as braces, dentures, bridges, and crowns), Use of certain medicines, including phenytoin, bismuth, and some birth control pills,  Many people have some amount of gingivitis. It often develops during puberty or early adulthood because of hormonal changes. It may last a long time or come back often, depending on the health of your teeth and gums.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001732-3" qtype="symptoms">What are the symptoms of Gingivitis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of gingivitis include: Bleeding gums  (when brushing or flossing), Bright red or reddish-purple gums, Gums that are tender when touched, but otherwise painless,  Mouth sores ,  Swollen gums , Shiny appearance to gums, Bad breath, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001732-4" qtype="exams and tests">How to diagnose Gingivitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your dentist will examine your mouth and teeth and look for soft, swollen, reddish-purple gums. The gums are most often painless or mildly tender when gingivitis is present. Plaque and tartar may be seen at the base of the teeth. Your dentist will use a probe to closely examine your gums to determine if you have gingivitis or Periodontitis. Periodontitis is an advanced form of gingivitis that involves bone and attachment loss. Most of the time, more tests are not needed. However,  dental x-rays  may be done to see if the disease has spread to the supporting structures of the teeth.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001732-5" qtype="treatment">What are the treatments for Gingivitis ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to reduce inflammation by removing dental plaque or tartar. Your dentist or dental hygienist will clean your teeth. They may use different tools to loosen and remove deposits from your teeth. Careful oral hygiene is necessary after professional teeth cleaning. Your dentist or hygienist will show you how to brush and floss properly. In addition to brushing and flossing at home, your dentist may recommend: Having professional teeth cleaning twice a year, or three to four times a year for more severe cases of gum disease, Using antibacterial mouth rinses or other aids, Getting misaligned teeth straightened, Replacing dental and orthodontic appliances, Having any other related illnesses or conditions treated, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001732-6" qtype="outlook">What is the outlook for Gingivitis ?</Question>
-			<Answer></Answer>
+			<Answer>Some people have discomfort when plaque and tartar are removed from their teeth. Bleeding and tenderness of the gums should lessen within 1 or 2 weeks after professional cleaning and with good oral care at home. Warm salt water or antibacterial rinses can reduce gum swelling. Over-the-counter anti-inflammatory medicines may also be helpful. You must maintain good oral care throughout your life to keep gum disease from returning. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001732-7" qtype="complications">What are the complications of Gingivitis ?</Question>
-			<Answer></Answer>
+			<Answer>These complications can occur: Gingivitis returns, Periodontitis, Infection or  abscess  of the gums or the jaw bones,  Trench mouth , Recession, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001732-8" qtype="when to contact a medical professional">Do I need to see a doctor for Gingivitis ?</Question>
-			<Answer></Answer>
+			<Answer>Call your dentist if you have red, swollen gums, especially if you have not had a routine cleaning and exam in the last 6 months.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001732-9" qtype="prevention">How to prevent Gingivitis ?</Question>
-			<Answer></Answer>
+			<Answer>Good oral hygiene is the best way to prevent gingivitis. Brush your teeth at least twice a day. Floss at least once a day. Your dentist may recommend brushing and flossing after every meal and at bedtime. Ask your dentist or dental hygienist to show you how to properly brush and floss your teeth. Your dentist may suggest devices to help remove plaque deposits. These include special toothpicks, electric and manual toothbrushes, water irrigation, or other devices. You still must brush and floss your teeth regularly. Anti-plaque or anti-tartar toothpastes or mouth rinses may also be recommended. Many dentists recommend having teeth professionally cleaned at least every 6 months. You may need more frequent cleanings if you are more prone to developing gingivitis. You may not be able to remove all the plaque, even with careful brushing and flossing at home.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

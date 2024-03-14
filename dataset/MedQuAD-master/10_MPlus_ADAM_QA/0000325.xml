@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000325" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001549.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Asperger syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000325-1" qtype="information">What is (are) Asperger syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Asperger syndrome is often considered a high functioning form of autism. It can lead to difficulty interacting socially, repeat behaviors, and clumsiness. Asperger syndrome is a part of the larger developmental disorder category of  autism spectrum disorder .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

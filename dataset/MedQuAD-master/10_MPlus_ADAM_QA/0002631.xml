@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002631" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003312.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Metopic ridge</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,23 +16,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002631-1" qtype="information">What is (are) Metopic ridge ?</Question>
-			<Answer></Answer>
+			<Answer>A metopic ridge is an abnormal shape of the skull. The ridge can be seen on the forehead.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002631-2" qtype="considerations">What to do for Metopic ridge ?</Question>
-			<Answer></Answer>
+			<Answer>The skull of an infant is made up of bony plates. The gaps between the plates allow for growth of the skull. The places where these plates connect are called sutures or suture lines. They do not fully close until the 2nd or 3rd year of life. A metopic ridge occurs when the 2 bony plates in the front part of the skull join together too early. The metopic suture remains unclosed throughout life in 1 in 10 people.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002631-3" qtype="causes">What causes Metopic ridge ?</Question>
-			<Answer></Answer>
+			<Answer>A birth defect called  craniosynostosis  is a common cause of metopic ridge. It can also be associated with other congenital skeletal defects.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002631-4" qtype="when to contact a medical professional">Do I need to see a doctor for Metopic ridge ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you notice a ridge along your infant's forehead or a ridge forming on the skull. The provider will perform a physical exam and ask questions about the child's medical history. Tests may include: Head CT scan, Skull x-ray,  A metopic ridge must be differentiated from metopic synostosis, which is a more serious condition. Parents can find information and support at  www.cappskids.org/metopic-ridge/ . No treatment or surgery is needed for a metopic ridge if it is the only skull abnormality.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002631-5" qtype="outlook">What is the outlook for Metopic ridge ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

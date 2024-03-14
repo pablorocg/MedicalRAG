@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001721" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001956.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Getting a prescription filled</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -16,7 +15,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001721-1" qtype="information">Do you have information about Getting a prescription filled</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider may give you a prescription in different ways, including:  Writing a paper prescription that you take to a local pharmacy, Calling or faxing a pharmacy to order the medicine, Sending your prescription to the pharmacy by way of a computer that is linked to the provider's electronic medical record (EMR) ,  You also need to find out if your health plan will pay for the medicine your provider prescribed.  Certain types or brands of medicine may not be covered., Many health plans require you to pay the pharmacy a portion of the cost of the prescription price. This called a co-pay. ,  Once you get a prescription from your provider, you may buy the medicine in different ways.  LOCAL PHARMACIES  The most common place for filling a prescription is at a local pharmacy. Some pharmacies are located inside of a grocery or large "chain" store.  It is best to fill all prescriptions with the same pharmacy. That way, the pharmacy has a record of all the medicines you are taking. This helps prevent drug interactions.  Your health plan may require you to use certain pharmacies. This means they may not pay for your prescription if you do not use one of these pharmacies. To find a pharmacy that takes your health plan: Call the phone number on the back of your insurance card., Call the pharmacy you want to use to see if they have a contract with your insurance plan. ,  To help the pharmacist fill the prescription:  Make sure all of the information is filled in clearly., Bring your insurance card the first time you fill the prescription., When calling the pharmacy for a refill, make sure to give your name, the prescription number, and the name of the medicine. ,  MAIL-ORDER PHARMACIES  Some people and insurance companies choose to use mail-order pharmacies.  The prescription is sent to the mail-order pharmacy or phoned in by the provider., Your medicine may cost less when you order it by mail. However, it may take a week or more for the medicine to get to you., Mail order is best used for long-term medicines you use for chronic problems., Buy short-term medicines and drugs that need to be stored at certain temperatures at a local pharmacy. ,  INTERNET (ONLINE) PHARMACIES  Internet pharmacies can be used for long-term medicines and medical supplies.  The website should have clear directions for filling or transferring your prescription., Make sure that the website has clearly-stated privacy policies and other procedures., AVOID any website that claims a doctor can prescribe the medicine without seeing you. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

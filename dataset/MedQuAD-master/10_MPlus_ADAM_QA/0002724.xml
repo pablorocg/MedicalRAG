@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002724" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001245.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Myositis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002724-1" qtype="information">What is (are) Myositis ?</Question>
-			<Answer></Answer>
+			<Answer>Myositis is an inflammation or swelling of the muscles. It is most often caused by injury, infection, medicines, or an  autoimmune disorder . Dermatomyositis  and  polymyositis  are related topics.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

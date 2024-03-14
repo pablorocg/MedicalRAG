@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000343" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001015.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Astigmatism</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,35 +16,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000343-1" qtype="information">What is (are) Astigmatism ?</Question>
-			<Answer></Answer>
+			<Answer>Astigmatism is a type of refractive error of the eye. Refractive errors cause blurred vision. They are the most common reason why a person goes to see an eye professional. Other types of refractive errors are: Farsightedness ,  Nearsightedness , </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000343-2" qtype="causes">What causes Astigmatism ?</Question>
-			<Answer></Answer>
+			<Answer>People are able to see because the front part of the eye (cornea) is able to bend (refract) light and focus it onto the retina. This is the back inside surface of the eye. If the light rays are not clearly focused on the retina, the images you see may be blurry. With astigmatism, the cornea is abnormally curved. This curve causes vision to be out of focus. The cause of astigmatism is unknown. It is most often present from birth. Astigmatism often occurs together with nearsightedness or farsightedness. If astigmatism gets worse, it may be a sign of  keratoconus . Astigmatism is very common. It sometimes occurs after certain types of eye surgery, such as  cataract surgery .</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000343-3" qtype="symptoms">What are the symptoms of Astigmatism ?</Question>
-			<Answer></Answer>
+			<Answer>Astigmatism makes it hard to see fine details, either close up or from a distance.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000343-4" qtype="exams and tests">How to diagnose Astigmatism ?</Question>
-			<Answer></Answer>
+			<Answer>Astigmatism is easily diagnosed by a  standard eye exam  with  refraction test . Special tests are not required in most cases. Children or adults who cannot respond to a normal refraction test can have their refraction measured by a test that uses reflected light (retinoscopy).</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000343-5" qtype="treatment">What are the treatments for Astigmatism ?</Question>
-			<Answer></Answer>
+			<Answer>Mild astigmatism may not need to be corrected. Glasses or contact lenses will correct astigmatism, but do not cure it. Laser surgery can help change the shape of the cornea surface to eliminate astigmatism, along with nearsightedness or farsightedness.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000343-6" qtype="outlook">What is the outlook for Astigmatism ?</Question>
-			<Answer></Answer>
+			<Answer>Astigmatism may change with time, requiring new glasses or contact lenses. Laser vision correction can most often eliminate, or greatly reduce astigmatism.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000343-7" qtype="complications">What are the complications of Astigmatism ?</Question>
-			<Answer></Answer>
+			<Answer>In children, uncorrected astigmatism in only one eye may cause  amblyopia .</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000343-8" qtype="when to contact a medical professional">Do I need to see a doctor for Astigmatism ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider or ophthalmologist if  vision problems  worsen, or do not improve with glasses or contact lenses.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

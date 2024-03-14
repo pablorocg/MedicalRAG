@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000138" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003480.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Albumin - blood (serum) test</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000138-1" qtype="information">What is (are) Albumin - blood (serum) test ?</Question>
-			<Answer></Answer>
+			<Answer>Albumin is a protein made by the liver. A serum albumin test measures the amount of this protein in the clear liquid portion of the blood. Albumin can also be measured in the  urine .</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000138-8" qtype="susceptibility">Who is at risk for Albumin - blood (serum) test? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

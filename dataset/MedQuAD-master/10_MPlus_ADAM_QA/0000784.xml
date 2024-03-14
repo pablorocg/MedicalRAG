@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000784" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000821.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Chikungunya virus</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,27 +20,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000784-1" qtype="information">What is (are) Chikungunya virus ?</Question>
-			<Answer></Answer>
+			<Answer>Where Chikungunya is Found Before 2013, the virus was found only in Africa, Asia, Europe, and lands in the Indian and Pacific oceans. In late 2013, outbreaks occurred for the first time in the Americas in the Caribbean Islands.  In the Americas, local transmission of the disease has been found in 44 countries and territories. This means that mosquitoes in those areas have the virus and are spreading it to humans. Since 2014, the disease has been found in travelers coming to the United States from affected areas in the Americas. Local transmission has occurred in Florida, Puerto Rico, the Dominican Republic, and Haiti. How Chikungunya Can Spread Mosquitoes spread the virus to humans. Mosquitoes pick up the virus when they feed on infected people. They spread the virus when they bite other people.  The mosquitoes that spread chikungunya are the same type that spread  dengue fever , which has similar symptoms. These mosquitoes most often feed on humans during the day.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000784-2" qtype="causes">What causes Chikungunya virus ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000784-3" qtype="symptoms">What are the symptoms of Chikungunya virus ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms develop 3 to 7 days after being bitten by an infected mosquito. The disease is easily spread. Most people who become infected have symptoms. The most common symptoms are fever and joint pain. Other symptoms include: Headache, Joint swelling, Muscle pain, Nausea, Rash ,  Symptoms are similar to the flu and can be severe, but usually not deadly. Most people recover in a week. Some have joint pain for months or longer. The disease can lead to death in frail older adults.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000784-4" qtype="treatment">What are the treatments for Chikungunya virus ?</Question>
-			<Answer></Answer>
+			<Answer>There is no treatment for chikungunya. Like the flu virus, it has to run its course. You can take steps to help relieve symptoms: Drink plenty of fluids to stay hydrated., Get plenty of rest., Take ibuprofen (Motrin, Advil), naproxen (Aleve, Naprosyn), or acetaminophen (Tylenol) to relieve pain and fever., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000784-5" qtype="when to contact a medical professional">Do I need to see a doctor for Chikungunya virus ?</Question>
-			<Answer></Answer>
+			<Answer>Call your health care provider if you develop symptoms of chikungunya. Let your provider know if you have traveled recently in an area where the virus is spread. Your provider may do a blood test to check for the disease.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000784-6" qtype="prevention">How to prevent Chikungunya virus ?</Question>
-			<Answer></Answer>
+			<Answer>There is no vaccine to protect against chikungunya. The best way to avoid getting the virus is to avoid getting bitten by mosquitoes. If you are in an area where there is local transmission of the virus, take these steps to protect yourself: When it is not too hot, cover up with long sleeves, long pants, socks, and a hat., Use clothing coated with permethrin., Use insect repellent with DEET, picaridin, IR3535, oil of lemon eucalyptus, or para-menthane-diol. When using sunscreen, apply insect repellant after you apply sunscreen., Sleep in a room with air conditioning or with windows with screens. Check screens for large holes., Remove standing water from any outside containers such as buckets, flower pots, and birdbaths., If sleeping outside, sleep under a mosquito net.,  If you get chikungunya, try to avoid getting bitten by mosquitoes so you do not pass the virus to others.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

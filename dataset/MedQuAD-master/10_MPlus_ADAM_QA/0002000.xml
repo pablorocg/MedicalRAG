@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002000" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003054.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hoarseness</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,27 +21,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002000-1" qtype="information">What is (are) Hoarseness ?</Question>
-			<Answer></Answer>
+			<Answer>Hoarseness refers to difficulty making sounds when trying to speak. Vocal sounds may be weak, breathy, scratchy, or husky, and the pitch or quality of the voice may change.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002000-2" qtype="considerations">What to do for Hoarseness ?</Question>
-			<Answer></Answer>
+			<Answer>Hoarseness is most often caused by a problem with the vocal cords. The vocal cords are part of your voice box (larynx) located in the throat. When the vocal cords become inflamed or infected, they swell. This can cause hoarseness. The most common cause of hoarseness is a cold or throat infection, which most often goes away on its own within 2 weeks. A rare but serious cause of hoarseness that does not go away in a few weeks is cancer of the voice box.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002000-3" qtype="causes">What causes Hoarseness ?</Question>
-			<Answer></Answer>
+			<Answer>Hoarseness may be caused by: Acid reflux ( gastroesophageal reflux ),  Allergies , Breathing in irritating substances,  Cancer of the throat or larynx , Chronic  coughing ,  Colds  or upper respiratory infections, Heavy smoking or drinking, particularly together, Overuse or abuse of the voice (as in shouting or singing), which, over time, may cause swelling or growths on the vocal cords called vocal nodules,  Less common causes include: Injury or irritation from a breathing tube or  bronchoscopy ,  Damage to the nerves and muscles around the voice  box (from trauma or surgery),  Foreign object in the esophagus or trachea , Swallowing a harsh chemical liquid, Changes in the larynx during puberty,  Thyroid  or  lung cancer ,  Underactive thyroid gland , Immobility of one or both vocal cords , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002000-4" qtype="considerations">What to do for Hoarseness ?</Question>
-			<Answer></Answer>
+			<Answer>Hoarseness is most often caused by a problem with the vocal cords. The vocal cords are part of your voice box (larynx) located in the throat. When the vocal cords become inflamed or infected, they swell. This can cause hoarseness. The most common cause of hoarseness is a cold or throat infection, which most often goes away on its own within 2 weeks. A rare but serious cause of hoarseness that does not go away in a few weeks is cancer of the voice box.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002000-5" qtype="when to contact a medical professional">Do I need to see a doctor for Hoarseness ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: You have trouble breathing or swallowing., Hoarseness occurs with drooling, particularly in a small child., Hoarseness occurs in a child less than 3 months old., Hoarseness has lasted for more than 1 week in a child, or 2 to 3 weeks in an adult. , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002000-6" qtype="outlook">What is the outlook for Hoarseness ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000441" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001145.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Biliary atresia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,35 +17,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000441-1" qtype="information">What is (are) Biliary atresia ?</Question>
-			<Answer></Answer>
+			<Answer>Biliary atresia is a blockage in the tubes (ducts) that carry a liquid called bile from the liver to the gallbladder.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000441-2" qtype="causes">What causes Biliary atresia ?</Question>
-			<Answer></Answer>
+			<Answer>Biliary atresia occurs when the bile ducts inside or outside the liver are abnormally narrow, blocked, or absent. The bile ducts carry a digestive fluid from liver to small bowel to break down fats and to filter out waste from the body. The cause of the disease is not clear. It may be due to: Viral infection after birth, Exposure to toxic substances, Multiple genetic factors, Perinatal injury, Some medicines such as carbamazepine,  It more commonly affects people of East Asian and African-American descent. The bile ducts help remove waste from the liver and carry salts that help the small intestine break down (digest) fat. In babies with biliary atresia, bile flow from the liver to the gallbladder is blocked. This can lead to liver damage and cirrhosis of the liver, which can be deadly.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000441-3" qtype="symptoms">What are the symptoms of Biliary atresia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms usually start to occur between 2 to 8 weeks. Jaundice (a yellow color to the skin and mucus membranes) develops slowly 2 to 3 weeks after birth. The infant may gain weight normally for the first month. After that point, the baby will lose weight and become irritable, and will have worsening jaundice. Other symptoms may include: Dark urine, Swollen belly, Foul-smelling and floating stools, Pale or clay-colored stools,  Slow growth , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000441-4" qtype="exams and tests">How to diagnose Biliary atresia ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will take medical history of your child and do a physical exam to check for enlarged liver. Tests to diagnose biliary atresia include: Abdominal x-ray to check for enlarged liver and spleen, Abdominal ultrasound to check internal organs, Blood tests to check total and direct bilirubin levels, Hepatobiliary scintigraphy or HIDA scan to check whether the bile ducts and gallbladder are working properly, Liver biopsy to check the severity of cirrhosis or to rule out other causes of jaundice, X-ray of the bile ducts (cholangiogram) to check if the bile ducts are opened or closed, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000441-5" qtype="treatment">What are the treatments for Biliary atresia ?</Question>
-			<Answer></Answer>
+			<Answer>An operation called the Kasai procedure is done to connect the liver to the small intestine. The abnormal ducts are bypassed. The surgery is more successful if done before the baby is 8 weeks old. Liver transplant may still be needed before 20 years of age in most of the cases.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000441-6" qtype="outlook">What is the outlook for Biliary atresia ?</Question>
-			<Answer></Answer>
+			<Answer>Early surgery will improve the survival of more than one third of babies with this condition. The long-term benefit of a&#160;liver transplant is not yet known, but it is expected to improve survival.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000441-7" qtype="complications">What are the complications of Biliary atresia ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Infection, Irreversible cirrhosis, Liver failure, Surgical complications, including failure of the Kasai procedure , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000441-8" qtype="when to contact a medical professional">Do I need to see a doctor for Biliary atresia ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if your child appears jaundiced, or if other symptoms of biliary atresia develop.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

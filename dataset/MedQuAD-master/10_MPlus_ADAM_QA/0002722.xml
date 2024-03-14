@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002722" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003664.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Myoglobin urine test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002722-1" qtype="information">Do you have information about Myoglobin urine test</Question>
-			<Answer></Answer>
+			<Answer>The myoglobin urine test is done to detect the presence of myoglobin in urine. Myoglobin can also be measured with a  blood test .  </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

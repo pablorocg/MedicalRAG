@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003306" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003234.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pustules</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003306-1" qtype="information">What is (are) Pustules ?</Question>
-			<Answer></Answer>
+			<Answer>Pustules are small, inflamed, pus-filled, blister-like sores (lesions) on the skin surface.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003306-2" qtype="considerations">What to do for Pustules ?</Question>
-			<Answer></Answer>
+			<Answer>Pustules are common in  acne  and  folliculitis  (inflammation of the hair follicle). They may occur anywhere on the body, but are most commonly seen in these areas: Back, Face, Over the breastbone, Shoulders, Sweaty areas, such as the groin or armpit ,  Pustules may be a sign of an infection. In some cases, they are non-infectious and associated with inflammation in the skin or taking certain medicines. They should be checked by a health care provider and may need to be tested ( cultured ) for bacteria or fungus.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

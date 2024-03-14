@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003516" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002414.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Selenium in diet</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003516-1" qtype="information">Do you have information about Selenium in diet</Question>
-			<Answer></Answer>
+			<Answer>Selenium is an essential trace element. This means your body must get this mineral in the food you eat. Small amounts of selenium are good for your health.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

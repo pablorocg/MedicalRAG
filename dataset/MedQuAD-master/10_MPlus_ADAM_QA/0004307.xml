@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004307" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000851.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>When your cancer treatment stops working</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004307-1" qtype="information">Do you have information about When your cancer treatment stops working</Question>
-			<Answer></Answer>
+			<Answer>Cancer treatments can keep cancer from spreading and even cure early-stage cancer for many people. But not all cancer can be cured. Sometimes, treatment stops working or the cancer reaches a stage where it cannot be treated. This is called advanced cancer.  When you have advanced cancer, you move into a different stage of life. It is a time when you start to think about the end of life. This is not easy, but it doesn't mean you don't have options. Some people live for years with advanced cancer. Learning about advanced cancer and knowing your options can help you make decisions that work best for you.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

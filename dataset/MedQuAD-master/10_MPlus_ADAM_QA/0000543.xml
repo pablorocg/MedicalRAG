@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000543" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000808.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Break the Bonds of Emotional Eating</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,15 +21,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000543-1" qtype="information">What is (are) Break the Bonds of Emotional Eating ?</Question>
-			<Answer></Answer>
+			<Answer>Emotional eating is when you eat food to cope with difficult emotions. Because emotional eating has nothing to do with hunger, it is typical to eat a lot more calories than your body needs or will use. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000543-3" qtype="causes">What causes Break the Bonds of Emotional Eating ?</Question>
-			<Answer></Answer>
+			<Answer>Everyone has bad days, but not everyone uses food to get through them. Some behaviors and thought patterns can increase your chance of becoming an emotional eater. If you have trouble managing your emotions, you may be more likely to use food for that purpose., Being unhappy with your body may make you more prone to emotional eating. This goes for both men and women., Dieting can put you at risk. If you feel deprived of food, you may be frustrated and tempted to emotionally eat., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000543-5" qtype="when to contact a medical professional">Do I need to see a doctor for Break the Bonds of Emotional Eating ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

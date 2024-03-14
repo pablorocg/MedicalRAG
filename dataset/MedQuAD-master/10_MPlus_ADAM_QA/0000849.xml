@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000849" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000221.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Chronic pancreatitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,39 +22,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000849-1" qtype="information">What is (are) Chronic pancreatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Pancreatitis is swelling of the pancreas. Chronic pancreatitis is present when this problem does not heal or recurs and does not improve, gets worse over time, and leads to permanent damage.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000849-2" qtype="causes">What causes Chronic pancreatitis ?</Question>
-			<Answer></Answer>
+			<Answer>The pancreas is an organ located behind the stomach. It produces chemicals (called enzymes) needed to digest food. It also produces the hormones insulin and glucagon. When scarring of the pancreas occurs, the organ is no longer able to make the right amount of these enzymes. As a result, your body may be unable to digest fat and key elements of food. Damage to the parts of the pancreas that make insulin may lead to diabetes mellitus. The condition is most often caused by  alcohol abuse  over many years. Repeated episodes of acute pancreatitis can lead to chronic pancreatitis. Genetics may be a factor in some cases. Sometimes, the cause is not known or caused by gall stones. Other conditions that have been linked to chronic pancreatitis: Problems when the immune system attacks the body, Blockage of the tubes (ducts) that drain enzymes from the pancreas ,  Cystic fibrosis , High levels of a fat, called triglycerides, in the blood ,  Overactive parathyroid gland , Use of certain medicines (especially sulfonamides, thiazides, and azathioprine), Pancreatitis that is passed down in families (hereditary),  Chronic pancreatitis is more common in men than in women. This often occurs in people ages 30 to 40.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000849-3" qtype="symptoms">What are the symptoms of Chronic pancreatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: ABDOMINAL PAIN Greatest in the upper abdomen, May last from hours to days; over time, may always be present, May get worse from eating, May get worse from drinking alcohol, May also be felt in the back&#160;as if it is boring through the abdomen,  DIGESTIVE PROBLEMS  Chronic weight loss, even when eating habits and amounts are normal, Diarrhea, nausea, and vomiting, Foul-smelling fatty or oily stools,  Pale or orange-colored stools , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000849-4" qtype="exams and tests">How to diagnose Chronic pancreatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Tests to diagnose pancreatitis include: Fecal fat test , Increased  serum amylase  level, Increased  serum lipase  level,  Serum trypsinogen ,  Tests that may show the cause of pancreatitis include: Serum IgG4 (for diagnosing autoimmune pancreatitis), Gene testing, most often done when other common causes are not present or there is a family history,  Imaging tests that can show swelling, scarring, calcifications or other changes of the pancreas may be seen on: CT scan of the abdomen ,  Ultrasound of the abdomen , Endoscopic ultrasound (EUS), Magnetic resonance cholangiopancreatography (MRCP), Endoscopic retrograde cholangiopancreatography (ERCP),  ERCP &#160;is a procedure that looks at your bile and pancreatic ducts. It is done through an endoscope.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000849-5" qtype="treatment">What are the treatments for Chronic pancreatitis ?</Question>
-			<Answer></Answer>
+			<Answer>People with severe pain or who are losing weight may need to stay in the hospital for: Pain medicines., Fluids given through a vein (IV)., Stopping food or fluid by mouth to limit the activity of the pancreas, and then slowly starting an oral diet., Inserting a tube through the nose or mouth to remove the contents of the stomach ( nasogastric suctioning ) may sometimes be done. The tube may stay in for 1 to 2 days, or sometimes for 1 to 2 weeks. ,  The right diet is important for people with chronic pancreatitis to keep a healthy weight and get the correct nutrients. A nutritionist can help you create a diet that includes: Drinking plenty of liquids, Limiting fats, Eating small, frequent meals (this helps reduce digestive symptoms), Getting enough vitamins and calcium in the diet, or as extra supplements, Limiting caffeine ,  The health care provider may prescribe pancreatic enzymes. You must take these medicines with every meal, and even with snacks. The enzymes will help you digest food better, gain weight and reduce diarrhea. Avoid smoking and drinking alcoholic beverages, even if your pancreatitis is mild. Other treatments may involve: Pain medicines or a surgical nerve block to relieve pain, Taking insulin to control  blood sugar (glucose)  level ,  Surgery may be performed if a blockage is found. In severe cases, a part of or the entire pancreas may be removed.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000849-6" qtype="outlook">What is the outlook for Chronic pancreatitis ?</Question>
-			<Answer></Answer>
+			<Answer>This is a serious disease that may lead to disability and death. You can reduce the risk by avoiding alcohol.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000849-7" qtype="complications">What are the complications of Chronic pancreatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Ascites , Blockage (obstruction) of the small intestine or  bile ducts , Blood clot in the vein of the spleen, Fluid collections in the pancreas ( pancreatic pseudocysts ) that may become infected, Diabetes ,  Poor absorption &#160;of fat, nutrients, and vitamins (most often the fat-soluble vitamins, A, D, E, or K) , Iron deficiency anemia, Vitamin B12 deficiency, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000849-8" qtype="when to contact a medical professional">Do I need to see a doctor for Chronic pancreatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: You develop symptoms of pancreatitis, You have pancreatitis, and your symptoms get worse or do not improve with treatment, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000849-9" qtype="prevention">How to prevent Chronic pancreatitis ?</Question>
-			<Answer></Answer>
+			<Answer>Finding the cause of  acute pancreatitis  and treating it quickly may help prevent chronic pancreatitis. Limit the amount of alcohol you drink to reduce your risk of developing this condition.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

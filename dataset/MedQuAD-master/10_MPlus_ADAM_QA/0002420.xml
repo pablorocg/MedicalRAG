@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002420" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000360.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Living with hearing loss</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002420-1" qtype="information">What is (are) Living with hearing loss ?</Question>
-			<Answer></Answer>
+			<Answer>If you are living with hearing loss, you know that it takes extra effort to communicate with others. There are techniques you can learn to improve communication and avoid stress. These techniques can also help you: Avoid becoming socially isolated, Remain more independent, Be safer wherever you are , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

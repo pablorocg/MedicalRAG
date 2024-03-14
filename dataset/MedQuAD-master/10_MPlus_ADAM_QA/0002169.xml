@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002169" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000890.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Indoor fitness routine</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002169-1" qtype="information">Do you have information about Indoor fitness routine</Question>
-			<Answer></Answer>
+			<Answer>You don't need to go to a gym or buy fancy equipment to get exercise. You can do a full fitness routine right at home.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

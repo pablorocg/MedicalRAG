@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003705" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000449.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Staph infections - hospital</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,15 +18,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003705-1" qtype="information">What is (are) Staph infections - hospital ?</Question>
-			<Answer></Answer>
+			<Answer>"Staph" (pronounced staff) is short for Staphylococcus. Staph is a germ (bacteria) that can cause infections in any part of the body, but most are skin infections. Staph can infect openings in the skin, like scratches, pimples, or skin cysts. Anyone can get a staph infection. Hospital patients can get staph infections of the skin: Anywhere a catheter or tube enters the body. This includes chest tubes, urinary catheters, IVs, or central lines, In surgical wounds,  pressure sores  (also called bed sores), or foot ulcers ,  Once the staph germ enters the body, it can spread to bones, joints, and the blood. It can also spread to any organ, such as the lungs, heart, or brain. Staph can also spread from one person to another.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003705-3" qtype="susceptibility">Who is at risk for Staph infections - hospital? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003705-5" qtype="prevention">How to prevent Staph infections - hospital ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000095" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/970.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Wild yam</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,42 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000095-1" qtype="information">What is Wild yam ?</Question>
-			<Answer></Answer>
+			<Answer>Wild yam is a plant that has been promoted as natural DHEA because it contains diosgenin, which can be used in the lab to create estrogen and DHEA. 
+
+There are over 600 species of wild yams. About 12 species are edible. Some people use wild yam as a source of steroids, but the body can't make steroids such as estrogen and DHEA from eating wild yam. This conversion has to be done in a lab. There might be other chemicals in wild yam that act like estrogen in the body. 
+
+People most commonly use wild yam as a "natural alterative" to estrogen therapy for symptoms of menopause, infertility, menstrual problems, and many other conditions, but there is no good scientific evidence to support any of these uses.
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000095-2" qtype="how effective is it">How effective is Wild yam ?</Question>
-			<Answer></Answer>
+			<Answer>Natural Medicines Comprehensive Database  rates effectiveness based on scientific evidence according to the following scale:  Effective, Likely Effective, Possibly Effective, Possibly Ineffective, Likely Ineffective, Ineffective, and Insufficient Evidence to Rate. The effectiveness ratings for  WILD YAM  are as follows: Possibly ineffective for... Symptoms of menopause . Applying wild yam cream to the skin doesn't seem to help symptoms such as hot flashes and night sweats. It also doesn't seem to affect levels of hormones that play a role in menopause.,  
+
+There is interest in using wild yam for a number of other purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000095-3" qtype="how does it work">What is the action of Wild yam and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000095-4" qtype="precautions">Are there safety concerns or special precautions about Wild yam ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000095-5" qtype="interactions with medications">Are there interactions between Wild yam and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Moderate Be cautious with this combination. Estrogens Wild yam might have some of the same effects as estrogen. Taking wild yam along with estrogen pills might decrease the effects of estrogen pills.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000095-6" qtype="interactions with herbs and supplements">Are there interactions between Wild yam and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with herbs and supplements.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000095-7" qtype="interactions with foods">Are there interactions between Wild yam and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000095-8" qtype="dose">What is the dosage of Wild yam ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

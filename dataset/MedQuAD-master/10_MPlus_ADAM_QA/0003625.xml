@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003625" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001362.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Sleeping sickness</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,39 +19,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003625-1" qtype="information">What is (are) Sleeping sickness ?</Question>
-			<Answer></Answer>
+			<Answer>Sleeping sickness is an infection caused by tiny parasites carried by certain flies. It results in swelling of the brain.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003625-2" qtype="causes">What causes Sleeping sickness ?</Question>
-			<Answer></Answer>
+			<Answer>Sleeping sickness is caused by two types of parasites  Trypanosoma brucei rhodesiense  and  Trypanosoma brucei gambiense .  T b rhodesiense  causes the more severe form of the illness. Tsetse flies carry the infection. When an infected fly bites you, the infection spreads through your bloodstream. Risk factors include living in parts of Africa where the disease is found and being bitten by tsetse flies. The disease does not occur in the United States, but travelers who have visited or lived in Africa can get infected.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003625-3" qtype="symptoms">What are the symptoms of Sleeping sickness ?</Question>
-			<Answer></Answer>
+			<Answer>General symptoms include: Mood changes, anxiety 
+ , Fever, sweating, Headache,  Weakness , Insomnia at night, Sleepiness during the day (may be uncontrollable),  Swollen lymph nodes  all over the body, Swollen, red, painful  nodule  at site of the fly bite , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003625-4" qtype="exams and tests">How to diagnose Sleeping sickness ?</Question>
-			<Answer></Answer>
+			<Answer>Diagnosis is often based on a physical examination and detailed information about the symptoms. If the health care provider suspects sleeping sickness, you'll be asked about recent travel. Blood tests will be ordered to confirm the diagnosis. Tests include the following: Blood smear to check for parasites,  Cerebrospinal fluid tests  (fluid from your spinal cord),  Complete blood count  (CBC), Lymph node  aspiration , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003625-5" qtype="treatment">What are the treatments for Sleeping sickness ?</Question>
-			<Answer></Answer>
+			<Answer>Medicines used to treat this disorder include: Eflornithine (for  T b gambiense  only), Melarsoprol, Pentamidine (for  T b gambiense  only), Suramin (Antrypol),  Some people may receive a combination of these medicines.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003625-6" qtype="outlook">What is the outlook for Sleeping sickness ?</Question>
-			<Answer></Answer>
+			<Answer>Without treatment, death can occur within 6 months from  cardiac failure  or from  T b rhodesiense  infection itself. T b gambiense  infection causes sleeping sickness disease and gets worse quickly, often over a few weeks. The disease needs to be treated immediately.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003625-7" qtype="complications">What are the complications of Sleeping sickness ?</Question>
-			<Answer></Answer>
+			<Answer>Complications include: Injury related to falling asleep while driving or during other activities, Gradual damage to the nervous system, Uncontrollable sleep as the disease gets worse, Coma , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003625-8" qtype="when to contact a medical professional">Do I need to see a doctor for Sleeping sickness ?</Question>
-			<Answer></Answer>
+			<Answer>See your provider right away if you have symptoms, especially if you've traveled to places where the disease is common. It is important to begin treatment as soon as possible.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003625-9" qtype="prevention">How to prevent Sleeping sickness ?</Question>
-			<Answer></Answer>
+			<Answer>Pentamidine injections protect against  T b gambiense , but not against  T b rhodesiense . Because this medicine is toxic, using it for prevention is not recommended. Insect control measures can help prevent the spread of sleeping sickness in high-risk areas.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

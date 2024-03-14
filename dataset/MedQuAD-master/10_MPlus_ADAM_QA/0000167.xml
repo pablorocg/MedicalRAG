@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000167" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003470.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>ALP - blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000167-1" qtype="information">Do you have information about ALP - blood test</Question>
-			<Answer></Answer>
+			<Answer>Alkaline phosphatase (ALP) is a protein found in all body tissues. Tissues with higher amounts of ALP include the liver,  bile  ducts, and bone. A blood test can be done to measure the level of ALP. A related test is the  ALP isoenzyme test . </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003256" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000847.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Protecting yourself from cancer scams</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003256-1" qtype="information">What is (are) Protecting yourself from cancer scams ?</Question>
-			<Answer></Answer>
+			<Answer>If you or a loved one has cancer, you want to do everything possible to fight the disease. Unfortunately, there are people or companies that take advantage of this and promote phony cancer treatments that do not work. These treatments come in all forms, from creams and salves to mega-doses of vitamins. Using unproven treatments can be a waste of money. At worst, they can even be harmful. Learn to protect yourself by learning how to spot possible cancer scams.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

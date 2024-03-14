@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001103" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000697.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Day to day with COPD</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -16,7 +15,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001103-1" qtype="information">Do you have information about Day to day with COPD</Question>
-			<Answer></Answer>
+			<Answer>Your doctor gave you the news: you have  COPD  (chronic obstructive pulmonary disease). There is no cure, but there are things you can do every day to keep COPD from getting worse, to protect your lungs, and to stay healthy.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

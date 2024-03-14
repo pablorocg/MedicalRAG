@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004030" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000631.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Trichinosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004030-1" qtype="information">What is (are) Trichinosis ?</Question>
-			<Answer></Answer>
+			<Answer>Trichinosis is an infection with the roundworm  Trichinella spiralis .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004030-2" qtype="causes">What causes Trichinosis ?</Question>
-			<Answer></Answer>
+			<Answer>Trichinosis is a parasitic disease caused by eating meat that has not been thoroughly cooked and contains cysts (larvae, or immature worms) of  Trichinella spiralis . This parasite can be found in pig, bear, walrus, fox, rat, horse, and lion. Wild animals, especially carnivores (meat eaters) or omnivores (animals that eat both meat and plants), should be considered possible sources of roundworm disease. Domestic meat animals raised specifically for eating under US Department of Agriculture (government) guidelines and inspection can be considered safe. For this reason, trichinosis is rare in the United States, but it is a common infection worldwide. When a person eats meat from an infected animal, trichinella cysts break open in the intestine and grow into adult roundworms. The roundworms produce other worms that move through the gut wall and into the bloodstream. The worms invade muscle tissues, including the heart and diaphragm (the breathing muscle under the lungs). They can also infect the lungs and brain. The cysts can remain alive for years.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004030-3" qtype="symptoms">What are the symptoms of Trichinosis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of trichinosis include: Abdominal discomfort, cramping, Diarrhea, Facial swelling around the eyes,  
+ Fever 
+ ,  Muscle pain  (especially muscle pain with breathing, chewing, or using large muscles), Muscle weakness , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004030-4" qtype="exams and tests">How to diagnose Trichinosis ?</Question>
-			<Answer></Answer>
+			<Answer>Tests to diagnose this condition include: Blood tests such as complete blood count ( CBC ),  eosinophil count  (a type of white blood cell),  antibody test , and  creatine kinase level &#160;(an enzyme found in muscle cells) ,  Muscle biopsy  to check for worms in the muscle, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004030-5" qtype="treatment">What are the treatments for Trichinosis ?</Question>
-			<Answer></Answer>
+			<Answer>Medicines, such as albendazole, can be used to treat infections in the intestines. A mild infection does not usually need treatment. Pain medicine can help relieve muscle soreness after the larvae have invaded the muscles.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004030-6" qtype="outlook">What is the outlook for Trichinosis ?</Question>
-			<Answer></Answer>
+			<Answer>Most people with trichinosis have no symptoms and the infection goes away by itself. More severe infections may be difficult to treat, especially if the lungs, heart, or brain are involved.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004030-7" qtype="complications">What are the complications of Trichinosis ?</Question>
-			<Answer></Answer>
+			<Answer>Possible complications include: Encephalitis (brain infection and inflammation),  Heart failure  from heart muscle inflammation, Heart rhythm problems from heart muscle inflammation, Pneumonia , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004030-8" qtype="when to contact a medical professional">Do I need to see a doctor for Trichinosis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have symptoms of trichinosis and you recently ate undercooked or raw meat that might have been contaminated.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0004030-9" qtype="prevention">How to prevent Trichinosis ?</Question>
-			<Answer></Answer>
+			<Answer>Freezing pork at a low temperature (5&#176;F or -15&#176;C or colder) for 3 to 4 weeks will kill the worms. Freezing wild game meat does not always kill the worms. Smoking, salting, and drying meat are also not reliable methods of killing the worms. Pork and meat from wild animals should be cooked until well done (no traces of pink).</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

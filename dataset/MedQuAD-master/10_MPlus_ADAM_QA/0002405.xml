@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002405" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001380.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Listeriosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,39 +21,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002405-1" qtype="information">What is (are) Listeriosis ?</Question>
-			<Answer></Answer>
+			<Answer>Listeriosis is an infection that can occur when a person eats food that has been contaminated with bacteria called  Listeria monocytogenes  ( L monocytogenes ).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002405-2" qtype="causes">What causes Listeriosis ?</Question>
-			<Answer></Answer>
+			<Answer>The bacteria  L monocytogenes  is found in wild animals, domesticated animals, and in soil and water. These bacteria make many animals sick, leading to miscarriage and stillbirth in domestic animals. Vegetables, meats, and other foods can get infected with the bacteria if they come in contact with contaminated soil or manure. Raw milk or products made from raw milk may carry these bacteria. If you eat the contaminated products, you may get sick. The following people are at increased risk: Adults over age 50, Adults with a weakened immune system, Developing fetuses, Newborns, Pregnancy ,  The bacteria most often cause a gastrointestinal illness. In some cases, you can develop a blood infection ( septicemia ) or inflammation of the covering of the brain ( meningitis ). Infants and children often have meningitis. Infection in early pregnancy may cause a miscarriage. The bacteria may cross the placenta and infect the developing baby. Infections in late pregnancy may lead to stillbirth or death of the infant within a few hours of birth. About one half of infants infected at or near birth will die. In adults, the disease may take many forms, depending on what organ or organ systems are infected. It may occur as: Heart infection ( endocarditis ), Brain or spinal fluid infection (meningitis), Lung infection ( pneumonia ), Blood infection (septicemia), Gastrointestinal infection (gastroenteritis, diarrhea) ,  Or it may occur in a milder form as: Abscesses ,  Conjunctivitis ,  Skin lesion , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002405-3" qtype="symptoms">What are the symptoms of Listeriosis ?</Question>
-			<Answer></Answer>
+			<Answer>In infants, symptoms of listeriosis may be seen in the first few days of life and may include: Loss of appetite,  Lethargy ,  Jaundice ,  Respiratory  distress (usually pneumonia),  Shock , Skin rash, Vomiting, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002405-4" qtype="exams and tests">How to diagnose Listeriosis ?</Question>
-			<Answer></Answer>
+			<Answer>Laboratory tests may be done to detect the bacteria in amniotic fluid, blood, feces, and urine. A  spinal fluid (cerebrospinal fluid or CSF) culture  will be performed if a spinal tap is performed.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002405-5" qtype="treatment">What are the treatments for Listeriosis ?</Question>
-			<Answer></Answer>
+			<Answer>Antibiotics (including ampicillin or trimethoprim-sulfamethoxazole) are prescribed to kill the bacteria.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002405-6" qtype="outlook">What is the outlook for Listeriosis ?</Question>
-			<Answer></Answer>
+			<Answer>Listeriosis in a fetus or infant is often fatal. Healthy older children and adults are more likely to survive. The illness is less serious if it only affects the gastrointestinal system. Brain or spinal infections have worse outcomes.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002405-7" qtype="complications">What are the complications of Listeriosis ?</Question>
-			<Answer></Answer>
+			<Answer>Infants who survive listeriosis may have long-term brain and nervous system (neurologic) damage and delayed development.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002405-8" qtype="when to contact a medical professional">Do I need to see a doctor for Listeriosis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you or your child develops symptoms of listeriosis.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002405-9" qtype="prevention">How to prevent Listeriosis ?</Question>
-			<Answer></Answer>
+			<Answer>Foreign food products, such as nonpasteurized soft cheeses, have also led to outbreaks of listeriosis. Always cook food thoroughly. Wash your hands thoroughly after touching pets, farm animals, and handling animal feces. Pregnant women may want to visit the Centers for Disease Control and Prevention (CDC) website for information on food precautions:  www.cdc.gov/listeria/prevention.html .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

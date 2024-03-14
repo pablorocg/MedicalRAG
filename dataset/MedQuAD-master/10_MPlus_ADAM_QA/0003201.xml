@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003201" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000544.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Prenatal care in your first trimester</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003201-1" qtype="information">Do you have information about Prenatal care in your first trimester</Question>
-			<Answer></Answer>
+			<Answer>Trimester means "3 months." A normal pregnancy lasts around 10 months and has 3 trimesters. The word prenatal means before birth. The first trimester starts when your baby is conceived. It continues through week 14 of your pregnancy. Your health care provider may talk about your pregnancy in weeks, rather than in months or trimesters.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

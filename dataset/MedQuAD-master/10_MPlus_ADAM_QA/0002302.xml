@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002302" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003187.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Knee pain</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,23 +19,24 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002302-1" qtype="information">What is (are) Knee pain ?</Question>
-			<Answer></Answer>
+			<Answer>Knee pain is a common symptom in people of all ages. It may start suddenly, often after an injury or exercise. Knee pain also may begin as a mild discomfort, then slowly get worse.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002302-2" qtype="causes">What causes Knee pain ?</Question>
-			<Answer></Answer>
+			<Answer>Knee pain can have different causes. Being overweight puts you at greater risk for knee problems. Overusing your knee can trigger knee problems that cause pain. If you have a history of arthritis, it could also cause knee pain. Here are some common causes of knee pain: MEDICAL CONDITIONS Arthritis  -- Including  rheumatoid arthritis ,  osteoarthritis ,  lupus , and  gout ,  Baker cyst  -- A fluid-filled swelling behind the knee that may occur with swelling (inflammation) from other causes, such as arthritis, Cancers that either spread to your bones or begin in the  bones ,  Osgood-Schlatter disease ,  Infection in the bones around the knee ,  Infection in the knee joint ,  INJURIES AND OVERUSE Bursitis  -- Inflammation from repeated pressure on the knee, such as kneeling for a long time, overuse, or injury, Tendinitis -- Inflammation of the tendon with change in activities, can be related to overuse or deconditioned tissue,  Dislocation of the kneecap , Fracture of the kneecap or other bones,  Iliotibial band syndrome  -- Injury to the thick band that runs from your hip to the outside of your knee, 
+   Patellofemoral syndrome --  Pain in the front of your knee  around the kneecap, Torn ligament. -- An  anterior cruciate ligament (ACL)  injury, or  medial collateral ligament (MCL)  injury may cause bleeding into your knee, swelling, or an unstable knee, Torn cartilage (a  meniscus tear ) -- Pain felt on the inside or outside of the knee joint,  Strain  or  sprain  -- Minor injuries to the ligaments caused by sudden or unnatural twisting, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002302-3" qtype="considerations">What to do for Knee pain ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002302-4" qtype="when to contact a medical professional">Do I need to see a doctor for Knee pain ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: You cannot bear weight on your knee., You have severe pain, even when not bearing weight., Your knee buckles, clicks, or locks., Your knee is deformed or misshapen., You cannot flex your knee or have trouble straightening it all the way out., You have a  fever , redness or warmth around the knee, or a lot of swelling., You have pain, swelling, numbness, tingling, or bluish discoloration in the calf below the sore knee., You still have pain after 3 days of home treatment.&#160;, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002302-5" qtype="outlook">What is the outlook for Knee pain ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

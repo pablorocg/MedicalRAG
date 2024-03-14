@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000541" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001396.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Branchial cleft cyst</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000541-1" qtype="information">What is (are) Branchial cleft cyst ?</Question>
-			<Answer></Answer>
+			<Answer>A branchial cleft cyst is a birth defect. It is caused when fluid fills a space, or sinus, left in the neck when a baby develops in the womb. After the baby is born, it appears as a lump in the neck or just below the jawbone.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000541-2" qtype="causes">What causes Branchial cleft cyst ?</Question>
-			<Answer></Answer>
+			<Answer>Branchial cleft cysts form during development of the  embryo . They occur when tissues in the neck area (branchial cleft) fail to develop normally. The birth defect may appear as open spaces called cleft sinuses, which may develop on one or both sides of the neck. A branchial cleft cyst may form due to fluid in a sinus. The cyst or sinus can become infected.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000541-3" qtype="symptoms">What are the symptoms of Branchial cleft cyst ?</Question>
-			<Answer></Answer>
+			<Answer>The cysts are most often seen in children. In some cases, they are not seen until adulthood. Symptoms may include any of the following: Small pits, lumps, or skin tags at either side of the neck or just below the jawbone, Fluid drainage from a pit on the neck, Noisy breathing&#160;(if the cyst is large enough to block part of the airway), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000541-4" qtype="exams and tests">How to diagnose Branchial cleft cyst ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider may be able to diagnose this condition during a physical examination. The following tests may be done:  CT scan, MRI scan, Ultrasound, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000541-5" qtype="treatment">What are the treatments for Branchial cleft cyst ?</Question>
-			<Answer></Answer>
+			<Answer>Antibiotics will be given if the cyst or sinuses are infected. Surgery is generally needed to remove a branchial cleft cyst in order to prevent complications such as infections. If there is an infection when the cyst is found, surgery will likely be done after the infection has been treated with antibiotics. If there have been several infections before the cyst is found, it may be harder to remove.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000541-6" qtype="outlook">What is the outlook for Branchial cleft cyst ?</Question>
-			<Answer></Answer>
+			<Answer>Surgery is usually successful, with good results. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000541-7" qtype="complications">What are the complications of Branchial cleft cyst ?</Question>
-			<Answer></Answer>
+			<Answer>The cyst or sinuses may become infected if not removed. Repeated infections may make surgical removal more difficult.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000541-8" qtype="when to contact a medical professional">Do I need to see a doctor for Branchial cleft cyst ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider for an appointment if you notice a small pit, cleft, or lump in your child's neck or upper shoulder, especially if fluid drains from this area.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

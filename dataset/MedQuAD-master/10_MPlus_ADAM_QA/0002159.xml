@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002159" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007279.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>In vitro fertilization (IVF)</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002159-1" qtype="information">Do you have information about In vitro fertilization (IVF)</Question>
-			<Answer></Answer>
+			<Answer>In vitro fertilization (IVF) is the joining of a woman's egg and a man's sperm in a laboratory dish. In vitro means outside the body. Fertilization means the sperm has attached to and entered the egg.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

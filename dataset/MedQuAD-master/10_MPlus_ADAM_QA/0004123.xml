@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004123" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000505.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Urinary tract infection - children</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,35 +23,37 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004123-1" qtype="information">What is (are) Urinary tract infection - children ?</Question>
-			<Answer></Answer>
+			<Answer>A urinary tract infection is a bacterial infection of the urinary tract. This article discusses urinary tract infections in children. The infection can affect different parts of the urinary tract, including the bladder (cystitis), kidneys (pyelonephritis), and urethra, the tube that empties urine from the bladder to the outside.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004123-2" qtype="causes">What causes Urinary tract infection - children ?</Question>
-			<Answer></Answer>
+			<Answer>Urinary tract infections (UTIs) can occur when bacteria get into the bladder or to the kidneys. These bacteria are common on the skin around the anus. They can also be present near the vagina. Some factors make it easier for bacteria to enter or stay in the urinary tract, such as: Vesicoureteral reflux  in which urine flow backs up into the ureters and kidneys., Brain or nervous system illnesses (such as myelomeningocele or spinal cord injury)., Bubble baths or tight-fitting clothes (girls)., Changes or birth defects in the structure of the urinary tract., Not urinating often enough during the day., Wiping from back (near the anus) to front after going to the bathroom. In girls, this can bring bacteria to the opening where the urine comes out.,  UTIs are more common in girls. This may occur as children begin toilet training around 3 years of age. Boys who are not circumcised have a slightly higher risk of UTIs before age 1.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004123-3" qtype="symptoms">What are the symptoms of Urinary tract infection - children ?</Question>
-			<Answer></Answer>
+			<Answer>Young children with UTIs may have a fever, poor appetite, vomiting, or no symptoms at all. Most UTIs in children only involve the bladder. It may spread to the kidneys. Symptoms of a bladder infection in children include: Blood in the urine , Cloudy urine, Foul or strong urine odor,  Frequent or urgent need to urinate , General ill feeling ( malaise ),  Pain or burning with urination , Pressure or pain in the lower pelvis or lower back, Wetting problems after the child has been toilet trained ,  Signs that the infection may have spread to the kidneys include: Chills with shaking, Fever, Flushed, warm, or reddened skin, Nausea and vomiting, Pain in the side (flank) or back, Severe pain in the belly area , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004123-4" qtype="exams and tests">How to diagnose Urinary tract infection - children ?</Question>
-			<Answer></Answer>
+			<Answer>A urine sample is needed to diagnose a UTI in a child. The sample is examined under a microscope and sent to a lab for a  urine culture . It may be hard to get a urine sample in a child who is not toilet trained. The test cannot be done using a wet diaper.  Ways to collect a urine sample in a very young child include: 
+   Urine collection bag -- A special plastic bag is placed over the child's penis or vagina to catch the urine. This is not the best method because the sample may become contaminated.,  Catheterized specimen urine culture  -- A plastic tube (catheter) placed into the tip of the penis in boys, or straight into the urethra in girls, collects urine right from the bladder., 
+   Suprapubic urine collection -- A needle is placed through the skin of the lower abdomen and muscles into the bladder. It is used to collect urine. ,  Imaging may be done to check for any anatomical abnormalities or to check kidney function, including: Ultrasound, X-ray taken while the child is urinating ( voiding cystourethrogram ) ,  Your health care provider will consider many things when deciding if and when a special study is needed, including: The child's age and history of other UTIs (infants and younger children usually need follow-up tests), The severity of the infection and how well it responds to treatment, Other medical problems or physical defects the child may have , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004123-5" qtype="treatment">What are the treatments for Urinary tract infection - children ?</Question>
-			<Answer></Answer>
+			<Answer>In children, UTIs should be treated quickly with antibiotics to protect the kidneys. Any child under 6 months old or who has other complications should see a specialist right away. Younger infants will most often need to stay in the hospital and be given antibiotics through a vein. Older infants and children are treated with antibiotics by mouth. If this is not possible, they may need to get treated in the hospital. Your child should drink plenty of fluids when being treated for a UTI. Some children may be treated with antibiotics for periods as long as 6 months to 2 years. This treatment is more likely when the child has had repeat infections or vesicoureteral reflux.  After antibiotics are finished, your child's provider may ask you to bring your child back to do another urine test. This may be needed to make sure that bacteria are no longer in the bladder.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004123-6" qtype="outlook">What is the outlook for Urinary tract infection - children ?</Question>
-			<Answer></Answer>
+			<Answer>Most children are cured with proper treatment. Most of the time, repeat infections can be prevented. Repeated infections that involve the kidneys can lead to long-term damage to the kidneys. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004123-7" qtype="when to contact a medical professional">Do I need to see a doctor for Urinary tract infection - children ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if your child's symptoms continue after treatment, or come back more than twice in 6 months or your child have: Back pain or  flank pain , Bad-smelling, bloody, or discolored urine, Fever of 102.2&#176;F (39&#176;C) in infants for longer than 24 hours, Low back pain or abdominal pain below the belly button, Fever that does not go away, Very frequent urination, or need to urinate many times during the night, Vomiting , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004123-8" qtype="prevention">How to prevent Urinary tract infection - children ?</Question>
-			<Answer></Answer>
+			<Answer>Things you can do to prevent UTIs include: Avoid giving your child bubble baths., Have your child wear loose-fitting underpants and clothing., Increase your child's intake of fluids., Keep your child's genital area clean to prevent bacteria from entering through the urethra., Teach your child to go the bathroom several times every day., Teach your child to wipe the genital area from front to back to reduce the spread of bacteria. ,  To prevent recurrent UTIs, the provider may recommend low-dose antibiotics after the first symptoms have gone away. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

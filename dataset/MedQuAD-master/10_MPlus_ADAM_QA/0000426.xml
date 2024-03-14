@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000426" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003977.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Benign prostate hyperplasia (BPH) - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,7 +23,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000426-1" qtype="information">What is (are) Benign prostate hyperplasia (BPH) - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations provide information on benign prostatic hyperplasia ( prostate enlargement ): American Academy of Family Physician, Family Doctor --  familydoctor.org/condition/benign-prostatic-hyperplasia-bph/ , US National Library of Medicine, MedlinePlus --  medlineplus.gov/enlargedprostatebph.html , National Association for Continence --  nafc.org/enlarged-prostate/ , National Institute of Diabetes and Digestive and Kidney Diseases --  www.niddk.nih.gov/health-information/urologic-diseases/prostate-problems/prostate-enlargement-benign-prostatic-hyperplasia , Urology Care Foundation --  www.urologyhealth.org/urology-a-z/b/benign-prostatic-hyperplasia-(bph) , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

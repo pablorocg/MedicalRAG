@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001311" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000296.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>E. coli enteritis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,31 +22,32 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001311-1" qtype="information">What is (are) E. coli enteritis ?</Question>
-			<Answer></Answer>
+			<Answer>E coli  enteritis is swelling (inflammation) of the small intestine from  Escherichia coli  ( E coli ) bacteria. It is the most common cause of travelers' diarrhea.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001311-2" qtype="causes">What causes E. coli enteritis ?</Question>
-			<Answer></Answer>
+			<Answer>E coli  is a type of bacteria that lives in the intestines of humans and animals. Most of the time, it does not cause any problems. However, certain types (or strains) of  E coli  can cause food poisoning. One strain ( E coli  O157:H7) can cause a severe case of food poisoning. Bacteria may get into your food in different ways: Meat or poultry may come into contact with normal bacteria from the intestines of an animal while it is being processed., Water used during growing or shipping may contain animal or human waste., Food may be handled in an unsafe way during transport or storage., Unsafe food handling or preparation may occur in grocery stores, restaurants, or homes. ,  Food poisoning can occur after eating or drinking: Food prepared by a person who did not wash hands well, Food prepared using unclean cooking utensils, cutting boards, or other tools, Dairy products or food containing mayonnaise (such as coleslaw or potato salad) that have been out of the refrigerator too long, Frozen or refrigerated foods that are not stored at the proper temperature or are not properly reheated, Fish or oysters, Raw fruits or vegetables that have not been washed well, Raw vegetable or fruit juices and dairy products, Undercooked meats or eggs, Water from a well or stream, or city or town water that has not been treated ,  Although not common,  E coli  can be spread from one person to another. This may happen when someone does not wash their hands after a bowel movement and then touches other objects or someone else's hands. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001311-3" qtype="symptoms">What are the symptoms of E. coli enteritis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms occur when  E coli  bacteria enter the intestine. Most of the time symptoms develop 24 to 72 hours after being infected. The most common symptom is sudden, severe diarrhea that is often bloody. Other symptoms may include: Fever, Gas, Loss of appetite, Stomach cramping, Vomiting (rare) ,  Symptoms of a rare but severe  E coli  infection include: Bruises that happen easily, Pale skin, Red or bloody urine, Reduced amount of urine, Kidney failure, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001311-4" qtype="exams and tests">How to diagnose E. coli enteritis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam. A stool culture can be done to check for disease-causing  E coli .</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001311-5" qtype="treatment">What are the treatments for E. coli enteritis ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, you will recover from the most common types of  E coli  infection within a couple of days. The goal of treatment is to make you feel better and avoid dehydration. Getting enough fluids and learning what to eat will help keep you or your child comfortable. You may need to: Manage the diarrhea ,  Control nausea and vomiting , Get plenty of rest ,  You can drink oral rehydration mixtures to replace fluids and minerals lost through vomiting and diarrhea. Oral rehydration powder can be purchased from a pharmacy. Be sure to mix the powder in safe water. You can make your own rehydration mixture by dissolving one half teaspoon (3 grams) of salt, one half&#160;teaspoon (2.5 grams) of baking soda and 4 tablespoons (50 grams) of sugar in 4&#188; cups (1 liter) of water.
+ You may need to get fluids through a vein (IV) if you have diarrhea or vomiting and cannot drink or keep enough fluids in your body. You will need to go to your provider's office or the emergency room.  If you take diuretics (water pills), talk to your provider. You may need to stop taking the diuretic while you have diarrhea. Never stop or change medicines without first talking to your provider. You can buy medicines at the drugstore that can help stop or slow diarrhea. Do not use these medicines without talking to your provider if you have bloody diarrhea or a fever. Do not give these medicines to children. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001311-6" qtype="outlook">What is the outlook for E. coli enteritis ?</Question>
-			<Answer></Answer>
+			<Answer>Most people will get better in a few days, without treatment. Some uncommon types of  E coli  can cause severe  anemia  or kidney failure. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001311-7" qtype="when to contact a medical professional">Do I need to see a doctor for E. coli enteritis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider for an appointment if: You are unable to keep down fluids., Your diarrhea does not get better in 5 days (2 days for an infant or child), or it gets worse., Your child has been vomiting for more than 12 hours (in a newborn under 3 months, call as soon as vomiting or diarrhea begins)., You have abdominal pain that does not go away after a bowel movement., You have a fever above 101&#176;F (38.3&#176;C), or your child has a fever above 100.4&#176;F (38&#176;C) with diarrhea., You have recently traveled to a foreign country and developed diarrhea., You see blood or pus in your stool., You develop symptoms of dehydration, such as not peeing (or dry diapers in a baby), thirst, dizziness, or lightheadedness., You develop new symptoms. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

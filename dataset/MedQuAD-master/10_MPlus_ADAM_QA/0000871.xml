@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000871" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000522.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Closed reduction of a fractured bone - aftercare</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000871-1" qtype="information">Do you have information about Closed reduction of a fractured bone - aftercare</Question>
-			<Answer></Answer>
+			<Answer>Closed reduction is a procedure to set (reduce) a broken bone without surgery. It allows the bone to grow back together with better alignment. It can be done by an orthopedic surgeon (bone doctor) or a primary care provider who has experience doing this procedure. After the procedure, your broken limb will be placed in a cast. Healing can take anywhere from 8 to 12 weeks. How quickly you heal will depend on: Your age, The size of the bone that broke, The type of break, Your general health , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

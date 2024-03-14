@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002729" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003247.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Nail abnormalities</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002729-1" qtype="information">Do you have information about Nail abnormalities</Question>
-			<Answer></Answer>
+			<Answer>Nail abnormalities are problems with the color, shape, texture, or thickness of the fingernails or toenails.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002964" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000183.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Paroxysmal supraventricular tachycardia (PSVT)</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,31 +22,31 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002964-1" qtype="information">What is (are) Paroxysmal supraventricular tachycardia (PSVT) ?</Question>
-			<Answer></Answer>
+			<Answer>Paroxysmal supraventricular tachycardia (PSVT) is episodes of  rapid heart rate  that start in a part of the heart above the ventricles. "Paroxysmal" means from time to time. </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002964-2" qtype="causes">What causes Paroxysmal supraventricular tachycardia (PSVT) ?</Question>
-			<Answer></Answer>
+			<Answer>Normally, the chambers of the heart (atria and ventricles) contract in a coordinated manner.  The contractions are caused by an electrical signal that begins in an area of the heart called the sinoatrial node (also called the sinus node or SA node)., The signal moves through the upper heart chambers (the atria) and tells the atria to contract., After this, the signal moves down in the heart and tells the lower chambers (the ventricles) to contract. ,  The rapid heart rate from PSVT may start with events that occur in areas of the heart above the lower chambers (ventricles).  There are a number of specific causes of PSVT. It can develop when doses of the heart medicine, digitalis, are too high. It can also occur with a condition known as  Wolff-Parkinson-White syndrome , which is most often seen in young people and infants. The following increase your risk for PSVT: Alcohol use ,  Caffeine  use, Illicit drug use, Smoking , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002964-3" qtype="symptoms">What are the symptoms of Paroxysmal supraventricular tachycardia (PSVT) ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms most often start and stop suddenly. They can last for a few minutes or several hours. Symptoms may include:  Anxiety , Chest tightness,  Palpitations  (a sensation of feeling the heartbeat), often with an irregular or fast rate (racing),  Rapid pulse ,  Shortness of breath ,  Other symptoms that can occur with this condition include: Dizziness ,  Fainting , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002964-4" qtype="exams and tests">How to diagnose Paroxysmal supraventricular tachycardia (PSVT) ?</Question>
-			<Answer></Answer>
+			<Answer>A physical exam during a PSVT episode will show a rapid heart rate. It may also show forceful pulses in the neck. The  heart rate  may be over 100, and even more than 250 beats per minute (bpm). In children, the heart rate tends to be very high. There may be signs of poor blood circulation such as lightheadedness. Between episodes of PSVT, the heart rate is normal (60 to 100 bpm). An  ECG  during symptoms shows PSVT. An  electrophysiology study  (EPS) may be needed for an accurate diagnosis and to find the best treatment. Because PSVT comes and goes, to diagnose it people may need to wear a 24-hour  Holter monitor . For longer periods of time, another tape of the rhythm recording device may be used.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002964-5" qtype="treatment">What are the treatments for Paroxysmal supraventricular tachycardia (PSVT) ?</Question>
-			<Answer></Answer>
+			<Answer>PSVT that occurs only once in a while may not need treatment if you don't have symptoms or other heart problems. You can try the following techniques to interrupt a fast heartbeat during an episode of PSVT:  Valsalva maneuver. To do this, you hold your breath and strain, as if you were trying to have a bowel movement., Coughing while sitting with your upper body bent forward., Splashing ice water on your face ,  You should avoid smoking, caffeine, alcohol, and illicit drugs. Emergency treatment to slow the heartbeat back to normal may include: Electrical  cardioversion , the use of electric shock, Medicines through a vein ,  Long-term treatment for people who have repeat episodes of PSVT, or who also have heart disease, may include: Cardiac ablation , a procedure used to destroy small areas in your heart that may be causing the rapid heartbeat (currently the treatment of choice for most PSVTs), Daily medicines to prevent repeat episodes,  Pacemakers  to override the fast heartbeat (on occasion may be used in children with PSVT who have not responded to any other treatment), Surgery to change the pathways in the heart that send electrical signals (this may be recommended in some cases for people who need other heart surgery) , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002964-6" qtype="outlook">What is the outlook for Paroxysmal supraventricular tachycardia (PSVT) ?</Question>
-			<Answer></Answer>
+			<Answer>PSVT is generally not life threatening. If other heart disorders are present, it can lead to  congestive heart failure  or angina.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002964-7" qtype="when to contact a medical professional">Do I need to see a doctor for Paroxysmal supraventricular tachycardia (PSVT) ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if:  You have a sensation that your heart is beating quickly and the symptoms do not end on their own in a few minutes., You have a history of PSVT and an episode does not go away with the Valsalva maneuver or by coughing., You have other symptoms with the rapid heart rate., Symptoms return often., New symptoms develop.,  It is especially important to contact your provider if you also have other heart problems. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

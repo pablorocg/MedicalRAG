@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000620" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002764.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Button batteries</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000620-1" qtype="information">Do you have information about Button batteries</Question>
-			<Answer></Answer>
+			<Answer>Button batteries are tiny, round batteries. They are commonly used in watches and hearing aids. Children often swallow these batteries or put them up their nose. They can be breathed in more deeply (inhaled) from the nose. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. Also, you can call the National Button Battery Ingestion Hotline (800-498-8666).</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

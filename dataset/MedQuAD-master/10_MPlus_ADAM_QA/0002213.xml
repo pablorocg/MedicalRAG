@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002213" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000260.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Intestinal obstruction</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,39 +24,42 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002213-1" qtype="information">What is (are) Intestinal obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Intestinal obstruction is a partial or complete blockage of the bowel. The contents of the intestine cannot pass through it.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002213-2" qtype="causes">What causes Intestinal obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Obstruction of the bowel may be due to: 
+   A mechanical cause, which means something is blocking the bowel, 
+   Ileus, a condition in which the bowel does not work correctly, but there is no structural problem causing it
+   ,  Paralytic ileus, also called pseudo-obstruction, is one of the major causes of intestinal obstruction in infants and children. Causes of paralytic ileus may include: Bacteria or viruses that cause intestinal infections ( gastroenteritis ), Chemical, electrolyte, or mineral imbalances (such as decreased blood potassium level), Abdominal surgery,  Decreased blood supply to the intestines , Infections inside the abdomen, such as appendicitis, Kidney or lung disease, Use of certain medicines, especially narcotics ,  Mechanical causes of intestinal obstruction may include: Adhesions  or scar tissue that form after surgery, Foreign bodies (objects that are swallowed and block the intestines),  Gallstones  (rare),  Hernias ,  Impacted stool ,  Intussusception  (telescoping of one segment of bowel into another),  Tumors  blocking the intestines, Volvulus (twisted intestine) , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002213-3" qtype="symptoms">What are the symptoms of Intestinal obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Abdominal swelling (distention),  Abdominal fullness, gas ,  Abdominal pain  and cramping,  Breath odor ,  Constipation ,  Diarrhea , Inability to pass gas,  Vomiting , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002213-4" qtype="exams and tests">How to diagnose Intestinal obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>During a physical exam, the health care provider may find bloating, tenderness, or  hernias  in the abdomen.  Tests that show obstruction include: Abdominal  CT scan , Abdominal x-ray,  Barium enema ,  Upper GI and small bowel series , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002213-5" qtype="treatment">What are the treatments for Intestinal obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment involves placing a tube through the nose into the stomach or intestine. This is to help relieve abdominal swelling (distention) and vomiting. Volvulus of the large bowel may be treated by passing a tube into the rectum. Surgery may be needed to relieve the obstruction if the tube does not relieve the symptoms. It may also be needed if there are signs of tissue death.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002213-6" qtype="outlook">What is the outlook for Intestinal obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome depends on the cause of the blockage. Most of the time, the cause is successfully treated.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002213-7" qtype="complications">What are the complications of Intestinal obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include or may lead to: Electrolyte (blood chemical and mineral)  imbalances, Dehydration, Hole (perforation) in the intestine, Infection, Jaundice (yellowing of the skin and eyes) ,  If the obstruction blocks the blood supply to the intestine, it may cause infection and tissue death (gangrene). Risks for tissue death are related to the cause of the blockage and how long it has been present. Hernias, volvulus, and intussusception carry a higher gangrene risk.  In a newborn, paralytic ileus that destroys the bowel wall (necrotizing enterocolitis) is a life-threatening condition. It may lead to blood and lung infections.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002213-8" qtype="when to contact a medical professional">Do I need to see a doctor for Intestinal obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you:  Cannot pass stool or gas, Have a swollen abdomen (distention) that does not go away, Keep vomiting, Have unexplained abdominal pain that does not go away, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002213-9" qtype="prevention">How to prevent Intestinal obstruction ?</Question>
-			<Answer></Answer>
+			<Answer>Prevention depends on the cause. Treating conditions, such as tumors and hernias that can lead to a blockage, may reduce your risk.  Some causes of obstruction cannot be prevented.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

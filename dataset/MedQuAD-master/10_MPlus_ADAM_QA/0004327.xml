@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004327" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000875.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Working with a personal trainer</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004327-1" qtype="information">Do you have information about Working with a personal trainer</Question>
-			<Answer></Answer>
+			<Answer>If you have had a hard time sticking with regular exercise, you may want to hire a personal trainer. Personal trainers are not only for athletes. They can help people of all ages and abilities reach their fitness goals. A personal trainer can help you create a fitness plan that is right for you and help you stick with it.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

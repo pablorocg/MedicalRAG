@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001265" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a613036.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Unoprostone Ophthalmic</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,39 +7,42 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001265-1" qtype="indication">Who should get Unoprostone Ophthalmic and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Unoprostone ophthalmic is used to treat glaucoma (a condition in which increased pressure in the eye can lead to gradual loss of vision) and ocular hypertension (a condition which causes increased pressure in the eye). It is in a class of medications called prostaglandin analogs. Unoprostone lowers pressure in the eye by increasing the flow of natural eye fluids out of the eye.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001265-2" qtype="usage">How should Unoprostone Ophthalmic be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Unoprostone comes as a solution (liquid) to instill in the eye. The solution is instilled in the affected eye(s) twice a day. Use unoprostone at around the same times every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Use unoprostone exactly as directed. Do not use more or less of it or use it more often than prescribed by your doctor. Unoprostone controls glaucoma and ocular hypertension but does not cure them. Continue to use unoprostone even if you feel well. Do not stop using unoprostone without talking to your doctor. Unoprostone ophthalmic is for use only in the eye(s). Do not swallow unoprostone solution. To instill the eye drops, follow these steps:
+ Wash your hands thoroughly with soap and water., Check the dropper tip to make sure that it is not chipped or cracked., Avoid touching the dropper tip against your eye or anything else; eyedrops and droppers must be kept clean., While tilting your head back, pull down the lower lid of your eye with your index finger to form a pocket., Hold the dropper (tip down) with the other hand, as close to the eye as possible without touching it., Brace the remaining fingers of that hand against your face., While looking up, gently squeeze the dropper so that a single drop falls into the pocket made by the lower eyelid. Remove your index finger from the lower eyelid., Close your eye for 2 to 3 minutes and tip your head down as though looking at the floor. Try not to blink or squeeze your eyelids., Place a finger on the tear duct and apply gentle pressure., Wipe any excess liquid from your face with a tissue., Replace and tighten the cap on the dropper bottle. Do not wipe or rinse the dropper tip., Wash your hands to remove any medication., </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001265-4" qtype="precautions">Are there safety concerns or special precautions about Unoprostone Ophthalmic ?</Question>
-			<Answer></Answer>
+			<Answer>Before taking unoprostone, tell your doctor and pharmacist if you are allergic to unoprostone, any other medications, or any of the ingredients in unoprostone solution. Ask your pharmacist for a list of the ingredients., If unoprostone is used with other topical eye medications, allow at least 5 minutes between each medication., tell your doctor and pharmacist what prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take. Be sure to mention any other eye medications., tell your doctor if you have inflammation (swelling) of the eye, a torn or missing lens, or other eye conditions, and if you have or have ever had any other medical problems., tell your doctor if you are pregnant, plan to become pregnant, or are breast-feeding. If you become pregnant while using unoprostone, call your doctor., Tell your doctor if you wear soft contact lenses. Wait at least 15 minutes after using the medicine to put in soft contact lenses., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001265-5" qtype="dietary">What special dietary instructions should I follow with Unoprostone Ophthalmic ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001265-6" qtype="forget a dose">What should I do if I forget a dose of Unoprostone Ophthalmic ?</Question>
-			<Answer></Answer>
+			<Answer>Instill the missed dose as soon as you remember it. However, if it is almost time for the next dose, skip the missed dose and continue your regular dosing schedule. Do not instill a double dose to make up for a missed one.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001265-7" qtype="side effects">What are the side effects or risks of Unoprostone Ophthalmic ?</Question>
-			<Answer></Answer>
+			<Answer>Unoprostone may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ burning, stinging, or itching of the eye, dry eyes,  Some side effects can be serious. If you experience any of these symptoms, call your doctor immediately:
+ redness, swelling, discharge, or pain of the eye or eyelid, changes in color vision, blurred vision, or other changes in vision,  Unoprostone may change your eye color to brown or a deeper shade of brown. This color change usually occurs slowly, but it may be permanent. Unoprostone also may cause darkening of the color of the eyelid and skin around your eyes, an increase in the length, thickness, color, or number of your eyelashes, or fine hair on your eyelids. The eyelash changes and any darkening of the skin around your eyes usually go away when you stop using unoprostone. Unoprostone may cause other side effects. Call your doctor if you have any unusual problems while taking this medication.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001265-8" qtype="storage and disposal">What should I know about storage and disposal of Unoprostone Ophthalmic ?</Question>
-			<Answer></Answer>
+			<Answer>Keep this medication in the container it came in, tightly closed, and out of reach of children. Store it at room temperature and away from excess heat and moisture (not in the bathroom). Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program. It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001265-9" qtype="other information">What other information should I know about Unoprostone Ophthalmic ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor. Do not let anyone else use your medication. Ask your pharmacist any questions you have about refilling your prescription. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0001265-10" qtype="brand names">What are the brand names of Unoprostone Ophthalmic ?</Question>
-			<Answer></Answer>
+			<Answer>Rescula &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

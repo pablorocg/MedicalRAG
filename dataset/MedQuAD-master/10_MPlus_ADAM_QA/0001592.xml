@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001592" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003899.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Fine needle aspiration of the thyroid</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001592-1" qtype="information">Do you have information about Fine needle aspiration of the thyroid</Question>
-			<Answer></Answer>
+			<Answer>Fine needle aspiration of the thyroid gland is a procedure to remove thyroid cells for examination. The thyroid gland is a butterfly-shaped gland located inside the front of the lower neck.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001554" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000223.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Febrile seizures - what to ask your doctor</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001554-1" qtype="information">What is (are) Febrile seizures - what to ask your doctor ?</Question>
-			<Answer></Answer>
+			<Answer>Your child has had a  febrile seizure . A simple febrile seizure stops by itself within a few seconds to a few minutes. It is most often followed by a brief period of drowsiness or confusion. The first febrile seizure is a frightening moment for parents. Below are some questions you may want to ask your health care provider to help you take care of your child's febrile seizures.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

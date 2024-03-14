@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001396" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003338.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Endoscopy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001396-1" qtype="information">Do you have information about Endoscopy</Question>
-			<Answer></Answer>
+			<Answer>Endoscopy is a way of looking inside the body using a flexible tube that has a small camera and light on the end of it. This instrument is called an endoscope. Small instruments can be inserted through an endoscope and used to: Look more closely at an area inside the body, Take samples of abnormal tissues (biopsy), Treat certain diseases, Remove tumors, Stop bleeding, Remove foreign bodies (such as food stuck in the esophagus, the tube that connects your throat to your stomach) , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

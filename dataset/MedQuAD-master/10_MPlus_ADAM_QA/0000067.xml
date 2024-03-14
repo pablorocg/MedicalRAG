@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000067" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003695.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>ACTH blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000067-1" qtype="information">Do you have information about ACTH blood test</Question>
-			<Answer></Answer>
+			<Answer>The ACTH test measures the level of adrenocorticotropic hormone (ACTH) in the blood. ACTH is a hormone released from the pituitary gland at the base of the brain.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001618" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002408.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Folic acid in diet</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001618-1" qtype="information">Do you have information about Folic acid in diet</Question>
-			<Answer></Answer>
+			<Answer>Folic acid and folate are both terms for a type of B vitamin (vitamin B9). Folate is a B vitamin that occurs naturally in foods such as green leafy vegetables, citrus fruit, and beans. Folic acid is man-made (synthetic) folate. It is found in supplements and added to fortified foods. The terms folic acid and folate are often used interchangeably. Folic acid is water-soluble. Leftover amounts of the vitamin leave the body through the urine. That means your body does not store folic acid. You need to get a regular supply of the vitamin through the foods you eat or through supplements.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

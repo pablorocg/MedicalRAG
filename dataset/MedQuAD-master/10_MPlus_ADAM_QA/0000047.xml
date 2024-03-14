@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000047" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007643.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Achilles tendon repair</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000047-1" qtype="information">Do you have information about Achilles tendon repair</Question>
-			<Answer></Answer>
+			<Answer>Your Achilles tendon joins your calf muscle to your heel. You can tear your Achilles tendon if you land hard on your heel during sports, from a jump, accelerating when you are pushing off, or when stepping into a hole. Surgery to repair the Achilles tendon is done if your Achilles tendon has a complete tear.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

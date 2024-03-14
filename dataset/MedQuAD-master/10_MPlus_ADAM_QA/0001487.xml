@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001487" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000037.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Exercising and asthma at school</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001487-1" qtype="information">What is (are) Exercising and asthma at school ?</Question>
-			<Answer></Answer>
+			<Answer>Sometimes exercise triggers  asthma  symptoms. This is called exercise-induced asthma (EIA). The symptoms of EIA are coughing, wheezing, a feeling of tightness in your chest, or shortness of breath. Most times, these symptoms start soon after you stop exercising. Some people may have symptoms after they start exercising.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

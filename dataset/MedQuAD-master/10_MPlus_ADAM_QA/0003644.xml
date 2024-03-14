@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003644" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000437.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Smoking and surgery</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003644-1" qtype="information">What is (are) Smoking and surgery ?</Question>
-			<Answer></Answer>
+			<Answer>Quitting smoking and other nicotine products, including e-cigarettes, before surgery can improve your recovery and outcome after surgery. Most people who successfully quit smoking have tried and failed many times. Don't give up. Learning from your past tries can help you succeed.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

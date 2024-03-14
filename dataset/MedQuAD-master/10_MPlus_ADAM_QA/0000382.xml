@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000382" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000541.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Baby supplies you need</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000382-1" qtype="information">Do you have information about Baby supplies you need</Question>
-			<Answer></Answer>
+			<Answer>As you prepare for your baby to come home, you will want to have many items ready. If you are having a baby shower, you can put some of these items on your gift registry. You can buy other items on your own before your baby is born. The more you plan ahead, the more relaxed and ready you will be when your baby arrives. Below is a list of items you will need.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

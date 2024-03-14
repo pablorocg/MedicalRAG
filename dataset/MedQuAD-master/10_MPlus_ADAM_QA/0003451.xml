@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003451" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000061.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Safe eating during cancer treatment</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003451-1" qtype="information">Do you have information about Safe eating during cancer treatment</Question>
-			<Answer></Answer>
+			<Answer>When you have cancer, you need good nutrition to help keep your body strong. To do this, you need to be aware of the foods you eat and how you prepare them. Use the information below to help you eat safely during your cancer treatment.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003987" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000653.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Toxic shock syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003987-1" qtype="information">What is (are) Toxic shock syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Toxic shock syndrome is a serious disease that involves fever,  shock , and problems with several body organs.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003987-2" qtype="causes">What causes Toxic shock syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Toxic shock syndrome is caused by a toxin produced by some types of staphylococcus bacteria. A similar problem, called toxic shock-like syndrome (TSLS), can be caused by toxin from streptococcal bacteria. Very few staph or strep infections cause toxic shock syndrome. The earliest cases of toxic shock syndrome involved women who used tampons during their menstrual periods. However, today less than one half of cases are linked to tampon use. Toxic shock syndrome can also occur with skin infections, burns, and after surgery. The condition can also affect children, postmenopausal women, and men. Risk factors include: Recent childbirth, Infection with  Staphylococcus aureus  ( S aureus ), commonly called a staph infection, Foreign bodies or packings (such as those used to stop nosebleeds) inside the body, Menstrual period, Recent surgery, Tampon use (with higher risk if you leave one in for a long time), Wound infection after surgery , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003987-3" qtype="symptoms">What are the symptoms of Toxic shock syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Confusion, Diarrhea, General ill feeling, Headaches, High fever, sometimes accompanied by chills, Low blood pressure, Muscle aches, Nausea and vomiting, Organ failure (most often&#160; kidneys  and liver), Redness of eyes, mouth, throat, Seizures, Widespread red rash that looks like a sunburn -- skin peeling occurs 1 or 2 weeks after the rash, particularly on the palms of the hand or bottom of the feet , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003987-4" qtype="exams and tests">How to diagnose Toxic shock syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>No single test can diagnose toxic shock syndrome. The health care provider will look for the following factors: Fever, Low blood pressure, Rash that peels after 1 to 2 weeks, Problems with the function of at least 3 organs ,  In some cases, blood cultures may be positive for growth of  S aureus  or  Streptococcus pyogenes .</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003987-5" qtype="treatment">What are the treatments for Toxic shock syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment includes: Removal of materials, such as tampons, vaginal sponges, or nasal packing, Drainage of infection sites (such as a surgical wound) ,  The goal of treatment is to maintain important body functions. This may include: Antibiotics for any infection (may be given through an IV), Dialysis (if severe kidney problems are present), Fluids through a vein (IV), Medicines to control blood pressure, Intravenous gamma globulin in severe cases, Staying in the hospital intensive care unit (ICU) for monitoring , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003987-6" qtype="outlook">What is the outlook for Toxic shock syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Toxic shock syndrome may be deadly in up to 50% of cases. The condition may return in those who survive.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003987-7" qtype="complications">What are the complications of Toxic shock syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Organ damage including kidney,  heart , and liver failure, Shock, Death , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003987-8" qtype="when to contact a medical professional">Do I need to see a doctor for Toxic shock syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Toxic shock syndrome is a medical emergency. Seek medical help right away if you develop a rash, fever, and feel ill, particularly during menstruation and tampon use or if you have had recent surgery.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003987-9" qtype="prevention">How to prevent Toxic shock syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>You can lower your risk for menstrual toxic shock syndrome by: Avoiding highly absorbent tampons, Changing tampons frequently (at least every 8 hours), Only using tampons once&#160;in awhile during menstruation , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

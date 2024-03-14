@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003087" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000481.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pin care</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,11 +21,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003087-1" qtype="information">What is (are) Pin care ?</Question>
-			<Answer></Answer>
+			<Answer>Broken bones can be fixed in surgery with metal pins, screws, nails, rods, or plates. These metal pieces hold the bones in place while they heal. Sometimes, the metal pins need to stick out of your skin to hold the broken bone in place. The metal and the skin around the pin must stay clean to prevent infection.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003087-3" qtype="symptoms">What are the symptoms of Pin care ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

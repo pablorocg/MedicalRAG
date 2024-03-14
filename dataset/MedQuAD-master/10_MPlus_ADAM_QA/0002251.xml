@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002251" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000210.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Jaundice</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -26,27 +25,29 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002251-1" qtype="information">What is (are) Jaundice ?</Question>
-			<Answer></Answer>
+			<Answer>Jaundice is a yellow color of the skin, mucus membranes, or eyes. The yellow coloring comes from bilirubin, a byproduct of old red blood cells. Jaundice can be a symptom of several health problems.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002251-2" qtype="causes">What causes Jaundice ?</Question>
-			<Answer></Answer>
+			<Answer>A small number of red blood cells in your body die each day, and are replaced by new ones. The liver removes the old blood cells. This creates bilirubin. The liver helps break down bilirubin so that it can be removed by the body through the stool. Jaundice can occur when too much bilirubin builds up in the body. Jaundice can occur if: Too many red blood cells are dying or breaking down and going to the liver., The liver is overloaded or damaged., The bilirubin from the liver is unable to move normally into the digestive tract. ,  Jaundice is often a sign of a problem with the liver, gallbladder, or pancreas. Things that can  cause jaundice  include: Infections, most commonly viral, Use of certain drugs, Cancer of the liver, bile ducts or pancreas, Blood disorders, gallstones, birth defects and a number of other medical conditions , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002251-3" qtype="symptoms">What are the symptoms of Jaundice ?</Question>
-			<Answer></Answer>
+			<Answer>Jaundice may appear suddenly or develop slowly over time. Symptoms of jaundice commonly include: Yellow skin and the white part of the eyes (sclera) -- when jaundice is more severe, these areas may look brown, Yellow color inside the mouth, Dark or brown-colored urine, Pale or clay-colored stools, Itching (pruritis) usually occurs with jaundice ,  Note: If your skin is yellow and the whites of your eyes are not yellow, you may not have jaundice. Your skin can turn a yellow-to-orange color if you eat a lot of beta carotene, the orange pigment in carrots. Other symptoms depend on the disorder causing the jaundice: Cancers may produce no symptoms, or there may be fatigue, weight loss, or other symptoms., Hepatitis may produce nausea, vomiting, fatigue, or other symptoms. , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002251-4" qtype="exams and tests">How to diagnose Jaundice ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam. This may show liver swelling. A  bilirubin blood test  will be done. Other tests may include: Hepatitis virus panel  to look for infection of the liver,  Liver function tests  to determine how well the liver is working,  Complete blood count  to check for low blood count or anemia,  Abdominal ultrasound ,  Abdominal CT scan , Magnetic resonance cholangiopancreatography (MRCP), 
+   Endoscopic retrograde cholangiopancreatography ( ERCP )
+   , Percutaneous transhepatic cholangiogram ( PTCA ),  Liver biopsy , Cholesterol level,  Prothrombin time , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002251-5" qtype="treatment">What are the treatments for Jaundice ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment depends on the cause of the jaundice.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002251-6" qtype="when to contact a medical professional">Do I need to see a doctor for Jaundice ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop jaundice.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004136" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003751.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Urine culture</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004136-1" qtype="information">Do you have information about Urine culture</Question>
-			<Answer></Answer>
+			<Answer>A urine culture is a lab test to check for bacteria or other germs in a urine sample. It can be used to check for a urinary tract infection in  adults  and  children . </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

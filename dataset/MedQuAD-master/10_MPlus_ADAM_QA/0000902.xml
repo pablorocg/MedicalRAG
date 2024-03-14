@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000902" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000087.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Collapsed lung (pneumothorax)</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,39 +22,45 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000902-1" qtype="information">What is (are) Collapsed lung (pneumothorax) ?</Question>
-			<Answer></Answer>
+			<Answer>A collapsed lung occurs when air escapes from the lung. The air then fills the space outside of the lung between the lung and chest wall. This buildup of air puts pressure on the lung, so it cannot expand as much as it normally does when you take a breath. The medical name of this condition is pneumothorax.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000902-2" qtype="causes">What causes Collapsed lung (pneumothorax) ?</Question>
-			<Answer></Answer>
+			<Answer>Collapsed lung can be caused by an injury to the lung. Injuries can include a gunshot or knife wound to the chest, rib fracture, or certain medical procedures. In some cases, a collapsed lung is caused by air blisters of the lung (blebs) that break open, sending air into the space around the lung. This can result from air pressure changes such as when scuba diving or traveling to a high altitude. Tall, thin people and smokers are more at risk for a collapsed lung. Lung diseases can also increase the chance of getting a collapsed lung. These include: Asthma ,  Chronic obstructive pulmonary disease (COPD) ,  Cystic fibrosis ,  Tuberculosis ,  Whooping cough ,  In some cases, a collapsed lung occurs without any cause. This is called a spontaneous collapsed lung or spontaneous pneumothorax.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000902-3" qtype="symptoms">What are the symptoms of Collapsed lung (pneumothorax) ?</Question>
-			<Answer></Answer>
+			<Answer>Common symptoms of a collapsed lung include: Sharp chest or shoulder pain, made worse by a deep breath or a cough,  Shortness of breath ,  Nasal flaring  (from shortness of breath),  A larger pneumothorax causes more severe symptoms, including: Bluish color  of the skin due to lack of oxygen, Chest tightness, Lightheadedness and near fainting,  Easy fatigue , Abnormal breathing patterns or increased effort of breathing,  Rapid heart rate ,  Shock  and collapse, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000902-4" qtype="exams and tests">How to diagnose Collapsed lung (pneumothorax) ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will listen to your breathing with a stethoscope. If you have a collapsed lung, there are decreased breath sounds or no breath sounds on the affected side. You may also have low blood pressure. Tests that may be ordered include: Chest x-ray ,  Arterial blood gases &#160;and other blood tests,  CT scan  if other injuries or conditions are suspected,  Electrocardiogram  (ECG), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000902-5" qtype="treatment">What are the treatments for Collapsed lung (pneumothorax) ?</Question>
-			<Answer></Answer>
+			<Answer>A small pneumothorax may go away on its own over time. You may only need oxygen treatment and rest.  The provider may use a needle to allow the air to escape from around the lung so it can expand more fully. You may be allowed to go home if you live near the hospital. If you have a large pneumothorax, a  chest tube  will be placed between the ribs into the space around the lungs to help drain the air and allow the lung to re-expand. The chest tube may be left in place for several days and you may need to stay in the hospital. If a small chest tube or flutter valve is used, you may be able to go home. You will need to return to the hospital to have the tube or valve removed. Some people with a collapsed lung need extra oxygen. Lung surgery  may be needed to treat&#160;collapsed lung or to prevent future episodes. The area where the leak occurred may be repaired. Sometimes, a special chemical is placed into the area of the collapsed lung. This chemical causes a scar to form. This procedure is called pleurodesis.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000902-6" qtype="outlook">What is the outlook for Collapsed lung (pneumothorax) ?</Question>
-			<Answer></Answer>
+			<Answer>If you have a spontaneous collapsed lung, you are more likely to have another one in the future if you: 
+   Are tall and thin
+   , 
+   Continue to smoke
+   , 
+   Have had two collapsed lung episodes in the past
+   ,  How well you do after having a collapsed lung depends on what caused it.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000902-7" qtype="complications">What are the complications of Collapsed lung (pneumothorax) ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include any of the following: Another collapsed lung in the future,  Shock ,&#160;if there are serious injuries or infection, severe inflammation, or fluid in the lung develops, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000902-8" qtype="when to contact a medical professional">Do I need to see a doctor for Collapsed lung (pneumothorax) ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have symptoms of a collapsed lung, especially if you have had one before.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000902-9" qtype="prevention">How to prevent Collapsed lung (pneumothorax) ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known way to prevent a collapsed lung. Following standard procedure can reduce the risk of a pneumothorax when scuba diving.&#160;You can decrease your risk by not smoking.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002424" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000075.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Living with your ileostomy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -16,7 +15,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002424-1" qtype="information">Do you have information about Living with your ileostomy</Question>
-			<Answer></Answer>
+			<Answer>You had an injury or disease in your digestive system and needed surgery called an ileostomy. The surgery changed the way your body gets rid of waste (feces). Now you have an opening called a stoma in your belly. Waste will pass through the stoma into a pouch that collects it. You will have many new sensations in your body from the physical changes the operation has caused. Over time you will need to learn how to deal with these feelings.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003121" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003862.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pleural needle biopsy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003121-1" qtype="information">Do you have information about Pleural needle biopsy</Question>
-			<Answer></Answer>
+			<Answer>Pleural biopsy is a procedure to remove a sample of the pleura. This is the thin tissue that lines the chest cavity and surrounds the lungs. The biopsy is done to check the pleura for disease or infection.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

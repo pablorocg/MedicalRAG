@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002060" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002498.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hydrochloric acid poisoning</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,23 +16,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002060-1" qtype="information">What is (are) Hydrochloric acid poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Hydrochloric acid is a clear, poisonous liquid. It is a caustic chemical and highly corrosive, which means it immediately causes severe damage to tissues, such as burning, on contact. This article discusses poisoning from swallowing or breathing in hydrochloric acid. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002060-4" qtype="symptoms">What are the symptoms of Hydrochloric acid poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms from swallowing hydrochloric acid may include: Mouth and throat burn, causing severe pain, Drooling, Breathing difficulty due to swelling of throat, Severe abdominal pain, Bloody vomiting, Severe chest pain, Fever, Rapid drop in blood pressure (shock),  Symptoms from breathing in hydrochloric acid: Bluish color to lips and fingernails , Chest tightness, Choking,  Coughing up blood ,  Dizziness , Low blood pressure,  Rapid pulse ,  Shortness of breath , Weakness ,  If the poison touches your skin or eyes, you may have: Blisters, Burns, Pain, Vision loss , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002060-5" qtype="considerations">What to do for Hydrochloric acid poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002060-8" qtype="outlook">What is the outlook for Hydrochloric acid poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>How well a person does depends on the amount of poison swallowed and how quickly treatment was received. The faster a person gets medical help, the better the chance for recovery. The person may need to stay in the hospital for more treatment. Swallowing poison can have severe effects on many parts of the body. Extensive damage to the mouth, throat, and stomach are possible. Holes (perforations) in the esophagus and stomach may result in serious infections in the chest and abdominal cavities, which may result in death. Surgery may be needed to repair the perforations. Cancer of the esophagus is a high risk in people who live after ingesting hydrochloric acid.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002060-9" qtype="outlook">What is the outlook for Hydrochloric acid poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>How well a person does depends on the amount of poison swallowed and how quickly treatment was received. The faster a person gets medical help, the better the chance for recovery. The person may need to stay in the hospital for more treatment. Swallowing poison can have severe effects on many parts of the body. Extensive damage to the mouth, throat, and stomach are possible. Holes (perforations) in the esophagus and stomach may result in serious infections in the chest and abdominal cavities, which may result in death. Surgery may be needed to repair the perforations. Cancer of the esophagus is a high risk in people who live after ingesting hydrochloric acid.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

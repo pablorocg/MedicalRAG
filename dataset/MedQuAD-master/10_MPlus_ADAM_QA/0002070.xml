@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002070" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002426.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hyperactivity and sugar</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002070-1" qtype="information">What is (are) Hyperactivity and sugar ?</Question>
-			<Answer></Answer>
+			<Answer>Hyperactivity means an increase in movement, often accompanied by impulsive actions, being easily distracted, and  shorter attention span . Some people believe that children are more likely to be  hyperactive  if they eat sugar, artificial sweeteners, or certain food colorings. Other experts disagree with this.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000664" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000827.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cancer treatment: dealing with pain</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,23 +16,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000664-1" qtype="information">What is (are) Cancer treatment: dealing with pain ?</Question>
-			<Answer></Answer>
+			<Answer>Cancer can sometimes cause pain. This pain can come from the cancer itself, or from the treatments for cancer.  Treating your pain should be part of your overall treatment for cancer. You have a right to receive treatment for cancer pain. There are many medicines and other treatments that can help. If you have any pain, be sure to talk with your health care provider about your options. </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000664-2" qtype="causes">What causes Cancer treatment: dealing with pain ?</Question>
-			<Answer></Answer>
+			<Answer>The pain from cancer can have a few different causes: The cancer.  When a tumor grows, it can press on nerves, bones, organs, or the spinal cord, causing pain.,  Medical tests.  Some medical tests, such as a  biopsy  or bone marrow test, can cause pain.,  Treatment.  Many types of cancer treatments can cause pain, including  chemotherapy ,  radiation , and surgery. ,  Everyone's pain is different. Your pain can range from mild to severe and may last for only a short time or continue for a long time. </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000664-5" qtype="information">What is (are) Cancer treatment: dealing with pain ?</Question>
-			<Answer></Answer>
+			<Answer>Cancer can sometimes cause pain. This pain can come from the cancer itself, or from the treatments for cancer.  Treating your pain should be part of your overall treatment for cancer. You have a right to receive treatment for cancer pain. There are many medicines and other treatments that can help. If you have any pain, be sure to talk with your health care provider about your options. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000664-6" qtype="information">What is (are) Cancer treatment: dealing with pain ?</Question>
-			<Answer></Answer>
+			<Answer>Cancer can sometimes cause pain. This pain can come from the cancer itself, or from the treatments for cancer.  Treating your pain should be part of your overall treatment for cancer. You have a right to receive treatment for cancer pain. There are many medicines and other treatments that can help. If you have any pain, be sure to talk with your health care provider about your options. </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000664-8" qtype="treatment">What are the treatments for Cancer treatment: dealing with pain ?</Question>
-			<Answer></Answer>
+			<Answer>In some cases, your provider may suggest another type of treatment for your cancer pain. Some options include: Transcutaneous electric nerve stimulation (TENS).  TENS is a mild electrical current that can help ease pain. You place it on the part of your body where you feel pain.,  Nerve block.  This is a special type of pain medicine injected around or into a nerve to ease pain.,  Radiofrequency ablation.  Radio waves heat up regions of nerve tissue to help ease pain.,  Radiation therapy.  This treatment can shrink a tumor that is causing pain.,  Chemotherapy.  These medicines can also shrink a tumor to reduce pain.,  Surgery.  Your provider may use surgery to remove a tumor that is causing pain. In some cases, a type of brain surgery can cut the nerves that carry pain messages to your brain.,  Complementary or alternative treatments.  You may also choose to try treatments such as acupuncture, chiropractic, meditation, or biofeedback to help treat your pain. In most cases, people use these methods in addition to medicines or other types of pain relief. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

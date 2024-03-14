@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003147" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000369.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Polycystic ovary syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,35 +22,36 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003147-1" qtype="information">What is (are) Polycystic ovary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Polycystic ovary syndrome (PCOS) is a condition in which a woman has increased levels of male hormones (androgens). Many problems occur as a result of this increase of hormones, including: Menstrual irregularities, Infertility, Skin problems, such as acne and increased hair growth, Increased number of small cysts in the ovaries, Insulin resistance, with an increased risk of developing diabetes , </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003147-2" qtype="causes">What causes Polycystic ovary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>PCOS is linked to changes in hormone levels that make it harder for the ovaries to release fully-grown (mature) eggs. The reasons for these changes are unclear. The hormones affected are: Estrogen and progesterone, the female hormones that help a woman's ovaries release eggs , Androgen, a male hormone that is found in small amounts in women,  Normally, one or more eggs are released during a woman's cycle. This is known as ovulation. In most cases, this release of eggs occurs about 2 weeks after the start of a menstrual period.  In many women with PCOS, mature eggs are not released. Instead, they stay in the ovaries with a small amount of fluid (cyst) around them. The affected ovary may be slightly enlarged. There can be many of these. However, not all women with the condition will have ovaries with this appearance. Women with PCOS have cycles where ovulation does not occur every month which may contribute to  infertility  The other symptoms of this disorder are due to the high levels of male hormones. Most of the time, PCOS is diagnosed in women in their 20s or 30s. However, it may also affect teenage girls. The symptoms often begin when a girl's periods start. Women with this disorder often have a mother or sister who has similar symptoms. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003147-3" qtype="symptoms">What are the symptoms of Polycystic ovary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of PCOS include changes in the menstrual cycle, such as:  Not getting a period after you have had one or more normal ones during puberty ( secondary amenorrhea ), Irregular periods that may come and go, and be very light to very heavy,  Other symptoms of PCOS include: Extra body hair that grows on the chest, belly, face, and around the nipples, Acne on the face, chest, or back, Skin changes, such as dark or thick skin markings and creases around the armpits, groin, neck, and breasts ,  The development of male characteristics is not typical of PCOS and may indicate another problem. The following changes may indicate another problem apart from PCOS: Thinning hair on the head at the temples, called male pattern baldness, Enlargement of the clitoris, Deepening of the voice, Decrease in breast size, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003147-4" qtype="exams and tests">How to diagnose Polycystic ovary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam. This will include a pelvic exam. The exam may show: Enlarged ovaries with many small cysts noted on ultrasound, Enlarged clitoris (very rare),  The following health conditions are common in women with PCOS: 
+ Insulin resistance and  diabetes , High blood pressure, High cholesterol, Weight gain and obesity ,  Your provider will check your weight and body mass index (BMI) and measure your belly size. Blood tests can be done to check hormone levels. These tests may include: Estrogen level,  FSH level ,  LH level , Male hormone ( testosterone ) level, Progesterone level,  Other blood tests that may be done include: Fasting glucose  (blood sugar) and other tests for glucose intolerance and insulin resistance, Lipid level,  Pregnancy test  (serum hCG),  Prolactin level ,  Thyroid function tests ,  Your provider may also perform or order an ultrasound of your pelvis to look at your ovaries.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003147-5" qtype="treatment">What are the treatments for Polycystic ovary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Weight gain and obesity are common in women with PCOS. Losing even a small amount of weight can help treat: Hormone changes, Conditions such as diabetes, high blood pressure, or high cholesterol,  Your provider may prescribe birth control pills to make your periods more regular. These pills may also help reduce abnormal hair growth and acne if you take them for several months. Long acting methods of contraception hormones, such as the Mirena IUD, may help to stop irregular periods and the abnormal growth of the uterine lining. A diabetes medicine called Glucophage (metformin) may also be prescribed to: Make your periods regular, Prevent type 2 diabetes, Help you lose weight,  Other medicines that may be prescribed to help make your periods regular and help you get pregnant are: LH-releasing hormone (LHRH) analogs, Clomiphene citrate or letrozole, which may allow your ovaries to release eggs and improve your chance of pregnancy,  These medicines work better if your body mass index (BMI) is 30 or less (below the obese range). Your provider may also suggest other treatments for abnormal hair growth. Some are: Spironolactone or flutamide pills, Eflornithine cream&#160;,  Effective methods of hair removal include electrolysis and laser hair removal. However, many treatments may be needed. Treatments are expensive and the results are often not permanent. A  pelvic laparoscopy  may be done to remove or alter an ovary to treat infertility. This improves the chances of releasing an egg. The effects are temporary.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003147-6" qtype="outlook">What is the outlook for Polycystic ovary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>With treatment, women with PCOS are very often able to get pregnant. During pregnancy, there is an increased risk of: Miscarriage, High blood pressure, Gestational diabetes, </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003147-7" qtype="complications">What are the complications of Polycystic ovary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Women with PCOS are more likely to develop: Endometrial cancer, Infertility, Diabetes, Obesity-related complications, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003147-8" qtype="when to contact a medical professional">Do I need to see a doctor for Polycystic ovary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have symptoms of this disorder.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

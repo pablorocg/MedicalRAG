@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000081" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000542.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Acute myeloid leukemia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -26,39 +25,56 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000081-1" qtype="information">What is (are) Acute myeloid leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>Acute myeloid leukemia (AML) is cancer that starts inside bone marrow. This is the soft tissue in the center of bones that helps form all blood cells. The cancer grows from cells that would normally turn into white blood cells. Acute means the disease grows quickly and usually has an aggressive course.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000081-2" qtype="causes">What causes Acute myeloid leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>AML is one of the most common types of  leukemia  among adults. AML is more common in men than women. The bone marrow helps the body fight infections and makes other blood components. People with AML have many abnormal immature white blood cells inside their bone marrow. The cells grow very quickly, and replace healthy blood cells. As a result, people with AML are more likely to have infections. They also have an increased risk of bleeding as the numbers of healthy blood cells decrease. Most of the time, a health care provider cannot tell you what caused AML. However, the following things can lead to some types of leukemia, including AML: 
+   Blood disorders, including  polycythemia vera ,  essential thrombocythemia , and myelodysplasia
+   , 
+   Certain chemicals (for example, benzene)
+   , 
+   Certain  chemotherapy  drugs, including etoposide and drugs known as alkylating agents
+   , 
+   Exposure to certain chemicals and harmful substances
+   , 
+   Radiation
+   , 
+   Weak immune system due to an organ transplant
+   ,  Problems with your genes may also cause development of AML.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000081-3" qtype="symptoms">What are the symptoms of Acute myeloid leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>AML does not have any specific symptoms. Symptoms seen are mainly due to the related conditions. Symptoms of AML may include any of the following: Bleeding from the nose ,  Bleeding  and  swelling  (rare) in the gums
+   , Bruising,  Bone pain or tenderness , 
+   Fever and fatigue
+   , Heavy menstrual periods, Pale skin,  Shortness of breath  (gets worse with exercise), 
+   Weight loss
+   , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000081-4" qtype="exams and tests">How to diagnose Acute myeloid leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>The provider will perform a physical exam. There may be signs of a swollen spleen, liver, or lymph nodes. Tests done include: A complete blood count ( CBC ) may show anemia and a low number of platelets. A white blood cell count ( WBC ) can be high, low, or normal.,  Bone marrow aspiration  and  biopsy  will show if there are any leukemia cells.,  If your provider learns you do have this type of leukemia, further tests will be done to determine the specific type of AML. Subtypes are based on specific changes in genes (mutations) and how the leukemia cells appear under the microscope.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000081-5" qtype="treatment">What are the treatments for Acute myeloid leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment involves using medicines ( chemotherapy ) to kill the cancer cells. Most types of AML are treated with more than one chemotherapy medicine. Drugs that are targeted to specific mutations in the leukemic cells are also often used. Chemotherapy kills normal cells, too. This may cause side effects such as: Increased  risk of bleeding , Increased risk for infection (your doctor may want you to keep away from other people to prevent infection), Weight loss ( you will need to eat extra calories ),  Mouth sores ,  Other supportive treatments for AML may include: Antibiotics to treat infection, Red blood cell transfusions to fight  anemia ,  Platelet  transfusions to control bleeding ,  A  bone marrow (stem cell) transplant  may be tried. This decision is decided by several factors, including:  Your age and overall health, Certain genetic changes in the leukemia cells, The availability of donors, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000081-6" qtype="support groups">Where to find support for people with Acute myeloid leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>You can ease the stress of illness by joining a cancer  support group . Sharing with others who have common experiences and problems can help you not feel alone.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000081-7" qtype="outlook">What is the outlook for Acute myeloid leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>When a bone marrow biopsy shows no evidence of AML, you are said to be in remission. How well you do depends on your overall health and the genetic subtype of the AML cells. Remission is not the same as a cure. More therapy is usually needed, either in the form of more chemotherapy or a bone marrow transplant. With treatment, younger people with AML tend to do better than those who develop the disease at an older age. The 5-year survival rate is much lower in older adults than in younger people. Experts say this is partly due to the fact that younger people are better able to tolerate strong chemotherapy medicines. Also, leukemia in older people tends to be more resistant to current treatments. If the cancer does not come back (relapse) within 5 years of the diagnosis, you are likely cured.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000081-8" qtype="when to contact a medical professional">Do I need to see a doctor for Acute myeloid leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>Call for an appointment with your provider if you: Develop symptoms of AML, Have AML and have a fever that will not go away or other signs of infection, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000081-9" qtype="prevention">How to prevent Acute myeloid leukemia ?</Question>
-			<Answer></Answer>
+			<Answer>If you work around radiation or chemicals linked to leukemia, always wear protective gear.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

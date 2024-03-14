@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002534" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000244.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Mastectomy - discharge</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -16,7 +15,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002534-1" qtype="information">Do you have information about Mastectomy - discharge</Question>
-			<Answer></Answer>
+			<Answer>You had a  mastectomy . This is surgery that removes the entire breast. The surgery was done to treat or prevent  breast cancer . Now that you're going home, be sure to follow the surgeon's instructions on how to care for yourself at home.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

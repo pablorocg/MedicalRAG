@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000314" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000725.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Arterial insufficiency</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,15 +16,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000314-1" qtype="information">What is (are) Arterial insufficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Arterial insufficiency is any condition that slows or stops the flow of blood through your arteries. Arteries are blood vessels that carry blood from the heart to other places in your body.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000314-2" qtype="causes">What causes Arterial insufficiency ?</Question>
-			<Answer></Answer>
+			<Answer>One of the most common causes of arterial insufficiency is  atherosclerosis  or "hardening of the arteries." Fatty material (called plaque) builds up on the walls of your arteries. This causes them to become narrow and stiff. As a result, it is hard for blood to flow through your arteries. Blood flow may be suddenly stopped due to a  blood clot . Clots can form on the plaque or less often travel from another place such as the heart or other artery (also called embolus).</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000314-3" qtype="symptoms">What are the symptoms of Arterial insufficiency ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms depend on where your arteries become narrowed: If it affects your heart arteries, you may have  chest pain  (angina pectoris) or a  heart attack ., If it affects your brain arteries, you may have a transient ischemic attack (TIA) or  stroke ., If it affects the arteries that bring blood to your legs, you may have frequent  leg cramping when you walk  called claudication., If it affects the arteries in your belly area, you may have  pain after you eat  called abdominal angina (due to mesenteric ischemia)., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

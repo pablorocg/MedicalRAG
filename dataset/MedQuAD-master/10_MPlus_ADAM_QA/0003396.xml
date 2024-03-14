@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003396" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003783.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Retrograde cystography</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003396-1" qtype="information">Do you have information about Retrograde cystography</Question>
-			<Answer></Answer>
+			<Answer>Retrograde cystography is a detailed  x-ray  of the bladder. Contrast dye is placed into the bladder through the urethra. The urethra is the tube that carries urine from the bladder to the outside of the body.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

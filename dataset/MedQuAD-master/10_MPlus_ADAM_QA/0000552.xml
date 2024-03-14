@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000552" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001490.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Breast infection</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,39 +22,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000552-1" qtype="information">What is (are) Breast infection ?</Question>
-			<Answer></Answer>
+			<Answer>A breast infection is an infection in the tissue of the breast.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000552-2" qtype="causes">What causes Breast infection ?</Question>
-			<Answer></Answer>
+			<Answer>Breast infections are usually caused by common bacteria ( Staphylococcus aureus ) found on normal skin. The bacteria enter through a break or crack in the skin, usually on the nipple. The infection takes place in the fatty tissue of the breast and causes  swelling . This swelling pushes on the milk ducts. The result is pain and lumps in the infected breast. Breast infections usually occur in women who are breastfeeding. Breast infections inflammation that are not related to breastfeeding might be due to a rare form of  breast cancer .</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000552-3" qtype="symptoms">What are the symptoms of Breast infection ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of a breast infection may include: Breast enlargement &#160;or fullness on one side only,  Breast lump ,  Breast pain ,  Fever  and flu-like symptoms, including nausea and vomiting,  Itching ,  Nipple discharge (may contain pus) ,  Swelling , tenderness, and warmth in breast tissue, Skin redness, most often in wedge shape, Tender or  enlarged lymph nodes  in armpit on the same side , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000552-4" qtype="exams and tests">How to diagnose Breast infection ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform physical exam to rule out complications such as a swollen, pus-filled lump (abscess). Sometimes an ultrasound is done to check for an abscess. For infections that keep returning, milk from the nipple may be cultured. In women who are not breastfeeding, tests done may include:  Breast biopsy ,  Breast MRI ,  Breast ultrasound ,  Mammogram , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000552-5" qtype="treatment">What are the treatments for Breast infection ?</Question>
-			<Answer></Answer>
+			<Answer>Self-care may include applying moist heat to the infected breast tissue for 15 to 20 minutes four times a day. You may also need to take pain relievers. Antibiotics are very effective in treating a breast infection. If you take antibiotics, you must continue to breastfeed or pump to relieve breast swelling from milk production. If there is an abscess that does not go away, needle aspiration under ultrasound guidance is done, along with antibiotics. If this method fails to cure the abscess, then incision and drainage is the treatment of choice.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000552-6" qtype="outlook">What is the outlook for Breast infection ?</Question>
-			<Answer></Answer>
+			<Answer>The condition usually clears quickly with antibiotic therapy. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000552-7" qtype="complications">What are the complications of Breast infection ?</Question>
-			<Answer></Answer>
+			<Answer>In severe infections, an  abscess  may develop. Abscesses need to be drained, either as an office procedure or with surgery. A wound dressing would be needed to help with healing after the procedure. Women with an abscess may be told to temporarily stop breastfeeding.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000552-8" qtype="when to contact a medical professional">Do I need to see a doctor for Breast infection ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: Any portion of your breast tissue becomes reddened, tender, swollen, or hot, You are breastfeeding and develop a high fever, The lymph nodes in your armpit become tender or swollen , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000552-9" qtype="prevention">How to prevent Breast infection ?</Question>
-			<Answer></Answer>
+			<Answer>The following may help reduce the risk of breast infections: Careful nipple care to prevent irritation and cracking, Feeding often and pumping milk to prevent the breast from getting swollen (engorged), Proper breastfeeding technique with good latching by the baby, Weaning slowly, over several weeks, rather than quickly stopping breastfeeding, Timely treatment of a breast infection before it progresses to a breast abscess, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

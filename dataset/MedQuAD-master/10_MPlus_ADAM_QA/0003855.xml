@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003855" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000685.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tardive dyskinesia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,23 +19,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003855-1" qtype="information">What is (are) Tardive dyskinesia ?</Question>
-			<Answer></Answer>
+			<Answer>Tardive dyskinesia (TD) is a disorder that involves involuntary movements. Tardive means delayed and dyskinesia means abnormal movement.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003855-2" qtype="causes">What causes Tardive dyskinesia ?</Question>
-			<Answer></Answer>
+			<Answer>TD is a serious side effect that occurs when you take medicines called neuroleptics. These drugs are also called antipsychotics or major tranquilizers. They are used to treat mental problems. TD often occurs when you take the drug for many months or years. In some cases, it occurs after you take them for as little as 6 weeks. Medicines that most commonly cause this disorder are older antipsychotics, including: Chlorpromazine, Fluphenazine, Haloperidol, Perphenazine, Prochlorperazine, Thioridazine, Trifluoperazine,  Newer antipsychotics seem less likely to cause TD, but they are not entirely without risk. Other drugs that can cause TD include: Metoclopramide (treats stomach problem called  gastroparesis ), Antidepressant medicines such as amitriptyline, fluoxetine, phenelzine, sertraline, trazodone, Anti-Parkinson medicines such as levodopa, Antiseizure medicines such as phenobarbital and phenytoin, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003855-3" qtype="symptoms">What are the symptoms of Tardive dyskinesia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of TD include uncontrollable movements of the face and body such as: Facial grimacing (commonly involving lower facial muscles), Finger movement (piano playing movements), Rocking or thrusting of the pelvis (duck-like gait), Jaw swinging, Repetitive chewing, Rapid eye blinking, Tongue thrusting, Restlessness, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003855-4" qtype="treatment">What are the treatments for Tardive dyskinesia ?</Question>
-			<Answer></Answer>
+			<Answer>When TD is diagnosed, the health care provider will either have you stop the medicine slowly or switch to another one. If TD is mild or moderate, various medicines may be tried. A dopamine-depleting medicine, tetrabenazine is most effective treatment for TD. Valbenazine is an alternative. Your provider can tell you more about these. If TD is very severe, a procedure called deep brain stimulation  DBS  may be tried. DBS uses a device called a neurostimulator to deliver electrical signals to the areas of the brain that control movement.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003855-5" qtype="outlook">What is the outlook for Tardive dyskinesia ?</Question>
-			<Answer></Answer>
+			<Answer>If diagnosed early, TD may be reversed by stopping the medicine that caused the symptoms. Even if the medicine is stopped, the involuntary movements may become permanent, and in some cases, may become worse.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

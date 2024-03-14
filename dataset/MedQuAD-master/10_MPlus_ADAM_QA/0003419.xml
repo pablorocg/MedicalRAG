@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003419" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002411.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Riboflavin</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003419-1" qtype="information">Do you have information about Riboflavin</Question>
-			<Answer></Answer>
+			<Answer>Riboflavin is a type of B vitamin. It is water soluble, which means it is not stored in the body. Water-soluble vitamins dissolve in water. Leftover amounts of the vitamin leave the body through the urine. The body keeps a small reserve of these vitamins. They have to be taken on a regular basis to maintain the reserve.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

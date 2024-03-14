@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003034" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000461.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Peripherally inserted central catheter - insertion</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003034-1" qtype="information">Do you have information about Peripherally inserted central catheter - insertion</Question>
-			<Answer></Answer>
+			<Answer>A peripherally inserted central catheter (PICC) is a long, thin tube that goes into your body through a vein in your upper arm. The end of this catheter goes into a large vein near your heart. Your health care provider has determined that you need a PICC. The information below tells you what to expect when the PICC is inserted.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

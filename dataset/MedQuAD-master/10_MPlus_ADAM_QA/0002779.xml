@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002779" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001225.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Neurodegeneration with brain iron accumulation (NBIA)</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,49 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002779-1" qtype="information">What is (are) Neurodegeneration with brain iron accumulation (NBIA) ?</Question>
-			<Answer></Answer>
+			<Answer>Neurodegeneration with brain iron accumulation (NBIA) are a group of very rare nervous system disorders. They are passed down through families (inherited). NBIA involves movement problems, dementia, and other nervous system symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002779-2" qtype="causes">What causes Neurodegeneration with brain iron accumulation (NBIA) ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of NBIA begin in childhood or adulthood. There are 10 types of NBIA. Each type is caused by a different gene defect. The most common gene defect causes the disorder called PKAN (pantothenate kinase-associated neurodegeneration). People with all forms of NBIA have a buildup of iron in the basal ganglia. This is an area deep inside the brain. It helps control movement.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002779-3" qtype="symptoms">What are the symptoms of Neurodegeneration with brain iron accumulation (NBIA) ?</Question>
-			<Answer></Answer>
+			<Answer>NBIA mainly causes movement problems. Other symptoms may include: Dementia , Difficulty speaking, Difficulty swallowing, Muscle problems such as rigidity or involuntary muscle contractions ( dystonia ),  Seizures ,  Tremor , Vision loss, such as from  retinitis pigmentosa , Weakness, Writhing movements, Toe walking, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002779-4" qtype="exams and tests">How to diagnose Neurodegeneration with brain iron accumulation (NBIA) ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam and ask about symptoms and medical history. Genetic tests can look for the defective gene that causes the disease. However, these tests aren't widely available. Tests such as an  MRI  scan can help rule out other movement disorders and diseases. The MRI usually shows iron deposits in the basal ganglia, and are called the "eye of the tiger" sign because of the way the deposits look in the scan. This sign suggests a diagnosis of PKAN.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002779-5" qtype="treatment">What are the treatments for Neurodegeneration with brain iron accumulation (NBIA) ?</Question>
-			<Answer></Answer>
+			<Answer>There is no specific treatment for NBIA. Medicines that bind iron may help slow the disease. Treatment is mainly focused on controlling the symptoms. The most commonly used medicines to control symptoms include baclofen and trihexyphenidyl.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002779-6" qtype="outlook">What is the outlook for Neurodegeneration with brain iron accumulation (NBIA) ?</Question>
-			<Answer></Answer>
+			<Answer>NBIA damages the nerves over time and symptoms get worse. It leads to a lack of movement, and often death by early adulthood.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002779-7" qtype="complications">What are the complications of Neurodegeneration with brain iron accumulation (NBIA) ?</Question>
-			<Answer></Answer>
+			<Answer>Medicine used to treat symptoms can cause complications. Being unable to move from the disease can lead to: Blood clots , 
+   Respiratory infections
+   , 
+   Skin breakdown
+   , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002779-8" qtype="when to contact a medical professional">Do I need to see a doctor for Neurodegeneration with brain iron accumulation (NBIA) ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if your child develops: 
+  Increased stiffness in the arms or legs
+  , 
+  Increasing problems at school
+  , 
+  Unusual movements
+  , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002779-9" qtype="prevention">How to prevent Neurodegeneration with brain iron accumulation (NBIA) ?</Question>
-			<Answer></Answer>
+			<Answer>Genetic counseling may be recommended for families affected by this illness. There is no known way to prevent it.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001994" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001082.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Histoplasmosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001994-1" qtype="information">What is (are) Histoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>Histoplasmosis is an infection that occurs from breathing in the spores of the fungus  Histoplasma capsulatum .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001994-2" qtype="causes">What causes Histoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>Histoplasmosis occurs throughout the world. In the United States, it is most common in the southeastern, mid-Atlantic, and central states, especially in the Mississippi and Ohio River valleys. Histoplasma fungus grows as a mold in the soil. You may get sick when you breathe in spores produced by the fungus. Soil that contains bird or bat droppings may have larger amounts of this fungus. The threat is greatest after an old building is torn down, or in caves. This infection can occur in people with a healthy immune system. But, having a weakened immune system increases the risk of getting or reactivating this disease. Very young or very old people, or those with  HIV/AIDS , cancer, or an organ transplant have more severe symptoms. People with&#160;long-term (chronic) lung disease (such as emphysema and  bronchiectasis ) are also at higher risk for a more severe infection.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001994-3" qtype="symptoms">What are the symptoms of Histoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>Most people have no symptoms, or only have a mild, flu-like illness. If symptoms do occur, they may include: Fever and  chills , 
+   Cough and  chest pain  that gets worse when breathing in, Joint pain,  Mouth sores , Red skin bumps, most often on the lower legs,  The infection may be active for a short period of time, and then the symptoms go away. Sometimes, the lung infection may become chronic. Symptoms include: Chest pain and shortness of breath, Cough, possibly coughing up blood, Fever and sweating,  In a small number of people, especially in those with a weakened immune system, histoplasmosis spreads throughout the body. This is called disseminated histoplasmosis. In response to the infection irritation and swelling (inflammation) occur. Symptoms may include: Chest pain from inflammation of the sac-like covering around the heart ( pericarditis ), Headache and neck stiffness from swelling of the membranes covering of the brain and spinal cord ( meningitis ), High fever, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001994-4" qtype="exams and tests">How to diagnose Histoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>Histoplasmosis is diagnosed by: Biopsy  of the lung, skin, liver, or bone marrow, 
+   Urine or  blood  tests to detect histoplasma proteins or antibodies, Cultures of the blood, urine, or sputum (this test provides the clearest diagnosis of histoplasmosis, but results can take 6 weeks),  To help diagnose this condition, your health care provider may do a: Bronchoscopy  (test that uses a viewing scope inserted into the lung airway to check for signs of infection),  Chest CT scan , Chest x-ray,  Spinal tap  to look for signs of infection in cerebrospinal fluid (CSF), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001994-5" qtype="treatment">What are the treatments for Histoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>In otherwise healthy people, this infection usually goes away without treatment. If you are sick for more than 1 month or are having trouble breathing, your provider may prescribe medicine. The main treatment for histoplasmosis is antifungal drugs. Antifungals may need to be given through a vein, depending on the form or stage of disease., Some of these medicines can have side effects., Long-term treatment with antifungal drugs may be needed for up to 1 to 2 years., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001994-6" qtype="outlook">What is the outlook for Histoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>The outlook depends on how severe the infection is, and your general health condition. Some people get better without treatment. An active infection will usually go away with antifungal medicine. But, the infection may leave scarring inside the lung. The death rate is higher for people with untreated disseminated histoplasmosis who have a weakened immune system.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001994-7" qtype="complications">What are the complications of Histoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>Scarring in the chest cavity may put pressure on the:  Major blood vessels carrying blood to and from the heart, Heart, Esophagus (food pipe), Lymph nodes ,  Enlarged lymph nodes in the chest may press on body parts such as the esophagus and blood vessels of the lungs.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001994-8" qtype="when to contact a medical professional">Do I need to see a doctor for Histoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you live in an area where histoplasmosis is common and you develop: Flu-like symptoms, Chest pain, Cough, Shortness of breath,  While there are many other illnesses that have similar symptoms, you may need to be tested for histoplasmosis.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001994-9" qtype="prevention">How to prevent Histoplasmosis ?</Question>
-			<Answer></Answer>
+			<Answer>Histoplasmosis may be prevented by reducing exposure to dust in chicken coops, bat caves, and other high-risk locations. Wear masks and other protective equipment if you work in or go into these environments.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

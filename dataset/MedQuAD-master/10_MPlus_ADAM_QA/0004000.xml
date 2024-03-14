@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004000" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000464.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tracheostomy tube - eating</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004000-1" qtype="information">Do you have information about Tracheostomy tube - eating</Question>
-			<Answer></Answer>
+			<Answer>Most people with a tracheostomy tube will be able to eat normally. However, it may feel different when you swallow foods or liquids.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

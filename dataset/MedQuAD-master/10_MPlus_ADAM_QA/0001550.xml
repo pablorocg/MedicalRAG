@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001550" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000105.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Fast food tips</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001550-1" qtype="information">Do you have information about Fast food tips</Question>
-			<Answer></Answer>
+			<Answer>Many fast foods are high in calories, fat, salt, and sugar. Use these tips to guide you in making healthier choices when eating in a fast food restaurant.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

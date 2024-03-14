@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001816" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001201.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hartnup disorder</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001816-1" qtype="information">What is (are) Hartnup disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Hartnup disorder is&#160;a genetic condition in which there is a defect in the transport of certain  amino acids  (such as  tryptophan  and histidine) by the small intestine and kidneys.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001816-2" qtype="causes">What causes Hartnup disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Hartnup disorder is a metabolic condition involving amino acids. It is an inherited condition. This condition occurs due to mutation in the  SLC6A19  gene. A child must inherit a copy of the defective gene from both parents in order to be seriously affected. The condition most often appears between ages 3 to 9 years.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001816-3" qtype="symptoms">What are the symptoms of Hartnup disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Most people show no symptoms. If symptoms do occur, they most often appear in childhood and may include: Diarrhea, Mood changes, Nervous system (neurologic) problems, such as abnormal muscle tone and uncoordinated movements, Red, scaly  skin rash , usually when skin is exposed to sunlight, Sensitivity to light (photosensitivity),  Short stature , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001816-4" qtype="exams and tests">How to diagnose Hartnup disorder ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will order a urine test to check for high levels of neutral amino acids. The levels of other amino acids may be normal. Your provider can test for the gene that causes this condition. Biochemical tests may also be ordered.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001816-5" qtype="treatment">What are the treatments for Hartnup disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Treatments include: Avoiding sun exposure by wearing protective clothing and using a sunscreen with a protection factor of&#160;15 or higher, Eating a high-protein diet, Taking supplements containing nicotinamide, Undergoing mental health treatment, such as taking antidepressants or mood stabilizers, if mood swings or other mental health problems occur , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001816-6" qtype="outlook">What is the outlook for Hartnup disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Most people with this disorder can expect to live a normal life with no disability. Rarely, there have been reports of severe nervous system disease and even deaths in families with this disorder.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001816-7" qtype="complications">What are the complications of Hartnup disorder ?</Question>
-			<Answer></Answer>
+			<Answer>In most cases, there are no complications. Complications when they occur may include: Changes in skin color that are permanent ,  Mental health problems ,  Rash ,  Uncoordinated movements ,  Nervous system symptoms can most often be reversed. However, in rare cases they can be severe or life threatening.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001816-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hartnup disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have symptoms of this condition, especially if you have a family history of Hartnup disorder. Genetic counseling is recommended if you have a family history of this condition and are planning a pregnancy.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001816-9" qtype="prevention">How to prevent Hartnup disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Genetic counseling prior to marriage and conception may help prevent some cases. Eating a high-protein diet may prevent amino acid deficiencies that cause symptoms.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

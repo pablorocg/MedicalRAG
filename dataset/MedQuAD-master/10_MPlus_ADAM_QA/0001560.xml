@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001560" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003755.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Fecal smear</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001560-1" qtype="information">Do you have information about Fecal smear</Question>
-			<Answer></Answer>
+			<Answer>Fecal smear is a laboratory test of a stool sample. This test is done to check for bacteria and parasites. Presence of organisms in stool shows diseases in the digestive tract.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

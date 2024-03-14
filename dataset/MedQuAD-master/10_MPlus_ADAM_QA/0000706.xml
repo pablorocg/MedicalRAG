@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000706" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001001.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cataract - adult</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000706-1" qtype="information">What is (are) Cataract - adult ?</Question>
-			<Answer></Answer>
+			<Answer>A cataract is a clouding of the lens of the eye.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000706-2" qtype="causes">What causes Cataract - adult ?</Question>
-			<Answer></Answer>
+			<Answer>The lens of the eye is normally clear. It acts like the lens on a camera, focusing light as it passes to the back of the eye. Until a person is around age 45, the shape of the lens is able to change. This allows the lens to focus on an object, whether it is close or far away. As a person ages, proteins in the lens begin to break down. This makes the lens less flexible so that it is harder to focus on near objects. Over time, the lens becomes cloudy. What the eye sees may appear blurry at all distances. This condition is known as a cataract. Factors that may speed cataract formation are: Diabetes , Eye inflammation, Eye injury, Family history of cataracts, Long-term use of corticosteroids (taken by mouth) or certain other medicines, Radiation exposure, Smoking, Surgery for another eye problem, Too much exposure to ultraviolet light (sunlight) , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000706-3" qtype="symptoms">What are the symptoms of Cataract - adult ?</Question>
-			<Answer></Answer>
+			<Answer>Watch this video about: Cataract Cataracts develop slowly and painlessly. Vision in the affected eye slowly gets worse. Mild clouding of the lens often occurs after age 60. But it may not cause any vision problems., By age 75, most people have cataracts that affect their vision. ,  Problems with seeing may include: Being sensitive to glare, Cloudy, fuzzy, foggy, or filmy vision, Difficulty seeing at night or in dim light, Double vision, Loss of color intensity, Problems seeing shapes against a background or the difference between shades of colors, Seeing halos around lights, Frequent changes in eyeglass prescriptions ,  Cataracts lead to decreased vision, even in daylight. Most people with cataracts have similar changes in both eyes, though one eye may be worse than the other. Often there are only mild vision changes.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000706-4" qtype="exams and tests">How to diagnose Cataract - adult ?</Question>
-			<Answer></Answer>
+			<Answer>A  standard eye exam  and  slit-lamp examination  are used to diagnose cataracts. Other tests are rarely needed, except to check for other causes of poor vision.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000706-5" qtype="treatment">What are the treatments for Cataract - adult ?</Question>
-			<Answer></Answer>
+			<Answer>For an early cataract, the eye doctor (ophthalmologist) may recommend the following: Change in eyeglass prescription, Better lighting, Magnifying lenses, Sunglasses,  As vision gets worse, you may need to make changes around the home to avoid falls and injuries. The only treatment for a cataract is  surgery  to remove it. If a cataract is not making it hard for you to see, surgery is usually not needed. Cataracts usually do not harm the eye, so you can have surgery when you and your eye doctor decide it is right for you. Surgery is usually recommended when you can't do normal activities such as driving, reading, or looking at computer or video screens, even with glasses. Some research found that having cataract surgery is associated with a lower risk of dementia but more research is needed to determine if this association was cause and effect. Some people may have other eye problems, such as  diabetic retinopathy , that can't be treated without first having cataract surgery.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000706-6" qtype="outlook">What is the outlook for Cataract - adult ?</Question>
-			<Answer></Answer>
+			<Answer>Vision may not improve to 20/20 after cataract surgery if other eye diseases, such as  macular degeneration , are present. The eye doctor can often determine this in advance.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000706-7" qtype="complications">What are the complications of Cataract - adult ?</Question>
-			<Answer></Answer>
+			<Answer>Early diagnosis and properly timed treatment are key to preventing permanent vision problems. Although rare, a cataract that goes on to an advanced stage (called a hypermature cataract) can begin to leak into other parts of the eye. This may cause a painful form of  glaucoma  and inflammation inside the eye.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000706-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cataract - adult ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your eye care professional for an appointment if you have: 
+   Decreased night vision, Problems with glare, Vision loss, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000706-9" qtype="prevention">How to prevent Cataract - adult ?</Question>
-			<Answer></Answer>
+			<Answer>The best prevention involves controlling diseases that increase the risk for a cataract. Avoiding exposure to things that promote cataract formation can also help. For example, if you smoke, now is the time to  quit . Also, when outdoors, wear sunglasses to protect your eyes from harmful UV rays.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

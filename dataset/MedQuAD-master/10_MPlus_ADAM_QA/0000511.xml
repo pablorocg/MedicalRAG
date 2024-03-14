@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000511" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003009.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bone marrow transplant</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000511-1" qtype="information">Do you have information about Bone marrow transplant</Question>
-			<Answer></Answer>
+			<Answer>A bone marrow transplant is a procedure to replace damaged or diseased bone marrow with healthy bone marrow stem cells. Bone marrow is the soft, fatty tissue inside your breastbone (sternum) and pelvic bones. The bone marrow produces blood cells. Stem cells in the bone marrow give rise to all of your different blood cells.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001886" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002954.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Heart valve surgery</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001886-1" qtype="information">Do you have information about Heart valve surgery</Question>
-			<Answer></Answer>
+			<Answer>Heart valve surgery is used to repair or replace diseased heart valves. Blood that flows between different chambers of your heart must flow through a heart valve. Blood that flows out of your heart into large arteries must also flow through a heart valve. These valves open up enough so that blood can flow through. They then close, keeping blood from flowing backward. There are 4 valves in your heart: Aortic valve, Mitral valve, Tricuspid valve, Pulmonic valve,  The aortic valve is the most common valve to be replaced. The mitral valve is the most common valve to be repaired. Only rarely is the tricuspid valve or the pulmonic valve repaired or replaced.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

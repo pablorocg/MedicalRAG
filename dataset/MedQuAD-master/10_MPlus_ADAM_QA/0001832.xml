@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001832" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000348.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Health risks of obesity</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,12 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001832-1" qtype="information">What is (are) Health risks of obesity ?</Question>
-			<Answer></Answer>
+			<Answer>Obesity means weighing more than what is healthy for a given height. Obesity is a serious, chronic disease. It can lead to other health problems, including diabetes, heart disease, and some cancers. People with  obesity  have a higher chance of developing these health problems: High blood glucose (sugar) or  diabetes .,  High blood pressure  (hypertension).,  High blood cholesterol  and triglycerides (dyslipidemia, or high blood fats).,  Heart attacks  due to  coronary heart disease ,  heart failure , and  stroke ., Bone and joint problems. More weight puts pressure on the bones and joints. This can lead to  osteoarthritis , a disease that causes joint pain and stiffness., 
+   Sleep apnea or breathing pauses during sleep. This can cause daytime fatigue or sleepiness, poor attention, and problems at work.,  Gallstones  and liver problems., Some cancers. ,  Three things can be used to determine if a person's weight gives them a higher chance of developing obesity-related diseases: Body mass index ( BMI ), Waist size, Other risk factors the person has (a risk factor is anything that increases your chance of getting a disease) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001832-4" qtype="susceptibility">Who is at risk for Health risks of obesity? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

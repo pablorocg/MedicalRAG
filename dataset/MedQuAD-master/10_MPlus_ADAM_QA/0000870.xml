@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000870" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000521.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Closed reduction of a fractured bone</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000870-1" qtype="information">Do you have information about Closed reduction of a fractured bone</Question>
-			<Answer></Answer>
+			<Answer>Closed reduction is a procedure to set (reduce) a broken bone without cutting the skin open. The broken bone is put back in place, which allows it to grow back together in better alignment. It works best when it is done as soon as possible after the bone breaks. A closed reduction can be done by an orthopedic surgeon (bone doctor), emergency room physician, or a primary care provider who has experience doing this procedure.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

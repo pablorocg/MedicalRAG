@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003096" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001167.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pituitary apoplexy</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,36 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003096-1" qtype="information">What is (are) Pituitary apoplexy ?</Question>
-			<Answer></Answer>
+			<Answer>Pituitary apoplexy is a rare, but serious condition of the pituitary gland.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003096-2" qtype="causes">What causes Pituitary apoplexy ?</Question>
-			<Answer></Answer>
+			<Answer>The pituitary is a small gland at the base of the brain. The pituitary produces many of the hormones that control essential body processes. Pituitary apoplexy can be caused by bleeding into the pituitary or by blocked blood flow to the pituitary. Apoplexy means bleeding into an organ or loss of blood flow to an organ. Pituitary apoplexy is commonly caused by bleeding inside a noncancerous ( benign ) tumor of the pituitary. These tumors are very common and are often not diagnosed. The pituitary is damaged when the tumor suddenly enlarges. It either bleeds into the pituitary or blocks blood supply to the pituitary. The larger the tumor, the higher the risk for future pituitary apoplexy. When pituitary bleeding occurs in a woman during or right after childbirth, it is called  Sheehan syndrome . This is a very rare condition. Risk factors for pituitary apoplexy in non-pregnant people without a tumor include: Bleeding disorders,  Diabetes , Head injury, Radiation to the pituitary gland, Use of a breathing machine ,  Pituitary apoplexy in these situations is very rare.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003096-3" qtype="symptoms">What are the symptoms of Pituitary apoplexy ?</Question>
-			<Answer></Answer>
+			<Answer>Pituitary apoplexy usually has a short period of symptoms (acute), which can be life threatening. Symptoms often include: Severe headache (worst of your life), Paralysis of the eye muscles, causing double vision ( ophthalmoplegia ) or problems opening an eyelid, Loss of peripheral vision or loss of all vision in one or both eyes, Low blood pressure, nausea, loss of appetite, and vomiting from  acute adrenal insufficiency , Personality changes due to sudden narrowing or spasm of one of the arteries in the brain (anterior cerebral artery) ,  Less commonly, pituitary dysfunction may appear more slowly. In Sheehan syndrome, for example, the first symptom may be a failure to produce milk caused by a lack of the hormone prolactin after delivery. Over time, problems with other pituitary hormones may develop, causing symptoms of the following conditions: Growth hormone deficiency , Adrenal insufficiency (if not already present or treated),  Hypogonadism  (body's sex glands produce little or no hormones),  Hypothyroidism  (thyroid gland does not make enough thyroid hormone) ,  In rare cases, when the posterior (back part) of the pituitary is involved, symptoms may include: Failure of the uterus to contract to give birth to a baby (in women), Failure to produce breast milk (in women), Frequent urination and severe thirst ( diabetes insipidus ) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003096-4" qtype="exams and tests">How to diagnose Pituitary apoplexy ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam and ask about your symptoms. Tests that may be ordered include: Eye exams,  MRI  or  CT scan ,  Blood tests will be done to check levels of: ACTH  (adrenocorticotropic hormone),  Cortisol ,  FSH  (follicle-stimulating hormone),  Growth hormone , LH ( luteinizing hormone ),  Prolactin , 
+   TSH ( thyroid-stimulating hormone ), Insulin-like growth factor-1 (IGF-1)&#160;, Sodium, Osmolarity in blood and urine , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003096-5" qtype="treatment">What are the treatments for Pituitary apoplexy ?</Question>
-			<Answer></Answer>
+			<Answer>Acute apoplexy may require surgery to relieve pressure on the pituitary and improve vision symptoms. Severe cases need emergency surgery. If vision is not affected, surgery is often not necessary. Immediate treatment with adrenal replacement hormones (glucocorticoids) may be needed. These hormones are often given through the vein (by IV). Other hormones may eventually be replaced, including: Growth hormone, Sex hormones (estrogen/testosterone), Thyroid hormone, Vasopressin (ADH) , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003096-6" qtype="outlook">What is the outlook for Pituitary apoplexy ?</Question>
-			<Answer></Answer>
+			<Answer>Acute pituitary apoplexy can be life threatening. The outlook is good for people who have long-term (chronic) pituitary deficiency that is diagnosed and treated.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003096-7" qtype="complications">What are the complications of Pituitary apoplexy ?</Question>
-			<Answer></Answer>
+			<Answer>Complications of untreated pituitary apoplexy can include: Adrenal crisis  (condition that occurs when there is not enough cortisol, a hormone produced by the  adrenal glands ), Vision loss ,  If other missing hormones are not replaced, symptoms of  hypothyroidism  and  hypogonadism  may develop, including infertility.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003096-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pituitary apoplexy ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have any symptoms of chronic pituitary insufficiency. Go to the emergency room or call the local emergency number (such as 911) if you have symptoms of acute pituitary apoplexy, including: Eye muscle weakness or vision loss, Sudden, severe headache, Low blood pressure (which can cause fainting), Nausea, Vomiting ,  If you develop these symptoms and you have already been diagnosed with a pituitary tumor, seek medical help right away.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

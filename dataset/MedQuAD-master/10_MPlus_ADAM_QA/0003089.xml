@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003089" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001025.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pinguecula</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003089-1" qtype="information">What is (are) Pinguecula ?</Question>
-			<Answer></Answer>
+			<Answer>A pingueculum is a common, noncancerous growth of the conjunctiva. This is the clear, thin tissue that covers the white part of the eye (sclera). The growth occurs in the part of the conjunctiva that is exposed when the eye is open.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003089-2" qtype="causes">What causes Pinguecula ?</Question>
-			<Answer></Answer>
+			<Answer>The exact cause is unknown. Long-term sunlight exposure and  eye irritation  may be factors. Arc-welding is a major job-related risk.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003089-3" qtype="symptoms">What are the symptoms of Pinguecula ?</Question>
-			<Answer></Answer>
+			<Answer>A pingueculum looks like a small, yellowish bump on the conjunctiva near the cornea. It can appear on either side of the cornea. However, it more often occurs on the nose (nasal) side. The growth may increase in size, but usually over many years.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003089-4" qtype="exams and tests">How to diagnose Pinguecula ?</Question>
-			<Answer></Answer>
+			<Answer>An eye exam is often enough to diagnose this disorder.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003089-5" qtype="treatment">What are the treatments for Pinguecula ?</Question>
-			<Answer></Answer>
+			<Answer>The only treatment needed in most cases is the use of lubricating eye drops. Keeping the eye moist with artificial tears may help prevent the area from becoming inflamed. Temporary use of mild steroid eye drops can also be helpful. Rarely, the growth may need to be removed for comfort or for cosmetic reasons.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003089-6" qtype="outlook">What is the outlook for Pinguecula ?</Question>
-			<Answer></Answer>
+			<Answer>This condition is noncancerous ( benign ) and the outlook is good.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003089-7" qtype="complications">What are the complications of Pinguecula ?</Question>
-			<Answer></Answer>
+			<Answer>The pingueculum may grow over the cornea and block vision. When this happens, the growth is called a  pterygium . These two conditions occur under similar conditions. However, they are thought to be separate diseases.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003089-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pinguecula ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if the pingueculum changes in size, shape, or color, or if you would like to have it removed.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003089-9" qtype="prevention">How to prevent Pinguecula ?</Question>
-			<Answer></Answer>
+			<Answer>Things you can do that may help prevent a pingueculum or keep the problem from getting worse include: Keeping the eye well lubricated with artificial tears, Wearing good quality sunglasses, Avoiding eye irritants , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001295" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000426.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Dry eye syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,39 +23,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001295-1" qtype="information">What is (are) Dry eye syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>You need tears to moisten the eyes and to wash away particles that have gotten into your eyes. A healthy tear film on the eye is necessary for good vision. Dry eyes develop when the eye is unable to maintain a healthy coating of tears.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001295-2" qtype="causes">What causes Dry eye syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Dry eye syndrome commonly occurs in people who are otherwise healthy. It becomes more common with older age. This can occur due to hormonal changes that make your eyes produce fewer tears. Dry eye syndrome is sometimes caused or worsened by a condition called  meibomianitis , which changes the normal tear film. Other common causes of dry eyes include: Dry environment or workplace (wind, air conditioning), Sun exposure, Smoking or second-hand smoke exposure, Cold or allergy medicines, Wearing contact lenses ,  Dry eye syndrome can also be caused by: Heat or chemical burns, Previous eye surgery, Use of eye drops for other eye diseases, An uncommon  autoimmune disorder  in which the glands that produce tears are destroyed ( Sj&#246;gren syndrome ) , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001295-3" qtype="symptoms">What are the symptoms of Dry eye syndrome ?</Question>
-			<Answer></Answer>
+			<Answer> 
+ Symptoms may include: Blurred vision, Burning, itching, or redness in the eye, Gritty or scratchy feeling in the eye, Sensitivity to light, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001295-4" qtype="exams and tests">How to diagnose Dry eye syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Tests may include: Visual acuity measurement, Slit lamp exam, Diagnostic staining of the cornea and tear film, Measurement of tear film break-up time (TBUT), Measurement of rate of tear production (Schirmer test), Measurement of concentration of tears (osmolality), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001295-5" qtype="treatment">What are the treatments for Dry eye syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The first step in treatment is artificial tears. These come as preserved (screw cap bottle) and unpreserved (twist open vial). Preserved tears are more convenient, but some people are sensitive to preservatives. There are many brands available without a prescription. Start using the drops at least 2 to 4 times per day. If your symptoms are not better after a couple of weeks of regular use: Increase use (up to every 2 hours)., Change to unpreserved drops if you have been using the preserved type., Try a different brand., Talk to your health care provider if you cannot find a brand that works for you. ,  Other treatments may include: Fish oil 2 to 3 times per day, Glasses, goggles or contact lenses that keep moisture in the eyes, Medicines such as cyclosporine (Restasis) or lifitegrast (Xiidra), corticosteroid eye drops, and oral tetracycline and doxycycline, Tiny plugs placed in the tear drainage ducts to help moisture stay on the surface of the eye longer ,  Other helpful steps include: DO NOT smoke., Avoid second-hand smoke, direct wind, and air conditioning., Use a humidifier, particularly in the winter., Limit allergy and cold medicines that may dry you out and worsen your symptoms., Purposefully blink more often. Rest your eyes once in a while., Clean eyelashes regularly and apply warm compresses.,  Some dry eye symptoms are due to sleeping with the eyes slightly open. Lubricating ointments work best for this problem. You should use them only in small amounts since they can blur your vision. It is best to use them before sleep. Surgery may be helpful if symptoms are because the eyelids are in an abnormal position.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001295-6" qtype="outlook">What is the outlook for Dry eye syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Most people with dry eye syndrome have only discomfort, and no vision loss. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001295-7" qtype="complications">What are the complications of Dry eye syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>In severe cases, the clear covering on the eye (cornea) may become damaged or infected.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001295-8" qtype="when to contact a medical professional">Do I need to see a doctor for Dry eye syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider right away if:  You have red or painful eyes., You have flaking, discharge, or a sore on your eye or eyelid., You have had an injury to your eye, or if you have a bulging eye or a drooping eyelid., You have joint pain, swelling, or stiffness and a dry mouth along with dry eye symptoms., Your eyes do not get better with self-care within a few days., </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001295-9" qtype="prevention">How to prevent Dry eye syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Stay away from dry environments and things that irritate your eyes to help prevent symptoms.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

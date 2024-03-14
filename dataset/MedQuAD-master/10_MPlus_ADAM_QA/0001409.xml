@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001409" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001008.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Entropion</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001409-1" qtype="information">What is (are) Entropion ?</Question>
-			<Answer></Answer>
+			<Answer>Entropion is the turning in of an edge of an eyelid. This causes the lashes to rub against the eye. It most often is seen on the lower eyelid.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001409-2" qtype="causes">What causes Entropion ?</Question>
-			<Answer></Answer>
+			<Answer>Entropion can be present at birth (congenital). In babies, it rarely causes problems because the lashes are very soft and do not easily damage the eye. In older people, the condition is most often caused by a spasm or weakening of the muscles surrounding the lower part of the eye.  Another cause can be  trachoma  infection, which can lead to scarring of the inner side of the lid. This is rare in North America and Europe. However, trachoma scarring is one of the three leading causes of blindness in the world. Risk factors for entropion are: Aging,  Chemical burn , Infection with trachoma , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001409-3" qtype="symptoms">What are the symptoms of Entropion ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Decreased vision if the cornea is damaged, Excessive tearing,  Eye discomfort  or pain,  Eye irritation , Redness , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001409-4" qtype="exams and tests">How to diagnose Entropion ?</Question>
-			<Answer></Answer>
+			<Answer>In most cases, your health care provider can diagnose this condition by looking at your eyelids. Special tests are not often necessary.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001409-5" qtype="treatment">What are the treatments for Entropion ?</Question>
-			<Answer></Answer>
+			<Answer>Artificial tears can keep the eye from becoming dry and may help you feel better. Surgery to correct the position of the eyelids works well in most cases.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001409-6" qtype="outlook">What is the outlook for Entropion ?</Question>
-			<Answer></Answer>
+			<Answer>The outlook is most often good if the condition is treated before eye damage occurs.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001409-7" qtype="complications">What are the complications of Entropion ?</Question>
-			<Answer></Answer>
+			<Answer>Dry eye and irritation may increase the risk for:  Corneal abrasions ,  Corneal ulcers ,  Eye infections , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001409-8" qtype="when to contact a medical professional">Do I need to see a doctor for Entropion ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: Your eyelids turn inward., You constantly feel as though there is  something in your eye .,  If you have entropion, the following should be considered an emergency: Decreasing vision, Light sensitivity, Pain, Eye redness that increases rapidly , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001409-9" qtype="prevention">How to prevent Entropion ?</Question>
-			<Answer></Answer>
+			<Answer>Most cases cannot be prevented. Treatment reduces the risk of complications. See your provider if you have red eyes after visiting an area where there is trachoma (such as North Africa or South Asia).</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

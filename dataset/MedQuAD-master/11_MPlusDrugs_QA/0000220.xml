@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000220" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a698023.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Ceftibuten</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,43 +7,46 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000220-1" qtype="indication">Who should get Ceftibuten and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Ceftibuten is used to treat certain infections caused by bacteria such as bronchitis (infection of the airway tubes leading to the lungs); and infections of the ears, throat, and tonsils. Ceftibuten is in a class of medications called cephalosporin antibiotics. It works by killing bacteria. Antibiotics such as ceftibuten will not work for colds, flu, or other viral infections. Using antibiotics when they are not needed increases your risk of getting an infection later that resists antibiotic treatment.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000220-2" qtype="usage">How should Ceftibuten be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Ceftibuten comes as a capsule and suspension (liquid) to take by mouth. It is usually taken once a day for 10 days. Take the suspension on an empty stomach, at least 2 hours before or 1 hour after eating; the capsules can be taken with or without food. Take ceftibuten at around the same time every day. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take ceftibuten exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor. Shake the suspension well before each use to mix the medication evenly. You should begin to feel better during the first few days of treatment with ceftibuten. If your symptoms do not improve or get worse, call your doctor. Continue to take ceftibuten even if you feel better. If you stop taking ceftibuten too soon or skip doses, your infection may not be completely treated and the bacteria may become resistant to antibiotics.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000220-3" qtype="precautions">Are there safety concerns or special precautions about Ceftibuten ?</Question>
-			<Answer></Answer>
+			<Answer>Before taking ceftibuten, tell your doctor and pharmacist if you are allergic to ceftibuten; other cephalosporin antibiotic such as cefaclor (Ceclor), cefadroxil cefazolin (Ancef, Kefzol), cefdinir, cefditoren (Spectracef), cefepime (Maxipime), cefixime (Suprax), cefotaxime (Claforan), cefotetan, cefoxitin (Mefoxin), cefpodoxime, cefprozil, ceftaroline (Teflaro), ceftazidime (Fortaz, Tazicef, in Avycaz), ceftriaxone (Rocephin), cefuroxime (Zinacef),and cephalexin (Keflex); penicillin antibiotics; or any other medications. Also tell your doctor if you are allergic to any of the ingredients in ceftibuten capsules or suspension., tell your doctor and pharmacist what prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking, or plan to take. Your doctor may need to change the doses of your medications or monitor you carefully for side effects., tell your doctor if you have or have ever had gastrointestinal disease (GI; affecting the stomach or intestines), especially colitis (condition that causes swelling in the lining of the colon [large intestine]), or kidney disease., tell your doctor if you are pregnant, plan to become pregnant, or are breastfeeding. If you become pregnant while taking ceftibuten, call your doctor., If you have diabetes, you should know that ceftibuten suspension solution contains sucrose (sugar)., </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000220-4" qtype="dietary">What special dietary instructions should I follow with Ceftibuten ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000220-5" qtype="forget a dose">What should I do if I forget a dose of Ceftibuten ?</Question>
-			<Answer></Answer>
+			<Answer>Take the missed dose as soon as you remember it. However, if it is almost time for the next dose, skip the missed dose and continue your regular dosing schedule. Do not take a double dose to make up for a missed one.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000220-6" qtype="side effects">What are the side effects or risks of Ceftibuten ?</Question>
-			<Answer></Answer>
+			<Answer>Ceftibuten may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ diarrhea, stomach pain, nausea, vomiting, heartburn, headache, dizziness,  Some side effects can be serious. If you experience any of the following symptoms, call your doctor immediately, or get emergency medical treatment:
+ watery or bloody stools, stomach cramps, or fever during treatment or for up to two or more months after stopping treatment, rash, itching, hives, difficulty breathing or swallowing, wheezing, a return of fever, sore throat, chills, or other signs of infection,  If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000220-7" qtype="storage and disposal">What should I know about storage and disposal of Ceftibuten ?</Question>
-			<Answer></Answer>
+			<Answer>Keep this medication in the container it came in, tightly closed, and out of reach of children. Store the capsules at room temperature and away from excess heat and moisture (not in the bathroom). Keep liquid medicine in the refrigerator, closed tightly, and dispose of any unused medication after 14 days. Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program. It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000220-8" qtype="emergency or overdose">What to do in case of emergency or overdose of Ceftibuten ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911. Symptoms of overdose may include the following:
+ seizures , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000220-9" qtype="other information">What other information should I know about Ceftibuten ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor and the laboratory. Your doctor may order certain lab tests to check your response to ceftibuten. Before having any laboratory test, tell your doctor and the laboratory personnel that you are taking ceftibuten. If you are diabetic and test your urine for sugar, use Clinistix or TesTape (not Clinitest) to test your urine while taking this medication. Do not let anyone else take your medication. Your prescription is probably not refillable. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000220-10" qtype="brand names">What are the brand names of Ceftibuten ?</Question>
-			<Answer></Answer>
+			<Answer>Cedax &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

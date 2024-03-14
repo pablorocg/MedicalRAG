@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002782" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000754.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Neurogenic bladder</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,31 +16,32 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002782-1" qtype="information">What is (are) Neurogenic bladder ?</Question>
-			<Answer></Answer>
+			<Answer>Neurogenic bladder is a problem in which a person lacks bladder control due to a brain, spinal cord,&#160;or nerve condition.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002782-2" qtype="causes">What causes Neurogenic bladder ?</Question>
-			<Answer></Answer>
+			<Answer>Several muscles and nerves must work together for the bladder to hold urine until you are ready to empty it. Nerve messages go back and forth between the brain and the muscles that control bladder emptying. If these nerves are damaged by illness or injury, the muscles may not be able to tighten or relax at the right time. Disorders of the central nervous system commonly cause neurogenic bladder. These can include: Alzheimer disease , Birth defects of the spinal cord, such as spina bifida, Brain or spinal cord tumors,  Cerebral palsy ,  Encephalitis , Learning disabilities such as  attention deficit hyperactivity disorder  (ADHD),  Multiple sclerosis &#160;(MS),  Parkinson disease ,  Spinal cord injury ,  Stroke ,  Damage or disorders of the nerves that supply the bladder can also cause this condition. These can include: Nerve damage (neuropathy), Nerve damage due to long-term, heavy alcohol use,  Nerve damage  due to long-term diabetes, 
+   Nerve damage due to&#160; vitamin B12  deficiency, Nerve damage from  syphilis , Nerve damage due to pelvic surgery, Nerve damage from a herniated disk or spinal canal stenosis , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002782-3" qtype="symptoms">What are the symptoms of Neurogenic bladder ?</Question>
-			<Answer></Answer>
+			<Answer>The symptoms depend on the cause. They often include symptoms of  urinary incontinence . Symptoms of overactive bladder may include: Having to urinate too often in small amounts, Problems emptying all the urine from the bladder, Loss of bladder control ,  Symptoms of underactive bladder may include: Full bladder and possibly urine leakage, Inability to tell when the bladder is full, Problems starting to urinate or emptying all the urine from the bladder (urinary retention), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002782-4" qtype="treatment">What are the treatments for Neurogenic bladder ?</Question>
-			<Answer></Answer>
+			<Answer>Medicines may help manage your symptoms. Your health care provider may suggest: Medicines that relax the bladder (for example, oxybutynin, tolterodine, or propantheline), Medicines that make certain nerves more active (bethanechol), Botulinum toxin, GABA supplements, Antiepileptic drugs ,  Your provider may refer you to someone who has been trained to help people manage bladder problems. Skills or techniques you may learn include: Exercises to strengthen your pelvic floor muscles ( Kegel exercises ), Keeping a diary of when you urinate, the amount you urinated, and if you leaked urine. This may help you learn when you should empty your bladder and when it may be best to be near a bathroom.,  Learn to recognize the symptoms of urinary tract infections (UTIs), such as burning when you urinate, fever, low back pain on one side, and a more frequent need to urinate. Cranberry tablets may help prevent UTIs. Some people may need to use a urinary catheter. This is a thin tube that is inserted into your bladder. You may need a catheter to be: In place all the time (indwelling catheter)., In your bladder 4 to 6 times a day to keep your bladder from becoming too full (intermittent catheterization).,  Sometimes surgery is needed. Surgeries for neurogenic bladder include: Artificial sphincter , Electrical device implanted near the bladder nerves to stimulate the bladder muscles, Sling surgery, Creation of an opening (stoma) in which urine flows into a special pouch (this is called urinary diversion),  Electrical stimulation of the tibial nerve in the leg may be recommended. This involves placing a needle into the tibial nerve. The needle is connected to an electrical device that sends signals to the tibial nerve. The signals then travel up to the nerves in the lower spine, which control the bladder.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002782-5" qtype="support groups">Where to find support for people with Neurogenic bladder ?</Question>
-			<Answer></Answer>
+			<Answer>If you are having urinary incontinence,  organizations  are available for further information and support.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002782-6" qtype="complications">What are the complications of Neurogenic bladder ?</Question>
-			<Answer></Answer>
+			<Answer>Complications of neurogenic bladder may include: Constant urine leakage that can cause skin to break down and lead to pressure sores, Kidney damage if the bladder becomes too full, causing pressure to build up in the tubes leading to the kidneys and in the kidneys themselves, Urinary tract infections, </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002782-7" qtype="when to contact a medical professional">Do I need to see a doctor for Neurogenic bladder ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you: Are unable to empty your bladder at all, Have signs of a bladder infection (fever, burning when you urinate, frequent urination), Urinate small amounts, frequently, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

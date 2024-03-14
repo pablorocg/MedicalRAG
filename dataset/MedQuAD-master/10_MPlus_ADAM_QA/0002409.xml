@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002409" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000280.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Liver cancer - hepatocellular carcinoma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,39 +24,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002409-1" qtype="information">What is (are) Liver cancer - hepatocellular carcinoma ?</Question>
-			<Answer></Answer>
+			<Answer>Hepatocellular carcinoma is cancer that starts in the liver.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002409-2" qtype="causes">What causes Liver cancer - hepatocellular carcinoma ?</Question>
-			<Answer></Answer>
+			<Answer>Hepatocellular carcinoma is the most common type of liver cancer. It occurs more often in men than women. It is most often diagnosed in people age 50 or older. Hepatocellular carcinoma is not the same as  metastatic liver cancer . Metastatic liver cancer starts in another organ (such as the breast or colon) and spreads to the liver. In most cases, the cause of hepatocellular liver cancer is long-term damage and scarring of the liver ( cirrhosis ). Cirrhosis may be caused by: Alcohol overuse,  Autoimmune diseases  of the liver,  Hepatitis B  or  hepatitis C  virus infection, Inflammation of the liver that is long-term (chronic hepatitis), Iron overload in the body ( hemochromatosis ) ,  People with hepatitis B or C are at high risk for liver cancer, even if they do not develop cirrhosis.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002409-3" qtype="symptoms">What are the symptoms of Liver cancer - hepatocellular carcinoma ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of liver cancer may include any of the following: Abdominal pain  or tenderness, especially in the upper-right part, Easy bruising or bleeding, Enlarged abdomen due to fluid in the abdomen ( ascites ), Yellow skin or eyes ( jaundice ), Unexplained weight loss, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002409-4" qtype="exams and tests">How to diagnose Liver cancer - hepatocellular carcinoma ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam and ask about your symptoms. The physical exam may show an enlarged, tender liver or other signs of cirrhosis. If your provider suspects liver cancer, tests that may be ordered include: Abdominal CT scan ,  Abdominal MRI scan ,  Abdominal ultrasound ,  Liver biopsy ,  Liver function tests ,  Serum alpha fetoprotein ,  Some people at risk for liver cancer may get regular blood tests and ultrasounds to see if tumors are developing.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002409-5" qtype="treatment">What are the treatments for Liver cancer - hepatocellular carcinoma ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment depends on how advanced the cancer is. Surgery may be done if the tumor has not spread. Before surgery, the tumor may be treated with  chemotherapy  to reduce its size. This is most often done by delivering the medicine straight into the liver with a tube (catheter). Radiation treatments  in the area of the cancer may also be helpful. Ablation is another method that may be used. Ablate means to destroy. Types of ablation include using: Radio waves or microwaves, Ethanol (an alcohol) or acetic acid (vinegar), Extreme cold (cryoablation) ,  A  liver transplant  may be recommended. If the cancer can't be surgically removed or has spread outside the liver, there is usually no chance for long-term cure. Treatment instead focuses on improving and extending the person's life. Treatment in this case may use  targeted therapy  with drugs that can be taken as pills. Newer immunotherapy drugs may also be used.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002409-6" qtype="support groups">Where to find support for people with Liver cancer - hepatocellular carcinoma ?</Question>
-			<Answer></Answer>
+			<Answer>You can ease the stress of illness by joining a  cancer support group . Sharing with others who have common experiences and problems can help you not feel alone.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002409-7" qtype="outlook">What is the outlook for Liver cancer - hepatocellular carcinoma ?</Question>
-			<Answer></Answer>
+			<Answer>If the cancer can't be completely treated, the disease is usually fatal. But survival can vary, depending on how advanced the cancer is and how successful treatment is.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002409-8" qtype="when to contact a medical professional">Do I need to see a doctor for Liver cancer - hepatocellular carcinoma ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop ongoing abdominal pain, especially if you have a history of  liver disease .</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002409-9" qtype="prevention">How to prevent Liver cancer - hepatocellular carcinoma ?</Question>
-			<Answer></Answer>
+			<Answer>Preventive measures include: Preventing and treating viral hepatitis may help reduce your risk. Childhood vaccination against hepatitis B may reduce the risk for liver cancer in the future., Not drinking alcohol in excess., Screening for liver cancer in people with certain types of hemochromatosis (iron overload)., Screening for liver cancer in people who have hepatitis B or C or cirrhosis., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

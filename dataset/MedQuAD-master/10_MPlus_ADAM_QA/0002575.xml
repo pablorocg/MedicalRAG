@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002575" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000709.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Mnires disease</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002575-1" qtype="information">What is (are) Mnires disease ?</Question>
-			<Answer></Answer>
+			<Answer>You have seen your doctor for M&#233;ni&#232;re disease. During M&#233;ni&#232;re attacks, you may have  vertigo, or the feeling that you are spinning . You may also have hearing loss (most often in one ear) and ringing or roaring in the affected ear, called  tinnitus . You may also have pressure or fullness in the ears. During attacks, some people find bed rest helps relieve vertigo symptoms. Your health care provider may prescribe medicines like diuretics (water pills), antihistamines, or anti-anxiety medicines to help. Surgery may be used in some cases with persistent symptoms, although this has risks and is rarely recommended. There is no cure for M&#233;ni&#232;re disease. However, making some lifestyle changes can help prevent or reduce attacks.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

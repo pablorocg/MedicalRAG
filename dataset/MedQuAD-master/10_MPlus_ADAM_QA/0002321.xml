@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002321" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003500.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lactose tolerance tests</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002321-1" qtype="information">Do you have information about Lactose tolerance tests</Question>
-			<Answer></Answer>
+			<Answer>Lactose tolerance tests measure the ability of your intestines to break down a type of sugar called lactose. This sugar is found in milk and other dairy products. If your body cannot break down this sugar, you are said to have  lactose intolerance . This can cause gassiness, abdominal pain, cramps, and diarrhea.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

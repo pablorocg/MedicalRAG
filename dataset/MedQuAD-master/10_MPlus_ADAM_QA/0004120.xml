@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004120" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000146.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Urinary incontinence products - self-care</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,11 +20,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004120-1" qtype="information">What is (are) Urinary incontinence products - self-care ?</Question>
-			<Answer></Answer>
+			<Answer>If you have problems with  urinary incontinence  (leakage), wearing special products will keep you dry and help you avoid embarrassing situations.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0004120-9" qtype="when to contact a medical professional">Do I need to see a doctor for Urinary incontinence products - self-care ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002843" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000781.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Oculoplastic procedures</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002843-1" qtype="information">Do you have information about Oculoplastic procedures</Question>
-			<Answer></Answer>
+			<Answer>An oculoplastic procedure is a type of surgery done around the eyes. You may have this procedure to correct a medical problem or for cosmetic reasons. Oculoplastic procedures are usually done by eye doctors (ophthalmologists) who have special training in plastic or reconstructive surgery. In some cases, procedures are performed by doctors who specialize in head and neck surgery.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

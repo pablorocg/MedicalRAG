@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001905" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007641.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hemodialysis access procedures</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,19 +23,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001905-1" qtype="information">What is (are) Hemodialysis access procedures ?</Question>
-			<Answer></Answer>
+			<Answer>Vascular access (often called just "access") is needed for you to get hemodialysis. The access is where you receive  hemodialysis . Using the access, blood is removed from your body, cleaned by the dialysis machine (called the dialyzer), and then returned to your body.  Usually the access is put in your arm but it can also go in your leg. It takes a few weeks to a few months to get an access ready for hemodialysis.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001905-2" qtype="information">What is (are) Hemodialysis access procedures ?</Question>
-			<Answer></Answer>
+			<Answer>Vascular access (often called just "access") is needed for you to get hemodialysis. The access is where you receive  hemodialysis . Using the access, blood is removed from your body, cleaned by the dialysis machine (called the dialyzer), and then returned to your body.  Usually the access is put in your arm but it can also go in your leg. It takes a few weeks to a few months to get an access ready for hemodialysis.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001905-4" qtype="susceptibility">Who is at risk for Hemodialysis access procedures? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001905-7" qtype="outlook">What is the outlook for Hemodialysis access procedures ?</Question>
-			<Answer></Answer>
+			<Answer>Taking care of your access  will help you keep it as long as possible.  A fistula:  Lasts for many years, Has good blood flow, Has less risk for infection or clotting ,  Your artery and vein heal after each needle stick for hemodialysis.  A graft does not last as long as a fistula. It can last 1 to 3 years with proper care. Holes from the needle insertions develop in the graft. A graft has more risk for infection or clotting than a fistula. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

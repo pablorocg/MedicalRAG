@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000264" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002770.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Anti-rust product poisoning</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000264-1" qtype="information">Do you have information about Anti-rust product poisoning</Question>
-			<Answer></Answer>
+			<Answer>Anti-rust product poisoning occurs when someone breathes in or swallows anti-rust products. These products may be accidentally breathed in (inhaled) if they are used in a small, poorly ventilated area, such as a garage. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

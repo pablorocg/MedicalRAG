@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002813" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000679.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Nocardia infection</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002813-1" qtype="information">What is (are) Nocardia infection ?</Question>
-			<Answer></Answer>
+			<Answer>Nocardia infection (nocardiosis) is a disorder that affects the lungs, brain, or skin. In otherwise healthy people, it may occur as a local infection. But in people with weakened immune systems, it may spread throughout the body.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002813-2" qtype="causes">What causes Nocardia infection ?</Question>
-			<Answer></Answer>
+			<Answer>Nocardia infection is caused by a bacterium. It usually starts in the lungs. It may spread to other organs, most often the brain and the skin. It may also involve the kidneys, joints, heart, eyes, and bones. Nocardia bacteria are found in soil around the world. You can get the disease by breathing in dust that has the bacteria. You can also get the disease if soil containing nocardia bacteria gets into an open wound. You are more likely to get this infection if you have long-term (chronic) lung disease or a weakened immune system, which can occur with transplants, cancer,  HIV/AIDS , and long-term use of steroids.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002813-3" qtype="symptoms">What are the symptoms of Nocardia infection ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms vary and depend on the organs involved. If in the lungs, symptoms may include: Chest pain when breathing (may occur suddenly or slowly), Coughing up blood, Fever, Night sweats, Weight loss ,  If in the brain, symptoms may include: Fever, Headache,  Seizures ,  Coma ,  If the skin is affected, symptoms may include: Skin breakdown and a draining tract ( fistula ), Ulcers or nodules with infection sometimes spreading along lymph nodes ,  Some people with nocardia infection have no symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002813-4" qtype="exams and tests">How to diagnose Nocardia infection ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will examine you and ask about your symptoms. Nocardia infection is diagnosed using tests that identify the bacteria ( Gram stain , modified acid-fast staining or  culture ). For example, for an infection in the lung, a  sputum culture  may be done. Depending on the part of the body infected, testing may involve taking a tissue sample by: Brain biopsy, Lung biopsy,  Skin biopsy , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002813-5" qtype="treatment">What are the treatments for Nocardia infection ?</Question>
-			<Answer></Answer>
+			<Answer>You will need to take antibiotics for 6 months to a year or longer. You may need more than one antibiotic.  Surgery may be done to drain pus that has collected in the skin or tissues ( abscess ).</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002813-6" qtype="outlook">What is the outlook for Nocardia infection ?</Question>
-			<Answer></Answer>
+			<Answer>How well you do depends on your overall health and the parts of the body involved. Infection that affects many areas of the body is hard to treat, and some people may not be able to recover.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002813-7" qtype="complications">What are the complications of Nocardia infection ?</Question>
-			<Answer></Answer>
+			<Answer>Complications of nocardia infections depend on how much of the body is involved.  Certain lung infections may lead to scarring and long-term (chronic) shortness of breath., Skin infections may lead to scarring or disfigurement., Brain abscesses may lead to loss of neurological function. , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002813-8" qtype="when to contact a medical professional">Do I need to see a doctor for Nocardia infection ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have any symptoms of this infection. They are nonspecific symptoms that can have many other causes. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003977" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001115.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Total anomalous pulmonary venous return</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003977-1" qtype="information">What is (are) Total anomalous pulmonary venous return ?</Question>
-			<Answer></Answer>
+			<Answer>Total anomalous pulmonary venous return (TAPVR) is a heart disease in which the 4 veins that take blood from the lungs to the heart do not attach normally to the left atrium (left upper chamber of the heart). Instead, they attach to another blood vessel or the wrong part of the heart. It is present at birth ( congenital heart disease ). </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003977-2" qtype="causes">What causes Total anomalous pulmonary venous return ?</Question>
-			<Answer></Answer>
+			<Answer>The cause of total anomalous pulmonary venous return is unknown. In normal circulation, blood is sent from the right ventricle to pick up oxygen in the lungs. It then returns through the pulmonary (lung) veins to the left side of the heart, which sends blood out through the aorta and around the body. In TAPVR, oxygen-rich blood returns from the lungs to the right atrium or to a vein flowing into the right atrium, instead of the left side of heart. In other words, blood simply circles to and from the lungs and never gets out to the body. For the infant to live, an  atrial septal defect  (ASD) or  patent foramen ovale  (passage between the left and right atria) must exist to allow oxygenated blood to flow to the left side of the heart and the rest of the body. How severe this condition is depends on whether the pulmonary veins are blocked or obstructed as they drain. Obstructed TAPVR causes symptoms early in life and can be deadly very quickly if it is not found and corrected with surgery.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003977-3" qtype="symptoms">What are the symptoms of Total anomalous pulmonary venous return ?</Question>
-			<Answer></Answer>
+			<Answer>The infant may appear very sick and may have the following symptoms: Bluish color to the skin (cyanosis)  due to low oxygen level in the blood, Frequent respiratory infections, Lethargy, Poor feeding, Poor growth, Rapid breathing ,  Note: Sometimes, no symptoms may be present in infancy or early childhood.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003977-4" qtype="exams and tests">How to diagnose Total anomalous pulmonary venous return ?</Question>
-			<Answer></Answer>
+			<Answer>Tests may include: Cardiac catheterization  can confirm the diagnosis by showing that the blood vessels are abnormally attached,  ECG  shows enlargement of the ventricles (ventricular hypertrophy),  Echocardiogram  may show that the pulmonary vessels are attached,  MRI  or  CT scan  of the heart can show the connections between the pulmonary vessels,  X-ray of the chest  shows a normal to small heart with fluid in the lungs , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003977-5" qtype="treatment">What are the treatments for Total anomalous pulmonary venous return ?</Question>
-			<Answer></Answer>
+			<Answer>Surgery to repair the problem is needed as soon as possible. In surgery, the pulmonary veins are connected to the left atrium and the defect between the right and left atrium is closed.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003977-6" qtype="outlook">What is the outlook for Total anomalous pulmonary venous return ?</Question>
-			<Answer></Answer>
+			<Answer>If this condition is not treated, the heart will get larger, leading to heart failure. Repairing the defect early provides excellent results if there is no blockage of the pulmonary veins at the new connection into the heart. Infants who have obstructed veins have worsened survival.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003977-7" qtype="complications">What are the complications of Total anomalous pulmonary venous return ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Breathing difficulties,  Heart failure , Irregular, fast heart rhythms (arrhythmias), Lung infections, Pulmonary hypertension , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003977-8" qtype="when to contact a medical professional">Do I need to see a doctor for Total anomalous pulmonary venous return ?</Question>
-			<Answer></Answer>
+			<Answer>This condition may be apparent at the time of birth. However, symptoms may not be present until later. Contact your health care provider if you notice symptoms of TAPVR. Prompt attention is required.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003977-9" qtype="prevention">How to prevent Total anomalous pulmonary venous return ?</Question>
-			<Answer></Answer>
+			<Answer>Women who plan to become pregnant should be immunized against rubella if they are not already immune. Rubella infection in a pregnant woman can cause congenital heart disease. Women who are pregnant should get good prenatal care: Avoid alcohol and illegal drugs during pregnancy., Tell your provider that you are pregnant before taking any new medicines., Have a blood test early in your pregnancy to see if you are immune to rubella. If you are not immune, avoid any possible exposure to rubella and get vaccinated right after delivery., Pregnant women who have diabetes should try to get good control over their blood sugar level.,  Some inherited factors may play a role in congenital heart disease. Many family members may be affected. If you are planning to get pregnant, talk to your provider about screening for genetic diseases.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

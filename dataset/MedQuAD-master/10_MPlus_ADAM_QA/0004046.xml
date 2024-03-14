@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004046" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003594.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Trypsin and chymotrypsin in stool</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004046-1" qtype="information">Do you have information about Trypsin and chymotrypsin in stool</Question>
-			<Answer></Answer>
+			<Answer>Trypsin and chymotrypsin are substances released from the pancreas during normal digestion. When the pancreas does not produce enough trypsin and chymotrypsin, smaller-than-normal amounts can be seen in a stool sample. This article discusses the test to measure trypsin and chymotrypsin in stool.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

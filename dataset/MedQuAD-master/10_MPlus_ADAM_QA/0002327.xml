@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002327" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007388.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Laparoscopic gastric banding</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002327-1" qtype="information">Do you have information about Laparoscopic gastric banding</Question>
-			<Answer></Answer>
+			<Answer>Laparoscopic gastric banding is surgery to help with weight loss. The surgeon places a band around the upper part of your stomach to create a small pouch to hold food. The band limits the amount of food you can eat by making you feel full after eating small amounts of food. After surgery, your doctor can adjust the band to make food pass more slowly or quickly through your stomach. Gastric bypass surgery  is a related topic.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

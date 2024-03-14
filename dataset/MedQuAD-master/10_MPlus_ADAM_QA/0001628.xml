@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001628" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002459.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Food labeling</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001628-1" qtype="information">Do you have information about Food labeling</Question>
-			<Answer></Answer>
+			<Answer>Food labels contain a great deal of information on most packaged foods. Food labels are called "Nutrition Facts." The United States Food and Drug Administration (FDA) did a major update of the Nutrition Facts label in 2016. Most manufacturers have been following these new requirements since 2021.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

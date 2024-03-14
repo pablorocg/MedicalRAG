@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004088" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000832.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Understanding your colon cancer risk</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,19 +18,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004088-1" qtype="information">What is (are) Understanding your colon cancer risk ?</Question>
-			<Answer></Answer>
+			<Answer>Colorectal cancer risk factors are things that increase the chance that you could get colorectal cancer. Some risk factors you can control, such as drinking alcohol, diet, and being overweight. Others, such as family history, you cannot control. The more risk factors you have, the more your risk increases. But it does not mean you will get cancer. Many people with risk factors never get cancer. Other people get colorectal cancer but do not have any known risk factors. Learn about your risk and what steps you can take to prevent  colorectal cancer .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004088-2" qtype="susceptibility">Who is at risk for Understanding your colon cancer risk? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004088-3" qtype="susceptibility">Who is at risk for Understanding your colon cancer risk? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004088-4" qtype="when to contact a medical professional">Do I need to see a doctor for Understanding your colon cancer risk ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

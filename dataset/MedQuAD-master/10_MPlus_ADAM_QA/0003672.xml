@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003672" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007413.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Spinal and epidural anesthesia</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003672-1" qtype="information">Do you have information about Spinal and epidural anesthesia</Question>
-			<Answer></Answer>
+			<Answer>Spinal and epidural anesthesia are procedures that deliver medicines that numb parts of your body to block pain. They are given through shots in or around the spine.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

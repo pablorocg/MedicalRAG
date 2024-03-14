@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003074" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000906.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Photodynamic therapy for cancer</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,7 +24,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003074-1" qtype="information">What is (are) Photodynamic therapy for cancer ?</Question>
-			<Answer></Answer>
+			<Answer>Photodynamic therapy (PDT) uses a medicine together with a special type of light to kill cancer cells.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001802" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007559.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hammer toe repair</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,15 +21,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001802-1" qtype="information">What is (are) Hammer toe repair ?</Question>
-			<Answer></Answer>
+			<Answer>A hammer toe is a toe that stays in a curled or flexed position. This can occur in more than one toe. This condition is caused by: Muscle imbalance, Rheumatoid arthritis, Shoes that do not fit well, </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001802-2" qtype="information">What is (are) Hammer toe repair ?</Question>
-			<Answer></Answer>
+			<Answer>A hammer toe is a toe that stays in a curled or flexed position. This can occur in more than one toe. This condition is caused by: Muscle imbalance, Rheumatoid arthritis, Shoes that do not fit well, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001802-4" qtype="susceptibility">Who is at risk for Hammer toe repair? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

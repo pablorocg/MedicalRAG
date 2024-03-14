@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003181" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001168.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Precocious puberty</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,31 +19,31 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003181-1" qtype="information">What is (are) Precocious puberty ?</Question>
-			<Answer></Answer>
+			<Answer>Puberty is the time when a person's sexual and physical characteristics mature. Precocious puberty is when these body changes happen earlier than normal.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003181-2" qtype="causes">What causes Precocious puberty ?</Question>
-			<Answer></Answer>
+			<Answer>Puberty usually begins between ages 8 and 13 for girls and ages 9 and 14 for boys. The exact age a child enters puberty depends on a number of factors, including family history, nutrition, and sex. Most often there is no clear cause for precocious puberty. Some cases are due to changes in the brain, genetic problems or certain tumors that release hormones. These conditions include: Disorders of the testicles, ovaries, or adrenal glands, Tumor of the  hypothalamus  (hypothalamic hamartoma), Tumors that release a hormone called human chorionic gonadotropin (hCG) , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003181-3" qtype="symptoms">What are the symptoms of Precocious puberty ?</Question>
-			<Answer></Answer>
+			<Answer>In girls, precocious puberty is when any of the following develop before age 8: Armpit or pubic hair, Beginning to grow faster, Breasts, First period (menstruation), Mature outer genitals,  In boys, precocious puberty is when any of the following develop before age 9: Armpit or pubic hair, Growth of the testes and penis, Facial hair, often first on the upper lip, Muscle growth, Voice change (deepening), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003181-4" qtype="exams and tests">How to diagnose Precocious puberty ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam to check for signs of precocious puberty. Tests that may be ordered include: Blood tests to check hormone levels.,  CT  or  MRI  scan of the brain or of the  abdomen  to check for tumors. , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003181-5" qtype="treatment">What are the treatments for Precocious puberty ?</Question>
-			<Answer></Answer>
+			<Answer>Depending on the cause, treatment for precocious puberty may include: Medicines to stop the release of sexual hormones, to help delay puberty. These medicines are given as a shot (injection). They will be given until the normal age of puberty., Surgery to remove a tumor.,  Children with early sexual development may have psychological and social problems. Children and adolescents want to be the same as their peers. Early sexual development can make them appear different. Parents can support their child by explaining the condition and how their provider plans to treat it. Talking to a mental health worker or counselor may also help.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003181-6" qtype="complications">What are the complications of Precocious puberty ?</Question>
-			<Answer></Answer>
+			<Answer>Children who go through puberty too early may not reach their full height because growth stops too early.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003181-7" qtype="when to contact a medical professional">Do I need to see a doctor for Precocious puberty ?</Question>
-			<Answer></Answer>
+			<Answer>See your child's provider if: Your child shows signs of precocious puberty, Any child with early sexual development appears to be having problems in school or with peers , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

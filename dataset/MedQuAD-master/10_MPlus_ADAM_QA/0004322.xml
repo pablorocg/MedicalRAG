@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004322" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000663.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Women and sexual problems</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004322-1" qtype="information">Do you have information about Women and sexual problems</Question>
-			<Answer></Answer>
+			<Answer>Many women experience sexual dysfunction at some time in their life. This is a medical word that means that you are having problems with sex and are worried about it. Learn about the causes and symptoms of sexual dysfunction. Learn what might help you feel better about your sex life.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

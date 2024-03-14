@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002440" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003056.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Low nasal bridge</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,23 +19,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002440-1" qtype="information">What is (are) Low nasal bridge ?</Question>
-			<Answer></Answer>
+			<Answer>A low nasal bridge is the flattening of the top part of the nose.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002440-2" qtype="considerations">What to do for Low nasal bridge ?</Question>
-			<Answer></Answer>
+			<Answer>Genetic diseases or infections may cause decreased growth of the bridge of nose.  A decrease in the height of the bridge of nose is best seen from a side view of the face.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002440-3" qtype="causes">What causes Low nasal bridge ?</Question>
-			<Answer></Answer>
+			<Answer>Causes may include: Cleidocranial dysostosis ,  Congenital syphilis ,  Down syndrome , Normal variation, Other syndromes that are present at birth (congenital),  Williams syndrome , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002440-4" qtype="when to contact a medical professional">Do I need to see a doctor for Low nasal bridge ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have questions about the shape of your child's nose.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002440-5" qtype="outlook">What is the outlook for Low nasal bridge ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

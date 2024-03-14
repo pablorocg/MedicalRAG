@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003463" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003127.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Satiety - early</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003463-1" qtype="information">Do you have information about Satiety - early</Question>
-			<Answer></Answer>
+			<Answer>Satiety is the satisfied feeling of being full after eating. Early satiety is feeling full sooner than normal or after eating less than usual.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

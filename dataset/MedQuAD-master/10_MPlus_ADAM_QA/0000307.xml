@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000307" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000807.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Are You Getting Too Much Exercise?</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000307-1" qtype="information">What is (are) Are You Getting Too Much Exercise? ?</Question>
-			<Answer></Answer>
+			<Answer>Health experts recommend moderate-intensity exercise on most days of the week. So, you may be surprised to learn that you can get too much exercise. If you exercise often and find that you are often tired, or your performance suffers, it may be time to back off for a bit. Learn the signs that you may be exercising too much. Find out how to keep your competitive edge without overdoing it.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

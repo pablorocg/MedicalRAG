@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003336" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000885.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Rapid weight loss</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -27,11 +26,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003336-1" qtype="information">What is (are) Rapid weight loss ?</Question>
-			<Answer></Answer>
+			<Answer>Rapid weight loss diet is a type of diet in which you lose more than 2 pounds (1 kilogram, kg) a week over several weeks. To lose weight this quickly you eat very few calories. </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003336-9" qtype="information">What is (are) Rapid weight loss ?</Question>
-			<Answer></Answer>
+			<Answer>Rapid weight loss diet is a type of diet in which you lose more than 2 pounds (1 kilogram, kg) a week over several weeks. To lose weight this quickly you eat very few calories. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

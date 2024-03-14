@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003573" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000161.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Sick sinus syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,39 +22,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003573-1" qtype="information">What is (are) Sick sinus syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Normally, the heartbeat starts in an area in the top chambers of the heart (atria). This area is the heart's pacemaker. It is called the sinoatrial node, sinus node or SA node. Its role is to keep the heart beat steady and regular. Sick sinus syndrome is a group of heart rhythm problems due to problems with the sinus node, such as: The heartbeat rate is too slow, called sinus bradycardia, The heartbeat pauses or stops, called sinus pauses or sinus arrest, Episodes of a fast  heart rate , Slow heart rhythms that alternate with fast heart rhythms, called bradycardia-tachycardia or "tachy-brady syndrome", </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003573-2" qtype="causes">What causes Sick sinus syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Sick sinus syndrome most often occurs in people older than age 50. It is often due to scar-like damage to electrical pathways in the heart muscle tissue. In children, heart surgery on the upper chambers is a common cause of sick sinus syndrome. Coronary heart disease , high blood pressure, and aortic and mitral valve diseases may occur with sick sinus syndrome. However, these diseases may have nothing to do with the syndrome. Sick sinus syndrome is uncommon, but not rare. It is the most common reason people need to have an artificial pacemaker implanted. Sinus bradycardia occurs more often than the other types of the condition. Tachycardias (rapid heart rhythms) that start in the upper chambers of the heart may be part of the syndrome. These include atrial fibrillation, atrial flutter, atrial tachycardia. A period of fast heart rates is often followed by very slow heart rates. When there are periods of both slow and fast heart rates (rhythms) the condition often will be called tachy-brady syndrome. Some medicines can make abnormal heart rhythms worse, especially when doses are high. These include digitalis, calcium channel blockers, beta-blockers, and antiarrhythmics.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003573-3" qtype="symptoms">What are the symptoms of Sick sinus syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, there are no symptoms. Symptoms that do occur may mimic those of other disorders. Symptoms may include: Chest pain  or  angina ,  Confusion  or other changes in mental status,  Fainting  or near-fainting,  Fatigue ,  Dizziness  or lightheadedness, Sensation of feeling the heart beat ( palpitations ),  Shortness of breath , possibly only with physical activity like walking, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003573-4" qtype="exams and tests">How to diagnose Sick sinus syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The  heart rate  may be very slow at any time. Blood pressure may be normal or low. Sick sinus syndrome may cause symptoms of  heart failure  to start or get worse. Sick sinus syndrome is diagnosed when the symptoms occur only during episodes of arrhythmia. However, the link is often hard to prove. An ECG may show abnormal heart rhythms related to this syndrome. Holter or longer term rhythm monitors are effective tools for diagnosing sick sinus syndrome. They may pick up very slow heart rates and long pauses, along with episodes of atrial tachycardias. Types of monitors include event monitors, loop recorders, and mobile telemetry. An  intracardiac electrophysiology study (EPS)  is a very specific test for this disorder. However, it is not often needed and may not confirm the diagnosis. In some cases, a person's heart rate is observed when walking or exercising to see if it increases enough.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003573-5" qtype="treatment">What are the treatments for Sick sinus syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>You may not need treatment if you do not have any symptoms. Your health care provider will review the medicines you take to make sure they are not making your condition worse. Do not stop taking any of your medicines unless your provider tells you to do so. You may need a permanent implanted pacemaker if your symptoms are related to bradycardia (slow heart rate). A fast heart rate (tachycardia) may be treated with medicine. Sometimes, a procedure called radiofrequency ablation is used to cure tachycardia. In some cases, medicines used to control periods of fast heart rate are combined with use of a pacemaker, which guards against periods of slow heart rate.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003573-6" qtype="outlook">What is the outlook for Sick sinus syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The syndrome is most often progressive. This means it gets worse over time in most cases. The long-term outlook is excellent for people who have a permanent pacemaker implanted.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003573-7" qtype="complications">What are the complications of Sick sinus syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Angina, Decreased exercised capacity, Fainting (syncope), Falls or injury caused by fainting, Heart failure, Poor heart pumping, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003573-8" qtype="when to contact a medical professional">Do I need to see a doctor for Sick sinus syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have: Lightheadedness, Fainting, Palpitations, Other symptoms of the condition, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003573-9" qtype="prevention">How to prevent Sick sinus syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Keeping your heart healthy by eating a well-balanced diet and exercising can prevent many types of heart disease. You may need to avoid some types of medicines.&#160; Many times, the condition is not preventable.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000915" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a607035.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Oxaliplatin Injection</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,43 +7,46 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000915-1" qtype="important warning">What important warning or information should I know about Oxaliplatin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Oxaliplatin may cause severe allergic reactions. These allergic reactions may happen within a few minutes after you receive oxaliplatin and may cause death. Tell your doctor if you are allergic to oxaliplatin, carboplatin (Paraplatin), cisplatin (Platinol) or any other medications. If you experience any of the following symptoms, tell your doctor or other healthcare provider immediately: rash, hives, itching, reddening of the skin, difficulty breathing or swallowing, hoarseness, feeling as if your throat is closing, swelling of the lips and tongue, dizziness, lightheadness, or fainting.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000915-2" qtype="indication">Who should get Oxaliplatin Injection and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Oxaliplatin is used with other medications to treat advanced colon or rectal cancer (cancer that begins in the large intestine). Oxaliplatin is also used with other medications to prevent colon cancer from spreading in people who have had surgery to remove the tumor. Oxaliplatin is in a class of medications called platinum-containing antineoplastic agents. It works by killing cancer cells.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000915-3" qtype="usage">How should Oxaliplatin Injection be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Oxaliplatin comes as a solution (liquid) to be injected into a vein. Oxaliplatin is administered by a doctor or nurse. It is usually given once every fourteen days. Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000915-5" qtype="precautions">Are there safety concerns or special precautions about Oxaliplatin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Before using oxaliplatin, tell your doctor and pharmacist what prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take. Be sure to mention oral anticoagulants ('blood thinners') such as warfarin (Coumadin). Your doctor may need to change the doses of your medications or monitor you carefully for side effects., tell your doctor if you have or have ever had kidney disease., tell your doctor if you are pregnant or plan to become pregnant. Oxaliplatin may harm the fetus. You should use birth control to prevent pregnancy during your treatment with oxaliplatin. Talk to your doctor about types of birth control that will work for you.If you become pregnant while taking oxaliplatin, call your doctor. Do not breast-feed during your treatment with oxaliplatin., if you are having surgery, including dental surgery, tell the doctor or dentist that you are using oxaliplatin., you should know that oxaliplatin may decrease your ability to fight infection. Stay away from people who are sick during your treatment with oxaliplatin., you should know that exposure to cold air or objects may make some of the side effects of oxaliplatin worse. You should not eat or drink anything colder than room temperature, touch any cold objects, go near air conditioners or freezers, wash your hands in cold water, or go outside in cold weather unless absolutely necessary for five days after you receive each dose of oxaliplatin. If you must go outside in cold weather, wear a hat, gloves, and a scarf, and cover your mouth and nose., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000915-6" qtype="dietary">What special dietary instructions should I follow with Oxaliplatin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet. Do not eat or drink anything that is colder than room temperature for five days after you receive each dose of oxaliplatin.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000915-7" qtype="forget a dose">What should I do if I forget a dose of Oxaliplatin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Call your doctor as soon as possible if you are unable to keep an appointment to receive oxaliplatin. It is very important that you receive your treatment on schedule.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000915-8" qtype="side effects">What are the side effects or risks of Oxaliplatin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Oxaliplatin may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ numbness, burning, or tingling in the fingers, toes, hands, feet, mouth, or throat, pain in the hands or feet, increased sensitivity, especially to cold, decreased sense of touch, nausea, vomiting, diarrhea, constipation, gas, stomach pain, heartburn, sores in the mouth, loss of appetite, change in the ability to taste food, weight gain or loss, hiccups, dry mouth, muscle, back, or joint pain, tiredness, anxiety, depression, difficulty falling asleep or staying asleep, hair loss, dry skin, redness or peeling of the skin on the hands and feet, sweating, flushing,  Some side effects can be serious. If you experience any of these symptoms or those listed in the IMPORTANT WARNING section, call your doctor immediately:
+ stumbling or loss of balance when walking, difficulty with everyday activities such as writing or fastening buttons, difficulty speaking, strange feeling in the tongue, tightening of the jaw, chest pain or pressure, cough, shortness of breath, sore throat, fever, chills, and other signs of infection, pain, redness, or swelling in the place where oxaliplatin was injected, pain when urinating, decreased urination, unusual bruising or bleeding, nosebleed, blood in urine, vomit that is bloody or looks like coffee grounds, bright red blood in stool, black and tarry stools, pale skin, weakness, problems with vision, swelling of the arms, hands, feet, ankles, or lower legs,  Oxaliplatin may cause other side effects. Call your doctor if you have any unusual problems while taking this medication.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000915-9" qtype="emergency or overdose">What to do in case of emergency or overdose of Oxaliplatin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911. Symptoms of overdose may include:
+ shortness of breath, wheezing, numbness or tingling in the fingers or toes, vomiting, chest pain, slowed breathing, slowed heartbeat, tightening of the throat, diarrhea, </Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000915-10" qtype="other information">What other information should I know about Oxaliplatin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor and the laboratory. Your doctor will order certain lab tests to check your body's response to oxaliplatin. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="11">
 			<Question qid="0000915-11" qtype="brand names">What are the brand names of Oxaliplatin Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Eloxatin &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

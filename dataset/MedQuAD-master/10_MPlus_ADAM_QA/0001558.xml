@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001558" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000704.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Fecal immunochemical test (FIT)</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001558-1" qtype="information">What is (are) Fecal immunochemical test (FIT) ?</Question>
-			<Answer></Answer>
+			<Answer>The fecal immunochemical test (FIT) is used as a screening test for  colon cancer . It tests for hidden blood in the stool, which can be an early sign of cancer. FIT only detects human blood from the lower intestines. Medicines and food do not interfere with the test. So it tends to be more accurate and have fewer false positive results than other tests. </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001558-8" qtype="susceptibility">Who is at risk for Fecal immunochemical test (FIT)? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

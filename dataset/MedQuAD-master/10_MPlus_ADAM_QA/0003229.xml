@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003229" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001657.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Progeria</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003229-1" qtype="information">What is (are) Progeria ?</Question>
-			<Answer></Answer>
+			<Answer>Progeria is a rare genetic condition that produces rapid aging in children.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003229-2" qtype="causes">What causes Progeria ?</Question>
-			<Answer></Answer>
+			<Answer>Progeria is a rare condition. It is remarkable because its symptoms strongly resemble normal human aging, but it occurs in young children. In most cases, it is not passed down through families. It is rarely seen in more than one child in a family.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003229-3" qtype="symptoms">What are the symptoms of Progeria ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Growth failure during the first year of life, Narrow, shrunken or wrinkled face,  Baldness , Loss of eyebrows and eyelashes,  Short stature , Large head for size of face ( macrocephaly ), Open soft spot of the skull (fontanelle), Small jaw ( micrognathia ), Dry, scaly, thin skin,  Limited range of motion ,  Teeth - delayed or absent formation , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003229-4" qtype="exams and tests">How to diagnose Progeria ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam and order laboratory tests. This may show: Insulin resistance, Skin changes similar to that seen in scleroderma (the connective tissue becomes tough and hardened), Generally normal cholesterol and triglyceride levels ,  Cardiac stress testing may reveal signs of early atherosclerosis of blood vessels. Genetic testing can detect changes in the gene ( LMNA ) that causes progeria.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003229-5" qtype="treatment">What are the treatments for Progeria ?</Question>
-			<Answer></Answer>
+			<Answer>There is no specific treatment for progeria. Aspirin and statin medicines may be used to protect against a heart attack or stroke.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003229-6" qtype="support groups">Where to find support for people with Progeria ?</Question>
-			<Answer></Answer>
+			<Answer>More information and support for people with Progeria and their families can be found at: Progeria Research Foundation, Inc. --  www.progeriaresearch.org , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003229-7" qtype="outlook">What is the outlook for Progeria ?</Question>
-			<Answer></Answer>
+			<Answer>Progeria causes early death. People with the condition most often only live to their teenage years (average lifespan of 14 years). However, some can live into their early 20s. The cause of death is very often related to the heart or a  stroke .</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003229-8" qtype="complications">What are the complications of Progeria ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Heart attack ( myocardial infarction) , Stroke, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003229-9" qtype="when to contact a medical professional">Do I need to see a doctor for Progeria ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if your child does not appear to be growing or developing normally.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

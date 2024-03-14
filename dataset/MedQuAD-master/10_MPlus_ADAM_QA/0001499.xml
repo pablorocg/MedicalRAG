@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001499" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003797.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Eye and orbit ultrasound</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001499-1" qtype="information">Do you have information about Eye and orbit ultrasound</Question>
-			<Answer></Answer>
+			<Answer>An eye and orbit  ultrasound  is a test to look at the eye area. It also measures the size and structures of the eye.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

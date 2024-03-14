@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000761" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a688021.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Mesalamine</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,43 +7,46 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000761-1" qtype="indication">Who should get Mesalamine and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Mesalamine is used to treat ulcerative colitis (a condition which causes swelling and sores in the lining of the colon [large intestine] and rectum) and also to maintain improvement of ulcerative colitis symptoms. Mesalamine is in a class of medications called anti-inflammatory agents. It works by stopping the body from producing a certain substance that may cause inflammation.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000761-2" qtype="usage">How should Mesalamine be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Mesalamine comes as a delayed-release (releases the medication in the intestine where its effects are needed) tablet, a delayed-release capsule, and an extended-release (long acting; releases the medication throughout the digestive system) capsule to take by mouth. The delayed-release tablets (Lialda) are usually taken with food once a day by adults and children. The delayed-release tablets (Asacol HD) are usually taken on an empty stomach three times a day (1 hour before or 2 hours after meals) by adults. The extended-release capsules (Apriso) are usually taken with or without food once a day in the morning by adults. The extended-release capsules (Pentasa) are usually taken with or without food four times a day by adults. The extended-release capsules (Delzicol) are usually taken with or without food 2 to 4 times a day by adults and twice a day by children, preferably in the morning and afternoon. Follow the directions on your prescription label carefully, and ask your doctor or pharmacist to explain any part you do not understand. Take mesalamine exactly as directed. Do not take more or less of it or take it more often than prescribed by your doctor. Swallow the delayed-release tablets, delayed-release capsules, and extended-release capsules whole; do not split, chew, or crush them. Be careful not to break the protective coating on the delayed-release tablets. If you cannot swallow the extended-release capsules (Pentasa), you may open the capsules and sprinkle the entire contents on a tablespoon of applesauce or yogurt. Swallow (without chewing) this mixture immediately after preparation. If you cannot swallow the delayed-release capsules (Delzicol), you may carefully open the capsules and swallow (without chewing) the entire contents of each capsule and then drink a glass of water to make sure you have swallowed all of the medicine. Drink plenty of fluids while taking mesalamine. Continue to take mesalamine until you finish your prescription, even if you feel better at the beginning of your treatment. Do not stop taking mesalamine without talking to your doctor.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000761-4" qtype="precautions">Are there safety concerns or special precautions about Mesalamine ?</Question>
-			<Answer></Answer>
+			<Answer>Before taking mesalamine, tell your doctor and pharmacist if you are allergic to mesalamine, balsalazide (Colazal); olsalazine (Dipentum); salicylate pain relievers such as aspirin, choline magnesium trisalicylate, diflunisal, magnesium salicylate (Doan's, others); sulfasalazine (Azulfidine), any other medications, or any of the ingredients found in mesalamine delayed-release tablets, delayed-release capsules, and extended-release capsules. Ask your pharmacist for a list of the ingredients., tell your doctor and pharmacist what prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take. Your doctor may need to change the doses of your medications or monitor you more carefully for side effects., The following nonprescription or herbal products may interact with mesalamine: antacids such as aluminum hydroxide and magnesium hydroxide (Maalox), calcium carbonate (Tums), or calcium carbonate and magnesium (Rolaids); aspirin or other nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen (Advil, Motrin) and naproxen (Aleve, Naprosyn), or iron supplements. Be sure to let your doctor and pharmacist know that you are taking these medications before you start taking mesalamine. Do not start any of these medications while taking mesalamine without discussing with your healthcare provider., tell your doctor if you have or have ever had myocarditis (swelling of the heart muscle), pericarditis (swelling of the sac around the heart), a skin condition such as eczema (atopic dermatitis; a skin disease that causes the skin to be dry and itchy and to sometimes develop red, scaly rashes), kidney stones, or liver or kidney disease. If you will be taking the delayed-release tablets, tell your doctor if you have or have ever had a gastrointestinal obstruction (a blockage in your stomach or intestine)., tell your doctor if you are pregnant, plan to become pregnant, or are breastfeeding. If you become pregnant while taking mesalamine, call your doctor., plan to avoid unnecessary or prolonged exposure to the sunlight and to wear protective clothing, sunglasses, and sunscreen. Mesalamine may make your skin sensitive to sunlight., you should know that mesalamine should not be taken by people who have received the varicella virus (chicken pox) vaccine in the past six weeks because of the risk of Reye's syndrome (a serious condition in which fat builds up on the brain, liver, and other body organs)., you should know that mesalamine may cause a serious reaction. Many of the symptoms of this reaction are similar to the symptoms of ulcerative colitis, so it may be difficult to tell if you are experiencing a reaction to the medication or a flare (episode of symptoms) of your disease. Call your doctor if you experience some or all of the following symptoms: stomach pain or cramping, bloody diarrhea, fever, headache, weakness, or rash., if you have phenylketonuria (PKU, an inherited condition in which a special diet must be followed to prevent damage to your brain that can cause severe intellectual disability), you should know that the extended release capsules (Apriso) contain aspartame that forms phenylalanine., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000761-5" qtype="dietary">What special dietary instructions should I follow with Mesalamine ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000761-6" qtype="forget a dose">What should I do if I forget a dose of Mesalamine ?</Question>
-			<Answer></Answer>
+			<Answer>Take the missed dose as soon as you remember it. However, if it is almost time for the next dose, skip the missed dose and continue your regular dosing schedule. Do not take a double dose to make up for a missed one.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000761-7" qtype="side effects">What are the side effects or risks of Mesalamine ?</Question>
-			<Answer></Answer>
+			<Answer>Mesalamine may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ muscle or joint pain, back pain, nausea, vomiting, heartburn, burping, constipation, gas, itching, dizziness, runny nose, sneezing, sore throat, and congestion, hair loss, decreased appetite,  Some side effects can be serious. If you experience any of the following symptoms or those listed in the SPECIAL PRECAUTIONS section, call your doctor immediately:
+ rash, hives, itching or peeling or blistering skin, mouth sores or blisters, fever or flu-like symptoms, swelling of the eyes, face, lips, tongue, mouth, or throat, swollen glands, difficulty breathing or swallowing, new or worsening cough, chest pain, shortness of breath, black or tarry stools, bloody vomit, vomiting material that looks like coffee grounds, swelling of any part of the body, side or back pain, difficult or painful urination, or pink or red colored urine, or blood in urine, extreme tiredness, yellowing of the skin or eyes, pain in the right upper part of the stomach, pale stools,  Mesalamine may cause your urine to become discolored, reddish-brown when it comes in contact with any surface or water (e.g., in the toilet). Call your doctor if your urine is discolored. Mesalamine may cause other side effects. Call your doctor if you have any unusual problems while you are taking this medication.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000761-8" qtype="storage and disposal">What should I know about storage and disposal of Mesalamine ?</Question>
-			<Answer></Answer>
+			<Answer>Keep this medication in the container it came in, tightly closed, and out of reach of children. Store it at room temperature and away from excess heat, light, and moisture (not in the bathroom). It is important to keep all medication out of sight and reach of children as many containers (such as weekly pill minders and those for eye drops, creams, patches, and inhalers) are not child-resistant and young children can open them easily. To protect young children from poisoning, always lock safety caps and immediately place the medication in a safe location &#8211; one that is up and away and out of their sight and reach.  http://www.upandaway.org Unneeded medications should be disposed of in special ways to ensure that pets, children, and other people cannot consume them.  However, you should not flush this medication down the toilet. Instead, the best way to dispose of your medication is through a medicine take-back program. Talk to your pharmacist or contact your local garbage/recycling department to learn about take-back programs in your community.  See the FDA's Safe Disposal of Medicines website ( http://goo.gl/c4Rm4p ) for more information if you do not have access to a take-back program.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000761-9" qtype="emergency or overdose">What to do in case of emergency or overdose of Mesalamine ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911. Symptoms of overdose may include the following:
+ nausea, vomiting and abdominal pain, fast or shallow breathing, ringing in the ears, headache, dizziness, confusion, seizures, </Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0000761-10" qtype="other information">What other information should I know about Mesalamine ?</Question>
-			<Answer></Answer>
+			<Answer>If you are taking mesalamine delayed-release tablets (Delzicol), you may notice the tablet shell or part of the tablet shell in your stool. Tell your doctor if this happens frequently. Keep all appointments with your doctor and the laboratory. Your doctor may order certain lab tests before and during your treatment. Before having any laboratory test, tell your doctor and the laboratory personnel that you are taking mesalamine. Do not let anyone else take your medicine. Ask your pharmacist any questions you have about refilling your prescription. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="11">
 			<Question qid="0000761-11" qtype="brand names">What are the brand names of Mesalamine ?</Question>
-			<Answer></Answer>
+			<Answer>Apriso &#174; , Asacol &#174; &#182; , Asacol HD &#174; , Delzicol &#174; , Lialda &#174; , Pentasa &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

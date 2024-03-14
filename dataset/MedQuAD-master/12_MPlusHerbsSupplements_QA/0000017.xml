@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000017" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/94.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Blessed thistle</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,46 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000017-1" qtype="information">What is Blessed thistle ?</Question>
-			<Answer></Answer>
+			<Answer>Blessed thistle (Cnicus benedictus) is a flowering plant with sharp prickles on the stems and leaves. It's native to the Mediterranean region. 
+
+Blessed thistle contains chemicals called tannins, which might help with diarrhea, cough, and swelling.  
+
+People use blessed thistle for indigestion, infections, wounds, and many other conditions, but there is no good scientific evidence to support these uses. 
+
+Don't confuse blessed thistle with milk thistle. These are not the same.
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000017-2" qtype="how effective is it">How effective is Blessed thistle ?</Question>
-			<Answer></Answer>
+			<Answer>There is interest in using blessed thistle for a number of purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000017-3" qtype="how does it work">What is the action of Blessed thistle and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000017-4" qtype="precautions">Are there safety concerns or special precautions about Blessed thistle ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000017-5" qtype="interactions with medications">Are there interactions between Blessed thistle and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Minor Be watchful with this combination. Antacids Antacids are used to decrease stomach acid. Blessed thistle can increase stomach acid. Taking blessed thistle might decrease the effects of antacids. Medications that decrease stomach acid (H2-blockers) H2-blockers are used to decrease stomach acid. Blessed thistle can increase stomach acid. Taking blessed thistle might decrease the effects of H2-blockers.  
+
+Some common H2-blockers include cimetidine (Tagamet), ranitidine (Zantac), and famotidine (Pepcid). Medications that decrease stomach acid (Proton pump inhibitors) Proton pump inhibitors are used to decrease stomach acid. Blessed thistle can increase stomach acid. Taking blessed thistle might decrease the effects of proton pump inhibitors.  
+
+Some common proton pump inhibitors include omeprazole (Prilosec), lansoprazole (Prevacid), rabeprazole (Aciphex), pantoprazole (Protonix), and esomeprazole (Nexium).</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000017-6" qtype="interactions with herbs and supplements">Are there interactions between Blessed thistle and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with herbs and supplements.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000017-7" qtype="interactions with foods">Are there interactions between Blessed thistle and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000017-8" qtype="dose">What is the dosage of Blessed thistle ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

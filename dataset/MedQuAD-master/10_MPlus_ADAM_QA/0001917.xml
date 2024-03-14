@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001917" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000510.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hemolytic-uremic syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001917-1" qtype="information">What is (are) Hemolytic-uremic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Shiga-like toxin producing  E coli  hemolytic-uremic syndrome (STEC-HUS) is a disorder that most often occurs when an infection in the digestive system produces toxic substances. These substances destroy red blood cells and cause kidney injury.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001917-2" qtype="causes">What causes Hemolytic-uremic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Hemolytic-uremic syndrome (HUS) often occurs after a gastrointestinal infection with  E coli  bacteria ( Escherichia coli  O157:H7). However, the condition has also been linked to other gastrointestinal infections, including  shigella  and  salmonella . It has also been linked to non-gastrointestinal infections. HUS is most common in children. It is the most common cause of acute kidney failure in children. Several large outbreaks have been linked to undercooked hamburger meat contaminated with  E coli . E coli  can be transmitted through: Contact from one person to another, Consuming uncooked food, such as milk products or beef,  STEC-HUS is not to be confused with atypical HUS (aHUS) which is not infection-related. It is similar to another disease called  thrombotic thrombocytopenic purpura  (TTP).</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001917-3" qtype="symptoms">What are the symptoms of Hemolytic-uremic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>STEC-HUS often begins with vomiting and diarrhea, which may be bloody. Within a week, the person may become weak and irritable. People with this condition may urinate less than normal. Urine output may almost stop. Red blood cell destruction leads to symptoms of  anemia . Early symptoms: Blood in the stools , Irritability,  Fever ,  Lethargy ,  Vomiting  and  diarrhea ,  Weakness ,  Later symptoms: Bruising ,  Decreased consciousness ,  Low urine output ,  No urine output ,  Pallor ,  Seizures  -- rare, Skin rash that looks like fine red spots ( petechiae ), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001917-4" qtype="exams and tests">How to diagnose Hemolytic-uremic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam. This may show: Liver or spleen swelling, Nervous system changes ,  Laboratory tests will show signs of  hemolytic anemia  and  acute renal failure . Tests may include: Blood clotting tests ( PT  and  PTT ),  Comprehensive metabolic panel  may show increased levels of  BUN  and  creatinine ,  Complete blood count  (CBC) may show increased white blood cell count and decreased red blood cell count,  Platelet  count is usually reduced, Review of a blood smear, which shows deformed and fragmented red blood cells,  Urinalysis  may reveal blood and protein in the urine,  Urine protein  test can show the amount of protein in the urine ,  Other tests: Stool culture  may be positive for a certain type of  E coli  bacteria or other bacteria , Colonoscopy,  Kidney biopsy  (in rare cases), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001917-5" qtype="treatment">What are the treatments for Hemolytic-uremic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment may involve: Dialysis, Medicines, such as corticosteroids, Management of fluids and electrolytes, Transfusions of packed red blood cells and platelets, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001917-6" qtype="outlook">What is the outlook for Hemolytic-uremic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>This is a serious illness in both children and adults, and it can cause death. With proper treatment, more than half of people will recover. The outcome is better in children than adults.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001917-7" qtype="complications">What are the complications of Hemolytic-uremic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Blood clotting problems,  Hemolytic anemia , Kidney failure, Hypertension leading to seizures, irritability, and other nervous system problems, Too few platelets ( thrombocytopenia ),  Uremia , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001917-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hemolytic-uremic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop symptoms of HUS. Emergency symptoms include: Blood in the stool, No urination, Reduced alertness (consciousness) ,  Contact your provider if you have had an episode of HUS and your urine output decreases, or you develop other new symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001917-9" qtype="prevention">How to prevent Hemolytic-uremic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>You can prevent the known cause,  E coli , by cooking hamburger and other meats well. You should also avoid contact with unclean water&#160;and follow proper hand washing methods.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

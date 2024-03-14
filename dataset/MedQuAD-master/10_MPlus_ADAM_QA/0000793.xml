@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000793" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001126.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Chinese restaurant syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,31 +21,31 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000793-1" qtype="information">What is (are) Chinese restaurant syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>MSG symptom complex is a set of symptoms associated with eating food with the additive monosodium glutamate (MSG). MSG is the sodium salt a common amino acid, glutamic acid. MSG is found naturally in our bodies and in many foods including cheese and tomatoes. MSG is added to many different types of foods as a flavor enhancer.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000793-2" qtype="causes">What causes Chinese restaurant syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Reports of reactions to MSG originated in 1968 in a letter published in the New England Journal of Medicine. Since then, reports of reactions to MSG have come from people claiming to experience symptoms after consuming food containing MSG. However, studies on MSG in foods have failed to find a conclusive link between MSG and the symptoms some people describe.  The US Food and Drug Administration (FDA) did a study of the issue and found no evidence that MSG in food caused symptoms. The report did find minor reactions in people who consumed 3 or more grams of MSG alone without food. Most foods with MSG have less than 0.5 grams of the additive.  MSG is rated as "generally considered safe" by the FDA.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000793-3" qtype="symptoms">What are the symptoms of Chinese restaurant syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms, if they occur, are usually mild and go away in a short time: Flushing , Headache, Muscle aches,  Numbness  or burning in or around the mouth, Heart palpitations, Tingling, Drowsiness, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000793-4" qtype="exams and tests">How to diagnose Chinese restaurant syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>There are no tests for MSG symptom complex.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000793-5" qtype="treatment">What are the treatments for Chinese restaurant syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Most symptoms are mild, such as headache or flushing, and need no treatment.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000793-6" qtype="outlook">What is the outlook for Chinese restaurant syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Most people recover from perceived MSG symptom complex without treatment and have no lasting problems.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000793-7" qtype="when to contact a medical professional">Do I need to see a doctor for Chinese restaurant syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Get emergency medical help right away if you have signs of a possible allergic reaction: Chest pain, Heart palpitations, Shortness of breath, Swelling of the lips or throat, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

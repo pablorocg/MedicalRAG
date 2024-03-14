@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001398" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007277.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Endovascular embolization</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001398-1" qtype="information">Do you have information about Endovascular embolization</Question>
-			<Answer></Answer>
+			<Answer>Endovascular embolization is a procedure to treat abnormal blood vessels in the brain and other parts of the body. It is an alternative to open surgery. This procedure cuts off the blood supply to a certain part of the body.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

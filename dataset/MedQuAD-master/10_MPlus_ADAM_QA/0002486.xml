@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002486" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001320.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lymphoid hyperplasia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002486-1" qtype="information">What is (are) Lymphoid hyperplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Lymphoid hyperplasia is an increase in the number of normal cells contained in the lymph nodes. These cells are called lymphocytes. This can occur as a reaction to infection with bacteria, viruses, or other types of germs. This may or may not be normal, depending on why it occurs.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

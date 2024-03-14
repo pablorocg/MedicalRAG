@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000685" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003419.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cardiac catheterization</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000685-1" qtype="information">Do you have information about Cardiac catheterization</Question>
-			<Answer></Answer>
+			<Answer>Cardiac catheterization involves passing a thin flexible tube (catheter) into the right or left side of the heart. The catheter is most often inserted from the groin or the arm.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

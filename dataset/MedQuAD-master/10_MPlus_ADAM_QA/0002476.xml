@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002476" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003933.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Lymph node biopsy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002476-1" qtype="information">Do you have information about Lymph node biopsy</Question>
-			<Answer></Answer>
+			<Answer>A lymph node biopsy is the removal of lymph node tissue for examination under a microscope. The lymph nodes are small glands that make white blood cells (lymphocytes), which fight infection. Lymph nodes may trap the germs that are causing an infection. Cancer can spread to lymph nodes.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

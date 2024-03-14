@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000013" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/795.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Bitter Melon</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,42 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000013-1" qtype="information">What is Bitter Melon ?</Question>
-			<Answer></Answer>
+			<Answer>Bitter melon (Momordica charantia) is a vine originally from India and other Asian countries. It has been traditionally used to treat diabetes. 
+
+Bitter melon contains a chemical that acts like insulin to help reduce blood sugar levels. 
+
+People commonly use bitter melon for diabetes, osteoarthritis, athletic performance, and many other conditions, but there is no good scientific evidence to support these uses. 
+
+Bitter melon is sometimes called bitter gourd. Don't confuse this with Ivy gourd, which is a different plant.
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000013-2" qtype="how effective is it">How effective is Bitter Melon ?</Question>
-			<Answer></Answer>
+			<Answer>There is interest in using bitter melon for a number of purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000013-3" qtype="how does it work">What is the action of Bitter Melon and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000013-4" qtype="precautions">Are there safety concerns or special precautions about Bitter Melon ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000013-5" qtype="interactions with medications">Are there interactions between Bitter Melon and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Moderate Be cautious with this combination. Medications for diabetes (Antidiabetes drugs) Bitter melon might lower blood sugar levels. Taking bitter melon along with diabetes medications might cause blood sugar to drop too low. Monitor your blood sugar closely. Medications moved by pumps in cells (P-Glycoprotein Substrates) Some medications are moved in and out of cells by pumps. Bitter melon might change how these pumps work and change how much medication stays in the body. In some cases, this might change the effects and side effects of a medication. Pazopanib (Votrient) Bitter melon might increase how much pazopanib stays in the body. In some cases, this might increase the effects and side effects of pazopanib.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000013-6" qtype="interactions with herbs and supplements">Are there interactions between Bitter Melon and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>Herbs and supplements that might lower blood sugar Bitter melon might lower blood sugar. Taking it with other supplements with similar effects might lower blood sugar too much. Examples of supplements with this effect include aloe, cassia cinnamon, chromium, and prickly pear cactus.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000013-7" qtype="interactions with foods">Are there interactions between Bitter Melon and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000013-8" qtype="dose">What is the dosage of Bitter Melon ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

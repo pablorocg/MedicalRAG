@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001032" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001127.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Crigler-Najjar syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001032-1" qtype="information">What is (are) Crigler-Najjar syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Crigler-Najjar syndrome is a very rare inherited disorder in which bilirubin cannot be broken down. Bilirubin is a substance made by the liver.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001032-2" qtype="causes">What causes Crigler-Najjar syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>An enzyme converts bilirubin into a form that can easily be removed from the body. Crigler-Najjar syndrome occurs when this enzyme does not work correctly. Without this enzyme, bilirubin can build up in the body and lead to: Jaundice (yellow discoloration of skin and eyes), Damage to the brain, muscles, and nerves,  Type I Crigler-Najjar is the form of the disease that starts early in life. Type II Crigler-Najjar syndrome may start later in life. The syndrome runs in families (inherited). A child must receive a copy of the defective gene from both parents to develop the severe form of the condition. Parents who are carriers (with just one defective gene) have about half the enzyme activity of a normal adult, but do not have symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001032-3" qtype="symptoms">What are the symptoms of Crigler-Najjar syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Confusion  and changes in thinking, Yellow skin (jaundice) and yellow in the whites of the eyes (icterus), which begin a few days after birth and get worse over time, Lethargy, Poor feeding, Vomiting, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001032-4" qtype="exams and tests">How to diagnose Crigler-Najjar syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Tests of liver function include: Conjugated (bound) bilirubin, Total bilirubin level, Unconjugated (unbound) bilirubin in blood.,  Enzyme assay ,  Liver biopsy , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001032-5" qtype="treatment">What are the treatments for Crigler-Najjar syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Light treatment (phototherapy) is needed throughout a person's life. In infants, this is done using bilirubin lights (bili or 'blue' lights). Phototherapy does not work as well after age 4, because thickened skin blocks the light. A liver transplant can be done in some people with type I disease. Blood transfusions may help control the amount of bilirubin in blood. Calcium compounds are sometimes used to remove bilirubin in the gut. The drug phenobarbitol is sometimes used to treat type II Crigler-Najjar syndrome.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001032-6" qtype="outlook">What is the outlook for Crigler-Najjar syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Milder forms of the disease (type II) do not cause liver damage or changes in thinking during childhood. People who are affected with a mild form still have jaundice, but they have fewer symptoms and less organ damage. Infants with the severe form of the disease (type I) may continue to have jaundice into adulthood, and may need daily treatment. If not treated, this severe form of the disease will lead to death in childhood. People with this condition who reach adulthood will develop brain damage due to jaundice ( kernicterus ), even with regular treatment. The life expectancy for someone with type I&#160;disease is 30 years.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001032-7" qtype="complications">What are the complications of Crigler-Najjar syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Possible complications include: A form of brain damage caused by jaundice (kernicterus) ,  Chronic yellow skin/eyes , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001032-8" qtype="when to contact a medical professional">Do I need to see a doctor for Crigler-Najjar syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Seek genetic counseling if you are planning to have children and have a family history of Crigler-Najjar. Contact your health care provider if you or your newborn infant has jaundice that does not go away.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001032-9" qtype="prevention">How to prevent Crigler-Najjar syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Genetic counseling is recommended for people with a family history of Crigler-Najjar syndrome who want to have children. Blood tests can identify people who carry the genetic variation.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

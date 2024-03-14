@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002921" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001637.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Palatal myoclonus</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,15 +19,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002921-1" qtype="information">What is (are) Palatal myoclonus ?</Question>
-			<Answer></Answer>
+			<Answer>Palatal myoclonus is a fast spasm (contraction) of the muscles in the roof of the mouth.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002921-2" qtype="causes">What causes Palatal myoclonus ?</Question>
-			<Answer></Answer>
+			<Answer>Palatal myoclonus is most often due to damage (lesions) to brain nerve pathways.  Stroke  is the most common cause. The problem most often develops about a year after the stroke occurs. Other conditions such as  multiple sclerosis , trauma, or tumor may also lead to this problem. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002921-3" qtype="symptoms">What are the symptoms of Palatal myoclonus ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Clicking in the ear, Popping in the ear, Fluttering sounds in the ear with normal hearing, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

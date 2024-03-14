@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004261" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001428.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Waardenburg syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,35 +21,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004261-1" qtype="information">What is (are) Waardenburg syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Waardenburg syndrome is a group of conditions passed down through families. The syndrome involves  deafness  and pale skin, hair, and eye color.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004261-2" qtype="causes">What causes Waardenburg syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Waardenburg syndrome is most often inherited as an  autosomal dominant  trait. This means only one parent needs to pass on the altered gene for a child to have this condition. There are four main types of Waardenburg syndrome. The most common are type I and type II. Type III (Klein-Waardenburg syndrome) and type IV (Waardenburg-Shah syndrome) are less common. The multiple types of this syndrome result from defects in different genes. Most people with this disease have a parent with the disease, but the symptoms in the parent can be quite different from those in the child.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004261-3" qtype="symptoms">What are the symptoms of Waardenburg syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Cleft lip (rare), Constipation, Deafness (more common in type II disease), Extremely pale blue eyes or eye colors that don't match ( heterochromia ), Pale color skin, hair, and eyes (partial albinism), Difficulty completely straightening joints, Possible slight decrease in intellectual function, Wide-set eyes (in type I), White patch of hair or early graying of the hair ,  Less common types of this disease may cause problems with the arms or intestines.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004261-4" qtype="exams and tests">How to diagnose Waardenburg syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Tests may include: Audiometry ,  Bowel transit time , Colon biopsy, Genetic testing, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004261-5" qtype="treatment">What are the treatments for Waardenburg syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>There is no specific treatment. Symptoms will be treated as needed. Special diets and medicines to keep the bowel moving are prescribed to those people who have constipation. Hearing should be checked carefully.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004261-6" qtype="outlook">What is the outlook for Waardenburg syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Once hearing problems are addressed, most people with this syndrome should be able to lead a normal life. Those with rarer forms of the syndrome may have other complications.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004261-7" qtype="complications">What are the complications of Waardenburg syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Constipation severe enough to require part of large bowel to be removed, Hearing loss, Self-esteem problems, or other problems related to appearance, Slight decreased intellectual functioning (possible, unusual), </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004261-8" qtype="when to contact a medical professional">Do I need to see a doctor for Waardenburg syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Genetic counseling may be helpful if you have a family history of Waardenburg syndrome and plan to have children. Contact your health care provider for a hearing test if you or your child has deafness or decreased hearing.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

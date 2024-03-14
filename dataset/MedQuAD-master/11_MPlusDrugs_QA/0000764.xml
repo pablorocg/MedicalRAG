@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000764" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a695034.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Mesna Injection</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,37 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000764-1" qtype="indication">Who should get Mesna Injection and why is it prescribed ?</Question>
-			<Answer></Answer>
+			<Answer>Mesna is used to reduce the risk of hemorrhagic cystitis (a condition that causes inflammation of the bladder and can result in serious bleeding) in people who receive ifosfamide (a medication used for the treatment of cancer). Mesna is in a class of medications called cytoprotectants. It works by protecting against some of the harmful effects of certain chemotherapy medications.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000764-2" qtype="usage">How should Mesna Injection be used and what is the dosage ?</Question>
-			<Answer></Answer>
+			<Answer>Mesna comes as a solution (liquid) to be injected intravenously (into a vein) by a doctor or nurse in a medical facility. It is usually given at the same time as you receive your chemotherapy treatment and then 4 and 8 hours after your chemotherapy treatment. Drink at least 1 quart (4 cups; about 1 liter) of fluid daily while you are receiving mesna injection. Ask your pharmacist or doctor for a copy of the manufacturer's information for the patient.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000764-4" qtype="precautions">Are there safety concerns or special precautions about Mesna Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Before receiving mesna injection, tell your doctor and pharmacist if you are allergic to mesna, any other medications, or any of the ingredients in mesna injection. Ask your pharmacist for a list of the ingredients., tell your doctor and pharmacist what prescription and nonprescription medications, vitamins, nutritional supplements, and herbal products you are taking or plan to take., tell your doctor if you have or have ever had an autoimmune disorder (a condition that occurs when your immune system mistakenly attacks healthy body tissue) such as rheumatoid arthritis, systemic lupus erythematosus, or nephritis (a type of kidney problem)., tell your doctor if you are pregnant, plan to become pregnant, or are breast-feeding., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000764-5" qtype="dietary">What special dietary instructions should I follow with Mesna Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Unless your doctor tells you otherwise, continue your normal diet.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000764-6" qtype="side effects">What are the side effects or risks of Mesna Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Mesna may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:
+ nausea, vomiting, constipation, loss of appetite or weight, diarrhea, abdominal pain, headache, tiredness, dizziness, hair loss, pain or redness at the place where the injection was given, loss of strength and energy, fever, sore throat, cough, flushing,  Some side effects can be serious. If you experience any of these symptoms, call your doctor immediately:
+ pink or red colored urine or blood in urine, swelling of the face, arms, or legs, hives, rash, itching, difficulty breathing or swallowing , chest pain, fast, irregular, or pounding heartbeat, unusual bleeding or bruising,  Mesna may cause other side effects. Call your doctor if you have any unusual problems while receiving this medication. If you experience a serious side effect, you or your doctor may send a report to the Food and Drug Administration's (FDA) MedWatch Adverse Event Reporting program online ( http://www.fda.gov/Safety/MedWatch ) or by phone (1-800-332-1088).</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000764-7" qtype="emergency or overdose">What to do in case of emergency or overdose of Mesna Injection ?</Question>
-			<Answer></Answer>
+			<Answer>In case of overdose, call the poison control helpline at 1-800-222-1222. Information is also available online at  https://www.poisonhelp.org/help . If the victim has collapsed, had a seizure, has trouble breathing, or can't be awakened, immediately call emergency services at 911.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000764-8" qtype="other information">What other information should I know about Mesna Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Keep all appointments with your doctor and the laboratory. Before having any laboratory test, tell your doctor and the laboratory personnel that you are receiving mesna injection. It is important for you to keep a written list of all of the prescription and nonprescription (over-the-counter) medicines you are taking, as well as any products such as vitamins, minerals, or other dietary supplements. You should bring this list with you each time you visit a doctor or if you are admitted to a hospital. It is also important information to carry with you in case of emergencies.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000764-9" qtype="brand names">What are the brand names of Mesna Injection ?</Question>
-			<Answer></Answer>
+			<Answer>Mesnex &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

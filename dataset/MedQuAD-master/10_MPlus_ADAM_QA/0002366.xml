@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002366" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007357.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Leg MRI scan</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002366-1" qtype="information">Do you have information about Leg MRI scan</Question>
-			<Answer></Answer>
+			<Answer>A leg MRI (magnetic resonance imaging) scan of the leg uses strong magnets to create pictures of the leg. This may include the ankle, foot, and surrounding tissues. A leg MRI also creates  pictures of the knee. MRI does not use radiation (x-rays).  Single MRI images are called slices. The images can be stored on a computer or printed on film. One exam produces many slices.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

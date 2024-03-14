@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000645" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003429.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Caloric stimulation</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -15,7 +14,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000645-1" qtype="information">Do you have information about Caloric stimulation</Question>
-			<Answer></Answer>
+			<Answer>Caloric stimulation is a test that uses differences in temperature to diagnose damage to the acoustic nerve. This is the nerve that is involved in hearing and balance. The test also checks for damage to the brain stem.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

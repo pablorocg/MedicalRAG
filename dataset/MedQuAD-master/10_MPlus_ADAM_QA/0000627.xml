@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000627" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002445.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Caffeine in the diet</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000627-1" qtype="information">Do you have information about Caffeine in the diet</Question>
-			<Answer></Answer>
+			<Answer>Caffeine is a substance that is found in certain plants. It can also be man-made and added to foods. It is a  central nervous system  stimulant and a diuretic (substance that helps rid your body of fluids).</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

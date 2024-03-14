@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003608" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002982.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Skin graft</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -16,7 +15,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003608-1" qtype="information">Do you have information about Skin graft</Question>
-			<Answer></Answer>
+			<Answer>A skin graft is a patch of skin that is removed by surgery from one area of the body and transplanted, or attached, to another area.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

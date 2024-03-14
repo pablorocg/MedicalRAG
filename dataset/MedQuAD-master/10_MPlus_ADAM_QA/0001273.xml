@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001273" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000997.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Down syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,43 +21,91 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001273-1" qtype="information">What is (are) Down syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Down syndrome is a genetic condition in which a person has 47  chromosomes  instead of the usual 46. </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001273-2" qtype="causes">What causes Down syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>In most cases, Down syndrome occurs when there is an extra copy of chromosome 21. This form of Down syndrome is called trisomy 21. The extra chromosome causes problems with the way the body and brain develop. Down syndrome is one of the most common causes of birth defects.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001273-3" qtype="symptoms">What are the symptoms of Down syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Down syndrome symptoms vary from person to person and can range from mild to severe. No matter how severe the condition is, people with Down syndrome have a widely-recognized appearance. The head may be smaller than normal and abnormally shaped. For example, the head may be round with a flat area on the back. The inner corner of the eyes may be rounded instead of pointed. Common physical signs include: Decreased muscle tone  at birth
+ , 
+ Excess skin at the nape of the neck
+ , 
+ Flattened nose
+ , 
+ Separated joints between the bones of the skull (sutures)
+ , 
+ Single crease in the palm of the hand
+ , 
+ Small ears
+ , 
+ Small mouth
+ , 
+ Upward slanting eyes
+ , 
+ Wide, short hands with short fingers
+ , 
+ White spots on the colored part of the eye (Brushfield spots)
+ ,  Physical development is often slower than normal. Most children with Down syndrome never reach average adult height. Children may also have delayed mental and social development. Common problems may include: 
+ Impulsive behavior
+ , 
+ Poor judgment
+ , 
+ Short attention span
+ , 
+ Slow learning
+ ,  As children with Down syndrome grow and become aware of their limitations, they may also feel frustration and anger. Many different medical conditions are seen in people with Down syndrome, including: Birth defects involving the heart, such as an  atrial septal defect  or  ventricular septal defect ,  Dementia &#160;, Eye problems, such as  cataracts  (most children with Down syndrome need glasses), Early and massive vomiting, which may be a sign of a gastrointestinal blockage, such as  esophageal atresia  and  duodenal atresia , 
+ Hearing problems, probably caused by repeated ear infections
+ , 
+ Hip problems and risk of hip&#160; dislocation , 
+ Long-term (chronic)  constipation  problems,  Sleep apnea  (because the mouth, throat, and airway are narrowed in children with Down syndrome), Teeth that appear later than normal and in a location that may cause problems with chewing, Underactive thyroid ( hypothyroidism ), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001273-4" qtype="exams and tests">How to diagnose Down syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider can often make a diagnosis of Down syndrome at birth based on how your baby looks. Your provider may hear a  heart murmur  when listening to your baby's chest with a stethoscope. A  blood test  can be done to check for the extra chromosome and confirm the diagnosis.
+ Other tests that may be done include: Echocardiogram  and  electrocardiogram (ECG)  to check for heart defects (usually done soon after birth),  X-rays  of the chest and gastrointestinal tract,  People with Down syndrome need to be screened for certain medical conditions. They should have: 
+   An eye exam every year during infancy
+   , 
+   Hearing tests every 6 to 12 months, depending on age
+   , 
+   Dental exams every 6 months
+   , 
+   X-rays of the upper or cervical spine between ages 3 and 5 years
+   ,  Pap smears  and pelvic exams beginning during puberty or by age 21, 
+   Thyroid testing every 12 months
+   , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001273-5" qtype="treatment">What are the treatments for Down syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>There is no specific treatment for Down syndrome. If treatment is needed, it is usually for associated health problems. For example, a child born with a gastrointestinal blockage may need major surgery right after birth. Certain heart defects may also require surgery. When breast-feeding, your baby should be well supported and fully awake. Your baby may have some leakage because of poor tongue control. But many infants with Down syndrome can successfully breastfeed. Obesity can become a problem for older children and adults. Getting plenty of activity and avoiding high-calorie foods are important. Before beginning sports activities, your child's neck and hips should be examined. Behavioral training can help people with Down syndrome and their families deal with the frustration, anger, and compulsive behavior that often occur. Parents and caregivers should learn to help a person with Down syndrome deal with frustration. At the same time, it is important to encourage independence. Teen girls and women with Down syndrome are usually able to get pregnant. There is an increased risk for sexual abuse and other types of abuse in both males and females. It is important for those with Down syndrome to: 
+ Be taught about pregnancy and taking the proper precautions
+ , 
+ Learn to advocate for themselves in difficult situations
+ , 
+ Be in a safe environment
+ ,  If the person has any heart defects or other heart problems, antibiotics may need to be prescribed to prevent a heart infection called  endocarditis . Special education and training are offered in most communities for children with delays in mental development. Speech therapy may help improve language skills. Physical therapy may teach movement skills. Occupational therapy may help with feeding and performing tasks. Mental health care can help both parents and the child manage mood or behavior problems. Special educators are also often needed.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001273-6" qtype="support groups">Where to find support for people with Down syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>More information and support for people with Down syndrome and their families can be found at: National Down Syndrome Society --  www.ndss.org , National Down Syndrome Congress --  www.ndsccenter.org , NIH Genetic and Rare Diseases Information Center --  rarediseases.info.nih.gov/diseases/10247/down-syndrome , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001273-7" qtype="outlook">What is the outlook for Down syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Although many children with Down syndrome have physical and mental limitations, they can live independent and productive lives well into adulthood. About one half of children with Down syndrome are born with heart problems, including atrial septal defect, ventricular septal defect, and endocardial cushion defects. Severe heart problems may lead to early death. People with Down syndrome have an increased risk for certain types of leukemia, which can also cause early death. The level of intellectual disability varies,&#160;but is usually moderate. Adults with Down syndrome have an increased risk for dementia.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001273-8" qtype="complications">What are the complications of Down syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001273-9" qtype="when to contact a medical professional">Do I need to see a doctor for Down syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>A provider should be consulted to determine if the child needs special education and training. It is important for the child to have regular checkups with a provider.</Answer>
 	</QAPair>
 	<QAPair pid="10">
 			<Question qid="0001273-10" qtype="prevention">How to prevent Down syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Experts recommend genetic counseling for people with a family history of Down syndrome who wish to have a baby. A woman's risk of having a child with Down syndrome increases as she gets older. The risk is significantly higher among women age 35 and older. Couples who already have a baby with Down syndrome have an increased risk of having another baby with the condition. Tests such as  nuchal translucency ultrasound ,  amniocentesis , or  chorionic villus sampling  can be done on a fetus during the first few months of pregnancy to check for Down syndrome.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000747" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001491.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cervical dysplasia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,35 +23,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000747-1" qtype="information">What is (are) Cervical dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Cervical dysplasia refers to abnormal changes in the cells on the surface of the  cervix . The cervix is the lower part of the uterus (womb) that opens at the top of the vagina. The changes are not cancer, but they can lead to cancer of the cervix if not treated. </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000747-2" qtype="causes">What causes Cervical dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Cervical dysplasia can develop at any age. However, follow-up and treatment will depend on your age. Cervical dysplasia is most commonly caused by the human papillomavirus (HPV). HPV is a common virus that is spread through sexual contact. There are many types of HPV. Some types lead to cervical dysplasia or cancer. Other types of HPV can cause genital warts. The following may increase your risk for cervical dysplasia: Having sex before age 18, Having a baby at very young age, Having had multiple sexual partners, Having other illnesses, such as tuberculosis or HIV, Using medicines that suppress your immune system, Smoking , Maternal history of exposure to DES (diethylstilbestrol), </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000747-3" qtype="symptoms">What are the symptoms of Cervical dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, there are no symptoms. </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000747-4" qtype="exams and tests">How to diagnose Cervical dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a pelvic exam to check cervical dysplasia. The initial test is usually a Pap test and a test for the presence of HPV. Cervical dysplasia that is seen on a  Pap test  is called squamous intraepithelial lesion (SIL). On the Pap test report, these changes will be described as: Low-grade (LSIL), High-grade (HSIL), Possibly cancerous (malignant), Atypical glandular cells (AGC), Atypical squamous cells (ASC) ,  You will need more tests if a Pap test shows abnormal cells or cervical dysplasia. If the changes were mild, follow-up Pap tests may be all that is needed. The provider may perform a biopsy to confirm the condition. This may be done with the use of  colposcopy . Any areas of concern will be biopsied. The biopsies are very small and most women feel only a small cramp. Dysplasia that is seen on a biopsy of the cervix is called cervical intraepithelial neoplasia (CIN). It is grouped into 3 categories: CIN I -- mild dysplasia, CIN II -- moderate to marked dysplasia, CIN III -- severe dysplasia to carcinoma in situ ,  Some strains of HPV are known to cause cervical cancer. An HPV DNA test can identify the high-risk types of HPV linked to this cancer. This test may be done: As a screening test for women over age 30, For women of any age who have a slightly abnormal Pap test result , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000747-5" qtype="treatment">What are the treatments for Cervical dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment depends on the degree of dysplasia. Mild dysplasia (LSIL or CIN I) may go away without treatment. Changes due to HPV infection may also go away without treatment or dysplasia. You may only need careful follow-up by your provider with repeat Pap tests every 6 to 12 months., If the changes do not go away or get worse, treatment is needed.,  Treatment for moderate-to-severe dysplasia or mild dysplasia that does not go away may include: Cryosurgery to freeze abnormal cells, Laser therapy, which uses light to burn away abnormal tissue, LEEP (loop electrosurgical excision procedure), which uses electricity to remove abnormal tissue, Surgery to remove the abnormal tissue (cone biopsy),  Hysterectomy  (in rare cases) ,  If you have had dysplasia, you will need to have repeat exams every 12 months or as suggested by your provider. Make sure to get the HPV vaccine when it is offered to you. This vaccine prevents many cervical cancers.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000747-6" qtype="outlook">What is the outlook for Cervical dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Early diagnosis and prompt treatment cures most cases of cervical dysplasia. However, the condition may return. Without treatment, severe cervical dysplasia may change into cervical cancer. </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000747-7" qtype="when to contact a medical professional">Do I need to see a doctor for Cervical dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if your age is 21 or older and you have never had a pelvic exam and Pap test.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000747-8" qtype="prevention">How to prevent Cervical dysplasia ?</Question>
-			<Answer></Answer>
+			<Answer>Ask your provider about the  HPV vaccine . Girls who receive this vaccine before they become sexually active reduce their chance of getting cervical cancer. You can reduce your risk of developing cervical dysplasia by taking the following steps: Get vaccinated for HPV between ages 9 to 45., Do not smoke. Smoking increases your risk of developing more severe dysplasia and cancer., Do not have sex until you are 18 or older., Practice safe sex. Use a condom., Practice monogamy. This means you have only&#160;one sexual partner at a time. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

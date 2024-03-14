@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004056" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000856.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tularemia</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,39 +24,47 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004056-1" qtype="information">What is (are) Tularemia ?</Question>
-			<Answer></Answer>
+			<Answer>Tularemia is a bacterial infection in wild rodents. The bacteria are passed to humans through contact with tissue from the infected animal. The bacteria can also be passed by  ticks , biting flies, and mosquitoes.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004056-2" qtype="causes">What causes Tularemia ?</Question>
-			<Answer></Answer>
+			<Answer>Tularemia is caused by the bacterium  Francisella tularensis. Humans can get the disease through: A bite from an infected tick, horsefly, or mosquito, Breathing in infected dirt or plant material, Direct contact, through a break in the skin, with an infected animal or its dead body (most often a rabbit, muskrat, beaver, or squirrel), Eating infected meat (rare) ,  The disorder most commonly occurs in North America and parts of Europe and Asia. In the United States, this disease is found more often in Missouri, South Dakota, Oklahoma, and Arkansas. Although outbreaks can occur in the United States, they are rare. Some people may develop  pneumonia  after breathing in infected dirt or plant material. This infection has been known to occur on Martha's Vineyard (Massachusetts), where bacteria are present in rabbits, raccoons, and skunks.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004056-3" qtype="symptoms">What are the symptoms of Tularemia ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms develop 3 to 5 days after exposure. The illness usually starts suddenly. It may continue for several weeks after symptoms begin. Symptoms include: 
+  Fever, chills, sweating
+  , Eye irritation (called&#160; conjunctivitis , if the infection began in the eye), 
+  Headache
+  , 
+  Joint stiffness, muscle pain
+  , Red spot on the skin, growing to become a sore (ulcer),  Shortness of breath ,  Weight loss , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004056-4" qtype="exams and tests">How to diagnose Tularemia ?</Question>
-			<Answer></Answer>
+			<Answer>Tests for the condition include: Blood culture  for the bacteria, Blood test measuring the body's immune response (antibodies) to the infection ( serology for tularemia ),  Chest x-ray , Polymerase chain reaction (PCR) test of a sample from an ulcer , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004056-5" qtype="treatment">What are the treatments for Tularemia ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to cure the infection with antibiotics. The antibiotics streptomycin and tetracycline are commonly used to treat this infection. Another antibiotic, gentamicin, has been tried as an alternative to streptomycin. Gentamicin seems to be very effective, but it has been studied in only a small number of people because this is a rare disease. The antibiotics tetracycline and chloramphenicol can be used alone but are not usually a first choice.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004056-6" qtype="outlook">What is the outlook for Tularemia ?</Question>
-			<Answer></Answer>
+			<Answer>Tularemia is fatal in about 5% of untreated cases, and in less than 1% of treated cases.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004056-7" qtype="complications">What are the complications of Tularemia ?</Question>
-			<Answer></Answer>
+			<Answer>Tularemia may lead to these complications: Bone infection ( osteomyelitis ), Infection of the sac around the heart ( pericarditis ), Infection of the membranes covering the brain and spinal cord ( meningitis ),  
+ Pneumonia 
+ , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004056-8" qtype="when to contact a medical professional">Do I need to see a doctor for Tularemia ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if symptoms develop after a rodent bite, tick bite, or exposure to the flesh of a wild animal.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0004056-9" qtype="prevention">How to prevent Tularemia ?</Question>
-			<Answer></Answer>
+			<Answer>Preventive measures include wearing gloves when skinning or dressing wild animals and staying away from sick or dead animals.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001743" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001053.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Glossitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,35 +23,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001743-1" qtype="information">What is (are) Glossitis ?</Question>
-			<Answer></Answer>
+			<Answer>Glossitis is a problem in which the tongue is swollen and inflamed. This often makes the surface of the tongue appear smooth.  Geographic tongue  is a type of glossitis.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001743-2" qtype="causes">What causes Glossitis ?</Question>
-			<Answer></Answer>
+			<Answer>Glossitis is often a symptom of other conditions, such as: Allergic reactions to oral care products, foods, or medicines, Dry mouth due to  Sj&#246;gren syndrome , Infection from bacteria, yeast or viruses (including oral herpes), Injury (such as from burns, rough teeth, or bad-fitting dentures), Skin conditions that affect the mouth, Irritants such as tobacco, alcohol, hot foods, spices, or other irritants, Hormonal factors, Certain vitamin deficiencies ,  At times, glossitis may be passed down in families.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001743-3" qtype="symptoms">What are the symptoms of Glossitis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of glossitis may come on quickly or develop over time. They include:  Problems chewing, swallowing, or speaking, Smooth surface of the tongue, Sore, tender, or swollen tongue, Pale or bright red color to the tongue,  Rare symptoms or problems include: Blocked airway, Problems speaking, chewing, or swallowing , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001743-4" qtype="exams and tests">How to diagnose Glossitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your dentist or health care provider will do an exam to look for: Finger-like bumps on the surface of the tongue (called papillae) that may be missing, Swollen tongue (or patches of swelling) ,  The provider may ask questions about your health history and lifestyle to help discover the cause of tongue inflammation. You may need blood tests to rule out other medical problems.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001743-5" qtype="treatment">What are the treatments for Glossitis ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to reduce swelling and soreness. Most people do not need to go to the hospital unless the tongue is very swollen. Treatment may include: Good oral care. Brush your teeth thoroughly at least twice a day and floss at least once a day., Antibiotics or other medicines to treat infection., Diet changes and supplements to treat nutrition problems., Avoiding irritants (such as hot or spicy foods, alcohol, and tobacco) to ease discomfort. , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001743-6" qtype="outlook">What is the outlook for Glossitis ?</Question>
-			<Answer></Answer>
+			<Answer>Glossitis goes away if the cause of problem is removed or treated.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001743-7" qtype="when to contact a medical professional">Do I need to see a doctor for Glossitis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: 
+  Symptoms of glossitis last longer than 10 days.
+  , 
+  Tongue swelling is very bad.
+  , 
+  Breathing, speaking, chewing, or swallowing causes problems.
+  ,  Get emergency care right away if tongue swelling blocks the airway.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001743-8" qtype="prevention">How to prevent Glossitis ?</Question>
-			<Answer></Answer>
+			<Answer>Good oral care (thorough tooth brushing and flossing and regular dental checkups) may help prevent glossitis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

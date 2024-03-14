@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000466" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002997.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bladder exstrophy repair</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,19 +22,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000466-1" qtype="information">What is (are) Bladder exstrophy repair ?</Question>
-			<Answer></Answer>
+			<Answer>Bladder exstrophy repair is surgery to repair a birth defect of the bladder. The bladder is inside out. It is fused with the abdominal wall and is exposed. The pelvic bones are also separated.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000466-2" qtype="information">What is (are) Bladder exstrophy repair ?</Question>
-			<Answer></Answer>
+			<Answer>Bladder exstrophy repair is surgery to repair a birth defect of the bladder. The bladder is inside out. It is fused with the abdominal wall and is exposed. The pelvic bones are also separated.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000466-4" qtype="susceptibility">Who is at risk for Bladder exstrophy repair? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000466-7" qtype="outlook">What is the outlook for Bladder exstrophy repair ?</Question>
-			<Answer></Answer>
+			<Answer>Urinary control most often happens after the neck of the bladder is repaired. This surgery is not always successful. The child may need to repeat the surgery later on. Even with repeat surgery, a few children will not have control of their urine. They may need  catheterization . </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

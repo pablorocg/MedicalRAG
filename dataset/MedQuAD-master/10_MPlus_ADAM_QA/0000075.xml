@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000075" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007639.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Acute coronary syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -30,39 +29,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000075-1" qtype="information">What is (are) Acute coronary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Acute coronary syndrome is a term for a group of conditions that suddenly stop or severely reduce blood from flowing to the heart muscle. When blood cannot flow to the heart muscle, the heart muscle can become damaged.  Heart attack  and  unstable angina  are both acute coronary syndromes (ACS).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000075-2" qtype="causes">What causes Acute coronary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>A fatty substance called plaque can build up in the arteries that bring oxygen-rich blood to your heart. Plaque is made up of cholesterol, fat, cells, and other substances. Plaque can block blood flow in two ways: It can cause an artery to become so narrow over time that it becomes blocked enough to cause symptoms., The plaque tears suddenly and a blood clot forms around it, severely narrowing or blocking the artery. ,  Many  risk factors for heart disease  may lead to an ACS.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000075-3" qtype="symptoms">What are the symptoms of Acute coronary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The most common symptom of ACS is chest pain. The chest pain may come on quickly, come and go, or get worse with exercise or rest. Other symptoms can include: Pain in the shoulder, arm, neck, jaw, back, or belly area, Discomfort that feels like tightness, squeezing, crushing, burning, choking, or aching, Discomfort that occurs at rest and does not easily go away when you take medicine, Shortness of breath, Anxiety, Nausea, Sweating, Feeling dizzy or lightheaded, Fast or irregular heartbeat ,  Women and older people often experience these other symptoms, although chest pain is common for them as well.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000075-4" qtype="exams and tests">How to diagnose Acute coronary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will do an exam, listen to your chest with a stethoscope, and ask about your medical history. Tests for ACS include:  Electrocardiogram (ECG)  -- An ECG is usually the first test your doctor will run. It measures your heart's electrical activity. During the test, you will have small pads taped to your chest and other areas of your body., Blood test -- Some blood tests help show the cause of chest pain and see if you are at a high risk for a heart attack. A  troponin blood test  can show if the cells in your heart have been damaged. This test can confirm you are having a heart attack.,  Echocardiogram  -- This test uses sound waves to look at your heart. It shows if your heart has been damaged and can find some types of heart problems. ,  Coronary angiography  may be done right away or when you are more stable. This test: Uses a special dye and x-rays to see how blood flows through your heart, Can help your provider decide which treatments you need next,  Other tests to look at your heart that may be done while you are in the hospital include: Exercise stress test ,  Nuclear stress test ,  Stress echocardiography , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000075-5" qtype="treatment">What are the treatments for Acute coronary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Your provider may use medicines, surgery, or other procedures to treat your symptoms and restore blood flow to your heart. Your treatment depends on your condition and the amount of blockage in your arteries. Your treatment may include: Medicine -- Your provider may give you one or more types of medicine, including aspirin, beta blockers, statins, blood thinners, clot dissolving drugs, angiotensin converting enzyme (ACE) inhibitors, or nitroglycerin. These medicines may help prevent or break up a blood clot, treat high blood pressure or angina, relieve chest pain, and stabilize your heart.,  Angioplasty  -- This procedure opens the clogged artery using a long, thin tube called a catheter. The tube is placed in the artery and the provider inserts a small deflated balloon. The balloon is inflated inside the artery to open it up. Your doctor may insert a wire tube, called a stent, to keep the artery open.,  Bypass surgery  -- This is surgery to route the blood around the artery that is blocked., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000075-6" qtype="outlook">What is the outlook for Acute coronary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>How well you do after an ACS depends on: How quickly you get treated, The number of arteries that are blocked and how bad the blockage is, Whether or not your heart has been damaged, as well as the extent and location of the damage, and where the damage is,  In general, the quicker your artery gets unblocked, the less damage you will have to your heart. People tend to do best when the blocked artery is opened within a few hours from the time symptoms start.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000075-7" qtype="complications">What are the complications of Acute coronary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>In some cases, ACS can lead to other health problems including: Abnormal heart rhythms, Death, Heart attack, Heart failure, which happens when the heart cannot pump enough blood, Rupture of part of the heart muscle causing tamponade or severe valve leakage, Stroke, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000075-8" qtype="when to contact a medical professional">Do I need to see a doctor for Acute coronary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>An ACS is a medical emergency. If you have symptoms, call 911 or the local emergency number quickly.  Do not: Try to drive yourself to the hospital., Wait - If you are having a heart attack, you are at greatest risk for sudden death in the early hours. , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000075-9" qtype="prevention">How to prevent Acute coronary syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>There is a lot you can do to help prevent ACS. Eat a heart-healthy diet . Have plenty of fruits, veggies, whole grains, and lean meats. Try to limit foods high in cholesterol and saturated fats, since too much of these substances can clog your arteries., Get exercise. Aim to get at least 30 minutes of moderate exercise most days of the week., Lose weight, if you are overweight., Quit smoking. Smoking can damage your heart. Ask your doctor if you need help quitting., Get preventive health screenings. You should see your doctor for regular cholesterol and blood pressure tests and learn how to keep your numbers in check., Manage health conditions, such as high blood pressure, high cholesterol, or diabetes. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001014" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007582.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cradle cap</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,27 +21,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001014-1" qtype="information">What is (are) Cradle cap ?</Question>
-			<Answer></Answer>
+			<Answer>Cradle cap is  seborrheic dermatitis  that affects the scalp of infants.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001014-2" qtype="causes">What causes Cradle cap ?</Question>
-			<Answer></Answer>
+			<Answer>Seborrheic dermatitis is a common, inflammatory skin condition that causes flaky, white to yellowish  scales  to form on oily areas such as the scalp. The exact cause of cradle cap is not known. Doctors think the condition is due to oil glands in the baby's scalp producing too much oil. Cradle cap is not spread from person to person (contagious). It is also not caused by poor hygiene. It is not an allergy, and it is not dangerous. Cradle cap often lasts a few months. In some children, the condition can last until age 2 or 3.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001014-3" qtype="symptoms">What are the symptoms of Cradle cap ?</Question>
-			<Answer></Answer>
+			<Answer>Parents may notice the following: Thick, crusty, yellow or brown scales on your child's scalp, Scales may also be found on the eyelids, ear, around the nose, Older infant scratching affected areas, which may lead to infection (redness, bleeding, or crusting), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001014-4" qtype="exams and tests">How to diagnose Cradle cap ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider can often diagnose cradle cap by looking at your baby's scalp.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001014-5" qtype="treatment">What are the treatments for Cradle cap ?</Question>
-			<Answer></Answer>
+			<Answer>Antibiotics will be prescribed if your baby's scalp has an infection, which is not common. Depending on how severe the condition is, other medicines may be prescribed. These may include medicated creams or shampoos. Most cases of cradle cap can be managed at home. Here are some tips: Massage your baby's scalp gently with your fingers or a soft brush to loosen the scales and improve scalp circulation., Give your child daily, gentle shampoos with a mild shampoo as long as there are scales. After scales have disappeared, shampoos can be reduced to twice weekly. Be sure to rinse off all shampoo., Brush your child's hair with a clean, soft brush after each shampoo and several times during the day. Wash the brush with soap and water each day to remove any scales and scalp oil., If scales do not easily loosen and wash off, apply mineral oil to your baby's scalp and wrap warm, wet cloths around the head for up to an hour before shampooing. Then, shampoo. Remember that your baby loses heat through the scalp. If you use warm, wet cloths with the mineral oil, check often to be sure that the cloths have not become cold. Cold, wet cloths can reduce your baby's temperature. ,  If the scales continue to be a problem or your child seems uncomfortable or scratches the scalp all the time, call your child's provider.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001014-6" qtype="when to contact a medical professional">Do I need to see a doctor for Cradle cap ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your child's provider if: Scales on your baby's scalp or other skin symptoms do not go away or get worse after home care, Patches drain fluid or pus, form crusts, or become very red or painful, Your baby develops a fever (may be due to infection getting worse), </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

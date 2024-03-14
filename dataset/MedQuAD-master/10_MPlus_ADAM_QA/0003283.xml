@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003283" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000651.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Puberty in girls</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003283-1" qtype="information">Do you have information about Puberty in girls</Question>
-			<Answer></Answer>
+			<Answer>
+
+ 
+Puberty is when your body changes and you develop from being a girl to a woman. Learn what changes to expect so that you feel more prepared.
+</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

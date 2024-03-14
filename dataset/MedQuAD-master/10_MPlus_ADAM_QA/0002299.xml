@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002299" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000170.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Knee joint replacement - discharge</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,15 +23,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002299-1" qtype="information">What is (are) Knee joint replacement - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>You had surgery to replace some or all of the bones that make up your knee joint. This article tells you how to care for your new knee when you go home from the hospital.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002299-2" qtype="outlook">What is the outlook for Knee joint replacement - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002299-8" qtype="when to contact a medical professional">Do I need to see a doctor for Knee joint replacement - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

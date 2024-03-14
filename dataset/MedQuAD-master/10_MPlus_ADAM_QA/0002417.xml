@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002417" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000601.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Living with a chronic illness - dealing with feelings</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,11 +18,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002417-1" qtype="information">What is (are) Living with a chronic illness - dealing with feelings ?</Question>
-			<Answer></Answer>
+			<Answer>Learning that you have a long-term (chronic) illness can bring up many different feelings. Learn about common emotions you might have when you are diagnosed and live with a chronic illness. Learn how to support yourself and where to go for more support.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002417-7" qtype="information">What is (are) Living with a chronic illness - dealing with feelings ?</Question>
-			<Answer></Answer>
+			<Answer>Learning that you have a long-term (chronic) illness can bring up many different feelings. Learn about common emotions you might have when you are diagnosed and live with a chronic illness. Learn how to support yourself and where to go for more support.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

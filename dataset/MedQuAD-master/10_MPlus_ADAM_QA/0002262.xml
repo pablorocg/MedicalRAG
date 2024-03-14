@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002262" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003743.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Joint fluid Gram stain</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002262-1" qtype="information">Do you have information about Joint fluid Gram stain</Question>
-			<Answer></Answer>
+			<Answer>Joint fluid Gram stain is a laboratory test to identify bacteria in a sample of joint fluid using a special series of stains (colors). The  Gram stain method  is one of the most commonly used methods to rapidly identify the cause of bacterial infections.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

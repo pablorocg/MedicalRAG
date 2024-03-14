@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001100" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000809.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Dance Your Way to Fitness</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001100-1" qtype="information">Do you have information about Dance Your Way to Fitness</Question>
-			<Answer></Answer>
+			<Answer>Do you think you can dance? If you are not sure, why not give it a try? Dancing is an exciting and social way to work out your body. From ballroom to salsa, dancing works your heart, helps build strong bones and muscles, and can improve your balance. Because dancing is so much fun, you may forget you are exercising.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

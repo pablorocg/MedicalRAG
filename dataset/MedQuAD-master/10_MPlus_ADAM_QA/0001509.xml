@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001509" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002977.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Eyelid lift</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001509-1" qtype="information">Do you have information about Eyelid lift</Question>
-			<Answer></Answer>
+			<Answer>Eyelid lift surgery is done to repair sagging or drooping upper eyelids ( ptosis ) and remove excess skin from the eyelids. The surgery is called ptosis repair and blepharoplasty. Sagging or drooping eyelids occur with increasing age. Some people are born with droopy eyelids or develop a disease that causes eyelid drooping.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000615" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002180.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Burns - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000615-1" qtype="information">What is (are) Burns - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on  burns : American Academy of Pediatrics --  www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/Treating-and-Preventing-Burns.aspx , Burns Recovered --  brsg.org , Model Systems Knowledge Translation Center - Burn Model Systems --  msktc.org/BURN , National Institute of General Medical Sciences --  www.nigms.nih.gov/education/fact-sheets/Pages/burns.aspx , Phoenix Society for burn survivors --  www.phoenix-society.org , US National Library of Medicine, MedlinePlus --  medlineplus.gov/burns.html , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

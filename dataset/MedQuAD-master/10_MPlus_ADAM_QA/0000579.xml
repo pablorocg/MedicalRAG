@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000579" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003076.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Breathing difficulty - lying down</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,27 +23,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000579-1" qtype="information">What is (are) Breathing difficulty - lying down ?</Question>
-			<Answer></Answer>
+			<Answer>Breathing difficulty while lying down is an abnormal condition in which a person has a problem breathing normally when lying flat. The head must be raised by sitting or standing to be able to breathe deeply or comfortably. A type of breathing difficulty while lying down is paroxysmal nocturnal dyspnea. This condition causes a person to wake up suddenly during the night feeling short of breath.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000579-2" qtype="considerations">What to do for Breathing difficulty - lying down ?</Question>
-			<Answer></Answer>
+			<Answer>This is a common complaint in people with some types of heart or lung problems. Sometimes the problem is subtle. People may only notice it when they realize that sleep is more comfortable with lots of pillows under their head, or their head in a propped-up position.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000579-3" qtype="causes">What causes Breathing difficulty - lying down ?</Question>
-			<Answer></Answer>
+			<Answer>Causes may include: Chronic obstructive pulmonary disease  (COPD),  Cor pulmonale ,  Heart failure ,  Obesity  (does not directly cause difficulty breathing while lying down but often worsens other conditions that lead to it),  Panic disorder ,  Sleep apnea ,  Snoring , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000579-4" qtype="considerations">What to do for Breathing difficulty - lying down ?</Question>
-			<Answer></Answer>
+			<Answer>This is a common complaint in people with some types of heart or lung problems. Sometimes the problem is subtle. People may only notice it when they realize that sleep is more comfortable with lots of pillows under their head, or their head in a propped-up position.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000579-5" qtype="when to contact a medical professional">Do I need to see a doctor for Breathing difficulty - lying down ?</Question>
-			<Answer></Answer>
+			<Answer>If you have any unexplained difficulty in breathing while lying down, call your provider.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000579-6" qtype="outlook">What is the outlook for Breathing difficulty - lying down ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001219" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000205.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Diet - clear liquid</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001219-1" qtype="information">Do you have information about Diet - clear liquid</Question>
-			<Answer></Answer>
+			<Answer>A clear liquid diet is made up of only clear fluids and foods that are clear fluids when they are at room temperature. This includes things such as: Clear broth, Tea, Cranberry juice, Jell-O, Popsicles, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

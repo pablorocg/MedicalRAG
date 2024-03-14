@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001594" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003249.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Fingers that change color</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001594-1" qtype="information">Do you have information about Fingers that change color</Question>
-			<Answer></Answer>
+			<Answer>Fingers or toes may change color when they are exposed to cold temperatures or stress, or when there is a problem with their blood supply.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003362" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000874.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Relaxation techniques for stress</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,11 +20,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003362-1" qtype="information">What is (are) Relaxation techniques for stress ?</Question>
-			<Answer></Answer>
+			<Answer>Chronic stress can be bad for your body and mind. It can put you at risk for health problems such as high blood pressure, stomachaches, headaches, anxiety, and depression. Using relaxation techniques can help you feel calm. These exercises can also help you manage stress and ease the  effects of stress on your body .</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003362-9" qtype="information">What is (are) Relaxation techniques for stress ?</Question>
-			<Answer></Answer>
+			<Answer>Chronic stress can be bad for your body and mind. It can put you at risk for health problems such as high blood pressure, stomachaches, headaches, anxiety, and depression. Using relaxation techniques can help you feel calm. These exercises can also help you manage stress and ease the  effects of stress on your body .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

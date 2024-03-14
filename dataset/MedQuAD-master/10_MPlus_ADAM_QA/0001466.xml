@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001466" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002644.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ethanol poisoning</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,23 +16,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001466-1" qtype="information">What is (are) Ethanol poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Ethanol poisoning is caused by drinking too much of the alcohol found in alcoholic beverages. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001466-4" qtype="symptoms">What are the symptoms of Ethanol poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Abdominal pain, Confusion, slurred speech, Internal (stomach and intestinal) bleeding,  Slowed breathing ,  Stupor  (decreased level of alertness), even coma,  Unsteady walking ,  Vomiting , sometimes bloody,  Chronic alcohol overuse can lead to additional symptoms and multiple organ failure.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001466-5" qtype="considerations">What to do for Ethanol poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001466-8" qtype="outlook">What is the outlook for Ethanol poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Survival over 24 hours past the drinking binge usually means the person will recover.&#160;A withdrawal syndrome may develop as alcohol levels in the blood drop, so the person should be observed and kept safe for at least another 24 hours.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001466-9" qtype="outlook">What is the outlook for Ethanol poisoning ?</Question>
-			<Answer></Answer>
+			<Answer>Survival over 24 hours past the drinking binge usually means the person will recover.&#160;A withdrawal syndrome may develop as alcohol levels in the blood drop, so the person should be observed and kept safe for at least another 24 hours.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002206" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/005108.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Interstitial cystitis - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002206-1" qtype="information">What is (are) Interstitial cystitis - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on  interstitial cystitis : Interstitial Cystitis Association --  www.ichelp.org/ , Interstitial Cystitis Network --  www.ic-network.com , National Association for Continence --  nafc.org/bhealth-blog/what-is-interstitial-cystitis/ , National Institute of Diabetes and Digestive and Kidney Diseases --  www.niddk.nih.gov/health-information/urologic-diseases/interstitial-cystitis-painful-bladder-syndrome , Urology Care Foundation --  www.urologyhealth.org/urology-a-z/i/interstitial-cystitis , US National Library of Medicine, MedlinePlus --  medlineplus.gov/interstitialcystitis.html , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

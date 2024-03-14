@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002821" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000475.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Norovirus - hospital</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,15 +20,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002821-1" qtype="information">What is (are) Norovirus - hospital ?</Question>
-			<Answer></Answer>
+			<Answer>Norovirus is a virus (germ) that causes an infection of the stomach and intestines. Norovirus can spread easily in health care settings. Read on to learn how to prevent getting infected with norovirus if you're in the hospital.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002821-2" qtype="information">What is (are) Norovirus - hospital ?</Question>
-			<Answer></Answer>
+			<Answer>Norovirus is a virus (germ) that causes an infection of the stomach and intestines. Norovirus can spread easily in health care settings. Read on to learn how to prevent getting infected with norovirus if you're in the hospital.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002821-4" qtype="prevention">How to prevent Norovirus - hospital ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

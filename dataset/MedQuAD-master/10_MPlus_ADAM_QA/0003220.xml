@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003220" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000678.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Preventing stroke</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,15 +22,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003220-1" qtype="information">What is (are) Preventing stroke ?</Question>
-			<Answer></Answer>
+			<Answer>A stroke occurs when the blood flow is cut off to any part of the brain. The loss of blood flow can be caused by a blood clot in an artery of the brain. It can also be caused by a blood vessel in a part of the brain that becomes weak and bursts open. A stroke is sometimes called a "brain attack."</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003220-2" qtype="prevention">How to prevent Preventing stroke ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003220-3" qtype="susceptibility">Who is at risk for Preventing stroke? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

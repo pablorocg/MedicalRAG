@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002940" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003911.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pap test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002940-1" qtype="information">Do you have information about Pap test</Question>
-			<Answer></Answer>
+			<Answer>The Pap test mainly checks for changes that may turn into  cervical cancer . Cells scraped from the opening of the cervix are examined under a microscope. The cervix is the lower part of the uterus (womb) that opens at the top of the vagina. This test is sometimes called a Pap "smear" or "cervical cytology."</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

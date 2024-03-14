@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000987" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003403.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cord blood testing</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000987-1" qtype="information">Do you have information about Cord blood testing</Question>
-			<Answer></Answer>
+			<Answer>Cord blood refers to a sample of blood collected from the umbilical cord when a baby is born. The umbilical cord is the cord connecting the baby to the mother's womb. Cord blood testing can be done to evaluate a newborn's health.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

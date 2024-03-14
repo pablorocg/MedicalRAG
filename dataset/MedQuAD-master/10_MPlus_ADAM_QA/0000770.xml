@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000770" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000143.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Chemical pneumonitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,39 +17,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000770-1" qtype="information">What is (are) Chemical pneumonitis ?</Question>
-			<Answer></Answer>
+			<Answer>Chemical pneumonitis is inflammation of the lungs or  breathing difficulty  due to inhaling chemical fumes or breathing in and choking on certain chemicals.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000770-2" qtype="causes">What causes Chemical pneumonitis ?</Question>
-			<Answer></Answer>
+			<Answer>Many chemicals used in the home and workplace can cause pneumonitis. Some common dangerous inhaled substances include: Chlorine gas (breathed in from cleaning materials such as chlorine bleach, during industrial accidents, or near swimming pools), Grain and fertilizer dust, Noxious fumes from pesticides, Smoke (from house fires and wildfires),  There are two types of pneumonitis: Acute pneumonitis occurs suddenly after breathing in the substance., Long-term (chronic) pneumonitis occurs after exposure to low levels of the substance over a long time. This causes inflammation and may lead to stiffness of the lungs. As a result, the lungs start to lose their ability to get oxygen to the body. Untreated, this condition can cause&#160; respiratory &#160;failure and death.,  Chronic aspiration of acid from the stomach and exposure to chemical warfare can also lead to chemical pneumonitis.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000770-3" qtype="symptoms">What are the symptoms of Chemical pneumonitis ?</Question>
-			<Answer></Answer>
+			<Answer>Acute symptoms may include: Air hunger (feeling that you cannot get enough air), Breathing that sounds&#160;wet or gurgling (abnormal lung sounds), Cough, Difficulty breathing, Unusual sensation (possibly burning feeling) in the chest ,  Chronic symptoms may include:  Cough (may or may not occur), Progressive disability (related to shortness of breath),  Rapid breathing  (tachypnea),  Shortness of breath  with only mild exercise , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000770-4" qtype="exams and tests">How to diagnose Chemical pneumonitis ?</Question>
-			<Answer></Answer>
+			<Answer>The following tests help determine how severely the lungs are affected: Blood gases  (measurement of how much oxygen and carbon dioxide are in your blood),  CT scan of chest ,  Lung function studies  (tests to measure breathing and how well the lungs are functioning),  X-ray of the chest , Swallowing studies to check if stomach acid is the cause of pneumonitis, Blood tests of kidney and liver function, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000770-5" qtype="treatment">What are the treatments for Chemical pneumonitis ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment is focused on reversing the cause of inflammation and reducing symptoms. Corticosteroids may be given to reduce inflammation, often before long-term scarring occurs. Antibiotics are usually not helpful or needed, unless there is a secondary infection. Oxygen therapy may be helpful. In cases of swallowing and stomach problems, eating small meals in the upright position can help. In severe cases, a feeding tube in the stomach is needed, although this does not always completely prevent aspiration into the lungs.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000770-6" qtype="outlook">What is the outlook for Chemical pneumonitis ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome depends on the chemical, the severity of exposure, and whether the problem is acute or chronic.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000770-7" qtype="complications">What are the complications of Chemical pneumonitis ?</Question>
-			<Answer></Answer>
+			<Answer>Respiratory failure and death can occur.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000770-8" qtype="when to contact a medical professional">Do I need to see a doctor for Chemical pneumonitis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have trouble breathing after inhaling (or possibly inhaling) any substance.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000770-9" qtype="prevention">How to prevent Chemical pneumonitis ?</Question>
-			<Answer></Answer>
+			<Answer>Only use household chemicals as directed, and always in well-ventilated areas with proper protective equipment. Never mix ammonia and bleach. Follow workplace rules for breathing masks and wear the right mask. People who work near fire should take care to limit their exposure to smoke or gases. Be careful about giving mineral oil to anyone who might choke on it (children or older people). Sit up while eating and don't lie down right after eating if you have swallowing problems. Do not siphon gas, kerosene, or other toxic liquid chemicals.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

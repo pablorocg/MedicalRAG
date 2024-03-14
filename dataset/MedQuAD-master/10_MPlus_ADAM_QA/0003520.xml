@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003520" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003741.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Sensitivity analysis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,11 +20,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003520-1" qtype="information">What is (are) Sensitivity analysis ?</Question>
-			<Answer></Answer>
+			<Answer>Sensitivity analysis determines the effectiveness of antibiotics against microorganisms (germs) such as bacteria that have been isolated from cultures. Sensitivity analysis may be done along with: Blood culture ,  Clean catch  urine culture or  catheterized specimen  urine culture,  Sputum culture ,  Culture from endocervix  (female genital tract),  Throat culture , Wound and other cultures , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003520-7" qtype="susceptibility">Who is at risk for Sensitivity analysis? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

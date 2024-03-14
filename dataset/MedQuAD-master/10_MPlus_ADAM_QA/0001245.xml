@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001245" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000524.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Dislocated shoulder - aftercare</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001245-1" qtype="information">Do you have information about Dislocated shoulder - aftercare</Question>
-			<Answer></Answer>
+			<Answer>The shoulder is a ball and socket joint. This means the round top of your arm bone (the ball) fits into the groove in your shoulder blade (the socket). When you have a dislocated shoulder, it means the entire ball is out of the socket. When you have a partly dislocated shoulder, it means only part of the ball is out of the socket. This is called a shoulder subluxation.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

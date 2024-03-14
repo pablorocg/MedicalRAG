@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001734" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000763.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Give your heart a workout</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001734-1" qtype="information">Do you have information about Give your heart a workout</Question>
-			<Answer></Answer>
+			<Answer>Being physically active is one of the best things you can do for your heart. Regular exercise helps reduce your risk for heart disease and adds years to your life. You do not need to spend hours in the gym every day to see benefits. Moving your body just 30 minutes a day is enough to improve your heart health. If you have  diabetes  or  heart disease , talk to your health care provider before starting an exercise program.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002895" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001036.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Otosclerosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002895-1" qtype="information">What is (are) Otosclerosis ?</Question>
-			<Answer></Answer>
+			<Answer>Otosclerosis is an abnormal bone growth in the middle ear that causes  hearing loss .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002895-2" qtype="causes">What causes Otosclerosis ?</Question>
-			<Answer></Answer>
+			<Answer>The exact cause of otosclerosis is unknown. It may be passed down through families. People who have otosclerosis have an abnormal extension of sponge-like bone growing in the middle ear cavity. This growth prevents the ear bones from vibrating normally in response to sound waves. These vibrations are needed in order for you to hear. Otosclerosis is the most common cause of middle ear hearing loss in young adults. It typically begins in early to mid-adulthood. It is more common in women than in men. The condition may affect one or both ears. Risks for this condition include pregnancy and a family history of hearing loss. White people are more likely to develop this condition than people of other races.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002895-3" qtype="symptoms">What are the symptoms of Otosclerosis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Hearing loss (slow at first, but worsens over time),  Ringing in the affected ear (tinnitus) , Vertigo or dizziness , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002895-4" qtype="exams and tests">How to diagnose Otosclerosis ?</Question>
-			<Answer></Answer>
+			<Answer>A hearing test ( audiometry / audiology ) may help determine the severity of hearing loss. A special imaging test of the head called a temporal-bone CT may be used to look for other causes of hearing loss.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002895-5" qtype="treatment">What are the treatments for Otosclerosis ?</Question>
-			<Answer></Answer>
+			<Answer>Otosclerosis may slowly get worse. The condition may not need to be treated until you have more serious hearing problems. Using some medicines such as fluoride, calcium, or  vitamin D  may help to slow the hearing loss. However, the benefits of these treatments have not yet been proven. A hearing aid may be used to treat the hearing loss. This will not cure or prevent hearing loss from getting worse, but it may help with symptoms. Surgery can cure or improve conductive hearing loss. Either all or part of one of the small middle ear bones behind the eardrum (stapes) is removed and replaced with a  prosthesis . A total replacement is called a stapedectomy., Sometimes only part of the stapes is removed and a small hole is made in the bottom of it. This is called a stapedotomy. Sometimes a laser is used to help with the surgery. , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002895-6" qtype="outlook">What is the outlook for Otosclerosis ?</Question>
-			<Answer></Answer>
+			<Answer>Otosclerosis gets worse without treatment. Surgery can restore some or all of your hearing loss. Pain and dizziness from the surgery go away within a few weeks for most people. To reduce the risk of complications after surgery: DO NOT blow your nose for 2 to 3 weeks after surgery., Avoid people with  respiratory  or other infections., Avoid bending, lifting, or straining, which may cause  dizziness. , Avoid loud noises or sudden pressure changes, such as scuba diving, flying, or driving in the mountains until you have healed. ,  If surgery does not work, you may have total hearing loss. Treatment for total hearing loss involves developing skills to cope with  deafness , and using hearing aids to transmit sounds from the non-hearing ear to the good ear.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002895-7" qtype="complications">What are the complications of Otosclerosis ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Complete deafness, Abnormal taste in the mouth or loss of taste to part of the tongue, temporary or permanent, Infection, dizziness, pain, or a  blood clot  in the ear after surgery, Nerve damage , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002895-8" qtype="when to contact a medical professional">Do I need to see a doctor for Otosclerosis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if: You have hearing loss, You develop fever, ear pain, dizziness, or other symptoms after surgery , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

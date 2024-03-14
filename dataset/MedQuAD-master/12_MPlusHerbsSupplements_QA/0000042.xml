@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000042" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/1025.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Goji</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,42 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000042-1" qtype="information">What is Goji ?</Question>
-			<Answer></Answer>
+			<Answer>Goji (Lycium chinense; Lycium barbarum) is a shrub. The berries, berry juice, and root bark have been used for many purposes, but with little evidence.  
+
+
+Goji grows in the Mediterranean region and parts of Asia. It contains chemicals that might help lower blood pressure and blood sugar. It might also help stimulate the immune system and protect organs.  
+
+Goji is used for many conditions including diabetes, weight loss, improving quality of life, and as a tonic, but there is no good scientific evidence to support any of these uses.  
+
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000042-2" qtype="how effective is it">How effective is Goji ?</Question>
-			<Answer></Answer>
+			<Answer>There is interest in using goji for a number of purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000042-3" qtype="how does it work">What is the action of Goji and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000042-4" qtype="precautions">Are there safety concerns or special precautions about Goji ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000042-5" qtype="interactions with medications">Are there interactions between Goji and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Major Do not take this combination. Warfarin (Coumadin) Warfarin is used to slow blood clotting. Goji might increase how long warfarin is in the body. This might increase the chances of bruising and bleeding. Be sure to have your blood checked regularly. The dose of your warfarin might need to be changed. Moderate Be cautious with this combination. Flecainide (Tambocor) Flecainide is used to reduce irregular heartbeat. Goji might increase the levels of flecainide in the body. This can increase the risk of flecainide toxicity and serious heart issues. Medications changed by the liver (Cytochrome P450 2C19 (CYP2C19) substrates) Some medications are changed and broken down by the liver. Goji might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications. Medications changed by the liver (Cytochrome P450 2C9 (CYP2C9) substrates) Some medications are changed and broken down by the liver. Goji might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications. Medications changed by the liver (Cytochrome P450 2D6 (CYP2D6) substrates) Some medications are changed and broken down by the liver. Goji might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications. Medications changed by the liver (Cytochrome P450 3A4 (CYP3A4) substrates) Some medications are changed and broken down by the liver. Goji might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications. Medications for high blood pressure (Antihypertensive drugs) Goji root bark might lower blood pressure. Taking goji along with medications that lower blood pressure might cause blood pressure to go too low. Monitor your blood pressure closely. Minor Be watchful with this combination. Medications for diabetes (Antidiabetes drugs) Goji might lower blood sugar levels. Taking goji along with diabetes medications might cause blood sugar to drop too low. Monitor your blood sugar closely.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000042-6" qtype="interactions with herbs and supplements">Are there interactions between Goji and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>Herbs and supplements that might lower blood pressure Goji root bark might lower blood pressure. Taking it with other supplements that have the same effect might cause blood pressure to drop too much. Examples of supplements with this effect include andrographis, casein peptides, L-arginine, niacin, and stinging nettle. Herbs and supplements that might lower blood sugar Goji might lower blood sugar. Taking it with other supplements with similar effects might lower blood sugar too much. Examples of supplements with this effect include aloe, bitter melon, cassia cinnamon, chromium, and prickly pear cactus.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000042-7" qtype="interactions with foods">Are there interactions between Goji and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000042-8" qtype="dose">What is the dosage of Goji ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004285" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000356.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Weight-loss surgery and children</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,8 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004285-1" qtype="information">What is (are) Weight-loss surgery and children ?</Question>
-			<Answer></Answer>
+			<Answer>Obesity in children and teens  is a serious health problem. About 1 in 6 children in the United States are affected by obesity. A child who is overweight or has obesity is more likely to be overweight or have obesity as an adult. Children with  obesity  have health problems that used to be seen only in adults. When these problems begin in childhood, they often become worse in adulthood. A child who is overweight or has obesity is also more likely to have problems such as:
+ Low self-esteem, Poor grades in school, Depression , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

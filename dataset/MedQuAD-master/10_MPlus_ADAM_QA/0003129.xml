@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003129" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000017.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Pneumonia - adults - discharge</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,15 +16,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003129-1" qtype="information">What is (are) Pneumonia - adults - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>You have pneumonia, which is an infection in your lungs. Now that you are going home, follow the health care provider's instructions on taking care of yourself at home. Use the information below as a reminder.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003129-2" qtype="outlook">What is the outlook for Pneumonia - adults - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003129-7" qtype="when to contact a medical professional">Do I need to see a doctor for Pneumonia - adults - discharge ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

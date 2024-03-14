@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001813" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003634.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Haptoglobin blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001813-1" qtype="information">Do you have information about Haptoglobin blood test</Question>
-			<Answer></Answer>
+			<Answer>The haptoglobin blood test measures the level of haptoglobin in your blood. Haptoglobin is a protein produced by the liver. It attaches to a certain type of  hemoglobin  in the blood. Hemoglobin is a blood cell protein that carries oxygen.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003218" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000448.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Preventing infections when visiting</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003218-1" qtype="information">What is (are) Preventing infections when visiting ?</Question>
-			<Answer></Answer>
+			<Answer>Infections are illnesses that are caused by germs such as bacteria, fungi, parasites, and viruses. Patients in the hospital are already ill. Exposing them to these germs may make it harder for them to recover and go home. If you are visiting a friend or loved one in the hospital, you need to take steps to prevent spreading germs. The best way to stop the spread of germs is to: Wash your hands often, Stay home if you are sick, Use a face mask when directed or when infections may be transmitted through the air, Keep your vaccines up to date, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003218-5" qtype="prevention">How to prevent Preventing infections when visiting ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

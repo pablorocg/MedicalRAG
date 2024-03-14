@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001993" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003838.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Histoplasma skin test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001993-1" qtype="information">Do you have information about Histoplasma skin test</Question>
-			<Answer></Answer>
+			<Answer>The histoplasma skin test is used to check if you have been exposed to a fungus called  Histoplasma capsulatum.  The fungus causes an infection called  histoplasmosis .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

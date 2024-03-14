@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000012" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002928.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Abdominal exploration</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000012-1" qtype="information">Do you have information about Abdominal exploration</Question>
-			<Answer></Answer>
+			<Answer>Abdominal exploration is surgery to look at the organs and structures in your belly area (abdomen). This includes your: Appendix, Bladder, Gallbladder, Intestines, Kidney and ureters, Liver, Pancreas, Spleen, Stomach, Uterus, fallopian tubes, and ovaries (in women),  Surgery that opens the abdomen is called a laparotomy. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

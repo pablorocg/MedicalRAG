@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003505" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000884.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Seborrheic keratosis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,35 +21,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003505-1" qtype="information">What is (are) Seborrheic keratosis ?</Question>
-			<Answer></Answer>
+			<Answer>Seborrheic keratosis is a condition that causes wart-like growths on the skin. The growths are noncancerous ( benign ). </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003505-2" qtype="causes">What causes Seborrheic keratosis ?</Question>
-			<Answer></Answer>
+			<Answer>A seborrheic keratosis is a benign form of skin  tumor . The cause is unknown. The condition commonly appears after age 40. It tends to run in families.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003505-3" qtype="symptoms">What are the symptoms of Seborrheic keratosis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of seborrheic keratosis are skin growths that: Are located on the face, chest, shoulders, back, or other areas, except the lips, palms, and soles, Are painless, but may become irritated and  itchy , Are most often tan, brown, or black, Have a slightly raised, flat surface, May have a rough texture (like a wart), Often have a waxy surface, Are round or oval, May look like a piece of bee's wax that has been "pasted-on" the skin, Often appear in clusters , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003505-4" qtype="exams and tests">How to diagnose Seborrheic keratosis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will look at the growths to determine if you have the condition. You may need a  skin biopsy  to confirm the diagnosis.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003505-5" qtype="treatment">What are the treatments for Seborrheic keratosis ?</Question>
-			<Answer></Answer>
+			<Answer>You generally do not need treatment unless growths get irritated or affect your appearance. Growths may be removed with  surgery  or freezing ( cryotherapy ).</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003505-6" qtype="outlook">What is the outlook for Seborrheic keratosis ?</Question>
-			<Answer></Answer>
+			<Answer>Removing the growths is simple and generally does not cause scars. You may have patches of lighter skin where growths on the torso have been removed. Growths usually do not return after they are removed. You may develop more growths in the future if you are prone to the condition.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003505-7" qtype="complications">What are the complications of Seborrheic keratosis ?</Question>
-			<Answer></Answer>
+			<Answer>These complications may occur: Irritation, bleeding, or discomfort of growths, Mistake in diagnosis (growths may look like  skin cancer  tumors), Distress due to physical appearance, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003505-8" qtype="when to contact a medical professional">Do I need to see a doctor for Seborrheic keratosis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have symptoms of seborrheic keratosis. Also contact if you have new symptoms, such as: A change in the appearance of the skin growth, New growths, A growth that looks like seborrheic keratosis, but occurs by itself or has ragged borders and irregular color. Your provider will need to examine it for skin cancer., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001017" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000690.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cranial mononeuropathy VI</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,39 +23,40 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001017-1" qtype="information">What is (are) Cranial mononeuropathy VI ?</Question>
-			<Answer></Answer>
+			<Answer>Cranial mononeuropathy VI is a nerve disorder. It affects the function of the sixth cranial (skull) nerve. As a result, the person may have double vision.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001017-2" qtype="causes">What causes Cranial mononeuropathy VI ?</Question>
-			<Answer></Answer>
+			<Answer>Cranial mononeuropathy VI is damage to the sixth cranial nerve. This nerve is also called the abducens nerve. It helps you move your eye sideways toward your temple. Disorders of this nerve can occur with: Brain  aneurysms , 
+   Nerve damage from diabetes( diabetic neuropathy ), Gradenigo syndrome (which also causes discharge from the ear and eye pain), Tolosa-Hunt syndrome, inflammation of the area behind the eye, Increased or decreased pressure in the skull, Infections (such as  meningitis  or  sinusitis ), Multiple sclerosis ( MS ), a disease that affects the brain and spinal cord, Pregnancy, Stroke, Trauma (caused by head injury or accidentally during surgery), Tumors around or behind the eye ,  The exact cause of vaccination-related cranial nerve palsy in children is not known. Because there are common nerve pathways through the skull, the same disorder that damages the sixth cranial nerve may affect other cranial nerves (such as the third or fourth cranial nerve).</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001017-3" qtype="symptoms">What are the symptoms of Cranial mononeuropathy VI ?</Question>
-			<Answer></Answer>
+			<Answer>When the sixth cranial nerve doesn't work properly, you can't turn your eye outward toward your ear. You can still move your eye up, down, and toward the nose, unless other nerves are affected. Symptoms may include: Double vision  when looking to one side, Headaches, Pain around the eye , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001017-4" qtype="exams and tests">How to diagnose Cranial mononeuropathy VI ?</Question>
-			<Answer></Answer>
+			<Answer>Tests often show that one eye has trouble looking to the side while the other eye moves normally. An examination shows the eyes do not line up either at rest or when looking in the direction of the weak eye. Your health care provider will do a complete examination to determine the possible effect on other parts of the nervous system. Depending on the suspected cause, you may need: Blood tests, Head imaging study (such as an  MRI  or  CT scan ),  Spinal tap  (lumbar puncture) ,  You may need to be referred to a doctor who specializes in vision problems related to the nervous system (neuro-ophthalmologist).</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001017-5" qtype="treatment">What are the treatments for Cranial mononeuropathy VI ?</Question>
-			<Answer></Answer>
+			<Answer>If your provider diagnoses swelling or inflammation of, or around the nerve, medicines called corticosteroids may be used. Sometimes, the condition disappears without treatment. If you have diabetes, you'll be advised to keep tight control of your  blood sugar level . The provider may prescribe an eye patch to relieve the double vision. The patch can be removed after the nerve heals. Surgery or special glasses (prisms) may be advised if there is no recovery in 6 to 12 months.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001017-6" qtype="outlook">What is the outlook for Cranial mononeuropathy VI ?</Question>
-			<Answer></Answer>
+			<Answer>Treating the cause may improve the condition. Recovery often occurs within 3 months in older adults who have hypertension or diabetes. There is less chance of recovery in case of complete paralysis of the sixth nerve. The chances of recovery are less in children than in adults in case of traumatic injury of the nerve. Recovery is usually complete in case of benign sixth nerve palsy in childhood.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001017-7" qtype="complications">What are the complications of Cranial mononeuropathy VI ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include permanent vision changes.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001017-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cranial mononeuropathy VI ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if you have double vision.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001017-9" qtype="prevention">How to prevent Cranial mononeuropathy VI ?</Question>
-			<Answer></Answer>
+			<Answer>There is no way to prevent this condition. People with diabetes may reduce the risk by controlling their blood sugar.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

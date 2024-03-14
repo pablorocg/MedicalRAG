@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001927" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000126.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hemothorax</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001927-1" qtype="information">What is (are) Hemothorax ?</Question>
-			<Answer></Answer>
+			<Answer>Hemothorax is a collection of blood in the space between the chest wall and the lung (the pleural cavity).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001927-2" qtype="causes">What causes Hemothorax ?</Question>
-			<Answer></Answer>
+			<Answer>The most common cause of hemothorax is chest trauma. Hemothorax can also occur in people who have: A blood clotting defect, Chest (thoracic) or heart surgery, Death of lung tissue (pulmonary infarction), Lung or pleural  cancer  -- primary or secondary (metastatic, or from another site), A tear in a blood vessel when placing a central venous catheter or when associated with severe high blood pressure, Tuberculosis, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001927-3" qtype="symptoms">What are the symptoms of Hemothorax ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Shortness of breath , Rapid, shallow breathing,  Chest pain ,  Low blood pressure  (shock), Pale, cool and clammy skin,  Rapid heart rate ,  Restlessness ,  Anxiety , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001927-4" qtype="exams and tests">How to diagnose Hemothorax ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider may note decreased or absent breath sounds on the affected side. Signs or findings of hemothorax may be seen on the following tests: Chest x-ray ,  CT scan ,  Thoracentesis  (drainage of pleural fluid through a needle or catheter) , Thoracostomy (drainage of pleural fluid through a chest tube), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001927-5" qtype="treatment">What are the treatments for Hemothorax ?</Question>
-			<Answer></Answer>
+			<Answer>The goal of treatment is to get the person stable, stop the bleeding, and remove the blood and air in the pleural space. A chest tube is inserted through the chest wall between the ribs to drain the blood and air., It is left in place and attached to suction for several days to re-expand the lung. ,  If a chest tube alone does not control the bleeding, surgery ( thoracotomy ) may be needed to stop the bleeding. The cause of the hemothorax will be also treated. The underlying lung may have collapsed. This can lead to breathing difficulty. In people who have had an injury, chest tube drainage may be all that is needed. Surgery may not be necessary. WHAT TO EXPECT AT THE EMERGENCY DEPARTMENT The provider will measure and monitor the person's vital signs, including oxygen saturation, pulse, breathing rate, and blood pressure. Symptoms will be treated as needed. The person may receive: Breathing support -- This may include oxygen, non-invasive airway pressure support such as BIPAP, or endotracheal intubation (placement of a breathing tube through the mouth or nose into the airway) and placement on a ventilator (life support breathing machine), Blood tests and possible blood transfusion, Chest tube (tube through the skin and muscles between the ribs into the space around the lungs) if there is lung collapse, CT scan, Analysis of the pleural fluid, Electrocardiogram (ECG), Fluids given through the vein (IV), Medicines to treat symptoms, X-rays of chest and abdomen or other parts of the body if there are additional injuries, </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001927-6" qtype="outlook">What is the outlook for Hemothorax ?</Question>
-			<Answer></Answer>
+			<Answer>The outcome depends on the cause of the hemothorax, the amount of blood loss and how quickly treatment is given. In the case of major trauma, the outcome will additionally depend on the severity of the injury and the rate of bleeding.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001927-7" qtype="complications">What are the complications of Hemothorax ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Collapsed lung , or  pneumothorax , leading to  respiratory  failure (inability to breathe properly), Fibrosis or scarring of the pleural membranes and underlying lung tissue, Infection of the pleural fluid ( empyema ),  Shock  and death in severe circumstances , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001927-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hemothorax ?</Question>
-			<Answer></Answer>
+			<Answer>Call 911 or the local emergency number if you have: Any potentially serious injury to the chest, Chest pain, Severe jaw, neck, shoulder or arm pain, Difficulty breathing or shortness of breath,  Go to the emergency room or call the local emergency number (such as 911) if you have: Dizziness, lightheadedness, fever and cough, or a feeling of heaviness in your chest, </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001927-9" qtype="prevention">How to prevent Hemothorax ?</Question>
-			<Answer></Answer>
+			<Answer>Use safety measures (such as seat belts) to avoid injury. Depending on the cause, a hemothorax may not be preventable.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

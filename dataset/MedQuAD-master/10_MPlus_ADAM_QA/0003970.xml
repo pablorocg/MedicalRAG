@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003970" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007630.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tooth extraction</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003970-1" qtype="information">Do you have information about Tooth extraction</Question>
-			<Answer></Answer>
+			<Answer>A tooth extraction is a procedure to remove a tooth from the gum socket. It is usually done by a general dentist, an oral surgeon, or a periodontist.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002743" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001641.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Nasal polyps</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002743-1" qtype="information">What is (are) Nasal polyps ?</Question>
-			<Answer></Answer>
+			<Answer>Nasal polyps are soft, sac-like growths on the lining of the nose or sinuses.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002743-2" qtype="causes">What causes Nasal polyps ?</Question>
-			<Answer></Answer>
+			<Answer>Nasal polyps can grow anywhere on the lining of the nose or the sinuses. They often grow where the sinuses open into the nasal cavity. Small polyps may not cause any problems. Large polyps can block your sinuses or nasal airway. Nasal polyps are not cancer. They seem to grow due to long-term swelling and inflammation in the nose from allergies, asthma, or infection. No one knows exactly why some people get nasal polyps. If you have any of the following conditions, you may be more likely to get nasal polyps: Aspirin sensitivity,  Asthma , Long-term (chronic) sinus infections,  Cystic fibrosis ,  Hay fever , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002743-3" qtype="symptoms">What are the symptoms of Nasal polyps ?</Question>
-			<Answer></Answer>
+			<Answer>If you have small polyps, you may not have any symptoms. If polyps block nasal passages, a  sinus infection  can develop. Symptoms include: Runny nose,  Stuffed up nose , Sneezing, Feeling like your  nose is blocked , Loss of smell, Loss of taste, Headache and pain if you also have a sinus infection, Snoring,  With polyps, you may feel like you always have a head cold.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002743-4" qtype="exams and tests">How to diagnose Nasal polyps ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will look in your nose. They may need to perform nasal endoscopy to see the full extent of the polyps. Polyps look like a grayish grape-shaped growth in the nasal cavity. You may have a  CT scan  of your sinuses. Polyps will appear as cloudy spots. Older polyps may have broken down some of the bone inside your sinuses.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002743-5" qtype="treatment">What are the treatments for Nasal polyps ?</Question>
-			<Answer></Answer>
+			<Answer>Medicines help relieve symptoms, but rarely get rid of nasal polyps. Nasal steroid sprays can sometimes shrink polyps. They help clear blocked nasal passages and runny nose. Symptoms return if treatment is stopped., Corticosteroid pills or liquid may also shrink polyps, and can reduce swelling and nasal congestion. The effect lasts a few months in most cases., Allergy medicines can help prevent polyps from growing back., Antibiotics can treat a sinus infection caused by bacteria. They can't treat polyps or sinus infections caused by a virus. ,  If medicines don't work, or you have very large polyps, you may need surgery to remove them. Endoscopic sinus surgery is often used to treat polyps. With this procedure, your surgeon uses a thin, lighted tube with instruments at the end. The tube is inserted into your nasal passages and your surgeon removes the polyps., Usually you can go home the same day., Sometimes polyps come back, even after surgery. , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002743-6" qtype="outlook">What is the outlook for Nasal polyps ?</Question>
-			<Answer></Answer>
+			<Answer>Removing polyps with surgery often makes it easier to breathe through your nose. Over time, however, nasal polyps often return. Loss of smell or taste does not always improve following treatment with medicine or surgery.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002743-7" qtype="complications">What are the complications of Nasal polyps ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Bleeding, Infection, Polyps coming back after treatment , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002743-8" qtype="when to contact a medical professional">Do I need to see a doctor for Nasal polyps ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you often find it hard to breathe through your nose.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002743-9" qtype="prevention">How to prevent Nasal polyps ?</Question>
-			<Answer></Answer>
+			<Answer>You can't prevent nasal polyps. However, nasal sprays, antihistamines, and allergy shots may help prevent polyps that block your airway.&#160;Newer treatments such as injection therapy with anti-IGE antibodies may help prevent polyps from coming back.&#160; Treating sinus infections right away also may help.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

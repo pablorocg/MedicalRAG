@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000733" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000491.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Central venous catheters - ports</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000733-1" qtype="information">Do you have information about Central venous catheters - ports</Question>
-			<Answer></Answer>
+			<Answer>A central venous catheter is a tube that goes into a vein in your arm or chest and ends at the right side of your heart (right atrium). If the catheter is in your chest, sometimes it is attached to a device called a port that will be under your skin. The port and catheter are put in place in a minor surgery. The catheter helps carry nutrients and medicine into your body. It can also be used to take blood when you need to have blood tests. Having a port attached to your catheter will cause less wear and tear on your veins than just having the catheter.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

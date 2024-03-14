@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001188" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000083.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Diabetes and exercise</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,7 +17,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001188-1" qtype="information">What is (are) Diabetes and exercise ?</Question>
-			<Answer></Answer>
+			<Answer>Exercise is an important part of managing your  diabetes . If you are obese or overweight, exercise can help you manage your weight.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

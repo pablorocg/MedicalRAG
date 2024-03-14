@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003319" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001334.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Rabies</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003319-1" qtype="information">What is (are) Rabies ?</Question>
-			<Answer></Answer>
+			<Answer>Rabies is a deadly viral infection that is mainly spread by infected animals.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003319-2" qtype="causes">What causes Rabies ?</Question>
-			<Answer></Answer>
+			<Answer>This infection is caused by the rabies virus. Rabies is spread by infected saliva that enters the body through a bite or broken skin. The virus travels from the wound to the brain, where it causes swelling or inflammation. This inflammation leads to symptoms of the disease. Most rabies deaths occur in children. In the past, human rabies cases in the United States usually resulted from a dog bite. Recently, more cases of human rabies have been linked to bats and raccoons. Dog bites are a common cause of rabies in developing countries, especially Asia and Africa. There have been no reports of rabies caused by dog bites in the United States for a number of years due to widespread animal vaccination. Other wild animals that can spread the rabies virus include: Foxes, Skunks, Bats,  Bats can spread rabies through minor or unrecognized bites or scratches. Bites can be so small you may not realize you have been bitten. If you find a bat in your home, you should contact your health care provider or health department, even if you don't feel or see a bite. They can advise you about whether you need treatment. In rare cases, rabies has been transmitted without an actual bite. This type of infection is believed to be caused by infected saliva or other infectious material that may come in contact with an existing scratch or wound, usually in bat caves.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003319-3" qtype="symptoms">What are the symptoms of Rabies ?</Question>
-			<Answer></Answer>
+			<Answer>The time between infection and when you get sick ranges from 10 days to 7 years. This time period is called the incubation period. The average incubation period is 3 to 12 weeks. Fear of water (hydrophobia) is the most common symptom. Other symptoms may include: Drooling , Headache,  Seizures , Bite site is very sensitive, Mood changes, Nausea and vomiting, Loss of feeling in an area of the body, Loss of muscle function,  Fever  (102&#176;F or 38.8&#176;C, or lower),  Muscle spasms ,  Numbness and tingling , Pain at the site of the bite,  Restlessness , Swallowing difficulty (drinking causes spasms of the voice box) ,  Hallucinations , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003319-4" qtype="exams and tests">How to diagnose Rabies ?</Question>
-			<Answer></Answer>
+			<Answer>If an animal bites you, try to gather as much information about the animal as possible. Call your local animal control authorities to safely capture the animal. If rabies is suspected, the animal will be watched for signs of rabies. A special test called immunofluorescence is used to look at the brain tissue after an animal is dead. This test can reveal whether the animal had rabies. The provider will examine you and look at the bite. The wound will be cleaned and treated. The same test used on animals can be done to check for rabies in humans. The test uses a piece of skin from the neck. The provider may also look for the rabies virus in your saliva or spinal fluid, although these tests are not as sensitive and may need to be repeated. A  spinal tap  may be done to look for signs of the infection in your spinal fluid. Other tests done may include: MRI of brain ,  CT of the head , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003319-5" qtype="treatment">What are the treatments for Rabies ?</Question>
-			<Answer></Answer>
+			<Answer>The aim of treatment is to relieve the symptoms of the bite wound and assess risk of rabies infection. Clean the wound well with soap and water and seek professional medical help. You will need a provider to clean the wound and remove any foreign objects. Most of the time, stitches should not be used for animal bite wounds. If there is any risk of rabies, you will be given a series of a preventive  vaccine . The vaccine is generally given in 5 doses over 28 days. Antibiotics have no effect on the rabies virus. Most people also receive a treatment called human rabies immunoglobulin (HRIG). This treatment is given the day the bite occurred. Call your provider right away after an animal bite or after being exposed to animals such as bats, foxes, and skunks. They may carry rabies. Call even when no bite took place., Immunization and treatment for possible rabies are recommended for at least up to 14 days after exposure or a bite.,  There is no known treatment for people with symptoms of a rabies infection. It is nearly always a fatal illness, but there have been a few reports of people surviving with experimental treatments.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003319-6" qtype="outlook">What is the outlook for Rabies ?</Question>
-			<Answer></Answer>
+			<Answer>It is possible to prevent rabies if you get the vaccine soon after the bite. To date, no one in the United States has developed rabies when they were given the vaccine promptly and appropriately. Once the symptoms appear, the person rarely survives the disease, even with treatment. Death from  respiratory  failure usually occurs within 7 days after symptoms start.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003319-7" qtype="complications">What are the complications of Rabies ?</Question>
-			<Answer></Answer>
+			<Answer>Rabies is a life-threatening infection. Left untreated, rabies usually leads to coma and death. In rare cases, some people may have an allergic reaction to the rabies vaccine.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003319-8" qtype="when to contact a medical professional">Do I need to see a doctor for Rabies ?</Question>
-			<Answer></Answer>
+			<Answer>Go to the emergency room or call 911 or the local emergency number if an animal bites you.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003319-9" qtype="prevention">How to prevent Rabies ?</Question>
-			<Answer></Answer>
+			<Answer>To help prevent rabies: Avoid contact with animals you don't know., Get vaccinated if you work in a high-risk occupation or travel to countries with a high rate of rabies., Make sure your pets receive the proper immunizations. Ask your veterinarian., Make sure that your pet does not come in contact with any wild animals., Follow quarantine regulations on importing dogs and other mammals in disease-free countries., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001479" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000385.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Exercise and activity for weight loss</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001479-1" qtype="information">What is (are) Exercise and activity for weight loss ?</Question>
-			<Answer></Answer>
+			<Answer>An active lifestyle and exercise routine, along with eating healthy foods, is the best way to lose weight.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

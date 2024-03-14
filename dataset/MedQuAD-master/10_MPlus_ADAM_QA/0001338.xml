@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001338" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003869.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Echocardiogram</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001338-1" qtype="information">Do you have information about Echocardiogram</Question>
-			<Answer></Answer>
+			<Answer>An echocardiogram is a test that uses sound waves to create pictures of the heart. The picture and information it produces is more detailed than a standard  x-ray  image. An echocardiogram does not expose you to radiation. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

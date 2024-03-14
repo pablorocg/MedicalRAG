@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003542" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003714.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Serum progesterone</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003542-1" qtype="information">Do you have information about Serum progesterone</Question>
-			<Answer></Answer>
+			<Answer>Serum progesterone is a test to measure the amount of progesterone in the blood. Progesterone is a hormone produced mainly in the ovaries. Progesterone plays a key role in pregnancy. It is produced after ovulation in the second half of the menstrual cycle. It helps make a woman's uterus ready for a fertilized egg to be implanted. It also prepares the uterus for pregnancy by inhibiting the uterine muscle to contract and prepares the breasts for milk production.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

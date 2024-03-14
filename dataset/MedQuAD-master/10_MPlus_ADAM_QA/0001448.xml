@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001448" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002355.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Eschar</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001448-1" qtype="information">What is (are) Eschar ?</Question>
-			<Answer></Answer>
+			<Answer>Eschar is dead tissue that forms over healthy skin and then, over time, falls off (sheds). It is caused by a  burn  or  cauterization  (destroying tissue with heat or cold, or another method). An escharotic is a substance (such as acids, alkalis, carbon dioxide, or metallic salts) that causes the tissue to die and fall off.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

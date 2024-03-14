@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002362" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003875.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Left heart ventricular angiography</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002362-1" qtype="information">Do you have information about Left heart ventricular angiography</Question>
-			<Answer></Answer>
+			<Answer>Left heart ventricular angiography is a procedure to look at the left-sided heart chambers and the function of the left-sided valves. It is sometimes combined with coronary angiography.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001090" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002323.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cytologic evaluation</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001090-1" qtype="information">Do you have information about Cytologic evaluation</Question>
-			<Answer></Answer>
+			<Answer>Cytologic evaluation is the analysis of cells from the body under a microscope. This is done to determine what the cells look like, and how they form and function. The test is usually used to look for cancers and precancerous changes. It may also be used to look for viral infections in cells. The test differs from a  biopsy  because only cells are examined, not pieces of tissue. The  Pap smear  is a common cytologic evaluation that looks at cells from the cervix. Some other examples include: Cytology exam of fluid from the membrane around the lungs (pleural fluid) ,  Cytology exam of urine , Cytology exam of saliva mixed with mucus and other matter that is coughed up (sputum) , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

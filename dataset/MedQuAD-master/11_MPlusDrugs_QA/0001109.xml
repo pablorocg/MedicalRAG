@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001109" source="MPlusDrugs" url="https://www.nlm.nih.gov/medlineplus/druginfo/meds/a607025.html">
-<!--Answers from MedlinePlus Drug information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Shingles (Zoster) Vaccine</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,23 +7,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001109-1" qtype="information">What is Shingles (Zoster) Vaccine ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001109-4" qtype="side effects">What are the side effects or risks of Shingles (Zoster) Vaccine ?</Question>
-			<Answer></Answer>
+			<Answer>Redness, soreness, swelling, or itching at the site of the injection and headache can happen after live shingles vaccine.,  Rarely, live shingles vaccine can cause rash or shingles. People sometimes faint after medical procedures, including vaccination. Tell your provider if you feel dizzy or have vision changes or ringing in the ears. As with any medicine, there is a very remote chance of a vaccine causing a severe allergic reaction, other serious injury, or death.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001109-5" qtype="severe reaction">What to do in case of a severe reaction to Shingles (Zoster) Vaccine ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001109-6" qtype="how can i learn more">How can I learn more about Shingles (Zoster) Vaccine ?</Question>
-			<Answer></Answer>
+			<Answer>Ask your healthcare provider., Call your local or state health department., Contact the Centers for Disease Control and Prevention (CDC):, Call  1-800-232-4636  ( 1-800-CDC-INFO )  or visit the CDC's website at  http://www.cdc.gov/vaccines ,  Shingles (Zoster) Vaccine Information Statement. U.S. Department of Health and Human Services/Centers for Disease Control and Prevention. 10/30/2019.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001109-7" qtype="brand names">What are the brand names of Shingles (Zoster) Vaccine ?</Question>
-			<Answer></Answer>
+			<Answer>Zostavax &#174; , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000387" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000519.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Back pain and sports</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000387-1" qtype="information">What is (are) Back pain and sports ?</Question>
-			<Answer></Answer>
+			<Answer>Getting plenty of exercise and playing sports is good for overall health. It also adds pleasure and a sense of well-being. Almost any sport places some stress on your spine. That is why it's important to keep the muscles and ligaments that support your spine flexible and strong. A healthy spine can help prevent many sports injuries. Getting these muscles to the point where they support your spine well is called core strengthening. Ask your health care provider or physical therapist about these strengthening exercises. If you had a back injury, talk with your provider about keeping your back safe when you  return to sports .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

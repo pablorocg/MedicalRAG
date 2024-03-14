@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003260" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002467.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Protein in diet</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003260-1" qtype="information">Do you have information about Protein in diet</Question>
-			<Answer></Answer>
+			<Answer>Proteins are the building blocks of life. Every cell in the human body contains protein. The basic structure of protein is a chain of amino acids. You need protein in your diet to help your body repair cells and make new ones. Protein is also important for growth and development in children, teens, and pregnant women.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

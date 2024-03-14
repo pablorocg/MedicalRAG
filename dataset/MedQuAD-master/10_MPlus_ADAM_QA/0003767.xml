@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003767" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003286.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Subcutaneous emphysema</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,23 +23,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003767-1" qtype="information">What is (are) Subcutaneous emphysema ?</Question>
-			<Answer></Answer>
+			<Answer>Subcutaneous (under the skin) emphysema occurs when air gets into tissues under the skin. This most often occurs in the skin covering the chest or neck, but can also occur in other parts of the body.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003767-2" qtype="considerations">What to do for Subcutaneous emphysema ?</Question>
-			<Answer></Answer>
+			<Answer>Subcutaneous emphysema can often be seen as a smooth bulging of the skin. When a health care provider feels (palpates) the skin, it produces an unusual crackling sensation (crepitus) as the gas is pushed through the tissue.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003767-3" qtype="causes">What causes Subcutaneous emphysema ?</Question>
-			<Answer></Answer>
+			<Answer>This is a rare condition. When it does occur, possible causes include: Collapsed lung ( pneumothorax ), often occurring with a rib fracture, Facial bone fracture, Rupture or tear in the airway, Rupture or tear in the esophagus or gastrointestinal tract,  This condition can happen due to: Blunt trauma., Blast injuries., Breathing in cocaine., Corrosives or chemical burns of the esophagus or airway., Diving injuries., Forceful vomiting (Boerhaave syndrome)., Penetrating trauma, such as gunshot or stab wounds., Pertussis (whooping cough)., Certain medical procedures that insert a tube into the body. These include endoscopy (tube into the esophagus and the stomach through the mouth), a central venous line (thin catheter into a vein close to the heart), endotracheal intubation (tube into the throat and trachea through the mouth or nose), and bronchoscopy (tube into the bronchial tubes through the mouth). ,  Air can also be found in between skin layers on the arms and legs or torso after certain infections, including  gas gangrene , or after scuba diving. (Scuba divers with asthma are more likely to have this problem than other scuba divers.)</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003767-4" qtype="when to contact a medical professional">Do I need to see a doctor for Subcutaneous emphysema ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the conditions that cause subcutaneous emphysema are severe, and you are likely already being treated by a provider. Sometimes a hospital stay is needed. This is more likely if the problem is due to an infection.  If you feel subcutaneous air in relation to any of the situations described above, particularly after trauma, call 911 or the local emergency services number immediately. Do not administer any fluids. Do not move the person unless it is absolutely necessary to remove them from a hazardous environment. Protect the neck and back from further injury when doing so.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003767-5" qtype="outlook">What is the outlook for Subcutaneous emphysema ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

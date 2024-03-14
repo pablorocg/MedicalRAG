@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000344" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002217.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Asymptomatic</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000344-1" qtype="information">What is (are) Asymptomatic ?</Question>
-			<Answer></Answer>
+			<Answer>Asymptomatic means there are no symptoms. You are considered asymptomatic if you: Have recovered from an illness or condition and no longer have symptoms of that illness or condition, Have an illness or condition (such as early stage high blood pressure or glaucoma) but do not have symptoms of it, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000174" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001665.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Alstrm syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000174-1" qtype="information">What is (are) Alstrm syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Alstr&#246;m syndrome is a very rare disease. It is passed down through families (inherited). This disease can lead to  blindness ,  deafness ,  diabetes , and  obesity .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000174-2" qtype="causes">What causes Alstrm syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Alstr&#246;m syndrome is inherited in an  autosomal recessive  manner. This means both of your parents must pass on a copy of the defective gene (ALMS1) in order for you to have this disease.  It is unknown how the defective gene causes the disorder. The condition is very rare.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000174-3" qtype="symptoms">What are the symptoms of Alstrm syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Common symptoms of this condition are: Blindness or severe  vision impairment  in infancy, Dark patches of skin (acanthosis nigricans), Deafness, Impaired heart function ( cardiomyopathy ), which may lead to heart failure, Obesity, Progressive kidney failure, Slowed growth, Symptoms of childhood-onset or type 2 diabetes ,  Occasionally, the following can also occur: Gastrointestinal reflux,  Hypothyroidism , Liver dysfunction, Small penis , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000174-4" qtype="exams and tests">How to diagnose Alstrm syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>An eye doctor (ophthalmologist) will examine the eyes. The person may have reduced vision. Tests may be done to check: Blood sugar levels (to diagnose high blood sugar or&#160; hyperglycemia ), Hearing, Heart function, Thyroid function,  Triglyceride  levels , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000174-5" qtype="treatment">What are the treatments for Alstrm syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>There is no specific treatment for this syndrome. Treatment for symptoms may include: Diabetes medicine, Hearing aids, Heart medicine, Thyroid hormone replacement , </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000174-6" qtype="support groups">Where to find support for people with Alstrm syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Alstr&#246;m Syndrome International --  www.alstrom.org</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000174-7" qtype="outlook">What is the outlook for Alstrm syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The following are likely to develop: Deafness, Permanent blindness, Type 2 diabetes ,  Kidney and liver failure may get worse.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000174-8" qtype="complications">What are the complications of Alstrm syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Possible complications are: Complications from diabetes, Coronary artery disease (from diabetes and high cholesterol), Fatigue and shortness of breath (if poor heart function is not treated) , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000174-9" qtype="when to contact a medical professional">Do I need to see a doctor for Alstrm syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you or your child has symptoms of diabetes. Common symptoms of diabetes are increased thirst and urination. Seek medical attention right away if you think that your child cannot see or hear normally.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

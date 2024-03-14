@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004215" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001099.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ventricular septal defect</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004215-1" qtype="information">What is (are) Ventricular septal defect ?</Question>
-			<Answer></Answer>
+			<Answer>Ventricular septal defect is a hole in the wall that separates the right and left ventricles of the heart. Ventricular septal defect is one of the most common congenital (present from birth) heart defects. It occurs in nearly half of all children with congenital heart disease. It may occur by itself or with other congenital diseases.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004215-2" qtype="causes">What causes Ventricular septal defect ?</Question>
-			<Answer></Answer>
+			<Answer>Before a baby is born, the right and left ventricles of the heart are not separate. As the fetus grows, a septum (wall) forms to separate these 2 ventricles. If the wall does not completely form, a hole remains. This hole is known as a ventricular septal defect, or a VSD. The hole can occur in different locations along the septal wall. There can be a single hole or multiple holes. Ventricular septal defect is a common congenital heart defect. The baby may have no symptoms and the hole can close over time as the wall continues to grow after birth. If the hole is large, too much blood will be pumped to the lungs. This can lead to heart failure. If the hole is small, it may not be detected for years and only discovered in adulthood. The cause of VSD is not yet known. This defect often occurs along with other congenital heart defects. In adults, VSDs can be rare, but serious, complication of heart attacks. These holes do not result from a birth defect.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004215-3" qtype="symptoms">What are the symptoms of Ventricular septal defect ?</Question>
-			<Answer></Answer>
+			<Answer>People with VSDs may not have symptoms. However, if the hole is large, the baby often has symptoms related to heart failure. The most common symptoms include: Shortness of breath, Fast breathing, Hard breathing, Paleness, Failure to gain weight, Fast heart rate, Sweating while feeding, Frequent respiratory infections, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004215-4" qtype="exams and tests">How to diagnose Ventricular septal defect ?</Question>
-			<Answer></Answer>
+			<Answer>Listening with a stethoscope most often reveals a heart murmur. The loudness of the murmur is related to the size of the defect and amount of blood crossing the defect. Tests may include: Cardiac catheterization  (rarely needed, unless there are concerns of high blood pressure in the lungs),  Chest x-ray  -- looks to see if there is a large heart with fluid in the lungs,  ECG  -- shows signs of an enlarged left ventricle,  Echocardiogram  -- used to make a definite diagnosis, MRI or CT scan of the heart -- used to see the defect and find out how much blood is getting to the lungs , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004215-5" qtype="treatment">What are the treatments for Ventricular septal defect ?</Question>
-			<Answer></Answer>
+			<Answer>If the defect is small, no treatment may be needed. But the baby should be closely monitored by a health care provider. This is to make sure that the hole eventually closes properly, and signs of heart failure do not occur. Babies with a large VSD who have symptoms related to heart failure may need medicine to control the symptoms and surgery to close the hole. Diuretic medicines are often used to relieve symptoms of congestive heart failure.; If symptoms continue, even with medicine, surgery to close the defect with a patch is needed. Some VSDs can be closed with a special device during a cardiac  catheterization , which avoids the need for surgery. This is called transcatheter closure. However, only certain types of defects can successfully be treated this way. Having surgery for a VSD with no symptoms is controversial, especially when there is no evidence of heart damage. Discuss this carefully with your provider.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004215-6" qtype="outlook">What is the outlook for Ventricular septal defect ?</Question>
-			<Answer></Answer>
+			<Answer>Many small defects will close on their own. Surgery can repair defects that do not close. In most cases, a person will not have any ongoing medical issues related to the defect if it is closed with surgery or closes on its own. Complications may occur if a large defect is not treated and there is permanent damage to the lungs.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004215-7" qtype="complications">What are the complications of Ventricular septal defect ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Aortic insufficiency  (leaking of the valve that separates the left ventricle from the aorta), Damage to the electrical conduction system of the heart during surgery (causing an irregular or slow heart rhythm), Delayed growth and development ( failure to thrive  in infancy),  Heart failure , Infective endocarditis (bacterial infection of the heart),  Pulmonary hypertension  (high blood pressure in the lungs) leading to failure of the right side of the heart , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004215-8" qtype="when to contact a medical professional">Do I need to see a doctor for Ventricular septal defect ?</Question>
-			<Answer></Answer>
+			<Answer>Most often, this condition is diagnosed during a routine exam of an infant. Contact your infant's provider if the baby seems to be having trouble breathing, or if the baby seems to have an unusual number of respiratory infections.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0004215-9" qtype="prevention">How to prevent Ventricular septal defect ?</Question>
-			<Answer></Answer>
+			<Answer>Except for a VSD that is caused by a heart attack, this condition is always present at birth. Drinking alcohol and using the antiseizure medicines valproic acid (Depakote) and phenytoin (Dilantin) during pregnancy may increase the risk for VSDs. Other than avoiding these things during pregnancy, there is no known way to prevent a VSD. Women who plan to become pregnant should be immunized against rubella if they are not already immune. Rubella infection in a pregnant woman can cause congenital heart disease. Women who are pregnant should get good prenatal care: Avoid alcohol and illegal drugs during pregnancy., Tell your provider that you are pregnant before taking any new medicines., Have a blood test early in your pregnancy to see if you are immune to rubella. If you are not immune, avoid any possible exposure to rubella and get vaccinated right after delivery., Pregnant women who have diabetes should try to get good control over their blood sugar level., </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001386" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007632.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Endometrial ablation</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001386-1" qtype="information">Do you have information about Endometrial ablation</Question>
-			<Answer></Answer>
+			<Answer>Endometrial ablation is a surgery or procedure done to disrupt the lining of the uterus in order to minimize heavy or  prolonged menstrual flow . This lining is called the endometrium. The surgery may be done in a hospital, outpatient surgery center, or the health care provider's office.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

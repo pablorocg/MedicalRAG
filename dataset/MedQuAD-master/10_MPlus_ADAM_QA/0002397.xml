@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002397" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003173.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Limited range of motion</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,27 +16,28 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002397-1" qtype="information">What is (are) Limited range of motion ?</Question>
-			<Answer></Answer>
+			<Answer>
+Limited range of motion is a term meaning that a joint or body part cannot move through its normal range of motion.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002397-2" qtype="considerations">What to do for Limited range of motion ?</Question>
-			<Answer></Answer>
+			<Answer>Motion may be limited because of&#160;a problem within the joint,  swelling  of tissue around the joint,&#160;stiffness of the ligaments and muscles, or&#160;pain.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002397-3" qtype="causes">What causes Limited range of motion ?</Question>
-			<Answer></Answer>
+			<Answer>A sudden loss of range of motion may be due to: Dislocation  of a joint,  Fracture  of an elbow or other joint,  Infected joint  (hip is most common in children),  Legg-Calv&#233;-Perthes disease  (in boys 4 to 10 years old),  Nursemaid elbow , an injury to the elbow joint in young children, Tearing of certain structures within the joint, such as the meniscus or cartilage, Lose bodies which have become stuck in the joint,  Loss of motion may occur if you damage the bones within a joint. This may happen if you have: Broken a joint bone in the past,  Frozen shoulder ,  Osteoarthritis ,  Rheumatoid arthritis ,  Ankylosing spondylitis  (chronic form of arthritis) ,  Brain, nerve, or muscle disorders can damage the nerves, tendons, and muscles, and can cause loss of motion. Some of these disorders include: Cerebral palsy  (group of disorders that involve brain and nervous system functions), Congenital  torticollis  (wry neck),  Muscular dystrophy &#160;(group of inherited disorders that cause muscle weakness), Stroke or brain injury,  Volkmann contracture  (deformity of the hand, fingers, and wrist caused by injury to the muscles of the forearm) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002397-4" qtype="considerations">What to do for Limited range of motion ?</Question>
-			<Answer></Answer>
+			<Answer>Motion may be limited because of&#160;a problem within the joint,  swelling  of tissue around the joint,&#160;stiffness of the ligaments and muscles, or&#160;pain.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002397-5" qtype="when to contact a medical professional">Do I need to see a doctor for Limited range of motion ?</Question>
-			<Answer></Answer>
+			<Answer>Make an appointment with your provider if you have difficulty moving or extending a joint. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002397-6" qtype="outlook">What is the outlook for Limited range of motion ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000301" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000256.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Appendicitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -18,31 +17,31 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000301-1" qtype="information">What is (are) Appendicitis ?</Question>
-			<Answer></Answer>
+			<Answer>Appendicitis is a condition in which your appendix gets inflamed. The appendix is a small pouch attached to the end of the large intestine.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000301-2" qtype="causes">What causes Appendicitis ?</Question>
-			<Answer></Answer>
+			<Answer>Appendicitis is a very common reason for emergency surgery. The problem most often occurs when the appendix becomes blocked by feces, a foreign object, a  tumor  or a parasite in rare cases.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000301-3" qtype="symptoms">What are the symptoms of Appendicitis ?</Question>
-			<Answer></Answer>
+			<Answer>The symptoms of appendicitis can vary. It can be hard to detect appendicitis in young children, older people, and women of childbearing age. The first symptom is often pain around the belly button or mid upper abdomen. Pain may be minor at first, but becomes more sharp and severe. You may also have a loss of appetite, nausea, vomiting, and a low-grade fever. The pain tends to move into the right lower part of your belly. The pain tends to focus at a spot directly above the appendix called  McBurney point . This most often occurs 12 to 24 hours after the illness starts. Your pain may be worse when you walk, cough, or make sudden movements. Later symptoms include: Chills and shaking, Hard stools, Diarrhea, Fever, Nausea and vomiting , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000301-4" qtype="exams and tests">How to diagnose Appendicitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider may suspect appendicitis based on the symptoms you describe.  Your provider will do a physical exam.  If you have appendicitis, your pain will increase when your lower right belly area is pressed., If your appendix has ruptured, touching the belly area may cause a lot of pain and lead you to tighten your muscles., A rectal exam may find tenderness on the right side of your rectum.,  A blood test will often show a high white blood cell count. Imaging tests that may help diagnose appendicitis include: CT scan of the abdomen ,  Ultrasound of the abdomen , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000301-5" qtype="treatment">What are the treatments for Appendicitis ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, a surgeon will  remove your appendix  as soon as you are diagnosed.  If a CT scan shows that you have an  abscess , you may be treated with antibiotics first. You will have your appendix removed after the infection and swelling have gone away. The tests used to diagnose appendicitis are not perfect. As a result, the operation may show that your appendix is normal. In that case, the surgeon will remove your appendix and explore the rest of your abdomen for other causes of your pain.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000301-6" qtype="outlook">What is the outlook for Appendicitis ?</Question>
-			<Answer></Answer>
+			<Answer>Most people recover quickly after surgery if the appendix is removed before it ruptures. If your appendix ruptures before surgery, recovery may take longer. You are also more likely to develop problems, such as: An abscess, Blockage of the intestine, Infection inside the abdomen (peritonitis), Infection of the wound after surgery, </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000301-7" qtype="when to contact a medical professional">Do I need to see a doctor for Appendicitis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have  pain  in the lower-right portion of your belly, or other symptoms of appendicitis. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

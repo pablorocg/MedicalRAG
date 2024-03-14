@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003933" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000400.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Thyroid storm</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -22,27 +21,27 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003933-1" qtype="information">What is (are) Thyroid storm ?</Question>
-			<Answer></Answer>
+			<Answer>Thyroid storm is a rare life-threatening condition of the thyroid gland. It develops in cases of untreated  hyperthyroidism , or overactive thyroid (thyrotoxicosis). The thyroid gland is located in the neck, just above where your collarbones meet in the middle.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003933-2" qtype="causes">What causes Thyroid storm ?</Question>
-			<Answer></Answer>
+			<Answer>Thyroid storm occurs in people with uncontrolled hyperthyroidism due to a major stress such as: Trauma,  Heart attack , Infection,  Rarely, thyroid storm can be caused by radioactive iodine therapy for  Graves disease . This can occur even a week or more after treatment.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003933-3" qtype="symptoms">What are the symptoms of Thyroid storm ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms are severe and may include any of the following: Agitation, Change in alertness (consciousness), Confusion, Diarrhea, Increased temperature, Pounding heart ( tachycardia ),  Restlessness , Shaking, Sweating, Bulging eyeballs, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003933-4" qtype="exams and tests">How to diagnose Thyroid storm ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider may suspect thyrotoxic storm based on: A high systolic (top number) blood pressure reading with a lower diastolic (bottom number) blood pressure reading (wide pulse pressure), A very high heart rate, A history of hyperthyroidism, An exam of your neck may find that your thyroid gland is enlarged ( goiter ),  Blood tests are done to check thyroid hormones  TSH , free T4 and  T3 . Other blood tests are done to check heart and kidney functions and to check for infection. Liver function tests provide added diagnosis and treatment information.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003933-5" qtype="complications">What are the complications of Thyroid storm ?</Question>
-			<Answer></Answer>
+			<Answer>Irregular heart rhythms (arrhythmias) may occur.  Heart failure  and fluid in the lungs ( pulmonary edema ) can develop rapidly and cause death.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003933-6" qtype="when to contact a medical professional">Do I need to see a doctor for Thyroid storm ?</Question>
-			<Answer></Answer>
+			<Answer>This is an emergency condition. Call 911 or the local emergency number if you have hyperthyroidism and experience symptoms of thyroid storm.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

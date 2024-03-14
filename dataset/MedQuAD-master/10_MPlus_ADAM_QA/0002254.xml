@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002254" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000181.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Jejunostomy feeding tube</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002254-1" qtype="information">Do you have information about Jejunostomy feeding tube</Question>
-			<Answer></Answer>
+			<Answer>A jejunostomy tube (J-tube) is a soft, plastic tube placed through the skin of the abdomen into the midsection of the small intestine. The tube delivers food and medicine until the person is healthy enough to eat by mouth. You'll need to know how to care for the J-tube and the skin where the tube enters the body. Follow any specific instructions your health care provider or nurse gives you. Use the information below as a reminder of what to do.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000607" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003239.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bullae</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,7 +18,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000607-1" qtype="information">What is (are) Bullae ?</Question>
-			<Answer></Answer>
+			<Answer>Bullae are large  blisters  on the skin that are filled with clear fluid. Many different skin conditions can cause bullae to form. They can be caused by infection or inflammation of the skin.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

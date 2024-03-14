@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000862" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000454.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cleaning to prevent the spread of germs</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000862-1" qtype="information">Do you have information about Cleaning to prevent the spread of germs</Question>
-			<Answer></Answer>
+			<Answer>Germs from a person may be found on any object the person touched or on equipment that was used during the person's care. Some germs can live many weeks on a dry surface. Germs on any surface can pass to you or another person. Cleaning helps prevent the spread of germs. Your workplace has policies about how to clean: Patient rooms, Spills or contamination,  Supplies and equipment  that are reusable , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

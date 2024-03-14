@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000842" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000745.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Chronic motor tic disorder</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,41 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000842-1" qtype="information">What is (are) Chronic motor tic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Chronic motor or vocal tic disorder is a condition that involves quick, uncontrollable movements or vocal outbursts (but not both).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000842-2" qtype="causes">What causes Chronic motor tic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Chronic motor or vocal tic disorder is more common than  Tourette syndrome . Chronic tics may be forms of Tourette syndrome. Tics usually start at age 5 or 6 and get worse until age 12. They often improve during adulthood.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000842-3" qtype="symptoms">What are the symptoms of Chronic motor tic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>A tic is a sudden, fast, repeated movement or sound that has no reason or goal. Tics can involve: Excessive blinking, Grimaces of the face, Quick movements of the arms, legs, or other areas, Sounds (grunts, throat clearing, contractions of the abdomen or diaphragm) ,  Some people have many kinds of tics. People with the condition can hold off these symptoms for a short time. But they feel relief when they carry out these movements. They often describe the tics as a response to an inner urge. Some say they have abnormal sensations in the area of the tic before it occurs. Tics may continue during all stages of sleep. They may get worse with: 
+   Excitement
+   , 
+   Fatigue
+   , Heat, 
+   Stress
+   , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000842-4" qtype="exams and tests">How to diagnose Chronic motor tic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>The doctor can usually diagnose a tic during a physical examination. Tests are generally not needed. People are diagnosed with the disorder when: They have had the tics nearly every day for more than a year, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000842-5" qtype="treatment">What are the treatments for Chronic motor tic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment depends on how severe the tics are and how the condition affects you. Medicines and talk therapy (cognitive behavioral therapy) are used when the tics greatly affect daily activities, such as school and job performance. Medicines can help control or reduce tics. But they have side effects, such as movement and thinking problems.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000842-6" qtype="outlook">What is the outlook for Chronic motor tic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>Children who develop this disorder between ages 6 and 8 often do very well. Symptoms may last 4 to 6 years, and then stop in the early teens without treatment. When the disorder begins in older children and continues into the 20s, it may become a lifelong condition.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000842-7" qtype="complications">What are the complications of Chronic motor tic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>There are usually no complications.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000842-8" qtype="when to contact a medical professional">Do I need to see a doctor for Chronic motor tic disorder ?</Question>
-			<Answer></Answer>
+			<Answer>There is usually no need to see the health care provider for a tic unless it is severe or disrupts daily life. If you cannot tell whether you or your child's movements are a tic or something more serious (such as a  seizure ), call your provider.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

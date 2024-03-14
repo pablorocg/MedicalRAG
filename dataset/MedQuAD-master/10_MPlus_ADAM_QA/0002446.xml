@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002446" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000109.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Low-salt diet</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002446-1" qtype="information">Do you have information about Low-salt diet</Question>
-			<Answer></Answer>
+			<Answer>Too much sodium in your diet can be bad for you. If you have  high blood pressure  or  heart failure , you may be asked to limit the amount of salt (which contains sodium) you eat every day. These tips will help you choose foods that are lower in sodium.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003550" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000877.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Shared decision making</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003550-1" qtype="information">Do you have information about Shared decision making</Question>
-			<Answer></Answer>
+			<Answer>Shared decision making is when health care providers and patients work together to decide the best way to test for and treat health problems. There are more than one, and sometimes many, test and treatment options for most health conditions. So your condition may be managed in more than one way. Your provider will go over all your options with you. The two of you will make a decision based on your provider's expertise and your values and goals. Shared decision making helps you and your provider choose a treatment you both support.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

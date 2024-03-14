@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004189" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000566.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Vaginitis - self-care</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,11 +19,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004189-1" qtype="information">What is (are) Vaginitis - self-care ?</Question>
-			<Answer></Answer>
+			<Answer>Vaginitis is a swelling or infection of the vulva and vagina. It may also be called vulvovaginitis. Vaginitis is a common problem that can affect  women  and  girls  of all ages. It can be caused by: Yeast , bacteria, viruses, and parasites, Bubble baths, soaps, vaginal contraceptives, feminine sprays, and perfumes (chemicals), Menopause, Not washing well , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004189-4" qtype="when to contact a medical professional">Do I need to see a doctor for Vaginitis - self-care ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

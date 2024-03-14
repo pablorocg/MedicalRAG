@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000004" source="MPlusHerbsSupplements" url="https://www.nlm.nih.gov/medlineplus/druginfo/natural/721.html">
-<!--Answers from MedlinePlus Herbal medicine and supplement information were removed to comply with the MedlinePlus copyright-->
+
 <Focus>Arnica</Focus>
 <FocusAnnotations>
 	<Category>Drug</Category>
@@ -8,35 +7,44 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000004-1" qtype="information">What is Arnica ?</Question>
-			<Answer></Answer>
+			<Answer>Arnica is an herb sometimes used to flavor foods. It can be poisonous when consumed in larger amounts. Arnica gel can be applied to the skin for osteoarthritis. 
+
+The active chemicals in arnica may reduce swelling, decrease pain, and act as antibiotics. But arnica can be unsafe when taken by mouth unless it's used in homeopathic dilutions. Homeopathic products contain extreme dilutions of the active chemicals. 
+
+People most commonly use arnica for pain caused by osteoarthritis. It is also used for bleeding, bruising, swelling after surgery, and other conditions, but there is no good scientific evidence to support these uses. Arnica is also used as a flavor ingredient in beverages, candy, baked goods, and other foods.
+ 
+</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000004-2" qtype="how effective is it">How effective is Arnica ?</Question>
-			<Answer></Answer>
+			<Answer>Natural Medicines Comprehensive Database  rates effectiveness based on scientific evidence according to the following scale:  Effective, Likely Effective, Possibly Effective, Possibly Ineffective, Likely Ineffective, Ineffective, and Insufficient Evidence to Rate. The effectiveness ratings for  ARNICA  are as follows: Possibly effective for... 
+ Osteoarthritis . Applying an arnica gel (A. Vogel Arnica Gel, Bioforce AG) twice daily for 3 weeks can reduce pain and stiffness and improve function in people with osteoarthritis in the hand or knee. It might work as well as ibuprofen. 
+
+There is interest in using arnica for a number of other purposes, but there isn't enough reliable information to say whether it might be helpful.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000004-3" qtype="how does it work">What is the action of Arnica and how does it work ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000004-4" qtype="precautions">Are there safety concerns or special precautions about Arnica ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000004-5" qtype="interactions with medications">Are there interactions between Arnica and other medications ?</Question>
-			<Answer></Answer>
+			<Answer>Moderate Be cautious with this combination. Medications that slow blood clotting (Anticoagulant / Antiplatelet drugs) Arnica might slow blood clotting. Taking arnica along with medications that also slow blood clotting might increase the risk of bruising and bleeding.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000004-6" qtype="interactions with herbs and supplements">Are there interactions between Arnica and herbs and supplements ?</Question>
-			<Answer></Answer>
+			<Answer>Herbs and supplements that might slow blood clotting Arnica might slow blood clotting and increase the risk of bleeding. Taking it with other supplements with similar effects might increase the risk of bleeding in some people. Examples of supplements with this effect include garlic, ginger, ginkgo, nattokinase, and Panax ginseng.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000004-7" qtype="interactions with foods">Are there interactions between Arnica and foods ?</Question>
-			<Answer></Answer>
+			<Answer>There are no known interactions with foods.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000004-8" qtype="dose">What is the dosage of Arnica ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

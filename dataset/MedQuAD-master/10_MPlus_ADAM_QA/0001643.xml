@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001643" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003602.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Fractional excretion of sodium</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001643-1" qtype="information">Do you have information about Fractional excretion of sodium</Question>
-			<Answer></Answer>
+			<Answer>Fractional excretion of sodium is the amount of salt (sodium) that leaves the body through urine compared to the amount filtered and reabsorbed by the kidney. Fractional excretion of sodium (FENa) is not a test. Instead it is a calculation based on the concentrations of sodium and creatinine in the blood and urine.  Urine  and  blood chemistry  tests are needed to perform this calculation.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

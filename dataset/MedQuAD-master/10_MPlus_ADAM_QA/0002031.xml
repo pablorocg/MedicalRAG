@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002031" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000107.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>How to read food labels</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002031-1" qtype="information">Do you have information about How to read food labels</Question>
-			<Answer></Answer>
+			<Answer>Food labels give you information about the calories, number of servings, and nutrient content of packaged foods. Reading the labels can help you make healthy choices when you shop and plan meals.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

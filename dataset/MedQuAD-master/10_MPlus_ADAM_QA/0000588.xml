@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000588" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000520.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Broken toe - self-care</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000588-1" qtype="information">Do you have information about Broken toe - self-care</Question>
-			<Answer></Answer>
+			<Answer>Each toe is made up of 2 or 3 small bones. These bones are small and fragile. They can break after you stub your toe or drop something heavy on it.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

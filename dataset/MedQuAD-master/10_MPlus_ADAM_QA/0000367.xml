@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000367" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003328.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Autoimmune liver disease panel</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,11 +19,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000367-1" qtype="information">What is (are) Autoimmune liver disease panel ?</Question>
-			<Answer></Answer>
+			<Answer>An autoimmune liver disease panel is a group of tests that is done to check for autoimmune liver disease. An autoimmune liver disease means that the body's immune system attacks the liver. These tests include: Anti-liver/kidney microsomal antibodies, Anti-mitochondrial antibodies, Anti-nuclear antibodies, Anti-smooth muscle antibodies, Serum IgG,  The panel may also include other tests. Often, immune protein levels in the blood are also checked.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000367-8" qtype="susceptibility">Who is at risk for Autoimmune liver disease panel? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

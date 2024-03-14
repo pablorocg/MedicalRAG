@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004114" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007373.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Urinary incontinence - injectable implant</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,19 +23,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004114-1" qtype="information">What is (are) Urinary incontinence - injectable implant ?</Question>
-			<Answer></Answer>
+			<Answer>Injectable implants are injections of material into the urethra to help control urine leakage ( urinary incontinence ) caused by a weak urinary sphincter. The sphincter is a muscle that allows your body to hold urine in the bladder. If your sphincter muscle stops working well, you will have urine leakage.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004114-2" qtype="information">What is (are) Urinary incontinence - injectable implant ?</Question>
-			<Answer></Answer>
+			<Answer>Injectable implants are injections of material into the urethra to help control urine leakage ( urinary incontinence ) caused by a weak urinary sphincter. The sphincter is a muscle that allows your body to hold urine in the bladder. If your sphincter muscle stops working well, you will have urine leakage.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004114-4" qtype="susceptibility">Who is at risk for Urinary incontinence - injectable implant? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004114-7" qtype="outlook">What is the outlook for Urinary incontinence - injectable implant ?</Question>
-			<Answer></Answer>
+			<Answer>You may need 2 or 3 more injections to get good results. If the material moves away from the spot where it was injected, you may need more treatments in the future. Implants can help most men who have had transurethral resection of the prostate ( TURP ). Implants help about one half of men who have had their prostate gland removed to treat prostate cancer.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

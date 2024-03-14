@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000429" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003897.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Bernstein test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000429-1" qtype="information">Do you have information about Bernstein test</Question>
-			<Answer></Answer>
+			<Answer>The Bernstein test is a method to reproduce symptoms of  heartburn . It is most often done with other tests to measure  esophageal function.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

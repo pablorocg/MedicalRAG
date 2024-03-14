@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001395" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007646.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Endoscopic ultrasound</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001395-1" qtype="information">Do you have information about Endoscopic ultrasound</Question>
-			<Answer></Answer>
+			<Answer>Endoscopic ultrasound is a type of imaging test. It is used to see organs in and near the digestive tract.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

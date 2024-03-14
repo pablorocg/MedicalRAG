@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001804" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000551.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hamstring strain - aftercare</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,19 +18,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001804-1" qtype="information">What is (are) Hamstring strain - aftercare ?</Question>
-			<Answer></Answer>
+			<Answer>A strain is when a muscle becomes overstretched and tears. This painful injury is also called a "pulled muscle." If you have strained your hamstring, you have pulled one or more of the muscles on the back of your upper leg (thigh).</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001804-2" qtype="information">What is (are) Hamstring strain - aftercare ?</Question>
-			<Answer></Answer>
+			<Answer>A strain is when a muscle becomes overstretched and tears. This painful injury is also called a "pulled muscle." If you have strained your hamstring, you have pulled one or more of the muscles on the back of your upper leg (thigh).</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001804-3" qtype="outlook">What is the outlook for Hamstring strain - aftercare ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001804-7" qtype="when to contact a medical professional">Do I need to see a doctor for Hamstring strain - aftercare ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

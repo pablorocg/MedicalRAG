@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000292" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001581.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Apert syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000292-1" qtype="information">What is (are) Apert syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Apert syndrome is a genetic disease in which the seams between the skull bones close earlier than normal. This affects the shape of the head and face. Children with Apert syndrome often have deformities of the hands and feet as well.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000292-2" qtype="causes">What causes Apert syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Apert syndrome can be passed down through families (inherited) as an  autosomal dominant  trait. This means that only one parent needs to pass on the altered gene to a child to have the condition. Most cases may occur without a known family history. Apert syndrome is caused by one of two changes to the  FGFR2  gene. This gene change causes some of the bony sutures of the skull to close too early. This condition is called  craniosynostosis .</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000292-3" qtype="symptoms">What are the symptoms of Apert syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms include: Early closure of sutures between bones of the skull, noted by ridging along sutures (craniosynostosis), Frequent ear infections, Fusion or severe webbing of the 2nd, 3rd, and 4th fingers, often called "mitten hands", Hearing loss, Large or late-closing soft spot on a baby's skull (fontanelle), Possible, slow intellectual development (varies from person to person), Prominent or bulging eyes, Severe under-development of the midface,  Skeletal (limb) abnormalities , Short height, Webbing or fusion of the toes ,  Several other syndromes can lead to a similar appearance of the face and head, but do not include the severe hand and foot features of Apert syndrome. These similar syndromes include: Carpenter syndrome (kleeblattschadel, cloverleaf skull deformity), Crouzon disease (craniofacial dysostosis), Pfeiffer syndrome, Saethre-Chotzen syndrome , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000292-4" qtype="exams and tests">How to diagnose Apert syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will perform a physical exam. Hand, foot, and  skull x-rays  will be done. Hearing tests should always be performed. Genetic testing can confirm the diagnosis of Apert syndrome.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000292-5" qtype="treatment">What are the treatments for Apert syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment consists of surgery to correct abnormal bone growth of the skull, as well as for the fusion of the fingers and toes. Children with this disorder should be examined by a specialized craniofacial surgery team at a children's medical center. A hearing specialist should be consulted if there are hearing problems.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000292-6" qtype="support groups">Where to find support for people with Apert syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>More information and support for people with Apert syndrome and their families can be found at: Children's Craniofacial Association:  ccakids.org , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000292-7" qtype="when to contact a medical professional">Do I need to see a doctor for Apert syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have a family history of Apert syndrome or you notice your baby's skull is not developing normally.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000292-8" qtype="prevention">How to prevent Apert syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Genetic counseling may be helpful if you have a family history of this disorder and are planning to become pregnant. Your provider can test your baby for this disease during pregnancy.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

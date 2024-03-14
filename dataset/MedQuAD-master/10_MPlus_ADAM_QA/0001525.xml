@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001525" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003675.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Factor V assay</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001525-1" qtype="information">Do you have information about Factor V assay</Question>
-			<Answer></Answer>
+			<Answer>The factor V assay is a blood test to measure the activity of factor V. This is one of the proteins in the body that helps the blood clot.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

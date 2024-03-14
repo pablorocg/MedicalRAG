@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001221" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002441.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Diet - liver disease</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,7 +18,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001221-1" qtype="information">What is (are) Diet - liver disease ?</Question>
-			<Answer></Answer>
+			<Answer>Some people with  liver disease  must eat a special diet. This diet helps the liver function and protects it from working too hard.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

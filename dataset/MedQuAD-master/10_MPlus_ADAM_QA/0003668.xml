@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003668" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001430.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Speech disorders - children</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,39 +23,59 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003668-1" qtype="information">What is (are) Speech disorders - children ?</Question>
-			<Answer></Answer>
+			<Answer>A speech disorder is a condition in which a person has problems creating or forming the speech sounds needed to communicate with others. This can make the child's speech difficult to understand. Common speech disorders are: 
+   Articulation disorders,  Phonological disorders , 
+   Disfluency
+   , 
+   Voice disorders or resonance disorders,  Speech disorders are different from  language disorders in children . Language disorders refer to someone having difficulty with: Getting their meaning or message across to others (expressive language), Understanding the message coming from others (receptive language), </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003668-2" qtype="causes">What causes Speech disorders - children ?</Question>
-			<Answer></Answer>
+			<Answer>Speech is one of the main ways in which we communicate with those around us. It develops naturally, along with other signs of  normal growth and development . Disorders of speech and language are common in preschool age children. Disfluencies are disorders in which a person repeats a sound, word, or phrase.  Stuttering  may be the most serious disfluency. It may be caused by: Genetic abnormalities, Emotional stress, Any trauma to brain or infection,  Articulation and phonological disorders may occur in other family members. Other causes include: 
+   Problems or changes in the structure or shape of the muscles and bones used to make speech sounds. These changes may include  cleft palate  and tooth problems.
+   , 
+   Damage to parts of the brain or the nerves (such as from  cerebral palsy ) that control how the muscles work together to create speech., Hearing loss.
+   ,  Voice disorders are caused by problems when air passes from the lungs, through the vocal cords, and then through the throat, nose, mouth, and lips. A voice disorder may be due to: 
+   Acid from the stomach moving upward ( GERD )
+   ,  Cancer of the throat , 
+   Cleft palate or other problems with the palate
+   ,  Conditions that damage the nerves  that supply the muscles of the vocal cords
+   , 
+   Laryngeal webs or clefts (a birth defect in which a thin layer of tissue is between the vocal cords)
+   , 
+   Noncancerous growths (polyps, nodules, cysts, granulomas, papillomas, or ulcers) on the vocal cords
+   , 
+   Overuse of the vocal cords from screaming, constantly clearing the throat, or singing, Hearing loss
+   , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003668-3" qtype="symptoms">What are the symptoms of Speech disorders - children ?</Question>
-			<Answer></Answer>
+			<Answer>DISFLUENCY Stuttering is the most common type of disfluency.  Symptoms of disfluency can include:
+ Repetition of sounds, words, or parts of words or phrases after age 4 (I want...I want my doll. I...I see you.), Putting in (interjecting) extra sounds or words (We went to the...uh...store.), Making words longer (I am Boooobbby Jones.), Pausing during a sentence or words, often with the lips together, Tension in the voice or sounds, Frustration with attempts to communicate, Head jerking while talking, Eye blinking while talking, Embarrassment with speech ,  ARTICULATION DISORDER The child is not able to produce speech sounds clearly, such as saying "coo" instead of "school." Certain sounds (like "r", "l", or "s") may be consistently distorted or changed (such as making the 's' sound with a whistle)., Errors may make it hard for people to understand the person (only family members may be able to understand a child).,  PHONOLOGICAL DISORDER The child does not use some or all of the speech sounds to form words as expected for their age. The last or first sound of words (most often consonants) may be left out or changed., The child may have no problem pronouncing the same sound in other words (a child may say "boo" for "book" and "pi" for "pig", but may have no problem saying "key" or "go").,  VOICE DISORDERS Other speech problems include: Hoarseness or raspiness to the voice, Voice may break in or out, Pitch of the voice may change suddenly, Voice may be too loud or too soft, Person may run out of air during a sentence, Speech may sound odd because too much air is escaping through the hose (hypernasality) or too little air is coming out through the nose (hyponasality) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003668-4" qtype="exams and tests">How to diagnose Speech disorders - children ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will ask about your child's developmental and family history. The provider will do some neurological screening and check for: Fluency of speech, Any emotional stress, Any underlying condition, Effect of speech disorder on daily life,  Some other evaluation tools used to identify and diagnose speech disorders are: Denver Articulation Screening Examination., Leiter International Performance scale-3., Goldman-Fristoe Test of Articulation 3 (GFTA-3)., Arizona Articulation and Phonology Scale 4th Revision (Arizona-4)., Prosody-voice screening profile.,  A hearing test may also be done to rule out hearing loss as a cause of the speech disorder.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003668-5" qtype="treatment">What are the treatments for Speech disorders - children ?</Question>
-			<Answer></Answer>
+			<Answer>Children may outgrow milder forms of speech disorders. The type of treatment will depend on the severity of the speech disorder and its cause. Speech therapy may help with more severe symptoms or any speech problems that do not improve. In therapy, the therapist may teach your child how to use their tongue to create certain sounds. If a child has a speech disorder, parents are encouraged to: Avoid expressing too much concern about the problem, which can actually make matters worse by making the child more self-conscious., Avoid stressful social situations whenever possible., Listen patiently to the child, make eye contact, don't interrupt, and show love and acceptance. Avoid finishing sentences for them., Set aside time for talking., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003668-6" qtype="outlook">What is the outlook for Speech disorders - children ?</Question>
-			<Answer></Answer>
+			<Answer>Outlook depends on the cause of the disorder. Speech can often be improved with speech therapy. Early treatment is likely to have better results.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003668-7" qtype="complications">What are the complications of Speech disorders - children ?</Question>
-			<Answer></Answer>
+			<Answer>Speech disorders may lead to challenges with social interactions due to difficulty communicating.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003668-8" qtype="when to contact a medical professional">Do I need to see a doctor for Speech disorders - children ?</Question>
-			<Answer></Answer>
+			<Answer>Call your provider if: Your child's speech is not developing according to normal milestones. ,  You think your child is in a high-risk group. ,  Your child is showing signs of a speech disorder. , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003668-9" qtype="prevention">How to prevent Speech disorders - children ?</Question>
-			<Answer></Answer>
+			<Answer>Hearing loss is a risk factor for speech disorders. At-risk infants should be referred to an audiologist for a hearing test. Hearing and speech therapy can then be started, if necessary. As young children begin to speak, some disfluency is common, and most of the time, it goes away without treatment. If you place too much attention on the disfluency, a stuttering pattern may develop.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001111" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000523.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Deciding to quit drinking alcohol</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001111-1" qtype="information">Do you have information about Deciding to quit drinking alcohol</Question>
-			<Answer></Answer>
+			<Answer>This article describes how to determine if you have a problem with alcohol use and offers advice on how to decide to quit drinking.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

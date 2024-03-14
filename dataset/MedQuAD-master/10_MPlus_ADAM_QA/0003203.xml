@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003203" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000558.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Prenatal care in your third trimester</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003203-1" qtype="information">Do you have information about Prenatal care in your third trimester</Question>
-			<Answer></Answer>
+			<Answer>The word prenatal means before birth. Trimester means 3 months. A normal pregnancy is around 10 months and has 3 trimesters. Your health care provider may talk about your pregnancy in weeks, rather than months or trimesters. The third trimester goes from week 28 through week 40.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

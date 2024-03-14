@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002258" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000719.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Jet lag prevention</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,15 +16,15 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002258-1" qtype="information">What is (are) Jet lag prevention ?</Question>
-			<Answer></Answer>
+			<Answer>Jet lag is a sleep disorder caused by traveling across different time zones. Jet lag occurs when your body's biological clock is not set with the time zone you are in.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002258-2" qtype="causes">What causes Jet lag prevention ?</Question>
-			<Answer></Answer>
+			<Answer>Your body follows a 24-hour internal clock called a circadian rhythm. It tells your body when to go to sleep and when to wake up. Cues from your environment, such as when the sun rises and sets, help set this internal clock. When you pass through different time zones, it can take your body a few days to adjust to the different time.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002258-4" qtype="prevention">How to prevent Jet lag prevention ?</Question>
-			<Answer></Answer>
+			<Answer>Before your trip: Get plenty of rest, eat healthy foods, and get some exercise., Consider going to bed earlier for a couple of nights before leaving if you are traveling east. Go to bed later for a couple of nights if you are traveling west. This will help reset your internal clock before you travel. ,  While in flight: Do not sleep unless it matches the bedtime of your destination. While awake, get up and walk around a few times., During stopovers, make yourself comfortable and get some rest., Drink plenty of water, but avoid heavy meals, alcohol, and caffeine. ,  Melatonin, a hormone supplement, may help decrease jet lag. If you will be in flight during the bedtime of your destination, take some melatonin (3 to 5 milligrams) during that time and try to sleep. Then try taking melatonin several hours before bedtime for several days once you arrive. When you arrive: For short trips, try to eat and sleep at your usual times, if possible, while at your destination., For longer trips, before you leave, try to adapt to the time schedule of your destination. Set your watch to the new time as you begin the trip., It takes a day to adjust to one to two time zones. So if you travel over three time zones, it will take about two days for your body to adapt., Stick with your regular exercise routine while you're away. Avoid exercising late in the evening, because it can keep you awake., If you are traveling for an important event or meeting, try to get to your destination early. This can help your body adjust ahead of time so you are at your best while at the event., Try not to make any important decisions the first day., Once you arrive, spend time in the sun. This can help reset your internal clock. , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

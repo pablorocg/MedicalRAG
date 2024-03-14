@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003732" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003128.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Stools - floating</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003732-1" qtype="information">Do you have information about Stools - floating</Question>
-			<Answer></Answer>
+			<Answer>Stools that float are most often due to poor absorption of nutrients ( malabsorption ) or too much  gas  (flatulence).</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002357" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000858.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Learn to manage your anger</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002357-1" qtype="information">Do you have information about Learn to manage your anger</Question>
-			<Answer></Answer>
+			<Answer>Anger is a normal emotion that everyone feels from time to time. But when you feel anger too intensely or too often, it can become a problem. Anger can put a strain on your relationships or cause problems at school or work.  Anger management can help you learn healthy ways to express and control your anger.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003939" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001359.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tick paralysis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,39 +18,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003939-1" qtype="information">What is (are) Tick paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>Tick paralysis is a loss of muscle function that results from a  tick bite .</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003939-2" qtype="causes">What causes Tick paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>Hard-bodied and soft-bodied female  ticks  are believed to make a poison that can cause  paralysis  in children. Ticks attach to the skin to feed on blood. The poison enters the bloodstream during this feeding process. The paralysis is ascending. That means it starts in the lower body and moves up. </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003939-3" qtype="symptoms">What are the symptoms of Tick paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>Children with tick paralysis develop an  unsteady gait  followed several days later by weakness in the lower legs. This  weakness  gradually moves up to involve the upper limbs. Paralysis may cause  breathing difficulties , which may require the use of a breathing machine. The child may also have mild, flu-like symptoms (muscle aches, tiredness).</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003939-4" qtype="exams and tests">How to diagnose Tick paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>People can be exposed to ticks in many ways. For example, they may have gone on a camping trip, live in a tick-infested area, or have dogs or other animals that can pick up ticks. Often, the tick is found only after thoroughly searching a person's hair. Finding a tick embedded in the skin and having the above symptoms confirms the diagnosis. No other testing is required.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003939-5" qtype="treatment">What are the treatments for Tick paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>Removing the tick removes the source of the poison. Recovery is rapid after the tick is removed.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003939-6" qtype="outlook">What is the outlook for Tick paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>Full recovery is expected following the removal of the tick.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003939-7" qtype="complications">What are the complications of Tick paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>Breathing difficulties can cause  respiratory  failure. When this happens, the body's organs do not have enough oxygen to work well.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003939-8" qtype="when to contact a medical professional">Do I need to see a doctor for Tick paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>If your child suddenly becomes unsteady or weak, have the child examined right away. Breathing difficulties require emergency care.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003939-9" qtype="prevention">How to prevent Tick paralysis ?</Question>
-			<Answer></Answer>
+			<Answer>Use insect repellents and protective clothing when in tick-infested areas. Tuck pant legs into socks. Carefully check the skin and hair after being outside and remove any ticks you find. If you find a tick on your child, write the information down and keep it for several months. Many tick-borne diseases do not show symptoms right away, and you may forget the incident by the time your child becomes sick with a tick-borne disease.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

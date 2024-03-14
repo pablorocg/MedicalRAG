@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002833" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003037.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Nystagmus</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -26,27 +25,29 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002833-1" qtype="information">What is (are) Nystagmus ?</Question>
-			<Answer></Answer>
+			<Answer>Nystagmus is a term to describe uncontrollable movements of the eyes that may be: Side to side (horizontal nystagmus), Up and down (vertical nystagmus), Rotary (rotary or torsional nystagmus),  Depending on the cause, these movements may be in both eyes or in just one eye. Nystagmus can affect vision, balance, and coordination.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002833-2" qtype="considerations">What to do for Nystagmus ?</Question>
-			<Answer></Answer>
+			<Answer>The involuntary eye movements of nystagmus are caused by abnormal function in the areas of the brain that control eye movements. The part of the inner ear that senses movement and position (the labyrinth) helps control eye movements. There are two forms of nystagmus: Infantile nystagmus syndrome (INS) is present at birth (congenital)., Acquired nystagmus develops later in life because of a disease or injury., </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002833-3" qtype="causes">What causes Nystagmus ?</Question>
-			<Answer></Answer>
+			<Answer>NYSTAGMUS THAT IS PRESENT AT BIRTH (infantile nystagmus syndrome, or INS) INS is usually mild. It does not become more severe, and it is not related to any other disorder. People with this condition are usually not aware of the eye movements, but other people may see them. If the movements are large, sharpness of vision (visual acuity) may be less than 20/20. Surgery may improve vision. Nystagmus may be caused by congenital diseases of the eye. Although this is rare, an eye doctor (ophthalmologist) should evaluate any child with nystagmus to check for eye disease. ACQUIRED NYSTAGMUS The most common cause of acquired nystagmus is certain drugs or medicines. Phenytoin (Dilantin) - an antiseizure medicine, excessive alcohol, or any sedating medicine can impair the labyrinth's function. Other causes include: 
+   Inner ear disorders such as  benign positional vertigo ,  labyrinthitis  or  Meniere disease , Head injury from motor vehicle accidents,  Stroke , Infections such as Lyme disease and syphilis, 
+   Thiamine or  vitamin B12  deficiency, Multiple sclerosis, Brain tumors, Autoimmune disease, Paraneoplastic syndromes (due to cancer elsewhere in the body), Seizures,  Nystagmus can also be a symptom of other neurological disorders.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002833-4" qtype="considerations">What to do for Nystagmus ?</Question>
-			<Answer></Answer>
+			<Answer>The involuntary eye movements of nystagmus are caused by abnormal function in the areas of the brain that control eye movements. The part of the inner ear that senses movement and position (the labyrinth) helps control eye movements. There are two forms of nystagmus: Infantile nystagmus syndrome (INS) is present at birth (congenital)., Acquired nystagmus develops later in life because of a disease or injury., </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002833-5" qtype="when to contact a medical professional">Do I need to see a doctor for Nystagmus ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you have symptoms of nystagmus or think you might have this condition.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002833-6" qtype="outlook">What is the outlook for Nystagmus ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001852" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002152.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hearing or speech impairment - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,7 +22,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001852-1" qtype="information">What is (are) Hearing or speech impairment - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on hearing impairment or speech impairment: Alexander Graham Bell Association for the Deaf and Hard of Hearing --  www.agbell.org , American Speech-Language-Hearing Association --  www.asha.org/public , National Institute on Deafness and Other Communication Disorders (NIDCD) --&#160; www.nidcd.nih.gov , Centers for Disease Control and Prevention --  www.cdc.gov/ncbddd/hearingloss/index.html , American Society for Deaf Children --  deafchildren.org , Hearing Loss Association of America --  www.hearingloss.org , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

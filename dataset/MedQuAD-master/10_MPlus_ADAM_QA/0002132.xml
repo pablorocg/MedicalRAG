@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002132" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007378.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ileostomy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002132-1" qtype="information">Do you have information about Ileostomy</Question>
-			<Answer></Answer>
+			<Answer>An ileostomy is used to move waste out of the body. This surgery is done when the colon or rectum is not working properly. The word "ileostomy" comes from the words "ileum" and "stoma." Your ileum is the lowest part of your small intestine. "Stoma" means "opening." To make an ileostomy, the surgeon makes an opening in your belly wall and brings the end of the ileum through the opening. The ileum is then attached to the skin.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000093" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002219.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Adrenal glands</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,8 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000093-1" qtype="information">Do you have information about Adrenal glands</Question>
-			<Answer></Answer>
+			<Answer>Each adrenal gland is about the size of the top part of the thumb. The outer part of the gland is called the cortex. It produces steroid hormones such as cortisol, aldosterone, and hormones that can be changed into testosterone. The inner part of the gland is called the medulla. It produces epinephrine and norepinephrine. These hormones are also called adrenaline and noradrenaline. When the glands produce more or less hormones than normal, you can become sick. This might happen at birth or later in life. The adrenal glands can be affected by many diseases, such as  autoimmune disorders , infections,  tumors , and bleeding. Some are permanent and some go away over time. Medicines can also affect the adrenal glands. The pituitary, a small gland at the bottom of the brain, releases a hormone called ACTH that stimulates the adrenal cortex to make its hormones. Pituitary diseases can lead to problems with adrenal function. Conditions related to adrenal gland problems include: Addison disease , also called  adrenal insufficiency &#160;-- an autoimmune disorder that causes the adrenal glands to not produce enough hormones,  Congenital adrenal hyperplasia  -- disorder in which the adrenal glands lack an enzyme needed to make certain hormones,  Cushing syndrome  -- disorder that occurs when the body has a high level of the hormone cortisol, Diabetes mellitus (high blood sugar) caused by the adrenal gland making too much cortisol, Glucocorticoid medicines such as prednisone, methylprednisolone, dexamethasone, and hydrocortisone, 
+  Excessive or unwanted hair in women ( hirsutism ),  Hump behind shoulders  (dorsocervical fat pad),  Hypoglycemia  -- low blood sugar,  Primary aldosteronism  (Conn syndrome) -- disorder in which the adrenal gland releases too much of the hormone aldosterone, Massive bilateral adrenal hemorrhage ( Waterhouse-Friderichsen syndrome ) -- failure of adrenal glands to function as a result of bleeding into the gland, usually associated with severe infection, called sepsis, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

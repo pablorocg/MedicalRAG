@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001912" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002372.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Hemolysis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,11 +16,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001912-1" qtype="information">What is (are) Hemolysis ?</Question>
-			<Answer></Answer>
+			<Answer>Red blood cells normally live for 110 to 120 days. After that, they naturally break down and are most often removed from the circulation by the spleen. Some diseases and processes cause  red blood cells to break down too soon . This requires the bone marrow to make more red blood cells than normal. The balance between red blood cell breakdown and production determines how low the red blood cell count becomes.  Conditions that can cause hemolysis include: Immune reactions, Infections, Medicines,  Toxins  and poisons, Red cell metabolism or defects in the shape of blood cells, </Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001912-2" qtype="information">What is (are) Hemolysis ?</Question>
-			<Answer></Answer>
+			<Answer>Red blood cells normally live for 110 to 120 days. After that, they naturally break down and are most often removed from the circulation by the spleen. Some diseases and processes cause  red blood cells to break down too soon . This requires the bone marrow to make more red blood cells than normal. The balance between red blood cell breakdown and production determines how low the red blood cell count becomes.  Conditions that can cause hemolysis include: Immune reactions, Infections, Medicines,  Toxins  and poisons, Red cell metabolism or defects in the shape of blood cells, </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

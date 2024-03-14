@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003976" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007379.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Total abdominal colectomy</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003976-1" qtype="information">Do you have information about Total abdominal colectomy</Question>
-			<Answer></Answer>
+			<Answer>Total abdominal colectomy is the removal of the large intestine from the lowest part of the small intestine (ileum) to the rectum. After it is removed, the end of the small intestine is sewn to the rectum.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

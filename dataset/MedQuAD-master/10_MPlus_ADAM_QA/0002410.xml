@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002410" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000205.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Liver disease</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,7 +18,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002410-1" qtype="information">What is (are) Liver disease ?</Question>
-			<Answer></Answer>
+			<Answer>The term "liver disease" applies to many conditions that stop the liver from working or prevent it from functioning well. Abdominal pain or swelling, yellowing of the skin or eyes ( jaundice ), or abnormal results of  liver function tests  may suggest you have liver disease. Related topics include: Alpha-1 anti-trypsin deficiency,  Amebic liver abscess ,  Autoimmune hepatitis ,  Biliary atresia ,  Cirrhosis ,  Coccidioidomycosis ,  Delta virus (hepatitis D) , Drug-induced cholestasis, Nonalcoholic fatty liver disease,  Hemochromatosis ,  Hepatitis A ,  Hepatitis B ,  Hepatitis C ,  Hepatocellular carcinoma ,  Liver disease due to alcohol ,  Primary biliary cirrhosis ,  Pyogenic liver abscess ,  Reye syndrome ,  Sclerosing cholangitis ,  Wilson disease , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

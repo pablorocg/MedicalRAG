@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004194" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000615.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Varicose and other vein problems - self-care</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004194-1" qtype="information">Do you have information about Varicose and other vein problems - self-care</Question>
-			<Answer></Answer>
+			<Answer>Blood flows slowly from the veins in your legs back to your heart. Due to gravity, blood tends to pool in your legs, primarily when you stand. As a result, you may have: Varicose veins, Swelling in your legs, Skin changes or even a skin ulcer (sore) in your lower legs ,  These problems may get worse over time. Learn self-care that you can do at home to: Slow down the development of varicose veins, Decrease any discomfort, Prevent skin ulcers , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

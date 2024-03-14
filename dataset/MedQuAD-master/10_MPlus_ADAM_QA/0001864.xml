@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001864" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002203.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Heart disease - resources</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001864-1" qtype="information">What is (are) Heart disease - resources ?</Question>
-			<Answer></Answer>
+			<Answer>The following organizations are good resources for information on heart disease: American Heart Association --  www.heart.org , Centers for Disease Control and Prevention --  www.cdc.gov/heartdisease , National Heart, Lung, and Blood Institute --  www.nhlbi.nih.gov/health-topics/education-and-awareness/heart-truth , Office on Women's Health, womenshealth.gov --  www.womenshealth.gov/heart-disease-and-stroke , US National Library of Medicine, MedlinePlus --  medlineplus.gov/heartdiseases.html , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

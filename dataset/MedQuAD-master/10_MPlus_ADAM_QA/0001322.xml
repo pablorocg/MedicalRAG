@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001322" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003015.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Ear tube insertion</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001322-1" qtype="information">Do you have information about Ear tube insertion</Question>
-			<Answer></Answer>
+			<Answer>Ear tube insertion involves placing tubes through the eardrums. The eardrum is the thin layer of tissue that separates the outer and middle ear.  Note: This article focuses on ear tube insertion in children. However, most of the information could also apply to adults with similar symptoms or problems.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

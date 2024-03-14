@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001263" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000473.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Do-not-resuscitate order</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -25,11 +24,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001263-1" qtype="information">What is (are) Do-not-resuscitate order ?</Question>
-			<Answer></Answer>
+			<Answer>A do-not-resuscitate order, or DNR order, is a medical order written by a doctor. It instructs health care providers not to do cardiopulmonary resuscitation (CPR) if a patient's breathing stops or if the patient's heart stops beating.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001263-2" qtype="information">What is (are) Do-not-resuscitate order ?</Question>
-			<Answer></Answer>
+			<Answer>A do-not-resuscitate order, or DNR order, is a medical order written by a doctor. It instructs health care providers not to do cardiopulmonary resuscitation (CPR) if a patient's breathing stops or if the patient's heart stops beating.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

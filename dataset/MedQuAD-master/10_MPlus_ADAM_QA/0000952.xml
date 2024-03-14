@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000952" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001576.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Congenital nephrotic syndrome</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,35 +19,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000952-1" qtype="information">What is (are) Congenital nephrotic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Congenital nephrotic syndrome is a disorder that is passed down through families in which a baby develops protein in the urine and swelling of the body.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000952-2" qtype="causes">What causes Congenital nephrotic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Congenital nephrotic syndrome is an  autosomal recessive genetic  disorder. This means that each parent must pass on a copy of the defective gene in order for the child to have the disease. Although congenital means present from birth, with congenital nephrotic syndrome, symptoms of the disease occur in the first 3 months of life. Congenital nephrotic syndrome is a very rare form of nephrotic syndrome. Nephrotic syndrome is a group of symptoms that include: Protein in the urine, Low blood protein levels in the blood, High cholesterol levels, High triglyceride levels, Swelling,  Children with this disorder have an abnormal form of a protein called nephrin. The kidney's filters (glomeruli) need this protein to function normally.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000952-3" qtype="symptoms">What are the symptoms of Congenital nephrotic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of nephrotic syndrome include: Cough ,  Decreased urine output , Foamy appearance of urine,  Low birth weight ,  Poor appetite ,  Swelling  (total body), </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000952-4" qtype="exams and tests">How to diagnose Congenital nephrotic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>An ultrasound done on the pregnant mother may show a larger-than-normal placenta. The placenta is the organ that develops during pregnancy to feed the growing baby. Pregnant mothers may have a screening test done during pregnancy to check for this condition. The test looks for higher-than-normal levels of alpha-fetoprotein in a sample of amniotic fluid. Genetic tests are then used to confirm the diagnosis if the screening test is positive. After birth, the infant will show signs of severe fluid retention and swelling. The health care provider will hear abnormal sounds when listening to the baby's heart and lungs with a stethoscope. Blood pressure may be high. There may be signs of malnutrition. A  urinalysis  reveals fat and large amounts of protein in the urine.  Total protein  in the blood may be low.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000952-5" qtype="treatment">What are the treatments for Congenital nephrotic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Early and aggressive treatment is needed to control this disorder. Treatment may involve: Antibiotics to control infections, Blood pressure medicines called angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs) to reduce the amount of protein leaking into the urine, Diuretics ("water pills") to remove excess fluid, NSAIDs, such as indomethacin, to reduce the amount of protein leaking into the urine,  Fluids may be limited to help control swelling. The provider may recommend removing the kidneys to stop protein loss. This may be followed by  dialysis  or a  kidney transplant .</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000952-6" qtype="outlook">What is the outlook for Congenital nephrotic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>The disorder often leads to infection, malnutrition, and kidney failure. It can lead to death by age 5, and many children die within the first year. Congenital nephrotic syndrome may be controlled in some cases with early and aggressive treatment, including an early kidney transplant.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000952-7" qtype="complications">What are the complications of Congenital nephrotic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Complications of this condition include: Acute kidney failure, Blood clots,  Chronic kidney failure ,  End-stage kidney disease , Frequent, severe infections, Malnutrition and related diseases, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000952-8" qtype="when to contact a medical professional">Do I need to see a doctor for Congenital nephrotic syndrome ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if your child has symptoms of congenital nephrotic syndrome.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

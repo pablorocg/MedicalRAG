@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003937" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000792.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Tibial nerve dysfunction</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003937-1" qtype="information">Do you have information about Tibial nerve dysfunction</Question>
-			<Answer></Answer>
+			<Answer>Tarsal tunnel syndrome is a condition in which the tibial nerve is being compressed. This is the nerve in the ankle that allows feeling and movement to parts of the foot. Tarsal tunnel syndrome can lead to numbness, tingling, weakness, or muscle damage mainly in the bottom of the foot.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

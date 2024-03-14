@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004133" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003342.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Urine chemistry</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004133-1" qtype="information">Do you have information about Urine chemistry</Question>
-			<Answer></Answer>
+			<Answer>Urine chemistry is a group of one or more tests done to check the chemical content of a urine sample.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000219" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000184.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Anesthesia - what to ask your doctor - child</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,7 +19,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000219-1" qtype="information">What is (are) Anesthesia - what to ask your doctor - child ?</Question>
-			<Answer></Answer>
+			<Answer>Your child is scheduled to have a surgery or procedure. You will need to talk with your child's doctor about the type of anesthesia that will be best for your child. Below are some questions you may want to ask.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

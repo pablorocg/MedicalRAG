@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002311" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001054.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Labyrinthitis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -29,39 +28,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002311-1" qtype="information">What is (are) Labyrinthitis ?</Question>
-			<Answer></Answer>
+			<Answer>Labyrinthitis is irritation and swelling of the inner ear. It can cause vertigo and hearing loss.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002311-2" qtype="causes">What causes Labyrinthitis ?</Question>
-			<Answer></Answer>
+			<Answer>Labyrinthitis is usually caused by a virus and sometimes by bacteria. Having a cold or flu can trigger the condition. Less often, an ear infection may lead to labyrinthitis. Other causes include allergies or certain medicines that are bad for the inner ear.  Your inner ear is important for both hearing and balance. When you have labyrinthitis, the parts of your inner ear become irritated and swollen. This can make you lose your balance and cause hearing loss. These factors raise your risk for labyrinthitis: Drinking large amounts of alcohol,  Fatigue , History of  allergies , Recent viral illness,  respiratory infection , or  ear infection , Smoking,  Stress , Using certain prescription or nonprescription medicines (such as aspirin) , </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002311-3" qtype="symptoms">What are the symptoms of Labyrinthitis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include any of the following: Feeling like you are spinning, even when you are still ( vertigo ).,  Your eyes moving on their own,  making it hard to focus them., Dizziness.,  Hearing loss  in one ear., Loss of balance -- you may fall toward one side., Nausea and vomiting., Ringing or other noises in your ears ( tinnitus ). , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002311-4" qtype="exams and tests">How to diagnose Labyrinthitis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider may give you a physical exam. You may also have tests of your nervous system (neurological exam). Tests can rule out other causes of your symptoms. These may include: Electronystagmography , and warming and cooling the inner ear with air or water to test eye reflexes ( caloric stimulation ),  Head CT scan ,  Hearing test ,  MRI of the head , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002311-5" qtype="treatment">What are the treatments for Labyrinthitis ?</Question>
-			<Answer></Answer>
+			<Answer>Labyrinthitis usually goes away within a few weeks. Treatment can help reduce vertigo and other symptoms. Physical therapy focused on balance can be helpful for some people. Medicines that may help include: Antihistamines, Medicines to control nausea and vomiting, such as prochlorperazine, Medicines to relieve dizziness, such as meclizine&#160;or scopolamine, Sedatives, such as diazepam (Valium), Corticosteroids, Antiviral medicines ,  If you have severe vomiting, you may be admitted to the hospital. Follow your provider's instructions for  taking care of yourself at home . Doing these things can help you manage vertigo: Stay still and rest., Avoid sudden movements or position changes., Rest during severe episodes. Slowly resume activity. You may need help walking when you lose your balance during attacks., Avoid bright lights, TV, and reading during attacks., Ask your provider about balance therapy. This may help once nausea and vomiting have passed. ,  You should avoid the following for one week after symptoms disappear: Driving, Operating heavy machinery, Climbing ,  A sudden dizzy spell during these activities can be dangerous. Avoid other activities with a similar danger.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002311-6" qtype="outlook">What is the outlook for Labyrinthitis ?</Question>
-			<Answer></Answer>
+			<Answer>It takes time for labyrinthitis symptoms to go away completely. Severe symptoms usually go away within a week. , Most people are completely better within 2 to 3 months. , Older adults are more likely to have dizziness that lasts longer.,  In very rare cases, hearing loss is permanent.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002311-7" qtype="complications">What are the complications of Labyrinthitis ?</Question>
-			<Answer></Answer>
+			<Answer>People with severe vertigo may get dehydrated due to frequent vomiting.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002311-8" qtype="when to contact a medical professional">Do I need to see a doctor for Labyrinthitis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if: You have dizziness, vertigo, loss of balance, or other symptoms of labyrinthitis, You have hearing loss ,  Call 911 or the local emergency number if you have any of the following severe symptoms: Convulsions , Double vision, Fainting, Vomiting a lot, Slurred speech, Vertigo that occurs with a fever of more than 101&#176;F (38.3&#176;C), Weakness or paralysis , </Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002311-9" qtype="prevention">How to prevent Labyrinthitis ?</Question>
-			<Answer></Answer>
+			<Answer>There is no known way to prevent labyrinthitis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

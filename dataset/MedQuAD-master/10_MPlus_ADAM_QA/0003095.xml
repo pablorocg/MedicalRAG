@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003095" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002534.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Piroxicam overdose</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,19 +19,19 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003095-1" qtype="information">What is (are) Piroxicam overdose ?</Question>
-			<Answer></Answer>
+			<Answer>Piroxicam is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve mild to moderate aches and pains and swelling. Piroxicam overdose occurs when someone takes more than the recommended amount of this medicine. People with kidney or liver disease are more likely to develop serious side effects or worsening of their disease from NSAIDs.  As a group, and because of their common use, NSAIDs are responsible for more serious drug-related side effects than any other class of pain relieving drugs. This article is for information only. DO NOT use it to treat or manage an actual  overdose . If you or someone you are with overdoses, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003095-4" qtype="symptoms">What are the symptoms of Piroxicam overdose ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms of a piroxicam overdose may include: Airways and lungs: Rapid breathing , Slow,  labored breathing , Wheezing ,  Eyes, ears, nose, and throat: Ringing in the ears ,  Blurred vision ,  Nervous system: Agitation ,  confusion , incoherence (not understandable), Collapse,  Coma &#160;(decreased level of consciousness and lack of responsiveness),  Convulsions  (seizures),  Drowsiness , Headache (severe),  Unsteadiness , movement problems ,  Skin: Rash ,  Stomach and intestines: Diarrhea, Heartburn, Nausea, vomiting, Stomach pain (possible bleeding in the stomach and intestines) , </Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003095-7" qtype="outlook">What is the outlook for Piroxicam overdose ?</Question>
-			<Answer></Answer>
+			<Answer>Recovery is likely. In rare cases, kidney damage may be permanent and require long-term dialysis.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003095-8" qtype="outlook">What is the outlook for Piroxicam overdose ?</Question>
-			<Answer></Answer>
+			<Answer>Recovery is likely. In rare cases, kidney damage may be permanent and require long-term dialysis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

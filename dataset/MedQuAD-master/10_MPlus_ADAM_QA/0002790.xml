@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002790" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000703.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Neurosyphilis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002790-1" qtype="information">What is (are) Neurosyphilis ?</Question>
-			<Answer></Answer>
+			<Answer>Neurosyphilis is a bacterial infection of the brain or spinal cord. It usually occurs in people who have had untreated  syphilis  for many years.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002790-2" qtype="causes">What causes Neurosyphilis ?</Question>
-			<Answer></Answer>
+			<Answer>Neurosyphilis is caused by  Treponema pallidum  bacteria. Neurosyphilis usually occurs about 10 to 20 years after a person is first infected with syphilis. Not everyone who has syphilis develops this complication. There are four different forms of neurosyphilis: Asymptomatic  (most common form),  General paresis , Meningovascular,  Tabes dorsalis ,  Asymptomatic neurosyphilis occurs before  symptomatic  syphilis. Asymptomatic means there aren't any symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0002790-3" qtype="symptoms">What are the symptoms of Neurosyphilis ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms usually affect the nervous system. Depending on the form of neurosyphilis, symptoms may include any of the following: Abnormal walk  (gait), or unable to walk, Numbness in the toes, feet, or legs, Problems with thinking, such as confusion or poor concentration, Mental problems, such as depression or irritability, Headache,  seizures , or stiff neck, Loss of bladder control ( incontinence ), Tremors, or weakness,  Visual problems , even blindness, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0002790-4" qtype="exams and tests">How to diagnose Neurosyphilis ?</Question>
-			<Answer></Answer>
+			<Answer>Your health care provider will do a physical examination and may find the following: Abnormal reflexes,  Muscle atrophy , Muscle contractions, Mental changes ,  Blood tests can be done to detect substances produced by the bacteria that cause syphilis, this includes:  Treponema pallidum  particle agglutination assay (TPPA), Venereal disease research laboratory ( VDRL ) test, Fluorescent treponemal antibody absorption ( FTA-ABS ), Rapid plasma reagin ( RPR ),  With neurosyphilis, it is important to test the spinal fluid for signs of syphilis. Tests to look for problems with the nervous system may include: Cerebral angiogram ,  Head CT scan ,  Lumbar puncture  (spinal tap) and  cerebrospinal fluid (CSF) analysis ,  MRI  scan of the brain, brainstem, or spinal cord , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0002790-5" qtype="treatment">What are the treatments for Neurosyphilis ?</Question>
-			<Answer></Answer>
+			<Answer>The antibiotic penicillin is used to treat neurosyphilis. It can be given in different ways: Injected into a vein several times a day for 10 to 14 days., By mouth 4 times a day, combined with daily muscle injections, both taken for 10 to 14 days. ,  You must have follow-up blood tests at 3, 6, 12, 24, and 36 months to make sure the infection is gone. You will need follow-up lumbar punctures for CSF analysis every 6 months. If you have HIV/AIDS or another medical condition, your follow-up schedule may be different.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0002790-6" qtype="outlook">What is the outlook for Neurosyphilis ?</Question>
-			<Answer></Answer>
+			<Answer>Neurosyphilis is a life-threatening complication of syphilis. How well you do depends on how severe the neurosyphilis is before treatment. The goal of treatment is to prevent further deterioration. Many of these changes are not reversible.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0002790-7" qtype="complications">What are the complications of Neurosyphilis ?</Question>
-			<Answer></Answer>
+			<Answer>The symptoms can slowly worsen.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002790-8" qtype="when to contact a medical professional">Do I need to see a doctor for Neurosyphilis ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you have had syphilis in the past and now have signs of nervous system problems.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0002790-9" qtype="prevention">How to prevent Neurosyphilis ?</Question>
-			<Answer></Answer>
+			<Answer>Prompt diagnosis and treatment of the original syphilis infection can prevent neurosyphilis.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

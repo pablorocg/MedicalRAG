@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001291" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000104.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Drug-induced pulmonary disease</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -19,39 +18,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001291-1" qtype="information">What is (are) Drug-induced pulmonary disease ?</Question>
-			<Answer></Answer>
+			<Answer>Drug-induced pulmonary disease is lung disease brought on by a bad reaction to a medicine.&#160;Pulmonary means related to the lungs.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001291-2" qtype="causes">What causes Drug-induced pulmonary disease ?</Question>
-			<Answer></Answer>
+			<Answer>Many types of lung injury can result from medicines. It is usually impossible to predict who will develop lung disease from a medicine. Types of lung problems or diseases that may be caused by medicines include: Allergic reactions  --  asthma ,  hypersensitivity pneumonitis , or  eosinophilic pneumonia , Bleeding into the lung air sacs, called alveoli (alveolar hemorrhage), Swelling and inflamed tissue in the main passages that carry air to the lungs ( bronchitis ), Damage to lung tissue ( interstitial fibrosis ), Drugs that cause the immune system to mistakenly attack and destroy healthy body tissue, such as  drug-induced lupus erythematosus , Granulomatous lung disease -- a type of inflammation in the lungs, Inflammation of the lung air sacs (pneumonitis or infiltration), Lung vasculitis (inflammation of lung blood vessels),  Lymph node swelling , Swelling and irritation (inflammation) of the chest area between the lungs ( mediastinitis ), Abnormal buildup of fluid in the lungs ( pulmonary edema ), Buildup of fluid between the layers of tissue that line the lungs and chest cavity ( pleural effusion ), Abnormal pressure of the arteries that bring blood to the lungs (pulmonary hypertension),  Many medicines and substances are known to cause lung disease in some people. These include: Antibiotics, such as nitrofurantoin and sulfa drugs, Heart medicines, such as amiodarone,  Chemotherapy  drugs such as bleomycin, cyclophosphamide, and methotrexate, Immunotherapy drugs that are used to treat cancer, Street drugs, </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001291-3" qtype="symptoms">What are the symptoms of Drug-induced pulmonary disease ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include any of the following: Bloody sputum ,  Chest pain ,  Cough ,  Fever ,  Shortness of breath ,  Wheezing , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001291-4" qtype="exams and tests">How to diagnose Drug-induced pulmonary disease ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a physical exam and listen to your chest and lungs with a stethoscope. Abnormal breath sounds may be heard. Tests that may be done include: Arterial blood gases , Blood test to check for an  autoimmune  disorder, Blood chemistry,  Bronchoscopy ,  Complete blood count  with  blood differential ,  Chest CT scan ,  Chest x-ray ,  Lung biopsy  (in rare cases),  Lung function tests ,  Thoracentesis  (if pleural effusion is present), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001291-5" qtype="treatment">What are the treatments for Drug-induced pulmonary disease ?</Question>
-			<Answer></Answer>
+			<Answer>The first step is to stop the&#160;medicine that is causing the problem. Other treatments depend on your specific symptoms. For example, you may need oxygen until the drug-induced lung disease improves. Anti-inflammatory medicines called corticosteroids are most often used to quickly reverse the lung inflammation.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0001291-6" qtype="outlook">What is the outlook for Drug-induced pulmonary disease ?</Question>
-			<Answer></Answer>
+			<Answer>Acute  episodes usually go away within 48&#160;to 72 hours after the medicine has been stopped.  Chronic  symptoms may take longer to improve. Some drug-induced lung diseases, such as pulmonary fibrosis, may never go away and can worsen, even after the medicine or substance is stopped and can lead to severe lung disease and death.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0001291-7" qtype="complications">What are the complications of Drug-induced pulmonary disease ?</Question>
-			<Answer></Answer>
+			<Answer>Complications that may develop include: Diffuse interstitial pulmonary fibrosis , Hypoxemia (low blood oxygen),  Respiratory failure , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0001291-8" qtype="when to contact a medical professional">Do I need to see a doctor for Drug-induced pulmonary disease ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if you develop symptoms of this disorder.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0001291-9" qtype="prevention">How to prevent Drug-induced pulmonary disease ?</Question>
-			<Answer></Answer>
+			<Answer>Note any past reaction you have had to a medicine, so that you can avoid the medicine in the future. Wear a medical alert bracelet if you have known drug reactions. Stay away from street drugs.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

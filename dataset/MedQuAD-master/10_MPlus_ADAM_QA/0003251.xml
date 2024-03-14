@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003251" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003346.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Prostate-specific antigen (PSA) blood test</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003251-1" qtype="information">Do you have information about Prostate-specific antigen (PSA) blood test</Question>
-			<Answer></Answer>
+			<Answer>Prostate-specific antigen (PSA) is a protein produced by prostate cells. The PSA test is done to help screen for and follow prostate cancer in men.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

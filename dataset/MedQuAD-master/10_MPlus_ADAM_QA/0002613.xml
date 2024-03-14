@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002613" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002260.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Metastasis</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,11 +22,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002613-1" qtype="information">What is (are) Metastasis ?</Question>
-			<Answer></Answer>
+			<Answer>Whether or not cancer cells spread to other parts of the body depends on many things, including: The type of cancer, The stage of the cancer, Original location of the cancer , Your body's natural defenses, such as the immune system,  Treatment depends on the type of cancer and where it has spread.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0002613-2" qtype="information">What is (are) Metastasis ?</Question>
-			<Answer></Answer>
+			<Answer>Whether or not cancer cells spread to other parts of the body depends on many things, including: The type of cancer, The stage of the cancer, Original location of the cancer , Your body's natural defenses, such as the immune system,  Treatment depends on the type of cancer and where it has spread.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000558" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007360.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Breast MRI scan</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000558-1" qtype="information">Do you have information about Breast MRI scan</Question>
-			<Answer></Answer>
+			<Answer>A breast  MRI  (magnetic resonance imaging) scan is an imaging test that uses powerful magnets and radio waves to create pictures of the breast and surrounding tissue. It does not use radiation ( x-rays ). A breast MRI is most often done in combination with  mammography  or  ultrasound . It is not a replacement for mammography.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

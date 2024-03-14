@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002212" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000251.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Intestinal leiomyoma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,7 +20,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002212-1" qtype="information">What is (are) Intestinal leiomyoma ?</Question>
-			<Answer></Answer>
+			<Answer>A leiomyoma is a  benign tumor  made up mostly of smooth muscle cells. It is called an intestinal leiomyoma when the tumor is located in the intestinal tract. Most often, these tumors cause no symptoms. They are most often found when a person has an upper gastrointestinal (GI) endoscopy or colonoscopy for another reason. Rarely, these tumors can cause bleeding, blockage or rupture of the intestines. If this happens, the tumor will need to be surgically removed. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

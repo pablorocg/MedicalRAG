@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000689" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000194.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cardiac tamponade</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000689-1" qtype="information">What is (are) Cardiac tamponade ?</Question>
-			<Answer></Answer>
+			<Answer>Cardiac tamponade is pressure on the heart that occurs when blood or fluid builds up in the space between the heart muscle and the outer covering sac (pericardium) of the heart.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000689-2" qtype="causes">What causes Cardiac tamponade ?</Question>
-			<Answer></Answer>
+			<Answer>In this condition, blood or fluid collects in the sac surrounding the heart. This prevents the heart ventricles from expanding fully. The excess pressure from the fluid prevents the heart from working properly. As a result, the body does not get enough blood. Cardiac tamponade can occur due to: Dissecting aortic aneurysm  (thoracic), End-stage lung cancer, Heart attack ( acute MI ), Heart surgery,  Pericarditis  caused by bacterial or viral infections, Wounds to the heart ,  Other possible causes include: Heart tumors,  Underactive thyroid gland ,  Kidney failure , Leukemia, Placement of central lines,  Radiation therapy to the chest , Recent invasive heart procedures,  Systemic lupus erythematosus , Dermatomyositis, Heart failure,  Cardiac tamponade due to disease occurs in about 2 out of 10,000 people.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000689-3" qtype="symptoms">What are the symptoms of Cardiac tamponade ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms may include: Anxiety , restlessness, Sharp  chest pain  that is felt in the neck, shoulder, back, or abdomen, Chest pain that gets worse with deep breathing or coughing, Problems breathing, Discomfort, sometimes relieved by sitting upright or leaning forward,  Fainting , lightheadedness, Pale, gray, or blue skin, Palpitations, Rapid breathing, Swelling of the legs or abdomen, Jaundice,  Other symptoms that may occur with this disorder: Dizziness, Drowsiness, Weak or absent pulse , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000689-4" qtype="exams and tests">How to diagnose Cardiac tamponade ?</Question>
-			<Answer></Answer>
+			<Answer>Echocardiogram  is the test of choice to help make the diagnosis. This test may be done at the bedside in emergency cases.  A physical exam may show: Blood pressure that falls when breathing deeply, Rapid breathing, Heart rate over 100 (normal is 60 to 100 beats per minute), Heart sounds are only faintly heard through a stethoscope, Neck veins that may be bulging (distended) but the blood pressure is low, Weak or absent  peripheral  pulses ,  Other tests may include: Chest CT  or  MRI of chest ,  Chest x-ray ,  Coronary angiography ,  ECG , Right heart catheterization , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000689-5" qtype="treatment">What are the treatments for Cardiac tamponade ?</Question>
-			<Answer></Answer>
+			<Answer>Cardiac tamponade is an emergency condition that needs to be treated in the hospital. The fluid around the heart must be drained as quickly as possible.  A procedure that uses a needle to remove fluid  from the tissue that surrounds the heart will be done. A surgical procedure to cut and remove part of the covering of the heart may also be done. This is known as surgical pericardiectomy or pericardial window. Fluids are given to keep blood pressure normal until the fluid can be drained from around the heart. Medicines that increase blood pressure may also help keep the person alive until the fluid is drained. Oxygen may be given to help reduce the workload on the heart by decreasing tissue demands for blood flow. The cause of tamponade must be found and treated.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000689-6" qtype="outlook">What is the outlook for Cardiac tamponade ?</Question>
-			<Answer></Answer>
+			<Answer>Death due to cardiac tamponade can occur quickly if the fluid or blood is not removed promptly from within the pericardium. The outcome is often good if the condition is treated promptly. However, tamponade may come back.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000689-7" qtype="complications">What are the complications of Cardiac tamponade ?</Question>
-			<Answer></Answer>
+			<Answer>Complications may include: Heart failure ,  Pulmonary edema , Bleeding,  Shock , Death, </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000689-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cardiac tamponade ?</Question>
-			<Answer></Answer>
+			<Answer>Go to the emergency room or call the local emergency number (such as 911) if symptoms develop. Cardiac tamponade is an emergency condition that needs immediate medical attention.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000689-9" qtype="prevention">How to prevent Cardiac tamponade ?</Question>
-			<Answer></Answer>
+			<Answer>Many cases can't be prevented. Knowing your personal risk factors may help you get early diagnosis and treatment.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

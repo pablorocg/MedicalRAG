@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001704" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000695.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Generalized tonic-clonic seizure</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -23,23 +22,23 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001704-1" qtype="information">What is (are) Generalized tonic-clonic seizure ?</Question>
-			<Answer></Answer>
+			<Answer>Bilateral tonic-clonic seizure is a type of seizure that involves the entire body. It is also called grand mal seizure. The terms   generalized seizure ,  convulsion , or  epilepsy  are most often associated with bilateral tonic-clonic seizures.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0001704-2" qtype="causes">What causes Generalized tonic-clonic seizure ?</Question>
-			<Answer></Answer>
+			<Answer>Seizures result from overactivity in the brain. Bilateral tonic-clonic seizures may occur in people of any age. They can occur once (single episode). Or, they can occur as part of a repeated, chronic illness (epilepsy). Some seizures are due to psychological problems (psychogenic or non-epileptic).</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0001704-3" qtype="symptoms">What are the symptoms of Generalized tonic-clonic seizure ?</Question>
-			<Answer></Answer>
+			<Answer>Many people with generalized bilateral tonic-clonic seizures have one or more symptoms such as: Vision, taste, smell, or sensory changes., Hallucinations.,  Dizziness  before the seizure. This is called an aura.,  Some people have a focal seizure (only affecting one part) that becomes a bilateral tonic clonic seizure. The seizures often result in  rigid muscles &#160;(tonic phase). This is followed by violent  muscle contractions &#160;(clonic phase). Other symptoms that occur during the seizure may include: Biting the cheek or tongue, Clenched teeth or jaw, Loss of urine or stool control (incontinence),  Stopped breathing  or  difficulty breathing , Blue skin color ,  After the seizure, the person may have: Confusion ,  Drowsiness  or sleepiness that lasts for 1 hour or longer (called the post-ictal state), Loss of memory (amnesia) about the seizure episode,  Headache , Weakness of one side of the body for a few minutes to a few hours following seizure (called Todd paralysis) , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0001704-4" qtype="exams and tests">How to diagnose Generalized tonic-clonic seizure ?</Question>
-			<Answer></Answer>
+			<Answer>The doctor will perform a physical exam. This will include a detailed check of the brain and nervous system. An  EEG (electroencephalogram)  will be done to check the electrical activity in the brain. People with seizures often have abnormal electrical activity seen on this test. In some cases, the test shows the area in the brain where the seizures start. The brain may appear normal after a seizure or between seizures. Blood and urine tests may also be ordered to check for other health problems that may be causing the seizures. Head CT  or  MRI  scan may be done to find the cause and location of the problem in the brain.</Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0001704-5" qtype="treatment">What are the treatments for Generalized tonic-clonic seizure ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment  for tonic-clonic seizures includes medicines, changes in lifestyle for  adults  and  children , such as activity and diet, and sometimes surgery. Your doctor can tell you more about these options.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

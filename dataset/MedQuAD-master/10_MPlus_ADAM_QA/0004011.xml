@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004011" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002330.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Translocation</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,7 +16,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004011-1" qtype="information">What is (are) Translocation ?</Question>
-			<Answer></Answer>
+			<Answer>Translocation means a change in location. It often refers to genetics, when part of a chromosome is transferred to another chromosome. Chromosomes are structures that carry genes, our units of heredity. When a translocation occurs, it can cause flaws in chromosomes.  In another type of translocation, two chromosomes trade pieces with each other. Genetic translocations can cause serious disorders, including a type of  leukemia .</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

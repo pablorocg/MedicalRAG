@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003394" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001030.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Retinoblastoma</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,39 +20,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003394-1" qtype="information">What is (are) Retinoblastoma ?</Question>
-			<Answer></Answer>
+			<Answer>Retinoblastoma is a rare eye tumor that usually occurs in children. It is a malignant (cancerous) tumor of the part of the eye called the retina.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003394-2" qtype="causes">What causes Retinoblastoma ?</Question>
-			<Answer></Answer>
+			<Answer>Retinoblastoma is caused by a mutation in a gene that controls how cells divide. As a result, cells grow out of control and become cancerous. In about half the cases, this mutation develops in a child whose family has never had eye cancer. In other cases, the mutation occurs in several family members. If the mutation runs in the family, there is a 50% chance that an affected person's children will also have the mutation. These children will therefore have a high risk of developing retinoblastoma themselves. The cancer most often affects children younger than 7 years old. It is most commonly diagnosed in children 1 to 2 years old.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003394-3" qtype="symptoms">What are the symptoms of Retinoblastoma ?</Question>
-			<Answer></Answer>
+			<Answer>One or both eyes may be affected. The pupil of the eye may appear white or have white spots. A white glow in the eye is often seen in photographs taken with a flash. Instead of the typical "red eye" from the flash, the pupil may appear white or distorted. Other symptoms can include: Crossed eyes , Double vision, Eyes that do not align, Eye pain and redness,  Poor vision , Differing  iris  colors in each eye ,  If the cancer has spread, bone pain and other symptoms may occur.</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003394-4" qtype="exams and tests">How to diagnose Retinoblastoma ?</Question>
-			<Answer></Answer>
+			<Answer>The health care provider will perform a complete physical exam, including an eye exam. The following tests may be done: CT scan  or  MRI of the head , Eye exam with dilation of the pupil,  Ultrasound  of the eye ( head and eye echoencephalogram ) , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003394-5" qtype="treatment">What are the treatments for Retinoblastoma ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment options depend on the size and location of the tumor: Small tumors may be treated by  laser surgery  or cryotherapy (freezing)., Radiation is used for both a tumor that is within the eye and for larger tumors.,  Chemotherapy  may be needed if the tumor has spread beyond the eye., The eye may need to be removed (a procedure called enucleation) if the tumor does not respond to other treatments. In some cases, it may be the first treatment., </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003394-6" qtype="outlook">What is the outlook for Retinoblastoma ?</Question>
-			<Answer></Answer>
+			<Answer>If the cancer has not spread beyond the eye, almost all people can be cured. A cure, however, may require aggressive treatment and even removal of the eye in order to be successful. If the cancer has spread beyond the eye, the likelihood of a cure is lower and depends on how the tumor has spread.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003394-7" qtype="complications">What are the complications of Retinoblastoma ?</Question>
-			<Answer></Answer>
+			<Answer>Blindness can occur in the affected eye. The tumor can spread to the eye socket through the optic nerve. It may also spread to the brain, lungs, and bones.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003394-8" qtype="when to contact a medical professional">Do I need to see a doctor for Retinoblastoma ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your provider if signs or symptoms of retinoblastoma are present, especially if your child's eyes look abnormal or appear abnormal in photographs.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003394-9" qtype="prevention">How to prevent Retinoblastoma ?</Question>
-			<Answer></Answer>
+			<Answer>Genetic counseling can help families understand the risk for retinoblastoma. It is especially important when more than one family member has had the disease, or if retinoblastoma occurs in both eyes.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

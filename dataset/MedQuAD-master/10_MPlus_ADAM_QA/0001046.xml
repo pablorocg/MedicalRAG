@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001046" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007506.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Cryotherapy - skin</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -13,7 +12,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001046-1" qtype="information">Do you have information about Cryotherapy - skin</Question>
-			<Answer></Answer>
+			<Answer>Cryotherapy is a method of superfreezing tissue in order to destroy it. This article discusses cryotherapy of the skin.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

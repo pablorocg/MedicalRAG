@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0004220" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001423.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Vertebrobasilar circulatory disorders</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -21,35 +20,35 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0004220-1" qtype="information">What is (are) Vertebrobasilar circulatory disorders ?</Question>
-			<Answer></Answer>
+			<Answer>Vertebrobasilar circulatory disorders are conditions in which the blood supply to the back of the brain is disrupted.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0004220-2" qtype="causes">What causes Vertebrobasilar circulatory disorders ?</Question>
-			<Answer></Answer>
+			<Answer>In the neck, two vertebral arteries join to form the basilar artery, which enters the skull. These are the main blood vessels that provide blood flow to the back of the brain.  The areas in the back of the brain that receive blood from these arteries are needed to keep a person alive. These areas control breathing, heart rate, swallowing, vision, movement, and posture or balance. All of the nervous system signals that connect the brain to the rest of the body pass through the back of the brain. Many different conditions may reduce or stop blood flow in the back part of the brain. The most common risk factors are smoking, high blood pressure, diabetes, and a high cholesterol level. These are similar to the  risk factors for any stroke . Other causes include: Tear in the wall of an artery, Blood clots in the heart that travel to the vertebral or basilar arteries and cause a stroke, Blood vessel inflammation, Connective tissue diseases, Problems in the spinal bones of the neck, Outside pressure on the vertebral or basilar arteries, such as from a salon sink (nicknamed beauty parlor syndrome), </Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0004220-3" qtype="symptoms">What are the symptoms of Vertebrobasilar circulatory disorders ?</Question>
-			<Answer></Answer>
+			<Answer>Common symptoms may include: Difficulty pronouncing words, slurred speech, Difficulty swallowing, Double vision or vision loss, Numbness or tingling, most often on the face or scalp, Sudden falls (drop attacks), Vertigo (sensation of things spinning around), Memory loss ,  Other symptoms may include:  Bladder or bowel control problems, Difficulty walking (unsteady gait), Headache, neck ache, Hearing loss, Muscle weakness, Nausea and vomiting, Pain in one or more parts of the body, which gets worse with touch and cold temperatures,  Poor coordination , Sleepiness or sleep from which the person cannot be awakened, Sudden, uncoordinated movements, Sweating on the face, arms, or legs , </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0004220-4" qtype="exams and tests">How to diagnose Vertebrobasilar circulatory disorders ?</Question>
-			<Answer></Answer>
+			<Answer>You may have the following tests, depending on the cause: CT or  MRI  of the brain, Computed tomography angiography (CTA), magnetic resonance angiography (MRA), or  ultrasound  to look at blood vessels in the brain, Blood tests, including blood clotting studies,  Echocardiogram ,  Electrocardiogram  (ECG) and  Holter monitor  (24-hour ECG), X-rays of the arteries ( angiogram ) , </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0004220-5" qtype="treatment">What are the treatments for Vertebrobasilar circulatory disorders ?</Question>
-			<Answer></Answer>
+			<Answer>Vertebral or basilar symptoms that start suddenly are a medical emergency that need to be treated right away. Treatment is similar to that for  stroke . To  treat and prevent  the condition, your health care provider may recommend: Taking blood-thinning drugs, such as aspirin, warfarin (Coumadin), or clopidogrel (Plavix) to lower the risk for stroke, Changing your diet, Medicine to lower cholesterol and better control blood pressure, Exercising, Losing weight, Stopping smoking ,  Invasive procedures or surgery to treat narrowed arteries in this part of the brain are not well studied or proven.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0004220-6" qtype="outlook">What is the outlook for Vertebrobasilar circulatory disorders ?</Question>
-			<Answer></Answer>
+			<Answer>The outlook depends on: The amount of brain damage, What body functions have been affected, How quickly you get treatment, How quickly you recover ,  Each person has a different recovery time and need for long-term care. Problems with moving, thinking, and talking often improve in the first weeks or months. Some people will keep improving for months or years.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0004220-7" qtype="complications">What are the complications of Vertebrobasilar circulatory disorders ?</Question>
-			<Answer></Answer>
+			<Answer>Complications of vertebrobasilar circulatory disorders are stroke and its complications. These include: Breathing (respiratory) failure (which may require the use of a machine to help the person breathe), Lung problems (especially lung infections), Heart attack, Lack of fluids in the body (dehydration) and swallowing problems (sometimes requiring tube feeding), Problems with movement or sensation, including paralysis and numbness, Formation of clots in the legs, Vision loss ,  Complications caused by medicines or surgery may also occur.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0004220-8" qtype="when to contact a medical professional">Do I need to see a doctor for Vertebrobasilar circulatory disorders ?</Question>
-			<Answer></Answer>
+			<Answer>Call 911 or the local emergency number, or get to the emergency room if you have any symptoms of a vertebral or basilar circulatory disorder.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002223" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007266.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Intravascular ultrasound</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002223-1" qtype="information">Do you have information about Intravascular ultrasound</Question>
-			<Answer></Answer>
+			<Answer>Intravascular ultrasound (IVUS) is a diagnostic test. This test uses sound waves to see inside blood vessels. It is useful for evaluating the coronary arteries that supply the heart. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

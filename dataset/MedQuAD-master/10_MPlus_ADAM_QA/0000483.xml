@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000483" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001016.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Blocked tear duct</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -24,39 +23,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000483-1" qtype="information">What is (are) Blocked tear duct ?</Question>
-			<Answer></Answer>
+			<Answer>A blocked tear duct is a partial or complete blockage in the pathway that carries tears from the surface of the eye into the nose.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0000483-2" qtype="causes">What causes Blocked tear duct ?</Question>
-			<Answer></Answer>
+			<Answer>Tears are constantly being made to help protect the surface of your eye. They drain into a very small opening (punctum) in the corner of your eye, near your nose. This opening is the entrance to the nasolacrimal duct. If this duct is blocked, the tears will build up and overflow onto the cheek. This occurs even when you are not crying. In children, the duct may not be completely developed at birth. It may be closed or covered by a thin film, which causes a partial blockage.  In adults, the duct can be damaged by an infection, injury, or a tumor.</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0000483-3" qtype="symptoms">What are the symptoms of Blocked tear duct ?</Question>
-			<Answer></Answer>
+			<Answer>The main symptom is  increased tearing  (epiphora), which causes tears to overflow onto the face or cheek. In babies, this tearing becomes noticeable during the first 2&#160;to 3 weeks after birth. Sometimes, the tears may appear to be thicker. The tears may dry and become crusty. If there is pus in the eyes or the eyelids get stuck together, your baby may have an eye infection called  conjunctivitis .</Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0000483-4" qtype="exams and tests">How to diagnose Blocked tear duct ?</Question>
-			<Answer></Answer>
+			<Answer>Most of the time, the health care provider will not need to do any tests. Tests that may be done include: Eye exam ,  Special eye stain ( fluorescein ) to see how tears drain , X-ray studies to examine the tear duct (rarely done), </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0000483-5" qtype="treatment">What are the treatments for Blocked tear duct ?</Question>
-			<Answer></Answer>
+			<Answer>Carefully clean the eyelids using a warm, wet washcloth if tears build up and leave crusts. For infants, you may try gently massaging the area 2&#160;to 3 times a day. Using a clean finger, rub the area from the inside corner of the eye toward the nose. This may help to open the tear duct. Most of the time, the tear duct will open on its own by the time the infant is 1 year old. If this does not happen, probing may be necessary. This procedure is most often done using general anesthesia, so the child will be asleep and pain-free. It is almost always successful. In adults, the cause of the blockage must be treated. This may re-open the duct if there is not too much damage. Surgery using tiny tubes or stents to open the passageway may be needed to restore normal tear drainage. </Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0000483-6" qtype="outlook">What is the outlook for Blocked tear duct ?</Question>
-			<Answer></Answer>
+			<Answer>For infants, a blocked tear duct will most often go away on its own before the child is 1 year old. If not, the outcome is still likely to be good with probing. In adults, the outlook for a blocked tear duct varies, depending on the cause and how long the blockage has been present.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0000483-7" qtype="complications">What are the complications of Blocked tear duct ?</Question>
-			<Answer></Answer>
+			<Answer>Tear duct blockage may lead to an infection (dacryocystitis) in part of the nasolacrimal duct called the lacrimal sac. Most often, there is a bump on the side of the nose right next to the corner of the eye. Treatment for this often requires oral antibiotics. Sometimes, the sac needs to be surgically drained. Tear duct blockage can also increase the chance of other infections, such as conjunctivitis.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0000483-8" qtype="when to contact a medical professional">Do I need to see a doctor for Blocked tear duct ?</Question>
-			<Answer></Answer>
+			<Answer>See your provider if you have tear overflow onto the cheek. Earlier treatment is more successful. In the case of a tumor, early treatment may be life-saving.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0000483-9" qtype="prevention">How to prevent Blocked tear duct ?</Question>
-			<Answer></Answer>
+			<Answer>Many cases cannot be prevented. Proper treatment of nasal infections and conjunctivitis may reduce the risk of having a blocked tear duct. Using protective eyewear may help prevent a blockage caused by injury. </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

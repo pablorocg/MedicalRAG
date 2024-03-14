@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000935" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000597.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Compression stockings</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000935-1" qtype="information">Do you have information about Compression stockings</Question>
-			<Answer></Answer>
+			<Answer>You wear compression stockings to improve blood flow in the veins of your legs. Compression stockings gently squeeze your legs to move blood up your legs. This helps prevent leg swelling and, to a lesser extent, blood clots. If you have  varicose veins , spider veins, or have just had surgery, your health care provider may prescribe compression stockings. Wearing stockings helps with: Aching and heavy feeling in legs, Swelling in legs, Preventing blood clots, primarily after surgery or injury when you are less active, Preventing complications of  blood clots  in the legs, such as post-phlebitic syndrome (pain and swelling in the leg), </Answer>
 	</QAPair>
 </QAPairs>
 </Document>

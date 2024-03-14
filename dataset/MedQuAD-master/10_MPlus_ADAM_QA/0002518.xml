@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002518" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003380.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Mammography</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -12,7 +11,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002518-1" qtype="information">Do you have information about Mammography</Question>
-			<Answer></Answer>
+			<Answer>A mammogram is an  x-ray  picture of the breasts. It is used to evaluate some breast symptoms and to find breast cancer in women with no symptoms.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0001064" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003730.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Culture - duodenal tissue</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0001064-1" qtype="information">Do you have information about Culture - duodenal tissue</Question>
-			<Answer></Answer>
+			<Answer>A duodenal tissue culture is a laboratory exam to check a piece of tissue from the first part of the small intestine (duodenum). The test is to look for organisms that cause infection.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

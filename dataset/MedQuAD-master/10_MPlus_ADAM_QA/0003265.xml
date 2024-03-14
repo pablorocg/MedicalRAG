@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003265" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000381.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Proton pump inhibitors</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -11,7 +10,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003265-1" qtype="information">Do you have information about Proton pump inhibitors</Question>
-			<Answer></Answer>
+			<Answer>Proton pump inhibitors (PPIs) are medicines that work by reducing the amount of stomach acid made by glands in the lining of your stomach.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000006" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003122.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Abdomen - swollen</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000006-1" qtype="information">Do you have information about Abdomen - swollen</Question>
-			<Answer></Answer>
+			<Answer>A swollen abdomen is when your belly area is bigger than usual.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

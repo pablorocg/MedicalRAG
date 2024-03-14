@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003314" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000611.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Q fever - early</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -17,39 +16,39 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003314-1" qtype="information">What is (are) Q fever - early ?</Question>
-			<Answer></Answer>
+			<Answer>Q fever is an infectious disease caused by bacteria that are spread by domestic and wild animals and ticks.</Answer>
 	</QAPair>
 	<QAPair pid="2">
 			<Question qid="0003314-2" qtype="causes">What causes Q fever - early ?</Question>
-			<Answer></Answer>
+			<Answer>Q fever is caused by the bacteria  Coxiella burnetii , which live in domestic animals such as cattle, sheep, goats, birds, and cats. Some wild animals and  ticks  also carry these bacteria. You can get Q fever by drinking raw (unpasteurized) milk, or after breathing in dust or droplets in the air that are contaminated with infected animal feces, blood, or birth products. People at risk for infection include slaughterhouse workers, veterinarians, researchers, food processors, and sheep and cattle workers. Men are infected more often than women. Most people who get Q fever are between 30 and 70 years old. In rare cases, the disease affects children, especially those who live on a farm. In infected children younger than 3 years old, Q fever is usually noticed while looking for the cause of  pneumonia .</Answer>
 	</QAPair>
 	<QAPair pid="3">
 			<Question qid="0003314-3" qtype="symptoms">What are the symptoms of Q fever - early ?</Question>
-			<Answer></Answer>
+			<Answer>Symptoms usually develop 2 to 3 weeks after coming in contact with the bacteria. This time is called the incubation period. Most people have no symptoms. Others may have moderate symptoms similar to the flu. If symptoms occur, they may last for several weeks. Common symptoms may include: Dry cough (nonproductive), Fever, Headache, Joint pain (arthralgia), Muscle pains,  Other symptoms that may develop include: Abdominal pain, Chest pain, Jaundice (yellowing of the skin and whites of the eyes), Rash, </Answer>
 	</QAPair>
 	<QAPair pid="4">
 			<Question qid="0003314-4" qtype="exams and tests">How to diagnose Q fever - early ?</Question>
-			<Answer></Answer>
+			<Answer>A physical examination may reveal abnormal sounds (crackles) in the lungs or an  enlarged liver  or spleen. In the late stages of the disease, a heart murmur may be heard. Tests that may be done include: A  chest x-ray  to detect pneumonia or other changes, Blood tests to check for antibodies to  Coxiella burnetti ,  Liver function test ,  Complete blood count (CBC)  with differential, Tissue staining of infected tissues to identify the bacteria,  Electrocardiogram &#160;(ECG) or  echocardiogram  (echo) to look at the heart for changes, </Answer>
 	</QAPair>
 	<QAPair pid="5">
 			<Question qid="0003314-5" qtype="treatment">What are the treatments for Q fever - early ?</Question>
-			<Answer></Answer>
+			<Answer>Treatment with antibiotics can shorten the length of the illness. Antibiotics that are commonly used include tetracycline and doxycycline. Pregnant women or children who still have any baby teeth should avoid tetracycline by mouth because it can permanently discolor growing teeth.</Answer>
 	</QAPair>
 	<QAPair pid="6">
 			<Question qid="0003314-6" qtype="outlook">What is the outlook for Q fever - early ?</Question>
-			<Answer></Answer>
+			<Answer>Most people get better with treatment. However, complications can be very serious and sometimes even life threatening. Q fever should always be treated if it causes symptoms.</Answer>
 	</QAPair>
 	<QAPair pid="7">
 			<Question qid="0003314-7" qtype="complications">What are the complications of Q fever - early ?</Question>
-			<Answer></Answer>
+			<Answer>In rare cases, Q fever causes a heart infection (endocarditis) that can lead to severe symptoms or even death if untreated. Other complications can include: Bone infection ( osteomyelitis ), Brain infection ( encephalitis ), Liver infection (chronic hepatitis), Lung infection ( pneumonia ) , </Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0003314-8" qtype="when to contact a medical professional">Do I need to see a doctor for Q fever - early ?</Question>
-			<Answer></Answer>
+			<Answer>Contact your health care provider if you develop symptoms of Q fever. Also contact your provider if you have been treated for Q fever and symptoms return or new symptoms develop.</Answer>
 	</QAPair>
 	<QAPair pid="9">
 			<Question qid="0003314-9" qtype="prevention">How to prevent Q fever - early ?</Question>
-			<Answer></Answer>
+			<Answer>Pasteurization of milk destroys the bacteria that cause early Q fever. Domestic animals should be inspected for signs of Q fever if people exposed to them have developed symptoms of the disease.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

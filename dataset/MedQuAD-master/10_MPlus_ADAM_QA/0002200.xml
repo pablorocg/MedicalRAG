@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0002200" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003701.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Insulin C-peptide test</Focus>
 <FocusAnnotations>
 	<Category>Disease</Category>
@@ -20,11 +19,11 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0002200-1" qtype="information">What is (are) Insulin C-peptide test ?</Question>
-			<Answer></Answer>
+			<Answer>C-peptide is a substance that is created when the hormone insulin is produced and released into the body. The insulin C-peptide test measures the amount of this product in the blood.</Answer>
 	</QAPair>
 	<QAPair pid="8">
 			<Question qid="0002200-8" qtype="susceptibility">Who is at risk for Insulin C-peptide test? ?</Question>
-			<Answer></Answer>
+			<Answer>No information found.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

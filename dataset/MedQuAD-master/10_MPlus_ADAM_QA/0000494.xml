@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0000494" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000431.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Blood transfusions</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -8,7 +7,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0000494-1" qtype="information">Do you have information about Blood transfusions</Question>
-			<Answer></Answer>
+			<Answer>There are many reasons you may need a blood transfusion: After knee or hip replacement surgery, or other major surgery that results in blood loss, After a serious injury that causes a lot of bleeding, When your body cannot make enough blood ,  A blood transfusion is a safe and common procedure during which you receive blood through an intravenous (IV) line placed in one of your veins. It takes 1 to 4 hours to receive the blood, depending on how much you need. There are several sources of blood, which are described below.</Answer>
 	</QAPair>
 </QAPairs>
 </Document>

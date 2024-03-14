@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Document id="0003115" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003771.htm">
- <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+ 
 <Focus>Plethysmography</Focus>
 <FocusAnnotations>
 	<Category>Other</Category>
@@ -14,7 +13,7 @@
 <QAPairs>
 	<QAPair pid="1">
 			<Question qid="0003115-1" qtype="information">Do you have information about Plethysmography</Question>
-			<Answer></Answer>
+			<Answer>Plethysmography measures changes in volume in different parts of the body. The test may be done to check for  blood clots in the arms and legs . It is also done to measure how  much air you can hold in your lungs . Penile pulse volume recording is a type of this test. It is done on the penis to check for causes of  erectile dysfunction . Most commonly, this test is performed to check blood flow in the arteries of the legs. This is done in people with conditions like hardening of the arteries (atherosclerosis).  Atherosclerosis  causes pain during exercise or poor healing of leg wounds. Related tests include: Vascular ultrasound , Ankle brachial indices , </Answer>
 	</QAPair>
 </QAPairs>
 </Document>
