@@ -1,0 +1,78 @@
+<Document id="0001740" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000484.htm">
+ 
+<Focus>Glomerulonephritis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017658</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Glomerulonephritis - chronic</Synonym>
+		<Synonym>Chronic nephritis</Synonym>
+		<Synonym>Glomerular disease</Synonym>
+		<Synonym>Necrotizing glomerulonephritis</Synonym>
+		<Synonym>Glomerulonephritis - crescentic</Synonym>
+		<Synonym>Crescentic glomerulonephritis</Synonym>
+		<Synonym>Rapidly progressive glomerulonephritis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001740-1" qtype="information">What is (are) Glomerulonephritis ?</Question>
+			<Answer>Glomerulonephritis is a type of kidney disease in which the part of your kidneys that helps filter waste and fluids from the blood is damaged.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001740-2" qtype="causes">What causes Glomerulonephritis ?</Question>
+			<Answer>The filtering unit of the kidney is called the glomerulus. Each kidney has many thousands of glomeruli. The glomeruli help the body get rid of harmful substances. Glomerulonephritis may be caused by problems with the body's immune system. Often, the exact cause of this condition is unknown. Damage to the glomeruli causes blood and protein to be lost in the urine. The condition may develop quickly, and kidney function is lost within weeks or months. This is called rapidly progressive glomerulonephritis. Some people with chronic glomerulonephritis have no history of kidney disease. The following may increase your risk for this condition: Blood or lymphatic system disorders, Exposure to hydrocarbon solvents, History of  cancer , Infections such as  strep infections , viruses, heart infections, or  abscesses ,  Many conditions cause or increase the risk for glomerulonephritis, including: Amyloidosis (disorder in which a protein called amyloid builds up in the organs and tissues), 
+   Disorder that affects the glomerular basement membrane, the part of the kidney that helps filter waste and extra fluid from the blood
+   , Blood vessel diseases, such as vasculitis or  polyarteritis ,  Focal segmental glomerulosclerosis  (scarring of the glomeruli)
+   ,  Anti-glomerular basement membrane disease  (disorder in which the immune system attacks the glomeruli)
+   ,  Analgesic nephropathy syndrome  (kidney disease due to heavy use of pain relievers, especially NSAIDs),  Henoch-Sch&#246;nlein purpura  (disease that involves purple spots on the skin, joint pain, gastrointestinal problems and glomerulonephritis)
+   ,  IgA nephropathy  (disorder in which antibodies called IgA build up in kidney tissue)
+   ,  Lupus nephritis  (kidney complication of systemic lupus erythematosus)
+   ,  Membranoproliferative GN  (form of glomerulonephritis due to abnormal buildup of antibodies in the kidneys)
+   , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001740-3" qtype="symptoms">What are the symptoms of Glomerulonephritis ?</Question>
+			<Answer>Common symptoms of glomerulonephritis are: 
+  Blood in the urine (dark, rust-colored, or brown urine), Foamy urine (due to excess protein in the urine), Swelling (edema) of the face, eyes, ankles, feet, legs, or abdomen,  Symptoms may also include the following: Abdominal pain , 
+  Blood in the vomit or stools,  Cough  and shortness of breath,  Diarrhea , 
+  Excessive urination
+  ,  Fever , 
+  General ill feeling,  fatigue , and loss of appetite,  Joint  or  muscle aches ,  Nosebleed ,  The symptoms of chronic kidney disease may develop over time. Chronic kidney failure  symptoms may gradually develop.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001740-4" qtype="exams and tests">How to diagnose Glomerulonephritis ?</Question>
+			<Answer>Because symptoms may develop slowly, the disorder may be discovered when you have an abnormal  urinalysis  during a routine physical or examination for another condition. Signs of glomerulonephritis can include: Anemia ,  High blood pressure , Signs of reduced kidney function,  A  kidney biopsy  confirms the diagnosis. Later, signs of chronic kidney disease may be seen, including: Nerve inflammation (polyneuropathy), Signs of fluid overload, including abnormal heart and lung sounds, Swelling ( edema ),  Imaging tests that may be done include: Abdominal CT scan , Kidney ultrasound,  Chest x-ray , Intravenous pyelogram ( IVP ),  Urinalysis and other urine tests include: Creatinine clearance , Examination of the urine under a microscope,  Uric acid in the urine ,  Urine concentration test ,  Urine creatinine ,  Urine protein ,  Urine RBC ,  Urine specific gravity ,  Urine osmolality ,  This disease may also cause abnormal results on the following blood tests: Albumin ,  Antiglomerular basement membrane  antibody test, Antineutrophil cytoplasmic antibodies (ANCAs), Antinuclear antibodies,  BUN  and  creatinine ,  Complement  levels, Uric acid, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001740-5" qtype="treatment">What are the treatments for Glomerulonephritis ?</Question>
+			<Answer>Treatment depends on the cause of the disorder, and the type and severity of symptoms. Controlling high blood pressure is usually an important part of treatment. Medicines that may be prescribed include: Blood pressure drugs, most often angiotensin-converting enzyme inhibitors (ACE inhibitors) and angiotensin receptor blockers (ARBs), Corticosteroids, Drugs that suppress the immune system,  A procedure called plasmapheresis may sometimes be used for glomerulonephritis caused by immune system problems. The fluid part of the blood that contains  antibodies  is removed and replaced with intravenous fluids or donated plasma (that does not contain antibodies). Removing antibodies may reduce inflammation in the kidney tissues. You may need to limit your intake of sodium, fluids, protein, and other substances. People with this condition should be closely watched for signs of kidney failure.  Dialysis  or a  kidney transplant  may eventually be needed.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001740-6" qtype="support groups">Where to find support for people with Glomerulonephritis ?</Question>
+			<Answer>More information and support for people with glomerulonephritis and their families can be found at kidney disease  support group .&#160;</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001740-7" qtype="outlook">What is the outlook for Glomerulonephritis ?</Question>
+			<Answer>Glomerulonephritis may be temporary and reversible, or it may get worse. Progressive glomerulonephritis may lead to:  
+ Chronic kidney failure 
+  ,  Reduced kidney function ,  End-stage kidney disease ,  If you have nephrotic syndrome and it can be controlled, you may also be able to control other symptoms. If it cannot be controlled, you may develop end-stage kidney disease.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001740-8" qtype="when to contact a medical professional">Do I need to see a doctor for Glomerulonephritis ?</Question>
+			<Answer>Contact your health care provider if: You have a condition that increases your risk for glomerulonephritis, You develop symptoms of glomerulonephritis, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001740-9" qtype="prevention">How to prevent Glomerulonephritis ?</Question>
+			<Answer>Most cases of glomerulonephritis can't be prevented. Some cases may be prevented by avoiding or limiting exposure to organic solvents, mercury, and nonsteroidal anti-inflammatory drugs (NSAIDs).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,13 @@
+<Document id="0002003" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000755.htm">
+ 
+<Focus>Home apnea monitor use - infants</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002003-1" qtype="information">Do you have information about Home apnea monitor use - infants</Question>
+			<Answer>A home apnea monitor is a machine used to monitor a baby's heart rate and breathing after coming home from the hospital. Apnea is breathing that slows down or stops from any cause. An alarm on the monitor goes off when your baby's heart rate or breathing slows or stops. The monitor is small and portable.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

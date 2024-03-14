@@ -1,0 +1,25 @@
+<Document id="0004246" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002145.htm">
+ 
+<Focus>Vitamin C and colds</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0009443</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Colds and vitamin C</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004246-1" qtype="information">What is (are) Vitamin C and colds ?</Question>
+			<Answer>Popular belief is that  vitamin C  can cure the  common cold . However, research about this claim is conflicting. Although not fully proven, large doses of vitamin C may help reduce how long a cold lasts. They do not protect against getting a cold. Vitamin C may also be helpful for those exposed to brief periods of severe or extreme physical activity. The likelihood of success may vary from person to person. Some people improve, while others do not. Taking 1000 to 2000 mg per day can be safely tried by most people. Taking too much can cause stomach upset. People with kidney disease should NOT take vitamin C supplements. Large doses of vitamin C supplementation are not recommended during pregnancy. A balanced diet almost always provides the required vitamins and minerals for the day.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

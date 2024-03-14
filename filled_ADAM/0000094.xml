@@ -1,0 +1,17 @@
+<Document id="0000094" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007437.htm">
+ 
+<Focus>Adrenalectomy</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Adrenal gland removal</Synonym>
+		<Synonym>Removal of adrenal glands</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000094-1" qtype="information">Do you have information about Adrenalectomy</Question>
+			<Answer>Adrenal gland removal is an operation in which one or both  adrenal glands  are removed. The adrenal glands are part of the endocrine system and are located just above the kidneys.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

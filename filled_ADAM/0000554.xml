@@ -1,0 +1,48 @@
+<Document id="0000554" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003155.htm">
+ 
+<Focus>Breast lump</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024103</CUI>
+			<CUI>C0424849</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Breast mass</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000554-1" qtype="information">What is (are) Breast lump ?</Question>
+			<Answer>A breast lump is swelling, growth, or mass in the breast.  Breast lumps in both men and women raise concern for  breast cancer , even though most lumps are not cancer.
+</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000554-2" qtype="considerations">What to do for Breast lump ?</Question>
+			<Answer>Both males and females of all ages have normal breast tissue. This tissue responds to hormone changes. Because of this, lumps can come and go. Breast lumps may appear at any age: Both male and female infants may have breast lumps from their mother's estrogen when they are born. The lump will most often go away on its own as the estrogen clears from the baby's body., Young girls often develop "breast buds," which appear just before the beginning of puberty. These bumps may be tender. They are common around age 9, but may happen as early as age 6., Teenage boys may develop breast enlargement and lumps because of hormone changes in mid-puberty. Although this may be upsetting to boys, the lumps or growth almost always go away on their own over a period of months. , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000554-3" qtype="causes">What causes Breast lump ?</Question>
+			<Answer>Lumps in a woman are most often either fibroadenomas or cysts, or just normal variations in breast tissue known as fibrocystic changes. Fibrocystic changes  are painful, lumpy breasts. This is a benign condition that does not increase your risk for breast cancer. Symptoms are most often worse right before your menstrual period, and then improve after your period starts.  Fibroadenomas  are noncancerous lumps that feel rubbery. They move easily inside the breast tissue and are usually not tender. They occur most often during the reproductive years., These lumps do not have cancer or become cancerous except in rare cases., A health care provider may sometimes suspect a lump is a fibroadenoma based on an exam. Also, an ultrasound and a mammogram can often provide information to determine if a lump looks like a fibroadenoma., The only way to be sure, however, is to have a needle biopsy or remove the whole lump. ,  Cysts  are fluid-filled sacs that often feel like soft grapes. These can sometimes be tender, often just before your menstrual period. Ultrasound can determine if a lump is a cyst. It can also reveal whether it is a simple, complicated, or complex cyst. Simple cysts are just sacs filled with fluid. They do not need to be removed and may go away on their own. If a simple cyst is growing or causing pain, it can be aspirated., A complicated cyst has a little bit of debris in the fluid and can either be watched with ultrasound or the fluid can be drained., A complex cyst looks more worrisome on ultrasound. Your provider may recommend either a follow up ultrasound or a needle biopsy. Depending on the results, the cyst may be monitored with ultrasound exams or removed surgically.,  Other causes of breast lumps include: Breast cancer., Injury. Blood may collect and feel like a lump called a hematoma if your breast gets badly bruised. These lumps tend to get better on their own in a few days or weeks. If they do not improve, your provider may have to drain the blood., Lipoma. This is a collection of fatty tissue., Milk cysts (sacs filled with milk). These cysts can occur with breastfeeding., Breast  abscess . These typically occur if you are breastfeeding or have recently given birth, but can also occur in women who are not breastfeeding. , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000554-4" qtype="considerations">What to do for Breast lump ?</Question>
+			<Answer>Both males and females of all ages have normal breast tissue. This tissue responds to hormone changes. Because of this, lumps can come and go. Breast lumps may appear at any age: Both male and female infants may have breast lumps from their mother's estrogen when they are born. The lump will most often go away on its own as the estrogen clears from the baby's body., Young girls often develop "breast buds," which appear just before the beginning of puberty. These bumps may be tender. They are common around age 9, but may happen as early as age 6., Teenage boys may develop breast enlargement and lumps because of hormone changes in mid-puberty. Although this may be upsetting to boys, the lumps or growth almost always go away on their own over a period of months. , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000554-5" qtype="when to contact a medical professional">Do I need to see a doctor for Breast lump ?</Question>
+			<Answer>Call your provider if: The skin on your breast appears dimpled or wrinkled (like the peel of an orange)., You find a new breast lump during self-exam., You have bruising on your breast but did not experience any injury., You have nipple discharge, especially if it is bloody, clear like water, or pinkish (blood-tinged)., Your nipple is inverted (turned inward) but normally is not inverted. ,  Also call if: You are a woman, age 20 or older, and want guidance on how to perform a breast self-exam., You are a woman over age 40 and have not had a mammogram in the past year. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000554-6" qtype="outlook">What is the outlook for Breast lump ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

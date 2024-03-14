@@ -1,0 +1,17 @@
+<Document id="0000297" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003502.htm">
+ 
+<Focus>Apolipoprotein B100</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>ApoB100</Synonym>
+		<Synonym>Apoprotein B100</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000297-1" qtype="information">Do you have information about Apolipoprotein B100</Question>
+			<Answer>Apolipoprotein B100 (apoB100) is a protein that plays a role in moving cholesterol around your body. It is a form of low density lipoprotein (LDL). Mutations (changes) in the gene that directs the body's production of apoB100 can cause a condition called  familial hypercholesterolemia . This is a form of high blood cholesterol that is passed down in families (inherited). This article discusses the test used to measure the level of apoB100 in the blood.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

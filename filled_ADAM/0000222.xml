@@ -1,0 +1,58 @@
+<Document id="0000222" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007616.htm">
+ 
+<Focus>Angelman syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162635</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000222-1" qtype="information">What is (are) Angelman syndrome ?</Question>
+			<Answer>Angelman syndrome (AS) is a genetic condition that causes problems with the way a child's body and brain develop. The syndrome is present from birth (congenital). However, it often isn't diagnosed until about 6 to 12 months of age. This is when development problems are first noticed in most cases.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000222-2" qtype="causes">What causes Angelman syndrome ?</Question>
+			<Answer>This condition involves the gene  UBE3A .  Most genes come in pairs. Children receive one from each parent. In most cases, both genes are active. This means information from both genes is used by the cells. With the  UBE3A  gene, both parents pass it on, but only the gene passed on from the mother is active.  Angelman syndrome most often occurs because the  UBE3A  gene passed on from the mother doesn't work the way it should. In some cases, AS is caused when two copies of the  UBE3A  gene come from the father, and none come from the mother. This means neither gene is active, because they both come from the father.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000222-3" qtype="symptoms">What are the symptoms of Angelman syndrome ?</Question>
+			<Answer>In newborns and infants: Loss of muscle tone (floppiness), Trouble feeding, Heartburn (acid reflux), Trembling arm and leg movements ,  In toddlers and older children: Unstable or jerky walking, Little or no speech, Happy, excitable personality, Laughing and smiling often, Light hair, skin, and eye color compared to rest of family, Small head size compared to body, flattened back of head,  Severe intellectual disability ,  Seizures , Excessive movement of the hands and limbs, Sleep problems, Tongue thrusting, drooling, Unusual chewing and mouthing movements,  Crossed eyes , Walking with arms uplifted and hands waving ,  Most children with this disorder don't show symptoms until about 6 to 12 months. This is when parents may notice a delay in their child's development, such as not crawling or starting to talk. Children between 2 and 5 years of age start to show symptoms such as jerky walking, happy personality, laughing often, no speech, and intellectual problems.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000222-4" qtype="exams and tests">How to diagnose Angelman syndrome ?</Question>
+			<Answer>Genetic tests may diagnose Angelman syndrome. These tests look for: Missing pieces of chromosomes, Specific DNA to see if copies of the gene from both parents are in an inactive or active state, A gene variant in the copy of the gene inherited from the mother,  Other tests may include: Brain MRI ,  EEG , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000222-5" qtype="treatment">What are the treatments for Angelman syndrome ?</Question>
+			<Answer>There is no cure for Angelman syndrome. Treatment helps to manage health and development problems caused by the condition. Anticonvulsant medicines help control seizures, Behavior therapy helps manage hyperactivity, sleep problems, and development problems, Occupational and speech therapy manage speech problems and teach living skills, Physical therapy helps with walking and movement problems , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000222-6" qtype="support groups">Where to find support for people with Angelman syndrome ?</Question>
+			<Answer>More information and support for people with Angelman syndrome and their families can be found at: Angelman Syndrome Foundation --  www.angelman.org , AngelmanUK --  www.angelmanuk.org , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000222-7" qtype="outlook">What is the outlook for Angelman syndrome ?</Question>
+			<Answer>People with AS live close to a normal lifespan. Many have friendships and interact socially. Treatment helps improve function. People with AS can't live on their own. However, they may be able to learn certain tasks and live with others in a supervised setting.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000222-8" qtype="complications">What are the complications of Angelman syndrome ?</Question>
+			<Answer>Complications may include: Severe seizures, Gastroesophageal reflux (heartburn), Scoliosis (curved spine), Accidental injury due to uncontrolled movements , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000222-9" qtype="when to contact a medical professional">Do I need to see a doctor for Angelman syndrome ?</Question>
+			<Answer>Contact your health care provider if your child has symptoms of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0000222-10" qtype="prevention">How to prevent Angelman syndrome ?</Question>
+			<Answer>There is no way to prevent Angelman syndrome. If you have a child with AS or a family history of the condition, you may want to talk with your provider before becoming pregnant.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

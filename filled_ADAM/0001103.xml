@@ -1,0 +1,21 @@
+<Document id="0001103" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000697.htm">
+ 
+<Focus>Day to day with COPD</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>COPD - day to day</Synonym>
+		<Synonym>Chronic obstructive airways disease - day to day</Synonym>
+		<Synonym>Chronic obstructive lung disease - day to day</Synonym>
+		<Synonym>Chronic bronchitis - day to day</Synonym>
+		<Synonym>Emphysema - day to day</Synonym>
+		<Synonym>Bronchitis - chronic - day to day</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001103-1" qtype="information">Do you have information about Day to day with COPD</Question>
+			<Answer>Your doctor gave you the news: you have  COPD  (chronic obstructive pulmonary disease). There is no cure, but there are things you can do every day to keep COPD from getting worse, to protect your lungs, and to stay healthy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

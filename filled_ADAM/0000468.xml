@@ -1,0 +1,59 @@
+<Document id="0000468" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001275.htm">
+ 
+<Focus>Bladder stones</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0005683</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Stones - bladder</Synonym>
+		<Synonym>Urinary tract stones</Synonym>
+		<Synonym>Bladder calculi</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000468-1" qtype="information">What is (are) Bladder stones ?</Question>
+			<Answer>Bladder stones are hard buildups of minerals. These form in the urinary bladder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000468-2" qtype="causes">What causes Bladder stones ?</Question>
+			<Answer>Bladder stones are most often caused by another urinary system problem, such as: 
+  Bladder diverticulum
+  ,  Blockage at the base of the bladder ,  Enlarged prostate  (BPH),  Neurogenic bladder ,  Urinary tract infection (UTI) , Incomplete emptying of the bladder, Foreign objects in the bladder,  Almost all bladder stones occur in men. Bladder stones are much less common than  kidney stones . Bladder stones may occur when urine in the bladder is concentrated. Materials in the urine form crystals. These may also result from foreign objects in the bladder.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000468-3" qtype="symptoms">What are the symptoms of Bladder stones ?</Question>
+			<Answer>Symptoms occur when the stone irritates the lining of the bladder. The stones may also block the flow of urine from the bladder.  Symptoms can include: Abdominal pain , pressure,  Abnormally colored  or dark-colored urine,  Blood in the urine ,  Difficulty urinating ,  Frequent urge to urinate , Inability to urinate except in certain positions, Interruption of the urine stream,  Pain, discomfort in the penis , Signs of UTI (such as fever, pain when urinating, and need to urinate often),  Loss of urine control may also occur with bladder stones.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000468-4" qtype="exams and tests">How to diagnose Bladder stones ?</Question>
+			<Answer>The health care provider will perform a physical exam. This will also include a rectal exam. The exam may reveal an enlarged prostate in men or other problems. The following tests may be done: 
+   Bladder or pelvis x-ray
+   ,  Cystoscopy ,  Urinalysis ,  Urine culture  (clean catch) , Abdominal ultrasound or CT scan, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000468-5" qtype="treatment">What are the treatments for Bladder stones ?</Question>
+			<Answer>You may be able to help small stones pass on their own. Drinking 6 to 8 glasses of water or more per day will increase urination. Your provider may remove stones that do not pass using a  cystoscope . A small telescope will be passed through the urethra into the bladder. A laser or other device will be used to break up the stones and the pieces will be removed. Some stones may need to be removed using open surgery. Drugs are rarely used to dissolve the stones. Causes of bladder stones should be treated. Most commonly, bladder stones are seen with  BPH  or blockage at the base of the bladder. You may need  surgery to remove the inside part of the prostate  or to repair the bladder.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000468-6" qtype="outlook">What is the outlook for Bladder stones ?</Question>
+			<Answer>Most bladder stones pass on their own or can be removed. They do not cause permanent damage to the bladder. They may come back if the cause is not corrected. Left untreated, stones may cause repeated UTIs. This can also cause permanent damage to the bladder or kidneys.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000468-7" qtype="when to contact a medical professional">Do I need to see a doctor for Bladder stones ?</Question>
+			<Answer>Contact your provider if you have symptoms of bladder stones.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000468-8" qtype="prevention">How to prevent Bladder stones ?</Question>
+			<Answer>Prompt treatment of a UTI or other urinary tract conditions may help prevent bladder stones.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

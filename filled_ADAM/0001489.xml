@@ -1,0 +1,34 @@
+<Document id="0001489" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001610.htm">
+ 
+<Focus>Exfoliative dermatitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011606</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Erythroderma</Synonym>
+		<Synonym>Dermatitis exfoliativa</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001489-1" qtype="information">What is (are) Exfoliative dermatitis ?</Question>
+			<Answer>Erythroderma is widespread redness of the skin. It is accompanied by  scaling , peeling, and flaking of the skin, and may include itching and hair loss.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001489-2" qtype="causes">What causes Exfoliative dermatitis ?</Question>
+			<Answer>Erythroderma may occur due to: Complication of other skin conditions, such as  eczema  and  psoriasis , Reaction to medicines or some chemicals, such as phenytoin and allopurinol, Some types of cancer, such as lymphoma,  Sometimes the cause is unknown. It is more common in males.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001489-3" qtype="treatment">What are the treatments for Exfoliative dermatitis ?</Question>
+			<Answer>Since erythroderma can quickly lead to serious complications, the provider will start treatment right away. This usually involves strong doses of cortisone medicines to reduce inflammation.  Other treatments may include: Medicines to treat the underlying cause of erythroderma, Antibiotics for any infection, Dressings applied to the skin, Ultraviolet light, Correction of fluid and electrolyte balance, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

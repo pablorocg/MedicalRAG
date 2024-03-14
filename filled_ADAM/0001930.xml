@@ -1,0 +1,13 @@
+<Document id="0001930" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002378.htm">
+ 
+<Focus>Hepatic</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001930-1" qtype="information">Do you have information about Hepatic</Question>
+			<Answer>The term "hepatic" refers to the liver. For example, the hepatic duct drains bile from the liver.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

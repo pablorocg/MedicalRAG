@@ -1,0 +1,33 @@
+<Document id="0003579" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000062.htm">
+ 
+<Focus>Signs of an asthma attack</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0311392</CUI>
+			<CUI>C0347950</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003579-1" qtype="information">What is (are) Signs of an asthma attack ?</Question>
+			<Answer>If you do not know whether or not you have  asthma , these 4 symptoms could be signs that you do: Coughing  during the day or coughing that may wake you up at night.,  Wheezing , or a whistling sound when you breathe. You may hear it more when you breathe out. It can start as a low-sounding whistle and get higher.,  Breathing problems  that include having shortness of breath, feeling like you are out of breath, gasping for air, having trouble breathing out, or breathing faster than normal. When breathing gets very difficult, the skin of your chest and neck may suck inward.,  Chest tightness .
+   , </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003579-2" qtype="symptoms">What are the symptoms of Signs of an asthma attack ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003579-3" qtype="symptoms">What are the symptoms of Signs of an asthma attack ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

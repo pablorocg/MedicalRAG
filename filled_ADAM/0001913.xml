@@ -1,0 +1,49 @@
+<Document id="0001913" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000571.htm">
+ 
+<Focus>Hemolytic anemia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002878</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Anemia - hemolytic</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001913-1" qtype="information">What is (are) Hemolytic anemia ?</Question>
+			<Answer>Anemia  is a condition in which the body does not have enough healthy red blood cells. Red blood cells provide oxygen to body tissues. Normally, red blood cells last for about 120 days in the body. In hemolytic anemia, red blood cells in the blood are destroyed earlier than normal.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001913-2" qtype="causes">What causes Hemolytic anemia ?</Question>
+			<Answer>The bone marrow is mostly responsible for making new red cells. Bone marrow is the soft tissue in the center of bones that helps form all blood cells. Hemolytic anemia occurs when the bone marrow isn't making enough red cells to replace the ones that are being destroyed. There are several possible causes of hemolytic anemia. Red blood cells may be destroyed due to: An  autoimmune problem  in which the immune system mistakenly sees your own red blood cells as foreign substances and destroys them, Genetic defects within the red cells (such as  sickle cell anemia ,  thalassemia , and  G6PD deficiency ), Exposure to certain chemicals, medicines, and toxins, Infections, Blood clots in small blood vessels, Transfusion of blood from a donor with a blood type that does not match yours , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001913-3" qtype="symptoms">What are the symptoms of Hemolytic anemia ?</Question>
+			<Answer>You may not have symptoms if the anemia is mild. If the problem develops slowly, the first symptoms may be: Feeling weak or tired more often than usual, or with exercise, Feelings that your heart is pounding or racing, Headaches, Problems concentrating or thinking,  If the anemia gets worse, symptoms may include: Lightheadedness when you stand up, Pale skin,  Shortness of breath , Sore tongue, Enlarged spleen, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001913-4" qtype="exams and tests">How to diagnose Hemolytic anemia ?</Question>
+			<Answer>A test called a  complete blood count  (CBC) can help diagnose anemia and offer some hints to the type and cause of the problem. Important parts of the CBC include  red blood cell count  (RBC), hemoglobin, and  hematocrit  (HCT). These tests can identify the type of hemolytic anemia: Absolute  reticulocyte count ,  Coombs test, direct  and indirect,  Donath-Landsteiner test ,  Cold agglutinins , Free  hemoglobin  in the serum or urine,  Platelet count ,  Protein electrophoresis - serum , Serum immunofixation,  Pyruvate kinase ,  Serum haptoglobin  levels,  Serum LDH ,  Carboxyhemoglobin level , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001913-5" qtype="treatment">What are the treatments for Hemolytic anemia ?</Question>
+			<Answer>Treatment depends on the type and cause of the hemolytic anemia: In emergencies, a blood transfusion may be needed., For immune causes, medicines that suppress the immune system may be used., When blood cells are being destroyed at a fast pace, the body may need extra folic acid and iron supplements to replace what is being lost.,  In rare cases, surgery is needed to take out the spleen. This is because the spleen acts as a filter that removes abnormal cells from the blood.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001913-6" qtype="outlook">What is the outlook for Hemolytic anemia ?</Question>
+			<Answer>Outcome depends on the type and cause of hemolytic anemia. Severe anemia can make heart disease, lung disease, or  cerebrovascular disease  worse.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001913-7" qtype="when to contact a medical professional">Do I need to see a doctor for Hemolytic anemia ?</Question>
+			<Answer>Contact your health care provider if you develop symptoms of hemolytic anemia.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

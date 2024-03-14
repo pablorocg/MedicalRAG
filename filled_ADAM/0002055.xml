@@ -1,0 +1,42 @@
+<Document id="0002055" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000599.htm">
+ 
+<Focus>Hydramnios</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020224</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Amniotic fluid disorder</Synonym>
+		<Synonym>Polyhydramnios</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002055-1" qtype="information">What is (are) Hydramnios ?</Question>
+			<Answer>Hydramnios is a condition that occurs when too much amniotic fluid builds up during pregnancy. It is also called amniotic fluid disorder, or polyhydramnios.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002055-2" qtype="causes">What causes Hydramnios ?</Question>
+			<Answer>Amniotic fluid is a liquid that surrounds and cushions the fetus (unborn baby) inside the uterus. It comes from the baby's kidneys, and it goes into the uterus from the baby's urine. The fluid is absorbed when the baby swallows it and through breathing motions. The amount of fluid increases until the 36th week of pregnancy. After that, it slowly decreases. If the fetus makes too much urine or does not swallow enough, amniotic fluid builds up. This causes hydramnios. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002055-3" qtype="susceptibility">Who is at risk for Hydramnios? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002055-5" qtype="treatment">What are the treatments for Hydramnios ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002055-7" qtype="prevention">How to prevent Hydramnios ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

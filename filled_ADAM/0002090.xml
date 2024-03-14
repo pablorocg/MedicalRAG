@@ -1,0 +1,54 @@
+<Document id="0002090" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000356.htm">
+ 
+<Focus>Hyperthyroidism</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020550</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Thyrotoxicosis</Synonym>
+		<Synonym>Overactive thyroid</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002090-1" qtype="information">What is (are) Hyperthyroidism ?</Question>
+			<Answer>Hyperthyroidism is a condition in which the thyroid gland makes too much thyroid hormone. The condition is often called overactive thyroid.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002090-2" qtype="causes">What causes Hyperthyroidism ?</Question>
+			<Answer>The thyroid gland is an important organ of the  endocrine  system. It is located at the front of the neck just above where your collarbones meet. The gland makes the hormones that control the way every cell in the body uses energy. This process is called  metabolism . Many diseases and conditions can cause hyperthyroidism, including: Graves disease  (most common cause of hyperthyroidism), Inflammation (thyroiditis) of the thyroid due to viral infections, some medicines, or after pregnancy (common), Taking too much thyroid hormone (common), Noncancerous growths of the thyroid gland or pituitary gland (rare), Some tumors of the  testes  or ovaries (rare), Getting medical imaging tests with contrast dye that has iodine (rare, and only if there is already a problem with the thyroid), Eating too much of foods that contain iodine (very rare, and only if there is already a problem with the thyroid) , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002090-3" qtype="symptoms">What are the symptoms of Hyperthyroidism ?</Question>
+			<Answer>Common symptoms include: Anxiety, Difficulty concentrating,  Fatigue , Frequent bowel movements,  Goiter  (visibly enlarged thyroid gland) or  thyroid nodules , Hair loss,  Hand tremor ,  Heat intolerance ,  Increased appetite ,  Increased sweating , Irregular menstrual periods in women, Nail changes (thickness or flaking), Nervousness, Pounding or racing heart beat ( palpitations ),  Restlessness , Sleep problems,  Weight loss  (or weight gain, in some cases) ,  Other symptoms that can occur with this condition: Breast development in men, Clammy skin, Diarrhea, Feeling faint when you raise your hands,  High blood pressure , Itchy or irritated eyes, Itchy skin, Nausea and vomiting,  Protruding eyes  (exophthalmos), Skin blushing or flushing, Skin rash on the shins,  Weakness  of the hips and shoulders , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002090-4" qtype="exams and tests">How to diagnose Hyperthyroidism ?</Question>
+			<Answer>The health care provider will do a physical exam. The exam may find the following: High systolic blood pressure (the first number in a blood pressure reading), Increased  heart rate , Enlarged thyroid gland, Shaking of the hands, Swelling or inflammation around the eyes, Very strong  reflexes , Skin, hair, and nail changes,  Blood tests are also ordered to measure your thyroid hormones  TSH , T3, and T4. You may also have blood tests to check: Cholesterol levels,  Glucose , Specialized thyroid tests like Thyroid receptor antibody (TRAb) or  Thyroid Stimulating Immunoglobulin (TSI) ,  Imaging tests of the thyroid may also be needed, including: Radioactive iodine uptake and scan ,  Thyroid ultrasound  (rarely), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002090-5" qtype="treatment">What are the treatments for Hyperthyroidism ?</Question>
+			<Answer>Treatment depends on the cause and severity of symptoms. Hyperthyroidism is usually treated with one or more of the following: Antithyroid medicines (propylthiouracil or methimazole) which reduce or block the effects of the extra thyroid hormone&#160;, Radioactive iodine to destroy the thyroid gland and stop the excess production of hormones, Surgery to remove the thyroid ,  If your thyroid is removed with surgery or destroyed with radioactive iodine, you must take thyroid hormone replacement pills for the rest of your life. Medicines called beta-blockers may be prescribed to treat symptoms such as fast heart rate, tremor, sweating, and anxiety until the hyperthyroidism can be controlled.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002090-6" qtype="outlook">What is the outlook for Hyperthyroidism ?</Question>
+			<Answer>Hyperthyroidism is treatable. Some causes may go away without treatment. Hyperthyroidism caused by Graves disease usually gets worse over time. It has many complications, some of which are severe and affect quality of life.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002090-7" qtype="complications">What are the complications of Hyperthyroidism ?</Question>
+			<Answer>Thyroid crisis (also called thyroid storm) is a sudden worsening of hyperthyroidism symptoms that may occur with infection or stress. Fever, decreased alertness, and abdominal pain may occur. People need to be treated in the hospital. Other complications of hyperthyroidism include: Heart problems such as fast heart rate, abnormal heart rhythm, and heart failure, Osteoporosis , Eye disease (double vision, ulcers of the cornea, vision loss),  Surgery-related complications, including:  Scarring of the neck, Hoarseness due to nerve damage to the voice box, Low calcium level due to damage to the parathyroid glands (located near the thyroid gland), Hypothyroidism (underactive thyroid),  Tobacco use may make some complications of hyperthyroidism worse.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002090-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hyperthyroidism ?</Question>
+			<Answer>Contact your provider if you have symptoms of hyperthyroidism. Go to an emergency room or call 911 or the local emergency number if you have: Change in consciousness, Dizziness, Rapid, irregular heartbeat ,  Contact your provider if you are being treated for hyperthyroidism and you develop symptoms of underactive thyroid, including: Depression, Mental and physical sluggishness, Weight gain , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

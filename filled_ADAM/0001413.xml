@@ -1,0 +1,54 @@
+<Document id="0001413" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000447.htm">
+ 
+<Focus>Eosinophilic fasciitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0264005</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001413-1" qtype="information">What is (are) Eosinophilic fasciitis ?</Question>
+			<Answer>Eosinophilic fasciitis (EF) is a syndrome in which tissue under the skin and over the muscle, called fascia, becomes swollen, inflamed and thick. The skin on the arms, legs, neck, abdomen or feet can swell quickly. The condition is very rare. EF may look similar to  scleroderma , but is not related. Unlike scleroderma, in EF, the fingers are not involved. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001413-2" qtype="causes">What causes Eosinophilic fasciitis ?</Question>
+			<Answer>The cause of EF is unknown. Rare cases have occurred after taking L-tryptophan supplements. In people with this condition, white blood cells, called eosinophils, build up in the muscles and tissues. Eosinophils are linked to allergic reactions. The syndrome is more common in people ages 30 to 60.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001413-3" qtype="symptoms">What are the symptoms of Eosinophilic fasciitis ?</Question>
+			<Answer>Symptoms may include: Tenderness and swelling of the skin on the arms, legs, or sometimes the joints (most often on both sides of the body),  Arthritis ,  Carpal tunnel syndrome , Muscle pain, Thickened skin that looks puckered , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001413-4" qtype="exams and tests">How to diagnose Eosinophilic fasciitis ?</Question>
+			<Answer>Tests that may be done include: CBC with differential, Gamma globulins (a type of immune system protein), Erythrocyte sedimentation rate ( ESR ) and C-reactive protein (CRP),  MRI ,  Muscle biopsy ,  Skin biopsy  (the biopsy needs to include the deep tissue of the fascia), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001413-5" qtype="treatment">What are the treatments for Eosinophilic fasciitis ?</Question>
+			<Answer>Corticosteroids and other immune-suppressing medicines are used to relieve symptoms. These medicines are more effective when started early in the disease. Nonsteroidal anti-inflammatory drugs (NSAIDs) may also help reduce symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001413-6" qtype="outlook">What is the outlook for Eosinophilic fasciitis ?</Question>
+			<Answer>In most cases, the condition goes away within 1 to 3 years. However, symptoms may last longer or come back. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001413-7" qtype="complications">What are the complications of Eosinophilic fasciitis ?</Question>
+			<Answer>Arthritis is a rare complication of EF. Some people may develop serious blood disorders or blood-related cancers, such as aplastic anemia or  leukemia . The outlook is much worse if blood diseases occur.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001413-8" qtype="when to contact a medical professional">Do I need to see a doctor for Eosinophilic fasciitis ?</Question>
+			<Answer>Contact your health care provider if you have symptoms of this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001413-9" qtype="prevention">How to prevent Eosinophilic fasciitis ?</Question>
+			<Answer>There is no known prevention.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

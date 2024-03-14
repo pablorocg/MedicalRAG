@@ -1,0 +1,25 @@
+<Document id="0002069" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001984.htm">
+ 
+<Focus>Hyperactivity and children</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0424295</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Children and hyperactivity</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002069-1" qtype="information">What is (are) Hyperactivity and children ?</Question>
+			<Answer>Toddlers and young children often are very active. They also have a short attention span. This type of behavior is normal for their age. Providing lots of healthy active play for your child can sometimes help. Parents may question whether the child is just more active than most children. They may also wonder if their child has hyperactivity that is part of  attention deficit hyperactivity disorder  (ADHD) or another mental health condition. It is always important to make sure that your child can see and hear well. Also, make sure there are no stressful events at home or school that may explain the behavior. If your child has had troubling behaviors for a while, or the behaviors are getting worse, the first step is to see your child's health care provider. These behaviors include: Constant motion, which often seems to have no purpose, Disruptive behavior at home or in school, Moving around at an increased speed, Problems sitting through class or finishing tasks that are typical for your child's age, Wiggling or squirming all of the time , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

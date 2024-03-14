@@ -1,0 +1,29 @@
+<Document id="0002318" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003507.htm">
+ 
+<Focus>Lactic acid test</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0456984</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lactate test</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002318-1" qtype="information">What is (are) Lactic acid test ?</Question>
+			<Answer>Lactic acid is mainly produced in muscle cells and red blood cells. It forms when the body breaks down carbohydrates to use for energy when oxygen levels are low. Times when your body's oxygen level might drop include: During intense exercise, When you have an infection or disease that reduces oxygen delivery to your body tissues,  A test can be done to measure the amount of lactic acid in the blood.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002318-8" qtype="considerations">What to do for Lactic acid test ?</Question>
+			<Answer>Clenching the fist or having the elastic band in place for a long time while having blood drawn can increase the lactic acid level even if there is no underlying medical condition. This may be misleading to your provider.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

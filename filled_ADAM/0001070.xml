@@ -1,0 +1,61 @@
+<Document id="0001070" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000407.htm">
+ 
+<Focus>Cushing syndrome due to adrenal tumor</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010481</CUI>
+			<CUI>C0001624</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Adrenal tumor - Cushing syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001070-1" qtype="information">What is (are) Cushing syndrome due to adrenal tumor ?</Question>
+			<Answer>Cushing syndrome due to adrenal tumor is a form of  Cushing syndrome . It occurs when a tumor of the adrenal gland releases excess amounts of the hormone cortisol.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001070-2" qtype="causes">What causes Cushing syndrome due to adrenal tumor ?</Question>
+			<Answer>Cushing syndrome is a disorder that occurs when your body has a higher than normal level of the hormone cortisol. This hormone is made in the  adrenal glands . Too much cortisol can be due to various problems. One such problem is a tumor on one of the adrenal glands. Adrenal tumors release cortisol. Adrenal tumors are rare. They can be noncancerous (benign) or cancerous (malignant). Noncancerous tumors that can cause Cushing syndrome include: Adrenal adenomas, a common tumor that rarely makes excess cortisol, Macronodular  hyperplasia , which causes the adrenal glands to enlarge and make excess cortisol,  Cancerous tumors that may cause Cushing syndrome include an adrenal carcinoma. This is a rare tumor, but it usually makes excess cortisol.
+</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001070-3" qtype="symptoms">What are the symptoms of Cushing syndrome due to adrenal tumor ?</Question>
+			<Answer>Most people with Cushing syndrome have: Round, red, full face ( moon face ), Slow growth rate in children, Weight gain with fat accumulation on the trunk, but fat loss from the arms, legs, and buttocks (central obesity) ,  Skin changes that are often seen: Skin infections, Purple stretch marks (1/2 inch or 1 centimeter or more wide), called  striae , on the skin of the abdomen, thighs, upper arms, and breasts, Thin skin with easy bruising ,  Muscle and bone changes include: Backache, which occurs with routine activities,  Bone pain or tenderness , Collection of fat between the shoulders and above the collar bone, Rib and spine fractures caused by  thinning of the bones , Weak muscles, especially of the hips and shoulders ,  Body-wide (systemic) changes include: Type 2 diabetes mellitus, High blood pressure, Increased cholesterol and triglycerides,  Women often have: Excess hair growth on the face, neck, chest, abdomen, and thighs (more common than in other types of Cushing syndrome), Periods that become irregular or stop ,  Men may have: Decreased or no desire for sex (low libido),  Erection problems ,  Other symptoms that may occur include: 
+   Mental changes, such as  depression , anxiety, or changes in behavior,  Fatigue , Headache, Increased thirst and urination , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001070-4" qtype="exams and tests">How to diagnose Cushing syndrome due to adrenal tumor ?</Question>
+			<Answer>Your health care provider will perform a physical exam and ask about your symptoms. Tests to confirm Cushing syndrome: 24-hour urine sample  to measure  cortisol  and  creatinine  levels, Blood tests to check ACTH (adrenocorticotropic hormone), cortisol, and potassium levels,  Dexamethasone suppression test ,  Blood cortisol levels , Blood DHEA level, Saliva cortisol level ,  Tests to determine cause or complications include: Abdominal CT  -- usually with and without IV contrast, ACTH, Bone mineral density, Cholesterol, Fasting glucose ,  In some cases, you need a special test called adrenal vein sampling to determine which adrenal gland is making too much cortisol and causing Cushing syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001070-5" qtype="treatment">What are the treatments for Cushing syndrome due to adrenal tumor ?</Question>
+			<Answer>Surgery is done to remove the adrenal tumor. Often, the entire adrenal gland is removed. Glucocorticoid replacement treatment is usually needed until the other adrenal gland recovers from surgery. You may need this treatment for 3 to 12 months. If surgery is not possible, such as in cases of adrenal cancer that has spread (metastasis), medicines can be used to stop the release of cortisol. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001070-6" qtype="outlook">What is the outlook for Cushing syndrome due to adrenal tumor ?</Question>
+			<Answer>People with an adrenal tumor who have surgery have an excellent outlook. For adrenal cancer, surgery is sometimes not possible. When surgery is performed, it does not always cure the cancer.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001070-7" qtype="complications">What are the complications of Cushing syndrome due to adrenal tumor ?</Question>
+			<Answer>Cancerous adrenal tumors can spread to the liver or lungs.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001070-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cushing syndrome due to adrenal tumor ?</Question>
+			<Answer>Contact your provider if you develop any symptoms of Cushing syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001070-9" qtype="prevention">How to prevent Cushing syndrome due to adrenal tumor ?</Question>
+			<Answer>Appropriate treatment of adrenal tumors may reduce the risk of complications in some people with adrenal tumor-related Cushing syndrome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

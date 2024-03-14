@@ -1,0 +1,16 @@
+<Document id="0002235" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001912.htm">
+ 
+<Focus>IQ testing</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Intelligence testing</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002235-1" qtype="information">Do you have information about IQ testing</Question>
+			<Answer>Many IQ tests are used today. Whether they measure actual intelligence or simply certain abilities&#160;is controversial. IQ tests measure a specific functioning ability and may not accurately assess a person's talents or future potential. Results of any intelligence test may be culturally biased. The more widely used tests include: Wechsler Preschool and Primary Scale of Intelligence, Stanford-Binet Intelligence Scales, Differential Ability Scales, Kaufman Assessment Battery for Children,  Functioning abilities that are measured by these tests include language, mathematical, analytical, spatial (for example, reading a map), among others. Each test has its own scoring system.  In general, IQ tests are only one way to measure how well a person functions. Other factors, such as genetics and environment, should be considered.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

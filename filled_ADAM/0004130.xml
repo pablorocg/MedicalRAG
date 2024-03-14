@@ -1,0 +1,37 @@
+<Document id="0004130" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003139.htm">
+ 
+<Focus>Urine - abnormal color</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0332572</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Discoloration of urine</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004130-1" qtype="information">What is (are) Urine - abnormal color ?</Question>
+			<Answer>The usual color of urine is straw-yellow. Abnormally-colored urine may be cloudy, dark, or blood-colored.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004130-2" qtype="causes">What causes Urine - abnormal color ?</Question>
+			<Answer>Abnormal urine color may be caused by infection, disease, medicines, or food you eat. Cloudy or milky urine is a sign of a urinary tract infection, which may also cause a bad smell. Milky urine may also be caused by bacteria, crystals, fat, white or red blood cells, or mucus in the urine. Dark brown but clear urine is a sign of a liver disorder such as  acute viral hepatitis  or  cirrhosis , which causes excess bilirubin in the urine. It can also indicate severe dehydration or a condition involving the breakdown of muscle tissue known as  rhabdomyolysis . Pink, red, or lighter brown urine can be caused by: Beets, blackberries, or certain food colorings,  Hemolytic anemia , Injury to the kidneys or urinary tract, Medicines,  Porphyria ,  Urinary tract disorders that cause bleeding , Blood from vaginal bleeding, Tumor in the bladder or kidneys ,  Dark yellow or orange urine can be caused by: B complex vitamins or carotene, Medicines such as phenazopyridine (used to treat urinary tract infections), rifampin, and warfarin, Recent laxative use ,  Green or blue urine is due to: Artificial colors in foods or medicines, Bilirubin, Medicines, including methylene blue, Urinary tract infections , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004130-3" qtype="when to contact a medical professional">Do I need to see a doctor for Urine - abnormal color ?</Question>
+			<Answer>See your health care provider if you have: Abnormal urine color that cannot be explained and does not go away, Blood in your urine, even once, Clear, dark-brown urine, Pink, red, or smoky-brown urine that is not due to a food or medicine, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004130-4" qtype="outlook">What is the outlook for Urine - abnormal color ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

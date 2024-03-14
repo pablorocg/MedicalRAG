@@ -1,0 +1,30 @@
+<Document id="0001898" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000815.htm">
+ 
+<Focus>Helping a loved one with a drinking problem</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085762</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001898-1" qtype="information">What is (are) Helping a loved one with a drinking problem ?</Question>
+			<Answer>If you think a loved one has a  drinking problem , you may want to help but don't know how. You may not be sure it really is a drinking problem. Or, you might be afraid that your loved one will get angry or upset if you say something. If you are concerned, do not wait to bring it up. The problem is likely to get worse, not better, if you wait.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001898-3" qtype="information">What is (are) Helping a loved one with a drinking problem ?</Question>
+			<Answer>If you think a loved one has a  drinking problem , you may want to help but don't know how. You may not be sure it really is a drinking problem. Or, you might be afraid that your loved one will get angry or upset if you say something. If you are concerned, do not wait to bring it up. The problem is likely to get worse, not better, if you wait.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001898-6" qtype="information">What is (are) Helping a loved one with a drinking problem ?</Question>
+			<Answer>If you think a loved one has a  drinking problem , you may want to help but don't know how. You may not be sure it really is a drinking problem. Or, you might be afraid that your loved one will get angry or upset if you say something. If you are concerned, do not wait to bring it up. The problem is likely to get worse, not better, if you wait.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

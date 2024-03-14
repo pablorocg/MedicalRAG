@@ -1,0 +1,65 @@
+<Document id="0000683" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000193.htm">
+ 
+<Focus>Cardiac amyloidosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268407</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Amyloidosis - cardiac</Synonym>
+		<Synonym>Primary cardiac amyloidosis - AL type</Synonym>
+		<Synonym>Secondary cardiac amyloidosis - AA type</Synonym>
+		<Synonym>Stiff heart syndrome</Synonym>
+		<Synonym>Senile amyloidosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000683-1" qtype="information">What is (are) Cardiac amyloidosis ?</Question>
+			<Answer>Cardiac amyloidosis is a disorder caused by deposits of an abnormal protein (amyloid) in the heart tissue. These deposits make it hard for the heart to work properly.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000683-2" qtype="causes">What causes Cardiac amyloidosis ?</Question>
+			<Answer>Amyloidosis  is a group of diseases in which clumps of proteins called amyloid build up in body tissues. Over time, these proteins replace normal tissue, leading to failure of the involved organ. There are many forms of amyloidosis. Cardiac amyloidosis ("stiff heart syndrome") occurs when amyloid deposits take the place of normal heart muscle. It is the most typical type of  restrictive cardiomyopathy . Cardiac amyloidosis may affect the way electrical signals move through the heart (conduction system). This can lead to abnormal heartbeats ( arrhythmias ) and faulty heart signals (heart block). The condition can be inherited. This is called familial cardiac amyloidosis. It can also develop as the result of another disease such as a type of bone and blood cancer, or as the result of another medical problem causing inflammation. Cardiac amyloidosis is more common in men than in women. The disease is rare in people under age 40.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000683-3" qtype="symptoms">What are the symptoms of Cardiac amyloidosis ?</Question>
+			<Answer>Some people may have no symptoms. When present, symptoms may include: 
+   Excessive urination at night
+   , 
+   Fatigue, reduced exercise ability, 
+   Palpitations (sensation of feeling heartbeat), 
+   Shortness of breath with activity, 
+   Swelling of the abdomen, legs, ankles, or other part of the body, 
+   Trouble breathing while lying down
+   , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000683-4" qtype="exams and tests">How to diagnose Cardiac amyloidosis ?</Question>
+			<Answer>The signs of cardiac amyloidosis can be related to a number of different conditions. This can make the problem hard to diagnose. Signs may include: Abnormal sounds in the lung (lung crackles) or a heart murmur, Blood pressure that is low or drops when you stand up, Enlarged neck veins, Swollen liver ,  The following tests may be done: Blood and urine protein tests,  Chest or abdomen CT scan &#160;(considered the "gold standard" to help diagnose this condition),  Coronary angiography ,  Echocardiogram ,  Electrocardiogram (ECG) ,  Magnetic resonance imaging  (MRI),  Nuclear heart scans  (MUGA, RNV), Positron emission tomography (PET) ,  An ECG may show problems with the heartbeat or heart signals. It may also show low signals (called "low voltage"). A  cardiac biopsy  is used to confirm the diagnosis. A biopsy of another area, such as the abdomen, kidney, or bone marrow, is often done as well.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000683-5" qtype="treatment">What are the treatments for Cardiac amyloidosis ?</Question>
+			<Answer>Your health care provider may tell you to make changes to your diet, including limiting salt and fluids.  You may need to take water pills (diuretics) to help your body get rid of excess fluid. The provider may tell you to weigh yourself every day. A weight gain of 3 or more pounds (1 kilogram or more) over 1 to 2 days can mean there is too much fluid in the body. Medicines including digoxin, calcium-channel blockers, and beta-blockers may be used in people with atrial fibrillation. However, the drugs must be used with caution, and the dosage must be carefully monitored. People with cardiac amyloidosis may be extra sensitive to side effects of these drugs. Other treatments may include: Chemotherapy, Drugs that target&#160; the abnormal protein (tafamidis), Implantable cardioverter-defibrillator (AICD), Pacemaker, if there are problems with heart signals, Prednisone, an anti-inflammatory medicine,  A  heart transplant  may be considered for people with some types of amyloidosis who have very poor heart function. People with hereditary amyloidosis may need a liver transplant.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000683-6" qtype="outlook">What is the outlook for Cardiac amyloidosis ?</Question>
+			<Answer>In the past, cardiac amyloidosis was thought to be an untreatable and rapidly fatal disease. However, the field is changing rapidly. Different types of amyloidosis can affect the heart in different ways. Some types are more severe than others. Many people can now expect to survive and experience a good quality of life for several years after diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000683-7" qtype="complications">What are the complications of Cardiac amyloidosis ?</Question>
+			<Answer>Complications may include: Atrial fibrillation  or ventricular arrhythmias,  Congestive heart failure , Fluid buildup in the abdomen ( ascites ), Increased sensitivity to digoxin , Low blood pressure and dizziness from excessive urination (due to medicine) ,  Sick sinus syndrome ,  Symptomatic  cardiac conduction system disease (arrhythmias related to abnormal conduction of impulses through the heart muscle), </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000683-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cardiac amyloidosis ?</Question>
+			<Answer>Contact your provider if you have this disorder and develop new symptoms such as:  Dizziness  when you change position, Excessive weight (fluid) gain, Excessive weight loss,  Fainting  spells, Severe breathing problems , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

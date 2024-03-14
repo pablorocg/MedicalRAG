@@ -1,0 +1,17 @@
+<Document id="0001228" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000812.htm">
+ 
+<Focus>Diet-busting foods</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Obesity - diet-busting foods</Synonym>
+		<Synonym>Overweight - diet-busting foods</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001228-1" qtype="information">Do you have information about Diet-busting foods</Question>
+			<Answer>Diet-busting foods work against you if you are watching your weight. These foods may taste good, but are low in nutrition and high in calories. Many of these foods leave you feeling hungry because they are low in fiber or protein. In general, diet-busting foods should make up a very small portion of your overall diet. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

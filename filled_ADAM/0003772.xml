@@ -1,0 +1,43 @@
+<Document id="0003772" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000794.htm">
+ 
+<Focus>Substance use - inhalants</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0237123</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Substance abuse - inhalants</Synonym>
+		<Synonym>Drug abuse - inhalants</Synonym>
+		<Synonym>Drug use - inhalants</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003772-1" qtype="information">What is (are) Substance use - inhalants ?</Question>
+			<Answer>Inhalants are chemical vapors that are breathed in on purpose to get high. Inhalant use became popular in the 1960s with teens who sniffed glue. Since then, other kinds of inhalants have become popular. Inhalants are used mostly by younger teens and school-age children, although adults sometimes also use them. Street names for inhalants include air blast, bold, chroming, discorama, glad, hippie crack, moon gas, oz, poor man's pot, rush, snappers, whippets, and whiteout. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003772-2" qtype="information">What is (are) Substance use - inhalants ?</Question>
+			<Answer>Inhalants are chemical vapors that are breathed in on purpose to get high. Inhalant use became popular in the 1960s with teens who sniffed glue. Since then, other kinds of inhalants have become popular. Inhalants are used mostly by younger teens and school-age children, although adults sometimes also use them. Street names for inhalants include air blast, bold, chroming, discorama, glad, hippie crack, moon gas, oz, poor man's pot, rush, snappers, whippets, and whiteout. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003772-7" qtype="symptoms">What are the symptoms of Substance use - inhalants ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003772-8" qtype="treatment">What are the treatments for Substance use - inhalants ?</Question>
+			<Answer>Treatment begins with recognizing the problem. The next step is getting help and support. Treatment programs use behavior change techniques through counseling (talk therapy). The goal is to help the person to understand their behavior and why they use inhalants. Involving family and friends during counseling can help support the person to keep them from going back to using (relapsing). At this time, there is no medicine that can help reduce the use of inhalants by blocking their effects. But, scientists are researching such medicines.</Answer>
+	</QAPair>
+	<QAPair pid="11">
+			<Question qid="0003772-11" qtype="when to contact a medical professional">Do I need to see a doctor for Substance use - inhalants ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

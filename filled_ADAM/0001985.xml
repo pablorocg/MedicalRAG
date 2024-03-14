@@ -1,0 +1,41 @@
+<Document id="0001985" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003179.htm">
+ 
+<Focus>Hip pain</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019559</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pain - hip</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001985-1" qtype="information">What is (are) Hip pain ?</Question>
+			<Answer>Hip pain involves any pain in or around the hip joint. You may not feel pain from your hip directly over the hip area. You may feel it in your groin or pain in your thigh or knee. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001985-2" qtype="causes">What causes Hip pain ?</Question>
+			<Answer>Hip pain may be caused by problems in the bones or cartilage of your hip, including:  Hip fractures  -- can cause sudden and acute hip pain. These injuries can be serious and lead to major problems. It is more common in older patients because their bones can be weaker., Infection in the  bones  or  joints ., Osteonecrosis of the hip (necrosis from loss of blood supply to the bone).,  Arthritis  -- often felt in the front part of the thigh or groin., Labral tear of the hip., Femoral acetabular impingement -- abnormal growth around your hip that is a precursor to hip arthritis. It can cause pain with movement and exercise. ,  Pain in or around the hip may also be caused by problems such as: Bursitis -- pain when getting up from a chair, walking, climbing stairs, and driving,  Hamstring  strain,  Iliotibial band syndrome ,  Hip flexor strain , Hip impingement syndrome, Groin strain, Snapping hip syndrome ,  Pain you feel in the hip may reflect a problem in your back, rather than in the hip itself. Pain due to problems in the hip joint itself is often felt most in the groin.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001985-3" qtype="considerations">What to do for Hip pain ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001985-4" qtype="when to contact a medical professional">Do I need to see a doctor for Hip pain ?</Question>
+			<Answer>Go to a hospital or get emergency help if: Your hip pain is acute and caused by a serious fall or other injury., Your leg is deformed, badly bruised, or bleeding., You are unable to move your hip or bear any weight on your leg.,  Contact your provider if: Your hip is still painful after 1 week of home treatment., You also have a  fever  or rash., You have sudden hip pain, plus  sickle cell anemia  or long-term steroid use., You have pain in both hips and other joints. , You start limping and have difficulty with stairs and gait., </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001985-5" qtype="outlook">What is the outlook for Hip pain ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

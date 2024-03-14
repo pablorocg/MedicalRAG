@@ -1,0 +1,17 @@
+<Document id="0000535" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007341.htm">
+ 
+<Focus>Brain PET scan</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Brain positron emission tomography</Synonym>
+		<Synonym>PET scan - brain</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000535-1" qtype="information">Do you have information about Brain PET scan</Question>
+			<Answer>A brain positron emission tomography (PET) scan is an imaging test of the brain. It uses a radioactive substance called a tracer to look for disease or injury in the brain. A PET scan shows how the brain and its tissues are working. Other imaging tests, such as magnetic resonance imaging ( MRI ) and computed tomography ( CT ) scans only reveal the structure of the brain and its surrounding tissues.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

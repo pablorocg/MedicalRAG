@@ -1,0 +1,58 @@
+<Document id="0002871" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001401.htm">
+ 
+<Focus>Organic brain syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0029221</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>OBS</Synonym>
+		<Synonym>Organic mental disorder (OMS)</Synonym>
+		<Synonym>Chronic organic brain syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002871-1" qtype="information">What is (are) Organic brain syndrome ?</Question>
+			<Answer>Neurocognitive disorder is a general term that describes decreased mental function due to a medical disease other than a psychiatric illness. Neurocognitive disorders are grouped into three subcategories: Delirium ., Mild neurocognitive disorder - some decreased mental function, but able to stay independent and do daily tasks., Major neurocognitive disorder - decreased mental function and loss of ability to do daily tasks. Also called  dementia ., </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002871-2" qtype="causes">What causes Organic brain syndrome ?</Question>
+			<Answer>Listed below are conditions associated with neurocognitive disorder. BRAIN INJURY CAUSED BY TRAUMA Bleeding into the brain (intracerebral hemorrhage), Bleeding into the space around the brain ( subarachnoid hemorrhage ), Blood clot inside the skull but outside the brain and its covering, which may cause pressure on the brain ( subdural or epidural hematoma ),  Concussion ,  BREATHING CONDITIONS Low oxygen in the body (hypoxia), High carbon dioxide level in the body (hypercapnia) ,  CARDIOVASCULAR DISORDERS  Dementia due to many strokes ( multi-infarct dementia ), Heart infections ( endocarditis ,  myocarditis ),  Stroke , Transient ischemic attack ( TIA ) ,  DEGENERATIVE DISORDERS Alzheimer disease  (also called senile dementia, Alzheimer type),  Creutzfeldt-Jakob disease , Diffuse Lewy body disease,  Huntington disease ,  Multiple sclerosis ,  Normal pressure hydrocephalus ,  Parkinson disease ,  Pick disease ,  DEMENTIA DUE TO METABOLIC CAUSES Kidney disease ,  Liver disease , Thyroid disease ( hyperthyroidism  or  hypothyroidism ), Vitamin deficiency (B1, B12, or folate) ,  DRUG AND ALCOHOL-RELATED CONDITIONS Alcohol withdrawal state , Intoxication from drug or  alcohol use , Medicine effect, such as corticosteroids, sedative-hypnotics, antihistamines, and antidepressants ,  Wernicke-Korsakoff syndrome , a long-term effect of deficiency of thiamine (vitamin B1), Withdrawal from drugs, such as sedative-hypnotics and corticosteroids,  INFECTIONS Any sudden onset (acute) or long-term (chronic) infection, Blood poisoning ( septicemia ), Brain infection ( encephalitis ),  Meningitis  (infection of the lining of the brain and spinal cord), Prion infections, such as mad cow disease, Late-stage syphilis ,  Complications of cancer and cancer treatment with chemotherapy can also lead to neurocognitive disorder. Other conditions that may mimic organic brain syndrome include: Depression , Neurosis,  Psychosis , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002871-3" qtype="symptoms">What are the symptoms of Organic brain syndrome ?</Question>
+			<Answer>Symptoms can differ based on the disease. In general, organic brain syndrome causes: Agitation ,  Confusion , Long-term loss of brain function ( dementia ), Severe, short-term loss of brain function ( delirium ) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002871-4" qtype="exams and tests">How to diagnose Organic brain syndrome ?</Question>
+			<Answer>Tests depend on the disorder, but may include: 
+  Blood tests
+  , Neuropsychological testing,  Electroencephalogram  (EEG)
+  ,  Head CT scan ,  Head MRI &#160;,  Lumbar puncture  (spinal tap), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002871-5" qtype="treatment">What are the treatments for Organic brain syndrome ?</Question>
+			<Answer>Treatment depends on the underlying condition. Many conditions are treated mainly with rehabilitation and supportive care to help the person with activities lost due to areas where brain function is affected. Medicines may be needed to reduce aggressive behaviors that can occur with some of the conditions.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002871-6" qtype="outlook">What is the outlook for Organic brain syndrome ?</Question>
+			<Answer>Some disorders are short-term and reversible. But many are long-term or get worse over time.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002871-7" qtype="complications">What are the complications of Organic brain syndrome ?</Question>
+			<Answer>People with neurocognitive disorder often lose the ability to interact with others or function on their own.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002871-8" qtype="when to contact a medical professional">Do I need to see a doctor for Organic brain syndrome ?</Question>
+			<Answer>Contact your health care provider if: You have been diagnosed with organic brain syndrome and you are uncertain about the exact disorder., You have symptoms of this condition., You have been diagnosed with neurocognitive disorder and your symptoms become worse., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

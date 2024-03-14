@@ -1,0 +1,59 @@
+<Document id="0002934" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000236.htm">
+ 
+<Focus>Pancreatic cancer</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0346647</CUI>
+			<CUI>C0235974</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pancreatic cancer</Synonym>
+		<Synonym>Cancer - pancreas</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002934-1" qtype="information">What is (are) Pancreatic cancer ?</Question>
+			<Answer>Pancreatic cancer is cancer that starts in the pancreas.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002934-2" qtype="causes">What causes Pancreatic cancer ?</Question>
+			<Answer>The pancreas is a large organ behind the stomach. It makes and releases enzymes into the intestines that help the body digest and absorb food, especially fats. The pancreas also makes and releases insulin and glucagon. These are hormones that help the body control blood sugar levels. There are different types of pancreatic cancers. The type depends on the cell in which the cancer develops. Examples include: Adenocarcinoma, the most common type of pancreatic cancer, Other more rare types include  glucagonoma ,  insulinoma ,  islet cell tumor ,  VIPoma ,  The exact cause of pancreatic cancer is unknown. It is more common in people who: Are obese, Have a diet high in fat and low in fruits and vegetables, Have diabetes, Have long-term exposure to certain chemicals, Have long-term inflammation of the pancreas ( chronic pancreatitis ), Smoke,  The risk for pancreatic cancer increases with age. Family history of the disease also slightly increases the chance of developing this cancer.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002934-3" qtype="symptoms">What are the symptoms of Pancreatic cancer ?</Question>
+			<Answer>A tumor (cancer) in the pancreas may grow without any symptoms at first. This means the cancer is often advanced when it is first found. Symptoms of pancreatic cancer include: Diarrhea, Dark urine and clay-colored stools,  Fatigue  and weakness, Sudden increase in blood sugar level (diabetes),  Jaundice  (a yellow color in the skin, mucous membranes, or white part of the eyes) and itching of the skin, Loss of appetite and weight loss, Nausea and vomiting, Pain or discomfort in the upper part of the belly or abdomen , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002934-4" qtype="exams and tests">How to diagnose Pancreatic cancer ?</Question>
+			<Answer>Your health care provider will perform a physical exam and ask about your symptoms. Blood tests that may be ordered include: Complete blood count ( CBC ),  Liver function tests ,  Serum bilirubin ,  Imaging tests that may be ordered include: CT scan of the abdomen , Endoscopic retrograde cholangiopancreatography ( ERCP ),  Endoscopic ultrasound ,  MRI of the abdomen ,  Diagnosis of pancreatic cancer (and what type) is made by a  pancreatic biopsy . If tests confirm you have pancreatic cancer, more tests will be done to see how far the cancer has spread within and outside the pancreas. This is called staging. Staging helps guide treatment and gives you an idea of what to expect.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002934-5" qtype="treatment">What are the treatments for Pancreatic cancer ?</Question>
+			<Answer>Treatment for adenocarcinoma depends on the stage of the tumor. Surgery  may be done if the tumor has not spread or has spread very little. Along with surgery,  chemotherapy  or  radiation therapy  or both may be used before or after surgery. A small number of people can be cured with this treatment approach. When the tumor has not spread out of the pancreas but cannot be surgically removed, chemotherapy and radiation therapy together may be recommended. When the tumor has spread (metastasized) to other organs such as the liver, chemotherapy alone is usually used. With advanced cancer, the goal of treatment is to manage pain and other symptoms. For example, if the tube that carries bile (bile duct) is blocked by the pancreatic tumor, a procedure to place a tiny metal tube (stent) may be done to open the blockage. This can help relieve jaundice and itching of the skin.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002934-6" qtype="support groups">Where to find support for people with Pancreatic cancer ?</Question>
+			<Answer>You can ease the stress of illness by joining a  cancer support group . Sharing with others who have common experiences and problems can help you not feel alone.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002934-7" qtype="outlook">What is the outlook for Pancreatic cancer ?</Question>
+			<Answer>Some people with pancreatic cancer that can be surgically removed are cured. But in most people, the tumor has spread and cannot be completely removed at the time of diagnosis. Chemotherapy and radiation are often given after surgery to increase the cure rate (this is called adjuvant therapy). For pancreatic cancer that cannot be removed completely with surgery or cancer that has spread beyond the pancreas, a cure is not possible. In this case, chemotherapy is given to improve and extend the person's life.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002934-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pancreatic cancer ?</Question>
+			<Answer>Contact your provider for an appointment if you have: Abdominal or back pain that does not go away ,  Persistent loss of appetite ,  Unexplained fatigue or weight loss , Other symptoms of this disorder, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002934-9" qtype="prevention">How to prevent Pancreatic cancer ?</Question>
+			<Answer>Preventive measures include: If you smoke, now is the time to quit., Eat a diet high in fruits, vegetables, and whole grains., Exercise regularly to stay at a healthy weight., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

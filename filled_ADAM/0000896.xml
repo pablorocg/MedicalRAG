@@ -1,0 +1,30 @@
+<Document id="0000896" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002070.htm">
+ 
+<Focus>Colds and flus - antibiotics</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0009443</CUI>
+			<CUI>C0021400</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Antibiotics - colds and flu</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000896-1" qtype="information">What is (are) Colds and flus - antibiotics ?</Question>
+			<Answer>Antibiotics fight infections that are caused by bacteria. They do not treat infections that are caused by a virus.  Colds  and  flu  are caused by viruses. If you have a viral infection, antibiotics WILL NOT make you better. The overuse of antibiotics can: Kill normal ("healthy") bacteria that live in your body. This may cause nausea and diarrhea. Women can get vaginal yeast infections., Increase the risk of drug-resistant bacterial infections., Put you at risk of an  allergic reaction .,  Do not take antibiotics when they will not treat an illness.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000896-2" qtype="information">What is (are) Colds and flus - antibiotics ?</Question>
+			<Answer>Antibiotics fight infections that are caused by bacteria. They do not treat infections that are caused by a virus.  Colds  and  flu  are caused by viruses. If you have a viral infection, antibiotics WILL NOT make you better. The overuse of antibiotics can: Kill normal ("healthy") bacteria that live in your body. This may cause nausea and diarrhea. Women can get vaginal yeast infections., Increase the risk of drug-resistant bacterial infections., Put you at risk of an  allergic reaction .,  Do not take antibiotics when they will not treat an illness.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

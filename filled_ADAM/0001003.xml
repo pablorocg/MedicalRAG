@@ -1,0 +1,40 @@
+<Document id="0001003" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003072.htm">
+ 
+<Focus>Cough</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010200</CUI>
+			<CUI>C1961131</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001003-1" qtype="information">What is (are) Cough ?</Question>
+			<Answer>Coughing is an important way to keep your throat and airways clear. But too much coughing may mean you have a disease or disorder. Watch this video about: Coughing Some coughs are dry. Others are productive. A productive cough is one that brings up mucus. Mucus is also called phlegm or sputum. Coughs can be either acute or chronic: Acute coughs usually begin rapidly and are often due to a  cold ,  flu , or sinus infection. They usually go away after 3 weeks., Subacute coughs last 3 to 8 weeks., Chronic coughs last longer than 8 weeks. , </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001003-2" qtype="causes">What causes Cough ?</Question>
+			<Answer>Common causes of coughing are: Allergies  that involve the nose or sinuses,  Asthma  and  COPD  (emphysema or chronic bronchitis), The  common cold ,  flu , and other viral infections, Lung infections such as  pneumonia  or acute bronchitis,  Sinusitis  with postnasal drip ,  Gastroesophageal reflux disease  (GERD),  Other causes include: ACE inhibitors  or less often ARB medicines used to treat  high blood pressure , heart failure, or  kidney diseases , Cigarette smoking or exposure to secondhand smoke (or smoking other substances like marijuana),  Lung cancer , Lung disease such as  bronchiectasis ,  cystic fibrosis , or  interstitial lung disease , Sometimes no specific cause is found, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001003-3" qtype="considerations">What to do for Cough ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001003-4" qtype="when to contact a medical professional">Do I need to see a doctor for Cough ?</Question>
+			<Answer>Call 911 or the local emergency number if you have: Shortness of breath or difficulty breathing,  Hives  or a swollen face or throat with difficulty swallowing,  Contact your provider right away if you have a cough and any of the following: Heart disease, swelling in your legs, or a cough that gets worse when you lie down (may be signs of  heart failure ), Have had contact with someone who has tuberculosis, Unintentional weight loss or night sweats (could be tuberculosis), An infant younger than 3 months old who has a cough, A cough that lasts longer than 10 to 14 days, A cough that produces blood,  Fever  (may be a sign of a bacterial infection that requires antibiotics), A high-pitched sound (called  stridor ) when breathing in, Thick, foul-smelling, yellowish-green phlegm (could be a bacterial infection), A violent cough that begins rapidly, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001003-5" qtype="outlook">What is the outlook for Cough ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

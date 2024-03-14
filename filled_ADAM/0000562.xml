@@ -1,0 +1,16 @@
+<Document id="0000562" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007403.htm">
+ 
+<Focus>Breast reconstruction - implants</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Breast implants surgery</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000562-1" qtype="information">Do you have information about Breast reconstruction - implants</Question>
+			<Answer>After a  mastectomy , some women choose to have surgery to remake their breast. This type of surgery is called breast reconstruction. It can be performed at the same time as mastectomy (immediate reconstruction) or later (delayed reconstruction). The breast is usually reshaped in two stages, or surgeries. During the first stage, a tissue expander is used. An implant is placed during the second stage. Sometimes, the implant is inserted in the first stage.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

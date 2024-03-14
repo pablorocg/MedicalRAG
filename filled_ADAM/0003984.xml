@@ -1,0 +1,13 @@
+<Document id="0003984" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003483.htm">
+ 
+<Focus>Total protein</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003984-1" qtype="information">Do you have information about Total protein</Question>
+			<Answer>The total protein test measures the total amount of two classes of proteins found in the fluid portion of your blood. These are albumin and globulin. Proteins are important parts of all cells and tissues. Albumin helps prevent fluid from leaking out of blood vessels. It also carries chemicals in your blood., Globulins are an important part of your immune system. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,42 @@
+<Document id="0002859" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003195.htm">
+ 
+<Focus>Opisthotonos</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0151818</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002859-1" qtype="information">What is (are) Opisthotonos ?</Question>
+			<Answer>Opisthotonos is a condition in which a person holds their body in an abnormal position. The person is usually rigid and arches their back, with their head thrown backward. If a person with opisthotonos lies on their back, only the back of their head and heels touch the surface they are on.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002859-2" qtype="considerations">What to do for Opisthotonos ?</Question>
+			<Answer>Opisthotonos is much more common in infants and children than in adults. It is also more extreme in infants and children because of their less mature nervous systems.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002859-3" qtype="causes">What causes Opisthotonos ?</Question>
+			<Answer>Opisthotonos may occur in infants with  meningitis . This is an infection of the meninges, the membranes that cover the brain and spinal cord. Viruses, malaria, and syphilis are infections associated with opisthotonos. It may also occur as a sign of reduced brain function or injury to the nervous system. Other causes may include: Arnold-Chiari syndrome, a problem with the structure of the brain,  Brain tumor ,  Cerebral palsy ,  Gaucher disease , which causes a buildup of fatty tissue in certain organs,  Growth hormone deficiency  (occasionally), Poisoning including strychnine, some street drugs, and some medicines, Metabolic disorders that run in families, such as glutaric aciduria and organic acidemias,  Krabbe disease ,  maple syrup urine disease , and others,  Seizures , Severe  electrolyte  imbalance, Traumatic brain injury, Stiff-person syndrome (a condition that makes a person rigid and have spasms), Bleeding in the brain,  Tetanus ,  Some antipsychotic medicines can cause a side effect called  acute  dystonic reaction. Opisthotonos may be part of this reaction. In rare cases, infants born to women who drink large amounts of alcohol during pregnancy may have opisthotonos due to alcohol withdrawal.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002859-4" qtype="considerations">What to do for Opisthotonos ?</Question>
+			<Answer>Opisthotonos is much more common in infants and children than in adults. It is also more extreme in infants and children because of their less mature nervous systems.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002859-5" qtype="when to contact a medical professional">Do I need to see a doctor for Opisthotonos ?</Question>
+			<Answer>Go to the emergency room or call 911 or the local emergency number if symptoms of opisthotonos occur. Typically, opisthotonos is a symptom of other conditions that are serious enough for a person to seek medical attention.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002859-6" qtype="outlook">What is the outlook for Opisthotonos ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

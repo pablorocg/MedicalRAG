@@ -1,0 +1,62 @@
+<Document id="0000811" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000291.htm">
+ 
+<Focus>Cholangiocarcinoma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206698</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bile duct cancer</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000811-1" qtype="information">What is (are) Cholangiocarcinoma ?</Question>
+			<Answer>Cholangiocarcinoma (CCA) is a rare cancerous (malignant) growth in&#160;one of the ducts that carries  bile  from the liver to the small intestine.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000811-2" qtype="causes">What causes Cholangiocarcinoma ?</Question>
+			<Answer>The exact cause of CCA isn't known. However, many of these tumors are already quite advanced by the time they are found. CCA may start anywhere along the bile ducts. These tumors block off the bile ducts. Both men and women are affected. Most people are older than 65. People with the following health problems may have a higher chance of developing CCA: 
+   Bile duct (choledochal)  cysts , 
+   Chronic  biliary  and liver inflammation, 
+   History of infection with&#160;parasitic worms, liver flukes
+   , 
+   Primary  sclerosing cholangitis ,  Ulcerative colitis , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000811-3" qtype="symptoms">What are the symptoms of Cholangiocarcinoma ?</Question>
+			<Answer>Symptoms of CCA may include any of the following: Fever &#160;and chills, Clay-colored stools and dark urine,  Itching ,  Loss of appetite , Pain in the upper right abdomen that may radiate to the back,  Weight loss , Yellowing of the skin ( jaundice ) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000811-4" qtype="exams and tests">How to diagnose Cholangiocarcinoma ?</Question>
+			<Answer>Your health care provider will perform a physical exam. Tests will be done to check for a tumor or blockage in the bile duct. These may include: Abdominal CT scan ,  Abdominal ultrasound , Procedure that uses a viewing scope to look at the bile ducts ( ERCP ), during which&#160; tissue may be taken  and looked at under a microscope,  Blood tests that may be done include: Liver function tests  (especially alkaline phosphatase or  bilirubin  levels), Complete blood count (CBC), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000811-5" qtype="treatment">What are the treatments for Cholangiocarcinoma ?</Question>
+			<Answer>The goal is to treat the cancer and the blockage it causes. When possible, surgery to remove the tumor is the treatment of choice and may result in a cure. Often the cancer has already spread locally or to another area of the body by the time it is diagnosed. As a result, surgery to cure the cancer is not possible. Chemotherapy  or radiation may be given after surgery to decrease the risk of the cancer returning. In select cases, a liver transplant can be tried. Endoscopic  therapy with stent placement can temporarily relieve blockages in the biliary ducts. This may also relieve jaundice when the tumor cannot be removed.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000811-6" qtype="support groups">Where to find support for people with Cholangiocarcinoma ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000811-7" qtype="outlook">What is the outlook for Cholangiocarcinoma ?</Question>
+			<Answer>Completely removing the tumor allows some people to survive with the possibility of complete cure.  The survival time varies greatly from several months to several years. Outlook depends on: The location of CCA, The cell type of CCA, The stage of the tumor, The person's age and general health, Whether surgery is an option, The person's response to treatment,  If the tumor cannot be completely removed, a cure is generally not possible. With treatment, about one half of affected people live a year, and about one half live longer, but rarely beyond 5 years. You and your family may want to start thinking about end-of-life planning, such as: Palliative care, Hospice care, Advance care directives, Health care agents, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000811-8" qtype="complications">What are the complications of Cholangiocarcinoma ?</Question>
+			<Answer>Complications of CCA include: Infection, Liver failure, Spread ( metastasis ) of tumor to other organs, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000811-9" qtype="when to contact a medical professional">Do I need to see a doctor for Cholangiocarcinoma ?</Question>
+			<Answer>Call your provider if you have jaundice or other symptoms of cholangiocarcinoma.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

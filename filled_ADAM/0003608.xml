@@ -1,0 +1,21 @@
+<Document id="0003608" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002982.htm">
+ 
+<Focus>Skin graft</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Skin transplant</Synonym>
+		<Synonym>Skin autografting</Synonym>
+		<Synonym>FTSG</Synonym>
+		<Synonym>STSG</Synonym>
+		<Synonym>Split thickness skin graft</Synonym>
+		<Synonym>Full thickness skin graft</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003608-1" qtype="information">Do you have information about Skin graft</Question>
+			<Answer>A skin graft is a patch of skin that is removed by surgery from one area of the body and transplanted, or attached, to another area.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

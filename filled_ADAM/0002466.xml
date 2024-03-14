@@ -1,0 +1,23 @@
+<Document id="0002466" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002956.htm">
+ 
+<Focus>Lung surgery</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Thoracotomy</Synonym>
+		<Synonym>Lung tissue removal</Synonym>
+		<Synonym>Pneumonectomy</Synonym>
+		<Synonym>Lobectomy</Synonym>
+		<Synonym>Lung biopsy</Synonym>
+		<Synonym>Thoracoscopy</Synonym>
+		<Synonym>Video-assisted thoracoscopic surgery</Synonym>
+		<Synonym>VATS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002466-1" qtype="information">Do you have information about Lung surgery</Question>
+			<Answer>Lung surgery is surgery done to repair or remove lung tissue. There are many common lung surgeries, including: Biopsy of an unknown growth in or around the lung, Lobectomy, to remove one or more lobes of a lung, Lung transplant, Pneumonectomy, to remove a lung, Surgery to prevent the buildup or return of fluid to the chest (pleurodesis), Surgery to remove an infection in the chest cavity ( empyema ), Surgery to remove blood in the chest cavity, particularly after trauma, Surgery to remove small balloon-like tissues (blebs) that cause lung collapse ( pneumothorax ), Wedge resection, to remove part of a lobe in a lung,  A thoracotomy is a surgical cut that a surgeon makes to open the chest wall.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

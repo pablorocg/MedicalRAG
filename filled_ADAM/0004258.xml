@@ -1,0 +1,50 @@
+<Document id="0004258" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000544.htm">
+ 
+<Focus>Von Willebrand disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0042974</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004258-1" qtype="information">What is (are) Von Willebrand disease ?</Question>
+			<Answer>Von Willebrand disease is the most common hereditary  bleeding disorder .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004258-2" qtype="causes">What causes Von Willebrand disease ?</Question>
+			<Answer>Von Willebrand disease is caused by a deficiency or poor functioning of von Willebrand factor. Von Willebrand factor helps blood platelets clump together and stick to the blood vessel wall, which is necessary for normal blood clotting. There are several types of von Willebrand disease. A family history of a bleeding disorder is the primary risk factor. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004258-3" qtype="symptoms">What are the symptoms of Von Willebrand disease ?</Question>
+			<Answer>Symptoms may include: Abnormal menstrual bleeding,  Bleeding of the gums ,  Bruising , Nosebleeds,  Skin rash ,  Note:  Most women with heavy or prolonged menstrual bleeding do not have von Willebrand disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004258-4" qtype="exams and tests">How to diagnose Von Willebrand disease ?</Question>
+			<Answer>Von Willebrand disease may be hard to diagnose. Low von Willebrand factor levels and bleeding do not always mean you have von Willebrand disease. Tests that may be done to diagnose this disease include: Bleeding time , Blood typing, Factor VIII level, Platelet function analysis,  Platelet count , Ristocetin cofactor test, Von Willebrand factor specific tests , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004258-5" qtype="treatment">What are the treatments for Von Willebrand disease ?</Question>
+			<Answer>Treatment may include DDAVP (desamino-8-arginine vasopressin). It is a medicine to raise von Willebrand factor level and reduce the chances for bleeding.  However, DDAVP does not work for all types of von Willebrand disease. Tests should be done to determine what type of von Willebrand you have. If you are going to have surgery, your doctor may give you DDAVP before surgery to see if your von Willebrand factor levels increase. The drug Alphanate (antihemophilic factor) is approved to decrease bleeding in people with the disease who must have surgery or any other invasive procedure. Blood plasma or certain factor VIII preparations may also be used to decrease bleeding.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004258-6" qtype="outlook">What is the outlook for Von Willebrand disease ?</Question>
+			<Answer>Bleeding may decrease during pregnancy. Women who have this condition usually do not have excessive bleeding during childbirth. This disease is passed down through families. Genetic counseling may help prospective parents understand the risk for their children.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004258-7" qtype="complications">What are the complications of Von Willebrand disease ?</Question>
+			<Answer>Bleeding may occur after surgery or when you have a tooth pulled.  Aspirin and other nonsteroidal anti-inflammatory drugs (NSAIDs) can make this condition worse. Do not take these medicines without first talking to your health care provider. </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004258-8" qtype="when to contact a medical professional">Do I need to see a doctor for Von Willebrand disease ?</Question>
+			<Answer>Contact your provider if bleeding occurs without reason. If you have von Willebrand disease and are scheduled for surgery or are in an accident, be sure you or your family tell the providers about your condition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

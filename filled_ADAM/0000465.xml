@@ -1,0 +1,82 @@
+<Document id="0000465" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000486.htm">
+ 
+<Focus>Bladder cancer</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0699885</CUI>
+			<CUI>C0005684</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Transitional cell carcinoma of the bladder</Synonym>
+		<Synonym>Urothelial cancer</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000465-1" qtype="information">What is (are) Bladder cancer ?</Question>
+			<Answer>Bladder cancer is a cancer that starts in the bladder. The bladder is the body part that holds and releases urine. It is in the center of the lower abdomen.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000465-2" qtype="causes">What causes Bladder cancer ?</Question>
+			<Answer>Bladder cancer often starts from the cells lining the bladder. These cells are called transitional cells. These tumors are classified by the way they grow: Papillary tumors look like warts and are attached to a stalk., Carcinoma in situ tumors are flat. They are much less common. But they are more  invasive  and have a worse outcome.,  The exact cause of bladder cancer is not known. But several things that may make you more likely to develop it include: Cigarette smoking -- Smoking greatly increases the risk of developing bladder cancer. Up to half of all bladder cancers may be caused by cigarette smoke., Personal or family history of bladder cancer -- Having someone in the family with bladder cancer increases your risk of developing it., Chemical exposure at work -- Bladder cancer can be caused by coming into contact with cancer-causing chemicals at work. These chemicals are called carcinogens. Dye workers, rubber workers, aluminum workers, leather workers, truck drivers, and pesticide applicators are at the highest risk., Chemotherapy -- The chemotherapy drug cyclophosphamide may increase the risk for bladder cancer., Radiation treatment -- Radiation therapy to the pelvis region for treatment of cancers of the prostate, testes, cervix, or uterus increases the risk of developing bladder cancer.,  Bladder infection  -- A long-term (chronic) bladder infection or irritation may lead to a certain type of bladder cancer.,  Research has not shown clear evidence that using artificial sweeteners leads to bladder cancer.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000465-3" qtype="symptoms">What are the symptoms of Bladder cancer ?</Question>
+			<Answer>Symptoms of bladder cancer can include: Abdominal pain ,  Blood in the urine ,  Bone pain or tenderness  if the cancer spreads to the bone, Fatigue,  Painful urination ,  Urinary frequency and urgency ,  Urine leakage (incontinence) ,  Weight loss ,  Other diseases and conditions can cause similar symptoms. It is important to see your health care provider to rule out all other possible causes.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000465-4" qtype="exams and tests">How to diagnose Bladder cancer ?</Question>
+			<Answer>The provider will perform a  physical examination , including a rectal and pelvic exam. Tests that may be done include: Abdominal and pelvic CT scan , 
+ Abdominal MRI scan,  Cystoscopy  (examining the inside of the bladder with a camera), with biopsy,  Intravenous pyelogram - IVP ,  Urinalysis ,  Urine cytology ,  If tests confirm you have bladder cancer, additional tests will be done to see if the cancer has spread. This is called staging. Staging helps guide future treatment and follow-up and gives you some idea of what to expect in the future. The TNM (tumor, nodes, metastasis) staging system is used to stage bladder cancer: Ta -- The cancer is in the lining of the bladder only and has not spread., T1 -- The cancer goes through the bladder lining, but does not reach the bladder muscle., T2 -- The cancer spreads to the bladder muscle., T3 -- The cancer spreads past the bladder into the fatty tissue surrounding it., T4 -- The cancer has spread to nearby structures such as the prostate gland, uterus, vagina, rectum, abdominal wall, or pelvic wall.,  Tumors are also grouped based on how they appear under a microscope. This is called grading the tumor. A high-grade tumor is fast growing and more likely to spread. Bladder cancer can spread into nearby areas, including the: 
+ Lymph nodes in the pelvis
+ , 
+ Bones
+ , 
+ Liver
+ , 
+ Lungs
+ , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000465-5" qtype="treatment">What are the treatments for Bladder cancer ?</Question>
+			<Answer>Treatment depends on the stage of the cancer, the severity of your symptoms, and your overall health. Stage 0 and I treatments: 
+   Surgery to remove the tumor without removing the rest of the bladder
+   ,  Chemotherapy  or immunotherapy placed directly into the bladder
+   ,  Immunotherapy  given intravenously with pembrolizumab (Keytruda) if the cancer continues to return after the above measures,  Stage II and III treatments: 
+   Surgery to remove the entire bladder (radical cystectomy) and nearby lymph nodes, Surgery to remove only part of the bladder, followed by radiation and chemotherapy, Chemotherapy to shrink the tumor before surgery or after surgery to reduce the risk of cancer from coming back, A combination of chemotherapy and radiation (in people who choose not to have surgery or who cannot have surgery),  Most people with stage IV tumors cannot be cured and surgery is not appropriate. In these people, chemotherapy is often considered. CHEMOTHERAPY Chemotherapy may be given to people with stage II and III disease either before or after surgery to help prevent the tumor from returning. For early disease (stages 0 and I), chemotherapy is usually given directly into the bladder. IMMUNOTHERAPY Bladder cancers are often treated with immunotherapy. In this treatment, a medicine triggers your immune system to attack and kill the cancer cells. Immunotherapy for early stage bladder cancer is often performed using the Bacille Calmette-Guerin vaccine (commonly known as BCG). If the cancer returns after the use of BCG, newer agents may be used. As with all treatments, side effects are possible. Ask your provider what side effects you might expect, and what to do if they occur. SURGERY Surgery for bladder cancer includes: Transurethral resection of the bladder (TURB) -- Cancerous bladder tissue is removed through the urethra., Partial or complete removal of the bladder -- Many people with stage II or III bladder cancer may need to have their bladder removed (radical cystectomy). Sometimes, only part of the bladder is removed. Chemotherapy may be given before or after this surgery. ,  Surgery may also be done to help your body drain urine after the bladder is removed. This may include: Ileal conduit -- A small urine reservoir is surgically created from a short piece of your small intestine. The ureters that drain urine from the kidneys are attached to one end of this piece. The other end is brought out through an opening in the skin (a stoma). The stoma allows the person to drain the collected urine out of the reservoir., Continent urinary reservoir -- A pouch to collect urine is created inside your body using a piece of your intestine. You will need to insert a tube into an opening in your skin (stoma) into this pouch to drain the urine., Orthotopic neobladder -- This surgery is becoming more common in people who have had their bladder removed. A part of your bowel is folded over to make a pouch that collects urine. It is attached to the place in the body where the urine normally empties from the bladder. This procedure allows you to maintain some normal urinary control. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000465-6" qtype="support groups">Where to find support for people with Bladder cancer ?</Question>
+			<Answer>You can ease the stress of illness by joining a  cancer support group . Sharing with others who have common experiences and problems can help you not feel alone.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000465-7" qtype="outlook">What is the outlook for Bladder cancer ?</Question>
+			<Answer>After treatment for bladder cancer, you will be closely monitored by a doctor. This may include: CT scans to check for the spread or return of cancer, Monitoring symptoms that might suggest the disease is getting worse, such as fatigue, weight loss, increased pain, decreased bowel and bladder function, and weakness, 
+   Complete blood count (CBC) to monitor for anemia
+   , 
+   Bladder exams every 3 to 6 months after treatment
+   , 
+   Urinalysis if you did not have your bladder removed
+   ,  How well a person with bladder cancer does depends on the initial stage and response to treatment of the bladder cancer. The outlook for stage 0 or I cancers is fairly good. Although the risk for the cancer returning is high, most bladder cancers that return can be surgically removed and cured. The cure rates for people with stage III tumors are less than 50%. People with stage IV bladder cancer are rarely cured.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000465-8" qtype="complications">What are the complications of Bladder cancer ?</Question>
+			<Answer>Bladder cancers may spread into the nearby organs. They may also travel through the pelvic lymph nodes and spread to the liver, lungs, and bones. Additional complications of bladder cancer include: Anemia , Swelling of the ureters ( hydronephrosis ),  Urethral stricture , Urinary incontinence ,  Erectile dysfunction in men ,  Sexual dysfunction in women , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000465-9" qtype="when to contact a medical professional">Do I need to see a doctor for Bladder cancer ?</Question>
+			<Answer>Contact your provider if you have blood in your urine or other symptoms of bladder cancer, including: Frequent urination, Painful urination, Urgent need to urinate , </Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0000465-10" qtype="prevention">How to prevent Bladder cancer ?</Question>
+			<Answer>If you smoke, quit. Smoking can increase your risk for bladder cancer. Avoid exposure to chemicals linked to bladder cancer.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

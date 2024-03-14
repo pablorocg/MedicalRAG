@@ -1,0 +1,46 @@
+<Document id="0001213" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002629.htm">
+ 
+<Focus>Diazepam overdose</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0572995</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Aliseum overdose</Synonym>
+		<Synonym>Alupram overdose</Synonym>
+		<Synonym>Atensine overdose</Synonym>
+		<Synonym>Valium overdose</Synonym>
+		<Synonym>Valrelease overdose</Synonym>
+		<Synonym>Vatran overdose</Synonym>
+		<Synonym>Vivol overdose</Synonym>
+		<Synonym>Zeltran overdose</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001213-1" qtype="information">What is (are) Diazepam overdose ?</Question>
+			<Answer>Diazepam is a prescription medicine used to treat anxiety disorders. It is in a class of medicines called benzodiazepines. Diazepam overdose occurs when someone takes more than the normal or recommended amount of this medicine. This can be by accident or on purpose. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with has an  overdose , call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001213-4" qtype="symptoms">What are the symptoms of Diazepam overdose ?</Question>
+			<Answer>The most common symptom of a diazepam overdose is falling into a deep sleep or "coma" while still being able to breathe well enough. Other symptoms may include: Bluish-colored lips and fingernails ,  Vision problems  (blurred vision, double vision), Breathing is slow,  labored , or stopped, Confusion,  Depression ,  Dizziness ,  Drowsiness , lack of alertness, Excitability,  Hiccups , Rapid side-to-side movement of the eyes,  Rash ,  
+ Stomach upset 
+ ,  Tiredness ,  Tremor ,  Weakness ,  uncoordinated movement , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001213-7" qtype="outlook">What is the outlook for Diazepam overdose ?</Question>
+			<Answer>Recovery from a diazepam overdose is very likely. Complications such as pneumonia, muscle damage from lying on a hard surface for a long period of time, or brain damage from lack of oxygen may result in permanent disability. People who inject large amounts of this medicine through a vein (intravenously or IV) have a worse outcome than those who swallow too many pills.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001213-8" qtype="outlook">What is the outlook for Diazepam overdose ?</Question>
+			<Answer>Recovery from a diazepam overdose is very likely. Complications such as pneumonia, muscle damage from lying on a hard surface for a long period of time, or brain damage from lack of oxygen may result in permanent disability. People who inject large amounts of this medicine through a vein (intravenously or IV) have a worse outcome than those who swallow too many pills.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

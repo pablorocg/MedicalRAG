@@ -1,0 +1,59 @@
+<Document id="0004232" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000633.htm">
+ 
+<Focus>Visceral larva migrans</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023049</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Toxocariasis</Synonym>
+		<Synonym>Ocular larva migrans</Synonym>
+		<Synonym>Larva migrans visceralis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004232-1" qtype="information">What is (are) Visceral larva migrans ?</Question>
+			<Answer>Visceral larva migrans (VLM) is a human infection with certain parasites found in the intestines of dogs and cats.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004232-2" qtype="causes">What causes Visceral larva migrans ?</Question>
+			<Answer>VLM is caused by roundworms (parasites) that are found in the intestines of dogs and cats. Eggs produced by these worms are in the feces of the infected animals. The feces mix with soil. Humans can get sick if they accidentally eat soil that has the eggs in it. This can happen by eating fruit or vegetables that were in contact with infected soil and were not washed thoroughly before eating. People can also become infected by eating raw liver from a chicken, lamb, or cow. Young children or people with  pica  are at high risk for getting VLM. Pica is a disorder involving eating inedible things such as dirt and paint. Most infections in the United States occur in children who play in areas such as sandboxes, which contain soil contaminated by dog or cat feces. After the worm eggs are swallowed, they break open in the intestine. The worms travel throughout the body to various organs, such as the lungs, liver, and eyes. They may also travel to the brain and heart.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004232-3" qtype="symptoms">What are the symptoms of Visceral larva migrans ?</Question>
+			<Answer>Mild infections may not cause symptoms. Serious infections may cause these symptoms: Abdominal pain ,  Cough ,  wheezing , Fever, Irritability, Itchy skin (hives),  Shortness of breath ,  If the eyes are infected, loss of vision and crossed eyes can occur.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004232-4" qtype="exams and tests">How to diagnose Visceral larva migrans ?</Question>
+			<Answer>People with VLM usually seek medical care if they have a cough, fever, wheezing, and other symptoms. They may also have a swollen liver because it is the organ most affected. The health care provider will perform a physical exam and ask about the symptoms. If VLM is suspected, tests that may be done include: Complete blood count , Blood tests to detect antibodies to Toxocara, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004232-5" qtype="treatment">What are the treatments for Visceral larva migrans ?</Question>
+			<Answer>This infection usually goes away on its own and may not require treatment. Some people with a moderate to severe infection need to take anti-parasitic drugs.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004232-6" qtype="outlook">What is the outlook for Visceral larva migrans ?</Question>
+			<Answer>Severe infections involving the brain or heart can result in death, but this is rare.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004232-7" qtype="complications">What are the complications of Visceral larva migrans ?</Question>
+			<Answer>These complications may occur from the infection: Blindness, Worsened eyesight, Encephalitis (infection of the brain), Heart rhythm problems, Difficulty breathing , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004232-8" qtype="when to contact a medical professional">Do I need to see a doctor for Visceral larva migrans ?</Question>
+			<Answer>Contact your provider if you develop any of these symptoms: Cough, Difficulty breathing, Eye problems, Fever, Rash,  A full medical exam is needed to rule out VLM. Many conditions cause similar symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0004232-9" qtype="prevention">How to prevent Visceral larva migrans ?</Question>
+			<Answer>Prevention includes deworming dogs and cats and preventing them from defecating in public areas. Children should be kept away from areas where dogs and cats may defecate.  It is very important to wash your hands thoroughly after touching soil or after touching cats or dogs. Teach your children to wash their hands thoroughly after being outdoors or after touching cats or dogs. DO NOT eat raw liver from a chicken, lamb, or cow.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

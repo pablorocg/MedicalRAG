@@ -1,0 +1,63 @@
+<Document id="0001314" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001064.htm">
+ 
+<Focus>Ear barotrauma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0849809</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Barotitis media</Synonym>
+		<Synonym>Barotrauma</Synonym>
+		<Synonym>Ear popping</Synonym>
+		<Synonym>Pressure-related ear pain</Synonym>
+		<Synonym>Eustachian tube dysfunction</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001314-1" qtype="information">What is (are) Ear barotrauma ?</Question>
+			<Answer>Ear barotrauma causes discomfort in the ear due to pressure differences between the inside and outside of the eardrum. It may include damage to the ear. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001314-2" qtype="causes">What causes Ear barotrauma ?</Question>
+			<Answer>The air pressure in the middle ear is most often the same as the air pressure outside of the body. The eustachian tube is a connection between the middle ear and the back of the nose and upper throat. Swallowing or yawning opens the eustachian tube and allows air to flow into or out of the middle ear. This helps equalize pressure on either side of the ear drum. If the eustachian tube is blocked, the air pressure in the middle ear is different than the pressure on the outside of the eardrum. This can cause barotrauma. Many people have barotrauma at some time. The problem often occurs with altitude changes, such as flying, scuba diving, or driving in the mountains. If you have a congested nose from allergies, colds, or an upper respiratory infection, you are more likely to develop barotrauma. Blockage of the eustachian tube could also be present before birth (congenital). It may also be caused by swelling in the throat.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001314-3" qtype="symptoms">What are the symptoms of Ear barotrauma ?</Question>
+			<Answer>Common symptoms include: Dizziness,  Ear discomfort  or pain in one or both ears,  Hearing loss  (slight), Sensation of fullness or stuffiness in the ears ,  Other symptoms may develop if the condition is very bad or goes on for a long time, such as:  Ear pain, Feeling of pressure in the ears (as if underwater), Moderate to severe hearing loss, Nosebleed , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001314-4" qtype="exams and tests">How to diagnose Ear barotrauma ?</Question>
+			<Answer>During an exam of the ear, the health care provider may see a slight outward bulge or inward pull of the eardrum. If the condition is severe, there may be blood or bruising behind the eardrum. Severe barotrauma may cause the eardrum to look similar to an  ear infection .</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001314-5" qtype="treatment">What are the treatments for Ear barotrauma ?</Question>
+			<Answer>To relieve ear pain or discomfort, you can take steps to open the eustachian tube and relieve the pressure, such as:  Chew gum, Inhale, and then gently exhale while holding the nostrils closed and the mouth shut, Suck on candy, Yawn ,  When flying, DO NOT sleep as the plane prepares to land. Repeat the listed steps to open the eustachian tube. For infants and small children, nursing or taking sips of a drink may help. Scuba divers should go down and come up slowly. Diving while you have allergies or a respiratory infection is dangerous. Barotrauma may be severe in these situations. If self-care steps do not ease discomfort within a few hours or the problem is severe, you may need to see a provider.  You may need medicine to relieve nasal congestion and allow the eustachian tube to open. These include: Decongestants taken by mouth, or by a nose spray, Steroids taken by mouth, or by a nose spray,  You may need antibiotics to prevent or treat an ear infection if barotrauma is severe. Rarely, surgery may be needed if other treatments do not work to open the tube. In this procedure, a surgical cut is made in the eardrum to allow pressure to become equal and fluid to drain ( myringotomy ).  If you must change altitude often or you are prone to barotrauma, you may need to have surgery to place tubes in the ear drum. This is not an option for scuba diving.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001314-6" qtype="outlook">What is the outlook for Ear barotrauma ?</Question>
+			<Answer>Barotrauma is usually a  benign , self-limited condition that responds to self-care. Hearing loss is almost always temporary.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001314-7" qtype="complications">What are the complications of Ear barotrauma ?</Question>
+			<Answer>Complications may include: Acute ear infection , Hearing loss,  Ruptured or perforated eardrum , Vertigo, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001314-8" qtype="when to contact a medical professional">Do I need to see a doctor for Ear barotrauma ?</Question>
+			<Answer>Try home care measures first. Contact your provider if the discomfort does not ease after a few hours.  Contact your provider if you have barotrauma and new symptoms develop, especially: Drainage or bleeding from the ear ,  Fever , 
+  Severe ear pain
+  , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001314-9" qtype="prevention">How to prevent Ear barotrauma ?</Question>
+			<Answer>You can use nasal decongestants (spray or pill form) before altitude changes. Try to avoid altitude changes while you have an upper respiratory infection or active allergy symptoms. Talk to your provider about using decongestants if you plan to scuba dive.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

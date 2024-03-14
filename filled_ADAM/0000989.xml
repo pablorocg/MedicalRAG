@@ -1,0 +1,17 @@
+<Document id="0000989" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003008.htm">
+ 
+<Focus>Corneal transplant</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Keratoplasty</Synonym>
+		<Synonym>Penetrating keratoplasty</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000989-1" qtype="information">Do you have information about Corneal transplant</Question>
+			<Answer>The cornea is the clear outer lens on the front of the eye. A corneal transplant is surgery to replace the cornea with tissue from a donor. It is one of the most common transplants done.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

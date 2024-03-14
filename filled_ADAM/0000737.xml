@@ -1,0 +1,53 @@
+<Document id="0000737" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000779.htm">
+ 
+<Focus>Cerebral arteriovenous malformation</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0917804</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AVM - cerebral</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000737-1" qtype="information">What is (are) Cerebral arteriovenous malformation ?</Question>
+			<Answer>A cerebral arteriovenous malformation (AVM) is an abnormal connection between the arteries and veins in the brain that usually forms before birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000737-2" qtype="causes">What causes Cerebral arteriovenous malformation ?</Question>
+			<Answer>The exact cause of cerebral AVM is unknown, however growing evidence suggests a genetic cause. An AVM occurs when arteries in the brain connect directly to nearby veins without having the normal small vessels (capillaries) between them. AVMs vary in size and location in the brain. An AVM rupture occurs because of pressure and damage to the blood vessel. This allows blood to leak (hemorrhage) into the brain or surrounding tissues and reduces blood flow to the brain. Cerebral AVMs are rare. Although the condition is present at birth, symptoms may occur at any age. Ruptures happen most often in people ages 15 to 20. It can also occur later in life. Some people with an AVM also have  brain aneurysms .</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000737-3" qtype="symptoms">What are the symptoms of Cerebral arteriovenous malformation ?</Question>
+			<Answer>In about one half of people with AVMs, the first symptoms are those of a  stroke  caused by bleeding in the brain. Symptoms of an AVM that is bleeding are: Confusion,  Ear noise/buzzing  (also called pulsatile tinnitus),  Headache  in one or more parts of the head, may seem like a migraine, Problems walking,  Seizures ,  Symptoms due to pressure on one area of the brain include: Vision problems , Dizziness,  Muscle weakness  in an area of the body or face, Numbness in an area of the body , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000737-4" qtype="exams and tests">How to diagnose Cerebral arteriovenous malformation ?</Question>
+			<Answer>Your health care provider will perform a physical examination. You'll be asked about your symptoms, with a focus on your nervous system problems. Tests that may be used to diagnose an AVM include: Brain angiogram ,  Computed tomography (CT) angiogram ,  Head MRI , Electroencephalogram ( EEG ),  Head CT scan , Magnetic resonance angiography ( MRA ), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000737-5" qtype="treatment">What are the treatments for Cerebral arteriovenous malformation ?</Question>
+			<Answer>Determining the best treatment for an AVM that is found on an imaging test, but is not causing any symptoms, can be difficult. Your provider will discuss with you: The risk that your AVM will break open (rupture). If this happens, there may be permanent brain damage., The risk for any brain damage if you have one of the surgeries listed below.,  Your provider may discuss different factors that may increase your risk for bleeding, including: Current or planned pregnancies, What the AVM looks like on imaging tests, Size of the AVM, Your age, Your symptoms,  A bleeding AVM is a medical emergency. The goal of treatment is to prevent further complications by controlling the bleeding and seizures and, if possible, removing the AVM. Three surgical treatments are available. Some treatments are used together. Open brain surgery removes the abnormal connection. The surgery is done through an opening made in the skull. Embolization ( endovascular treatment ): A catheter is guided through a small cut in your groin. It enters an artery and then into the small blood vessels in your brain where the aneurysm is located., A glue-like substance is injected into the abnormal vessels. This stops the blood flow in the AVM and reduces the risk of bleeding. This may be the first choice for some kinds of AVMs, or if surgery can't be done. ,  Stereotactic radiosurgery : Radiation is aimed directly on the area of the AVM.&#160;This causes scarring and shrinkage of the AVM and reduces the risk of bleeding., It is particularly useful for small AVMs deep in the brain that are difficult to remove by surgery. ,  Medicines to stop seizures are prescribed if needed.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000737-6" qtype="outlook">What is the outlook for Cerebral arteriovenous malformation ?</Question>
+			<Answer>Some people, whose first symptom is excessive brain bleeding, will die. Others may have permanent seizures and brain and nervous system problems. AVMs that do not cause symptoms by the time people reach their late 40s or early 50s are more likely to remain stable, and&#160;in rare cases, cause symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000737-7" qtype="complications">What are the complications of Cerebral arteriovenous malformation ?</Question>
+			<Answer>Complications may include: Brain damage, Intracerebral hemorrhage, Language difficulties,  Numbness  of any part of the face or body, Persistent headache, Seizures,  Subarachnoid hemorrhage , Vision changes, Water on the brain ( hydrocephalus ), Weakness in part of the body ,  Possible complications of open brain surgery include: Brain swelling, Hemorrhage, Seizure, Stroke , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000737-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cerebral arteriovenous malformation ?</Question>
+			<Answer>Go to the emergency room or call 911 or the local emergency number if you have: Numbness in parts of the body, Seizures, Severe headache, Vomiting, Weakness, Other symptoms of a ruptured AVM ,  Also seek medical attention right away if you have a first-time seizure, because AVM may be the cause of seizures.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

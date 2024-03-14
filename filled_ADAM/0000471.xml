@@ -1,0 +1,56 @@
+<Document id="0000471" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000045.htm">
+ 
+<Focus>Bleeding</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019080</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Blood loss</Synonym>
+		<Synonym>Open injury bleeding</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000471-1" qtype="information">What is (are) Bleeding ?</Question>
+			<Answer>Bleeding is the loss of blood. Bleeding may be: Inside the body (internal), Outside the body (external),  Bleeding may occur: Inside the body when blood leaks from blood vessels or organs, Outside the body when blood flows through a natural opening (such as the ear, nose, mouth, vagina, or rectum), Outside the body when blood moves through a break in the skin, </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000471-2" qtype="considerations">What to do for Bleeding ?</Question>
+			<Answer>Get emergency medical help for severe bleeding. This is very important if you think there is internal bleeding. Internal bleeding can very quickly become life threatening. Immediate medical care is needed. Serious injuries may cause heavy bleeding. Sometimes, minor injuries can bleed a lot. An example is a scalp wound.  You may bleed a lot if you take blood-thinning medicine or have a  bleeding disorder  such as  hemophilia . Bleeding in such people requires medical attention right away. The most important step for external bleeding is to apply direct pressure. This will likely stop most external bleeding. Always wash your hands before (if possible) and after giving first aid to someone who is bleeding. This helps prevent infection. Try to use latex gloves when treating someone who is bleeding. Latex gloves should be in every first aid kit. People allergic to latex can use nonlatex gloves. You can catch infections, such as viral hepatitis or HIV/AIDS, if you touch infected blood and it gets into an open wound, even a small one. Although puncture wounds usually don't bleed very much, they carry a higher risk for infection. Seek medical care to prevent  tetanus  or other infection. Abdominal, pelvic, groin, neck, and chest wounds can be very serious because of the possibility of severe internal bleeding. They may not look very serious, but can result in  shock  and death.  Seek medical care right away for any abdominal, pelvic, groin, neck, or chest wound., If organs are showing through the wound, do not try to push them back into place., Cover the injury with a moist cloth or bandage., Apply gentle pressure to stop the bleeding in these areas. ,  Blood loss can cause blood to collect under the skin, turning it black and blue (bruised). Apply a cool compress to the area as soon as possible to reduce  swelling . Do not place ice directly on the skin. Wrap the ice in a towel first.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000471-3" qtype="causes">What causes Bleeding ?</Question>
+			<Answer>Bleeding can be caused by injuries, or it can be spontaneous. Spontaneous bleeding most commonly occurs with problems in the joints, or gastrointestinal or urogenital tracts.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000471-4" qtype="symptoms">What are the symptoms of Bleeding ?</Question>
+			<Answer>You may have symptoms such as: Blood coming from an  open wound ,  Bruising ,  Bleeding can also cause shock, which may include any of the following symptoms: Confusion  or decreasing alertness,  Clammy skin ,  Dizziness  or  light headedness  after an injury, Low blood pressure,  Paleness  (pallor),  Rapid pulse  (increased heart rate), Shortness of breath,  Weakness ,  Symptoms of internal bleeding may include those listed above for shock as well as the following: Abdominal pain  and swelling, Chest pain, Skin color changes,  Blood coming from a natural opening in the body may also be a sign of internal bleeding. These symptoms include: Blood in the stool  (appears black, maroon, or bright red),  Blood in the urine  (appears red, pink, or tea-colored),  Blood in the vomit  (looks bright red, or brown like coffee-grounds),  Vaginal bleeding  (heavier than usual or after menopause), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000471-5" qtype="considerations">What to do for Bleeding ?</Question>
+			<Answer>Get emergency medical help for severe bleeding. This is very important if you think there is internal bleeding. Internal bleeding can very quickly become life threatening. Immediate medical care is needed. Serious injuries may cause heavy bleeding. Sometimes, minor injuries can bleed a lot. An example is a scalp wound.  You may bleed a lot if you take blood-thinning medicine or have a  bleeding disorder  such as  hemophilia . Bleeding in such people requires medical attention right away. The most important step for external bleeding is to apply direct pressure. This will likely stop most external bleeding. Always wash your hands before (if possible) and after giving first aid to someone who is bleeding. This helps prevent infection. Try to use latex gloves when treating someone who is bleeding. Latex gloves should be in every first aid kit. People allergic to latex can use nonlatex gloves. You can catch infections, such as viral hepatitis or HIV/AIDS, if you touch infected blood and it gets into an open wound, even a small one. Although puncture wounds usually don't bleed very much, they carry a higher risk for infection. Seek medical care to prevent  tetanus  or other infection. Abdominal, pelvic, groin, neck, and chest wounds can be very serious because of the possibility of severe internal bleeding. They may not look very serious, but can result in  shock  and death.  Seek medical care right away for any abdominal, pelvic, groin, neck, or chest wound., If organs are showing through the wound, do not try to push them back into place., Cover the injury with a moist cloth or bandage., Apply gentle pressure to stop the bleeding in these areas. ,  Blood loss can cause blood to collect under the skin, turning it black and blue (bruised). Apply a cool compress to the area as soon as possible to reduce  swelling . Do not place ice directly on the skin. Wrap the ice in a towel first.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000471-6" qtype="considerations">What to do for Bleeding ?</Question>
+			<Answer>Get emergency medical help for severe bleeding. This is very important if you think there is internal bleeding. Internal bleeding can very quickly become life threatening. Immediate medical care is needed. Serious injuries may cause heavy bleeding. Sometimes, minor injuries can bleed a lot. An example is a scalp wound.  You may bleed a lot if you take blood-thinning medicine or have a  bleeding disorder  such as  hemophilia . Bleeding in such people requires medical attention right away. The most important step for external bleeding is to apply direct pressure. This will likely stop most external bleeding. Always wash your hands before (if possible) and after giving first aid to someone who is bleeding. This helps prevent infection. Try to use latex gloves when treating someone who is bleeding. Latex gloves should be in every first aid kit. People allergic to latex can use nonlatex gloves. You can catch infections, such as viral hepatitis or HIV/AIDS, if you touch infected blood and it gets into an open wound, even a small one. Although puncture wounds usually don't bleed very much, they carry a higher risk for infection. Seek medical care to prevent  tetanus  or other infection. Abdominal, pelvic, groin, neck, and chest wounds can be very serious because of the possibility of severe internal bleeding. They may not look very serious, but can result in  shock  and death.  Seek medical care right away for any abdominal, pelvic, groin, neck, or chest wound., If organs are showing through the wound, do not try to push them back into place., Cover the injury with a moist cloth or bandage., Apply gentle pressure to stop the bleeding in these areas. ,  Blood loss can cause blood to collect under the skin, turning it black and blue (bruised). Apply a cool compress to the area as soon as possible to reduce  swelling . Do not place ice directly on the skin. Wrap the ice in a towel first.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000471-7" qtype="when to contact a medical professional">Do I need to see a doctor for Bleeding ?</Question>
+			<Answer>Seek medical help right away if: 
+   Bleeding can't be controlled, it required the use of a tourniquet, or it was caused by a serious injury.
+   , The wound might need stitches., Gravel or dirt can't be removed easily with gentle cleaning., You think there may be internal bleeding or shock., Signs of infection develop, including increased pain, redness, swelling, yellow or brown fluid,  swollen lymph nodes , fever, or red streaks spreading from the site toward the heart., The injury was due to an animal or human bite., The person has not had a tetanus shot in the last 5 to 10 years., </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000471-8" qtype="prevention">How to prevent Bleeding ?</Question>
+			<Answer>Use good judgment and keep knives and sharp objects away from small children. Stay up-to-date on  vaccinations .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

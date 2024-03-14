@@ -1,0 +1,63 @@
+<Document id="0003407" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001600.htm">
+ 
+<Focus>Rh incompatibility</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1504421</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Rh-induced hemolytic disease of the newborn</Synonym>
+		<Synonym>Erythroblastosis fetalis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003407-1" qtype="information">What is (are) Rh incompatibility ?</Question>
+			<Answer>Rh incompatibility is a condition that develops when a pregnant woman has Rh-negative blood and the baby in her womb has Rh-positive blood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003407-2" qtype="causes">What causes Rh incompatibility ?</Question>
+			<Answer>During pregnancy, red blood cells from the unborn baby can cross into the mother's blood through the placenta. If the mother is Rh-negative, her immune system treats Rh-positive fetal cells as if they were a foreign substance. The mother's body makes  antibodies  against the fetal blood cells. These antibodies may cross back through the placenta into the developing baby. They destroy the baby's circulating red blood cells. When red blood cells are broken down, they make  bilirubin . This causes an infant to become yellow (jaundiced). The level of bilirubin in the infant's blood may range from mild to dangerously high. Firstborn infants are often not affected unless the mother had past miscarriages or abortions. This would sensitize her immune system. This is because it takes time for the mother to develop antibodies. All children she has later who are also Rh-positive may be affected. Rh incompatibility develops only when the mother is Rh-negative and the infant is Rh-positive. This problem has become less common in places that provide good prenatal care. This is because special immune globulins called RhoGAM are routinely used. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003407-3" qtype="symptoms">What are the symptoms of Rh incompatibility ?</Question>
+			<Answer>Rh incompatibility can cause symptoms ranging from very mild to deadly. In its mildest form, Rh incompatibility causes the destruction of red blood cells. There are no other effects. After birth, the infant may have: Yellowing of the skin and whites of the eyes (jaundice),  Low muscle tone  (hypotonia) and lethargy , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003407-4" qtype="exams and tests">How to diagnose Rh incompatibility ?</Question>
+			<Answer>Before delivery, the mother may have more amniotic fluid around her unborn baby ( polyhydramnios ). There may be: 
+A positive  direct Coombs  test result  , 
+Higher-than-normal levels of bilirubin in the baby's umbilical cord blood
+  , 
+Signs of red blood cell destruction in the infant's blood
+  , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003407-5" qtype="treatment">What are the treatments for Rh incompatibility ?</Question>
+			<Answer>Rh incompatibility can be prevented with the use of RhoGAM. Therefore, prevention remains the best treatment. Treatment of an infant who is already affected depends on the severity of the condition. Infants with mild Rh incompatibility may be treated with phototherapy using  bilirubin lights . IV immune globulin may also be used. For infants severely affected, an exchange transfusion of blood may be needed. This is to decrease the levels of bilirubin in the blood. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003407-6" qtype="outlook">What is the outlook for Rh incompatibility ?</Question>
+			<Answer>Full recovery is expected for mild Rh incompatibility.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003407-7" qtype="complications">What are the complications of Rh incompatibility ?</Question>
+			<Answer>Complications may include: Brain damage due to high levels of bilirubin (kernicterus), Fluid buildup and swelling in the baby (hydrops fetalis), Problems with mental function, movement, hearing, speech, and seizures , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003407-8" qtype="when to contact a medical professional">Do I need to see a doctor for Rh incompatibility ?</Question>
+			<Answer>Contact your health care provider if you think or know you are pregnant and have not yet seen a provider.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003407-9" qtype="prevention">How to prevent Rh incompatibility ?</Question>
+			<Answer>Rh incompatibility is almost completely preventable. Rh-negative mothers should be followed closely by their providers during pregnancy. Special immune globulins, called RhoGAM, are now used to prevent RH incompatibility in mothers who are Rh-negative. If the father of the infant is Rh-positive or if his blood type is not known, the mother is given an injection of RhoGAM during the second trimester. If the baby is Rh-positive, the mother will get a second injection within a few days after delivery. These injections prevent the development of antibodies against Rh-positive blood. However, women with Rh-negative blood type must get injections: During every pregnancy, After a miscarriage or abortion, After prenatal tests such as amniocentesis and chorionic villus biopsy, After injury to the abdomen during pregnancy, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

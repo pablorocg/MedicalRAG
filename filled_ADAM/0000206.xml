@@ -1,0 +1,29 @@
+<Document id="0000206" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000689.htm">
+ 
+<Focus>Anal itching - self-care</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0033775</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pruritus ani - self-care</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000206-1" qtype="information">What is (are) Anal itching - self-care ?</Question>
+			<Answer>Anal itching occurs when the skin around your anus becomes irritated. You may feel intense itching around and just inside the anus.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000206-2" qtype="causes">What causes Anal itching - self-care ?</Question>
+			<Answer>Anal itching may be caused by: Spicy foods, caffeine, alcohol, and other irritating foods and beverages, Scents or dyes in toilet paper or soap, Diarrhea,  Hemorrhoids , which are swollen veins in or around your anus, Sexually transmitted infections (STIs), Taking antibiotics, Yeast infections, Parasites, such as  pinworms , which more commonly occur in children , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

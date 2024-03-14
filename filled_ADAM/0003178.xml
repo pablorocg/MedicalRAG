@@ -1,0 +1,49 @@
+<Document id="0003178" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001268.htm">
+ 
+<Focus>Potter syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1609433</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Potter phenotype</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003178-1" qtype="information">What is (are) Potter syndrome ?</Question>
+			<Answer>Potter syndrome and Potter phenotype refers to a group of findings associated with a lack of  amniotic fluid  and  kidney failure  in an unborn infant. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003178-2" qtype="causes">What causes Potter syndrome ?</Question>
+			<Answer>In Potter syndrome, the primary problem is kidney failure. The kidneys fail to develop properly as the baby is growing in the womb. The kidneys normally produce the amniotic fluid (as urine) that surrounds the unborn baby. Potter phenotype refers to a typical facial appearance that occurs in a newborn when there is no amniotic fluid. The lack of amniotic fluid is called oligohydramnios. Without amniotic fluid, the infant is not cushioned from the walls of the uterus. The pressure of the uterine wall leads to an unusual facial appearance, including widely separated eyes. Potter phenotype may also lead to abnormal limbs, or limbs that are held in abnormal positions or  contractures . Oligohydramnios also stops development of the lungs, so the lungs do not work properly at birth. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003178-3" qtype="symptoms">What are the symptoms of Potter syndrome ?</Question>
+			<Answer>Symptoms include: Widely separated eyes with  epicanthal folds ,  broad nasal bridge ,  low set ears , and  receding chin , Absence of urine output, Difficulty breathing, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003178-4" qtype="exams and tests">How to diagnose Potter syndrome ?</Question>
+			<Answer>A pregnancy  ultrasound  may show lack of amniotic fluid, absence of fetal kidneys, or severely abnormal kidneys in the unborn baby. The following tests may be used to help diagnose the condition in a newborn: X-ray of the abdomen ,  X-ray of the lungs , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003178-5" qtype="treatment">What are the treatments for Potter syndrome ?</Question>
+			<Answer>Resuscitation at delivery may be attempted pending the diagnosis. Treatment will be provided for any urinary outlet obstruction.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003178-6" qtype="outlook">What is the outlook for Potter syndrome ?</Question>
+			<Answer>This is a very serious condition. Most of the time it is deadly. The short-term outcome depends on the severity of lung involvement. Long-term outcome depends on the severity of kidney involvement.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003178-7" qtype="prevention">How to prevent Potter syndrome ?</Question>
+			<Answer>There is no known prevention.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

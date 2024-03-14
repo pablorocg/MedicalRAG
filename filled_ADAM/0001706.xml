@@ -1,0 +1,13 @@
+<Document id="0001706" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000510.htm">
+ 
+<Focus>Genetic counseling</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001706-1" qtype="information">Do you have information about Genetic counseling</Question>
+			<Answer>Genetics is the study of heredity, the process of a parent passing certain genes on to their children. A person's appearance, such as height, hair color, skin color, and eye color, is determined by genes., Birth defects and certain diseases are also often determined by genes., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

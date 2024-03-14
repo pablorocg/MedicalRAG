@@ -1,0 +1,58 @@
+<Document id="0003880" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000797.htm">
+ 
+<Focus>Tension headache</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0033893</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Tension-type headache</Synonym>
+		<Synonym>Muscle contraction headache</Synonym>
+		<Synonym>Headache - benign</Synonym>
+		<Synonym>Headache - tension</Synonym>
+		<Synonym>Chronic headaches - tension</Synonym>
+		<Synonym>Rebound headaches - tension</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003880-1" qtype="information">What is (are) Tension headache ?</Question>
+			<Answer>A tension headache is the most common type of headache. It is pain or discomfort in the head, scalp, or neck, and is often associated with muscle tightness in these areas.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003880-2" qtype="causes">What causes Tension headache ?</Question>
+			<Answer>Tension headaches occur when neck and scalp muscles become tense or contract. The muscle contractions can be a response to stress, depression, head injury, or anxiety. They may occur at any age, but are most common in adults and older teens. It is slightly more common in women and tends to run in families. Any activity that causes the head to be held in one position for a long time without moving can cause a headache. Activities may include typing or other computer work, fine work with the hands, and using a microscope. Sleeping in a cold room or sleeping with the neck in an abnormal position may also trigger a tension headache. Other triggers of tension headaches include: Physical or emotional stress,  Alcohol use , Caffeine (too much or withdrawal), Colds, the flu, or a  sinus infection , Dental problems such as jaw clenching or teeth grinding, Eye strain, Excessive smoking,  Fatigue  or overexertion ,  Tension headaches can occur when you also have a migraine. Tension headaches are not associated with brain diseases.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003880-3" qtype="symptoms">What are the symptoms of Tension headache ?</Question>
+			<Answer>The headache pain may be described as: Dull, pressure-like (not throbbing), A tight band or vise on or around the head, All over (not just in one point or one side), Worse in the scalp, temples, or back of the neck, and possibly in the shoulders ,  The pain may occur once, constantly, or daily. Pain may last for 30 minutes to 7 days. It may be triggered by or get worse with stress, fatigue, noise, or glare. You may have difficulty sleeping. Tension headaches&#160;usually do not cause nausea or vomiting. People with tension headaches try to relieve pain by massaging their scalp, temples, or the bottom of the neck.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003880-4" qtype="exams and tests">How to diagnose Tension headache ?</Question>
+			<Answer>If your headache is mild to moderate, without other symptoms, and responds to home treatment within a few hours, you may not need further examination or testing.  With a tension headache, there are&#160;usually no problems with the nervous system. But tender points (trigger points) in the muscles are often found in the neck and shoulder areas.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003880-5" qtype="treatment">What are the treatments for Tension headache ?</Question>
+			<Answer>The goal is to treat your headache symptoms right away and to prevent headaches by avoiding or changing your triggers. A key step in doing this involves learning to  manage your tension headaches at home  by: Keeping a headache diary to help you identify your headache triggers so that you and your health care provider can make changes in your lifestyle to reduce the number of headaches you get, Learning what to do to relieve a headache when it starts, Learning how to take your headache medicines the correct way,  Many people can treat their tension headaches with conservative therapy, such as relaxation or stress-management training, including: Massage, Biofeedback, Cognitive behavioral feedback, Acupuncture, Ice or hot packs,  When needed, medicines that may relieve a tension headache include: Over-the-counter (OTC) pain medicines, such as aspirin, ibuprofen, or acetaminophen,  Narcotic pain relievers &#160;are generally not recommended, Muscle relaxers, Tricyclic antidepressants to prevent recurrences ,  Be aware that: Taking medicines more than 3 days a week may lead to rebound headaches. These are headaches that keep coming back due to overuse of pain medicine., Taking too much acetaminophen can damage your liver., Too much ibuprofen or aspirin can irritate your stomach or damage the kidneys.,  If these medicines do not help, talk to your provider about prescription medicines.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003880-6" qtype="outlook">What is the outlook for Tension headache ?</Question>
+			<Answer>Tension headaches often respond well to treatment. But if the headaches are long-term (chronic), they can interfere with life and work.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003880-7" qtype="when to contact a medical professional">Do I need to see a doctor for Tension headache ?</Question>
+			<Answer>Call 911 if: You are experiencing "the worst headache of your life.", You have speech, vision, or movement problems or loss of balance, especially if you have not had these symptoms with a headache before., The headache starts very suddenly., The headache occurs with repeated vomiting., You have a high fever.,  Also, contact your provider if: Your headache patterns or pain change., Treatments that once worked are no longer helpful., You have side effects from medicines, including irregular heartbeat, pale or blue skin, extreme sleepiness, persistent cough, depression, fatigue, nausea, vomiting, diarrhea, constipation, stomach pain, cramps, dry mouth, or extreme thirst., You are pregnant or could become pregnant. Some medicines should not be taken when pregnant., </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003880-8" qtype="prevention">How to prevent Tension headache ?</Question>
+			<Answer>Learn and practice  stress management . Some people find relaxation exercises or meditation helpful.  Biofeedback  may help you improve the effect of doing relaxation exercises, and may be helpful for long-term (chronic) tension headache. Tips to prevent tension headaches: Keep warm if the headache is associated with cold., Use a different pillow or change sleeping positions., Practice good posture when reading, working, or doing other activities., Exercise the neck and shoulders frequently when working on computers or doing other close work., Get plenty of sleep and rest.&#160;,  Massaging sore muscles may also help.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,54 @@
+<Document id="0000153" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001031.htm">
+ 
+<Focus>Allergic conjunctivitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0009766</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Conjunctivitis - allergic seasonal/perennial</Synonym>
+		<Synonym>Atopic keratoconjunctivitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000153-1" qtype="information">What is (are) Allergic conjunctivitis ?</Question>
+			<Answer>The conjunctiva is a clear layer of tissue lining the eyelids and covering the white of the eye. Allergic conjunctivitis occurs when the conjunctiva becomes swollen or inflamed due to a reaction to pollen, dust mites, pet dander, mold, or other allergy-causing substances.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000153-2" qtype="causes">What causes Allergic conjunctivitis ?</Question>
+			<Answer>When your eyes are exposed to allergy-causing substances, a substance called histamine is released by your body. The blood vessels in the  conjunctiva  become swollen. The eyes can become red,  itchy , and  teary  very quickly. The pollens that cause symptoms vary from person to person and from area to area. Tiny, hard-to-see pollens that may cause allergic symptoms include grasses, ragweed and trees. These same pollens may also cause hay fever. Your symptoms may be worse when there is more pollen in the air. Higher levels of pollen are more likely on hot, dry, windy days. On cool, damp, rainy days most pollen is washed to the ground. Mold, animal dander, or dust mites may cause this problem also. Allergies  tend to run in families. It is hard to know exactly how many people have allergies. Many conditions are often lumped under the term "allergy" even when they might not truly be an allergy. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000153-3" qtype="symptoms">What are the symptoms of Allergic conjunctivitis ?</Question>
+			<Answer>Symptoms may be seasonal and can include: Intense itching or  burning eyes , Puffy eyelids, most often in the morning,  Red eyes , Stringy eye discharge, Tearing (watery eyes), Widened blood vessels in the clear tissue covering the white of the eye , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000153-4" qtype="exams and tests">How to diagnose Allergic conjunctivitis ?</Question>
+			<Answer>Your health care provider may look for the following: Small, raised bumps on the inside of the eyelids (papillary conjunctivitis), Positive skin test for suspected allergens on  allergy tests ,  Allergy testing may reveal the pollen or other substances that trigger your symptoms. Skin testing is the most common method of allergy testing., Skin testing is more likely to be done if symptoms do not respond to treatment., </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000153-5" qtype="treatment">What are the treatments for Allergic conjunctivitis ?</Question>
+			<Answer>The best treatment is to  avoid what causes your allergy symptoms  as much as possible. Common triggers to avoid include dust, mold and pollen. Some things you can do to ease symptoms are: Use lubricating eye drops., Apply cool compresses to the eyes., Do not smoke and avoid secondhand smoke., Take over-the-counter oral antihistamines or antihistamine or decongestant eye drops. These medicines can offer more relief, but they can sometimes make your eyes dry. (Do not use the eye drops if you have contact lenses in place. Also, do not use the eye drops for more than 5 days, as rebound congestion can occur). ,  If home-care does not help, you may need to see a provider for treatments such as eye drops that contain antihistamines or eye drops that reduce swelling. Mild eye steroid drops can be prescribed for more severe reactions. You may also use eye drops that prevent a type of white blood cell called mast cells from causing swelling. These drops are given along with antihistamines. These medicines work best if you take them before you come in contact with the allergen. Referral to an ophthalmologist before using steroid eye drops should be done since intraocular pressure measurements and a more thorough eye exam (using a slit lamp) is needed.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000153-6" qtype="outlook">What is the outlook for Allergic conjunctivitis ?</Question>
+			<Answer>Symptoms often go away with treatment. However, they can persist if you continue to be exposed to the allergen. Long-term swelling of the outer lining of the eyes may occur in those with chronic allergies or asthma. It is called  vernal conjunctivitis . It is most common in young males, and most often occurs during the spring and summer.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000153-7" qtype="complications">What are the complications of Allergic conjunctivitis ?</Question>
+			<Answer>There are no serious complications.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000153-8" qtype="when to contact a medical professional">Do I need to see a doctor for Allergic conjunctivitis ?</Question>
+			<Answer>Contact your provider if: You have symptoms of allergic conjunctivitis that do not respond to self-care steps and over-the-counter treatment., Your vision is affected., You develop eye pain that is severe or becoming worse., Your eyelids or the skin around your eyes becomes swollen or red., You have a headache in addition to your other symptoms., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

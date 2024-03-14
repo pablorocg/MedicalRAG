@@ -1,0 +1,58 @@
+<Document id="0000947" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000558.htm">
+ 
+<Focus>Congenital antithrombin III deficiency</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3658294</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Deficiency - antithrombin III - congenital</Synonym>
+		<Synonym>Antithrombin III deficiency - congenital</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000947-1" qtype="information">What is (are) Congenital antithrombin III deficiency ?</Question>
+			<Answer>Congenital antithrombin III deficiency is a  genetic  disorder that causes the blood to clot more than normal.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000947-2" qtype="causes">What causes Congenital antithrombin III deficiency ?</Question>
+			<Answer>Antithrombin III is a protein in the blood that blocks abnormal blood clots from forming. It helps the body keep a healthy balance between bleeding and clotting. Congenital antithrombin III deficiency is an inherited disease. It occurs when a person receives one abnormal copy of the antithrombin III gene from a parent with the disease. The abnormal gene leads to a low level of the antithrombin III protein. This low level of antithrombin III can cause abnormal blood clots (thrombi) that can block blood flow and damage organs.  People with this condition will often have blood clots at a young age. They are also likely to have family members who have had a blood clotting problem. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000947-3" qtype="symptoms">What are the symptoms of Congenital antithrombin III deficiency ?</Question>
+			<Answer>People will usually have symptoms of a blood clot. Blood clots in the arms or legs usually cause swelling, redness, and pain. When a blood clot breaks off from where it formed and travels to another part of the body, it is called a thromboembolism. Symptoms depend on where the blood clot travels to. A common place is the lung, where the clot can cause a cough, shortness of breath, pain while taking deep breaths, chest pain, and even death. Blood clots that travel to the brain can cause a  stroke .</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000947-4" qtype="exams and tests">How to diagnose Congenital antithrombin III deficiency ?</Question>
+			<Answer>A physical exam may show: A swollen leg or arm, Decreased  breath sounds in the lungs , A rapid heart rate,  The health care provider can also order a  blood test &#160;to check if you have a low level of antithrombin III. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000947-5" qtype="treatment">What are the treatments for Congenital antithrombin III deficiency ?</Question>
+			<Answer>A blood clot is treated with blood-thinning medicines (also called anticoagulants). How long you need to take these drugs depends on how serious the blood clot was and other factors. Discuss this with your provider.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000947-6" qtype="outlook">What is the outlook for Congenital antithrombin III deficiency ?</Question>
+			<Answer>Most people have a good outcome if they stay on anticoagulant medicines.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000947-7" qtype="complications">What are the complications of Congenital antithrombin III deficiency ?</Question>
+			<Answer>Blood clots can cause death. Blood clots in the lungs are very dangerous.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000947-8" qtype="when to contact a medical professional">Do I need to see a doctor for Congenital antithrombin III deficiency ?</Question>
+			<Answer>See your provider if you have symptoms of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000947-9" qtype="prevention">How to prevent Congenital antithrombin III deficiency ?</Question>
+			<Answer>Once a person is diagnosed with antithrombin III deficiency, all close family members should be screened for this disorder. Blood thinning drugs can prevent blood clots from forming and prevent complications from clotting.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,50 @@
+<Document id="0001374" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000349.htm">
+ 
+<Focus>Empty sella syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014008</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001374-1" qtype="information">What is (are) Empty sella syndrome ?</Question>
+			<Answer>Empty sella syndrome is a condition in which the pituitary gland shrinks or becomes flattened.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001374-2" qtype="causes">What causes Empty sella syndrome ?</Question>
+			<Answer>The pituitary is a small gland located just underneath the brain. It is attached to the bottom of the brain by the pituitary stalk. The pituitary sits protected inside a saddle-like bony compartment in the base of the skull. This compartment is called the sella turcica, but often just called the sella. When the pituitary gland shrinks or becomes flattened, it cannot be seen on an  MRI  scan. This makes the area of the pituitary gland look like an "empty sella." But the sella is not actually empty. It is often filled with cerebrospinal fluid (CSF). CSF is fluid that surrounds the brain and spinal cord. With empty sella syndrome, CSF has leaked into the sella turcica, putting pressure on the pituitary. This causes the gland to shrink or flatten. Primary empty sella syndrome occurs when one of the layers (arachnoid) covering the outside of the brain bulges down into the sella and presses on the pituitary. Secondary empty sella syndrome occurs when the sella is empty because the pituitary gland has been damaged by: A tumor, Radiation therapy, Surgery , Trauma,  Empty sella syndrome may be seen in a condition called  pseudotumor cerebri , which mainly affects young, obese women and causes the CSF to be under higher pressure. The pituitary gland makes several hormones that control other glands and hormones in the body, including: Adrenal glands , Liver hormone related to growth (insulin-like growth factor-1), Ovaries, Testicles, Thyroid ,  A problem with the pituitary gland can lead to problems with any of the above glands and abnormal hormone levels of these glands.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001374-3" qtype="symptoms">What are the symptoms of Empty sella syndrome ?</Question>
+			<Answer>Often, there are no symptoms or loss of pituitary function. If there are symptoms, they may include any of the following: Erection problems , Headaches, Irregular or absent menstruation, Decreased or&#160;no desire for sex (low libido), Fatigue, low energy,  Nipple discharge , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001374-4" qtype="exams and tests">How to diagnose Empty sella syndrome ?</Question>
+			<Answer>Primary empty sella syndrome is most often discovered during an MRI or CT scan of the head and brain. Pituitary function is usually normal. Your health care provider may order&#160;tests to check if the pituitary gland is working normally. Sometimes, tests for high pressure in the brain will be done, such as: Examination of the retina  by an ophthalmologist, Lumbar puncture ( spinal tap ) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001374-5" qtype="treatment">What are the treatments for Empty sella syndrome ?</Question>
+			<Answer>For primary empty sella syndrome: No treatment is needed if pituitary function is normal., Medicines may be prescribed to treat any abnormal hormone levels.,  For secondary empty sella syndrome, treatment involves replacing the hormones that are missing. In some cases, surgery is needed to repair the sella to prevent CSF from leaking into the nose and sinuses.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001374-6" qtype="outlook">What is the outlook for Empty sella syndrome ?</Question>
+			<Answer>Primary empty sella syndrome does not cause health problems, and it does not affect life expectancy.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001374-7" qtype="complications">What are the complications of Empty sella syndrome ?</Question>
+			<Answer>Complications of primary empty sella syndrome include a slightly higher than normal level of prolactin. This is a hormone made by the pituitary gland. Prolactin stimulates breast development and milk production in women. Complications of secondary empty sella syndrome are related to the cause of pituitary gland disease or to the effects of  too little pituitary hormone  (hypopituitarism).</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001374-8" qtype="when to contact a medical professional">Do I need to see a doctor for Empty sella syndrome ?</Question>
+			<Answer>Contact your provider if you develop symptoms of abnormal pituitary function, such as menstrual cycle problems or impotence.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

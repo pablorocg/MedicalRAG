@@ -1,0 +1,46 @@
+<Document id="0002307" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001379.htm">
+ 
+<Focus>Kuru</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022802</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002307-1" qtype="information">What is (are) Kuru ?</Question>
+			<Answer>Kuru is a disease of the nervous system.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002307-2" qtype="causes">What causes Kuru ?</Question>
+			<Answer>Kuru is a very rare disease. It is caused by an infectious protein (prion) found in contaminated human brain tissue. Kuru is found among people from New Guinea who practiced a form of cannibalism in which they ate the brains of dead people as part of a funeral ritual. This practice stopped in 1960, but cases of kuru were reported for many years afterward because the disease has a long incubation period. The incubation period is the time it takes for symptoms to appear after being exposed to the agent that causes disease. Kuru causes brain and nervous system changes similar to  Creutzfeldt-Jakob disease . Similar diseases appear in cows as bovine spongiform encephalopathy (BSE), also called mad cow disease. The main risk factor for kuru is eating human brain tissue, which can contain the infectious particles.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002307-3" qtype="symptoms">What are the symptoms of Kuru ?</Question>
+			<Answer>Symptoms of kuru include: Arm and leg pain, Coordination problems that become severe, Difficulty walking, Headache, Swallowing difficulty, Tremors and muscle jerks ,  Difficulty swallowing and being unable to feed oneself can lead to  malnutrition  or starvation. The average incubation period is 10 to 13 years, but incubation period of 50 years or even longer have also been reported.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002307-4" qtype="exams and tests">How to diagnose Kuru ?</Question>
+			<Answer>A neurologic exam may show changes in coordination and walking ability.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002307-5" qtype="treatment">What are the treatments for Kuru ?</Question>
+			<Answer>There is no known treatment for kuru.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002307-6" qtype="outlook">What is the outlook for Kuru ?</Question>
+			<Answer>Death usually occurs within 1 year after the first sign of symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002307-7" qtype="when to contact a medical professional">Do I need to see a doctor for Kuru ?</Question>
+			<Answer>See your health care provider if you have any walking, swallowing, or coordination problems. Kuru is extremely rare. Your provider will rule out other nervous system diseases. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

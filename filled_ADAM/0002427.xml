@@ -1,0 +1,22 @@
+<Document id="0002427" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000327.htm">
+ 
+<Focus>Long term complications of diabetes</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342257</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002427-1" qtype="information">What is (are) Long term complications of diabetes ?</Question>
+			<Answer>Diabetes makes your blood sugar higher than normal. After many years, too much sugar in the blood can cause problems in your body. It can harm your eyes, kidneys, nerves, skin, heart, and blood vessels. You could have  eye problems . You could have trouble seeing, particularly at night. Light could bother your eyes. You could become blind., Your feet and skin can develop  sores  and infections. If it goes on too long, your toes, foot, or leg may need to be amputated. Infection can also cause pain, itching, or oozing in your feet, legs, and other areas., Diabetes may make it harder to control your blood pressure and cholesterol. This can lead to heart attack, stroke, and other blood vessel problems. It can become harder for blood to flow to the legs and feet., Nerves in the body can become  damaged , causing pain, burning, tingling, and loss of feeling. Nerve damage can also make it harder for men to have an erection., You could have problems digesting the food you eat. You could have trouble having a bowel movement (constipation) or have looser or watery bowel movements., High blood sugar and other problems can lead to  kidney damage . Your kidneys might not work as well and may even stop working. As a result, you might need  dialysis  or a  kidney transplant ., Diabetes can weaken your immune system. This can make you more likely to have serious complications from common infections., People with diabetes often have depression and the two diseases may be linked., Some women with diabetes may have irregular menstrual periods and may have problems getting pregnant., Diabetes increases the risk for  dementia ., Diabetes increases the risk for bone diseases, including osteoporosis., Low blood sugar (hypoglycemia) from treatment of diabetes can also increase the risk for heart disease. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

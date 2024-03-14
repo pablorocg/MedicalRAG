@@ -1,0 +1,52 @@
+<Document id="0003778" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001566.htm">
+ 
+<Focus>Sudden infant death syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038644</CUI>
+			<CUI>C0549159</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Crib death</Synonym>
+		<Synonym>SIDS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003778-1" qtype="information">What is (are) Sudden infant death syndrome ?</Question>
+			<Answer>Sudden infant death syndrome (SIDS) is the unexpected, sudden death of a child under age 1. An autopsy does not show an explainable cause of death.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003778-2" qtype="causes">What causes Sudden infant death syndrome ?</Question>
+			<Answer>The cause of SIDS is unknown. Many doctors and researchers now believe that SIDS is caused by many factors, including: Problems with the baby's ability to wake up (sleep arousal), Inability for the baby's body to detect a buildup of carbon dioxide in the blood,  SIDS rates have gone down sharply since doctors began recommending that babies be put on their backs or sides to sleep to reduce the chance of problem. However, SIDS is still a major cause of death in infants under 1 year old. Thousands of babies die of SIDS in the United States each year.  SIDS is most likely to occur between 2 and 4 months of age. SIDS affects boys more often than girls. Most SIDS deaths occur in the winter. The following may increase the risk for SIDS: Sleeping on the stomach, Being around cigarette smoke while in the womb or after being born, Sleeping in the same bed as their parents (co-sleeping), Soft bedding in the crib, Multiple birth babies (being a twin, triplet, or member of a larger multiple birth), Premature birth, Having a brother or sister who had SIDS, Mothers who smoke or use illegal drugs, Being born to a teen mother, Short time period between pregnancies, Late or no prenatal care, Living in poverty situations,  While studies show that babies with the above risk factors are more likely to be affected, the impact or importance of each factor is not well-defined or understood.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003778-3" qtype="symptoms">What are the symptoms of Sudden infant death syndrome ?</Question>
+			<Answer>Almost all SIDS deaths happen without any warning or symptoms. Death occurs when the infant is thought to be sleeping.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003778-4" qtype="exams and tests">How to diagnose Sudden infant death syndrome ?</Question>
+			<Answer>Autopsy results are not able to confirm a cause of death. However, the information from an autopsy can add to overall knowledge about SIDS. State law may require an autopsy in the case of unexplainable death.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003778-5" qtype="support groups">Where to find support for people with Sudden infant death syndrome ?</Question>
+			<Answer>Several organizations offer  resources and support services  for people who have experienced the loss of a child from SIDS.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003778-6" qtype="when to contact a medical professional">Do I need to see a doctor for Sudden infant death syndrome ?</Question>
+			<Answer>If your baby is not moving or breathing, begin  CPR  and call 911 or the local emergency number. Parents and caregivers of all infants and children should be trained in CPR.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003778-7" qtype="prevention">How to prevent Sudden infant death syndrome ?</Question>
+			<Answer>The American Academy of Pediatrics (AAP) recommends the following: Always put a baby to sleep on its back.  (This includes naps.) Do NOT put a baby to sleep on its stomach. Also, a baby can roll onto the stomach from its side, so this position should be avoided.  Put babies on a firm surface (such as in the crib) to sleep.  Never allow the baby to sleep in bed with other children or adults, and do NOT put them to sleep on other surfaces, such as a sofa. Let babies sleep in the same room (NOT the same bed) as parents.  If possible, babies' cribs should be placed in the parents' bedroom to allow for night-time feeding. Avoid soft bedding materials.  Babies should be placed on a firm, tight-fitting crib mattress without loose bedding. Use a light sheet to cover the baby. Do not use pillows, comforters, or quilts. Make sure the room temperature is not too hot.  The room temperature should be comfortable for a lightly clothed adult. A baby should not be hot to the touch. Offer the baby a pacifier when going to sleep.  Pacifiers at naptime and bedtime can reduce the risk for SIDS. Health care professionals think that a pacifier might allow the airway to open more, or prevent the baby from falling into a deep sleep. If the baby is breastfeeding, it is best to wait until 1 month before offering a pacifier, so that it doesn't interfere with breastfeeding. Do not use breathing monitors or products marketed as ways to reduce SIDS.  Research found that these devices do not help prevent SIDS.  Other recommendations from SIDS experts: Keep your baby in a smoke-free environment., Mothers should avoid alcohol and drug use during and after pregnancy., Breastfeed your baby, if possible. Breastfeeding reduces some upper respiratory infections that may influence the development of SIDS., Never give honey to a child younger than 1 year old. Honey in very young children may cause  infant botulism , which may be associated with SIDS., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,57 @@
+<Document id="0001968" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007329.htm">
+ 
+<Focus>High blood pressure - infants</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020538</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hypertension - infants</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001968-1" qtype="information">What is (are) High blood pressure - infants ?</Question>
+			<Answer>High blood pressure (hypertension) is an increase in the force of blood against the arteries in the body. This article focuses on high blood pressure in infants.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001968-2" qtype="causes">What causes High blood pressure - infants ?</Question>
+			<Answer>Blood pressure measures how hard the heart is working, and how healthy the arteries are. There are two numbers in each blood pressure measurement: The first (top) number is the systolic blood pressure, which measures the force of blood released when the heart beats., The second (bottom) number is the diastolic pressure, which measures the pressure in the arteries when the heart is at rest. ,  Blood pressure measurements are written this way: 120/80. One or both of these numbers can be too high. Several factors affect blood pressure, including: Hormones, The health of the heart and blood vessels, The health of the kidneys ,  High blood pressure in infants may be due to kidney or heart disease that is present at birth (congenital). Common examples include: Coarctation of the aorta  (narrowing of the large blood vessel of the heart called the aorta),  Patent ductus arteriosus  (blood vessel between the aorta and pulmonary artery that should close after birth, but remains open),  Bronchopulmonary dysplasia  (lung condition that affects newborn babies who were either put on a breathing machine after birth or were born very early), Kidney disease involving the kidney tissue, Renal artery stenosis (narrowing of the major blood vessel of the kidney) ,  In newborn babies, high blood pressure is often caused by a blood clot in a kidney blood vessel, a complication of having an  umbilical artery catheter . Other causes of high blood pressure in infants may include: Certain medicines, Exposure to illegal drugs such as cocaine, Certain tumors, Inherited conditions (problems that run in families), Thyroid problems ,  Blood pressure rises as the baby grows. The average blood pressure in a newborn is 64/41. The average blood pressure in a child 1 month through 2 years old is 95/58. It is normal for these numbers to vary.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001968-3" qtype="symptoms">What are the symptoms of High blood pressure - infants ?</Question>
+			<Answer>Most babies with high blood pressure will not have symptoms. Instead, symptoms may be related to the condition causing the high blood pressure. These symptoms may include: Bluish skin , Failure to grow and gain weight, Frequent urinary tract infections, Pale skin (pallor), Rapid breathing,  Symptoms that may appear if the baby has very high blood pressure include: Irritability, Seizures, Trouble breathing, Vomiting, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001968-4" qtype="exams and tests">How to diagnose High blood pressure - infants ?</Question>
+			<Answer>In most cases, the only sign of high blood pressure is the blood pressure measurement itself. Signs of very high blood pressure include: Heart failure ,  Kidney failure , Rapid pulse ,  Blood pressure in infants is measured with an automatic device. If  coarctation of the aorta  is the cause, there may be decreased pulses or blood pressure in the legs. A click may be heard if a  bicuspid aortic valve  occurs with the coarctation. Other tests in infants with high blood pressure will try to find the cause of the problem. Such tests may include: Laboratory tests, including blood and urine tests, X-rays of the chest or abdomen, Ultrasounds, including an ultrasound of the working heart (echocardiogram) and of the kidneys, MRI of the blood vessels, A special type of x-ray that uses a dye to look at blood vessels (angiography) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001968-5" qtype="treatment">What are the treatments for High blood pressure - infants ?</Question>
+			<Answer>The treatment depends on the cause of high blood pressure in the infant. Treatment can include: Dialysis  to treat kidney failure, Medicines to lower blood pressure or help the heart pump better, Surgery (including transplantation surgery or repair of the coarctation) , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001968-6" qtype="outlook">What is the outlook for High blood pressure - infants ?</Question>
+			<Answer>How well the baby does depends on the cause of high blood pressure and other factors such as: Other health problems in the baby, Whether damage (such as kidney damage) has occurred as a result of the high blood pressure, </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001968-7" qtype="complications">What are the complications of High blood pressure - infants ?</Question>
+			<Answer>Untreated, high blood pressure may lead to: Heart or kidney failure, Organ damage, Seizures, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001968-8" qtype="when to contact a medical professional">Do I need to see a doctor for High blood pressure - infants ?</Question>
+			<Answer>Contact your health care provider if your baby: Fails to grow and gain weight, Has bluish skin, Has frequent urinary tract infections, Seems irritable, Tires easily ,  Take your baby to the emergency department if your baby: Has seizures, Is not responding, Is vomiting constantly , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001968-9" qtype="prevention">How to prevent High blood pressure - infants ?</Question>
+			<Answer>Some causes of high blood pressure run in families. Talk to your provider before you get pregnant if either parent has a family history of: Congenital heart disease, High blood pressure, Kidney disease ,  Also talk to your provider before becoming pregnant if you take medicine for a health problem. Exposure to certain drugs in the womb may increase your baby's risk for developing problems that can lead to high blood pressure. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

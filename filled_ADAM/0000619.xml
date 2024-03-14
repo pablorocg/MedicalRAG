@@ -1,0 +1,13 @@
+<Document id="0000619" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000095.htm">
+ 
+<Focus>Butter, margarine, and cooking oils</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000619-1" qtype="information">Do you have information about Butter, margarine, and cooking oils</Question>
+			<Answer>Some types of fat are healthier for your heart than others. Butter and other animal fats and solid margarine may not be the best choices. Alternatives to consider are liquid vegetable oil, such as olive oil.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

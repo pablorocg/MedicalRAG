@@ -1,0 +1,25 @@
+<Document id="0000339" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000208.htm">
+ 
+<Focus>Asthma - what to ask the doctor - adult</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0004096</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>What to ask your doctor about asthma - adult</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000339-1" qtype="information">What is (are) Asthma - what to ask the doctor - adult ?</Question>
+			<Answer>Asthma  is a problem with the lung airways. A person with asthma may not feel symptoms all the time. But when an asthma attack happens, it becomes hard for air to pass through your airways. The symptoms are usually: Coughing, Wheezing, Chest tightness, Shortness of breath ,  In rare cases, asthma causes chest pain. Below are some questions you may want to ask your health care provider to help you take care of your asthma.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

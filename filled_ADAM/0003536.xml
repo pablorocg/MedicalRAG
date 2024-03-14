@@ -1,0 +1,48 @@
+<Document id="0003536" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001172.htm">
+ 
+<Focus>Sertoli-Leydig cell tumor</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206723</CUI>
+			<CUI>C1318541</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sertoli-stromal cell tumor</Synonym>
+		<Synonym>Arrhenoblastoma</Synonym>
+		<Synonym>Androblastoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003536-1" qtype="information">What is (are) Sertoli-Leydig cell tumor ?</Question>
+			<Answer>Sertoli-Leydig cell tumor (SLCT) is a rare cancer of the ovaries. The cancer cells produce and release a male sex hormone called testosterone.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003536-2" qtype="causes">What causes Sertoli-Leydig cell tumor ?</Question>
+			<Answer>The exact cause of this tumor is not known. Changes (mutations) in genes may play a role. SLCT occur most often in young women 20 to 30 years old. But the tumor can occur at any age.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003536-3" qtype="symptoms">What are the symptoms of Sertoli-Leydig cell tumor ?</Question>
+			<Answer>The Sertoli cells are normally located in the male reproductive glands (the testes). They feed sperm cells. The Leydig cells, also located in the testes, release a male sex hormone. These cells are also found in a woman's ovaries, and in very rare cases lead to cancer. SLCT starts in the female ovaries, mostly in one ovary. The cancer cells release a male sex hormone. As a result, the woman may develop symptoms such as: A deep voice, Enlarged clitoris,  Facial hair , Loss in breast size, Stopping of menstrual periods,  Pain in the lower belly (pelvic area) is another symptom. It occurs due to the tumor pressing on nearby structures.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003536-4" qtype="exams and tests">How to diagnose Sertoli-Leydig cell tumor ?</Question>
+			<Answer>The health care provider will perform a physical exam and a pelvic exam, and ask about the symptoms. Tests will be ordered to check&#160;the levels of female and male hormones, including  testosterone . An  ultrasound  or CT scan will likely be done to find out where the tumor is and its size and shape.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003536-5" qtype="treatment">What are the treatments for Sertoli-Leydig cell tumor ?</Question>
+			<Answer>Surgery is done to remove one or both ovaries. If the tumor is advanced stage,  chemotherapy  or  radiation therapy  may be done after surgery.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003536-6" qtype="outlook">What is the outlook for Sertoli-Leydig cell tumor ?</Question>
+			<Answer>Early treatment results in a good outcome. Feminine characteristics usually return after surgery. But male characteristics resolve more slowly. For more advanced stage tumors, outlook is less positive.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

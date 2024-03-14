@@ -1,0 +1,67 @@
+<Document id="0003487" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001241.htm">
+ 
+<Focus>Scoliosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0559260</CUI>
+			<CUI>C0036439</CUI>
+			<CUI>C0700208</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T190</SemanticType>
+			<SemanticType>T020</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Spinal curvature</Synonym>
+		<Synonym>Infantile scoliosis</Synonym>
+		<Synonym>Juvenile scoliosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003487-1" qtype="information">What is (are) Scoliosis ?</Question>
+			<Answer>Scoliosis is an abnormal curving of the spine. Your spine is your backbone. It runs straight down your back. Everyone's spine naturally curves a bit. But people with scoliosis have a spine that curves too much. The spine might look like the letter C or S.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003487-2" qtype="causes">What causes Scoliosis ?</Question>
+			<Answer>Most of the time, the cause of scoliosis is unknown. This is called idiopathic scoliosis. It is the most common type. It is grouped by age. In children age 3 and younger, it is called infantile scoliosis., In children age 4 through 10, it is called juvenile scoliosis., In children age 11 through 18, it is called adolescent scoliosis. ,  Scoliosis most often affects girls. Some people are more likely to have curving of the spine. Curving generally gets worse during a growth spurt. Other types of scoliosis are: Congenital scoliosis: This type of scoliosis is present at birth. It occurs when the baby's ribs or spine bones do not form properly., Neuromuscular scoliosis: This type is caused by a nervous system problem that affects the muscles. Problems can include  cerebral palsy ,  muscular dystrophy , spina bifida, and  polio . , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003487-3" qtype="symptoms">What are the symptoms of Scoliosis ?</Question>
+			<Answer>Most often, there are no symptoms. If there are symptoms, they may include: Backache or low-back pain that goes down the legs, Weakness or tired feeling in the spine after sitting or standing for a long time, Uneven hips or shoulders (one shoulder may be higher than the other), Shoulder pain, Spine curves more to one side , Difficulty with breathing or sitting, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003487-4" qtype="exams and tests">How to diagnose Scoliosis ?</Question>
+			<Answer>Your health care provider will perform a physical exam. You will be asked to bend forward. This makes your spine easier to see. It may be hard to see changes in the early stages of scoliosis. The exam may show: One shoulder is higher than the other, The pelvis is tilted ,  X-rays of the spine are done. X-rays are important because the actual curving of the spine may be worse than what your doctor can see during an exam. Other tests may include: Spinal curve measurement (scoliometer screening), X-rays of the spine to see how flexible the curvature is ,  MRI  of the spine,  CT scan  of the spine to look at the bony changes , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003487-5" qtype="treatment">What are the treatments for Scoliosis ?</Question>
+			<Answer>Treatment depends on many things: The cause of scoliosis, Where the curve is in your spine, How big the curve is, If your body is still growing ,  Most people with idiopathic scoliosis do not need treatment. But you should still be checked by your provider about every 6 months. If you are still growing, your provider might recommend a back brace. A back brace prevents further curving. There are many different types of braces. What kind you get depends on the size and location of your curve. Your provider will pick the best one for you and show you how to use it. Back braces can be adjusted as you grow. Back braces work best in people over age 10 with continued growing potential. Braces do not work for those with congenital or neuromuscular scoliosis. You may need  surgery  if the spine curve is severe or getting worse very quickly. Surgery involves correcting the curve as much as possible: Surgery is done with a cut through the back, belly area, or beneath the ribs., The spine bones are held in place with 1 or 2 metal rods. The rods are held down with hooks and screws until the bone heals together., After surgery, you may need to wear a brace for a while to keep the spine stable. ,  Scoliosis treatment may also include: Emotional support: Some children, especially teens, may be self-conscious when using a back brace., Physical therapy and other specialists to help explain the treatments and make sure the brace fits correctly. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003487-6" qtype="support groups">Where to find support for people with Scoliosis ?</Question>
+			<Answer>Seek support and more information from  organizations that specialize in scoliosis .</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003487-7" qtype="outlook">What is the outlook for Scoliosis ?</Question>
+			<Answer>How well a person with scoliosis does depends on the type, cause, and severity of the curve. The more severe the curving, the more likely it will get worse after the child stops growing. People with mild scoliosis do well with braces. They usually do not have long-term problems. Back pain may be more likely when the person gets older. The outlook for those with neuromuscular or congenital scoliosis varies. They may have another serious disorder, such as cerebral palsy or muscular dystrophy, so their goals of treatment may be much different. Often, the goal of surgery is simply to allow a child to be able to walk more properly or sit upright in a wheelchair. Congenital scoliosis is difficult to treat and usually requires many surgeries.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003487-8" qtype="complications">What are the complications of Scoliosis ?</Question>
+			<Answer>Complications of scoliosis can include: Breathing problems (in severe scoliosis), Low back pain, Lower self-esteem, Persistent pain if there is wear and tear of the spine bones, Spinal infection after surgery, Spine or nerve damage from an uncorrected curve or spinal surgery, Leakage of spinal fluid, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003487-9" qtype="when to contact a medical professional">Do I need to see a doctor for Scoliosis ?</Question>
+			<Answer>Contact your provider if you suspect your child may have scoliosis.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0003487-10" qtype="prevention">How to prevent Scoliosis ?</Question>
+			<Answer>Routine scoliosis screening is now done in middle schools. Such screening has helped detect early scoliosis in many children. Back and abdominal muscle strengthening can help stabilize the curvature.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

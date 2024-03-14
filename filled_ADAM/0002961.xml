@@ -1,0 +1,57 @@
+<Document id="0002961" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001444.htm">
+ 
+<Focus>Paronychia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0030578</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Infection - skin around the nail</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002961-1" qtype="information">What is (are) Paronychia ?</Question>
+			<Answer>Paronychia is a skin infection that occurs around the nails.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002961-2" qtype="causes">What causes Paronychia ?</Question>
+			<Answer>Paronychia is common. It is from injury to the area, such as biting off or picking a hangnail or from trimming or pushing back the cuticle. The infection is caused by: Bacteria, Candida, a type of yeast, Other types of fungi ,  A bacterial and fungal infection can occur at the same time. Fungal paronychia may occur in people who:  Have a  fungal nail infection , Have  diabetes , Expose their hands to water a lot , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002961-3" qtype="symptoms">What are the symptoms of Paronychia ?</Question>
+			<Answer>The main symptom is a painful, red, swollen area around the nail, often at the cuticle or at the site of a hangnail or other injury. There may be pus-filled  blisters , especially with a bacterial infection. Bacteria cause the condition to come on suddenly. If all or part of the infection is due to a fungus, it tends to occur more slowly. Nail changes  may occur. For example, the nail may look detached, abnormally shaped, or have an unusual color. If the infection spreads to the rest of the body, symptoms may include: Fever, chills, Development of red streaks along the skin, General ill feeling, Joint pain, Muscle pain , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002961-4" qtype="exams and tests">How to diagnose Paronychia ?</Question>
+			<Answer>Your health care provider can usually diagnose this condition by simply looking at the sore skin. Pus or fluid may be drained and sent to a laboratory to determine what type of bacteria or fungus is causing the infection.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002961-5" qtype="treatment">What are the treatments for Paronychia ?</Question>
+			<Answer>If you have paronychia, soaking your nail in warm water 2 or 3 times a day helps reduce swelling and pain. Your provider may prescribe oral antibiotics. In severe cases, your provider may cut and drain the sore with a sharp instrument. Part of the nail may need to be removed. If you have chronic fungal paronychia, your provider may prescribe antifungal medicine.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002961-6" qtype="outlook">What is the outlook for Paronychia ?</Question>
+			<Answer>Paronychia often responds well to treatment. But, fungal infections may last for several months.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002961-7" qtype="complications">What are the complications of Paronychia ?</Question>
+			<Answer>Complications are rare, but may include: Abscess , Permanent changes in the shape of the nail, Spread of infection to tendons, bones, or bloodstream , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002961-8" qtype="when to contact a medical professional">Do I need to see a doctor for Paronychia ?</Question>
+			<Answer>Call your provider if: Paronychia symptoms continue despite treatment, Symptoms worsen or new symptoms develop , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002961-9" qtype="prevention">How to prevent Paronychia ?</Question>
+			<Answer>To prevent paronychia: Care for your nails and the skin around your nails properly., Avoid damaging your nails or fingertips. Because the nails grow slowly, an injury can last for months., Do not bite or pick your nails., Protect your nails from exposure to detergents and chemicals by using rubber or plastic gloves. Gloves with cotton liners are best., Bring your own manicure tools to nail salons. Do not allow the manicurist to work on your cuticles. ,  To minimize the risk for damage to your nails: Keep fingernails smooth and trim them weekly., Trim toenails about once a month., Use sharp manicure scissors or clippers for trimming fingernails and toenails, and an emery board for smoothing the edges., Trim nails after bathing, when they are softer., Trim fingernails with a slightly rounded edge. Trim toenails straight across and do not cut them too short., Do not trim cuticles or use cuticle removers. Cuticle removers can damage the skin around the nail. The cuticle is needed to seal the space between the nail and skin. Trimming the cuticle weakens this seal, which can allow germs to enter the skin and lead to infection. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

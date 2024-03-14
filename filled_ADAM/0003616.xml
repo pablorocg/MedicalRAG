@@ -1,0 +1,21 @@
+<Document id="0003616" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003762.htm">
+ 
+<Focus>Skin or nail culture</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Mucosal culture</Synonym>
+		<Synonym>Culture - skin</Synonym>
+		<Synonym>Culture - mucosal</Synonym>
+		<Synonym>Nail culture</Synonym>
+		<Synonym>Culture - fingernail</Synonym>
+		<Synonym>Fingernail culture</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003616-1" qtype="information">Do you have information about Skin or nail culture</Question>
+			<Answer>A skin or nail culture is a laboratory test to look for and identify germs that cause problems with the skin or nails. It is called a mucosal culture if the sample involves the mucous membranes.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

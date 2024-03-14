@@ -1,0 +1,57 @@
+<Document id="0002835" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000085.htm">
+ 
+<Focus>Obesity hypoventilation syndrome (OHS)</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0031880</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pickwickian syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002835-1" qtype="information">What is (are) Obesity hypoventilation syndrome (OHS) ?</Question>
+			<Answer>Obesity hypoventilation syndrome (OHS) causes poor breathing in some people with obesity. It leads to lower oxygen and higher carbon dioxide levels in the blood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002835-2" qtype="causes">What causes Obesity hypoventilation syndrome (OHS) ?</Question>
+			<Answer>The exact cause of OHS is not known. It is believed that OHS results from a defect in the brain's control over breathing. Excess weight against the chest wall also makes it harder for the muscles to draw in a deep breath and to breathe quickly enough. This worsens the brain's breathing control. As a result, the blood contains too much carbon dioxide and not enough oxygen. During stable conditions, people are not acidemic as the kidneys have enough time to correct the acidity caused by the high carbon dioxide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002835-3" qtype="symptoms">What are the symptoms of Obesity hypoventilation syndrome (OHS) ?</Question>
+			<Answer>The main symptoms of OHS are due to lack of sleep and include: Poor sleep quality,  Sleep apnea , Daytime sleepiness,  Depression , Headaches, Tiredness,  Symptoms of low blood oxygen level (chronic hypoxia) and high carbon dioxide can occur. Symptoms include shortness of breath or feeling tired after little effort.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002835-4" qtype="exams and tests">How to diagnose Obesity hypoventilation syndrome (OHS) ?</Question>
+			<Answer>People with OHS have obesity (body mass index of 30 kg/m 2  or greater). A physical exam may show: Bluish color in the lips, fingers, toes, or skin ( cyanosis ), Reddish skin, Signs of right-sided heart failure ( cor pulmonale ), such as swollen legs or feet, shortness of breath, or feeling tired after little effort, Signs of extreme sleepiness,  Tests used to help diagnose OHS include: Arterial blood gas ,  Chest x-ray  or  CT scan of the chest  to rule out other possible causes, Lung function tests ( pulmonary function tests ),  Sleep study (polysomnography) ,  Echocardiogram  (ultrasound of the heart),  Health care providers can tell OHS from obstructive sleep apnea because a person with OHS has a high carbon dioxide level in their blood when awake.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002835-5" qtype="treatment">What are the treatments for Obesity hypoventilation syndrome (OHS) ?</Question>
+			<Answer>Treatment involves breathing assistance using special machines (mechanical ventilation). Options include: Noninvasive mechanical ventilation such as  continuous positive airway pressure (CPAP) or bilevel positive airway pressure (BiPAP)  through a mask that fits tightly over the nose or nose and mouth (mainly for sleep), Oxygen therapy, Breathing help through an opening in the neck ( tracheostomy ) for severe cases ,  Treatment is started in the hospital or as an outpatient.  Other treatments are aimed at weight loss, which can reverse OHS, although it is often difficult to achieve.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002835-6" qtype="outlook">What is the outlook for Obesity hypoventilation syndrome (OHS) ?</Question>
+			<Answer>Untreated,&#160;OHS can lead to serious heart and blood vessel problems, severe disability, or death.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002835-7" qtype="complications">What are the complications of Obesity hypoventilation syndrome (OHS) ?</Question>
+			<Answer>OHS complications related to a lack of sleep may include: Depression, agitation, irritability, Increased risk for accidents or mistakes at work, Problems with intimacy and sex ,  OHS can also cause heart problems, such as: High blood pressure ( hypertension ), Right-sided heart failure (cor pulmonale), High blood pressure in the lungs ( pulmonary hypertension ) , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002835-8" qtype="when to contact a medical professional">Do I need to see a doctor for Obesity hypoventilation syndrome (OHS) ?</Question>
+			<Answer>Contact your provider if you are very tired during the day or have any other symptoms that suggest OHS.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002835-9" qtype="prevention">How to prevent Obesity hypoventilation syndrome (OHS) ?</Question>
+			<Answer>Maintain a healthy weight. Use&#160;your CPAP or BiPAP treatment as your provider prescribed.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

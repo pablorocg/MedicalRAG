@@ -1,0 +1,46 @@
+<Document id="0000310" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003099.htm">
+ 
+<Focus>Armpit lump</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0577559</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lump in the armpit</Synonym>
+		<Synonym>Localized lymphadenopathy - armpit</Synonym>
+		<Synonym>Axillary lymphadenopathy</Synonym>
+		<Synonym>Axillary lymph enlargement</Synonym>
+		<Synonym>Lymph nodes enlargement - axillary</Synonym>
+		<Synonym>Axillary abscess</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000310-1" qtype="information">What is (are) Armpit lump ?</Question>
+			<Answer>An armpit lump is a swelling or bump under the arm. A lump in the armpit can have many causes. These include swollen lymph nodes, infections, or cysts.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000310-2" qtype="causes">What causes Armpit lump ?</Question>
+			<Answer>Lumps in the armpit may have many causes.  Lymph nodes act as filters that can catch germs or cancerous tumor cells. When they do, lymph nodes increase in size and are easily felt. Reasons lymph nodes in the armpit area may be enlarged are: Arm or  breast infection , Some body-wide infections, such as mono, AIDS, or herpes,  Cancers , such as lymphomas or breast cancer,  Cysts or abscesses under the skin may also produce large, painful lumps in the armpit. These may be caused by shaving or use of antiperspirants (not deodorants). This is most often seen in teens just beginning to shave. Other causes of armpit lumps may include: Cat scratch disease, Lipomas (harmless fatty growths), Use of certain medicines or vaccinations, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000310-3" qtype="considerations">What to do for Armpit lump ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000310-4" qtype="when to contact a medical professional">Do I need to see a doctor for Armpit lump ?</Question>
+			<Answer>An armpit lump in a woman may be a sign of breast cancer, and it should be checked by a provider right away.  Contact your provider if you have an unexplained armpit lump. Do not try to diagnose lumps by yourself.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000310-5" qtype="outlook">What is the outlook for Armpit lump ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

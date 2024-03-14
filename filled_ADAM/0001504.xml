@@ -1,0 +1,20 @@
+<Document id="0001504" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000111.htm">
+ 
+<Focus>Eye muscle repair - discharge</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Repair of cross-eye - discharge</Synonym>
+		<Synonym>Resection and recession - discharge</Synonym>
+		<Synonym>Lazy eye repair - discharge</Synonym>
+		<Synonym>Strabismus repair - discharge</Synonym>
+		<Synonym>Extraocular muscle surgery - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001504-1" qtype="information">Do you have information about Eye muscle repair - discharge</Question>
+			<Answer>You or your child had  eye muscle repair surgery  to correct eye muscle problems that caused crossed eyes. The medical term for crossed eyes is  strabismus .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,62 @@
+<Document id="0003777" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001522.htm">
+ 
+<Focus>Substance use disorder</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038586</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Substance abuse</Synonym>
+		<Synonym>Chemical use</Synonym>
+		<Synonym>Chemical abuse</Synonym>
+		<Synonym>Drug addiction</Synonym>
+		<Synonym>Addiction - drug</Synonym>
+		<Synonym>Dependence on drugs</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003777-1" qtype="information">What is (are) Substance use disorder ?</Question>
+			<Answer>Substance use disorder occurs when a person's use of alcohol or another substance (drug) leads to health issues or problems at work, school, or home.  This disorder is also called substance abuse.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003777-2" qtype="causes">What causes Substance use disorder ?</Question>
+			<Answer>The exact cause of substance use disorder is not known. A person's genes, the action of the drug, peer pressure, emotional distress,  anxiety ,  depression , and environmental  stress  can all be factors. Many who develop a substance use problem have  depression ,  attention deficit disorder ,  post-traumatic stress disorder , or another mental problem. A stressful or chaotic lifestyle and low self-esteem are also common. Children who grow up seeing their parents using drugs may have a high risk of developing substance use problem later in life for both environmental and genetic reasons. Commonly used substances include: Opiates and other narcotics are powerful painkillers that can cause drowsiness, and sometimes intense feelings of well-being, elation, happiness, excitement, and joy. These include heroin, opium, codeine, and  narcotic pain medicines  that may be prescribed by a doctor or bought illegally., Stimulants are drugs that stimulate the brain and nervous system. They include  cocaine  and  amphetamines , such as drugs used to treat ADHD (methylphenidate, or Ritalin). A person can start needing higher amounts of these drugs over time to feel the same effect.,  Depressants  cause drowsiness and reduce anxiety. They include  alcohol , barbiturates, benzodiazepines (Valium, Ativan, Xanax), chloral hydrate, and paraldehyde. Using these substances can lead to addiction.,  LSD , mescaline, psilocybin ("mushrooms"), and phencyclidine ( PCP , or "angel dust") can cause a person to see things that are not there (hallucinations) and can lead to psychological addiction.,  Marijuana  (cannabis, or hashish). ,  There are several stages of drug use that may lead to addiction. Young people seem to move more quickly through the stages than do adults. Stages are: Experimental use -- Typically involves peers, done for recreational use; the user may enjoy defying parents or other authority figures., Regular use -- The user misses more and more school or work; worries about losing drug source; uses drugs to "fix" negative feelings; begins to stay away from friends and family; may change friends to those who are regular users; shows increased tolerance and ability to "handle" the drug., Problem or risky use -- The user loses any motivation; does not care about school and work; has obvious behavior changes; thinking about drug use is more important than all other interests, including relationships; the user becomes secretive; may begin dealing drugs to help support habit; use of other, harder drugs may increase; legal problems may increase., Addiction -- Cannot face daily life without drugs; denies problem; physical condition gets worse; loss of "control" over use; may become suicidal; financial and legal problems get worse; may have broken ties with family members or friends. , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003777-3" qtype="symptoms">What are the symptoms of Substance use disorder ?</Question>
+			<Answer>Symptoms and behaviors of drug use may include: Confusion, Continuing to use drugs, even when health, work, or family are being harmed, Episodes of violence, Hostility when confronted about drug dependence, Lack of control over drug abuse, being unable to stop or reduce alcohol intake, Making excuses to use drugs, Missing work or school, or a decrease in performance, Need for daily or regular drug use to function, Neglecting to eat, Not caring about physical appearance, No longer taking part in activities because of drug abuse, Secretive behavior to hide drug use, Using drugs even when alone , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003777-4" qtype="exams and tests">How to diagnose Substance use disorder ?</Question>
+			<Answer>Drug tests (toxicology screens) on blood and urine samples can show many chemicals and drugs in the body. How sensitive the test is depends on the drug itself, when the drug was taken, and the testing laboratory. Blood tests are more likely to find a drug than urine tests, though urine drug screens are done more often.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003777-5" qtype="treatment">What are the treatments for Substance use disorder ?</Question>
+			<Answer>Substance use disorder is a serious condition and not easy to treat. The best care and treatment involves trained professionals. Treatment begins with recognizing the problem. Though denial is a common symptom of addiction, people who are addicted have far less denial if they are treated with empathy and respect, rather than told what to do or being confronted. The substance may either be slowly withdrawn or stopped abruptly. Support for physical and emotional symptoms, as well as staying drug free (abstinence) are also key to treatment. People with drug overdose may need emergency treatment in the hospital. The exact treatment depends on the drug used., Detoxification (detox) is the withdrawal of the substance abruptly in an environment where there is good support. Detoxification can be done on an inpatient or outpatient basis., At times, another drug with a similar action or effect on the body is taken, as the dose is slowly decreased to reduce the side effects and risks of withdrawal. For example, for narcotic addiction, methadone or similar drugs may be used to prevent withdrawal and continued use. ,  Residential treatment programs monitor and address possible withdrawal symptoms and behaviors. These programs use techniques to get users to recognize their behaviors and learn how not to go back to using (relapse). If the person also has depression or another mental health disorder, it should be treated. In many cases, a person starts using drugs to try to self-treat mental illness.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003777-6" qtype="support groups">Where to find support for people with Substance use disorder ?</Question>
+			<Answer>Many support groups are available in the community. They include: Narcotics Anonymous (NA) --  www.na.org , Alateen --  al-anon.org/for-members/group-resources/alateen/ , Al-Anon --  al-anon.org ,  Most of these groups follow the 12-Step program used in Alcoholics Anonymous (AA)  www.aa.org . SMART Recovery  www.smartrecovery.org  and Life Ring Secular Recovery  www.lifering.org  are programs that do not use the 12-step approach. You can find other support groups on the Internet.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003777-7" qtype="outlook">What is the outlook for Substance use disorder ?</Question>
+			<Answer>Substance use may lead to a fatal overdose. Some people start taking the substances again (relapse) after they have stopped. Complications of substance use include: Depression, Cancer, for example, mouth and stomach cancer are linked to alcohol abuse and dependence, Infection with HIV, or hepatitis B or C through shared needles, Loss of job, Problems with memory and concentration, for example, hallucinogen use, including marijuana (THC), Problems with the law, Relationship breakup, Unsafe sexual practices, which may result in unwanted pregnancies, sexually transmitted diseases, HIV, or viral hepatitis, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003777-8" qtype="when to contact a medical professional">Do I need to see a doctor for Substance use disorder ?</Question>
+			<Answer>Call for an appointment with your health care provider if you or a family member is using a substance and wants to stop. Also call if you have been cut off from your drug supply and are at risk of withdrawal. Most employers offer referral services for their employees with substance use problems. If you or someone you know is thinking about suicide, call or text 988 or chat  988lifeline.org . You can also call 1-800-273-8255 (1-800-273-TALK). The 988 Suicide and Crisis Lifeline provides free and confidential support 24/7, anytime day or night. You can also call 911 or the local emergency number or go to the hospital emergency room. DO NOT delay. If someone you know has attempted suicide, call 911 or the local emergency number right away. DO NOT leave the person alone, even after you have called for help.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003777-9" qtype="prevention">How to prevent Substance use disorder ?</Question>
+			<Answer>Drug education programs can be helpful. Parents can have a strong influence on their children by teaching them about the harm of using substances.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

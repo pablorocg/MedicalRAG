@@ -1,0 +1,24 @@
+<Document id="0003850" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000848.htm">
+ 
+<Focus>Talking with a child about a parent's terminal illness</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0679247</CUI>
+			<CUI>C2020636</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003850-1" qtype="information">What is (are) Talking with a child about a parent's terminal illness ?</Question>
+			<Answer>When a parent's cancer treatment has stopped working, you may wonder how to tell your child. Talking openly and honestly is an important way to help ease your child's anxiety.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

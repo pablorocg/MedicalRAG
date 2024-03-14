@@ -1,0 +1,22 @@
+<Document id="0000105" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000441.htm">
+ 
+<Focus>After a fall in the hospital</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085639</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000105-1" qtype="information">What is (are) After a fall in the hospital ?</Question>
+			<Answer>Falls can be a serious problem in the hospital. Factors that increase the risk of falls include: Poor lighting, Slippery floors, Equipment in rooms and hallways that gets in the way, Being weak from illness or surgery, Being in new surroundings , A history of falls,  Hospital staff often do not see patients fall. But falls require attention right away to lessen the risk of injury.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

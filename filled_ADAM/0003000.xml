@@ -1,0 +1,46 @@
+<Document id="0003000" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002519.htm">
+ 
+<Focus>Pentazocine overdose</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0588092</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Talwin</Synonym>
+		<Synonym>Alupent</Synonym>
+		<Synonym>Fortal</Synonym>
+		<Synonym>Pentafen</Synonym>
+		<Synonym>Fortulgesic</Synonym>
+		<Synonym>Litcon</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003000-1" qtype="information">What is (are) Pentazocine overdose ?</Question>
+			<Answer>Pentazocine is a medicine used to treat moderate to severe pain. It is one of a number of chemicals called opioids or opiates, which were originally derived from the poppy plant and used for pain relief or their calming effects. Pentazocine overdose occurs when someone takes more than the recommended amount of this medicine. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with overdoses, call the local emergency number (such as 911), or the local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003000-4" qtype="symptoms">What are the symptoms of Pentazocine overdose ?</Question>
+			<Answer>Symptoms may include. Eyes, ears, nose, and throat: Hearing loss, Pinpoint pupils ,  Heart and blood vessels: Heart rhythm disturbances, Low blood pressure, Weak pulse ,  Lungs: Breathing slow, labored, or shallow, No breathing ,  Muscles: Muscle spasticity, Muscle damage from being immobile while in a coma ,  Nervous system: Coma (lack of responsiveness), Confusion, Drowsiness, Seizures ,  Skin: Cyanosis (blue fingernails or lips), Jaundice (turning yellow), Rash ,  Stomach and intestines: Nausea, vomiting, Spasms of the stomach or intestines (abdominal cramps) ,  Pentazocine is a weak opioid. It may cause opioid withdrawal symptoms in people who use it as a substitute for stronger formulations. Symptoms of withdrawal may include: Anxiety and restlessness, Diarrhea, Goose bumps, Rapid heart rate, Vomiting , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003000-5" qtype="considerations">What to do for Pentazocine overdose ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003000-8" qtype="outlook">What is the outlook for Pentazocine overdose ?</Question>
+			<Answer>Pentazocine overdose is usually much less serious than other opioid medicine overdoses, such as heroin and morphine. In rare cases, antidotes need to be used. There may be a more serious outcome if there has been prolonged coma or respiratory depression, or shock (extremely low blood pressure, leading to damage to multiple internal organs). Although deaths have been reported, most people who receive prompt treatment recover well.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003000-9" qtype="outlook">What is the outlook for Pentazocine overdose ?</Question>
+			<Answer>Pentazocine overdose is usually much less serious than other opioid medicine overdoses, such as heroin and morphine. In rare cases, antidotes need to be used. There may be a more serious outcome if there has been prolonged coma or respiratory depression, or shock (extremely low blood pressure, leading to damage to multiple internal organs). Although deaths have been reported, most people who receive prompt treatment recover well.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

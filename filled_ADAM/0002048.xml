@@ -1,0 +1,45 @@
+<Document id="0002048" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000736.htm">
+ 
+<Focus>Human bites - self-care</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0005660</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bites - human - self-care</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002048-1" qtype="information">What is (are) Human bites - self-care ?</Question>
+			<Answer>A human bite can break, puncture, or tear the skin. Bites that break the skin can be very serious because of the risk for infection. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002048-2" qtype="causes">What causes Human bites - self-care ?</Question>
+			<Answer>Human bites can occur in two ways: If someone bites you, If your hand comes into contact with a person's teeth and breaks the skin, such as during a fist fight ,  Bites are very common among young children. Children often bite to express anger or other negative feelings. Males between 10 and 34 years old are more likely to be victims of human bites. Human bites may be more dangerous than animal bites. Certain germs in some human mouths can cause hard-to-treat infections. You can also get certain diseases from a human bite, such as  HIV/AIDS  or  hepatitis B  or  hepatitis C .</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002048-3" qtype="symptoms">What are the symptoms of Human bites - self-care ?</Question>
+			<Answer>Pain, bleeding, numbness and tingling may occur with any human bite. Symptoms from bites may be mild to severe, including: Breaks or major cuts in the skin, with or without bleeding, Bruising (discoloration of the skin), Crushing injuries that can cause severe tissue tears and scarring, Puncture wounds, Tendon or joint injury resulting in decreased motion and function of the injured tissue, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002048-5" qtype="complications">What are the complications of Human bites - self-care ?</Question>
+			<Answer>Complications from bite wounds include: An infection that spreads quickly, Damage to tendons or joints ,  A human bite is more likely to become infected in people who have: Weakened immune systems due to medicines or disease, Diabetes, Peripheral arterial disease (arteriosclerosis, or poor circulation), </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002048-6" qtype="prevention">How to prevent Human bites - self-care ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002048-7" qtype="when to contact a medical professional">Do I need to see a doctor for Human bites - self-care ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

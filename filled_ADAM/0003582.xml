@@ -1,0 +1,39 @@
+<Document id="0003582" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003290.htm">
+ 
+<Focus>Simian crease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0424731</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Single palmar crease</Synonym>
+		<Synonym>Transverse palmar crease</Synonym>
+		<Synonym>Palmar crease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003582-1" qtype="information">What is (are) Simian crease ?</Question>
+			<Answer>A single palmar crease is a single line that runs across the palm of the hand. People most often have 3 creases in their palms. The crease is most often referred to as a single palmar crease. The older term "simian crease" is not used much anymore, since it tends to have a negative meaning (the word "simian" refers to a monkey or ape).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003582-2" qtype="considerations">What to do for Simian crease ?</Question>
+			<Answer>Distinct lines that form creases appear on the palms of the hands and soles of the feet. The palm has 3 of these creases in most cases. But sometimes, the creases join to form just one. Palmar creases develop while a baby is growing in the womb, most often by the 12th week of  gestation . A single palmar crease appears in about 1 out of 30 people. Males are twice as likely as females to have this condition. Some single palmar creases may indicate problems with development and be linked with certain disorders.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003582-3" qtype="causes">What causes Simian crease ?</Question>
+			<Answer>Having a single palmar crease is often normal. However, it may also be associated with various conditions that affect a person's mental and physical growth, including: Down syndrome ,  Aarskog syndrome , Cohen syndrome,  Fetal alcohol syndrome ,  Trisomy 13 ,  Rubella syndrome ,  Turner syndrome ,  Klinefelter syndrome ,  Pseudohypoparathyroidism &#160;,  Cri du chat syndrome , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003582-4" qtype="outlook">What is the outlook for Simian crease ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

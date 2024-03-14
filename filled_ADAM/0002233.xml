@@ -1,0 +1,17 @@
+<Document id="0002233" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002385.htm">
+ 
+<Focus>Ions</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Cations</Synonym>
+		<Synonym>Anions</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002233-1" qtype="information">Do you have information about Ions</Question>
+			<Answer>An ion is an atom or group of atoms that has an electric charge. Ions with a positive charge are called cations. Ions with a negative charge are called anions. Many normal substances exist in the body as ions. Common examples include sodium, potassium, calcium, chloride, and bicarbonate. These substances are known as  electrolytes . Ions can be created using radiation such as x-rays. Ionizing radiation is often used to diagnose or treat a medical condition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,23 @@
+<Document id="0000825" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000596.htm">
+ 
+<Focus>Choosing the right health care provider for pregnancy and childbirth</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0580931</CUI>
+			<CUI>C0581135</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000825-1" qtype="information">What is (are) Choosing the right health care provider for pregnancy and childbirth ?</Question>
+			<Answer>You have many decisions to make when you are expecting a baby. One of the first is to decide what kind of health care provider you want for your pregnancy care and the birth of your baby. You may choose an: Obstetrician, Family practice doctor, Certified nurse-midwife,  Each of these providers is described below. Each has different training, skills, and outlooks on pregnancy and childbirth. Your choice will depend on your health and the type of birth experience you want. The choices available to you may differ depending on your local resources. Here are some things you need to consider when you decide on the type of provider you want: Risk factors you may have for problems during pregnancy and childbirth, Where you would like to deliver your baby, Your beliefs and desires about natural childbirth, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

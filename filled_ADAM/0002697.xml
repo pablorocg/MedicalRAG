@@ -1,0 +1,55 @@
+<Document id="0002697" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000757.htm">
+ 
+<Focus>Multiple system atrophy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0393571</CUI>
+			<CUI>C0037019</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Shy-Drager syndrome</Synonym>
+		<Synonym>Neurologic orthostatic hypotension</Synonym>
+		<Synonym>Shy-McGee-Drager syndrome</Synonym>
+		<Synonym>Parkinson plus syndrome</Synonym>
+		<Synonym>MSA-P</Synonym>
+		<Synonym>MSA-C</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002697-1" qtype="information">What is (are) Multiple system atrophy ?</Question>
+			<Answer>Multiple system atrophy- parkinsonian type (MSA-P) is a rare condition that causes symptoms similar to  Parkinson disease . However, people with MSA-P have more widespread damage to the part of the nervous system that controls important functions such as heart rate, blood pressure, and sweating. The other subtype of MSA is  MSA-cerebellar . It mainly affects the cerebellum, an area deep in the brain, just above the spinal cord.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002697-2" qtype="causes">What causes Multiple system atrophy ?</Question>
+			<Answer>The cause of MSA-P is unknown. The affected areas of the brain overlap with areas affected by Parkinson disease, with similar symptoms. For this reason, this subtype of MSA is called parkinsonian.  MSA-P is most often diagnosed in men older than 60. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002697-3" qtype="symptoms">What are the symptoms of Multiple system atrophy ?</Question>
+			<Answer>MSA damages the nervous system. The disease tends to progress rapidly. About one half of people with MSA-P have lost most of their motor skills within 5 years of onset of the disease. Symptoms may include: Tremors, Movement difficulties, such as slowness, loss of balance, shuffling when walking, Frequent falls, Muscle aches and pains (myalgia), and stiffness, Face changes, such as a masklike appearance to the face and staring, Difficulty chewing or swallowing (occasionally), not able to close the mouth, Disrupted sleep patterns (often during rapid eye movement [REM] sleep late at night), Dizziness or fainting when standing up or after standing still,  Erection problems , Loss of control over bowels or bladder, Problems with activity that requires small movements (loss of fine motor skills), such as writing that is small and hard to read, Loss of sweating in any part of the body, Decline in mental function, Nausea and problems with digestion, Posture problems, such as unstable, stooped, or slumped over,  Vision changes , decreased or blurred vision, Voice and speech changes ,  Other symptoms that may occur with this disease: Confusion ,  Dementia ,  Depression , Sleep-related breathing difficulties, including&#160; sleep apnea  or a blockage in the air passage that leads to a harsh vibrating sound , Restless legs, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002697-4" qtype="exams and tests">How to diagnose Multiple system atrophy ?</Question>
+			<Answer>Your health care provider will examine you, and check your eyes, nerves, and muscles.  Your blood pressure will be taken while you are lying down and standing up.  There are no specific tests to confirm this disease. A doctor who specializes in the nervous system (neurologist) can make the diagnosis based on: History of symptoms, Physical examination results, Ruling out other causes of symptoms ,  Testing to help confirm the diagnosis may include: MRI of head , Plasma  norepinephrine  levels, Urine examination for norepinephrine breakdown products ( urine catecholamines ) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002697-5" qtype="treatment">What are the treatments for Multiple system atrophy ?</Question>
+			<Answer>There is no cure for MSA-P. There is no known way to prevent the disease from getting worse. The goal of treatment is to control symptoms. Dopaminergic medicines, such as levodopa and carbidopa, may be used to reduce early or mild tremors.  But, for many people with MSA-P, these medicines do not work well.  Medicines may be used to treat low blood pressure. A  pacemaker  that is programmed to stimulate the heart to beat at a rapid rate (faster than 100 beats per minute) may increase blood pressure for some people. Constipation can be treated with a high-fiber diet and laxatives. Medicines are available to treat erection problems. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002697-6" qtype="outlook">What is the outlook for Multiple system atrophy ?</Question>
+			<Answer>Outcome for MSA is poor. Loss of mental and physical functions slowly get worse. Early death is likely. People typically live 7 to 9 years after diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002697-7" qtype="when to contact a medical professional">Do I need to see a doctor for Multiple system atrophy ?</Question>
+			<Answer>Contact your provider if you develop symptoms of this disorder. Contact your provider if you have been diagnosed with MSA and your symptoms return or get worse. Also contact your provider if new symptoms appear, including possible side effects of medicines, such as: Changes in alertness/behavior/mood, Delusional behavior, Dizziness,  Hallucinations , Involuntary movements, Loss of mental functioning, Nausea or vomiting, Severe confusion or disorientation ,  If you have a family member with MSA and their condition declines to the point that you are unable to care for the person at home, seek advice from your family member's provider.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

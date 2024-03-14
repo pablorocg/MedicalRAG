@@ -1,0 +1,61 @@
+<Document id="0002266" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001572.htm">
+ 
+<Focus>Juvenile angiofibroma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206731</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Nasal tumor</Synonym>
+		<Synonym>Angiofibroma - juvenile</Synonym>
+		<Synonym>Benign nasal tumor</Synonym>
+		<Synonym>Juvenile nasal angiofibroma</Synonym>
+		<Synonym>JNA</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002266-1" qtype="information">What is (are) Juvenile angiofibroma ?</Question>
+			<Answer>Juvenile angiofibroma is a noncancerous growth that causes bleeding in the nose and sinuses. It is most often seen in boys and young adult men.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002266-2" qtype="causes">What causes Juvenile angiofibroma ?</Question>
+			<Answer>Juvenile angiofibroma is not very common. It is most often found in adolescent boys. The  tumor  contains many blood vessels and&#160;spreads within the area in which it started (locally  invasive ). This can cause bone damage.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002266-3" qtype="symptoms">What are the symptoms of Juvenile angiofibroma ?</Question>
+			<Answer>Symptoms include: Difficulty breathing  through the nose, Easy bruising, Frequent or repeated nosebleeds, Headache, Swelling of the cheek,  Hearing loss ,  Nasal discharge , usually bloody, Prolonged  bleeding , Stuffy nose , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002266-4" qtype="exams and tests">How to diagnose Juvenile angiofibroma ?</Question>
+			<Answer>The health care provider may see the angiofibroma when examining the upper throat. Tests that may be done include: Arteriogram  to see the blood supply to the growth,  CT scan of the sinuses , MRI scan of the head,  X-ray ,  Biopsy is generally not recommended due to the high risk of bleeding.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002266-5" qtype="treatment">What are the treatments for Juvenile angiofibroma ?</Question>
+			<Answer>You will need treatment if the angiofibroma is growing larger, blocking the airways, or causing repeated nosebleeds. In some cases, no treatment is needed. Surgery may be needed to remove the tumor. The tumor may be hard to remove if it is not enclosed and has spread to other areas. Newer surgery techniques that place a camera up through the nose have made tumor removal surgery less invasive. A procedure called embolization may be done to prevent the tumor from bleeding. The procedure may correct the nosebleeds by itself, but it is most often followed by surgery to remove the tumor.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002266-6" qtype="outlook">What is the outlook for Juvenile angiofibroma ?</Question>
+			<Answer>Although not cancerous, angiofibromas may continue to grow and damage nearby tissue or bleed. Some may disappear on their own. It is common for the tumor to return after surgery.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002266-7" qtype="complications">What are the complications of Juvenile angiofibroma ?</Question>
+			<Answer>Complications may include: Anemia , Pressure on the brain (rare), Spread of the tumor to the nose, sinuses, and other structures, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002266-8" qtype="when to contact a medical professional">Do I need to see a doctor for Juvenile angiofibroma ?</Question>
+			<Answer>Contact your provider if you often have: Nosebleeds, One-sided nasal blockage, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002266-9" qtype="prevention">How to prevent Juvenile angiofibroma ?</Question>
+			<Answer>There is no known way to prevent this condition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,17 @@
+<Document id="0002402" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002985.htm">
+ 
+<Focus>Liposuction</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Fat removal - suctioning</Synonym>
+		<Synonym>Body contouring</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002402-1" qtype="information">Do you have information about Liposuction</Question>
+			<Answer>Liposuction is the removal of excess body fat by suction using special surgical equipment. A plastic surgeon typically does the surgery. Watch this video about: Liposuction</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

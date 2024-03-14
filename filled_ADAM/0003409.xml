@@ -1,0 +1,60 @@
+<Document id="0003409" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001429.htm">
+ 
+<Focus>Rhabdomyosarcoma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0035412</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Soft tissue sarcoma</Synonym>
+		<Synonym>Alveolar rhabdomyosarcoma</Synonym>
+		<Synonym>Embryonal rhabdomyosarcoma</Synonym>
+		<Synonym>Sarcoma botryoides</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003409-1" qtype="information">What is (are) Rhabdomyosarcoma ?</Question>
+			<Answer>Rhabdomyosarcoma is a cancerous (malignant) tumor of the muscles that are attached to the bones. This cancer mostly affects children.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003409-2" qtype="causes">What causes Rhabdomyosarcoma ?</Question>
+			<Answer>Rhabdomyosarcoma can occur in many places in the body. The most common sites are the head or neck, the urinary or reproductive system, and the arms or legs.  The cause of rhabdomyosarcoma is unknown. It is a rare tumor with only several hundred new cases per year in the United States. Some children with certain birth defects are at an increased risk. Some families have a gene mutation that increases this risk. Most children with rhabdomyosarcoma do not have any known risk factors.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003409-3" qtype="symptoms">What are the symptoms of Rhabdomyosarcoma ?</Question>
+			<Answer>The most common symptom is a mass that may or may not be painful. Other symptoms vary depending on location of the tumor. Tumors in the nose or throat may cause bleeding, congestion, swallowing problems, or nervous system problems if they extend into the brain., Tumors around the eyes may cause bulging of the eye, problems with vision, swelling around the eye, or pain., Tumors in the ears, may cause pain, hearing loss, or swelling., Bladder and  vaginal tumors  may cause trouble starting to urinate or having a bowel movement, or poor control of urine., Muscle tumors may lead to a painful lump, and can be mistaken for an injury. , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003409-4" qtype="exams and tests">How to diagnose Rhabdomyosarcoma ?</Question>
+			<Answer>Diagnosis is often delayed because there aren't symptoms and because the tumor may appear at the same time as a recent injury. Early diagnosis is important because this cancer spreads quickly. The health care provider will perform a physical exam. Detailed questions will be asked about symptoms and medical history. Tests that may be ordered include: Chest x-ray, CT scan of the chest to look for spread of the tumor,  CT scan  of the tumor site, Bone marrow biopsy (may show the cancer has spread),  Bone scan  to look for spread of the tumor,  MRI  scan of the tumor site, Spinal tap ( lumbar puncture ) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003409-5" qtype="treatment">What are the treatments for Rhabdomyosarcoma ?</Question>
+			<Answer>Treatment depends on the site and type of rhabdomyosarcoma. Either radiation or chemotherapy, or both, will be used before or after surgery. In general, surgery and radiation therapy are used to treat the primary site of the tumor. Chemotherapy is used to treat disease at all sites in the body. Chemotherapy is an essential part of treatment to prevent spread and recurrence of the cancer. Many different chemotherapy drugs are active against rhabdomyosarcoma. Your provider will discuss these with you.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003409-6" qtype="support groups">Where to find support for people with Rhabdomyosarcoma ?</Question>
+			<Answer>The stress of illness can be eased by joining a  cancer support group . Sharing with others who have common experiences and problems can help you not feel alone.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003409-7" qtype="outlook">What is the outlook for Rhabdomyosarcoma ?</Question>
+			<Answer>With intensive treatment, most children with rhabdomyosarcoma are able to survive long-term. Cure depends on the specific type of tumor, its location, and how much it has spread.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003409-8" qtype="complications">What are the complications of Rhabdomyosarcoma ?</Question>
+			<Answer>Complications of this cancer or its treatment include: Complications from chemotherapy, Location in which surgery is not possible, Spread of the cancer ( metastasis ), </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003409-9" qtype="when to contact a medical professional">Do I need to see a doctor for Rhabdomyosarcoma ?</Question>
+			<Answer>Call your provider if your child has symptoms of rhabdomyosarcoma.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,54 @@
+<Document id="0001341" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000864.htm">
+ 
+<Focus>Ecthyma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013568</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001341-1" qtype="information">What is (are) Ecthyma ?</Question>
+			<Answer>Ecthyma is a skin infection. It is similar to  impetigo , but occurs deep inside the skin. For this reason, ecthyma is often called deep impetigo.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001341-2" qtype="causes">What causes Ecthyma ?</Question>
+			<Answer>Ecthyma is most often caused by the streptococcus bacteria. Sometimes, staphylococcus bacteria cause this skin infection on its own or in combination with streptococcus. The infection may start in skin that has been injured due to a scratch, rash, or insect bite. The infection often develops on the legs. People with diabetes or a weakened immune system are more prone to ecthyma.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001341-3" qtype="symptoms">What are the symptoms of Ecthyma ?</Question>
+			<Answer>The main symptom of ecthyma is a small  blister  with a red border that may be filled with pus. The blister is similar to that seen with  impetigo , but the infection spreads much deeper into the skin. After the blister goes away, a crusty ulcer appears.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001341-4" qtype="exams and tests">How to diagnose Ecthyma ?</Question>
+			<Answer>Your&#160;health&#160;care provider&#160;can usually diagnose this condition simply by looking at your skin. In rare cases, the fluid inside the blister&#160;is sent to a lab for closer examination, or a  skin biopsy &#160;needs to&#160;be done.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001341-5" qtype="treatment">What are the treatments for Ecthyma ?</Question>
+			<Answer>Your&#160;provider will usually prescribe antibiotics that you need to take by mouth (oral antibiotics). Very early cases may be treated with antibiotics that you apply to the affected area (topical antibiotics).&#160;Serious infections&#160;may need antibiotics given through a vein (intravenous antibiotics). Placing a warm, wet cloth over the area can help remove ulcer crusts. Your&#160;provider may recommend antiseptic soap or peroxide washes to speed recovery.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001341-6" qtype="outlook">What is the outlook for Ecthyma ?</Question>
+			<Answer>Ecthyma can sometimes result in scarring.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001341-7" qtype="complications">What are the complications of Ecthyma ?</Question>
+			<Answer> This condition may lead to: Spread of infection to other parts of the body, Permanent skin damage with scarring, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001341-8" qtype="when to contact a medical professional">Do I need to see a doctor for Ecthyma ?</Question>
+			<Answer>Make an appointment with your provider if you have symptoms of ecthyma.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001341-9" qtype="prevention">How to prevent Ecthyma ?</Question>
+			<Answer>Carefully clean the skin after an injury, such as a bite or scratch.&#160;Do not scratch or&#160;pick at scabs and sores.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

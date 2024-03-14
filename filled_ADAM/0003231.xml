@@ -1,0 +1,55 @@
+<Document id="0003231" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000674.htm">
+ 
+<Focus>Progressive multifocal leukoencephalopathy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023524</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PML</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003231-1" qtype="information">What is (are) Progressive multifocal leukoencephalopathy ?</Question>
+			<Answer>Progressive multifocal leukoencephalopathy (PML) is a rare infection that damages the material ( myelin ) that covers and protects nerves in the  white matter of the brain .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003231-2" qtype="causes">What causes Progressive multifocal leukoencephalopathy ?</Question>
+			<Answer>The John Cunningham virus, or JC virus (JCV), causes PML. JCV is also known as human polyomavirus 2. By age 10, most people have been infected with JCV, but it rarely causes symptoms. The virus remains in the body, but normally is inactive and causes no problems. But people with a weakened immune system are at risk of developing PML. Causes of a weakened immune system include: HIV/AIDS  (less common now because of better management of HIV/AIDS)., Medicines that suppress the immune system called monoclonal antibodies. These medicines are used to prevent organ transplant rejection or to treat multiple sclerosis, rheumatoid arthritis and other autoimmune disorders, and related conditions., Cancers, such as leukemia and Hodgkin lymphoma., </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003231-3" qtype="symptoms">What are the symptoms of Progressive multifocal leukoencephalopathy ?</Question>
+			<Answer>Symptoms may include any of the following: 
+   Loss of coordination, clumsiness
+   , 
+   Loss of language ability (aphasia)
+   , 
+   Memory loss
+   , 
+   Vision problems
+   , 
+   Weakness of the legs and arms that gets worse
+   , Personality changes, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003231-4" qtype="exams and tests">How to diagnose Progressive multifocal leukoencephalopathy ?</Question>
+			<Answer>The health care provider will perform a physical exam and ask about symptoms. Tests may include: Brain biopsy (in rare cases), Cerebrospinal fluid and blood test for the JCV,  CT scan of the brain ,  Electroencephalogram  (EEG),  MRI of the brain , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003231-5" qtype="treatment">What are the treatments for Progressive multifocal leukoencephalopathy ?</Question>
+			<Answer>In people with HIV/AIDS, treatment to strengthen the immune system can lead to recovery from the symptoms of PML. No other treatments have proved effective for PML. Medicines to treat PML are being developed and may be available in the near future.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003231-6" qtype="outlook">What is the outlook for Progressive multifocal leukoencephalopathy ?</Question>
+			<Answer>PML is a life-threatening condition. Depending on how severe the infection is, up to one half of people diagnosed with PML die within the first few months.Talk to your provider about care decisions.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

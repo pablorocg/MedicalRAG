@@ -1,0 +1,52 @@
+<Document id="0003497" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003161.htm">
+ 
+<Focus>Scrotal swelling</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0282005</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Swelling of the scrotum</Synonym>
+		<Synonym>Testicular enlargement</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003497-1" qtype="information">What is (are) Scrotal swelling ?</Question>
+			<Answer>Scrotal swelling is abnormal enlargement of the scrotum. This is the name for the sac surrounding the testicles.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003497-2" qtype="considerations">What to do for Scrotal swelling ?</Question>
+			<Answer>Scrotal swelling can occur in males at any age. The swelling can be on one or both sides, and there may be pain. The testicles and penis may or may not be involved. In  testicular torsion , the testicle becomes twisted in the  scrotum  and loses its blood supply. It is a serious emergency. If this twisting is not relieved quickly, the testicle may be permanently and completely damaged. This condition is extremely painful. Call 911 or the local emergency number, or see your health care provider immediately. Losing blood supply for just a few hours can cause tissue death and the loss of a testicle.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003497-3" qtype="causes">What causes Scrotal swelling ?</Question>
+			<Answer>Causes of scrotal swelling include:  Certain medical treatments, Congestive heart failure,  Epididymitis ,  Hernia ,  Hydrocele , Injury,  Orchitis , Surgery in the genital area, Testicular torsion,  Varicocele , Testicular cancer , Fluid retention, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003497-4" qtype="considerations">What to do for Scrotal swelling ?</Question>
+			<Answer>Scrotal swelling can occur in males at any age. The swelling can be on one or both sides, and there may be pain. The testicles and penis may or may not be involved. In  testicular torsion , the testicle becomes twisted in the  scrotum  and loses its blood supply. It is a serious emergency. If this twisting is not relieved quickly, the testicle may be permanently and completely damaged. This condition is extremely painful. Call 911 or the local emergency number, or see your health care provider immediately. Losing blood supply for just a few hours can cause tissue death and the loss of a testicle.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003497-5" qtype="when to contact a medical professional">Do I need to see a doctor for Scrotal swelling ?</Question>
+			<Answer>Contact your provider if: 
+  You notice any unexplained scrotal swelling.
+  , 
+  The swelling is painful.
+  , 
+  You have a  testicle lump .
+  , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003497-6" qtype="outlook">What is the outlook for Scrotal swelling ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

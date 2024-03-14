@@ -1,0 +1,34 @@
+<Document id="0001948" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000368.htm">
+ 
+<Focus>Hereditary amyloidosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206246</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Amyloidosis - hereditary</Synonym>
+		<Synonym>Familial amyloidosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001948-1" qtype="information">What is (are) Hereditary amyloidosis ?</Question>
+			<Answer>Hereditary amyloidosis is a condition in which abnormal protein deposits (called amyloid) form in almost every tissue in the body. Harmful deposits most often form in the heart, kidneys, and nervous system. These  protein  deposits damage the tissues and interfere with how organs work.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001948-2" qtype="causes">What causes Hereditary amyloidosis ?</Question>
+			<Answer>Hereditary amyloidosis is passed down from parents to their children (inherited). Genes may also play a role in  primary amyloidosis .  Other types of amyloidosis are not inherited. They include: Senile systemic: seen in people older than 70, Spontaneous: occurs without a known cause, Secondary: results from diseases such as cancer of certain blood cells (myeloma),  Specific conditions include: Cardiac amyloidosis ,  Cerebral amyloidosis ,  Secondary systemic amyloidosis , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001948-3" qtype="treatment">What are the treatments for Hereditary amyloidosis ?</Question>
+			<Answer>Treatment to improve the function of damaged organs will help relieve some symptoms of hereditary amyloidosis. A liver transplant may be helpful to reduce the creation of harmful amyloid proteins. Talk to your health care provider about treatments.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

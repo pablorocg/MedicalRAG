@@ -1,0 +1,13 @@
+<Document id="0000978" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000701.htm">
+ 
+<Focus>COPD and other health problems</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000978-1" qtype="information">Do you have information about COPD and other health problems</Question>
+			<Answer>Having other health problems can affect your symptoms and treatments. You may need to visit your doctor more often. You also may need to have more tests or treatments. Having COPD is a lot to manage. But try to stay positive. You can protect your health by understanding why you are at risk for certain conditions and learning how to prevent them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

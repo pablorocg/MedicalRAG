@@ -1,0 +1,16 @@
+<Document id="0000104" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000620.htm">
+ 
+<Focus>After a C-section - in the hospital</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Cesarean section - in the hospital</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000104-1" qtype="information">Do you have information about After a C-section - in the hospital</Question>
+			<Answer>Most women will remain in the hospital for 2 to 3 days after a cesarean birth ( C-section ). Take advantage of the time to bond with your new baby, get some rest, and receive some help with breastfeeding and caring for your baby.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

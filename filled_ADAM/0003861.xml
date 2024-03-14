@@ -1,0 +1,18 @@
+<Document id="0003861" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003374.htm">
+ 
+<Focus>TBG - blood test</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Serum thyroxine binding globulin</Synonym>
+		<Synonym>TBG level</Synonym>
+		<Synonym>Serum TBG level</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003861-1" qtype="information">Do you have information about TBG - blood test</Question>
+			<Answer>The TBG blood test measures the level of a protein that moves thyroid hormone throughout your body. This protein is called thyroxine-binding globulin (TBG).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,58 @@
+<Document id="0004288" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007186.htm">
+ 
+<Focus>West Nile virus</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0043125</CUI>
+			<CUI>C1096184</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T005</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004288-1" qtype="information">What is (are) West Nile virus ?</Question>
+			<Answer>West Nile virus causes a viral disease and is spread by mosquitoes. The condition ranges from mild to severe.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004288-2" qtype="causes">What causes West Nile virus ?</Question>
+			<Answer>West Nile virus was first identified in 1937 in Uganda in eastern Africa. It was first discovered in the United States in the summer of 1999 in New York. Since then, the virus has spread throughout the US. Researchers believe West Nile virus is spread when a mosquito bites an infected bird and then bites a person. Mosquitoes carry the highest amounts of the virus in the late summer and early fall, which is why more people get the disease in late August to early September. As the weather becomes colder and mosquitoes die off, there are fewer cases of the disease. Although many people are bitten by mosquitoes that carry West Nile virus, most do not know they have been infected.  Risk factors for developing a more severe form of West Nile virus include: Conditions that weaken the immune system, such as  HIV/AIDS , organ transplants, and recent  chemotherapy , Older or very young age, Pregnancy ,  West Nile virus may also be spread through blood transfusions and organ transplants. It is possible for an infected mother to spread the virus to her child through breast milk.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004288-3" qtype="symptoms">What are the symptoms of West Nile virus ?</Question>
+			<Answer>Symptoms may occur 1 to 14 days after becoming infected. Mild disease, generally called West Nile fever, may cause some or all of the following symptoms: Abdominal pain, Fever, headache, and sore throat, Lack of appetite,  Muscle aches , Nausea, vomiting, and diarrhea, Rash, Swollen lymph nodes ,  These symptoms usually last for 3 to 6 days, but may last a month. More severe forms of disease are called West Nile encephalitis or West Nile meningitis, depending on what part of the body is affected. The following symptoms can occur, and need prompt attention: Confusion  or change in ability to think clearly,  Loss of consciousness  or coma,  Muscle weakness , 
+ Stiff neck
+ , Weakness of one arm or leg , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004288-4" qtype="exams and tests">How to diagnose West Nile virus ?</Question>
+			<Answer>Signs of West Nile virus infection are similar to those of other viral infections. There may be no specific findings on a physical examination. About one half of people with West Nile virus infection may have a rash. Tests to diagnose West Nile virus include: Blood test or a  spinal tap  to check for  antibodies  against the virus,  Head CT scan ,  Head MRI scan , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004288-5" qtype="treatment">What are the treatments for West Nile virus ?</Question>
+			<Answer>Because this illness is not caused by bacteria, antibiotics do not treat West Nile virus infection. Supportive care may help decrease the risk for developing complications in severe illness.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004288-6" qtype="outlook">What is the outlook for West Nile virus ?</Question>
+			<Answer>People with mild West Nile virus infection do well after treatment. For those with severe infection, the outlook is more uncertain. West Nile encephalitis or meningitis may lead to brain damage and death. One in ten people with brain inflammation do not survive.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004288-7" qtype="complications">What are the complications of West Nile virus ?</Question>
+			<Answer>Complications from mild West Nile virus infection are very rare. Complications from severe West Nile virus infection include: Brain damage, Permanent muscle weakness (sometimes similar to  polio ), Death , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004288-8" qtype="when to contact a medical professional">Do I need to see a doctor for West Nile virus ?</Question>
+			<Answer>Contact your health care provider if you have symptoms of West Nile virus infection, particularly if you may have had contact with mosquitoes. If you are very sick, go to an emergency room. There is no treatment to avoid getting West Nile virus infection after a mosquito bite. People in good health generally do not develop a serious West Nile infection.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0004288-9" qtype="prevention">How to prevent West Nile virus ?</Question>
+			<Answer>The best way to prevent West Nile virus infection is to avoid mosquito bites: Use mosquito-repellant products containing DEET (N,N-diethyl-meta-toluamide), Wear long sleeves and pants, Drain pools of standing water, such as trash bins and plant saucers (mosquitos breed in stagnant water) ,  Community spraying for mosquitoes may also reduce mosquito breeding.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

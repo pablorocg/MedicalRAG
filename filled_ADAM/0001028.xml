@@ -1,0 +1,65 @@
+<Document id="0001028" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001454.htm">
+ 
+<Focus>Creeping eruption</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0302295</CUI>
+			<CUI>C0023048</CUI>
+			<CUI>C0546999</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cutaneous larvae migrans</Synonym>
+		<Synonym>Zoonotic hookworm</Synonym>
+		<Synonym>Ancylostoma caninum</Synonym>
+		<Synonym>Ancylostoma braziliensis</Synonym>
+		<Synonym>Bunostomum phlebotomum</Synonym>
+		<Synonym>Uncinaria stenocephala</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001028-1" qtype="information">What is (are) Creeping eruption ?</Question>
+			<Answer>Creeping eruption is a human infection with dog or cat  hookworm  larvae (immature worms).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001028-2" qtype="causes">What causes Creeping eruption ?</Question>
+			<Answer>Hookworm eggs are found in the stool of infected dogs and cats. When the eggs hatch, the larvae can infest soil and vegetation. When you come into contact with this infested soil, the larvae can burrow into your skin. They cause an intense  inflammatory response  that leads to a  rash  and severe itching. Creeping eruption is more common in countries with warm climates. In the United States, the Southeast has the highest rates of infection. The main risk factor for this disease is contact with damp, sandy soil that has been contaminated with infected cat or dog stool. More children than adults become infected.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001028-3" qtype="symptoms">What are the symptoms of Creeping eruption ?</Question>
+			<Answer>Symptoms of creeping eruption include: Blisters , Itching, may be more severe at night, Raised, snakelike tracks in the skin that may spread over time, usually about 1 cm (less than one half inch) per day, usually on the feet and legs (severe infections may cause several tracks), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001028-4" qtype="exams and tests">How to diagnose Creeping eruption ?</Question>
+			<Answer>Your health care provider can often diagnose this condition by looking at your skin. In rare cases, a  skin biopsy  is done to rule out other conditions. In very rare cases, a blood test is done to see if you have increased  eosinophils  (a type of white blood cell).</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001028-5" qtype="treatment">What are the treatments for Creeping eruption ?</Question>
+			<Answer>Anti-parasitic medicines may be used to treat the infection. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001028-6" qtype="outlook">What is the outlook for Creeping eruption ?</Question>
+			<Answer>Creeping eruption often goes away by itself over weeks to months. Treatment with anti-parasitic medicines helps the infection go away more quickly.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001028-7" qtype="complications">What are the complications of Creeping eruption ?</Question>
+			<Answer>Creeping eruption may lead to these complications: Bacterial skin infections caused by scratching, Spread of the infection through the bloodstream to the lungs or small intestine (rare) , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001028-8" qtype="when to contact a medical professional">Do I need to see a doctor for Creeping eruption ?</Question>
+			<Answer>Make an appointment with your provider if you or your child have skin sores that are:  Snake-like, Itchy, Moving from one area to another, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001028-9" qtype="prevention">How to prevent Creeping eruption ?</Question>
+			<Answer>Public sanitation and deworming of dogs and cats have decreased hookworm infestation in the United States. Hookworm larvae often enter the body through bare feet, so wearing shoes in areas where hookworm infestations are known to occur helps prevent infection.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

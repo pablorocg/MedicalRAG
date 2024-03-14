@@ -1,0 +1,63 @@
+<Document id="0003289" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001090.htm">
+ 
+<Focus>Pulmonary arteriovenous fistula</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0155675</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Arteriovenous malformation - pulmonary</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003289-1" qtype="information">What is (are) Pulmonary arteriovenous fistula ?</Question>
+			<Answer>Pulmonary arteriovenous fistula is an abnormal connection between an artery and vein in the lungs. As a result, blood passes through the lungs without receiving enough oxygen.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003289-2" qtype="causes">What causes Pulmonary arteriovenous fistula ?</Question>
+			<Answer>Pulmonary arteriovenous fistulas are usually the result of abnormal development of the blood vessels of the lung. Most occur in people with  hereditary hemorrhagic telangiectasia (HHT) . These people often have abnormal blood vessels in many other parts of the body. Fistulas also can be a complication of liver disease or lung injury, although these causes are much less common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003289-3" qtype="symptoms">What are the symptoms of Pulmonary arteriovenous fistula ?</Question>
+			<Answer>Many people have no symptoms. When symptoms occur, they can include: Bloody sputum ,  Difficulty breathing , 
+Difficulty exercising
+   , 
+   Nosebleeds
+   , Shortness of breath with exertion,  Chest pain &#160;, Blue skin ( cyanosis ),  Clubbing  of the fingers, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003289-4" qtype="exams and tests">How to diagnose Pulmonary arteriovenous fistula ?</Question>
+			<Answer>The health care provider will examine you. The exam may show: Abnormal blood vessels ( telangiectasias ) on the skin or mucous membranes, Abnormal sound, called a murmur when a stethoscope is placed over the abnormal blood vessel, Low oxygen when measured with a pulse oximeter,  Tests that may be done include: Arterial blood gas , with and without oxygen (usually oxygen treatment does not improve the arterial blood gas as much as expected) ,  Complete blood count  (CBC),  Chest x-ray ,  Chest CT scan ,  Echocardiogram  with bubble study to check the function of the heart and assess for presence of a shunt,  Lung function tests ,  Perfusion radionuclide lung scan  to measure breathing and circulation (perfusion) in all areas of the lungs, Pulmonary  arteriogram  to view the lung arteries, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003289-5" qtype="treatment">What are the treatments for Pulmonary arteriovenous fistula ?</Question>
+			<Answer>A small number of people who have no symptoms may not need treatment. For most people with fistulas, the treatment of choice is to block the fistula during an  arteriogram  (embolization). Some people may need surgery to remove the abnormal vessels and nearby lung tissue. When arteriovenous fistulas are caused by liver disease, the treatment is a  liver transplant .</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003289-6" qtype="outlook">What is the outlook for Pulmonary arteriovenous fistula ?</Question>
+			<Answer>The outlook for people with HHT is not as good as for those without HHT. For people without HHT, surgery to remove the abnormal vessels usually has a good outcome, and the condition is not likely to return. For people with liver disease as a cause, prognosis depends on liver disease.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003289-7" qtype="complications">What are the complications of Pulmonary arteriovenous fistula ?</Question>
+			<Answer>Complications may include:  
+ Bleeding in the lung 
+  ,  Stroke  due to blood clot that travels from the lungs to the arms, legs, or brain (paradoxical venous embolism) ,  Infection in the brain or heart valve, especially in patients with HHT , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003289-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pulmonary arteriovenous fistula ?</Question>
+			<Answer>Contact your provider if you often have nosebleeds or difficulty breathing, especially if you also have a personal or family&#160;history of HHT.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003289-9" qtype="prevention">How to prevent Pulmonary arteriovenous fistula ?</Question>
+			<Answer>Because HHT is often genetic, prevention is not usually possible.  Genetic counseling &#160;may help in some cases.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

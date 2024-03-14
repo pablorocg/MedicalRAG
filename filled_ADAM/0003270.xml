@@ -1,0 +1,60 @@
+<Document id="0003270" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001269.htm">
+ 
+<Focus>Prune belly syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0033770</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Eagle-Barrett syndrome</Synonym>
+		<Synonym>Triad syndrome</Synonym>
+		<Synonym>Urethral obstruction malformation sequence</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003270-1" qtype="information">What is (are) Prune belly syndrome ?</Question>
+			<Answer>Prune belly syndrome is a group of rare birth defects that involves these three main problems: Poor development of the abdominal muscles, causing the skin of the belly area to wrinkle like a prune,  Undescended testicles , Urinary tract problems, </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003270-2" qtype="causes">What causes Prune belly syndrome ?</Question>
+			<Answer>The exact causes of prune belly syndrome are unknown. The condition affects mostly boys. While in the womb, the developing baby's abdomen swells with fluid. Often, the cause is a problem in the urinary tract. The fluid disappears after birth, leading to a wrinkled abdomen that looks like a prune. This appearance is more noticeable due to the lack of abdominal muscles.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003270-3" qtype="symptoms">What are the symptoms of Prune belly syndrome ?</Question>
+			<Answer>Weak abdominal muscles can cause: Constipation , Delay in sitting and walking, Difficulties coughing,  Urinary tract problems can cause difficulty urinating.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003270-4" qtype="exams and tests">How to diagnose Prune belly syndrome ?</Question>
+			<Answer>A woman who is pregnant with a baby who has prune belly syndrome may not have enough amniotic fluid (the fluid that surrounds the fetus). This can cause the infant to have lung problems&#160;from being compressed in the womb. An  ultrasound done during pregnancy  may show that the baby has a swollen bladder or enlarged kidney. In some cases, a pregnancy ultrasound may also help determine if the baby has: Heart problems , Abnormal bones or muscles, Stomach and intestinal problems, Underdeveloped lungs ,  The following tests may be performed on the baby after birth to diagnose the condition: Blood tests,  Intravenous pyelogram  (IVP), Ultrasound,  Voiding cystourethrogram  (VCUG), X-ray , CT scan&#160; , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003270-5" qtype="treatment">What are the treatments for Prune belly syndrome ?</Question>
+			<Answer>Early surgery is recommended to fix weak abdominal muscles, urinary tract problems, and undescended testicles. The baby may be given antibiotics to treat or help prevent urinary tract infections.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003270-6" qtype="outlook">What is the outlook for Prune belly syndrome ?</Question>
+			<Answer>Prune belly syndrome is a serious and often life-threatening problem. Many infants with this condition are either  stillborn  or die within the first few weeks of life. The cause of death is&#160;from severe lung or kidney problems, or from a combination of birth problems. Some newborns survive and can develop normally.&#160;Others continue to have many medical and developmental problems.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003270-7" qtype="complications">What are the complications of Prune belly syndrome ?</Question>
+			<Answer>Complications depend on the related problems. The most common are: Constipation, Bone deformities ( clubfoot , dislocated hip, missing limb, finger, or toe,  funnel chest ), Disease of the urinary tract (may need dialysis and a kidney transplant),  Undescended testicles can lead to  infertility  or cancer.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003270-8" qtype="when to contact a medical professional">Do I need to see a doctor for Prune belly syndrome ?</Question>
+			<Answer>Prune belly syndrome is usually diagnosed before birth or when the baby is born. If you have a child with diagnosed prune belly syndrome, contact your health care provider at the first sign of a urinary tract infection or other urinary symptoms. If a pregnancy ultrasound shows that your baby has a&#160;swollen bladder or enlarged kidneys, talk to a specialist in high-risk pregnancy or perinatology.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003270-9" qtype="prevention">How to prevent Prune belly syndrome ?</Question>
+			<Answer>There is no known way to prevent this condition. If the baby is diagnosed with a urinary tract obstruction before birth, in rare cases, surgery during the pregnancy may help prevent the problem from progressing to prune belly syndrome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

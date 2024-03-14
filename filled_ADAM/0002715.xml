@@ -1,0 +1,64 @@
+<Document id="0002715" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000531.htm">
+ 
+<Focus>Myelofibrosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0001815</CUI>
+			<CUI>C0026987</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Idiopathic myelofibrosis</Synonym>
+		<Synonym>Myeloid metaplasia</Synonym>
+		<Synonym>Agnogenic myeloid metaplasia</Synonym>
+		<Synonym>Primary myelofibrosis</Synonym>
+		<Synonym>Secondary myelofibrosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002715-1" qtype="information">What is (are) Myelofibrosis ?</Question>
+			<Answer>Myelofibrosis is a disorder of the bone marrow in which the marrow is replaced by fibrous scar tissue.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002715-2" qtype="causes">What causes Myelofibrosis ?</Question>
+			<Answer>Bone marrow is the soft, fatty tissue inside your bones. Stem cells are immature cells in the bone marrow that develop into all of your blood cells. Your blood is made of: Red blood cells (which carry oxygen to your tissues), White blood cells (which fight infection), Platelets (which help your blood clot) ,  When the bone marrow is scarred, it cannot make enough blood cells.  Anemia , bleeding problems, and a higher risk for infections may occur. As a result, the liver and spleen try to make some of these blood cells. This causes these organs to swell. The cause of myelofibrosis is often unknown. There are no known risk factors. When it occurs, it often develops slowly in people over age 50. Women and men are equally affected. There is an increased occurrence of this condition in Ashkenazi Jews. Blood and bone marrow cancers, such as myelodysplastic syndrome,  leukemia , and lymphoma, may also cause bone marrow scarring. This is called secondary myelofibrosis.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002715-3" qtype="symptoms">What are the symptoms of Myelofibrosis ?</Question>
+			<Answer>Symptoms may include any of the following: Abdominal fullness , pain, or feeling full before finishing a meal (because of&#160;an enlarged spleen),  Bone pain , 
+   Easy bleeding,  bruising , Fatigue, Increased likelihood of getting an infection,  Pale skin ,  Shortness of breath  with exercise , Weight loss, Night sweats, Low grade fever, Enlarged liver, Dry cough, Itchy skin, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002715-4" qtype="exams and tests">How to diagnose Myelofibrosis ?</Question>
+			<Answer>The health care provider will perform a physical exam and ask about the symptoms. Tests that may be done include: Complete blood count  (CBC) with blood smear to check different types of blood cells, Measuring tissue damage ( LDH enzyme level ), Molecular testing ,  Bone marrow biopsy  to diagnose the condition and to check for bone marrow cancers , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002715-5" qtype="treatment">What are the treatments for Myelofibrosis ?</Question>
+			<Answer>Bone marrow  or stem cell transplant may improve symptoms, and may cure the disease. This treatment is usually considered for younger people. Other treatment may involve: Blood transfusions and medicines to correct anemia, Radiation and  chemotherapy ,  Targeted medicines , 
+   Removal of the spleen ( splenectomy ) if swelling causes symptoms, or to help with anemia , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002715-6" qtype="outlook">What is the outlook for Myelofibrosis ?</Question>
+			<Answer>As the disease worsens, the bone marrow slowly stops working. Low platelet count leads to easy bleeding. Spleen swelling may get worse along with anemia. Survival of people with primary myelofibrosis is about 5 years. But some people survive for decades.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002715-7" qtype="complications">What are the complications of Myelofibrosis ?</Question>
+			<Answer>Complications may include: Development of  acute myelogenous leukemia , Infections, Bleeding, Blood clots, Liver failure , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002715-8" qtype="when to contact a medical professional">Do I need to see a doctor for Myelofibrosis ?</Question>
+			<Answer>Make an appointment with your provider if you have symptoms of this disorder. Seek medical care right away for uncontrolled bleeding, shortness of breath, or jaundice (yellow skin and whites of the eyes) that gets worse.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002715-9" qtype="prevention">How to prevent Myelofibrosis ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

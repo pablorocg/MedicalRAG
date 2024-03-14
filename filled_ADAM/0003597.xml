@@ -1,0 +1,13 @@
+<Document id="0003597" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000435.htm">
+ 
+<Focus>Skilled nursing or rehabilitation facilities</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003597-1" qtype="information">Do you have information about Skilled nursing or rehabilitation facilities</Question>
+			<Answer>When you no longer need the amount or type of care provided in a hospital, the hospital will begin the process to discharge you. Most people hope to go directly home from the hospital. Even if you and your health care provider planned for you to go home, your recovery may be slower than expected. As a result, you may need to be transferred to a skilled nursing or rehabilitation facility.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

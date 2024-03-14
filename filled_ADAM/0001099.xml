@@ -1,0 +1,18 @@
+<Document id="0001099" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000133.htm">
+ 
+<Focus>Daily bowel care program</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Incontinence - care</Synonym>
+		<Synonym>Dysfunctional bowel - care</Synonym>
+		<Synonym>Neurogenic bowel - care</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001099-1" qtype="information">Do you have information about Daily bowel care program</Question>
+			<Answer>Health conditions that cause nerve damage can cause problems with how your bowels function. A daily bowel care program can help manage this problem and avoid embarrassment.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

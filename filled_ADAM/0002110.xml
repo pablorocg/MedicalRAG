@@ -1,0 +1,57 @@
+<Document id="0002110" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001211.htm">
+ 
+<Focus>Hypothalamic tumor</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020659</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hypothalamic glioma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002110-1" qtype="information">What is (are) Hypothalamic tumor ?</Question>
+			<Answer>A hypothalamic  tumor  is an abnormal growth in the  hypothalamus  gland, which is located in the brain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002110-2" qtype="causes">What causes Hypothalamic tumor ?</Question>
+			<Answer>The exact cause of hypothalamic tumors is not known. It is likely that they result from a combination of genetic and environmental factors. In children, most hypothalamic tumors are gliomas. Gliomas are a common type of brain tumor that results from the abnormal growth of glial cells, which support nerve cells. Gliomas can occur at any age. They are often more aggressive in adults than in children. In adults, tumors in the hypothalamus are more likely cancer that has spread from another organ. People with  neurofibromatosis  (a hereditary condition) are at increased risk for this type of tumor. People who have undergone radiation therapy are at increased risk of developing tumors in general.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002110-3" qtype="symptoms">What are the symptoms of Hypothalamic tumor ?</Question>
+			<Answer>These tumors can cause a range of symptoms: Euphoric "high" sensations,  Failure to thrive  (lack of normal growth in children), Headache,  Hyperactivity , Loss of body fat and appetite (cachexia) ,  These symptoms are most often seen in children whose tumors affect the front part of the hypothalamus. Some tumors may cause vision loss. If the tumors block the flow of spinal fluid, headaches and sleepiness may result from fluid collecting in the brain ( hydrocephalus ). Some people can have seizures as a result of brain tumors. Other people may develop  precocious puberty  from a change in pituitary gland function.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002110-4" qtype="exams and tests">How to diagnose Hypothalamic tumor ?</Question>
+			<Answer>Your health care provider may see signs of a hypothalamic tumor during a regular checkup. A brain and nervous system (neurological) exam, including tests of  visual function , may be done. Blood tests for hormone imbalances may also be ordered. Depending on the results of the examination and blood tests, a  CT scan  or  MRI scan  can determine whether you have a hypothalamic tumor. Visual field testing  may be done to check for vision loss and to determine whether the condition is improving or getting worse.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002110-5" qtype="treatment">What are the treatments for Hypothalamic tumor ?</Question>
+			<Answer>The treatment depends on how aggressive the tumor is, and whether it is a glioma or another type of cancer. Treatment may involve combinations of surgery,  radiation , and  chemotherapy . Special radiation treatments can be focused on the tumor. They can be as effective as surgery, with less risk to surrounding tissue. Brain swelling caused by a tumor may need to be treated with steroids. Hypothalamic tumors may produce hormones or affect hormone production, leading to imbalances that may need to be corrected. In some cases, hormones may need to be replaced or reduced.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002110-6" qtype="support groups">Where to find support for people with Hypothalamic tumor ?</Question>
+			<Answer>You can often help the stress of illness by joining a  support group  where members share common experiences and problems.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002110-7" qtype="outlook">What is the outlook for Hypothalamic tumor ?</Question>
+			<Answer>The outlook depends on: The type of tumor (glioma or other type), Location of tumor, Grade of tumor, Size of tumor, Your age and general health ,  In general, gliomas in adults are more aggressive than in children and usually have a worse outcome. Tumors that cause hydrocephalus may cause more complications, and may need surgery.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002110-8" qtype="complications">What are the complications of Hypothalamic tumor ?</Question>
+			<Answer>Complications of brain surgery may include: Bleeding, Brain damage, Death (rarely), Infection ,  Seizures can result from the tumor or from any surgical procedure on the brain. Hydrocephalus can occur with some tumors and can require surgery or a catheter placed in the brain to reduce spinal fluid pressure. Risks for radiation therapy include damage to healthy brain cells when tumor cells are destroyed. Common side effects from chemotherapy include loss of appetite, nausea and vomiting, and fatigue.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002110-9" qtype="when to contact a medical professional">Do I need to see a doctor for Hypothalamic tumor ?</Question>
+			<Answer>Call your provider if you or your child develops any symptoms of a hypothalamic tumor. Regular medical check-ups may detect early signs of a problem, such as abnormal weight gain or early puberty.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

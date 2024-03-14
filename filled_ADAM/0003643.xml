@@ -1,0 +1,22 @@
+<Document id="0003643" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000696.htm">
+ 
+<Focus>Smoking and COPD</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1519384</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003643-1" qtype="information">What is (are) Smoking and COPD ?</Question>
+			<Answer>Things that make COPD symptoms worse are called triggers. Knowing what your triggers are and how to avoid them can help you feel better. Smoking is a trigger for many people who have COPD. Smoking can cause an exacerbation, or flare-up, of your symptoms. You do not have to be a smoker for smoking to cause harm. Exposure to someone else's smoking (called secondhand smoke) is also a trigger for COPD flare-ups. Smoking damages your lungs. When you have COPD and you smoke, your lungs will get damaged more rapidly than if you were to stop smoking.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

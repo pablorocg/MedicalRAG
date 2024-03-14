@@ -1,0 +1,28 @@
+<Document id="0002917" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007489.htm">
+ 
+<Focus>Pain medications - narcotics</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0030193</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Painkillers</Synonym>
+		<Synonym>Drugs for pain</Synonym>
+		<Synonym>Analgesics</Synonym>
+		<Synonym>Opioids</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002917-1" qtype="information">What is (are) Pain medications - narcotics ?</Question>
+			<Answer>Narcotics work by binding to receptors in the brain, which blocks the feeling of pain. You should not use a narcotic drug for more than 3 to 4 months, unless your provider instructs you otherwise. NAMES OF COMMON NARCOTICS Codeine, Fentanyl -- available as a patch, lozenge, or lollipop, Hydrocodone, Hydromorphone, Meperidine, Morphine, Oxycodone, Tramadol,  TAKING NARCOTICS Narcotic pain medicines may be prescribed to treat: Acute pain, such as from injuries, surgery or other procedures, and other short-term medical problems., Chronic pain, present for 3 months or more. This type of pain may be due to injuries or diseases involving the nervous system, as well as many other chronic conditions.,  There are often a wide variety of non-narcotic or nonopioid treatments. Pharmacotherapy options are available to treat both types of pain. These drugs can be abused and habit-forming. Always take narcotics as prescribed. Your provider may suggest that you take your medicine only when you feel pain. Or, your provider may suggest taking a narcotic on a regular schedule. Allowing the medicine to wear off before taking more of it can make the pain more difficult to control. Contact your provider right away if you feel you are addicted to the drug. A sign of addiction is a strong craving for the drug that you can't control. Taking narcotics to control the pain of cancer or other medical problems does not itself lead to addiction. Store narcotics safely and securely in your home. You may need a pain specialist to help you manage long-term pain. SIDE EFFECTS OF NARCOTICS Drowsiness and impaired judgment often occur with these medicines. When taking a narcotic, do not drink alcohol, drive, or operate heavy machinery. You can relieve itching by reducing the dose or talking to your provider about switching medicines. To help with constipation, drink more fluids, get more exercise, eat foods with extra fiber, and use stool softeners. If nausea or vomiting occur, try taking the narcotic with food. Withdrawal symptoms are common when you stop taking a narcotic. Symptoms include strong desire for the medicine (craving), yawning, insomnia, restlessness, mood swings, or diarrhea. To prevent withdrawal symptoms, your provider may recommend you gradually lower the dosage over time. OVERDOSE RISK Opioid overdose is a major risk if you take a narcotic drug for a long time. Before you are prescribed a narcotic, your provider may first do the following: Screen you to see if you are at risk for or already have an opioid use problem., Teach you and your family how to respond if you have an overdose. You may be prescribed and instructed how to use a drug called naloxone in case you have an overdose of your narcotic drug., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

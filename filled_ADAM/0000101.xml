@@ -1,0 +1,13 @@
+<Document id="0000101" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002221.htm">
+ 
+<Focus>Aerobic</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000101-1" qtype="information">Do you have information about Aerobic</Question>
+			<Answer>Aerobic means oxygen is needed to:  Survive, Grow, Work properly,  For example, bacteria that need oxygen to grow are called aerobic bacteria. Aerobic is the opposite of  anaerobic .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

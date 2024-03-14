@@ -1,0 +1,18 @@
+<Document id="0000495" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003345.htm">
+ 
+<Focus>Blood typing</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Cross matching</Synonym>
+		<Synonym>Rh typing</Synonym>
+		<Synonym>ABO blood typing</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000495-1" qtype="information">Do you have information about Blood typing</Question>
+			<Answer>Blood typing is a method to tell what type of blood you have. Blood typing is done so you can safely donate your blood or receive a blood transfusion. It is also done to see if you have a substance called Rh factor on the surface of your red blood cells. Your blood type is based on whether or not certain proteins are on your red blood cells. These proteins are called antigens. Your blood type (or blood group) depends on what types your parents passed down to you. Blood is often grouped according to the ABO blood typing system. The 4 major blood types are: Type A, Type B, Type AB, Type O, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,40 @@
+<Document id="0000531" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000123.htm">
+ 
+<Focus>Brain aneurysm repair - discharge</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751003</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Aneurysm repair - cerebral - discharge</Synonym>
+		<Synonym>Cerebral aneurysm repair - discharge</Synonym>
+		<Synonym>Coiling - discharge</Synonym>
+		<Synonym>Saccular aneurysm repair - discharge</Synonym>
+		<Synonym>Berry aneurysm repair - discharge</Synonym>
+		<Synonym>Fusiform aneurysm repair - discharge</Synonym>
+		<Synonym>Dissecting aneurysm repair - discharge</Synonym>
+		<Synonym>Endovascular aneurysm repair - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000531-1" qtype="information">What is (are) Brain aneurysm repair - discharge ?</Question>
+			<Answer>You had a  brain aneurysm . An aneurysm is a weak area in the wall of a blood vessel that bulges or balloons out. Once it reaches a certain size, it has a high chance of bursting. It can leak blood along the surface of the brain. This is called a subarachnoid hemorrhage. Sometimes bleeding can occur inside the brain. You had  surgery  to prevent the aneurysm from bleeding or to treat the aneurysm after it bled. After you go home, follow your health care provider's instructions on how to care for yourself. Use the information below as a reminder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000531-2" qtype="outlook">What is the outlook for Brain aneurysm repair - discharge ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000531-4" qtype="when to contact a medical professional">Do I need to see a doctor for Brain aneurysm repair - discharge ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

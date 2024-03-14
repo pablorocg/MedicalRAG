@@ -1,0 +1,51 @@
+<Document id="0004198" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001109.htm">
+ 
+<Focus>Varicose veins and venous insufficiency</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0042345</CUI>
+			<CUI>C0042485</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Varicosity</Synonym>
+		<Synonym>Varicosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004198-1" qtype="information">What is (are) Varicose veins and venous insufficiency ?</Question>
+			<Answer>Varicose veins are swollen, twisted, and enlarged veins that you can see under the skin. They are often red or blue in color. They most often appear in the legs, but can occur in other parts of the body.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004198-2" qtype="causes">What causes Varicose veins and venous insufficiency ?</Question>
+			<Answer>Normally, one-way valves in your leg veins keep blood moving up toward the heart. When the valves do not work properly, they allow blood to back up into the vein. The vein swells from the blood that collects there, which causes varicose veins over time. Varicose veins are common, and affect more women than men. They do not cause problems for most people. However, if the flow of blood through veins becomes poor enough, problems such as leg swelling and pain, blood clots, and skin changes may be present. Risk factors include: Older age, Being female (hormonal changes from puberty, pregnancy, and menopause can lead to varicose veins, and taking birth control pills or hormone replacement can increase your risk), Being born with defective valves, Obesity, Pregnancy, History of blood clots in your legs, Standing or sitting for long periods of time, Family history of varicose veins , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004198-3" qtype="symptoms">What are the symptoms of Varicose veins and venous insufficiency ?</Question>
+			<Answer>Symptoms of varicose veins include: Fullness, heaviness, aching, and sometimes  pain in the legs , Visible, swollen veins, Very small veins that you can see on the surface of the skin, called spider veins., Thigh or calf cramps (often at night), Mild  swelling of feet or ankles , Itching near the varicose veins, Restless leg symptoms,  If flow of blood through the veins becomes poor enough, symptoms may include: Leg swelling, Leg or calf pain after sitting or standing for long periods, Skin color changes of the legs or ankles, Dry, irritated, scaly skin that can crack easily, Skin sores (ulcers) that do not heal easily, Thickening and hardening of the skin in the legs and ankles (this can happen over time) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004198-4" qtype="exams and tests">How to diagnose Varicose veins and venous insufficiency ?</Question>
+			<Answer>Your health care provider will examine your legs to look for swelling, changes in skin color, or sores. Your provider also may: Check blood flow in the veins, Rule out other problems with the legs (such as a blood clot) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004198-5" qtype="treatment">What are the treatments for Varicose veins and venous insufficiency ?</Question>
+			<Answer>Your provider may suggest that you take the following self-care steps to help  manage varicose veins : Wear  compression stockings  to decrease swelling. These stockings gently squeeze your legs to move blood up toward your heart., DO NOT sit or stand for long periods. Even moving your legs slightly helps keep the blood flowing., Raise your legs above your heart 3 or 4 times a day for 15 minutes at a time., Care for wounds if you have any open sores or infections. Your provider can show you how., Lose weight if you are overweight., Get more exercise. This can help you keep off weight and help move blood up your legs. Walking or swimming are good options., If you have dry or cracked skin on your legs, moisturizing may help. However, some skin care treatments can make the problem worse. Talk to your provider before using any lotions, creams, or antibiotic ointments. Your provider can recommend lotions that can help. ,  If only a small number of varicose veins are present, the following procedures may be used: Sclerotherapy . Salt water or a chemical solution is injected into the vein. The vein hardens and disappears., Phlebectomy. Small surgical cuts are made in the leg near the damaged vein. The vein is removed through one of the cuts.&#160;, If the varicose veins are larger, longer, or more widespread on the leg, your provider will suggest a procedure using such a  laser or radiofrequency , which can be done in the provider's office or clinic., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004198-6" qtype="outlook">What is the outlook for Varicose veins and venous insufficiency ?</Question>
+			<Answer>Varicose veins tend to get worse over time. Taking self-care steps can help relieve achiness and pain, keep varicose veins from getting worse, and prevent more serious problems.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004198-7" qtype="when to contact a medical professional">Do I need to see a doctor for Varicose veins and venous insufficiency ?</Question>
+			<Answer>Contact your provider if: Varicose veins are painful., They get worse or do not improve with self-care, such as by wearing compression stockings or avoiding standing or sitting for too long., You have a sudden increase in pain or swelling, fever, redness of the leg, or leg sores., You develop leg sores that do not heal., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

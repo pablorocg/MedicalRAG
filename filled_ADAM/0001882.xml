@@ -1,0 +1,22 @@
+<Document id="0001882" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000097.htm">
+ 
+<Focus>Heart pacemaker - discharge</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Cardiac pacemaker implantation - discharge</Synonym>
+		<Synonym>Artificial pacemaker - discharge</Synonym>
+		<Synonym>Permanent pacemaker - discharge</Synonym>
+		<Synonym>Internal pacemaker - discharge</Synonym>
+		<Synonym>Cardiac resynchronization therapy - discharge</Synonym>
+		<Synonym>CRT - discharge</Synonym>
+		<Synonym>Biventricular pacemaker - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001882-1" qtype="information">Do you have information about Heart pacemaker - discharge</Question>
+			<Answer>A pacemaker is a small, battery-operated device that senses when your heart is beating irregularly or too slowly. It sends a signal to your heart that makes your heart beat at the correct pace. This article discusses what you need to do to take care of yourself when you leave the hospital. Note: Care of certain specialized pacemakers or pacemakers combined with defibrillators may be different than described below.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

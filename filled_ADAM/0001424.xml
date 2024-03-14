@@ -1,0 +1,25 @@
+<Document id="0001424" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002175.htm">
+ 
+<Focus>Epilepsy - resources</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014544</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Resources - epilepsy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001424-1" qtype="information">What is (are) Epilepsy - resources ?</Question>
+			<Answer>The following organizations are good resources for information on epilepsy: Centers for Disease Control and Prevention --  www.cdc.gov/epilepsy/index.html , Epilepsy Foundation --  www.epilepsy.com , National Institute of Neurological Disorders and Stroke --  www.ninds.nih.gov/health-information/disorders/epilepsy , US National Library of Medicine, MedlinePlus --  medlineplus.gov/epilepsy.html , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

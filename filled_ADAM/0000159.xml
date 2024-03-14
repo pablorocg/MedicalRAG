@@ -1,0 +1,60 @@
+<Document id="0000159" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000812.htm">
+ 
+<Focus>Allergies</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020517</CUI>
+			<CUI>C0489531</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000159-1" qtype="information">What is (are) Allergies ?</Question>
+			<Answer>An allergy is an  immune response  or reaction to substances that are usually not harmful.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000159-2" qtype="causes">What causes Allergies ?</Question>
+			<Answer>Allergies are very common. Both genes and environment play a role. If both your parents have allergies, there is a good chance that you have them, too. The immune system normally protects the body against harmful substances, such as bacteria and viruses. It also reacts to foreign substances called  allergens . These are usually harmless and in most people do not cause a problem. In a person with allergies, the immune response is oversensitive. When it recognizes an allergen, the immune system launches a response. Chemicals such as histamines are released. These chemicals cause allergy symptoms. Watch this video about: Allergies Common allergens include: Drugs, Dust, Food,  Insect venom , Mold, Pet and other animal dander, Pollen,  Some people have allergy-like reactions to hot or cold temperatures, sunlight, or other environmental triggers. Sometimes, friction (rubbing or roughly stroking the skin) will cause symptoms. Allergies may make certain medical conditions, such as sinus problems,  eczema , and  asthma , worse.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000159-3" qtype="symptoms">What are the symptoms of Allergies ?</Question>
+			<Answer>Mostly, the part of the body the allergen touches affects what symptoms you develop. For example: Allergens that you breathe in  often cause a stuffy nose, itchy nose and throat, mucus, cough, and  wheezing .,  Allergens that touch the eyes  may cause itchy, watery, red, swollen eyes.,  Eating something you are allergic to  can cause nausea, vomiting, abdominal pain, cramping, diarrhea, or a severe, life-threatening reaction., Allergens that touch the skin can cause a  skin rash ,  hives , itching, blisters, or skin peeling.,  Drug allergies  usually involve the whole body and can lead to a variety of symptoms.,  At times, an allergy can trigger a response that involves the entire body.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000159-4" qtype="exams and tests">How to diagnose Allergies ?</Question>
+			<Answer>The health care provider will perform a physical exam and ask questions, such as when the allergy occurs. Allergy testing may be needed to find out whether the symptoms are an actual allergy or are caused by other problems. For example, eating contaminated food ( food poisoning ) may cause symptoms similar to food allergies. Some medicines (such as aspirin and ampicillin) can produce non-allergic reactions, including rashes. A runny nose or cough may actually be due to an infection. Skin testing  is the most common method of allergy testing: The prick test involves placing a small amount of the suspected allergy-causing substances on the skin, and then slightly pricking the area so the substance moves under the skin. The skin is closely watched for signs of a reaction, which include swelling and redness., The intradermal test involves injecting tiny amount of allergen under your skin, then watching the skin for a reaction., Both the prick and intradermal tests are read 15 minutes after application of the test., The patch test involves placing a patch with the suspected allergen on your skin. The skin is then closely watched for signs of a reaction. This test is used to determine contact allergy. It is usually read 48 to 72 hours after application of the test.,  The doctor may also check your reaction to physical triggers by applying heat, cold, or other stimulation to your body and watching for an allergic response. Blood tests that may be done include: Immunoglobulin E (IgE), which measures levels of allergy-related substances,  Complete blood count  (CBC) during which an  eosinophil white blood cell count  is done,  In some cases, the doctor may tell you to avoid certain items to see if you get better, or to use suspected items to see if you feel worse. This is called "use or elimination testing." This is often used to check for food or medicine allergies.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000159-5" qtype="treatment">What are the treatments for Allergies ?</Question>
+			<Answer>Severe allergic reactions ( anaphylaxis ) need to be treated with a medicine called epinephrine. It can be life-saving when given right away. If you use epinephrine, call 911 or the local emergency number and go straight to the hospital. The best way to reduce symptoms is to avoid what causes your allergies. This is especially important for food and drug allergies. There are several types of medicines to prevent and treat allergies. Which medicine your doctor recommends depends on the type and severity of your symptoms, your age, and overall health. Illnesses that are caused by allergies (such as asthma, hay fever, and eczema) may need other treatments. Medicines that can be used to treat allergies include: ANTIHISTAMINES Antihistamines are available over-the-counter and by prescription. They are available in many forms, including: Capsules and pills, Eye drops, Injection, Liquid, Nasal spray,  CORTICOSTEROIDS These are anti-inflammatory medicines. They are available in many forms, including: Creams and ointment for the skin , Eye drops,  Nasal spray , Lung inhaler, Pills, Injection,  People with severe allergic symptoms may be prescribed corticosteroid pills or injections for short periods. DECONGESTANTS Decongestants help relieve a stuffy nose. Do not use decongestant nasal spray for more than several days because they can cause a rebound effect and make the congestion worse. Decongestants in pill form do not cause this problem. People with high blood pressure, heart problems, or prostate enlargement should use decongestants with caution. OTHER MEDICINES Leukotriene inhibitors are medicines that block the substances that trigger allergies. People with asthma and indoor and outdoor allergies may be prescribed these medicines. ALLERGY SHOTS Allergy shots ( immunotherapy ) are sometimes recommended if you cannot avoid the allergen and your symptoms are hard to control. Allergy shots keep your body from over-reacting to the allergen. You will get regular injections of the allergen. Each dose is slightly larger than the last dose until a maximum dose is reached. These shots do not work for everybody and you will have to visit the doctor often. SUBLINGUAL IMMUNOTHERAPY TREATMENT (SLIT) Instead of shots, medicine put under the tongue may help for grass, ragweed, and dust mite allergies.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000159-6" qtype="support groups">Where to find support for people with Allergies ?</Question>
+			<Answer>Ask your provider if there are any  asthma and allergy support groups  in your area.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000159-7" qtype="outlook">What is the outlook for Allergies ?</Question>
+			<Answer>Most allergies can be easily treated with medicine. Some children may outgrow an allergy, especially food allergies. But once a substance has triggered an allergic reaction, it usually continues to affect the person. Allergy shots are most effective when used to treat hay fever and insect sting allergies. They are not used to treat food allergies because of the danger of a severe reaction. Allergy shots may need years of treatment, but they work in most cases. However, they may cause uncomfortable side effects (such as hives and rash) and dangerous outcomes (such as anaphylaxis). Talk with your provider whether allergy drops (SLIT) are right for you.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000159-8" qtype="complications">What are the complications of Allergies ?</Question>
+			<Answer>Complications that may result from allergies or their treatment include: Anaphylaxis  (life-threatening allergic reaction), Breathing problems and discomfort during the allergic reaction, Drowsiness and other side effects of medicines, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000159-9" qtype="when to contact a medical professional">Do I need to see a doctor for Allergies ?</Question>
+			<Answer>Contact your provider for an appointment if: Severe symptoms of allergy occur, Treatment for allergies no longer works, </Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0000159-10" qtype="prevention">How to prevent Allergies ?</Question>
+			<Answer>Breastfeeding can help prevent or decrease allergies when you feed babies this way only for 4 to 6 months. However, changing a mother's diet during pregnancy or while breastfeeding does not seem to help prevent allergies. For most children, changing the diet or using special formulas does not seem to prevent allergies. If a parent, brother, sister, or other family member has a history of eczema and allergies, discuss feeding with your child's doctor. There is also evidence that being exposed to certain allergens (such as dust mites and cat dander) in the first year of life may prevent some allergies. This is called the "hygiene hypothesis." It came from the observation that infants on farms tend to have fewer allergies than those who grow up in more sterile environments. However, older children do not seem to benefit. Once allergies have developed, treating the allergies and carefully avoiding allergy triggers can prevent reactions in the future.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

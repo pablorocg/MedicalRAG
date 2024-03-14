@@ -1,0 +1,42 @@
+<Document id="0002836" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007508.htm">
+ 
+<Focus>Obesity in children</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3645710</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Weight - loss - children</Synonym>
+		<Synonym>Obese - children</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002836-1" qtype="information">What is (are) Obesity in children ?</Question>
+			<Answer>Obesity in children means having a weight that is higher than what is healthy for a child&#8217;s height. Obesity is a serious, chronic disease. Over time, it can lead to other health problems, including diabetes, heart disease, and some cancers.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002836-2" qtype="causes">What causes Obesity in children ?</Question>
+			<Answer>When children eat more food than their bodies need for normal growth and activity, the extra calories are stored in fat cells for later use. If this pattern continues over time, they develop more fat cells and may develop obesity. Normally, infants and young children respond to signals of hunger and fullness so that they do not consume more calories than their bodies need. However, changes over the last few decades in lifestyle and food choices have led to the rise of  obesity among children .  Children are surrounded by many things that make it easy to overeat and harder to be active. Foods that are high in fat and sugar content often come in large portion sizes. These factors can lead children to take in more calories than they need before they feel full. TV commercials and other screen ads can lead to  unhealthy food choices . Most of the time, the food in ads aimed at children is high in sugar, salt, or fats.  " Screen time " activities such as watching television, gaming, texting, and playing on the computer require very little energy. They often take the place of healthy physical exercise. Also, children tend to crave unhealthy snack foods they see in TV ads.  Other factors in the child's environment can also lead to obesity. Family, friends, and school setting help shape a child's diet and exercise choices. Food may be used as a reward or to comfort a child. These learned habits can lead to overeating. Many people have a hard time breaking these habits later in life. Genetics, medical conditions, and emotional disorders can also increase a child's risk for obesity. Hormone disorders or low thyroid function, and certain medicines, such as steroids or anti-seizure medicines, can increase a child's appetite. Over time, this increases their risk for obesity. An unhealthy focus on eating, weight, and body image can lead to an eating disorder. Obesity and eating disorders often occur at the same time in teenage girls and young adult women who may be unhappy with their body image.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002836-3" qtype="exams and tests">How to diagnose Obesity in children ?</Question>
+			<Answer>The health care provider will perform a physical exam and ask questions about your child's medical history, eating habits, and exercise routine. Blood tests may be done to look for thyroid or endocrine problems. These conditions could lead to weight gain. Child health experts recommend that children be screened for obesity starting at age 6. Your child's body mass index (BMI) is calculated using height and weight. A provider uses a  BMI formula designed for growing children  to estimate your child's body fat. Obesity is defined as a BMI (body mass index) at or above the 95th percentile compared to other children and teens of the same age and sex.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002836-4" qtype="treatment">What are the treatments for Obesity in children ?</Question>
+			<Answer>SUPPORTING YOUR CHILD The first step in helping your child get to a healthy weight is to talk to the child's provider. The provider can help to set healthy goals for weight loss and help with monitoring and support. Try to get the whole family to join in making healthy behavior changes. Weight-loss plans for children focus on healthy lifestyle habits. A healthy lifestyle is good for everyone, even if weight loss is not the main goal. Having  support from friends and family  can also help your child lose weight. CHANGING YOUR CHILD'S LIFESTYLE Eating a balanced diet means your child consumes the right types and amounts of foods and drinks to keep their body healthy. Know the right portion sizes for your child's age so your child gets enough nutrition without overeating.,  Shop for healthy foods  and make them available to your child., Choose a variety of healthy foods from each of the food groups. Eat foods from each group at every meal., Learn more about  eating healthy and eating out .,  Choosing healthy snacks and drinks  for your children is important., Fruits and vegetables are good choices for healthy snacks. They are full of vitamins and low in calories and fat. Some crackers and cheeses also make good snacks., Limit junk-food snacks like chips, candy, cake, cookies, and ice cream. The best way to keep kids from eating junk food or other unhealthy snacks is to not have these foods in your house., Avoid sodas, sport drinks, and flavored waters, especially ones made with sugar or corn syrup. These drinks are high in calories and can lead to weight gain. If needed, choose beverages with artificial (man-made) sweeteners.,  Make sure children have a chance to engage in  healthy physical activity  every day. Experts recommend children get 60 minutes of moderate activity every day. Moderate activity means you breathe more deeply than when at rest and your heart beats faster than normal., If your child is not athletic, find ways to motivate your child to be more active., Encourage children to play, run, bike, and play sports during their free time., Children should not watch more than 2 hours of television a day.,  WHAT ELSE TO THINK ABOUT Talk to your provider before giving weight loss supplements or herbal remedies to your child. Many claims made by these products are not true. Some supplements can have serious side effects. Weight loss drugs are not recommended for most children. Wegovy (a brand name of semaglutide) as a once a week injection was approved by the FDA in January 2023 to treat obesity in children 12 years and older with an initial BMI in the 95th percentile or higher; or with overweight (a BMI in the 85th percentile or higher) and at least one weight-related coexisting condition. Bariatric surgery  is currently being performed for some children, but only after they've stopped growing.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002836-5" qtype="complications">What are the complications of Obesity in children ?</Question>
+			<Answer>A child who is overweight or has obesity is more likely to be overweight or have obesity as an adult. Children with obesity are now developing health problems that used to be seen only in adults. When these problems begin in childhood, they often become more severe when the child becomes an adult. Children with obesity are at risk for developing these health problems: High blood glucose (sugar) or  diabetes ., High blood pressure ( hypertension )., High blood cholesterol and triglycerides ( dyslipidemia  or high blood fats).,  Heart attacks  due to coronary heart disease, congestive  heart failure , and  stroke  later in life., Bone and joint problems -- more weight puts pressure on the bones and joints. This can lead to  osteoarthritis , a disease that causes joint pain and stiffness., Stopping breathing during sleep ( sleep apnea ). This can cause daytime fatigue or sleepiness, poor attention, and problems at work.,  Girls with obesity are more likely not to have regular menstrual periods. Children with obesity often have low self-esteem. They are more likely to be teased or bullied, and they may have a hard time making friends.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

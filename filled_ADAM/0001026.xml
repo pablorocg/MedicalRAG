@@ -1,0 +1,26 @@
+<Document id="0001026" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003611.htm">
+ 
+<Focus>Creatinine clearance test</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0456984</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001026-1" qtype="information">What is (are) Creatinine clearance test ?</Question>
+			<Answer>The creatinine clearance test helps provide information about how well the kidneys are working. The test compares the creatinine level in urine with the creatinine level in blood. </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001026-8" qtype="susceptibility">Who is at risk for Creatinine clearance test? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

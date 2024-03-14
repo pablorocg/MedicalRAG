@@ -1,0 +1,17 @@
+<Document id="0000954" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000559.htm">
+ 
+<Focus>Congenital protein C or S deficiency</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Protein S deficiency</Synonym>
+		<Synonym>Protein C deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000954-1" qtype="information">Do you have information about Congenital protein C or S deficiency</Question>
+			<Answer>Congenital protein C or S deficiency is a lack of proteins C or S in the fluid part of the blood. The proteins are natural substances that help prevent blood clots.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,71 @@
+<Document id="0001016" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000692.htm">
+ 
+<Focus>Cranial mononeuropathy III - diabetic type</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0241863</CUI>
+			<CUI>C0494491</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Diabetic third nerve palsy</Synonym>
+		<Synonym>Pupil-sparing third cranial nerve palsy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001016-1" qtype="information">What is (are) Cranial mononeuropathy III - diabetic type ?</Question>
+			<Answer>This diabetic type of cranial mononeuropathy III is a complication of  diabetes . It&#160;causes double vision and  eyelid drooping .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001016-2" qtype="causes">What causes Cranial mononeuropathy III - diabetic type ?</Question>
+			<Answer>Mononeuropathy  means that only one nerve is damaged. This disorder affects the third cranial nerve in the skull. This is one of the cranial nerves that control eye movement and the pupil of the eye. This type of damage may occur along with  diabetic peripheral neuropathy . Cranial mononeuropathy III is the most common cranial nerve disorder in people with diabetes. It is due to damage to the small blood vessels that feed the nerve. Cranial mononeuropathy III  can also occur in people who don't have diabetes.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001016-3" qtype="symptoms">What are the symptoms of Cranial mononeuropathy III - diabetic type ?</Question>
+			<Answer>Symptoms may include: Double vision , Drooping of one eyelid (ptosis), Pain around the eye and forehead, Change in size of the pupil,  Neuropathy often develops within 7 days of onset of pain.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001016-4" qtype="exams and tests">How to diagnose Cranial mononeuropathy III - diabetic type ?</Question>
+			<Answer>An examination of the eyes will determine whether only the third nerve is affected or if other nerves have also been damaged. Signs may include: 
+   Eyes that are not aligned
+   , 
+   Pupil reaction that is often normal
+   ,  Your health care provider will do a complete examination to determine the possible effect on other parts of the nervous system. Depending on the suspected cause, you may need: Blood tests, Tests to look at blood vessels in the brain ( cerebral angiogram , CT angiogram,  MR angiogram ),  MRI  or  CT scan of the brain , Spinal tap ( lumbar puncture ) ,  You may need to be referred to a doctor who specializes in vision problems related to the nerves in the eye (neuro-ophthalmologist).</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001016-5" qtype="treatment">What are the treatments for Cranial mononeuropathy III - diabetic type ?</Question>
+			<Answer>There is no specific treatment to correct the nerve injury. Treatments to help symptoms may include: 
+   Close  control of blood sugar level , 
+   Eye patch or glasses with prisms to reduce double vision
+   , 
+   Pain medicines
+   ,  Antiplatelet therapy , 
+   Surgery to correct eyelid drooping or eyes that are not aligned
+   ,  Some people may recover without treatment.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001016-6" qtype="outlook">What is the outlook for Cranial mononeuropathy III - diabetic type ?</Question>
+			<Answer>Prognosis is good. Many people get better over 3 to 6 months. However, some people have permanent eye muscle weakness.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001016-7" qtype="complications">What are the complications of Cranial mononeuropathy III - diabetic type ?</Question>
+			<Answer>Complications may include: Permanent eyelid drooping, Permanent vision changes, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001016-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cranial mononeuropathy III - diabetic type ?</Question>
+			<Answer>Call your provider if you have double vision and it does not go away in a few minutes, especially if you also have eyelid drooping.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001016-9" qtype="prevention">How to prevent Cranial mononeuropathy III - diabetic type ?</Question>
+			<Answer>Controlling your blood sugar level may reduce the risk of developing this disorder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

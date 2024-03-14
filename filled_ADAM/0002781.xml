@@ -1,0 +1,62 @@
+<Document id="0002781" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000847.htm">
+ 
+<Focus>Neurofibromatosis-1</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162678</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>NF1</Synonym>
+		<Synonym>Von Recklinghausen neurofibromatosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002781-1" qtype="information">What is (are) Neurofibromatosis-1 ?</Question>
+			<Answer>Neurofibromatosis-1 (NF1) is an inherited disorder in which nerve tissue  tumors  (neurofibromas) form in the: Upper and lower layers of the skin, Nerves from the brain (cranial nerves) and spinal cord (spinal root nerves), </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002781-2" qtype="causes">What causes Neurofibromatosis-1 ?</Question>
+			<Answer>NF1 is a genetic disease. If either parent has NF1, each of their children has a 50% chance of having the disease. NF1 also appears in families with no history of the condition. In these cases, it is caused by a new gene change (mutation) in the sperm or egg. NF1 is caused by problems with a gene for a protein called neurofibromin.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002781-3" qtype="symptoms">What are the symptoms of Neurofibromatosis-1 ?</Question>
+			<Answer>NF causes tissue along the nerves to grow uncontrollably. This growth can put pressure on affected nerves. If the growths are in the skin, there can be cosmetic issues. If the growths are in other nerves or parts of the body, they can cause pain, severe nerve damage, and loss of function in the area the nerve affects. Problems with feeling or movement can occur, depending on which nerves are affected. The condition can be very different from person to person, even among people in the same family who have the same NF1 gene change. "Coffee-with-milk" ( caf&#233; au lait ) spots are the hallmark symptom of NF. Many healthy people have one or two small caf&#233; au lait spots. However, adults who have six or more spots that are bigger than 1.5 cm in diameter (0.5 cm in children) could have NF. In some people with the condition, these spots may be the only symptom. Other symptoms may include: Tumors of the eye, such as  optic glioma ,  Seizures , Freckles in the underarm or groin, Large, soft tumors called plexiform neurofibromas, which may have a dark color and may spread under the surface of the skin, Pain (from affected nerves), Small, rubbery tumors of the skin called nodular neurofibromas&#160; , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002781-4" qtype="exams and tests">How to diagnose Neurofibromatosis-1 ?</Question>
+			<Answer>A health care provider who treats NF1 will diagnose this condition. The provider may be a: Dermatologist, Developmental pediatrician, Geneticist, Neurologist ,  The diagnosis will most likely be made based on the unique symptoms and signs of NF. Signs include: Colored, raised spots (Lisch nodules) on the colored part (iris) of the eye, Bowing of the lower leg in early childhood that may lead to fractures, Freckling in the armpits, groin, or underneath the breast in women, Large tumors under the skin (plexiform neurofibromas), which can affect the appearance and put pressure on nearby nerves or organs, Many soft tumors on the skin or deeper in the body, Mild cognitive impairment,  attention deficit hyperactivity disorder  (ADHD), learning disorders ,  Tests may include: Eye exam by an ophthalmologist familiar with NF1, Genetic tests to find a change (mutation) in the neurofibromin gene,  MRI  of the brain or other affected sites, Other tests for complications , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002781-5" qtype="treatment">What are the treatments for Neurofibromatosis-1 ?</Question>
+			<Answer>There is no specific treatment for NF. Tumors that cause pain or loss of function may be removed. Tumors that have grown quickly should be removed promptly as they may become cancerous (malignant). The drug selumetinib (Koselugo) was approved by the US Food and Drug Administration in 2020 for use in children with severe tumors. Some children with learning disorders may need special schooling.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002781-6" qtype="support groups">Where to find support for people with Neurofibromatosis-1 ?</Question>
+			<Answer>More information and support for people with neurofibromatosis and their families can be found at: Children's Tumor Foundation -  www.ctf.org , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002781-7" qtype="outlook">What is the outlook for Neurofibromatosis-1 ?</Question>
+			<Answer>If there are no complications, the life expectancy of people with NF is almost normal. With the right education, people with NF can live a normal life. Although mental impairment is generally mild, NF1 is a known cause of attention deficit hyperactivity disorder. Learning disabilities are a common problem. Some people are treated differently because they have hundreds of tumors on their skin. People with NF have an increased chance of developing severe tumors. In rare cases, these can shorten a person's lifespan.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002781-8" qtype="complications">What are the complications of Neurofibromatosis-1 ?</Question>
+			<Answer>Complications can include: Attention deficit hyperactivity disorder (ADHD), Blindness caused by a tumor in an optic nerve (optic nerve glioma), Break in the leg bones that does not heal well, Cancerous tumors, Loss of function in nerves that a neurofibroma has put pressure on over the long term, High blood pressure due to pheochromocytoma or renal artery stenosis, Regrowth of NF tumors,  Scoliosis , or curvature of the spine, Tumors of the face, skin, and other exposed areas, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002781-9" qtype="when to contact a medical professional">Do I need to see a doctor for Neurofibromatosis-1 ?</Question>
+			<Answer>Contact your provider if: You notice coffee-with-milk colored spots on your child's skin or any other symptoms of this condition., You have a family history of NF and are planning to have children, or you would like to have your child examined., </Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0002781-10" qtype="prevention">How to prevent Neurofibromatosis-1 ?</Question>
+			<Answer>Genetic counseling is recommended for anyone with a family history of NF. Annual checkup should be performed of: Eyes, Skin, Back, Nervous system, Blood pressure monitoring&#160;, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,48 @@
+<Document id="0002975" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003321.htm">
+ 
+<Focus>Pectus carinatum</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0158731</CUI>
+			<CUI>C2939416</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pigeon breast</Synonym>
+		<Synonym>Pigeon chest</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002975-1" qtype="information">What is (are) Pectus carinatum ?</Question>
+			<Answer>Pectus carinatum is present when the chest protrudes over the sternum. It is often described as giving the person a bird-like appearance.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002975-2" qtype="considerations">What to do for Pectus carinatum ?</Question>
+			<Answer>Pectus carinatum may occur alone or along with other genetic disorders or syndromes. The condition causes the sternum to protrude. There is a narrow depression along the sides of the chest. This gives the chest a bowed-out appearance similar to that of a pigeon. People with pectus carinatum generally develop a normal heart and lungs. However, the deformity may prevent these from functioning as well as they could. There is some evidence that pectus carinatum may prevent complete emptying of air from the lungs in children. These young people may have less stamina, even if they do not recognize it. Pectus deformities can also have an impact on a child's self-image. Some children live happily with pectus carinatum. For others, the shape of the chest can damage their self-image and self-confidence. These feelings may interfere with forming connections to others.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002975-3" qtype="causes">What causes Pectus carinatum ?</Question>
+			<Answer>Causes may include: Congenital pectus carinatum (present at birth),  Trisomy 18 , Trisomy 21,  Homocystinuria ,  Marfan syndrome ,  Morquio syndrome ,  Multiple lentigines syndrome ,  Osteogenesis imperfecta ,  In many cases the cause is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002975-4" qtype="considerations">What to do for Pectus carinatum ?</Question>
+			<Answer>Pectus carinatum may occur alone or along with other genetic disorders or syndromes. The condition causes the sternum to protrude. There is a narrow depression along the sides of the chest. This gives the chest a bowed-out appearance similar to that of a pigeon. People with pectus carinatum generally develop a normal heart and lungs. However, the deformity may prevent these from functioning as well as they could. There is some evidence that pectus carinatum may prevent complete emptying of air from the lungs in children. These young people may have less stamina, even if they do not recognize it. Pectus deformities can also have an impact on a child's self-image. Some children live happily with pectus carinatum. For others, the shape of the chest can damage their self-image and self-confidence. These feelings may interfere with forming connections to others.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002975-5" qtype="when to contact a medical professional">Do I need to see a doctor for Pectus carinatum ?</Question>
+			<Answer>Contact your health care provider if you notice that your child's chest seems abnormal in shape.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002975-6" qtype="outlook">What is the outlook for Pectus carinatum ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,26 @@
+<Document id="0000352" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000418.htm">
+ 
+<Focus>Atopic dermatitis - self-care</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011615</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000352-1" qtype="information">What is (are) Atopic dermatitis - self-care ?</Question>
+			<Answer>Eczema is a chronic skin disorder characterized by scaly and itchy rashes.  Atopic dermatitis  is the most common type. Atopic dermatitis is due to a skin reaction pattern, similar to an allergy that causes long-term inflammation of the skin. Most people with atopic dermatitis also are missing certain proteins from the surface of the skin. These proteins are important in maintaining the skin barrier function. As a result, their skin is more easily irritated by minor irritants. Taking care of your skin at home may reduce the need for medicines.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000352-5" qtype="when to contact a medical professional">Do I need to see a doctor for Atopic dermatitis - self-care ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

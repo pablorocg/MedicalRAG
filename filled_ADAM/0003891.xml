@@ -1,0 +1,13 @@
+<Document id="0003891" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000479.htm">
+ 
+<Focus>Tests and visits before surgery</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003891-1" qtype="information">Do you have information about Tests and visits before surgery</Question>
+			<Answer>Your surgeon will want to make sure you are ready for your surgery. To do this, you will have some checkups and tests before surgery. Many different people on your surgery team may ask you the same questions before your surgery. This is because your team needs to gather as much information as they can to give you the best surgery results. Try to be patient if you are asked the same questions more than once.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

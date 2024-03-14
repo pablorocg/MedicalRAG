@@ -1,0 +1,16 @@
+<Document id="0002853" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002950.htm">
+ 
+<Focus>Open heart surgery</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Heart surgery - open</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002853-1" qtype="information">Do you have information about Open heart surgery</Question>
+			<Answer>Heart surgery is any surgery done on the heart muscle, valves, arteries, or the aorta and other large arteries connected to the heart.  The term "open heart surgery" means that you are connected to a heart-lung bypass machine, or bypass pump during surgery. Your heart is stopped while you are connected to this machine., This machine does the work of your heart and lungs while your heart is stopped for the surgery. The machine adds oxygen to your blood, moves blood through your body, and removes carbon dioxide. ,  Common types of open-heart surgery include: Heart bypass surgery  (coronary artery bypass graft -- CABG),  Heart valve surgery , Surgery to  correct a heart defect present at birth ,  New procedures are being done on the heart through smaller cuts. Some new procedures are being done while the heart is still beating.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

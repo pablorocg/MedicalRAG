@@ -1,0 +1,55 @@
+<Document id="0001346" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000895.htm">
+ 
+<Focus>Ectopic pregnancy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032987</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Tubal pregnancy</Synonym>
+		<Synonym>Cervical pregnancy</Synonym>
+		<Synonym>Tubal ligation-ectopic pregnancy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001346-1" qtype="information">What is (are) Ectopic pregnancy ?</Question>
+			<Answer>An ectopic pregnancy is a pregnancy that occurs outside the womb (uterus).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001346-2" qtype="causes">What causes Ectopic pregnancy ?</Question>
+			<Answer>In most pregnancies, the fertilized egg travels through the fallopian tube to the womb (uterus). If the movement of the egg is blocked or slowed through the tubes, it can lead to an ectopic pregnancy. Things that may cause this problem include: Birth defect in the fallopian tubes, Scarring after a  ruptured appendix ,  Endometriosis , Having had an ectopic pregnancy in the past, Scarring from past infections or surgery of the female organs ,  The following also increase risk for an ectopic pregnancy: Age over 35, Getting pregnant while having an intrauterine device (IUD), Having your tubes tied, Having had surgery to untie tubes to become pregnant, Having had many sexual partners, Sexually transmitted infections (STI), Some infertility treatments ,  Sometimes, the cause is not known. Hormones may play a role. The most common site for an ectopic pregnancy is the fallopian tube. In rare cases, this can occur in the ovary, abdomen, or  cervix .  An ectopic pregnancy can occur even if you use birth control.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001346-3" qtype="symptoms">What are the symptoms of Ectopic pregnancy ?</Question>
+			<Answer>Symptoms of ectopic pregnancy may include: Abnormal vaginal bleeding , Mild cramping on one side of the pelvis, No periods, Pain in the lower belly or pelvic area ,  If the area around the abnormal pregnancy ruptures and bleeds, symptoms may get worse. They may include: Fainting or feeling faint, Intense pressure in the rectum, Low blood pressure, Pain in the shoulder area, Severe, sharp, and sudden pain in the lower abdomen , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001346-4" qtype="exams and tests">How to diagnose Ectopic pregnancy ?</Question>
+			<Answer>The health care provider will do a pelvic exam. The exam may show tenderness in the pelvic area. A pregnancy test and vaginal ultrasound will be done.  Human chorionic gonadotropin (hCG) is a hormone that is produced during pregnancy. Checking the blood level of this hormone can detect pregnancy. When hCG levels are above a certain value, a pregnancy sac in the uterus should be seen with ultrasound. , If the sac is not seen, this may indicate that an ectopic pregnancy is present.,  You may need more than one exam, ultrasound, and blood test. Your provider will instruct you about signs to watch for until your next visit.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001346-5" qtype="treatment">What are the treatments for Ectopic pregnancy ?</Question>
+			<Answer>Ectopic pregnancy may be life threatening. The pregnancy cannot continue to birth (term).&#160; Effective treatment requires either medical treatment to end the pregnancy or surgical removal of the pregnancy. If the ectopic pregnancy has not ruptured, treatment may include: Surgery ,  Medicine that ends the pregnancy , along with close monitoring by your doctor,  You will need emergency medical help if the area of the ectopic pregnancy breaks open (ruptures). Rupture can lead to bleeding and shock. Treatment for shock may include: Blood transfusion, Fluids given through a vein, Keeping warm, Oxygen, Raising the legs ,  If there is a rupture, surgery is done to stop blood loss and remove the pregnancy. In some cases, the doctor may have to remove the fallopian tube.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001346-6" qtype="outlook">What is the outlook for Ectopic pregnancy ?</Question>
+			<Answer>If diagnosed early, treatment is very effective. It's important to seek early care whenever you believe you may be pregnant so your provider may determine the location of the pregnancy. One out of three women who have had one ectopic pregnancy can have a baby in the future. Another ectopic pregnancy is more likely to occur. Some women do not become pregnant again. The likelihood of a successful pregnancy after an ectopic pregnancy depends on: The woman's age, Whether she has already had children, Why the first ectopic pregnancy occurred , The health of her fallopian tubes, </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001346-7" qtype="when to contact a medical professional">Do I need to see a doctor for Ectopic pregnancy ?</Question>
+			<Answer>Contact your provider if you have:  Abnormal vaginal bleeding, Lower abdominal or pelvic pain or, Suspect you might be pregnant, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001346-8" qtype="prevention">How to prevent Ectopic pregnancy ?</Question>
+			<Answer>Most forms of ectopic pregnancy that occur outside the fallopian tubes are probably not preventable. You may be able to reduce your risk by avoiding conditions that may scar the fallopian tubes. These steps include:  Practicing safer sex  by taking steps before and during sex, which can prevent you from getting an infection, Getting early diagnosis and treatment of all STIs, Stopping smoking , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

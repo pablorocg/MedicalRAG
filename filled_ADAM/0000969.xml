@@ -1,0 +1,22 @@
+<Document id="0000969" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002314.htm">
+ 
+<Focus>Contraindication</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1301624</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000969-1" qtype="information">What is (are) Contraindication ?</Question>
+			<Answer>A contraindication is a specific situation in which a medicine, procedure, or surgery should not be used because it may be harmful to the person. There are two types of contraindications: Relative contraindication means that caution should be used when two medicines or procedures are used together. (It is acceptable to do so if the benefits outweigh the risk.), Absolute contraindication means that event or substance could cause a life-threatening situation. A procedure or medicine that falls under this category must be avoided. ,  Some treatments may cause unwanted or dangerous reactions in people with allergies, high blood pressure, or pregnancy. For example, isotretinoin, a drug used to treat acne, is absolutely contraindicated in pregnancy due to the risk of birth defects. Certain decongestants are contraindicated in people with high blood pressure and should be avoided. Many medicines should not be used together by the same person. For instance, a person who takes warfarin to thin the blood should not take aspirin, which is also a blood thinner. This is an example of a relative contraindication.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

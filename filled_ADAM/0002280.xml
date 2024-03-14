@@ -1,0 +1,42 @@
+<Document id="0002280" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002661.htm">
+ 
+<Focus>Ketoprofen overdose</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0572153</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Orudis overdose</Synonym>
+		<Synonym>Oruvail overdose</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002280-1" qtype="information">What is (are) Ketoprofen overdose ?</Question>
+			<Answer>Ketoprofen is a nonsteroidal anti-inflammatory drug. It is used to treat pain, swelling, and inflammation. Ketoprofen overdose occurs when someone takes more than the normal or recommended amount of this medicine. This can be by accident or on purpose. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with has an  overdose , call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002280-4" qtype="symptoms">What are the symptoms of Ketoprofen overdose ?</Question>
+			<Answer>Below are symptoms of a ketoprofen overdose in different parts of the body. EYES, EARS, NOSE, AND THROAT Blurred vision ,  Ringing in the ears ,  HEART AND BLOOD Congestive heart failure (chest discomfort, shortness of breath, leg swelling), High or  low blood pressure ,  STOMACH AND INTESTINES Diarrhea , Nausea (common), Possible bleeding from the stomach and intestines,  Stomach pain , Vomiting (common, sometimes with blood),  LUNGS AND AIRWAYS Difficulty breathing, Wheezing,  NERVOUS SYSTEM Headache ,  Agitation ,  Coma  (decreased level of consciousness and lack of responsiveness) in severe overdoses,  Confusion ,  Drowsiness , Dizziness (common), Fatigue and weakness, Numbness and tingling,  Seizures  (in severe overdoses),  Unsteadiness ,  SKIN Blistering rash, Bruising, Sweating, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002280-5" qtype="considerations">What to do for Ketoprofen overdose ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002280-8" qtype="outlook">What is the outlook for Ketoprofen overdose ?</Question>
+			<Answer>How well someone does depends on the amount of ketoprofen that was swallowed and how quickly treatment is received. The faster medical help is given, the better the chance for recovery. A mild overdose of ketoprofen does not usually cause serious problems. The person may have some stomach pain and vomiting (possibly with blood). However, a large amount of internal bleeding is possible, and a blood transfusion may be needed. Passing a tube with a camera through the mouth into the stomach may be needed to stop the internal bleeding. A large overdose can cause serious damage to children and adults. Death may occur.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002280-9" qtype="outlook">What is the outlook for Ketoprofen overdose ?</Question>
+			<Answer>How well someone does depends on the amount of ketoprofen that was swallowed and how quickly treatment is received. The faster medical help is given, the better the chance for recovery. A mild overdose of ketoprofen does not usually cause serious problems. The person may have some stomach pain and vomiting (possibly with blood). However, a large amount of internal bleeding is possible, and a blood transfusion may be needed. Passing a tube with a camera through the mouth into the stomach may be needed to stop the internal bleeding. A large overdose can cause serious damage to children and adults. Death may occur.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,52 @@
+<Document id="0001204" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000964.htm">
+ 
+<Focus>Diaper rash</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011974</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Dermatitis - diaper and Candida</Synonym>
+		<Synonym>Candida-associated diaper dermatitis</Synonym>
+		<Synonym>Diaper dermatitis</Synonym>
+		<Synonym>Dermatitis - irritant contact</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001204-1" qtype="information">What is (are) Diaper rash ?</Question>
+			<Answer>Diaper rash is a skin problem that develops in the area under an infant's diaper.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001204-2" qtype="causes">What causes Diaper rash ?</Question>
+			<Answer>Diaper rashes are common in babies from 4 to 15 months old. They may be noticed more when babies begin to eat solid foods. Diaper rashes caused by infection with a yeast (fungus) called candida are very common in children. Candida grows best in warm, moist places, such as under a diaper. Candida diaper rash is more likely to occur in babies who: Are not kept clean and dry, Are taking antibiotics or whose mothers are taking antibiotics while breastfeeding, Have more frequent stools ,  Other causes of diaper rash include: Acids in the stool (seen more often when the child has diarrhea), Ammonia (a chemical produced when bacteria break down urine), Diapers that are too tight or rub the skin, Reactions to soaps and other products used to clean cloth diapers , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001204-3" qtype="symptoms">What are the symptoms of Diaper rash ?</Question>
+			<Answer>You may notice the following in your child's diaper area: Bright red rash that gets bigger, Very&#160;red and scaly areas on the scrotum and penis in boys, Red or scaly areas on the labia and vagina in girls, Pimples, blisters, ulcers, large bumps, or sores filled with pus, Smaller red patches (called satellite lesions) that grow and blend in with the other patches ,  Older infants may scratch when the diaper is removed. Diaper rashes usually do not spread beyond the edge of the diaper.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001204-4" qtype="exams and tests">How to diagnose Diaper rash ?</Question>
+			<Answer>Your health care provider can often diagnose a yeast diaper rash by looking at your baby's skin. A  KOH test  can confirm if it is candida. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001204-5" qtype="treatment">What are the treatments for Diaper rash ?</Question>
+			<Answer>The best treatment for a diaper rash is to keep the skin clean and dry. This also helps prevent new diaper rashes. Lay your baby on a towel without a diaper whenever possible. The more time the baby can be kept out of a diaper, the better. Other tips include: Always wash your hands before and after changing a diaper., Change your baby's diaper often and as soon as possible after the baby urinates or passes stool., Use water and a soft cloth or cotton ball to gently clean the diaper area with every diaper change. Do not rub or scrub the area. A squirt bottle of water may be used for sensitive areas., Pat the area dry or allow to air-dry., Put diapers on loosely. Diapers that are too tight do not allow enough air flow and may rub and irritate the baby's waist or thighs., Using absorbent diapers helps keep the skin dry and reduces the chance of getting an infection., Ask your provider or nurse which creams, ointments, or powders are best to use in the diaper area., Ask if a diaper rash cream would be helpful. Zinc oxide or petroleum jelly-based products help keep moisture away from your baby's skin when applied to completely clean, dry skin., Do not use wipes that have alcohol or perfume. They may dry out or irritate the skin more., Do not use talc (talcum powder). It can get into your baby's lungs. ,  Certain skin creams and ointments will clear up infections caused by yeast. Nystatin, miconazole, clotrimazole, and ketoconazole are commonly used medicines for yeast diaper rashes. For severe rashes, a steroid ointment, such as 1% hydrocortisone, may be applied. You can buy these without a prescription. But first ask your provider if these medicines will help. If you use cloth diapers: Do not put plastic or rubber pants over the diaper. They do not allow enough air to pass through. Use breathable diaper covers instead., Do not use fabric softeners or dryer sheets. They may make the rash worse., When washing cloth diapers, rinse 2 or 3 times to remove all soap if your child already has a rash or has had one before. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001204-6" qtype="outlook">What is the outlook for Diaper rash ?</Question>
+			<Answer>The rash usually responds well to treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001204-7" qtype="when to contact a medical professional">Do I need to see a doctor for Diaper rash ?</Question>
+			<Answer>Contact your child's provider if: The rash gets worse or does not go away in 2 to 3 days, The rash spreads to the abdomen, back, arms, or face, You notice pimples, blisters, ulcers, large bumps, or sores filled with pus, Your baby also has a fever, Your baby develops a rash during the first 6 weeks after birth , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,58 @@
+<Document id="0001932" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000214.htm">
+ 
+<Focus>Hepatic ischemia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0920569</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ischemic hepatitis</Synonym>
+		<Synonym>Shock liver</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001932-1" qtype="information">What is (are) Hepatic ischemia ?</Question>
+			<Answer>Hepatic ischemia is a condition in which the liver does not get enough blood or oxygen. This causes injury to liver cells.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001932-2" qtype="causes">What causes Hepatic ischemia ?</Question>
+			<Answer>Low blood pressure  from any condition can lead to hepatic ischemia. Such conditions may include: Abnormal heart rhythms , Dehydration,  Heart failure , Infection, especially sepsis, Severe bleeding,  Other causes may include: Blood clots in the main artery to the liver (hepatic artery) after a liver transplant, Inflammation of blood vessels, leading to reduced blood flow (vasculitis), Burns, Heat stroke, Having a sickle cell crisis, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001932-3" qtype="symptoms">What are the symptoms of Hepatic ischemia ?</Question>
+			<Answer>The person may have altered mental status due to reduced blood flow to the brain. Other symptoms may include: Loss of appetite, Feeling of general discomfort, Jaundice,  Damage to the liver cells most often does not cause symptoms until it affects liver function. Blood clots in the liver's main artery may cause abdominal pain.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001932-4" qtype="exams and tests">How to diagnose Hepatic ischemia ?</Question>
+			<Answer>The following tests will be done: Blood tests to check liver function ( AST  and  ALT ). These readings can be very high (in the thousands) with ischemia., Doppler ultrasound of the blood vessels of the liver., </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001932-5" qtype="treatment">What are the treatments for Hepatic ischemia ?</Question>
+			<Answer>Treatment depends on the cause. Low blood pressure and blood clots must be treated right away.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001932-6" qtype="outlook">What is the outlook for Hepatic ischemia ?</Question>
+			<Answer>People generally recover if the illness causing hepatic ischemia can be treated. Death from liver failure due to hepatic ischemia is very rare.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001932-7" qtype="complications">What are the complications of Hepatic ischemia ?</Question>
+			<Answer>Liver failure is a rare, but fatal complication.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001932-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hepatic ischemia ?</Question>
+			<Answer>Contact your health care provider right away if you have persistent weakness or symptoms of  shock  or  dehydration .</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001932-9" qtype="prevention">How to prevent Hepatic ischemia ?</Question>
+			<Answer>Quickly treating the causes of low blood pressure may prevent hepatic ischemia.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

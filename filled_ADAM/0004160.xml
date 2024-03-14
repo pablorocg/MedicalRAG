@@ -1,0 +1,18 @@
+<Document id="0004160" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000161.htm">
+ 
+<Focus>Uterine artery embolization - discharge</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Uterine fibroid embolization - discharge</Synonym>
+		<Synonym>UFE - discharge</Synonym>
+		<Synonym>UAE - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004160-1" qtype="information">Do you have information about Uterine artery embolization - discharge</Question>
+			<Answer>Uterine artery embolization (UAE) is a procedure to treat uterine fibroids without surgery. Uterine fibroids are noncancerous (benign) tumors that develop in the uterus (womb). This article tells you what you need to take care of yourself after the procedure.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

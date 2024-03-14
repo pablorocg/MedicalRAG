@@ -1,0 +1,47 @@
+<Document id="0001299" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000780.htm">
+ 
+<Focus>Dry socket</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013240</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Alveolar osteitis</Synonym>
+		<Synonym>Alveolitis</Synonym>
+		<Synonym>Septic socket</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001299-1" qtype="information">What is (are) Dry socket ?</Question>
+			<Answer>Dry socket is a complication of having a tooth pulled ( tooth extraction ). The socket is the hole in the bone where the tooth used to be. After a tooth is removed, a blood clot forms in the socket. This protects the bone and nerves underneath as it heals.  Dry socket occurs when the clot is lost or does not form well. The bone and nerves are exposed to the air. This causes pain and delays healing.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001299-2" qtype="susceptibility">Who is at risk for Dry socket? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001299-3" qtype="symptoms">What are the symptoms of Dry socket ?</Question>
+			<Answer>Symptoms of dry socket are: Severe pain 1 to 3 days after the tooth is pulled, Pain that radiates from the socket to your ear, eye, temple, or neck on the same side that your tooth was pulled, An empty socket with a missing blood clot , Bad taste in your mouth , Bad breath or a terrible smell coming from your mouth, Slight fever, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001299-4" qtype="treatment">What are the treatments for Dry socket ?</Question>
+			<Answer>Your dentist will treat the dry socket by: Cleaning out the socket to flush out food or other materials, Filling the socket with a medicated dressing or paste, Having you come in often to have the dressing changed,  Your dentist may also decide to: Start you on antibiotics, Have you rinse with salt water or special mouthwash, Give you a prescription for pain medicine or irrigation solution, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001299-6" qtype="prevention">How to prevent Dry socket ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001299-7" qtype="when to contact a medical professional">Do I need to see a doctor for Dry socket ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

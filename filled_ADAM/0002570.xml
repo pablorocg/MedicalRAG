@@ -1,0 +1,55 @@
+<Document id="0002570" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000836.htm">
+ 
+<Focus>Melasma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0025218</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Chloasma</Synonym>
+		<Synonym>Mask of pregnancy</Synonym>
+		<Synonym>Pregnancy mask</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002570-1" qtype="information">What is (are) Melasma ?</Question>
+			<Answer>Melasma is a skin condition that causes patches of dark skin on areas of the face exposed to the sun.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002570-2" qtype="causes">What causes Melasma ?</Question>
+			<Answer>Melasma is a common skin disorder. It most often appears in young women with brownish skin tone, but it can affect anyone. Melasma is often associated with the female hormones estrogen and progesterone. It is common in: Pregnant women, Women taking birth control pills ( oral contraceptives ), Women who are taking hormone replacement therapy (HRT) during menopause. ,  Being in the sun makes melasma more likely to develop. The problem is more common in tropical climates.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002570-3" qtype="symptoms">What are the symptoms of Melasma ?</Question>
+			<Answer>The only symptom of melasma is a change in skin color. However, this color change can cause distress about your appearance. The skin color changes are most often an even brown color. They often appear on the cheeks, forehead, nose, or upper lip. Dark patches are often symmetrical.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002570-4" qtype="exams and tests">How to diagnose Melasma ?</Question>
+			<Answer>Your health care provider will look at your skin to diagnose the problem. A closer exam using a device called a  Wood's lamp  (which uses ultraviolet light) may help guide your treatment.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002570-5" qtype="treatment">What are the treatments for Melasma ?</Question>
+			<Answer>Treatments may include: Creams that contain certain substances to improve the appearance of melasma, Chemical peels or topical steroid creams, Laser treatments to remove the dark pigment if melasma is severe, Stopping hormone medicines that may be causing the problem, Medicines taken by mouth, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002570-6" qtype="outlook">What is the outlook for Melasma ?</Question>
+			<Answer>Melasma often fades over several months after you stop taking hormone medicines or your pregnancy ends. The problem may come back in future pregnancies or if you use these medicines again. It may also come back from sun exposure. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002570-7" qtype="when to contact a medical professional">Do I need to see a doctor for Melasma ?</Question>
+			<Answer>Contact your provider if you have darkening of your face that does not go away.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002570-8" qtype="prevention">How to prevent Melasma ?</Question>
+			<Answer>The best way to lower your risk for melasma due to sun exposure is to protect your skin from the sun and ultraviolet (UV) light. Things you can do to lower your exposure to sunlight include: Wear clothing such as hats, long-sleeved shirts, long skirts, or pants., Try to avoid being in the sun during midday, when ultraviolet light is most intense., Use high-quality sunscreens, preferably with a sun protection factor (SPF) rating of at least 30. Pick a broad-spectrum sunscreen that blocks both UVA and UVB light., Apply sunscreen before going out into the sun, and reapply often -- at least every 2 hours while in the sun., Use sunscreen year-round, including in the winter., Avoid sun lamps, tanning beds, and tanning salons.,  Other things to know about sun exposure: Sun exposure is stronger in or near surfaces that reflect light, such as water, sand, concrete, and areas painted white., Sunlight is more intense at the beginning of the summer., Skin burns faster at higher altitudes., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

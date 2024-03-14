@@ -1,0 +1,57 @@
+<Document id="0001290" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000446.htm">
+ 
+<Focus>Drug-induced lupus erythematosus</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0263591</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lupus - drug induced</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001290-1" qtype="information">What is (are) Drug-induced lupus erythematosus ?</Question>
+			<Answer>Drug-induced lupus erythematosus is an  autoimmune disorder  that is triggered by a reaction to a medicine.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001290-2" qtype="causes">What causes Drug-induced lupus erythematosus ?</Question>
+			<Answer>Drug-induced lupus erythematosus is similar but not identical to  systemic lupus erythematosus  (SLE). It is an autoimmune disorder. This means your body attacks healthy tissue by mistake. It is caused by a reaction to a medicine. Related conditions are drug-induced cutaneous lupus and drug-induced ANCA vasculitis. The most common medicines known to cause drug-induced lupus erythematosus are: Isoniazid, Hydralazine, Procainamide, Tumor-necrosis factor (TNF) alpha inhibitors (such as etanercept, infliximab and adalimumab), Minocycline, Quinidine,  Other less common drugs may also cause the condition. These may include: Anti-seizure medicines, Capoten, Chlorpromazine, Methyldopa, Sulfasalazine, Levamisole, typically as a contaminant of cocaine,  Cancer immunotherapy drugs such as pembrolizumab can also cause a variety of autoimmune reactions including drug-induced lupus. Symptoms of drug-induced lupus tend to occur after taking the drug for at least 3 to 6 months.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001290-3" qtype="symptoms">What are the symptoms of Drug-induced lupus erythematosus ?</Question>
+			<Answer>Symptoms may include: Fever , General ill feeling (malaise),  Joint pain ,  Joint swelling , Loss of appetite,  Pleuritic  chest pain (sharp pain that is worse with breathing in),  Skin rash  on areas exposed to sunlight, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001290-4" qtype="exams and tests">How to diagnose Drug-induced lupus erythematosus ?</Question>
+			<Answer>The health care provider will do a physical exam and listen to your chest with a stethoscope. The provider may hear a sound called a heart friction rub or pleural friction rub. A skin exam shows a rash. Joints  may be swollen and tender. Tests that may be done include: Antihistone antibody,  Antinuclear antibody (ANA) panel , Antineutrophil cytoplasmic antibody (ANCA) panel ,  Complete blood count (CBC)  with differential, Comprehensive chemistry panel,  Urinalysis ,  A  chest x-ray  may show signs of pleuritis or pericarditis (inflammation around the lining of the lung or heart). An  ECG  may show that the heart is affected.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001290-5" qtype="treatment">What are the treatments for Drug-induced lupus erythematosus ?</Question>
+			<Answer>Most of the time, symptoms go away within weeks after stopping the medicine that caused the condition. Treatment may include: Nonsteroidal anti-inflammatory drugs (NSAIDs) to treat arthritis and pleurisy, Corticosteroid creams to treat skin rashes, Antimalarial drugs (hydroxychloroquine) to treat skin and arthritis symptoms,  If the condition is affecting your heart, kidney, or nervous system, you may be prescribed high doses of corticosteroids (prednisone, methylprednisolone) and immune system suppressants (azathioprine or cyclophosphamide). This is rare. When the disease is active, you should wear protective clothing and sunglasses to guard against too much sun.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001290-6" qtype="outlook">What is the outlook for Drug-induced lupus erythematosus ?</Question>
+			<Answer>Most of the time, drug-induced lupus erythematosus is not as severe as SLE. The symptoms often go away within a few days to weeks after stopping the medicine you were taking. Rarely, kidney inflammation (nephritis) can develop with drug-induced lupus caused by TNF inhibitors or with ANCA vasculitis due to hydralazine or levamisole. Nephritis may require treatment with prednisone and immunosuppressive medicines. Avoid taking the drug that caused the reaction in future. Symptoms are likely to return if you do so.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001290-7" qtype="complications">What are the complications of Drug-induced lupus erythematosus ?</Question>
+			<Answer>Complications may include: Infection,  Thrombocytopenic  purpura -- bleeding near the skin surface, resulting from a low number of platelets in the blood,  Hemolytic anemia ,  Myocarditis ,  Pericarditis , Nephritis, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001290-8" qtype="when to contact a medical professional">Do I need to see a doctor for Drug-induced lupus erythematosus ?</Question>
+			<Answer>Contact your provider if: You develop new symptoms when taking any of the medicines listed above., Your symptoms do not get better after you stop taking the medicine that caused the condition. , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001290-9" qtype="prevention">How to prevent Drug-induced lupus erythematosus ?</Question>
+			<Answer>Watch for signs of a reaction if you are taking any of the drugs that can cause this problem.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

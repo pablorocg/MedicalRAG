@@ -1,0 +1,13 @@
+<Document id="0000777" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000057.htm">
+ 
+<Focus>Chest radiation - discharge</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000777-1" qtype="information">Do you have information about Chest radiation - discharge</Question>
+			<Answer>When you have radiation treatment for cancer, your body goes through changes. Follow your health care provider's instructions on how to care for yourself at home. Use the information below as a reminder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

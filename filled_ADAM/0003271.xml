@@ -1,0 +1,55 @@
+<Document id="0003271" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000364.htm">
+ 
+<Focus>Pseudohypoparathyroidism</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0033806</CUI>
+			<CUI>C3494506</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Albright hereditary osteodystrophy</Synonym>
+		<Synonym>Types 1A and 1B pseudohypoparathyroidism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003271-1" qtype="information">What is (are) Pseudohypoparathyroidism ?</Question>
+			<Answer>Pseudohypoparathyroidism (PHP)&#160;is a genetic disorder in which the body fails to respond to  parathyroid hormone .  A related condition is  hypoparathyroidism ,&#160;in which the body does not make enough parathyroid hormone.&#160;</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003271-2" qtype="causes">What causes Pseudohypoparathyroidism ?</Question>
+			<Answer>The parathyroid glands produce parathyroid hormone (PTH). PTH helps control calcium, phosphorus, and vitamin D levels in the blood and is important for bone health. If you have PHP, your body produces the right amount of PTH, but is "resistant" to its effect. This causes low blood calcium levels and high blood phosphate levels. PHP is caused by abnormal genes. There are different types of PHP. All forms are rare and are usually diagnosed in childhood. Type 1a is inherited in an  autosomal dominant manner . That means only one parent needs to pass you the faulty gene for you to have the condition. It is also called Albright hereditary osteodystrophy. The condition causes short stature, round face, obesity, developmental delay, and short hand bones. Symptoms depend on whether you inherit the gene from your mother or father., Type 1b involves resistance to PTH only in the kidneys. Less is known about type 1b than type 1a. Calcium in the blood is low, but there are none of the other characteristic features of Albright hereditary osteodystrophy., Type 2 also involves low blood calcium and high blood phosphate levels. People with this form do not have the physical traits common to people with Type 1a. The genetic abnormality that causes it is not known. It is different from Type 1b in how the kidney responds to high PTH levels., </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003271-3" qtype="symptoms">What are the symptoms of Pseudohypoparathyroidism ?</Question>
+			<Answer>Symptoms are related to a&#160;low level of calcium and include: Cataracts , Dental problems, Numbness, Seizures, Tetany (a collection of symptoms including muscle twitches and hand and foot cramps and muscle spasms) ,  People with Albright hereditary osteodystrophy may have the following symptoms: Calcium deposits under the skin, Dimples that can replace knuckles on affected fingers, Round face and short neck, Short hand bones, especially the bone below the 4th finger, Short height , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003271-4" qtype="exams and tests">How to diagnose Pseudohypoparathyroidism ?</Question>
+			<Answer>Blood tests will be done to check calcium,  phosphorus , and PTH levels. You may also need urine tests. Other tests may include: Genetic testing,  Head MRI  or  CT scan of the brain , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003271-5" qtype="treatment">What are the treatments for Pseudohypoparathyroidism ?</Question>
+			<Answer>Your health care provider will recommend calcium and vitamin D supplements to maintain a proper calcium level. If the blood phosphate level is high, you may need to follow a low-phosphorus diet or take medicines called phosphate binders (such as calcium carbonate or calcium acetate). Treatment is usually life-long.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003271-6" qtype="outlook">What is the outlook for Pseudohypoparathyroidism ?</Question>
+			<Answer>Low blood calcium in PHP is usually milder than in other forms of hypoparathyroidism, but the severity of symptoms can be different between different people.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003271-7" qtype="complications">What are the complications of Pseudohypoparathyroidism ?</Question>
+			<Answer>People with type 1a PHP&#160;are more likely to have other endocrine system problems (such as  hypothyroidism  and  hypogonadism ). PHP may be connected to other hormone problems, resulting in: Low sex drive, Slow sexual development, Low energy levels, Weight gain , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003271-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pseudohypoparathyroidism ?</Question>
+			<Answer>Contact your provider if you or your child have any symptoms of a low calcium level or pseudohypoparathyroidism.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

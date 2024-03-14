@@ -1,0 +1,22 @@
+<Document id="0002023" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000053.htm">
+ 
+<Focus>How to breathe when you are short of breath</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013404</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002023-1" qtype="information">What is (are) How to breathe when you are short of breath ?</Question>
+			<Answer>Pursed lip breathing helps you use less energy to breathe. It can help you relax. When you are short of breath, it helps you slow the pace of your breathing and can help you feel less short of breath. Use pursed lip breathing when you do things that make you short of breath, such as when you: Exercise, Bend, Lift, Climb stairs, Feel anxious,  You can practice pursed lip breathing anytime. Try to practice 4 or 5 times a day when you: Watch TV, Use your computer, Read a newspaper, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

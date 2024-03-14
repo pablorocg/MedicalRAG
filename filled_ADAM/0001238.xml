@@ -1,0 +1,40 @@
+<Document id="0001238" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002636.htm">
+ 
+<Focus>Diphenhydramine overdose</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0573289</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Benadryl overdose</Synonym>
+		<Synonym>Sominex overdose</Synonym>
+		<Synonym>Nytol overdose</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001238-1" qtype="information">What is (are) Diphenhydramine overdose ?</Question>
+			<Answer>Diphenhydramine is a type of medicine called an antihistamine. It is used in some allergy and sleep medicines. 
+Overdose&#160;occurs when someone takes more than the normal or recommended amount of this medicine. This can be by accident or on purpose. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with has an  overdose , call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001238-4" qtype="symptoms">What are the symptoms of Diphenhydramine overdose ?</Question>
+			<Answer>Below are symptoms of a diphenhydramine overdose in different parts of the body. BLADDER AND KIDNEYS Inability to urinate,  EYES, EARS, NOSE, MOUTH, AND THROAT Blurred vision ,  Dry mouth , Enlarged pupils, Very dry eyes,  Ringing in the ears ,  HEART AND BLOOD VESSELS Low blood pressure , Rapid heartbeat ,  NERVOUS SYSTEM Agitation ,  Confusion ,  Seizures ,  Delirium ,  Depression ,  Drowsiness ,  Hallucinations &#160;(seeing or hearing things that aren't there), Increased  sleepiness , Nervousness,  Tremor ,  Unsteadiness ,  SKIN Dry, red skin ,  STOMACH AND INTESTINES Nausea , Vomiting, </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001238-7" qtype="outlook">What is the outlook for Diphenhydramine overdose ?</Question>
+			<Answer>Recovery is likely if the person survives the first 24 hours. Complications such as pneumonia, muscle damage from lying on a hard surface for a long period of time, or brain damage from lack of oxygen may result in permanent disability.  Few people actually die from an antihistamine overdose. However, serious heart rhythm disturbances may occur, which can cause death. Keep all medicines in child-proof bottles and out of reach of children.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001238-8" qtype="outlook">What is the outlook for Diphenhydramine overdose ?</Question>
+			<Answer>Recovery is likely if the person survives the first 24 hours. Complications such as pneumonia, muscle damage from lying on a hard surface for a long period of time, or brain damage from lack of oxygen may result in permanent disability.  Few people actually die from an antihistamine overdose. However, serious heart rhythm disturbances may occur, which can cause death. Keep all medicines in child-proof bottles and out of reach of children.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

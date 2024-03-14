@@ -1,0 +1,62 @@
+<Document id="0004257" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000338.htm">
+ 
+<Focus>Von Gierke disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017920</CUI>
+			<CUI>C0017919</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Type I glycogen storage disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004257-1" qtype="information">What is (are) Von Gierke disease ?</Question>
+			<Answer>Von Gierke disease is a condition in which the body cannot break down glycogen. Glycogen is a form of sugar (glucose) that is stored in the liver and muscles. It is normally broken down into glucose to give you more energy when you need it. Von Gierke disease is also called Type I glycogen storage disease (GSD I).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004257-2" qtype="causes">What causes Von Gierke disease ?</Question>
+			<Answer>Von Gierke disease occurs when the body lacks the protein (enzyme) that releases glucose from glycogen. This causes abnormal amounts of glycogen to build up in certain tissues. When glycogen is not broken down properly, it leads to  low blood sugar . Von Gierke disease is inherited, which means it is passed down through families. If both parents carry a nonworking copy of the gene related to this condition, each of their children has a 25% (1 in 4) chance of developing the disease.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004257-3" qtype="symptoms">What are the symptoms of Von Gierke disease ?</Question>
+			<Answer>These are symptoms of von Gierke disease: Constant hunger and need to eat often, Easy bruising and nosebleeds, Fatigue, Irritability, Puffy cheeks, thin chest and limbs, and swollen belly, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004257-4" qtype="exams and tests">How to diagnose Von Gierke disease ?</Question>
+			<Answer>Your health care provider will perform a physical exam. The exam may show signs of: Delayed puberty, Enlarged liver, Gout,  Inflammatory bowel disease , Liver tumors, Severe low blood sugar, Stunted growth or failure to grow ,  Children with this condition are usually diagnosed before age 1 year. Tests that may be done include: Biopsy of liver  or kidney,  Blood sugar test , Genetic testing,  Lactic acid blood test ,  Triglyceride level ,  Uric acid blood test ,  If a person has this disease, test results will show low blood sugar and high levels of lactate (produced from lactic acid), blood fats (lipids), and uric acid.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004257-5" qtype="treatment">What are the treatments for Von Gierke disease ?</Question>
+			<Answer>The goal of treatment is to avoid low blood sugar. Eat frequently during the day, especially foods that contain carbohydrates (starches). Older children and adults may take cornstarch by mouth to increase their carbohydrate intake. In some children, a feeding tube is placed through their nose into the stomach throughout the night to provide sugars or uncooked cornstarch. The tube can be taken out each morning. Alternatively, a gastrostomy tube (G-tube) can be placed to deliver food directly to the stomach overnight. A medicine to lower uric acid in the blood and decrease the risk for gout may be prescribed. Your provider may also prescribe medicines to treat kidney disease, high lipids, and to increase the cells that fight infection. People with von Gierke disease cannot properly break down fruit or milk sugar. It is best to avoid these products.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004257-6" qtype="support groups">Where to find support for people with Von Gierke disease ?</Question>
+			<Answer>More information and support for people with von Gierke disease and their families can be found at: Association for Glycogen Storage Disease --  www.agsdus.org</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004257-7" qtype="outlook">What is the outlook for Von Gierke disease ?</Question>
+			<Answer>With treatment, growth, puberty, and quality of life have improved for people with von Gierke disease. Those who are identified and carefully treated at a young age can live into adulthood. Early treatment also decreases the rate of severe problems such as: Gout ,  Kidney failure , Life-threatening low blood sugar, Liver tumors, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004257-8" qtype="complications">What are the complications of Von Gierke disease ?</Question>
+			<Answer>These complications can occur: Frequent infection, Gout, Kidney failure, Liver tumors,  Osteoporosis  (thinning bones),  Seizures ,  lethargy , confusion due to low blood sugar, Short height, Underdeveloped secondary sexual characteristics (breasts, pubic hair),  Ulcers of the mouth  or bowel , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0004257-9" qtype="when to contact a medical professional">Do I need to see a doctor for Von Gierke disease ?</Question>
+			<Answer>Contact your provider if you have a family history of glycogen storage disease or early infant death due to low blood sugar.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0004257-10" qtype="prevention">How to prevent Von Gierke disease ?</Question>
+			<Answer>There is no simple way to prevent glycogen storage disease. Couples who wish to have a baby may seek genetic counseling and testing to determine their risk for passing on von Gierke disease.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

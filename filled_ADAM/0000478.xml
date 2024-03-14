@@ -1,0 +1,54 @@
+<Document id="0000478" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001619.htm">
+ 
+<Focus>Blepharitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0005741</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Eyelid inflammation</Synonym>
+		<Synonym>Meibomian gland dysfunction</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000478-1" qtype="information">What is (are) Blepharitis ?</Question>
+			<Answer>Blepharitis is manifest by inflamed, irritated, itchy, and reddened eyelids. It most often occurs where the eyelashes grow. Dandruff-like debris builds up at the base of the eyelashes as well.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000478-2" qtype="causes">What causes Blepharitis ?</Question>
+			<Answer>The exact cause of blepharitis is unknown. It is thought to be due to: An overgrowth of bacteria., A skin mite called Demodex., A decrease or breakdown of the normal oils produced by the eyelid.,  Blepharitis is more likely to be seen in people with: A skin condition called  seborrheic  dermatitis or seborrhea. This problem involves the scalp, eyebrows, eyelids, skin behind the ears, and the creases of the nose.,  Allergies  that affect the eyelashes (less common)., Excess growth of the bacteria that are normally found on the skin.,  Rosacea , which is a skin condition that causes a red rash on the face., </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000478-3" qtype="symptoms">What are the symptoms of Blepharitis ?</Question>
+			<Answer>Symptoms include:  Red, irritated eyelids,  Scales  that stick to the base of the eyelashes, Burning feeling in the eyelids, Crusting,  itching  and swelling of the eyelids,  You may feel like you have sand or dust in your eye when you blink. Sometimes, the eyelashes may fall out. The eyelids may become scarred if the condition continues long-term.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000478-4" qtype="exams and tests">How to diagnose Blepharitis ?</Question>
+			<Answer>The health care provider can most often make the diagnosis by looking at the eyelids during an eye exam.&#160;Special photos of the glands that produce oil for the eyelids can be taken to see if they are healthy or not.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000478-5" qtype="treatment">What are the treatments for Blepharitis ?</Question>
+			<Answer>Cleaning the edges of the eyelid every day will help remove excess bacteria and oil. Your provider might recommend using baby shampoo or special cleansers. Using an antibiotic ointment on the eyelid or taking antibiotic pills may help treat the problem. It may also help to take fish oil supplements. If you have blepharitis: Apply warm compresses to your eyes for 5 minutes, at least 2 times per day., After the warm compresses, gently rub a solution of warm water and no-tears baby shampoo along your eyelid, where the lash meets the lid, using a cotton swab.,  A device has recently been developed that can warm and massage the eyelids to increase the flow of oil from the glands. The role of this device in treatment of blepharitis remains unclear. A drug containing hypochlorous acid, which is sprayed onto the eyelids is helpful in certain cases of blepharitis, especially when rosacea is also present. If Demodex is suspected as the cause, tea tree oil applied to the lids by your provider can be helpful; a new prescription medicine may soon be available.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000478-6" qtype="outlook">What is the outlook for Blepharitis ?</Question>
+			<Answer>The outcome is most often good with treatment. You may need to keep the eyelid clean to prevent the problem from coming back. Continuing treatment will ease redness and help make your eyes more comfortable. Styes  and  chalazia  are more common in people with blepharitis.&#160;</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000478-7" qtype="when to contact a medical professional">Do I need to see a doctor for Blepharitis ?</Question>
+			<Answer>Contact your provider if symptoms get worse or do not improve after several days of carefully cleaning your eyelids.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000478-8" qtype="prevention">How to prevent Blepharitis ?</Question>
+			<Answer>Cleaning the eyelids carefully will help reduce the chances of getting blepharitis. Treat skin conditions that may add to the problem. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

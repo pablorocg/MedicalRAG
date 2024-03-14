@@ -1,0 +1,63 @@
+<Document id="0003851" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001391.htm">
+ 
+<Focus>Tapeworm infection - beef or pork</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007894</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Teniasis</Synonym>
+		<Synonym>Pork tapeworm</Synonym>
+		<Synonym>Beef tapeworm</Synonym>
+		<Synonym>Tapeworm</Synonym>
+		<Synonym>Taenia saginata</Synonym>
+		<Synonym>Taenia solium</Synonym>
+		<Synonym>Taeniasis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003851-1" qtype="information">What is (are) Tapeworm infection - beef or pork ?</Question>
+			<Answer>Beef or pork tapeworm infection is an infection with the tapeworm parasite found in beef or pork.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003851-2" qtype="causes">What causes Tapeworm infection - beef or pork ?</Question>
+			<Answer>Tapeworm infection is caused by eating the raw or undercooked meat of infected animals. Cattle usually carry  Taenia saginata  ( T saginata ). Pigs carry  Taenia solium (T solium) . In the human intestine, the young form of the tapeworm from the infected meat (larva) develops into the adult tapeworm. A tapeworm can grow to longer than 12 feet (3.5 meters) and can live for years. Tapeworms have many segments. Each segment is able to produce eggs. The eggs are spread alone or in groups and can pass out with the stool or through the anus. Adults and children with pork tapeworm can infect themselves if they have poor hygiene. They can ingest tapeworm eggs they pick up on their hands while wiping or scratching their anus or the skin around it. Those who are infected can expose other people to  T solium  eggs, usually through food handling.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003851-3" qtype="symptoms">What are the symptoms of Tapeworm infection - beef or pork ?</Question>
+			<Answer>Tapeworm infection usually does not cause any symptoms. Some people may have abdominal discomfort. People often realize they are infected when they pass segments of the worm in their stool, especially if the segments are moving.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003851-4" qtype="exams and tests">How to diagnose Tapeworm infection - beef or pork ?</Question>
+			<Answer>Tests that may be done to confirm diagnosis of an infection include: CBC , including  differential count ,  Stool exam  for eggs of  T solium  or  T saginata , or the worm itself, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003851-5" qtype="treatment">What are the treatments for Tapeworm infection - beef or pork ?</Question>
+			<Answer>Tapeworms are treated with medicines taken by mouth, usually in a single dose. The drug of choice for tapeworm infections is praziquantel. Niclosamide can also be used, but this medicine is not available in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003851-6" qtype="outlook">What is the outlook for Tapeworm infection - beef or pork ?</Question>
+			<Answer>With treatment, the tapeworm infection goes away.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003851-7" qtype="complications">What are the complications of Tapeworm infection - beef or pork ?</Question>
+			<Answer>In rare cases, worms can cause a  blockage in the intestine . If pork tapeworm larvae move out of the intestine, they can cause local growths and damage tissues such as the brain, eye, or heart. This condition is called  cysticercosis . Infection of the brain (neurocysticercosis) can cause  seizures  and other nervous system problems.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003851-8" qtype="when to contact a medical professional">Do I need to see a doctor for Tapeworm infection - beef or pork ?</Question>
+			<Answer>Contact your health care provider for an appointment if you pass something in your stool that looks like a white worm.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003851-9" qtype="prevention">How to prevent Tapeworm infection - beef or pork ?</Question>
+			<Answer>In the United States, laws on feeding practices and the inspection of domestic food animals have largely eliminated tapeworms. Measures you can take to prevent tapeworm infection include: Do not eat raw meat., Cook whole cut meat to 145&#176;F (63&#176;C) and ground meat to 160&#176;F (71&#176;C). Use a food thermometer to measure the thickest part of the meat., Freezing meat is not reliable because it may not kill all eggs., Wash hands well after using the toilet, especially after a bowel movement., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

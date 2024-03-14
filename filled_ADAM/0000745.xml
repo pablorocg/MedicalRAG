@@ -1,0 +1,62 @@
+<Document id="0000745" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000893.htm">
+ 
+<Focus>Cervical cancer</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007847</CUI>
+			<CUI>C0302592</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cancer - cervix</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000745-1" qtype="information">What is (are) Cervical cancer ?</Question>
+			<Answer>Cervical cancer is cancer that starts in the cervix. The cervix is the lower part of the uterus (womb) that opens at the top of the vagina.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000745-2" qtype="causes">What causes Cervical cancer ?</Question>
+			<Answer>Worldwide, cervical cancer is the third most common type of cancer in women. It is much less common in the United States because of the widespread use of  Pap tests . Cervical cancer starts in the cells on the surface of the cervix. There are two types of cells on the surface of the cervix, squamous and columnar (gland cells). Most cervical cancers are from squamous cells. Cervical cancer usually develops slowly. It starts as a precancerous condition called  dysplasia . This condition can be detected by a Pap test and is nearly 100% treatable. It can take years for dysplasia to develop into cervical cancer. Most women who are diagnosed with cervical cancer today have not had regular Pap tests, or they have not followed up on abnormal Pap test results. Almost all cervical cancers are caused by human papillomavirus (HPV). HPV is a common virus that is spread through skin-to-skin contact and also by sexual intercourse. There are many different types (strains) of HPV. Some strains lead to cervical as well as other cancers. Other strains can cause  genital warts . Others do not cause any problems at all. A woman's sexual habits and patterns can increase her risk for developing cervical cancer. Risky sexual practices include: Having sex at an early age, Having multiple sexual partners, Having a partner or many partners who take part in high-risk sexual activities ,  Other risk factors for cervical cancer include: Not getting the  HPV vaccine , Being economically disadvantaged, Having a mother who took the drug diethylstilbestrol (DES) during pregnancy in the early 1960s to prevent miscarriage, Having a weakened immune system , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000745-3" qtype="symptoms">What are the symptoms of Cervical cancer ?</Question>
+			<Answer>Most of the time, early cervical cancer has no symptoms. Symptoms that may occur include: Abnormal vaginal bleeding between periods , after intercourse, or after menopause, Vaginal discharge that does not stop, and may be pale, watery, pink, brown, bloody, or foul-smelling, Periods that become heavier and last longer than usual ,  Cervical cancer may spread to the vagina, lymph nodes, bladder, intestines, lungs, bones, and liver. Often, there are no problems or symptoms until the cancer is advanced and has spread. Symptoms of advanced cervical cancer may include: Back pain, Bone pain or fractures, Fatigue, Leaking of urine or feces from the vagina, Leg pain, Loss of appetite, Pelvic pain, Single swollen leg, Weight loss , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000745-4" qtype="exams and tests">How to diagnose Cervical cancer ?</Question>
+			<Answer>Precancerous changes of the cervix and cervical cancer cannot be seen with the naked eye. Special tests and tools are needed to spot such conditions: A Pap test screens for precancers and cancer, but does not make a final diagnosis., Depending on your age, the  human papillomavirus (HPV) DNA test  may be done along with a Pap test. Or it may be used after a woman has had an abnormal Pap test result. It may also be used as the first test. Talk to your health care provider about which test or tests are right for you., If abnormal changes are found, the cervix is usually examined under magnification. This procedure is called  colposcopy . Pieces of tissue might be removed (biopsied) during this procedure. This tissue is then sent to a lab for examination., A procedure called a  cone biopsy  may also be done. This is a procedure that removes a cone-shaped wedge from the front of the cervix.,  If cervical cancer is diagnosed, the provider will order more tests. These help determine how far the cancer has spread. This is called  cancer staging . Tests may include: Chest x-ray,  CT scan of the abdomen and pelvis ,  Cystoscopy ,  Intravenous pyelogram (IVP) ,  MRI of the abdomen and pelvis ,  PET scan , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000745-5" qtype="treatment">What are the treatments for Cervical cancer ?</Question>
+			<Answer>Treatment of cervical cancer depends on: The stage of the cancer, The size and shape of the tumor, The woman's age and general health, Her desire to have children in the future,  Early cervical cancer can be cured by removing or destroying the precancerous or cancerous tissue. This is why Pap tests done at the recommended times are so important to prevent cervical cancer, or catch it at an early stage. There are surgical ways to cure cervical cancer without removing the uterus or seriously damaging the cervix, so that a woman can still have children in the future. Types of surgery for cervical precancer, and on occasion, very small early cervical cancer include: Loop electrosurgical excision procedure (LEEP) -- uses electricity to remove abnormal tissue., Cryotherapy -- freezes abnormal cells., Laser therapy -- uses light to burn abnormal tissue.,  Hysterectomy  may be done for women with precancer who have undergone multiple LEEP procedures, or who are not interested in further childbearing. ,  Treatment for more advanced cervical cancer may include: Radical hysterectomy, which removes the uterus and much of the surrounding tissues, including lymph nodes and the upper part of the vagina. This is more often performed on younger, healthier women with small tumors., Radiation therapy, along with low dose chemotherapy, is more often used for women with tumors too large for radical hysterectomy or women who are not good candidates for surgery., Pelvic exenteration, an extreme type of surgery in which all of the organs of the pelvis, including the bladder and rectum, are removed.,  Radiation  may also be used to treat cancer that has returned. Chemotherapy  uses drugs to kill cancer. It may be given alone or with surgery or radiation.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000745-6" qtype="support groups">Where to find support for people with Cervical cancer ?</Question>
+			<Answer>You can ease the stress of illness by joining a  cancer support group . Sharing with others who have common experiences and problems can help you not feel alone.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000745-7" qtype="outlook">What is the outlook for Cervical cancer ?</Question>
+			<Answer>How well the person does depends on many things, including: Type of cervical cancer, Stage of cancer (how far it has spread), Age and general health, If the cancer comes back after treatment ,  Precancerous conditions can be completely cured when followed up and treated properly. Most women are alive in 5 years (5-year survival rate) for cancer that has spread to the inside of the cervix walls but not outside the cervix area. The 5-year survival rate falls as the cancer spreads outside the walls of the cervix into other areas.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000745-8" qtype="complications">What are the complications of Cervical cancer ?</Question>
+			<Answer>Complications can include: Risk of the cancer coming back in women who have treatment to save the uterus, Problems with sexual, bowel, and bladder function after surgery or radiation , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000745-9" qtype="when to contact a medical professional">Do I need to see a doctor for Cervical cancer ?</Question>
+			<Answer>Contact your provider if you: Have not had regular Pap tests, Have abnormal vaginal bleeding or discharge , </Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0000745-10" qtype="prevention">How to prevent Cervical cancer ?</Question>
+			<Answer>Cervical cancer can be prevented by doing the following: Get the  HPV vaccine . The vaccine prevents most types of HPV infection that cause cervical cancer. Your provider can tell you if the vaccine is right for you.,  Practice safer sex . Using condoms during sex reduces the risk for HPV and other sexually transmitted infections (STIs)., Limit the number of sexual partners you have. Avoid partners who are active in high-risk sexual behaviors., Get Pap tests as often as your provider recommends. Pap tests can help detect early changes, which can be treated before they turn into cervical cancer., Get the HPV test if recommended by your provider. It can be used along with the Pap test to screen for cervical cancer in women 30 years and older.,  If you smoke, quit . Smoking increases your chance of getting cervical cancer. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

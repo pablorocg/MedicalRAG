@@ -1,0 +1,78 @@
+<Document id="0003885" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001288.htm">
+ 
+<Focus>Testicular cancer</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0153594</CUI>
+			<CUI>C0855197</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cancer - testes</Synonym>
+		<Synonym>Germ cell tumor</Synonym>
+		<Synonym>Seminoma testicular cancer</Synonym>
+		<Synonym>Nonseminoma testicular cancer</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003885-1" qtype="information">What is (are) Testicular cancer ?</Question>
+			<Answer>Testicular cancer is cancer that starts in the testicles. The testicles are the male reproductive glands located in the scrotum.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003885-2" qtype="causes">What causes Testicular cancer ?</Question>
+			<Answer>The exact cause of testicular cancer is poorly understood. Factors that may increase a man's risk of developing testicular cancer are: 
+   Abnormal testicle development
+   , 
+   Exposure to certain chemicals
+   , 
+   Family history of testicular cancer
+   ,  HIV infection , 
+   History of testicular cancer
+   , 
+   History of an  undescended testicle 
+   (one or both testicles fail to move into the scrotum before birth)
+   ,  Klinefelter syndrome ,  Infertility , Tobacco use,  Down syndrome ,  Testicular cancer is the most common cancer in young and middle-aged men. It can also occur in older men, and in rare cases, in younger boys. White men are more likely than African American and Asian American men to develop this type of cancer. There is no link between  vasectomy  and testicular cancer. There are two main types of testicular cancer: Seminomas, Nonseminomas,  These cancers grow from germ cells, the cells that make sperm. Seminoma: This is a slow-growing form of testicular cancer found in men in their 40s and 50s. The cancer is in the testes, but it can spread to the lymph nodes. Lymph node involvement is either treated with radiotherapy or chemotherapy. Seminomas are very sensitive to radiation therapy. Nonseminoma: This more common type of testicular cancer tends to grow more quickly than seminomas. Nonseminoma tumors are often made up of more than one type of cell, and are identified according to these different cell types: Choriocarcinoma  (rare), Embryonal carcinoma,  Teratoma , Yolk sac tumor,  A stromal tumor is a rare type of testicular tumor. They are usually not cancerous. The two main types of stromal tumors are Leydig cell tumors and Sertoli cell tumors. Stromal tumors usually occur during childhood.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003885-3" qtype="symptoms">What are the symptoms of Testicular cancer ?</Question>
+			<Answer>There may be no symptoms. The cancer may look like a painless mass in the testes. If there are symptoms, they may include: 
+   Discomfort or pain in the testicle, or a feeling of heaviness in the scrotum
+   , Pain in the back or lower abdomen, Enlarged testicle or a change in the way it feels, Excess amount of breast tissue ( gynecomastia ), however this can occur normally in adolescent boys who do not have testicular cancer, Lump or swelling in either testicle,  Symptoms in other parts of the body, such as the lungs, abdomen, pelvis, back, or brain, may also occur if the cancer has spread outside the testicles.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003885-4" qtype="exams and tests">How to diagnose Testicular cancer ?</Question>
+			<Answer>A physical examination typically reveals a firm lump (mass) in one of the testicles. When the health care provider holds a flashlight up to the scrotum, the light does not pass through the lump. This exam is called  transillumination . Other tests include: Abdominal and pelvic CT scan , Blood tests for tumor markers: alpha fetoprotein (AFP), human chorionic gonadotrophin (beta HCG), and lactic dehydrogenase (LDH),  Chest x-ray ,  Ultrasound of the scrotum ,  Bone scan  and  head CT scan  (to look for the spread of cancer to the bones and head),  MRI brain , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003885-5" qtype="treatment">What are the treatments for Testicular cancer ?</Question>
+			<Answer>Treatment depends on the: Type of testicular tumor, Stage of the tumor,  Once cancer is found, the first step is to determine the type of cancer cell by examining it under a microscope. The cells can be seminoma, nonseminoma, or both. The next step is to determine how far the cancer has spread to other parts of the body. This is called "staging." Stage I cancer has not spread beyond the testicle., Stage II cancer has spread to lymph nodes in the abdomen., Stage III cancer has spread beyond the lymph nodes (it could be as far as the liver, lungs, or brain).,  Three types of treatment can be used. Surgical treatment removes the testicle (orchiectomy).,  Radiation therapy  using high-dose x-rays or other high-energy rays may be used after surgery to prevent the tumor from returning. Radiation therapy is usually only used for treating seminomas.,  Chemotherapy  uses medicines to kill cancer cells. This treatment has greatly improved survival for people with both seminomas and nonseminomas., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003885-6" qtype="support groups">Where to find support for people with Testicular cancer ?</Question>
+			<Answer>Joining a  support group  where members share common experiences and problems can often help the stress of illness.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003885-7" qtype="outlook">What is the outlook for Testicular cancer ?</Question>
+			<Answer>Testicular cancer is one of the most treatable and curable cancers. The survival rate for men with early-stage seminoma (the least aggressive type of testicular cancer) is greater than 95%. The disease-free survival rate for Stage II and III cancers is slightly lower, depending on the size of the tumor and when treatment is begun.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003885-8" qtype="complications">What are the complications of Testicular cancer ?</Question>
+			<Answer>Testicular cancer may spread to other parts of the body. The most common sites include the: Liver, Lungs, Retroperitoneal area (the area near the kidneys behind the other organs in the belly area), Brain, Bone,  Complications of surgery can include: Bleeding and infection after surgery, Infertility (if both testicles are removed),  Testicular cancer survivors are at increased risk of developing: Second malignant tumors (second cancer occurring at different place in the body that develops after the treatment of first cancer), Heart diseases,  Metabolic syndrome ,  Also, long-term complications in cancer survivors may include: Peripheral neuropathy ,  Chronic kidney disease , Damage to the inner ear from medicines used to treat the cancer,  If you think you may want to have children in the future, ask your provider about methods to save your sperm for use at a later date.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003885-9" qtype="when to contact a medical professional">Do I need to see a doctor for Testicular cancer ?</Question>
+			<Answer>Call your provider if you have symptoms of testicular cancer.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0003885-10" qtype="prevention">How to prevent Testicular cancer ?</Question>
+			<Answer>Performing a  testicular self-examination (TSE)  each month may help detect testicular cancer at an early stage, before it spreads. Finding testicular cancer early is important for successful treatment and survival. However, testicular cancer screening is not recommended for the general population in the United States.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

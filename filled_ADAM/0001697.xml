@@ -1,0 +1,33 @@
+<Document id="0001697" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000333.htm">
+ 
+<Focus>Gastrostomy feeding tube - pump - child</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0743845</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Feeding - gastrostomy tube - pump</Synonym>
+		<Synonym>G-tube - pump</Synonym>
+		<Synonym>Gastrostomy button - pump</Synonym>
+		<Synonym>Bard Button - pump</Synonym>
+		<Synonym>MIC-KEY - pump</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001697-1" qtype="information">What is (are) Gastrostomy feeding tube - pump - child ?</Question>
+			<Answer>Your child has a gastrostomy tube (G-tube, or PEG tube). This is a soft, plastic tube placed into your child's stomach. It delivers nutrition (food) and medicines until your child can chew and swallow. You'll need to learn how to give your child feedings and how to care for the G-tube. Follow any specific instructions your health care provider or nurse gives you. Use the information below as a reminder of what to do.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001697-7" qtype="when to contact a medical professional">Do I need to see a doctor for Gastrostomy feeding tube - pump - child ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

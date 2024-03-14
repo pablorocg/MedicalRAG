@@ -1,0 +1,58 @@
+<Document id="0001692" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000235.htm">
+ 
+<Focus>Gastrointestinal perforation</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0151664</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Intestinal perforation</Synonym>
+		<Synonym>Perforation of the intestines</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001692-1" qtype="information">What is (are) Gastrointestinal perforation ?</Question>
+			<Answer>Perforation is a hole that develops through the wall of a body organ. This problem may occur in the esophagus, stomach, small intestine, large intestine, rectum, or gallbladder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001692-2" qtype="causes">What causes Gastrointestinal perforation ?</Question>
+			<Answer>Perforation of an organ can be caused by a variety of factors. These include: Appendicitis , Cancer (all types),  Crohn disease ,  Diverticulitis , Gallbladder disease, Peptic ulcer disease,  Ulcerative colitis , Bowel blockage, Chemotherapy agents, Increased pressure in the esophagus caused by forceful vomiting , Ingestion of caustic substances,  It may also be caused by surgery in the abdomen or procedures such as colonoscopy or upper endoscopy.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001692-3" qtype="symptoms">What are the symptoms of Gastrointestinal perforation ?</Question>
+			<Answer>Perforation of the intestine or other organs causes the contents to leak into the abdomen. This causes a severe infection called  peritonitis . Symptoms may include: Severe abdominal pain, Chills, Fever, Nausea, Vomiting, Shock, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001692-4" qtype="exams and tests">How to diagnose Gastrointestinal perforation ?</Question>
+			<Answer>X-rays of the chest or abdomen may show air in the abdominal cavity. This is called free air. It is a sign of a tear. If the esophagus is perforated free air can be seen in the mediastinum (around the heart) and in the chest. A  CT scan of the abdomen  often shows where the hole is located. The  white blood cell count  is often higher than normal. A procedure may help find the area of the perforation, such as an upper endoscopy (EGD) or a colonoscopy.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001692-5" qtype="treatment">What are the treatments for Gastrointestinal perforation ?</Question>
+			<Answer>Treatment most often involves emergency surgery to repair the hole. Sometimes, a small part of the intestine must be removed. One end of the intestine may be brought out through an opening (stoma) made in the abdominal wall. This is called a  colostomy  or  ileostomy ., A drain from the abdomen or other organ may also be needed.,  In rare cases, people can be treated with antibiotics alone if the perforation has closed. This can be confirmed by a physical exam, blood tests, CT scan, and x-rays.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001692-6" qtype="outlook">What is the outlook for Gastrointestinal perforation ?</Question>
+			<Answer>Surgery is successful most of the time. However, the outcome will depend on how severe the perforation is, and for how long it was present before treatment. The presence of other illnesses can also affect how well a person will do after treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001692-7" qtype="complications">What are the complications of Gastrointestinal perforation ?</Question>
+			<Answer>Even with surgery, infection is the most common complication of the condition. Infections can be either inside the abdomen (abdominal abscess or peritonitis), or throughout the whole body. Body-wide infection is called  sepsis .&#160;Sepsis can be very serious and can lead to death.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001692-8" qtype="when to contact a medical professional">Do I need to see a doctor for Gastrointestinal perforation ?</Question>
+			<Answer>Contact your health care provider if you have: Blood in your stool, Changes in bowel habits, Fever, Nausea, Severe abdominal pain, Vomiting, Call 911 or the local emergency number right away if you or someone else have ingested a caustic substance.,  Call the local  poison control center  emergency number at 1-800-222-1222 if a person has ingested a caustic substance. This hotline number will let you talk to experts in poisoning. DO NOT wait until the person has symptoms before you call for help.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001692-9" qtype="prevention">How to prevent Gastrointestinal perforation ?</Question>
+			<Answer>People will often have a few days of pain before the intestinal perforation occurs. If you have pain in the abdomen, see your provider right away. Treatment is much simpler and safer when it is started before the perforation occurs.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

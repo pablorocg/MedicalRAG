@@ -1,0 +1,57 @@
+<Document id="0000182" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001014.htm">
+ 
+<Focus>Amblyopia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002418</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lazy eye</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000182-1" qtype="information">What is (are) Amblyopia ?</Question>
+			<Answer>Amblyopia is the loss of the ability to see clearly through one eye. It is also called "lazy eye." It is the most common cause of vision problems in children.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000182-2" qtype="causes">What causes Amblyopia ?</Question>
+			<Answer>Amblyopia occurs when the nerve pathway from one eye to the brain does not develop during childhood. This problem develops because the abnormal eye sends the wrong image to the brain. This is the case in  strabismus  (crossed eyes). In other eye problems, a blurred image is sent to the brain. This confuses the brain, and the brain may learn to ignore the image from the weaker eye. Strabismus is the most common cause of amblyopia. Having a family member with strabismus, increases your chance of having strabismus. The term "lazy eye" refers to amblyopia, which often occurs along with strabismus. However, amblyopia can occur due to something other than strabismus. Also, people can have strabismus without amblyopia. Other causes include: Childhood  cataracts ,  Farsightedness ,  nearsightedness , or  astigmatism , especially if it is greater in one eye ,  In strabismus, the only problem with the eye itself is that it is pointed in the wrong direction. If poor vision is caused by a problem with the eyeball, such as cataracts, amblyopia will still need to be treated, even if the cataracts are removed. Amblyopia may not develop if both eyes have equally poor vision.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000182-3" qtype="symptoms">What are the symptoms of Amblyopia ?</Question>
+			<Answer>Symptoms of the condition include: Eyes that turn in or out, Eyes that do not appear to work together, Inability to judge depth correctly, Poor vision in one eye , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000182-4" qtype="exams and tests">How to diagnose Amblyopia ?</Question>
+			<Answer>In most cases, amblyopia can be detected with a complete eye exam. Special tests are not often needed.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000182-5" qtype="treatment">What are the treatments for Amblyopia ?</Question>
+			<Answer>The first step will be to correct any eye condition that is causing poor vision in the amblyopic eye (such as cataracts). Children with a refractive error (nearsightedness, farsightedness, or astigmatism) will need glasses. Next, a patch is placed on the normal eye. This forces the brain to recognize the image from the eye with amblyopia. Sometimes, drops are used to blur the vision of the normal eye instead of putting a patch on it. Newer treatment techniques use digital computer technology, to show a slightly different image to each eye. Over time, the vision between the eyes becomes equalized. Children whose vision will not fully recover, and those with only one good eye due to any disorder should wear glasses. These glasses should be shatter- and scratch-resistant. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000182-6" qtype="outlook">What is the outlook for Amblyopia ?</Question>
+			<Answer>Children who get treated before age 5 almost always recover vision that is close to normal. However, they may continue to have problems with depth perception. Permanent vision problems may result if treatment is delayed. Children treated after age 10 can expect vision to recover only partially. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000182-7" qtype="complications">What are the complications of Amblyopia ?</Question>
+			<Answer>Complications may include: Eye muscle problems that may require several surgeries, Permanent vision loss in the affected eye, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000182-8" qtype="when to contact a medical professional">Do I need to see a doctor for Amblyopia ?</Question>
+			<Answer>Contact your health care provider or ophthalmologist if you suspect a vision problem in a young child.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000182-9" qtype="prevention">How to prevent Amblyopia ?</Question>
+			<Answer>Identifying and treating the problem early prevents children from having permanent visual loss. All children should have a complete eye exam at least once between ages 3 and 5. Special methods are used to measure vision in a child who is too young to speak. Most eye care professionals can perform these techniques.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

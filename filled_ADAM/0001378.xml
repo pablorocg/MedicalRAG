@@ -1,0 +1,56 @@
+<Document id="0001378" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000500.htm">
+ 
+<Focus>End-stage kidney disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022661</CUI>
+			<CUI>C0022658</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Renal failure - end stage</Synonym>
+		<Synonym>Kidney failure - end stage</Synonym>
+		<Synonym>ESRD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001378-1" qtype="information">What is (are) End-stage kidney disease ?</Question>
+			<Answer>End-stage kidney disease (ESKD) is the last stage of long-term (chronic)  kidney disease . This is when your kidneys can no longer support your body's needs. End-stage kidney disease is also called end-stage renal disease (ESRD).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001378-2" qtype="causes">What causes End-stage kidney disease ?</Question>
+			<Answer>The kidneys remove waste and excess water from the body. ESRD occurs when the kidneys are no longer able to work at a level needed for day-to-day life. The most common causes of ESRD in the United States are  diabetes  and  high blood pressure . These conditions can damage your kidneys. ESRD almost always comes after chronic kidney disease. The kidneys may slowly stop working during a period of 10 to 20 years before end-stage disease results.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001378-3" qtype="symptoms">What are the symptoms of End-stage kidney disease ?</Question>
+			<Answer>Common symptoms may include: General ill feeling  and  fatigue , Itching ( pruritus ) and dry skin,  Headache , Weight loss without trying, Loss of appetite, Nausea ,  Other symptoms may include: Abnormally dark or light skin, Nail changes, Bone pain,  Drowsiness  and  confusion , Problems concentrating or thinking, Numbness in the hands, feet, or other areas,  Muscle twitching  or cramps, Breath odor, Easy bruising, nosebleeds, or blood in the stool, Excessive thirst, Frequent hiccups, Problems with sexual function, Menstrual periods stop (amenorrhea), Sleep problems, Swelling of the feet and hands ( edema ), Vomiting, often in the morning , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001378-4" qtype="exams and tests">How to diagnose End-stage kidney disease ?</Question>
+			<Answer>Your health care provider will perform a physical exam and order blood tests. Most people with this condition have high blood pressure. People with ESRD will make much less urine than normal, or their kidneys may no longer make urine. ESRD changes the results of many tests. People receiving dialysis will need these and other tests done often: Potassium ,  Sodium ,  Albumin ,  Phosphorous ,  Calcium , Cholesterol,  Magnesium ,  Complete blood count  (CBC),  Electrolytes ,  This disease may also change the results of the following tests: Vitamin D,  Parathyroid hormone ,  Bone density test , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001378-5" qtype="treatment">What are the treatments for End-stage kidney disease ?</Question>
+			<Answer>ESRD may need to be treated with  dialysis  or  kidney transplant . You may need to stay on a special diet or take medicines to help your body work well. DIALYSIS Dialysis does some of the job of the kidneys when they stop working well. Dialysis can: Remove extra salt, water, and waste products so they do not build up in your body, Keep safe levels of minerals and vitamins in your body, Help control blood pressure, Help the body make red blood cells ,  Your provider will discuss dialysis with you before you need it. Dialysis removes waste from your blood when your kidneys can no longer do their job. Usually, you will go on dialysis when you have only 10% to 15% of your kidney function left., Even people who are waiting for a kidney transplant may need dialysis while waiting. ,  Two different methods are used to perform dialysis: During hemodialysis, your blood passes through a tube into an artificial kidney, or filter. This method can be done at home or at a dialysis center., During  peritoneal dialysis , a special solution passes into your belly though a catheter tube. The solution remains in your abdomen for period of time and then is removed. This method can be done at home, at work, or while traveling. ,  KIDNEY TRANSPLANT A kidney transplant is surgery to place a healthy kidney into a person with kidney failure. Your provider will refer you to a transplant center. There, you will be seen and evaluated by the transplant team. They will want to make sure that you are a good candidate for kidney transplant. SPECIAL DIET You may need to continue following a special  diet for chronic kidney disease . The diet may include: Eating foods low in protein to limit your total daily protein intake, Getting enough calories if you are losing weight, Limiting fluids, Limiting salt, potassium, phosphorous, and other electrolytes ,  OTHER TREATMENT Other treatment depends on your symptoms, but may include: Extra calcium and vitamin D. (Always talk to your provider before taking supplements.), Medicines called phosphate binders, to help prevent blood phosphorous levels from becoming too high., Treatment for anemia, such as extra iron in the diet, iron pills or shots, shots of a medicine called erythropoietin, and blood transfusions., Medicines to control your blood pressure. ,  Talk to your provider about vaccinations that you may need, including: COVID-19 vaccine,  Hepatitis A vaccine ,  Hepatitis B vaccine ,  COVID-19 vaccine ,  Flu vaccine ,  Pneumonia vaccine (PPV), </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001378-6" qtype="support groups">Where to find support for people with End-stage kidney disease ?</Question>
+			<Answer>Some people may benefit from taking part in a  kidney disease support group . </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001378-7" qtype="outlook">What is the outlook for End-stage kidney disease ?</Question>
+			<Answer>End-stage kidney disease leads to death if you do not have dialysis or a kidney transplant. Both of these treatments have risks. The outcome is different for each person.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001378-8" qtype="complications">What are the complications of End-stage kidney disease ?</Question>
+			<Answer>Health problems that can result from ESRD include: Anemia , Bleeding from the stomach or intestines, Bone, joint, and muscle pain, Changes in blood sugar (glucose),  Damage to nerves of the legs and arms ,  Fluid buildup around the lungs ,  High blood pressure ,  heart attack , and  heart failure ,  High potassium level , Increased risk of infection, Liver damage or failure,  Malnutrition , Miscarriages or infertility,  Restless legs syndrome ,  Stroke ,  seizures , and dementia, Swelling and edema, Weakening of the bones and fractures related to high phosphorous and low calcium levels , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

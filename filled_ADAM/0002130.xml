@@ -1,0 +1,59 @@
+<Document id="0002130" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000535.htm">
+ 
+<Focus>Idiopathic thrombocytopenic purpura (ITP)</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0398650</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Immune thrombocytopenic purpura</Synonym>
+		<Synonym>ITP</Synonym>
+		<Synonym>Immune thrombocytopenia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002130-1" qtype="information">What is (are) Idiopathic thrombocytopenic purpura (ITP) ?</Question>
+			<Answer>Immune thrombocytopenic purpura (ITP) is a  bleeding disorder  in which the immune system destroys platelets, which are necessary for normal blood clotting. People with the disease have too few platelets in the blood. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002130-2" qtype="causes">What causes Idiopathic thrombocytopenic purpura (ITP) ?</Question>
+			<Answer>ITP occurs when certain immune system cells produce  antibodies  against platelets. Platelets help your blood clot by clumping together to plug small holes in damaged blood vessels. The antibodies attach to the platelets. The body destroys the platelets that carry the antibodies. In children, the disease sometimes follows a viral infection. In adults, it is more often a long-term (chronic) disease and can occur after a viral infection, with use of certain drugs, during pregnancy, or as part of an immune disorder. ITP affects women more often than men. It is more common in children than adults. In children, the disease affects boys and girls equally.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002130-3" qtype="symptoms">What are the symptoms of Idiopathic thrombocytopenic purpura (ITP) ?</Question>
+			<Answer>ITP symptoms can include any of the following: Abnormally heavy periods in women,  Bleeding into the skin , often around the shins, causing a skin rash that looks like pinpoint red spots (petechial rash), Easy bruising, Nosebleed or bleeding in the mouth, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002130-4" qtype="exams and tests">How to diagnose Idiopathic thrombocytopenic purpura (ITP) ?</Question>
+			<Answer>Blood tests will be done to check your  platelet count . A  bone marrow aspiration  or  biopsy  may also be done. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002130-5" qtype="treatment">What are the treatments for Idiopathic thrombocytopenic purpura (ITP) ?</Question>
+			<Answer>In children, the disease usually goes away without treatment. Some children may need treatment. Adults are usually started on a steroid medicine called prednisone or dexamethasone. In some cases, surgery to remove the spleen (splenectomy) is recommended. This increases the platelet count in about half of people. However, other drug treatments are usually recommended instead. If the disease does not get better with prednisone, other treatments may include: Infusions of high-dose gamma globulin (an immune factor), Drugs that suppress the immune system, Anti-RhD therapy for people with certain blood types, Drugs that stimulate the bone marrow to make more platelets,  People with ITP should not take aspirin, ibuprofen, or warfarin, because these drugs interfere with platelet function or blood clotting, and bleeding may occur.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002130-6" qtype="outlook">What is the outlook for Idiopathic thrombocytopenic purpura (ITP) ?</Question>
+			<Answer>With treatment, the chance of remission (a symptom-free period) is good. In rare cases, ITP may become a long-term condition in adults and reappear, even after a symptom-free period.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002130-7" qtype="complications">What are the complications of Idiopathic thrombocytopenic purpura (ITP) ?</Question>
+			<Answer>Sudden and severe loss of blood from the digestive tract may occur. Bleeding into the brain may also occur.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002130-8" qtype="when to contact a medical professional">Do I need to see a doctor for Idiopathic thrombocytopenic purpura (ITP) ?</Question>
+			<Answer>Go to the emergency room or call 911 or the local emergency number if severe bleeding occurs, or if other new symptoms develop.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002130-9" qtype="prevention">How to prevent Idiopathic thrombocytopenic purpura (ITP) ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

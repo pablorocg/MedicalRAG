@@ -1,0 +1,16 @@
+<Document id="0000640" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002412.htm">
+ 
+<Focus>Calcium in diet</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Diet - calcium</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000640-1" qtype="information">Do you have information about Calcium in diet</Question>
+			<Answer>Calcium is the most plentiful mineral found in the human body. The teeth and bones contain the most calcium. Nerve cells, body tissues, blood, and other body fluids contain the rest of the calcium.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

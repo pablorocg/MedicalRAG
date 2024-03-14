@@ -1,0 +1,61 @@
+<Document id="0001998" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000845.htm">
+ 
+<Focus>Hives</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0042109</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Urticaria</Synonym>
+		<Synonym>Wheals</Synonym>
+		<Synonym>Nettle rash</Synonym>
+		<Synonym>Angioedema</Synonym>
+		<Synonym>Quincke edema</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001998-1" qtype="information">What is (are) Hives ?</Question>
+			<Answer>Hives are raised, often itchy, red bumps (welts) on the surface of the skin. They can be an allergic reaction to food or medicine. They can also appear without cause.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001998-2" qtype="causes">What causes Hives ?</Question>
+			<Answer>When you have an allergic reaction to a substance, your body releases histamine and other chemicals into the blood. This causes itching, swelling, and other symptoms. Hives are a common reaction. People with other allergies, such as hay fever, often get hives. Angioedema is swelling of the deeper tissue that sometimes occurs with hives. Like hives,  angioedema  can occur on any part of the body. When it occurs around the mouth or throat, the symptoms can be severe, including airway blockage. Many substances can trigger hives, including: Animal dander (especially cats), Insect bites, Medicines, Pollen, Shellfish, fish, nuts, eggs, milk, and other foods ,  Hives may also develop as a result of: Emotional stress, Extreme cold or sun exposure, Excessive perspiration, Illness, including  lupus , other  autoimmune diseases , and  leukemia , Infections such as  mononucleosis , Exercise, Exposure to water ,  Often, the cause of hives is not known.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001998-3" qtype="symptoms">What are the symptoms of Hives ?</Question>
+			<Answer>Symptoms of hives may include any of the following: Itching., Swelling of the surface of the skin into red- or skin-colored welts (called wheals) with clearly defined edges., Wheals may get bigger, spread, and join together to form larger areas of flat, raised skin., Wheals often change shape, disappear, and reappear within minutes or hours. It is unusual for a wheal to last more than 48 hours., Dermatographism, or skin writing, is a type of hives. It is caused by pressure on the skin and results in immediate hives in the area that has been pressed on or scratched. , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001998-4" qtype="exams and tests">How to diagnose Hives ?</Question>
+			<Answer>Your health care provider can tell if you have hives by looking at your skin. If you have a history of an allergy causing hives, for example, to strawberries, the diagnosis is even clearer. Sometimes, a  skin biopsy  or blood tests are done to confirm that you had an allergic reaction, and to test for the substance that caused the allergic response. However, specific allergy testing is not useful in most cases of hives.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001998-5" qtype="treatment">What are the treatments for Hives ?</Question>
+			<Answer>Treatment may not be needed if the hives are mild. They may disappear on their own. To reduce itching and swelling: Do not take hot baths or showers., Do not wear tight-fitting clothing, which can irritate the area., Your provider may suggest that you take an antihistamine such as diphenhydramine (Benadryl) or cetirizine (Zyrtec). Follow your provider's instructions or the package instructions about how to take the medicine., Other oral prescription medicines may be needed, especially if the hives are chronic (long-lasting). ,  If your reaction is severe, especially if the swelling involves your throat, you may need an emergency shot of epinephrine (adrenaline) or steroids. Hives in the throat can block your airway, making it difficult to breathe.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001998-6" qtype="outlook">What is the outlook for Hives ?</Question>
+			<Answer>Hives may be uncomfortable, but they are usually harmless and disappear on their own. When the condition lasts longer than 6 weeks, it is called chronic hives. Usually no cause can be found. Most chronic hives resolve on their own in less than 1 year.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001998-7" qtype="complications">What are the complications of Hives ?</Question>
+			<Answer>Complications of hives may include: Anaphylaxis  (a life-threatening, whole-body allergic reaction that causes breathing difficulty), Swelling in the throat can lead to life-threatening airway blockage , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001998-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hives ?</Question>
+			<Answer>Call 911 or the local emergency number if you have: Fainting ,  Shortness of breath ,  Tightness in your throat ,  Tongue or face swelling ,  Wheezing ,  Call your provider if the hives are severe, uncomfortable, and do not respond to self-care measures.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001998-9" qtype="prevention">How to prevent Hives ?</Question>
+			<Answer>To help prevent hives, avoid exposure to substances that give you allergic reactions.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

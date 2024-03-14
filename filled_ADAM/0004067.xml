@@ -1,0 +1,13 @@
+<Document id="0004067" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000910.htm">
+ 
+<Focus>Types of chemotherapy</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004067-1" qtype="information">Do you have information about Types of chemotherapy</Question>
+			<Answer>Chemotherapy  is the use of medicine to treat cancer. Chemotherapy kills cancer cells. It may be used to cure cancer, help keep it from spreading, or reduce symptoms.  In some cases, people are treated with a single type of chemotherapy. But often, people get more than one type of chemotherapy at a time. This helps attack the cancer in different ways.  Targeted therapy  and  immunotherapy  are other cancer treatments that use medicine to treat cancer. Standard chemotherapy works by killing cancer cells and some normal cells. Targeted treatment and immunotherapy zero in on specific targets (molecules) in or on cancer cells.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

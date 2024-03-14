@@ -1,0 +1,41 @@
+<Document id="0000950" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002948.htm">
+ 
+<Focus>Congenital heart defect - corrective surgery</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018798</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Congenital heart surgery</Synonym>
+		<Synonym>Patent ductus arteriosus ligation</Synonym>
+		<Synonym>Hypoplastic left heart repair</Synonym>
+		<Synonym>Tetralogy of Fallot repair</Synonym>
+		<Synonym>Coarctation of the aorta repair</Synonym>
+		<Synonym>Atrial septal defect repair</Synonym>
+		<Synonym>Ventricular septal defect repair</Synonym>
+		<Synonym>Truncus arteriosus repair</Synonym>
+		<Synonym>Total anomalous pulmonary artery correction</Synonym>
+		<Synonym>Transposition of great vessels repair</Synonym>
+		<Synonym>Tricuspid atresia repair</Synonym>
+		<Synonym>VSD repair</Synonym>
+		<Synonym>ASD repair</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000950-1" qtype="information">What is (are) Congenital heart defect - corrective surgery ?</Question>
+			<Answer>Congenital heart defect corrective surgery fixes or treats a heart defect that a child is born with. A baby born with one or more heart defects has  congenital heart disease . Surgery is needed if the defect could harm the child's long-term health or well-being.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000950-2" qtype="information">What is (are) Congenital heart defect - corrective surgery ?</Question>
+			<Answer>Congenital heart defect corrective surgery fixes or treats a heart defect that a child is born with. A baby born with one or more heart defects has  congenital heart disease . Surgery is needed if the defect could harm the child's long-term health or well-being.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

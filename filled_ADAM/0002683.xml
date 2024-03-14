@@ -1,0 +1,17 @@
+<Document id="0002683" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003335.htm">
+ 
+<Focus>MRI</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Magnetic resonance imaging</Synonym>
+		<Synonym>Nuclear magnetic resonance (NMR) imaging</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002683-1" qtype="information">Do you have information about MRI</Question>
+			<Answer>A magnetic resonance imaging (MRI) scan is an imaging test that uses powerful magnets and radio waves to create pictures of the body. It does not use ionizing radiation (x-rays). Single MRI images are called slices. The images can be stored on a computer or printed on film. One exam can produce thousands of images. Different types of MRI include: Abdominal MRI ,  Cervical MRI ,  Chest MRI ,  Cranial MRI ,  Heart MRI ,  Lumbar MRI ,  Pelvic MRI ,  MRA (MR Angiography) , MRV (MR Venography), </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

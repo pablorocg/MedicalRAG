@@ -1,0 +1,59 @@
+<Document id="0001134" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001374.htm">
+ 
+<Focus>Dengue fever</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011311</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>O'nyong-nyong fever</Synonym>
+		<Synonym>Dengue-like disease</Synonym>
+		<Synonym>Breakbone fever</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001134-1" qtype="information">What is (are) Dengue fever ?</Question>
+			<Answer>Dengue fever is a virus-caused disease that is spread by mosquitoes. Dengue in its mild form causes fever and a rash and lasts about a week. Severe dengue can cause shock, internal bleeding, and death. About 1 out of 20 people with dengue will develop severe dengue within a few hours after symptoms start. The main risk factor for severe dengue is a prior infection with dengue.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001134-2" qtype="causes">What causes Dengue fever ?</Question>
+			<Answer>Dengue fever is caused by 1 of 4 different but related viruses. It is spread by the bite of mosquitoes, most commonly the mosquito  Aedes aegypti , which is found in tropic and subtropic regions. This area includes parts of: The Indonesian archipelago into northeastern Australia, South and Central America, Southeast Asia, Sub-Saharan Africa, The Caribbean (including Puerto Rico and US Virgin Islands) ,  Dengue fever is rare in the US mainland, but has been found in Hawaii, Florida, and Texas.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001134-3" qtype="symptoms">What are the symptoms of Dengue fever ?</Question>
+			<Answer>Dengue fever begins with a sudden high fever, often as high as 105&#176;F (40.5&#176;C), 4 to 7 days after the infection. A flat, red rash may appear over most of the body 2&#160;to 5 days after the fever starts. A second rash, which looks like the  measles , appears later in the disease. Infected people may have increased skin sensitivity and are very uncomfortable. Other symptoms include: Fatigue, Headache (especially behind the eyes),  Joint aches  (often severe),  Muscle aches  (often severe), Nausea and vomiting, Swollen lymph nodes, Cough, Sore throat, Nasal stuffiness,  Symptoms of severe dengue can occur 24 to 48 hours after fever has gone away. Severe symptoms include: Severe stomach pain and tenderness, Vomiting often (at least 3 times in 24 hours), Bleeding from the nose or gums, Vomiting blood or passing blood in the stools or urine, Bleeding under the skin (looks like bruises), Difficulty breathing, rapid breathing, Feeling tired, restless, or irritable,  If you or anyone you know has symptoms of severe dengue, call 911 or the local emergency number right away.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001134-4" qtype="exams and tests">How to diagnose Dengue fever ?</Question>
+			<Answer>Tests that may be done to diagnose this condition include: Antibody titer  for dengue virus types, Complete blood count ( CBC ), Polymerase chain reaction (PCR) test for dengue virus types,  Liver function tests , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001134-5" qtype="treatment">What are the treatments for Dengue fever ?</Question>
+			<Answer>There is no specific treatment for dengue fever. Fluids are given if there are signs of  dehydration . Acetaminophen (Tylenol) is used to treat a high fever.  Avoid taking aspirin, ibuprofen (Advil, Motrin), and naproxen (Aleve). They may increase bleeding problems. Severe dengue is a medical emergency. It must be treated immediately at a hospital. Treatment for severe dengue is supportive and may include: Fluids given through a vein (IV), Oxygen, Blood pressure management, Blood transfusions, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001134-6" qtype="outlook">What is the outlook for Dengue fever ?</Question>
+			<Answer>Mild cases of dengue generally last a week or more. Although uncomfortable, mild dengue fever is not deadly. People with the condition should fully recover. In some Latin American and Asian countries, severe dengue is a leading cause of death and severe illness. Early detection and treatment of severe dengue can greatly reduce the risk of death.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001134-7" qtype="complications">What are the complications of Dengue fever ?</Question>
+			<Answer>Untreated, dengue fever may cause the following health problems: Febrile  convulsions , Severe dehydration, Death, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001134-8" qtype="when to contact a medical professional">Do I need to see a doctor for Dengue fever ?</Question>
+			<Answer>Contact your health care provider if you have traveled in an area where dengue fever is known to occur and you have symptoms of the disease.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001134-9" qtype="prevention">How to prevent Dengue fever ?</Question>
+			<Answer>Clothing, mosquito repellent, and netting can help reduce the risk for mosquito bites that can spread dengue fever and other infections. Limit outdoor activity during mosquito season, especially when they are most active, at dawn and dusk.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,61 @@
+<Document id="0001246" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000014.htm">
+ 
+<Focus>Dislocation</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0012691</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Joint dislocation</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001246-1" qtype="information">What is (are) Dislocation ?</Question>
+			<Answer>A dislocation is a separation of two ends of the bones where they meet at a joint. A joint is the place where two bones connect, which allows movement. A dislocated joint is a joint where the bones are no longer in their normal positions.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001246-2" qtype="considerations">What to do for Dislocation ?</Question>
+			<Answer>It may be hard to tell a dislocated joint from a  broken bone . Both are emergencies that need first aid treatment. Most dislocations can be treated in a doctor's office or emergency room. You may be given  medicine to make you sleepy  and to numb the area. Sometimes,  general anesthesia  that puts you into a deep sleep is needed. When treated early, most dislocations do not cause permanent injury. You should expect that: Injuries to the surrounding tissues generally take 6 to 12 weeks to heal. Sometimes, surgery to repair a ligament that tears when the joint is dislocated is needed., Injuries to nerves and blood vessels may result in more long-term or permanent problems. ,  Once a joint has been dislocated, it is more likely to happen again. After being treated in the emergency room, you should follow-up with an orthopedic surgeon (a bone and joint doctor).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001246-3" qtype="causes">What causes Dislocation ?</Question>
+			<Answer>Dislocations are usually caused by a sudden impact to the joint. This usually occurs following a blow, fall, or other trauma.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001246-4" qtype="symptoms">What are the symptoms of Dislocation ?</Question>
+			<Answer>A dislocated joint may be: Accompanied by numbness or tingling at the joint or beyond it, Very painful, especially if you try to use the joint or put weight on it, Limited in movement, Swollen or bruised, Visibly out of place, discolored, or misshapen,  Nursemaid's elbow, or pulled elbow, is a partial dislocation that is common in toddlers. The main symptom is pain so that the child doesn't want to use the arm. This dislocation can be easily treated in a doctor's office.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001246-5" qtype="considerations">What to do for Dislocation ?</Question>
+			<Answer>It may be hard to tell a dislocated joint from a  broken bone . Both are emergencies that need first aid treatment. Most dislocations can be treated in a doctor's office or emergency room. You may be given  medicine to make you sleepy  and to numb the area. Sometimes,  general anesthesia  that puts you into a deep sleep is needed. When treated early, most dislocations do not cause permanent injury. You should expect that: Injuries to the surrounding tissues generally take 6 to 12 weeks to heal. Sometimes, surgery to repair a ligament that tears when the joint is dislocated is needed., Injuries to nerves and blood vessels may result in more long-term or permanent problems. ,  Once a joint has been dislocated, it is more likely to happen again. After being treated in the emergency room, you should follow-up with an orthopedic surgeon (a bone and joint doctor).</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001246-6" qtype="considerations">What to do for Dislocation ?</Question>
+			<Answer>It may be hard to tell a dislocated joint from a  broken bone . Both are emergencies that need first aid treatment. Most dislocations can be treated in a doctor's office or emergency room. You may be given  medicine to make you sleepy  and to numb the area. Sometimes,  general anesthesia  that puts you into a deep sleep is needed. When treated early, most dislocations do not cause permanent injury. You should expect that: Injuries to the surrounding tissues generally take 6 to 12 weeks to heal. Sometimes, surgery to repair a ligament that tears when the joint is dislocated is needed., Injuries to nerves and blood vessels may result in more long-term or permanent problems. ,  Once a joint has been dislocated, it is more likely to happen again. After being treated in the emergency room, you should follow-up with an orthopedic surgeon (a bone and joint doctor).</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001246-7" qtype="when to contact a medical professional">Do I need to see a doctor for Dislocation ?</Question>
+			<Answer>Call 911 or the local emergency number right away if the person has any of the following: A bone projecting through the skin, 
+  A known or suspected dislocation or broken bone
+  , 
+  An area below the injured joint that is pale, cold, clammy, or blue
+  , 
+  Severe bleeding
+  , 
+  Signs of infection, such as warmth or redness at the injured site, pus, or a fever
+  , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001246-8" qtype="prevention">How to prevent Dislocation ?</Question>
+			<Answer>To help prevent injuries in children: Create a safe environment around your home., Help prevent falls by placing gates at stairways and keeping windows closed and locked., Keep a watchful eye on children at all times. There is no substitute for close supervision, no matter how safe the environment or situation appears to be., Teach children how to be safe and look out for themselves.,  To help prevent dislocations in adults: To avoid falls, do not stand on chairs, countertops, or other unstable objects., Eliminate throw rugs, especially&#160;around older adults., Wear protective gear when participating in contact sports.,  For all age groups: Keep a  first aid kit  handy., Remove electrical cords from floors., Use handrails on staircases., Use nonskid mats on the bottom of bathtubs and&#160;do not&#160;use&#160;bath oils., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

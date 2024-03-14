@@ -1,0 +1,53 @@
+<Document id="0000996" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007115.htm">
+ 
+<Focus>Coronary heart disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010054</CUI>
+			<CUI>C0010068</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Heart disease, Coronary heart disease, Coronary artery disease</Synonym>
+		<Synonym>Arteriosclerotic heart disease</Synonym>
+		<Synonym>CHD</Synonym>
+		<Synonym>CAD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000996-1" qtype="information">What is (are) Coronary heart disease ?</Question>
+			<Answer>Coronary heart disease is a narrowing of the small blood vessels that supply blood and oxygen to the heart. Coronary heart disease (CHD) is also called coronary artery disease.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000996-2" qtype="causes">What causes Coronary heart disease ?</Question>
+			<Answer>CHD is the leading cause of death in the United States for men and women. CHD is caused by the buildup of plaque in the arteries to your heart. This may also be called  hardening of the arteries  or atherosclerosis. Fatty material and other substances form a plaque buildup on the walls of your coronary arteries. The coronary arteries bring blood and oxygen to your heart., This buildup causes the arteries to get narrow., As a result, blood flow to the heart can slow down or stop. ,  A  risk factor for heart disease  is something that increases your chance of getting it. You cannot change some risk factors for heart disease, but you can change others.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000996-3" qtype="symptoms">What are the symptoms of Coronary heart disease ?</Question>
+			<Answer>In some cases, symptoms may be very noticeable. But, you can have the disease and not have any symptoms. This is more often true in the early stages of CHD.  Chest pain  or discomfort ( angina ) is the most common symptom. You feel this pain when the heart is not getting enough blood or oxygen. The pain may feel different from person to person. It may feel heavy or like someone is squeezing your heart. You may feel it under your breast bone (sternum). You may also feel it in your neck, arms, stomach, or upper back., The pain most often occurs with activity or emotion. It goes away with rest or a medicine called nitroglycerin., Other symptoms include shortness of breath and fatigue with activity (exertion). ,  Some people have symptoms other than chest pain, such as: Fatigue, Shortness of breath, General weakness , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000996-4" qtype="exams and tests">How to diagnose Coronary heart disease ?</Question>
+			<Answer>Your health care provider will examine you. You will often need more than one test before getting a diagnosis.  Tests to evaluate for CHD may include: Coronary angiography  -- an invasive test that evaluates the heart arteries under x-ray.,  Echocardiogram  stress test.,  Electrocardiogram (ECG) ., Electron-beam computed tomography (EBCT) to look for calcium in the lining of the arteries. The more calcium, the higher your chance for CHD.,  Exercise stress test .,  Heart CT scan .,  Nuclear stress test . , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000996-5" qtype="treatment">What are the treatments for Coronary heart disease ?</Question>
+			<Answer>You may be asked to take one or more medicines to treat blood pressure,  diabetes , or  high cholesterol levels . Follow your provider's directions closely to help prevent CHD from getting worse. Goals for treating these conditions in people who have CHD: The most commonly used blood pressure target for people with heart disease is less than 130/80, but your provider may recommend a different blood pressure target., If you have diabetes, your  HbA1c  levels will be monitored and brought down to the level your provider recommends., Your LDL cholesterol level will be lowered with statin or other medicines. ,  Treatment depends on your symptoms and how severe the disease is. You should know about: Other medicines used to treat angina .,  What to do when you have chest pain .,  Being active when you have heart disease. ,  Eating a heart-healthy diet . ,  Never stop taking your medicines without first talking to your provider. Stopping heart medicines suddenly can make your angina worse or cause a heart attack. You may be referred to a cardiac rehabilitation program to help improve your heart's fitness. Procedures and surgeries used to treat CHD include: Angioplasty and stent placement , called percutaneous coronary interventions (PCIs),  Coronary artery bypass surgery ,  Minimally invasive heart surgery , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000996-6" qtype="outlook">What is the outlook for Coronary heart disease ?</Question>
+			<Answer>Everyone recovers differently. Some people can stay healthy by changing their diet, stopping smoking, and taking their medicines as prescribed. Others may need medical procedures such as angioplasty or surgery. In general, early detection of CHD generally leads to a better outcome.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000996-7" qtype="when to contact a medical professional">Do I need to see a doctor for Coronary heart disease ?</Question>
+			<Answer>If you have any risk factors for CHD, talk to your provider about prevention and possible treatment steps.  Call your provider, call the local emergency number (such as 911), or go to the emergency room right away if you have: Angina or chest pain, Shortness of breath,  Symptoms of a heart attack , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

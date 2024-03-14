@@ -1,0 +1,39 @@
+<Document id="0002067" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002654.htm">
+ 
+<Focus>Hydroxyzine overdose</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0573305</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Atarax overdose</Synonym>
+		<Synonym>Vistaril overdose</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002067-1" qtype="information">What is (are) Hydroxyzine overdose ?</Question>
+			<Answer>Hydroxyzine is an antihistamine available only with a prescription. It is used to treat symptoms of  allergies  and motion sickness. Hydroxyzine overdose occurs when someone takes more than the normal or recommended amount of this medicine. This can be by accident or on purpose. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with has an  overdose , call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002067-4" qtype="symptoms">What are the symptoms of Hydroxyzine overdose ?</Question>
+			<Answer>Dilated pupils are the classic symptom of a hydroxyzine overdose. Below are other symptoms of a hydroxyzine overdose in different parts of the body. AIRWAYS AND LUNGS Shortness of breath ,  BLADDER AND KIDNEYS Difficulty urinating,  EYES, EARS, NOSE, THROAT, AND MOUTH Blurred vision ,  Dry mouth , Enlarged pupils, Dry eyes ,  Ringing in the ears &#160; ,  HEART AND BLOOD Rapid heartbeat ,  Low blood pressure , Pounding heartbeat (palpitations),  NERVOUS SYSTEM Agitation , Coma (decreased level of consciousness and lack of responsiveness),  Seizures ,  Delirium ,  Depression , Disorientation,  Dizziness ,  Drowsiness ,  Excitation ,  Hallucinations &#160;(seeing or hearing things that aren't there), Nervousness, Sleeping difficulties,  Tremor , Uncoordinated movement,  Unsteadiness ,  SKIN Dry, red, or
+   flushed skin ,  STOMACH AND INTESTINES Nausea , Vomiting, </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002067-7" qtype="outlook">What is the outlook for Hydroxyzine overdose ?</Question>
+			<Answer>Recovery is likely if the person survives the first 24 hours. Complications such as pneumonia, muscle damage from lying on a hard surface for a prolonged period of time, or brain damage from lack of oxygen may cause permanent disability. Few people actually die from an antihistamine overdose, unless they have serious heart rhythm disturbances or breathing problems. Keep all medicines in child-proof bottles and out of reach of children.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002067-8" qtype="outlook">What is the outlook for Hydroxyzine overdose ?</Question>
+			<Answer>Recovery is likely if the person survives the first 24 hours. Complications such as pneumonia, muscle damage from lying on a hard surface for a prolonged period of time, or brain damage from lack of oxygen may cause permanent disability. Few people actually die from an antihistamine overdose, unless they have serious heart rhythm disturbances or breathing problems. Keep all medicines in child-proof bottles and out of reach of children.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

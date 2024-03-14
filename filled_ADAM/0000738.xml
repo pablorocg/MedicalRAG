@@ -1,0 +1,58 @@
+<Document id="0000738" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001435.htm">
+ 
+<Focus>Cerebral hypoxia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1527348</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hypoxic encephalopathy</Synonym>
+		<Synonym>Anoxic encephalopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000738-1" qtype="information">What is (are) Cerebral hypoxia ?</Question>
+			<Answer>Cerebral hypoxia occurs when there is not enough oxygen getting to the brain. The brain needs a constant supply of oxygen and nutrients to function. Cerebral hypoxia affects the largest parts of the brain, called the cerebral hemispheres. However, the term is often used to refer to a lack of oxygen supply to any part of or all of the brain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000738-2" qtype="causes">What causes Cerebral hypoxia ?</Question>
+			<Answer>In cerebral hypoxia, sometimes only the oxygen supply is interrupted. This can be caused by: Breathing in smoke (smoke inhalation), such as during a fire,  Carbon monoxide poisoning , Choking, Diseases that prevent movement (paralysis) of the breathing muscles, such as  amyotrophic lateral sclerosis  (ALS), High altitudes, Pressure on (compression) the windpipe (trachea), Strangulation ,  In other cases, both oxygen and nutrient supply are stopped, caused by: Cardiac arrest (when the heart stops pumping), Cardiac  arrhythmia  (heart rhythm problems), Complications of  general anesthesia , Drowning, Drug overdose, Injuries to a newborn that occurred before, during, or soon after birth, such as  cerebral palsy , Prolonged seizure (status epilepticus),  Stroke , Very  low blood pressure ,  Brain cells are very sensitive to a lack of oxygen. Some brain cells start dying less than 5 minutes after their oxygen supply disappears. As a result, brain hypoxia can rapidly cause severe brain damage or death.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000738-3" qtype="symptoms">What are the symptoms of Cerebral hypoxia ?</Question>
+			<Answer>Symptoms of mild cerebral hypoxia include: Change in attention (inattentiveness), Poor judgment, Speech disorder, Uncoordinated movement ,  Symptoms of severe cerebral hypoxia include: Complete unawareness and unresponsiveness (coma), No breathing, No response of the pupils of the eye to light , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000738-4" qtype="exams and tests">How to diagnose Cerebral hypoxia ?</Question>
+			<Answer>Cerebral hypoxia can usually be diagnosed based on the person's medical history and a physical exam. Tests are done to determine the cause of the hypoxia, and may include: Angiogram of the brain, Blood tests, including  arterial blood gases  and blood chemical levels,  CT scan of the head ,  Echocardiogram ,&#160;which uses ultrasound to view the heart,  Electrocardiogram  (ECG), a measurement of the heart's electrical activity,  Electroencephalogram  (EEG), a test of brain waves that can identify seizures and show how well brain cells work,  Evoked potentials , a test that determines whether certain sensations, such as vision and touch, reach the brain,  Magnetic resonance imaging  (MRI) of the head ,  If only blood pressure and heart function remain, the brain may be completely dead.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000738-5" qtype="treatment">What are the treatments for Cerebral hypoxia ?</Question>
+			<Answer>Cerebral hypoxia is an emergency condition that needs to be treated right away. The sooner the oxygen supply is restored to the brain, the lower the risk for severe brain damage and death. Treatment depends on the cause of the hypoxia. Basic life support is most important. Treatment involves: Breathing assistance (mechanical ventilation) and oxygen, Controlling the heart rate and rhythm, Fluids, blood products, or medicines to raise blood pressure if it is low, Medicines or general anesthetics to calm seizures ,  Sometimes a person with cerebral hypoxia is cooled to slow down the activity of the brain cells and decrease their need for oxygen. However, the benefit of this treatment has not been firmly established.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000738-6" qtype="outlook">What is the outlook for Cerebral hypoxia ?</Question>
+			<Answer>The outlook depends on the extent of the brain injury. This is determined by how long the brain lacked oxygen, and whether nutrition to the brain was also affected. If the brain lacked oxygen for only a brief period, a coma may be reversible and the person may have a full or partial return of function. Some people recover many functions, but have abnormal movements, such as twitching or jerking, called myoclonus. Seizures may sometimes occur, and may be continuous (status epilepticus). Most people who make a full recovery were only briefly unconscious. The longer a person is unconscious, the higher the risk for death or brain death, and the lower the chances of recovery.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000738-7" qtype="complications">What are the complications of Cerebral hypoxia ?</Question>
+			<Answer>Complications of cerebral hypoxia include a prolonged vegetative state. This means the person may have basic life functions, such as breathing, blood pressure, sleep-wake cycle, and eye opening, but the person is not alert and does not respond to their surroundings. Such people usually die within a year, although some may survive longer. Length of survival depends partly on how much care is taken to prevent other problems. Major complications may include: Bed sores, Clots in the veins ( deep vein thrombosis ), Lung infections (pneumonia),  Malnutrition , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000738-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cerebral hypoxia ?</Question>
+			<Answer>Cerebral hypoxia is a medical emergency. Call 911 or the local emergency number immediately if someone is losing consciousness or has other symptoms of cerebral hypoxia.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000738-9" qtype="prevention">How to prevent Cerebral hypoxia ?</Question>
+			<Answer>Prevention depends on the specific cause of hypoxia. Unfortunately, hypoxia is usually unexpected. This makes the condition somewhat difficult to prevent. Cardiopulmonary resuscitation (CPR) can be lifesaving, especially when it is started right away.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

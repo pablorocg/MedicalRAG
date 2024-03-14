@@ -1,0 +1,51 @@
+<Document id="0001547" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000334.htm">
+ 
+<Focus>Fanconi anemia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3469521</CUI>
+			<CUI>C0015625</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Fanconi's anemia</Synonym>
+		<Synonym>Anemia - Fanconi's</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001547-1" qtype="information">What is (are) Fanconi anemia ?</Question>
+			<Answer>Fanconi anemia is a rare disease passed down through families (inherited) that mainly affects the bone marrow. It results in decreased production of all types of blood cells. This is the most common inherited form of  aplastic anemia . Fanconi anemia is different from  Fanconi syndrome , a rare kidney disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001547-2" qtype="causes">What causes Fanconi anemia ?</Question>
+			<Answer>Fanconi anemia is due to an abnormal gene that damages cells, which keeps them from repairing damaged DNA. To inherit Fanconi anemia, a person must get one copy of the abnormal gene from each parent. The condition is most often diagnosed in children between 3 and 14 years old.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001547-3" qtype="symptoms">What are the symptoms of Fanconi anemia ?</Question>
+			<Answer>People with Fanconi anemia have lower-than-normal numbers of white blood cells, red blood cells, and platelets (cells that help the blood clot). Not enough white blood cells can lead to infections. A lack of red blood cells may result in fatigue ( anemia ). A lower-than-normal amount of platelets may lead to excess bleeding. Most people with Fanconi anemia have some of these symptoms: Abnormal heart, lungs, and digestive tract, Bone problems (especially the hips, spine or ribs) can cause a curved spine ( scoliosis ), Changes in the color of the skin, such as darkened areas of the skin, called caf&#233; au lait spots, and  vitiligo , Deafness due to abnormal ears, Eye or eyelid problems, Kidneys that did not form correctly, Problems with the arms and hands, such as missing, extra or misshapen thumbs, problems of the hands and the bone in the lower arm, and small or missing bone in the forearm, Short height, Small head, Small testicles and genital changes ,  Other possible symptoms: Failure to thrive, Learning disability, Low birth weight, Intellectual disability , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001547-4" qtype="exams and tests">How to diagnose Fanconi anemia ?</Question>
+			<Answer>Common tests for Fanconi anemia include: Bone marrow  biopsy , Complete blood count ( CBC ), Developmental tests, Medicines added to a blood sample to check for damage to  chromosomes ,  Hand x-ray  and other imaging studies ( CT scan ,  MRI ), Hearing test,  HLA tissue typing  (to find matching bone-marrow donors),  Ultrasound  of the kidneys ,  Pregnant women may have  amniocentesis  or  chorionic villous sampling  to diagnose the condition in their unborn child.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001547-5" qtype="treatment">What are the treatments for Fanconi anemia ?</Question>
+			<Answer>People with mild to moderate blood cell changes who do not need a transfusion may only need regular check-ups and blood count checks. The health care provider will closely monitor the person for other cancers. These may include leukemia or cancers of the head, neck, or urinary system. Medicines called growth factors (such as erythropoietin, G-CSF, and GM-CSF) can improve blood counts for a short while. A bone marrow transplant can cure the blood count problems of Fanconi anemia. (The best bone marrow donor is a brother or sister whose tissue type matches the person affected by Fanconi anemia.) People who have had a successful bone marrow transplant still need regular check-ups because of the risk for additional cancers. Hormone therapy combined with low doses of steroids (such as hydrocortisone or prednisone) is prescribed to those who do not have a bone marrow donor. Most people respond to hormone therapy. But everyone with the disorder will quickly get worse when the medicines are stopped. In most cases, these medicines eventually stop working. Additional treatments may include: Antibiotics (possibly given through a vein) to treat infections, Blood transfusions to treat symptoms due to low blood counts , Human papilloma virus vaccine,  Most people with this condition visit a doctor on regular basis, specializing in treating: Blood disorders (hematologist), Diseases related to glands (endocrinologist), Eye diseases (ophthalmologist), Bone diseases (orthopedist), Kidney disease (nephrologist), Diseases related to female reproductive organs and breasts (gynecologist), </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001547-6" qtype="outlook">What is the outlook for Fanconi anemia ?</Question>
+			<Answer>The survival rates vary from person to person. The outlook is poor in those with low blood counts. New and improved treatments, such as bone marrow transplants, have likely improved survival. People with Fanconi anemia are more likely to develop several types of blood disorders and cancers. These may include leukemia, myelodysplastic syndrome, and cancer of the head, neck, or urinary system. Women with Fanconi anemia who become pregnant should be watched carefully by a specialist. Such women often need transfusions throughout pregnancy. Men with Fanconi anemia have decreased fertility.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001547-7" qtype="prevention">How to prevent Fanconi anemia ?</Question>
+			<Answer>Families with a history of this condition can have genetic counseling to better understand their risk. Vaccination can reduce certain complications, including pneumococcal pneumonia, hepatitis, and varicella infections. People with Fanconi anemia should avoid cancer-causing substances (carcinogens) and have regular check-ups to screen for cancer.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

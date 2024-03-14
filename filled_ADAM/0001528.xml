@@ -1,0 +1,62 @@
+<Document id="0001528" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000548.htm">
+ 
+<Focus>Factor VII deficiency</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0015503</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Extrinsic factor deficiency</Synonym>
+		<Synonym>Serum prothrombin conversion accelerator deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001528-1" qtype="information">What is (are) Factor VII deficiency ?</Question>
+			<Answer>Factor VII (seven) deficiency is a disorder caused by a lack of a protein called factor VII in the blood. It leads to problems with blood clotting (coagulation).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001528-2" qtype="causes">What causes Factor VII deficiency ?</Question>
+			<Answer>When you bleed, a series of reactions take place in the body that helps blood clots form. This process is called the coagulation cascade. It involves special proteins called coagulation, or clotting factors. You may have a higher chance of excess bleeding if one or more of these factors are missing or are not functioning as they should. Factor VII is one such coagulation factor. Factor VII deficiency runs in families (inherited) and is very rare. Both parents must have the gene to pass the disorder on to their children. A family history of a bleeding disorder can be a risk factor. Factor VII deficiency can also be due to another condition or use of certain medicines. This is called acquired factor VII deficiency. It can be caused by: Low vitamin K (some babies are born with vitamin K deficiency), Severe liver disease, Use of medicines that prevent clotting (anticoagulants such as warfarin) , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001528-3" qtype="symptoms">What are the symptoms of Factor VII deficiency ?</Question>
+			<Answer>Symptoms may include any of the following: Bleeding from mucus membranes, Bleeding into joints, Bleeding into muscles,  Bruising  easily, Heavy menstrual bleeding, Nosebleeds that do not stop easily, Umbilical cord bleeding after birth , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001528-4" qtype="exams and tests">How to diagnose Factor VII deficiency ?</Question>
+			<Answer>Tests that may be done include: Partial thromboplastin time ( PTT ), Plasma  factor VII activity , Prothrombin time ( PT ), Mixing study, a special PTT test to confirm factor VII deficiency, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001528-5" qtype="treatment">What are the treatments for Factor VII deficiency ?</Question>
+			<Answer>Bleeding can be controlled by getting intravenous (IV) infusions of normal plasma, concentrates of factor VII, or genetically produced (recombinant) factor VII.  You will need frequent treatment during bleeding episodes because factor VII does not last for long inside the body. A form of factor VII called NovoSeven can also be used.  If you have factor VII deficiency due to a lack of vitamin K, you can take this vitamin by mouth, through injections under the skin, or through a vein (intravenously). If you have this bleeding disorder, be sure to: Tell your health care providers before you have any kind of procedure, including surgery and dental work., Tell your family members because they may have the same disorder but do not know it yet. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001528-6" qtype="support groups">Where to find support for people with Factor VII deficiency ?</Question>
+			<Answer>More information and support for people with Factor VII deficiency and their families can be found at: National Hemophilia Foundation --  www.hemophilia.org/community-resources , National Organization for Rare Disorders --  rarediseases.org/rare-diseases/factor-vii-deficiency , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001528-7" qtype="outlook">What is the outlook for Factor VII deficiency ?</Question>
+			<Answer>You can expect a good outcome with proper treatment.  Inherited factor VII deficiency is a lifelong condition. The outlook for acquired factor VII deficiency depends on the cause. If it is caused by liver disease, the outcome depends on how well your liver disease can be treated. Taking vitamin K supplements will treat vitamin K deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001528-8" qtype="complications">What are the complications of Factor VII deficiency ?</Question>
+			<Answer>Complications may include: Excessive bleeding (hemorrhage),  Stroke  or other nervous system problems from central nervous system bleeding, Joint problems in severe cases when bleeding happens often , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001528-9" qtype="when to contact a medical professional">Do I need to see a doctor for Factor VII deficiency ?</Question>
+			<Answer>Get emergency treatment right away if you have severe, unexplained bleeding.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0001528-10" qtype="prevention">How to prevent Factor VII deficiency ?</Question>
+			<Answer>There is no known prevention for inherited factor VII deficiency. When a lack of vitamin K is the cause, using vitamin K can help.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

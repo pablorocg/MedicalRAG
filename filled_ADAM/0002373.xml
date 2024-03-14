@@ -1,0 +1,62 @@
+<Document id="0002373" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001386.htm">
+ 
+<Focus>Leishmaniasis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023281</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Kala-azar</Synonym>
+		<Synonym>Cutaneous leishmaniasis</Synonym>
+		<Synonym>Visceral leishmaniasis</Synonym>
+		<Synonym>Old world leishmaniasis</Synonym>
+		<Synonym>New world leishmaniasis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002373-1" qtype="information">What is (are) Leishmaniasis ?</Question>
+			<Answer>Leishmaniasis is an infectious disease spread by the bite of the female sandfly.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002373-2" qtype="causes">What causes Leishmaniasis ?</Question>
+			<Answer>Leishmaniasis is caused by a tiny parasite called leishmania protozoa. Protozoa are one-celled organisms. The different forms of leishmaniasis are: Cutaneous leishmaniasis affects the skin and mucous membranes. Skin sores usually start at the site of the sandfly bite. In a few people, sores may develop on mucous membranes., Systemic, or visceral, leishmaniasis affects the entire body. This form occurs 2 to 8 months after a person is bitten by the sandfly. Most people do not remember having a skin sore. This form can lead to deadly complications. The parasites damage the immune system by decreasing the numbers of disease-fighting cells. ,  Cases of leishmaniasis have been reported on all continents except Australia and Antarctica. In the Americas, the disease can be found in Mexico and South America. It has also been reported in military personnel who have returned from the Persian Gulf.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002373-3" qtype="symptoms">What are the symptoms of Leishmaniasis ?</Question>
+			<Answer>Symptoms of cutaneous leishmaniasis depend on where the lesions are located and may include: Breathing difficulty ,  Skin sores, which may become a skin ulcer that heals very slowly ,  Stuffy nose, runny nose, and nosebleeds ,  Swallowing difficulty ,  Ulcers and wearing away (erosion) in the mouth, tongue, gums, lips, nose, and inner nose ,  Systemic visceral infection in children usually begins suddenly with: Cough ,  Diarrhea ,  Fever ,  Vomiting ,  Adults usually have a fever for 2 weeks to 2 months, along with symptoms such as  fatigue ,  weakness , and appetite loss. Weakness increases as the disease gets worse. Other symptoms of systemic visceral leishmaniasis may include: Abdominal discomfort, Fever that lasts for weeks; may come and go in cycles, Night sweats, Scaly, gray, dark, ashen skin, Thinning hair, Weight loss , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002373-4" qtype="exams and tests">How to diagnose Leishmaniasis ?</Question>
+			<Answer>Your health care provider will examine you and may find that your spleen, liver, and lymph nodes are enlarged. You will be asked if you recall being bitten by sandflies or if you've been in an area where leishmaniasis is common. Tests that may be done to diagnose the condition include: Biopsy  of the spleen and culture,  Bone marrow biopsy  and culture, Direct agglutination assay, Indirect immunofluorescent antibody test, 
+  Leishmania-specific PCR test,  Liver biopsy  and culture,  Lymph node biopsy  and culture, Montenegro skin test (not approved in the United States),  Skin biopsy  and culture ,  Other tests that may be done include: Complete blood count  with  differential , Serologic testing,  Serum albumin ,  Serum immunoglobulin levels , Serum  protein , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002373-5" qtype="treatment">What are the treatments for Leishmaniasis ?</Question>
+			<Answer>Antimony-containing compounds are the main medicines used to treat leishmaniasis. These include: Meglumine antimoniate, Sodium stibogluconate ,  Other medicines that may be used include: Amphotericin B, Ketoconazole, Miltefosine, Paromomycin, Pentamidine ,  Plastic surgery may be needed to correct the disfigurement caused by sores on the face (cutaneous leishmaniasis).</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002373-6" qtype="outlook">What is the outlook for Leishmaniasis ?</Question>
+			<Answer>Cure rates are high with the proper medicine, mostly when treatment is started before it affects the immune system. Cutaneous leishmaniasis may lead to disfigurement. Death is usually caused by complications (such as other infections), rather than from the disease itself. Death often occurs within 2 years.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002373-7" qtype="complications">What are the complications of Leishmaniasis ?</Question>
+			<Answer>Leishmaniasis may lead to the following: Bleeding (hemorrhage), Deadly infections due to immune system damage, Disfigurement of the face, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002373-8" qtype="when to contact a medical professional">Do I need to see a doctor for Leishmaniasis ?</Question>
+			<Answer>Contact your provider if you have symptoms of leishmaniasis after visiting an area where the disease is known to occur. </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002373-9" qtype="prevention">How to prevent Leishmaniasis ?</Question>
+			<Answer>Taking measures to avoid sandfly bites can help prevent leishmaniasis: Putting fine mesh netting around the bed (in areas where the disease occurs), Screening windows, Wearing insect repellent, Wearing protective clothing ,  Public health measures to reduce sandflies are important. There are no vaccines or medicines that prevent leishmaniasis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

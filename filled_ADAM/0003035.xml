@@ -1,0 +1,57 @@
+<Document id="0003035" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001274.htm">
+ 
+<Focus>Perirenal abscess</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0238212</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Perinephric abscess</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003035-1" qtype="information">What is (are) Perirenal abscess ?</Question>
+			<Answer>Perirenal  abscess  is a pocket of pus around one or both kidneys. It is caused by an infection.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003035-2" qtype="causes">What causes Perirenal abscess ?</Question>
+			<Answer>Most perirenal abscesses are caused by a  urinary tract infection  that starts in the bladder. It then spreads to the kidney, and to the area around the kidney. Surgery in the urinary tract or reproductive system or a bloodstream infection can also lead to a perirenal abscess. The biggest risk factor for perirenal abscess is  kidney stones , by blockage of urine flow. This provides a place for an infection to grow. Bacteria tend to stick to the stones and antibiotics cannot kill the bacteria there. Stones are found in 20% to 60% of people with perirenal abscess. Other risk factors for perirenal abscess include: Diabetes , Having an abnormal urinary tract, Trauma to the kidney, IV (intravenous) drug use , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003035-3" qtype="symptoms">What are the symptoms of Perirenal abscess ?</Question>
+			<Answer>Symptoms of perirenal abscess include: Chills ,  Fever , Pain in the flank (side of the abdomen) or  abdomen , which may extend to the groin or down the leg, Sweating , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003035-4" qtype="exams and tests">How to diagnose Perirenal abscess ?</Question>
+			<Answer>The health care provider will examine you. You may have tenderness in the back or abdomen. Tests include: Blood culture,  CT scan  of the abdomen,  Ultrasound of the abdomen ,  Urinalysis , Urine culture , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003035-5" qtype="treatment">What are the treatments for Perirenal abscess ?</Question>
+			<Answer>To treat perirenal abscess, the pus can be drained through a catheter that is placed through the skin or with surgery. Antibiotics should also be given, at first through a vein (IV), then can switch to pills when the infection starts improving.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003035-6" qtype="outlook">What is the outlook for Perirenal abscess ?</Question>
+			<Answer>In general, quick diagnosis and treatment of a perirenal abscess should lead to a good outcome. Kidney stones must be treated to avoid further infections. In rare cases, the infection can spread beyond the kidney area and into the bloodstream. This can be deadly.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003035-7" qtype="complications">What are the complications of Perirenal abscess ?</Question>
+			<Answer>If you have kidney stones, the infection may not go away. You may need to have the infection surgically removed. You may have to have the kidney removed if infection cannot be cleared or is recurrent. This is rare.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003035-8" qtype="when to contact a medical professional">Do I need to see a doctor for Perirenal abscess ?</Question>
+			<Answer>Contact your provider if you have a history of kidney stones and develop:  Abdominal pain,  Burning with urination , Chills, Fever, Urinary tract infection , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003035-9" qtype="prevention">How to prevent Perirenal abscess ?</Question>
+			<Answer>If you have kidney stones, ask your provider about the best way to treat them to avoid a perirenal abscess. If you undergo urologic surgery, keep the surgical area as clean as possible.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

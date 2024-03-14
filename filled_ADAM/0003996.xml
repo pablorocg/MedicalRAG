@@ -1,0 +1,49 @@
+<Document id="0003996" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007310.htm">
+ 
+<Focus>Tracheomalacia - acquired</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0948187</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Secondary tracheomalacia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003996-1" qtype="information">What is (are) Tracheomalacia - acquired ?</Question>
+			<Answer>Acquired tracheomalacia is a weakness and floppiness of the walls of the windpipe (trachea, or airway). It develops after birth. Congenital tracheomalacia  is a related topic.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003996-2" qtype="causes">What causes Tracheomalacia - acquired ?</Question>
+			<Answer>Acquired tracheomalacia is very uncommon at any age. It occurs when normal cartilage in the wall of the windpipe begins to break down. This form of tracheomalacia may result: When large blood vessels put pressure on the airway , As a complication after surgery to repair birth defects in the windpipe and esophagus (the tube that carries food from the mouth to the stomach), After having a breathing tube or trachea tube (tracheostomy) for a long time, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003996-3" qtype="symptoms">What are the symptoms of Tracheomalacia - acquired ?</Question>
+			<Answer>Symptoms of tracheomalacia include: Breathing problems that get worse with coughing, crying, or upper respiratory infections, such as a cold, Breathing noises that may change when body position changes, and improve during sleep, High-pitched breathing, Rattling, noisy breaths, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003996-4" qtype="exams and tests">How to diagnose Tracheomalacia - acquired ?</Question>
+			<Answer>A physical exam confirms the symptoms. A chest x-ray may show narrowing of the trachea when breathing out. Even if the x-ray is normal, it is needed to rule out other problems. A procedure called a laryngoscopy is used to diagnose the condition. This procedure allows the otolaryngologist (ear, nose, and throat doctor, or ENT) to see the structure of the airway and determine how severe the problem is. Other tests may include: Airway fluoroscopy, Barium swallow,  Bronchoscopy , CT scan, Lung function tests, Magnetic resonance imaging (MRI) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003996-5" qtype="treatment">What are the treatments for Tracheomalacia - acquired ?</Question>
+			<Answer>The condition may improve without treatment. However, people with tracheomalacia must be monitored closely when they have respiratory infections. Adults with breathing problems may need  continuous positive airway pressure  (CPAP). Rarely, surgery is needed. A hollow tube called a  stent  may be placed to hold the airway open.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003996-6" qtype="complications">What are the complications of Tracheomalacia - acquired ?</Question>
+			<Answer>Aspiration pneumonia  (a lung infection) can occur from breathing in food or saliva. Adults who develop tracheomalacia after being on a breathing machine often have serious lung problems.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003996-7" qtype="when to contact a medical professional">Do I need to see a doctor for Tracheomalacia - acquired ?</Question>
+			<Answer>Contact your health care provider if you or your child breathes in an abnormal way. Tracheomalacia can become an urgent or emergency condition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

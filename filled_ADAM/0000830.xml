@@ -1,0 +1,13 @@
+<Document id="0000830" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002325.htm">
+ 
+<Focus>Chromatography</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000830-1" qtype="information">Do you have information about Chromatography</Question>
+			<Answer>Chromatography is a way of separating two or more chemical compounds. Chemical compounds are chemicals that are molecules made up of atoms bonded together. For example, water molecules have a chemical bond of oxygen and hydrogen. Proteins are another type of chemical compound. There are different kinds of chromatography. These include gas, high pressure liquid, or ion exchange chromatography. In general, chromatography uses the differences in chemicals to separate them. These differences might include their size, electric charge, or how well they stick to other material.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

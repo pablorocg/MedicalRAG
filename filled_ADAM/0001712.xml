@@ -1,0 +1,55 @@
+<Document id="0001712" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000044.htm">
+ 
+<Focus>Genital injury</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0560637</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Scrotal trauma</Synonym>
+		<Synonym>Straddle injury</Synonym>
+		<Synonym>Toilet seat injury</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001712-1" qtype="information">What is (are) Genital injury ?</Question>
+			<Answer>A genital injury is an injury to male or female sex organs, mainly those outside the body. It also refers to injury in the area between the legs, called the perineum.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001712-2" qtype="considerations">What to do for Genital injury ?</Question>
+			<Answer>Injury to the genitals can be very painful. It may cause a lot of bleeding. Such injury can affect the reproductive organs and the bladder and urethra. Damage may be temporary or permanent.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001712-3" qtype="causes">What causes Genital injury ?</Question>
+			<Answer>Genital injury can occur in both women and young girls. It may be caused by placing items into the vagina. Young girls (most often less than 4 years of age) may do this during normal exploration of the body. Objects used may include toilet tissue, crayons, beads, pins, or buttons. It is important to rule out sexual abuse, rape, and assault. The health care provider should ask the girl how the object was placed there. In men and young boys, common causes of genital injury include: Having the toilet seat fall down onto the area, Getting the area caught in a pant zipper, Straddle injury: falling and landing with the legs on each side of a bar, such as a monkey bar or the middle of a bicycle, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001712-4" qtype="symptoms">What are the symptoms of Genital injury ?</Question>
+			<Answer>Symptoms may include: Abdominal pain , Bleeding, Bruising, Change in shape of the affected area,  Faintness , Foul-smelling  vaginal or urethral discharge , Object embedded in a body opening,  Groin pain  or genital pain (can be extreme), Swelling, Urine drainage, Vomiting,  Urination that is painful  or the inability to urinate, Open wound , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001712-5" qtype="considerations">What to do for Genital injury ?</Question>
+			<Answer>Injury to the genitals can be very painful. It may cause a lot of bleeding. Such injury can affect the reproductive organs and the bladder and urethra. Damage may be temporary or permanent.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001712-6" qtype="considerations">What to do for Genital injury ?</Question>
+			<Answer>Injury to the genitals can be very painful. It may cause a lot of bleeding. Such injury can affect the reproductive organs and the bladder and urethra. Damage may be temporary or permanent.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001712-7" qtype="when to contact a medical professional">Do I need to see a doctor for Genital injury ?</Question>
+			<Answer>A straddle injury is damage to the testicle or urinary tract. Get medical help right away if there is: A lot of swelling or bruising, Blood in the urine, Difficulty urinating,  Seek medical help right away if there is a genital injury and: Pain, bleeding, or swelling, A concern about sexual abuse, Problems urinating, Blood in the urine, Open wound, Large amount of swelling or bruising of the genitals or surrounding areas, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001712-8" qtype="prevention">How to prevent Genital injury ?</Question>
+			<Answer>Teach safety to young children and create a safe environment for them. Also, keep small objects out of the reach of toddlers.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

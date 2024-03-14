@@ -1,0 +1,43 @@
+<Document id="0003904" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002555.htm">
+ 
+<Focus>Thioridazine overdose</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0573113</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Mellaril overdose</Synonym>
+		<Synonym>Hydrochloride - thioridazine overdose</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003904-1" qtype="information">What is (are) Thioridazine overdose ?</Question>
+			<Answer>Thioridazine is an older, first generation antipsychotic prescription medicine used to treat serious mental and emotional disorders, including schizophrenia. Thioridazine overdose occurs when someone takes more than the normal or recommended amount of this medicine, either by accident or on purpose. This article is for information only. DO NOT use it to treat or manage an actual  overdose . If you or someone you are with overdoses, call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003904-4" qtype="symptoms">What are the symptoms of Thioridazine overdose ?</Question>
+			<Answer>Below are symptoms of an overdose of thioridazine in different parts of the body. BLADDER AND KIDNEYS Cannot completely empty the bladder,  EYES, EARS, NOSE, AND THROAT Blurred vision , Drooling, Dry mouth,  Nasal congestion , Swallowing difficulties,  Ulcers in the mouth, on the tongue, or in the throat , Vision color changes (brown tinge), Yellow eyes,  HEART AND BLOOD Rapid heartbeat, Slow heartbeat, Irregular heartbeat, High or very low blood pressure,  LUNGS Difficulty breathing, Fluid buildup in the lungs, Breathing may stop in severe cases,  MOUTH, STOMACH, AND INTESTINAL TRACT Constipation, Loss of appetite, Nausea,  MUSCLES AND BONES Muscle spasms , Muscle stiffness, Neck or face stiffness,  NERVOUS SYSTEM 
+   Drowsiness,  coma , Difficulty walking, Dizziness, Fever,  Hypothermia  (body temperature is lower than normal),  Seizures , Tremor, Weakness, lack of coordination,  OTHER Menstrual changes,  Blue discoloration of the skin  (changing to a purplish color), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003904-5" qtype="considerations">What to do for Thioridazine overdose ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003904-8" qtype="outlook">What is the outlook for Thioridazine overdose ?</Question>
+			<Answer>Recovery depends on the amount of damage to the person's body. Survival past 2 days is usually a good sign. The most serious side effects are usually due to damage to the heart. If heart damage can be stabilized, recovery is likely. But if breathing has been depressed for a long period before treatment, brain injury may occur.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003904-9" qtype="outlook">What is the outlook for Thioridazine overdose ?</Question>
+			<Answer>Recovery depends on the amount of damage to the person's body. Survival past 2 days is usually a good sign. The most serious side effects are usually due to damage to the heart. If heart damage can be stabilized, recovery is likely. But if breathing has been depressed for a long period before treatment, brain injury may occur.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

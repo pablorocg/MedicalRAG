@@ -1,0 +1,58 @@
+<Document id="0001809" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000965.htm">
+ 
+<Focus>Hand-foot-mouth disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026636</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Coxsackievirus infection</Synonym>
+		<Synonym>HFM disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001809-1" qtype="information">What is (are) Hand-foot-mouth disease ?</Question>
+			<Answer>Hand-foot-mouth disease is a common viral infection that most often begins in the throat.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001809-2" qtype="causes">What causes Hand-foot-mouth disease ?</Question>
+			<Answer>Hand-foot-mouth disease (HFMD) is most commonly caused by a virus called coxsackievirus A16. Children under age 10 are most often affected. Teens and adults can sometimes get the infection. HFMD usually occurs in the summer and early fall. The virus can spread from person-to-person through tiny, air droplets that are released when the sick person sneezes, coughs, or blows their nose. You can catch hand-foot-mouth disease if: A person with the infection sneezes, coughs, or blows their nose near you., You touch your nose, eyes, or mouth after you have touched something contaminated by the virus, such as a toy or doorknob., You touch stools or fluid from the blisters of an infected person. ,  The virus is most easily spread the first week a person has the disease.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001809-3" qtype="symptoms">What are the symptoms of Hand-foot-mouth disease ?</Question>
+			<Answer>The time between contact with the virus and the start of symptoms is about 3 to 7 days. Symptoms include: Fever ,  Headache ,  Loss of appetite , Rash with very small blisters on the hands, feet, and diaper area that may be tender or painful when pressed, Sore throat,  Ulcers  in the throat (including tonsils), mouth, and tongue , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001809-4" qtype="exams and tests">How to diagnose Hand-foot-mouth disease ?</Question>
+			<Answer>The health care provider will perform a physical exam. Usually, a diagnosis can be made from asking about the symptoms and the rash on the hands and feet.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001809-5" qtype="treatment">What are the treatments for Hand-foot-mouth disease ?</Question>
+			<Answer>There is no specific treatment for the infection other than symptom relief. Antibiotics do not work because the infection is caused by a virus. (Antibiotics treat infections caused by bacteria, not viruses.) To relieve symptoms, the following home care can be used: Over-the-counter medicines, such as acetaminophen (Tylenol) or ibuprofen (Advil, Motrin) can be used to treat fever. Aspirin should not be given for viral illnesses in children under age 18., Salt water mouth rinses (1/2 teaspoon, or 6 grams, of salt to 1 glass of warm water) may be soothing., Drink plenty of fluids. The best fluids are cold milk products. Do not drink juice or soda because their acid content causes burning pain in the ulcers. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001809-6" qtype="outlook">What is the outlook for Hand-foot-mouth disease ?</Question>
+			<Answer>Complete recovery occurs in 5 to 7 days. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001809-7" qtype="complications">What are the complications of Hand-foot-mouth disease ?</Question>
+			<Answer>Possible complications that may result from HFMD include: Loss of body fluids (dehydration), Seizures due to high fever ( febrile seizures ) , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001809-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hand-foot-mouth disease ?</Question>
+			<Answer>Contact your provider if there are signs of complications, such as pain in the neck or arms and legs. Emergency symptoms include convulsions. You should also contact your provider if: Medicine does not lower a high fever, Signs of  dehydration  occur, such as dry skin and mucus membranes, weight loss, irritability, decreased alertness, decreased or dark urine , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001809-9" qtype="prevention">How to prevent Hand-foot-mouth disease ?</Question>
+			<Answer>Avoid contact with people with HFMD. Wash your hands well and often, especially if you are in contact with people who are sick. Also teach children to wash their hands well and often.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

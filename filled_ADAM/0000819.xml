@@ -1,0 +1,13 @@
+<Document id="0000819" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000099.htm">
+ 
+<Focus>Cholesterol and lifestyle</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000819-1" qtype="information">Do you have information about Cholesterol and lifestyle</Question>
+			<Answer>Your body needs cholesterol to work well. But cholesterol levels that are too high can harm you. In the US, blood cholesterol is most often measured in milligrams per deciliter (mg/dL). Extra cholesterol in your blood builds up inside the walls of your blood vessels. This buildup is called plaque, or atherosclerosis. Plaque reduces or stops blood flow. This can cause a:  Heart attack ,  Stroke , Serious heart or blood vessel disease , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

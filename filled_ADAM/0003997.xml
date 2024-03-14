@@ -1,0 +1,53 @@
+<Document id="0003997" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001084.htm">
+ 
+<Focus>Tracheomalacia - congenital</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0948187</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Type 1 tracheomalacia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003997-1" qtype="information">What is (are) Tracheomalacia - congenital ?</Question>
+			<Answer>Congenital tracheomalacia is weakness and floppiness of the walls of the windpipe (trachea). Congenital means it is present at birth.  Acquired tracheomalacia  is a related topic.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003997-2" qtype="causes">What causes Tracheomalacia - congenital ?</Question>
+			<Answer>Tracheomalacia in a newborn occurs when the cartilage in the windpipe has not developed properly. Instead of being rigid, the walls of the trachea are floppy. Because the windpipe is the main airway, breathing problems begin soon after birth. Congenital tracheomalacia is very uncommon.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003997-3" qtype="symptoms">What are the symptoms of Tracheomalacia - congenital ?</Question>
+			<Answer>Symptoms can range from mild to severe. Symptoms may include: Breathing noises that may change with position and improve during sleep, Breathing problems that get worse with coughing, crying, feeding, or upper respiratory infections (such as cold), High-pitched breathing, Rattling or noisy breaths , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003997-4" qtype="exams and tests">How to diagnose Tracheomalacia - congenital ?</Question>
+			<Answer>A physical exam confirms the symptoms. A chest x-ray will be done to rule out other problems. The x-ray may show narrowing of the trachea when breathing in. A procedure called laryngoscopy provides the most reliable diagnosis. In this procedure, an otolaryngologist (ear, nose, and throat doctor, or ENT doctor) will look at the structure of the airway and determine how severe the problem is.  Other tests may include: Airway fluoroscopy -- a kind of x-ray that shows the images on a screen, Barium swallow, Bronchoscopy -- camera down the throat to see the airways and lungs, CT scan, Lung function tests, Magnetic resonance imaging (MRI) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003997-5" qtype="treatment">What are the treatments for Tracheomalacia - congenital ?</Question>
+			<Answer>Most infants respond well to humidified air, careful feedings, and antibiotics for infections. Babies with tracheomalacia must be closely monitored when they have respiratory infections. Often, the symptoms of tracheomalacia improve as the infant grows. Rarely, surgery is needed.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003997-6" qtype="outlook">What is the outlook for Tracheomalacia - congenital ?</Question>
+			<Answer>Congenital tracheomalacia most often goes away on its own by the age of 18 to 24 months. As the cartilage gets stronger and the trachea grows, the noisy and difficult breathing slowly improves. People with tracheomalacia must be monitored closely when they have respiratory infections.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003997-7" qtype="complications">What are the complications of Tracheomalacia - congenital ?</Question>
+			<Answer>Babies born with tracheomalacia may have other congenital abnormalities, such as heart defects, developmental delay, or gastroesophageal reflux. Aspiration pneumonia can occur from inhaling food into the lungs or windpipe.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003997-8" qtype="when to contact a medical professional">Do I need to see a doctor for Tracheomalacia - congenital ?</Question>
+			<Answer>Contact your health care provider if your child has breathing difficulties or noisy breathing. Tracheomalacia can become an urgent or emergency condition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

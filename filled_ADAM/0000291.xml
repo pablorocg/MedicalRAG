@@ -1,0 +1,60 @@
+<Document id="0000291" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007319.htm">
+ 
+<Focus>Aortopulmonary window</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003516</CUI>
+			<CUI>C2040748</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Aortopulmonary septal defect</Synonym>
+		<Synonym>Aortopulmonary fenestration</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000291-1" qtype="information">What is (are) Aortopulmonary window ?</Question>
+			<Answer>Aortopulmonary window is a rare heart defect in which there is a hole connecting the major artery taking blood from the heart to the body (the aorta) and the one taking blood from the heart to the lungs (pulmonary artery). The condition is congenital, which means it is present at birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000291-2" qtype="causes">What causes Aortopulmonary window ?</Question>
+			<Answer>Normally, blood flows through the pulmonary artery into the lungs, where it picks up oxygen. Then the blood travels back to the heart and is pumped to the aorta and the rest of the body. Babies with an aortopulmonary window have a hole in between the aorta and pulmonary artery. Because of this hole, blood from the aorta flows into the pulmonary artery, and as a result too much blood flows to the lungs. This causes high blood pressure in the lungs (a condition called pulmonary hypertension) and congestive heart failure. The bigger the defect, the more blood that is able to enter the pulmonary artery. The condition occurs when the aorta and pulmonary artery do not divide normally as the baby develops in the womb. Aortopulmonary window is very rare. It accounts for less than 1% of all congenital heart defects. This condition can occur on its own or with other heart defects such as: Tetralogy of Fallot ,  Pulmonary atresia ,  Truncus arteriosus ,  Atrial septal defect ,  Patent ductus arteriosus , Interrupted aortic arch ,  Fifty percent of people usually have no other heart defects.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000291-3" qtype="symptoms">What are the symptoms of Aortopulmonary window ?</Question>
+			<Answer>If the defect is small, it may not cause any symptoms. However, most defects are large. Symptoms can include: Delayed growth, Heart failure, Irritability, Poor eating and lack of weight gain, Rapid breathing, Rapid heartbeat, Respiratory infections, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000291-4" qtype="exams and tests">How to diagnose Aortopulmonary window ?</Question>
+			<Answer>The health care provider will usually hear an abnormal heart sound (murmur) when listening to the child's heart with a stethoscope. The provider may order tests such as: Cardiac catheterization -- a thin tube inserted into blood vessels and/or arteries around the heart to view the heart and blood vessels and directly measure pressure in the heart and lungs., Chest x-ray., Echocardiogram., MRI of the heart. , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000291-5" qtype="treatment">What are the treatments for Aortopulmonary window ?</Question>
+			<Answer>The condition usually requires open heart surgery to repair the defect. Surgery should be done as soon as possible after the diagnosis is made. In most cases, this is when the child is still a newborn. During the procedure, a heart-lung machine takes over for the child's heart. The surgeon opens the aorta and closes the defect with a patch made either from a piece of the sac that encloses the heart (the pericardium) or a man-made material.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000291-6" qtype="outlook">What is the outlook for Aortopulmonary window ?</Question>
+			<Answer>Surgery to correct aortopulmonary window is successful in most cases. If the defect is treated quickly, the child should not have any lasting effects.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000291-7" qtype="complications">What are the complications of Aortopulmonary window ?</Question>
+			<Answer>Delaying treatment can lead to complications such as: Congestive heart failure , Pulmonary hypertension or  Eisenmenger syndrome , Death, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000291-8" qtype="when to contact a medical professional">Do I need to see a doctor for Aortopulmonary window ?</Question>
+			<Answer> Contact your provider if your child has symptoms of aortopulmonary window. The sooner this condition is diagnosed and treated, the better the child's prognosis. </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000291-9" qtype="prevention">How to prevent Aortopulmonary window ?</Question>
+			<Answer>There is no known way to prevent aortopulmonary window.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

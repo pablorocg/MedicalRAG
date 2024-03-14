@@ -1,0 +1,50 @@
+<Document id="0001946" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000489.htm">
+ 
+<Focus>Hepatorenal syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019212</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001946-1" qtype="information">What is (are) Hepatorenal syndrome ?</Question>
+			<Answer>Hepatorenal syndrome is a condition in which there is progressive kidney failure that occurs in a person with  cirrhosis  of the liver. It is a serious complication that can lead to death. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001946-2" qtype="causes">What causes Hepatorenal syndrome ?</Question>
+			<Answer>Hepatorenal syndrome occurs when the kidneys stop working well in people with serious liver problems. Less urine is produced by the body, so waste products that contain nitrogen build up in the bloodstream ( azotemia ). The disorder occurs in up to 1 in 10 people who are in the hospital with liver failure. It leads to  kidney failure  in people with: Acute liver failure, Alcoholic  hepatitis ,  Cirrhosis ,  Infected abdominal fluid &#160;(peritonitis),  Risk factors include: Blood pressure that falls when a person rises or suddenly changes position (orthostatic hypotension), Use of medicines called diuretics ("water pills"), Gastrointestinal bleeding, Infection, Recent  abdominal fluid removal  (paracentesis) , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001946-3" qtype="symptoms">What are the symptoms of Hepatorenal syndrome ?</Question>
+			<Answer>Symptoms include: Abdominal swelling due to fluid  (called ascites, a symptom of liver disease), Mental  confusion , Muscle jerks,  Dark-colored urine &#160;(a symptom of liver disease),  Decreased urine output , Nausea and vomiting,  Weight gain , Yellow skin (jaundice, a symptom of liver disease) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001946-4" qtype="exams and tests">How to diagnose Hepatorenal syndrome ?</Question>
+			<Answer>This condition is diagnosed after testing to rule out other causes of kidney failure.  A physical exam does not detect kidney failure directly. However, the exam will very often show signs of chronic liver disease, such as: Confusion (often due to  hepatic encephalopathy ), Excess fluid in the abdomen (ascites), Jaundice, Other signs of liver failure ,  Other signs include: Abnormal reflexes, Smaller testicles, Dull sound in the belly area when tapped with the tips of the fingers, Increased breast tissue in men (gynecomastia), Sores (lesions) on the skin ,  The following may be signs of kidney failure: Very little or no urine output, Fluid retention in the abdomen or extremities, Increased  BUN  and  creatinine  blood levels, Increased  urine specific gravity  and  osmolality , Low  blood sodium , Very low  urine sodium  concentration ,  The following may be signs of liver failure: Abnormal prothrombin time ( PT ), Increased blood  ammonia  level, Low  blood albumin ,  Paracentesis  shows ascites, Signs of  hepatic encephalopathy  (an  EEG  may be done) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001946-5" qtype="treatment">What are the treatments for Hepatorenal syndrome ?</Question>
+			<Answer>The goal of treatment is to help the liver work better and to make sure the heart is able to pump enough blood to the body.  Treatment is about the same as for kidney failure from any cause. It includes: Stopping all unnecessary medicines, especially ibuprofen and other NSAIDs, certain antibiotics, and diuretics ("water pills"), Having dialysis to improve symptoms, Taking medicines to improve blood pressure and help your kidneys work better; infusion of albumin may also be helpful, Placing a shunt (known as TIPS) to relieve the symptoms of ascites (this may also help kidney function,&#160;but the procedure can be risky), Surgery to place a shunt&#160;from the abdominal space to the jugular vein to relieve some symptoms of kidney failure (this procedure is risky and is rarely done), </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001946-6" qtype="outlook">What is the outlook for Hepatorenal syndrome ?</Question>
+			<Answer>The outcome is often poor. Death often occurs due to an infection or severe bleeding (hemorrhage).</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001946-7" qtype="complications">What are the complications of Hepatorenal syndrome ?</Question>
+			<Answer>Complications may include: Bleeding, Damage to, and failure of, many organ systems,  End-stage kidney disease , Fluid overload and  heart failure ,   Coma caused by liver failure , Secondary infections, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001946-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hepatorenal syndrome ?</Question>
+			<Answer>This disorder most often is diagnosed in the hospital during treatment for a liver disorder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

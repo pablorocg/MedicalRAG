@@ -1,0 +1,23 @@
+<Document id="0002115" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002377.htm">
+ 
+<Focus>Hypoventilation</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0398353</CUI>
+			<CUI>C3203358</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002115-1" qtype="information">What is (are) Hypoventilation ?</Question>
+			<Answer>Hypoventilation is breathing that is too shallow or too slow to meet the needs of the body.  If a person hypoventilates, the body's carbon dioxide level rises. This causes a buildup of acid and too little oxygen in the blood. A person with hypoventilation might feel sleepy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

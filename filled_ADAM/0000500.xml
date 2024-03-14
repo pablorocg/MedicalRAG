@@ -1,0 +1,59 @@
+<Document id="0000500" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000838.htm">
+ 
+<Focus>Body lice</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0030758</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lice - body</Synonym>
+		<Synonym>Pediculosis corporis</Synonym>
+		<Synonym>Vagabond disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000500-1" qtype="information">What is (are) Body lice ?</Question>
+			<Answer>Body lice are tiny insects (scientific name is  Pediculus humanus corporis ) that are spread through close contact with other people. Two other types of lice are: Head lice ,  Pubic lice , </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000500-2" qtype="causes">What causes Body lice ?</Question>
+			<Answer>Body lice live in the seams and folds of clothing. They feed on human blood and lay their eggs and deposit waste matter on the skin and clothing. Lice die within 3 days at room temperature if they fall off a person into most areas of the environment. However, they can live in the seams of clothing for up to 1 month. You can get body lice if you come in direct contact with someone who has lice. You can also get lice from infected clothing, towels, or bedding.  Body lice are bigger than other types of lice. You are more likely to get body lice if you do not bathe and wash your clothes often or live in close (overcrowded) conditions. Lice are unlikely to last if you: Bathe regularly, Wash clothes and bedding at least once a week , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000500-3" qtype="symptoms">What are the symptoms of Body lice ?</Question>
+			<Answer>Lice cause severe itching. The itching is a reaction to the saliva from the insect's bite. Itching is usually worse around the waist, under the arms, and in places where clothing is tighter and closer to the body (such as near bra straps). You may have red bumps on your skin. The bumps may scab or become crusty after scratching. Skin around the waist or groin may become thickened or change color if you have been infected with lice in that area for a long time.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000500-4" qtype="exams and tests">How to diagnose Body lice ?</Question>
+			<Answer>Your health care provider will look at your skin and clothing for signs of lice. Full-grown lice are the size of a sesame seed, have 6 legs, and are tan to grayish-white., Nits are lice eggs. They will most often be seen in the clothing of someone with lice,&#160;usually&#160;around the waist and in the armpits. ,  You should also be checked for head and pubic lice if you have body lice.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000500-5" qtype="treatment">What are the treatments for Body lice ?</Question>
+			<Answer>To get rid of body lice, take the following important steps: Bathe regularly to get rid of lice and their eggs., Change your clothes often., Wash clothes and bedding in hot water (at least 130&#176;F or 54&#176;C) and machine dry using the hot cycle., Items that can't be washed, such as stuffed toys, mattresses, or furniture, can be thoroughly vacuumed to get rid of lice and eggs that have fallen off the body. ,  Your provider may prescribe a skin cream or a wash that contains permethrin, malathion, or benzyl alcohol. If your case is severe, the provider may prescribe medicine that you take by mouth.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000500-6" qtype="outlook">What is the outlook for Body lice ?</Question>
+			<Answer>By taking the above mentioned steps, body lice can be completely destroyed.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000500-7" qtype="complications">What are the complications of Body lice ?</Question>
+			<Answer>Scratching can make your skin more likely to become infected. Because body lice spread easily to others, people you live with and sexual partners need to be treated as well.&#160;In rare cases, lice carry uncommon diseases, such as trench fever, which may be spread to humans.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000500-8" qtype="when to contact a medical professional">Do I need to see a doctor for Body lice ?</Question>
+			<Answer>Contact your provider if you have lice in your clothing or itching that does not go away.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000500-9" qtype="prevention">How to prevent Body lice ?</Question>
+			<Answer>If you know someone is infested with body lice, avoid direct contact with that person, the person's clothing, and bedding.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

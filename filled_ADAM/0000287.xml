@@ -1,0 +1,58 @@
+<Document id="0000287" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000179.htm">
+ 
+<Focus>Aortic insufficiency</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003504</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Aortic valve prolapse</Synonym>
+		<Synonym>Aortic regurgitation</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000287-1" qtype="information">What is (are) Aortic insufficiency ?</Question>
+			<Answer>Aortic regurgitation is a heart valve disease in which the aortic valve does not close tightly. This allows blood to flow from the aorta (the largest blood vessel) into the left ventricle (a chamber of the heart).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000287-2" qtype="causes">What causes Aortic insufficiency ?</Question>
+			<Answer>Any condition that prevents the aortic valve from closing completely can cause this problem. When the valve does not close all the way, some blood comes back each time the heart beats.  When a large amount of blood comes back, the heart must work harder to force out enough blood to meet the body's needs. The left lower chamber of the heart widens (dilates) and the heart beats very strongly ( bounding pulse ). Over time, the heart becomes less able to supply enough blood to the body. In the past,  rheumatic fever  was the main cause of aortic regurgitation. The use of antibiotics to treat strep infections has made rheumatic fever less common. Therefore, aortic&#160;regurgitation is more commonly due to other causes. These include: Ankylosing spondylitis ,  Aortic dissection , Congenital (present at birth) valve problems, such as bicuspid valve,  Endocarditis &#160;(infection of the heart valves), High blood pressure,  Marfan syndrome ,  Reiter syndrome  (also known as reactive arthritis), Syphilis, Systemic lupus erythematosus, Trauma to the chest ,  Aortic insufficiency is most common in men between the ages of 30 and 60.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000287-3" qtype="symptoms">What are the symptoms of Aortic insufficiency ?</Question>
+			<Answer>The condition often has no symptoms for many years. Symptoms may come on slowly or suddenly. They may include:  Bounding pulse ,  Chest pain  similar to  angina  (rare),  Fainting ,  Fatigue ,  Palpitations  (sensation of the heart beating),  Shortness of breath  with activity or when lying down, Waking up short of breath some time after falling asleep, Swelling of the feet, legs, or abdomen, Uneven, rapid, racing, pounding, or fluttering  pulse ,  Weakness  that is more likely to occur with activity , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000287-4" qtype="exams and tests">How to diagnose Aortic insufficiency ?</Question>
+			<Answer>Signs may include: Heart murmur that can be heard through a stethoscope, Very forceful beating of the heart, Bobbing of the head in time with the heartbeat, Hard pulses in the arms and legs, Low diastolic blood pressure, Signs of fluid in the lungs ,  Aortic regurgitation may be seen on tests such as: Aortic angiography ,  Echocardiogram  -- ultrasound examination of the heart,  Left heart catheterization ,  MRI or CT scan of the heart , Transthoracic echocardiogram (TTE)&#160;or transesophageal echocardiogram (TEE) ,  A  chest x-ray  may show swelling of the left lower heart chamber. Lab tests cannot diagnose aortic insufficiency. However, they may help rule out other causes.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000287-5" qtype="treatment">What are the treatments for Aortic insufficiency ?</Question>
+			<Answer>You may not need treatment if you have no symptoms or only mild symptoms. However, you will need to see a health care provider for regular echocardiograms.  If your blood pressure is high, you may need to take blood pressure medicines to help slow the worsening of aortic regurgitation. Diuretics (water pills) may be prescribed for symptoms of heart failure. In the past, most people with heart valve problems were given antibiotics before dental work or an invasive procedure, such as colonoscopy. The antibiotics were given to prevent an infection of the damaged heart. However, antibiotics are now used much less often.  You may need to limit activity that requires more work from your heart. Talk to your provider. Surgery to repair or replace the aortic valve corrects aortic regurgitation. The decision to have aortic valve replacement depends on your symptoms and the condition and function of your heart. There is increasing interest in a minimally invasive procedure in which a replacement valve is implanted via catheter. This is similar to a procedure traditionally done in people with aortic stenosis. This option may become more common in the future. You may also need surgery to repair the aorta if it is enlarged.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000287-6" qtype="outlook">What is the outlook for Aortic insufficiency ?</Question>
+			<Answer>Surgery can cure aortic insufficiency and relieve symptoms, unless you develop heart failure or other complications. People with angina or congestive heart failure due to aortic regurgitation do poorly without treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000287-7" qtype="complications">What are the complications of Aortic insufficiency ?</Question>
+			<Answer>Complications may include: Abnormal heart rhythms, Heart failure,  Infection in the heart , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000287-8" qtype="when to contact a medical professional">Do I need to see a doctor for Aortic insufficiency ?</Question>
+			<Answer>Contact your provider if: You have symptoms of aortic regurgitation., You have aortic insufficiency and your symptoms worsen or new symptoms develop (especially chest pain,  difficulty breathing , or  swelling ). , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000287-9" qtype="prevention">How to prevent Aortic insufficiency ?</Question>
+			<Answer>Blood pressure control is very important if you are at risk for aortic regurgitation.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

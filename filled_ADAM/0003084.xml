@@ -1,0 +1,64 @@
+<Document id="0003084" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001607.htm">
+ 
+<Focus>Pierre Robin syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0031900</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pierre Robin sequence</Synonym>
+		<Synonym>Pierre Robin complex</Synonym>
+		<Synonym>Pierre Robin anomaly</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003084-1" qtype="information">What is (are) Pierre Robin syndrome ?</Question>
+			<Answer>Pierre Robin sequence (or syndrome) is a condition in which an infant has a smaller than normal lower jaw, a tongue that falls back in the throat, and difficulty breathing. It is present at birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003084-2" qtype="causes">What causes Pierre Robin syndrome ?</Question>
+			<Answer>The exact causes of Pierre Robin sequence are unknown. It may be part of many genetic syndromes. The lower jaw develops slowly before birth, but may grow faster during the first few years of life.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003084-3" qtype="symptoms">What are the symptoms of Pierre Robin syndrome ?</Question>
+			<Answer>Symptoms of this condition include: Cleft palate, High-arched palate, Jaw that is very small with a small chin, Jaw that is far back in the throat, Repeated ear infections, Small opening in the roof of the mouth, which&#160;may cause choking or liquids coming back out through the nose, Teeth that appear when the baby is born, Tongue that is large compared to the jaw , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003084-4" qtype="exams and tests">How to diagnose Pierre Robin syndrome ?</Question>
+			<Answer>A health care provider can often diagnose this condition during a physical exam. Consulting with a genetic specialist can rule out other problems linked to this syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003084-5" qtype="treatment">What are the treatments for Pierre Robin syndrome ?</Question>
+			<Answer>Talk to your child's doctor about safe sleeping positions. Some infants with Pierre-Robin sequence need to sleep on their stomachs instead of their back to prevent their tongue from falling back into their airway. In moderate cases, the child will need to have a tube placed through the nose and into the airway to avoid airway blockage. In severe cases, surgery is needed to prevent a blockage in the upper airway. Some children need surgery to make a hole in their airway or to move their jaw forward. Feeding must be done very carefully to avoid choking and breathing liquids into the airways. The child may need to be fed through a tube to prevent choking.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003084-6" qtype="support groups">Where to find support for people with Pierre Robin syndrome ?</Question>
+			<Answer>More information and support for people with Pierre Robin sequence and their families can be found at: Birth Defect Research for Children --  www.birthdefects.org/pierre-robin-syndrome , American Cleft Palate Craniofacial Association --  acpacares.org/ , National Organization for Rare Disorders -- rarediseases.org/rare-diseases/pierre-robin-sequence , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003084-7" qtype="outlook">What is the outlook for Pierre Robin syndrome ?</Question>
+			<Answer>Choking and feeding problems may go away on their own over the first few years as the lower jaw grows to a more normal size. There is a high risk for problems if the child's airways are not kept from getting blocked.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003084-8" qtype="complications">What are the complications of Pierre Robin syndrome ?</Question>
+			<Answer>These complications can occur: Breathing difficulties, especially when the child sleeps, Choking episodes, Congestive heart failure, Death, Feeding difficulties, Low blood oxygen and brain damage (due to difficulty breathing), Type of high blood pressure called pulmonary hypertension, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003084-9" qtype="when to contact a medical professional">Do I need to see a doctor for Pierre Robin syndrome ?</Question>
+			<Answer>Babies born with this condition are often diagnosed at birth. Call your provider if your child has choking episodes or breathing problems. A blockage of the airways may cause a high-pitched noise when the child breathes in. It can also lead to blueness of the skin (cyanosis). Also call if your child has other breathing problems.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0003084-10" qtype="prevention">How to prevent Pierre Robin syndrome ?</Question>
+			<Answer>There is no known prevention. Treatment may reduce breathing problems and choking.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

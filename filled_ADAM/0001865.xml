@@ -1,0 +1,35 @@
+<Document id="0001865" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000106.htm">
+ 
+<Focus>Heart disease - risk factors</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018799</CUI>
+			<CUI>C0455624</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Heart disease - prevention</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001865-1" qtype="information">What is (are) Heart disease - risk factors ?</Question>
+			<Answer>Coronary heart disease (CHD) is a narrowing of the blood vessels that supply blood and oxygen to the heart. CHD is also called coronary artery disease. Risk factors are things that increase your chance of getting a disease or condition. This article discusses the risk factors for CHD and things you can do to lessen your risk.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001865-2" qtype="susceptibility">Who is at risk for Heart disease - risk factors? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001865-3" qtype="susceptibility">Who is at risk for Heart disease - risk factors? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

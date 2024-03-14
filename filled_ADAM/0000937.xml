@@ -1,0 +1,50 @@
+<Document id="0000937" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000799.htm">
+ 
+<Focus>Concussion</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006107</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000937-1" qtype="information">What is (are) Concussion ?</Question>
+			<Answer>A concussion may occur when the head hits an object, or a moving object strikes the head. A concussion is a less severe type of brain injury. It may also be called a traumatic brain injury. A concussion can affect how the brain works. The amount of brain injury and how long it will last depends on how severe the concussion is. A concussion may lead to headaches, changes in alertness,  loss of consciousness , memory loss, and changes in thinking.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000937-2" qtype="causes">What causes Concussion ?</Question>
+			<Answer>A concussion can result from a fall, sports activities, vehicular accidents, assault, or other direct injury to the skull. A big movement of the brain (called jarring) in any direction can cause a person to lose alertness (become unconscious). How long the person stays unconscious may be a sign of how bad the concussion is. Concussions do not always lead to loss of consciousness. Most people never pass out. They may describe seeing all white, all black, or stars. A person can also have a concussion and not realize it. Watch this video about: Concussion</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000937-3" qtype="symptoms">What are the symptoms of Concussion ?</Question>
+			<Answer>Symptoms of a milder concussion can include: Acting somewhat confused, feeling unable to concentrate, or not thinking clearly, Being drowsy, hard to wake up, or similar changes, Headache,  Loss of consciousness  for a fairly short period of time, Memory loss ( amnesia ) of events before the injury or right after, Nausea and vomiting, Seeing flashing lights, light sensitivity, Feeling like you have "lost time", Sleep abnormalities ,  The following are emergency symptoms of a more severe head injury or concussion. Seek medical care right away if there are: Changes in alertness and consciousness, Confusion that does not go away, Seizures, Muscle weakness on one or both sides of the body, Pupils of the eyes that are not equal in size, Symptoms in just one eye, Unusual eye movements, Repeated vomiting, Walking or balance problems, Unconsciousness for a longer period of time or that continues (coma) ,  Head injuries that cause a concussion often occur with injury to the neck and spine. Take special care when moving people who have had a  head injury .</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000937-4" qtype="exams and tests">How to diagnose Concussion ?</Question>
+			<Answer>The health care provider will perform a physical exam. The person's nervous system will be checked. There may be changes in the person's pupil size, thinking ability, coordination, and reflexes. Tests that may be done include: Blood and urine tests,  EEG  (brain wave test) may be needed if seizures continue,  Head CT  (computerized tomography) scan,  MRI of the brain  (magnetic resonance imaging) of the brain, X-rays , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000937-5" qtype="treatment">What are the treatments for Concussion ?</Question>
+			<Answer>For a mild brain injury, no treatment may be needed. But be aware that the symptoms of a brain injury can show up later.  Your providers will explain what to expect, how to manage any headaches, how to treat your other symptoms, when to return to sports, school, work, and other activities, and signs or symptoms to worry about. Children will need to be  watched and make activity changes .,  Adults also need close observation and activity changes . ,  Both adults and children must follow the provider's instructions about when it will be possible to return to sports. You will likely need to stay in the hospital if: Emergency or more severe symptoms of head injury are present, There is a skull fracture, There is any bleeding under your skull or in your brain , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000937-6" qtype="outlook">What is the outlook for Concussion ?</Question>
+			<Answer>Healing or recovering from a concussion takes time. It may take days to weeks, or even months. During that time you may: Be withdrawn, easily upset, or confused, or have other mood changes, Have a hard time with tasks that require memory or concentration, Have mild headaches, Be less tolerant of noise, Be very tired, Feel dizzy, Have blurry vision at times ,  These problems will probably recover slowly. You may want to get help from family or friends for making important decisions.  In a small number of people, symptoms of the concussion do not go away. The risk for these long-term changes in the brain is higher after more than one concussion. Seizures may occur after more severe head injuries. You or your child may need to take anti-seizure medicines for a period of time. More severe traumatic brain injuries may result in many brain and nervous system problems.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000937-7" qtype="when to contact a medical professional">Do I need to see a doctor for Concussion ?</Question>
+			<Answer>Contact your provider if: A  head injury  causes changes in alertness., A person has other worrisome symptoms., Symptoms do not go away or are not improving after 2 or 3 weeks.,  Contact your provider right away if the following symptoms occur: Increased sleepiness or difficulty waking up, Stiff neck, Changes in behavior or unusual behavior, Changes in speech (slurred, difficult to understand, does not make sense), Confusion or problems thinking straight, Double vision or blurred vision, Fever, Fluid or blood leaking from the nose or ears, Headache that is getting worse, lasts a long time, or does not get better with over-the-counter pain relievers, Problems walking or talking, Seizures (jerking of the arms or legs without control), Vomiting more than 3 times ,  If symptoms do not go away or are not improving a lot after 2 or 3 weeks, talk to your provider.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000937-8" qtype="prevention">How to prevent Concussion ?</Question>
+			<Answer>Not all head injuries can be prevented. Increase safety for you and your child by following these steps: Always use safety equipment during activities that could cause a head injury. These include seat belts, bicycle or motorcycle helmets, and hard hats., Learn and follow  bicycle safety recommendations . ,  Do not drink and drive. Do not allow yourself to be driven by someone who may have been drinking alcohol or is otherwise impaired. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,26 @@
+<Document id="0002484" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001377.htm">
+ 
+<Focus>Lymphofollicular hyperplasia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020507</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lymphadenopathy</Synonym>
+		<Synonym>Lymphofollicular hypertrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002484-1" qtype="information">What is (are) Lymphofollicular hyperplasia ?</Question>
+			<Answer>Lymphofollicular hyperplasia is an increase in the number of cells found in lymph node. These follicles contain normal white blood cells called lymphocytes. Your body produces more lymphocytes to help prevent bacteria, viruses, and other types of germs from entering the bloodstream. This may or may not be normal depending on why it occurs.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

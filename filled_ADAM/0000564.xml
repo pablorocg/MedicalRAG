@@ -1,0 +1,38 @@
+<Document id="0000564" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007405.htm">
+ 
+<Focus>Breast reduction</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0729251</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Reduction mammoplasty</Synonym>
+		<Synonym>Reduction mammaplasty</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000564-1" qtype="information">What is (are) Breast reduction ?</Question>
+			<Answer>Breast reduction is surgery to reduce the size of the breasts.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000564-2" qtype="information">What is (are) Breast reduction ?</Question>
+			<Answer>Breast reduction is surgery to reduce the size of the breasts.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000564-4" qtype="susceptibility">Who is at risk for Breast reduction? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000564-7" qtype="outlook">What is the outlook for Breast reduction ?</Question>
+			<Answer>You are likely to have a very good outcome from breast reduction surgery. You may feel better about your appearance and be more comfortable with various activities. Pain or skin symptoms, such as striation, may disappear. You may need to wear a special supportive bra for a few months for comfort and to help with healing. Scars are permanent. They will be more visible for the first year, but will then fade. The surgeon will make every effort to place the surgical cuts so that scars are hidden. Cuts are usually made on the underside of the breast and around the areola. Most of the time, the scars should not be noticeable, even in low-cut clothing.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

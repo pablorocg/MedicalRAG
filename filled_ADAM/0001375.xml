@@ -1,0 +1,59 @@
+<Document id="0001375" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000123.htm">
+ 
+<Focus>Empyema</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014009</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Empyema - plural</Synonym>
+		<Synonym>Pyothorax</Synonym>
+		<Synonym>Pleurisy - purulent</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001375-1" qtype="information">What is (are) Empyema ?</Question>
+			<Answer>Empyema is a collection of pus in the space between the lung and the inner surface of the chest wall (pleural space).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001375-2" qtype="causes">What causes Empyema ?</Question>
+			<Answer>Empyema is usually caused by an infection that spreads directly from the lung. It leads to a buildup of pus in the pleural space. There can be 2 cups (1/2 liter) or more of infected fluid. This fluid puts pressure on the lungs. Risk factors include: Bacterial pneumonia ,  Tuberculosis , Chest surgery, Lung  abscess , Trauma or injury to the chest ,  In rare cases, empyema can occur after  thoracentesis . This is a procedure in which a needle is inserted through the chest wall to remove fluid in the pleural space for medical diagnosis or treatment.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001375-3" qtype="symptoms">What are the symptoms of Empyema ?</Question>
+			<Answer>Symptoms of empyema may include any of the following: Chest pain , which worsens when you breathe in deeply (pleurisy), Dry  cough ,  Excessive sweating , especially night sweats,  Fever  and chills, General discomfort, uneasiness, or ill feeling ( malaise ),  Shortness of breath ,  Weight loss  (unintentional) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001375-4" qtype="exams and tests">How to diagnose Empyema ?</Question>
+			<Answer>Your health care provider may note decreased breath sounds or an abnormal sound (friction rub) when listening to your chest with a stethoscope ( auscultation ). Tests that may be ordered include: Chest x-ray  (may require multiple positions),  CT scan of chest ,  Thoracentesis ,  Pleural fluid analysis , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001375-5" qtype="treatment">What are the treatments for Empyema ?</Question>
+			<Answer>The goal of treatment is to cure the infection. This involves the following: Placing a tube in your chest to drain the pus, Giving you antibiotics to control the infection,  If you have problems breathing, you may need surgery to help your lung expand properly.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001375-6" qtype="outlook">What is the outlook for Empyema ?</Question>
+			<Answer>When empyema complicates pneumonia, the risk for permanent lung damage and death goes up. Long-term treatment with antibiotics and drainage are needed.  In general, most people fully recover from empyema.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001375-7" qtype="complications">What are the complications of Empyema ?</Question>
+			<Answer>Having empyema may lead to the following: Pleural thickening, Reduced lung function, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001375-8" qtype="when to contact a medical professional">Do I need to see a doctor for Empyema ?</Question>
+			<Answer>Contact your provider if you develop symptoms of empyema.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001375-9" qtype="prevention">How to prevent Empyema ?</Question>
+			<Answer>Prompt and effective treatment of lung infections may prevent some cases of empyema.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

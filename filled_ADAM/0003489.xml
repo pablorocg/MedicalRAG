@@ -1,0 +1,19 @@
+<Document id="0003489" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007383.htm">
+ 
+<Focus>Scoliosis surgery - child</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Spinal curvature surgery - child</Synonym>
+		<Synonym>Kyphoscoliosis surgery - child</Synonym>
+		<Synonym>Video-assisted thoracoscopic surgery - child</Synonym>
+		<Synonym>VATS - child</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003489-1" qtype="information">Do you have information about Scoliosis surgery - child</Question>
+			<Answer>Scoliosis surgery repairs abnormal curving of the spine ( scoliosis ). The goal is to safely straighten your child's spine and align your child's shoulders and hips to correct your child's back problem.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

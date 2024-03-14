@@ -1,0 +1,23 @@
+<Document id="0002786" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002268.htm">
+ 
+<Focus>Neuroretinitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3665438</CUI>
+			<CUI>C0154874</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002786-1" qtype="information">What is (are) Neuroretinitis ?</Question>
+			<Answer>Neuroretinitis is inflammation of the  retina  and optic nerve of the eye. The condition can be caused by bacteria, viruses or autoimmune disease. It shares some features of  optic neuritis . There is mostly central visual loss, which often recovers after some months, but often not completely. There is no treatment that has proven to be helpful.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

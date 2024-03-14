@@ -1,0 +1,16 @@
+<Document id="0001667" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000118.htm">
+ 
+<Focus>Gallbladder removal - open - discharge</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Cholecystectomy - open - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001667-1" qtype="information">Do you have information about Gallbladder removal - open - discharge</Question>
+			<Answer>Open gallbladder removal is surgery to remove the gallbladder through a large cut in your abdomen.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

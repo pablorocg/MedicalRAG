@@ -1,0 +1,38 @@
+<Document id="0000679" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002804.htm">
+ 
+<Focus>Carbon monoxide poisoning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007020</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000679-1" qtype="information">What is (are) Carbon monoxide poisoning ?</Question>
+			<Answer>Carbon monoxide is an odorless gas that causes thousands of deaths each year in North America. Breathing in carbon monoxide is very dangerous. It is the leading cause of poisoning death in the United States. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000679-4" qtype="symptoms">What are the symptoms of Carbon monoxide poisoning ?</Question>
+			<Answer>When you breathe in carbon monoxide, the poison replaces the oxygen in your bloodstream. Your heart, brain, and body then become starved of oxygen. Symptoms vary from person to person. Those at high risk for more severe bodily damage include young children, older adults, people with lung or heart disease, people who are at high altitudes, and smokers. Carbon monoxide can harm a fetus (unborn baby still in the womb). Symptoms of carbon monoxide poisoning may include: Breathing problems, including no breathing,  shortness of breath , or  rapid breathing ,  Chest pain  (may occur suddenly in people with  angina ),  Coma ,  Confusion ,  Convulsions , Dizziness, Drowsiness,  Fainting , Fatigue, General weakness and achiness,  Headache ,  Hyperactivity , Impaired judgment, Irritability, Low blood pressure, Muscle weakness, Rapid or abnormal heartbeat,  Shock ,  Nausea and vomiting ,  Unconsciousness ,  Animals can also be poisoned by carbon monoxide. People who have pets at home may notice that their animals become weak or unresponsive from carbon monoxide exposure. Often the pets will get sick before humans. Since many of these symptoms can occur with viral illnesses, carbon monoxide poisoning is often confused with these conditions. This can lead to a delay in getting help.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000679-5" qtype="considerations">What to do for Carbon monoxide poisoning ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000679-8" qtype="outlook">What is the outlook for Carbon monoxide poisoning ?</Question>
+			<Answer>Carbon monoxide poisoning can cause death. For those who survive, recovery is slow. How well a person does depends on the amount and length of exposure to the carbon monoxide. Permanent brain damage may occur. If the person still has impaired mental ability after 2 weeks, the chance of a complete recovery is worse. Impaired mental ability can reappear after a person has been symptom-free for 1 to 2 weeks.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000679-9" qtype="outlook">What is the outlook for Carbon monoxide poisoning ?</Question>
+			<Answer>Carbon monoxide poisoning can cause death. For those who survive, recovery is slow. How well a person does depends on the amount and length of exposure to the carbon monoxide. Permanent brain damage may occur. If the person still has impaired mental ability after 2 weeks, the chance of a complete recovery is worse. Impaired mental ability can reappear after a person has been symptom-free for 1 to 2 weeks.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

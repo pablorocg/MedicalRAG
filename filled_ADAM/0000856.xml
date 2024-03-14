@@ -1,0 +1,34 @@
+<Document id="0000856" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000290.htm">
+ 
+<Focus>Cirrhosis - discharge</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023890</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Liver failure - discharge</Synonym>
+		<Synonym>Liver cirrhosis - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000856-1" qtype="information">What is (are) Cirrhosis - discharge ?</Question>
+			<Answer>Cirrhosis is scarring of the liver and poor liver function. It is the most advanced stage of chronic liver disease. You were in the hospital to treat this condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000856-2" qtype="outlook">What is the outlook for Cirrhosis - discharge ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000856-4" qtype="when to contact a medical professional">Do I need to see a doctor for Cirrhosis - discharge ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

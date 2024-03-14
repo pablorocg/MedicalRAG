@@ -1,0 +1,50 @@
+<Document id="0003047" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000939.htm">
+ 
+<Focus>Personality disorders</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0031212</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003047-1" qtype="information">What is (are) Personality disorders ?</Question>
+			<Answer>Personality disorders are a group of mental conditions in which a person has a long-term pattern of behaviors, emotions, and thoughts that is very different from his or her culture's expectations. These behaviors interfere with the person's ability to function in relationships, work, or other settings.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003047-2" qtype="causes">What causes Personality disorders ?</Question>
+			<Answer>Causes of personality disorders are unknown. Genetic and environmental factors are thought to play a role. Mental health professionals categorize these disorders into the following types: Antisocial personality disorder ,  Avoidant personality disorder ,  Borderline personality disorder ,  Dependent personality disorder ,  Histrionic personality disorder ,  Narcissistic personality disorder ,  Obsessive-compulsive personality disorder ,  Paranoid personality disorder ,  Schizoid personality disorder ,  Schizotypal personality disorder , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003047-3" qtype="symptoms">What are the symptoms of Personality disorders ?</Question>
+			<Answer>Symptoms vary widely, depending on the type of personality disorder. In general, personality disorders involve feelings, thoughts, and behaviors that don't adapt well to a wide range of settings. These patterns usually begin in the teens and may lead to problems in social and work situations. The severity of these conditions ranges from mild to severe.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003047-4" qtype="exams and tests">How to diagnose Personality disorders ?</Question>
+			<Answer>Personality disorders are diagnosed based on a psychological evaluation. The health care provider will consider how long-lived and how severe the person's symptoms are.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003047-5" qtype="treatment">What are the treatments for Personality disorders ?</Question>
+			<Answer>At first, people with these disorders usually don't seek treatment on their own. This is because they feel the disorder is part of themselves. They tend to seek help once their behavior has caused severe problems in their relationships or work. They may also seek help when they are struggling with another mental health problem, such as a mood or substance use disorder. Although personality disorders take time to treat, certain forms of talk therapy are helpful. In some cases, medicines are a useful addition.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003047-6" qtype="outlook">What is the outlook for Personality disorders ?</Question>
+			<Answer>Outlook varies. Some personality disorders improve greatly during middle age without any treatment. Others only improve slowly, even with treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003047-7" qtype="complications">What are the complications of Personality disorders ?</Question>
+			<Answer>Complications may include: Problems with relationships, Problems with school or work, Other mental health disorders, Suicide attempts, Drug and alcohol use, Mood and anxiety disorders, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003047-8" qtype="when to contact a medical professional">Do I need to see a doctor for Personality disorders ?</Question>
+			<Answer>See your health care provider or mental health professional if you or someone you know has symptoms of a personality disorder. If you or someone you know is thinking about suicide, call or text 988 or chat  988lifeline.org . You can also call 1-800-273-8255 (1-800-273-TALK). The 988 Suicide and Crisis Lifeline provides free and confidential support 24/7, anytime day or night. You can also call 911 or the local emergency number or go to the hospital emergency room. DO NOT delay. If someone you know has attempted suicide, call 911 or the local emergency number right away. DO NOT leave the person alone, even after you have called for help.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

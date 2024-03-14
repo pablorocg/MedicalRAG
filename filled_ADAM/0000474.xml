@@ -1,0 +1,57 @@
+<Document id="0000474" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000268.htm">
+ 
+<Focus>Bleeding esophageal varices</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014867</CUI>
+			<CUI>C0155789</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T020</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000474-1" qtype="information">What is (are) Bleeding esophageal varices ?</Question>
+			<Answer>The esophagus (food pipe) is the tube that connects your throat to your stomach. Varices are enlarged veins that may be found in the esophagus in people with cirrhosis of the liver. These veins may rupture and bleed.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000474-2" qtype="causes">What causes Bleeding esophageal varices ?</Question>
+			<Answer>Scarring ( cirrhosis ) of the liver is the most common cause of esophageal varices. This scarring cuts down on blood flowing through the liver. As a result, more blood flows through the veins of the esophagus. The extra blood flow causes the veins in the esophagus to balloon outward. Heavy bleeding can occur if the veins tear. Any type of long-term (chronic) liver disease can cause esophageal varices. Varices can also occur in the upper part of the stomach.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000474-3" qtype="symptoms">What are the symptoms of Bleeding esophageal varices ?</Question>
+			<Answer>People with chronic liver disease and esophageal varices may have no symptoms. If there is only a small amount of bleeding, the only symptom may be dark or black streaks in the stools. If larger amounts of bleeding occur, symptoms may include: Black, tarry stools, Bloody stools,  Lightheadedness , Paleness, Symptoms of chronic liver disease,  Vomiting blood , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000474-4" qtype="exams and tests">How to diagnose Bleeding esophageal varices ?</Question>
+			<Answer>Your health care provider will do a physical exam which may show: Bloody or black stool (in a rectal exam),  Low blood pressure ,  Rapid heart rate , Signs of chronic liver disease or cirrhosis,  Tests to find the source of the bleeding and check if there is active bleeding include: EGD  or upper endoscopy, which involves the use of a camera on a flexible tube to examine the esophagus and stomach., Insertion of a tube through the nose into the stomach (nasogastric tube) to look for signs of bleeding.,  Some providers suggest EGD for people who are newly diagnosed with mild to moderate cirrhosis. This test screens for esophageal varices and treats them before there is bleeding.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000474-5" qtype="treatment">What are the treatments for Bleeding esophageal varices ?</Question>
+			<Answer>The goal of treatment is to stop  acute  bleeding as soon as possible. Bleeding must be controlled quickly to prevent  shock  and death. If massive bleeding occurs, a person may need to be put on a ventilator to protect their airway and prevent blood from going down into the lungs. To stop the bleeding, the provider may pass an&#160; endoscope  (tube with a small light at the end) into the esophagus: A clotting medicine may be injected into the varices., A rubber band may be placed around the bleeding veins (called banding).,  Other treatments to stop the bleeding: A medicine to&#160; tighten blood vessels  may be given through the vein. Examples include octreotide or  vasopressin ., Rarely, a tube may be inserted through the nose into the stomach and inflated with air. This produces pressure against the bleeding veins (balloon tamponade).,  Once the bleeding is stopped, other varices can be treated with medicines and medical procedures to prevent future bleeding. These include: Drugs called beta blockers, such as propranolol and nadolol that reduce portal vein pressure and the risk of bleeding., A rubber band can be placed around the bleeding veins during an EGD procedure. Also, some medicines can be injected into the varices during EGD to cause them to clot., Transjugular intrahepatic portosystemic shunt ( TIPS ). This is a procedure to create new connections between two blood vessels in your liver. This can decrease pressure in the veins and prevent bleeding episodes from happening again.,  In rare cases, emergency surgery may be used to treat people if other treatment fails. Portacaval shunts or surgery to reduce the pressure in the esophageal varices are treatment options, but these procedures are risky. People with bleeding varices from liver disease may need more treatment for their liver disease, including a liver transplant.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000474-6" qtype="outlook">What is the outlook for Bleeding esophageal varices ?</Question>
+			<Answer>Bleeding often comes back with or without treatment. Bleeding esophageal varices are a serious complication of liver disease and have a poor outcome. 
+ Placement of a shunt can lead to decrease of blood supply to the brain. This can lead to mental status changes.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000474-7" qtype="complications">What are the complications of Bleeding esophageal varices ?</Question>
+			<Answer>Future problems caused by varices may include: Narrowing or  stricture of the esophagus  due to scarring after a procedure, Return of bleeding after treatment, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000474-8" qtype="when to contact a medical professional">Do I need to see a doctor for Bleeding esophageal varices ?</Question>
+			<Answer>Contact your provider or go to an emergency room if you vomit blood or have black tarry stools.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000474-9" qtype="prevention">How to prevent Bleeding esophageal varices ?</Question>
+			<Answer>Treating the causes of liver disease may prevent bleeding. Liver transplantation should be considered for some people.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

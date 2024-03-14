@@ -1,0 +1,43 @@
+<Document id="0004092" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003002.htm">
+ 
+<Focus>Undescended testicle repair</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010417</CUI>
+			<CUI>C2051971</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Orchidopexy</Synonym>
+		<Synonym>Inguinal orchidopexy</Synonym>
+		<Synonym>Orchiopexy</Synonym>
+		<Synonym>Repair of undescended testicle</Synonym>
+		<Synonym>Cryptorchidism repair</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004092-1" qtype="information">What is (are) Undescended testicle repair ?</Question>
+			<Answer>Undescended testicle  repair is surgery to correct testicles that have not dropped down into the correct position in the scrotum.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004092-2" qtype="information">What is (are) Undescended testicle repair ?</Question>
+			<Answer>Undescended testicle  repair is surgery to correct testicles that have not dropped down into the correct position in the scrotum.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004092-4" qtype="susceptibility">Who is at risk for Undescended testicle repair? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004092-6" qtype="outlook">What is the outlook for Undescended testicle repair ?</Question>
+			<Answer>The surgery may be done on an outpatient basis. Bed rest is recommended for the first 2 to 3 days. Avoid strenuous activity, including bicycling, for at least 1 month.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

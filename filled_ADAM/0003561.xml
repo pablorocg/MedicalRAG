@@ -1,0 +1,53 @@
+<Document id="0003561" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000237.htm">
+ 
+<Focus>Short bowel syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0036992</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Small intestine insufficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003561-1" qtype="information">What is (are) Short bowel syndrome ?</Question>
+			<Answer>Short bowel syndrome is a problem that occurs when part of the small intestine is missing or has been removed during surgery. Nutrients are  not properly absorbed into the body  as a result.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003561-2" qtype="causes">What causes Short bowel syndrome ?</Question>
+			<Answer>The small intestine absorbs much of the nutrients found in foods we eat. When two-thirds of the small intestine is missing, the body may not absorb enough food to stay healthy and maintain your weight.  Some infants are born missing part or much of their small intestine. More often, short bowel syndrome occurs because much of the small intestine is removed during surgery. This type of surgery may be needed: After gunshots or other trauma damaged the intestines, For someone with severe  Crohn disease , For infants, often born too early, when  part of their intestines dies , When blood flow to the small intestine is reduced due to blood clots or narrowed arteries, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003561-3" qtype="symptoms">What are the symptoms of Short bowel syndrome ?</Question>
+			<Answer>Symptoms may include: Diarrhea ,  Fatigue , Pale, greasy stools, Swelling ( edema ), especially of the legs, Very  foul-smelling stools ,  Weight loss , Dehydration, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003561-4" qtype="exams and tests">How to diagnose Short bowel syndrome ?</Question>
+			<Answer>The following tests may be done: Blood chemistry tests (such as  albumin level ),  Complete blood count (CBC) ,  Fecal fat  test, Small intestine x-ray, Vitamin levels in the blood, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003561-5" qtype="treatment">What are the treatments for Short bowel syndrome ?</Question>
+			<Answer>Treatment is aimed at relieving symptoms and ensuring the body receives enough hydration and nutrients. A high-calorie diet that supplies: Key vitamins and minerals, such as  iron , folic acid, and  vitamin B12 , Enough carbohydrates, proteins, and fats,  If needed, injections of some vitamins and minerals or special growth factors will be given. Medicines to slow down the normal movement of the intestine can be tried. This may allow food to remain in the intestine longer. Medicines to lower the amount of stomach acid may also be needed. If the body is not able to absorb enough nutrients,  total parenteral nutrition (TPN)  is tried. It will help you or your child get nutrition from a special formula through a vein in the body. Your health care provider will select the right amount of calories and TPN solution. Sometimes, you can also eat and drink while getting nutrition from TPN. Small bowel transplantation is an option in some cases.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003561-6" qtype="outlook">What is the outlook for Short bowel syndrome ?</Question>
+			<Answer>The condition may improve over time if it is due to surgery. Nutrient absorption may slowly get better.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003561-7" qtype="complications">What are the complications of Short bowel syndrome ?</Question>
+			<Answer>Complications may include: Bacterial overgrowth in the small intestine, Nervous system problems caused by a lack of vitamin B12 (This problem can be treated with vitamin B12 injections.), Too much acid in the blood (metabolic  acidosis  due to diarrhea),  Gallstones ,  Kidney stones , Dehydration,  Malnutrition , Weakened bones (osteomalacia), Weight loss , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003561-8" qtype="when to contact a medical professional">Do I need to see a doctor for Short bowel syndrome ?</Question>
+			<Answer>Contact your provider if you develop symptoms of short bowel syndrome, especially after you have had bowel surgery.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,47 @@
+<Document id="0000593" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001087.htm">
+ 
+<Focus>Bronchitis - acute</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0149514</CUI>
+			<CUI>C0006277</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000593-1" qtype="information">What is (are) Bronchitis - acute ?</Question>
+			<Answer>Acute bronchitis is swelling and inflamed tissue in the main passages that carry air to the lungs. This swelling narrows the airways, which makes it harder to breathe. Other symptoms of bronchitis are a cough and coughing up mucus. Acute means the symptoms have been present only for a short time.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000593-2" qtype="causes">What causes Bronchitis - acute ?</Question>
+			<Answer>When acute bronchitis occurs, it almost always comes after having a cold or flu-like illness. The bronchitis infection is caused by a virus. At first, it affects your nose, sinuses, and throat. Then it spreads to the airways that lead to your lungs. Sometimes, bacteria also infect your airways. This is more common in people with  COPD . Chronic bronchitis is a long-term condition. To be diagnosed with chronic bronchitis, you must have a cough with mucus on most days for at least 3 months.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000593-3" qtype="symptoms">What are the symptoms of Bronchitis - acute ?</Question>
+			<Answer>Some symptoms of acute bronchitis are: Chest discomfort,  Cough  that produces mucus -- the mucus may be clear or yellow-green,  Fatigue ,  Fever  -- usually low-grade,  Shortness of breath  that gets worse with activity,  Wheezing , in people with asthma ,  Even after acute bronchitis has cleared, you may have a dry, nagging cough that lasts for 1 to 4 weeks. Sometimes it can be hard to know if you have  pneumonia  or bronchitis. If you have pneumonia, you are more likely to have a high fever and chills, feel sicker, or feel more short of breath.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000593-4" qtype="exams and tests">How to diagnose Bronchitis - acute ?</Question>
+			<Answer>Your health care provider will listen to the breathing sounds in your lungs with a stethoscope. Your breathing may sound abnormal or rough.  Tests may include: Chest x-ray , if your provider suspects pneumonia, Pulse oximetry, a painless test that helps determine the amount of oxygen in your blood by using a device placed on the end of your finger , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000593-5" qtype="treatment">What are the treatments for Bronchitis - acute ?</Question>
+			<Answer>Most people DO NOT need antibiotics for acute bronchitis caused by a virus. The infection will almost always go away on its own within 1 week. Doing these things may help you feel better: Drink plenty of fluids., If you have  asthma  or another chronic lung condition, use your  inhaler ., Get plenty of rest., Take aspirin or acetaminophen if you have a fever. DO NOT give aspirin to children., Breathe moist air by using a  humidifier  or steaming up the bathroom.,  Certain medicines that you can buy without a prescription can help break up or loosen mucus. Look for the word "guaifenesin" on the label. Ask the pharmacist for help finding it. If your symptoms do not improve or if you are  wheezing , your provider may prescribe an inhaler to open your airways. If your provider thinks you also have bacteria in your airways, they may prescribe antibiotics. This medicine will only get rid of bacteria, not viruses. Your provider may also prescribe corticosteroid medicine to reduce swelling in your lungs. If you have the  flu  and it is caught in the first 48 hours after getting sick, your provider might also prescribe antiviral medicine. Other tips include: DO NOT smoke., Avoid secondhand smoke and air pollution., Wash your hands (and your children's hands) often to avoid spreading viruses and other germs., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000593-6" qtype="outlook">What is the outlook for Bronchitis - acute ?</Question>
+			<Answer>Except for the cough, symptoms usually go away in 7 to 10 days if you do not have a lung disorder. Coughing often lasts for 2 to 3 weeks.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000593-7" qtype="when to contact a medical professional">Do I need to see a doctor for Bronchitis - acute ?</Question>
+			<Answer>Contact your provider if you: Have a cough on most days, or have a cough that keeps returning, Are coughing up blood, Have a high fever or shaking  chills , Have a low-grade fever for 3 or more days, Have thick, yellow-green mucus, especially if it has a bad smell, Feel short of breath or have chest pain, Have a chronic illness, like heart or lung disease , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,13 @@
+<Document id="0000283" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000236.htm">
+ 
+<Focus>Aortic aneurysm repair - endovascular - discharge</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000283-1" qtype="information">Do you have information about Aortic aneurysm repair - endovascular - discharge</Question>
+			<Answer>Endovascular abdominal aortic aneurysm (AAA) repair is surgery to repair a widened area in your aorta. This is called an aneurysm. The aorta is the large artery that carries blood to your belly, pelvis, and legs.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

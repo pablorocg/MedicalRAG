@@ -1,0 +1,22 @@
+<Document id="0002584" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003020.htm">
+ 
+<Focus>Meningocele repair</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Myelomeningocele repair</Synonym>
+		<Synonym>Myelomeningocele closure</Synonym>
+		<Synonym>Myelodysplasia repair</Synonym>
+		<Synonym>Spinal dysraphism repair</Synonym>
+		<Synonym>Meningomyelocele repair</Synonym>
+		<Synonym>Neural tube defect repair</Synonym>
+		<Synonym>Spina bifida repair</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002584-1" qtype="information">Do you have information about Meningocele repair</Question>
+			<Answer>Meningocele repair (also known as myelomeningocele repair) is surgery to repair birth defects of the spine and spinal membranes. Meningocele and myelomeningocele are types of  spina bifida .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

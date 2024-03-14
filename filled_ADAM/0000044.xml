@@ -1,0 +1,63 @@
+<Document id="0000044" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000267.htm">
+ 
+<Focus>Achalasia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1321756</CUI>
+			<CUI>C0014848</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Esophageal achalasia</Synonym>
+		<Synonym>Swallowing problems - achalasia</Synonym>
+		<Synonym>Lower esophageal sphincter</Synonym>
+		<Synonym>LES</Synonym>
+		<Synonym>Myotomy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000044-1" qtype="information">What is (are) Achalasia ?</Question>
+			<Answer>The tube that carries food from the mouth to the stomach is the esophagus or food pipe. Achalasia makes it harder for the esophagus to move food into the stomach.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000044-2" qtype="causes">What causes Achalasia ?</Question>
+			<Answer>There is a muscular ring at the point where the esophagus and stomach meet. It is called the lower esophageal sphincter (LES). Normally, this muscle relaxes when you swallow to allow food to pass into the stomach. In people with achalasia, it does not relax as it should. In addition, the normal muscle activity of the esophagus (peristalsis) is reduced or absent. This problem is caused by damage to the nerves of the esophagus. Other problems can cause similar symptoms, such as cancer of the esophagus or upper stomach, and a parasite infection that causes  Chagas disease , which is more common in Mexico and Central and South America. Achalasia is rare. It may occur at any age, but is most common in people ages 25 to 60. In some people, the problem may be inherited.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000044-3" qtype="symptoms">What are the symptoms of Achalasia ?</Question>
+			<Answer>Symptoms include: Backflow (regurgitation) of food,  Chest pain , which may increase after eating, or may be felt as pain in the back, neck, and arms, Cough, Difficulty swallowing liquids and solids,  Heartburn , Unintentional weight loss, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000044-4" qtype="exams and tests">How to diagnose Achalasia ?</Question>
+			<Answer>Physical exam may show signs of  anemia  or  malnutrition . Tests include: Manometry ,&#160;a test to measure if your esophagus is working properly.,  EGD  or upper endoscopy, a test to examine the lining of the stomach and esophagus.&#160;It uses a flexible tube and camera.,  Upper GI x-ray ., </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000044-5" qtype="treatment">What are the treatments for Achalasia ?</Question>
+			<Answer>The goal of treatment is to reduce the pressure at the sphincter muscle and allow food and liquids to pass easily into the stomach. Therapy may involve: Injection with botulinum toxin (Botox) -- This may help relax the sphincter muscles. However, the benefit wears off within a few weeks or months., Medicines, such as long-acting nitrates or calcium channel blockers -- These drugs can be used to relax the lower esophagus sphincter. But there is rarely a long-term solution to treat achalasia., Surgery (called a myotomy) -- In this procedure, the lower sphincter muscle is cut. This procedure is usually performed using a laparoscope., Widening (dilation) of the esophagus -- This is done during EGD by stretching the LES with a balloon dilator.,  Your health care provider can help you decide which treatment is best for you.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000044-6" qtype="outlook">What is the outlook for Achalasia ?</Question>
+			<Answer>The outcomes of surgery and non-surgical treatments are similar. More than one treatment is sometimes necessary.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000044-7" qtype="complications">What are the complications of Achalasia ?</Question>
+			<Answer>Complications may include: Backflow (regurgitation) of acid or food from the stomach into the esophagus (reflux), Breathing food contents into the lungs (aspiration), which can cause pneumonia, Tearing (perforation) of the esophagus, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000044-8" qtype="when to contact a medical professional">Do I need to see a doctor for Achalasia ?</Question>
+			<Answer>Contact your provider if: You have trouble swallowing or painful swallowing, Your symptoms continue, even with treatment for achalasia, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000044-9" qtype="prevention">How to prevent Achalasia ?</Question>
+			<Answer>Many of the causes of achalasia cannot be prevented. However, treatment may help to prevent complications.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

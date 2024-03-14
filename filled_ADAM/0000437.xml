@@ -1,0 +1,20 @@
+<Document id="0000437" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000787.htm">
+ 
+<Focus>Bile acid sequestrants for cholesterol</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Antilipemic agent</Synonym>
+		<Synonym>Bile acid resins</Synonym>
+		<Synonym>Colestipol (Colestid)</Synonym>
+		<Synonym>Cholestyramine (LoCholest, Prevalite, and Questran)</Synonym>
+		<Synonym>Colesevelam (Welchol)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000437-1" qtype="information">Do you have information about Bile acid sequestrants for cholesterol</Question>
+			<Answer>Bile acid sequestrants are medicines that help lower your LDL (bad)  cholesterol . Too much cholesterol in your blood can stick to the walls of your arteries and narrow or block them. These medicines work by blocking bile acid in your stomach from being absorbed in your blood. Your liver then needs the cholesterol from your blood to make more bile acid. This reduces your cholesterol level. This medicine also may help people with type 2 diabetes manage their blood sugar.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

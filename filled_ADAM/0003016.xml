@@ -1,0 +1,59 @@
+<Document id="0003016" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000166.htm">
+ 
+<Focus>Pericarditis - after heart attack</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027051</CUI>
+			<CUI>C0031046</CUI>
+			<CUI>C1963211</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Dressler syndrome</Synonym>
+		<Synonym>Post-MI pericarditis</Synonym>
+		<Synonym>Post-cardiac injury syndrome</Synonym>
+		<Synonym>Postcardiotomy pericarditis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003016-1" qtype="information">What is (are) Pericarditis - after heart attack ?</Question>
+			<Answer>Pericarditis is inflammation and swelling of the covering of the heart (pericardium). It can occur in the days or weeks following a  heart attack .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003016-2" qtype="causes">What causes Pericarditis - after heart attack ?</Question>
+			<Answer>Two types of  pericarditis  can occur after a heart attack. Early pericarditis:  This form most often occurs within 1 to 3 days after a heart attack. Inflammation and swelling develop as the body tries to clean up the damaged heart tissue. Late pericarditis:  This is also called Dressler syndrome. It is also called post-cardiac injury syndrome or postcardiotomy pericarditis). It most often develops several weeks or months after a heart attack, heart surgery, or other trauma to the heart. It can also happen a week after a heart injury. Dressler syndrome is thought to occur when the immune system attacks healthy heart tissue by mistake. Things that put you at higher risk for pericarditis include: A previous heart attack,  Open heart surgery , Chest trauma, A heart attack that has affected the thickness of your heart muscle , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003016-3" qtype="symptoms">What are the symptoms of Pericarditis - after heart attack ?</Question>
+			<Answer>Symptoms include: Anxiety ,  Chest pain  from the swollen pericardium rubbing on the heart. The pain may be sharp, tight or crushing and may move to the neck, shoulder, or abdomen. The pain may also be worse when you breathe and go away when you lean forward, stand, or sit up.,  Trouble breathing , Dry  cough ,  Fast heart rate  (tachycardia),  Fatigue ,  Fever  (common with the second type of pericarditis),  Malaise  (general ill feeling), Splinting of ribs (bending over or holding the chest) with deep breathing, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003016-4" qtype="exams and tests">How to diagnose Pericarditis - after heart attack ?</Question>
+			<Answer>The health care provider will listen to your heart and lungs with a stethoscope. There may be a rubbing sound (called a pericardial friction rub, not to be confused with a heart murmur).  Heart sounds  in general may be weak or sound far away. A buildup of fluid in the covering of the heart or space around the lungs (pericardial effusion) is not common after a heart attack. But, it often does occur in some people with Dressler syndrome. Tests may include: Cardiac injury markers (CK-MB and  troponin  may help tell  pericarditis  from a heart attack),  Chest CT scan ,  Chest MRI ,  Chest x-ray ,  Complete blood count  (CBC),  ECG  (electrocardiogram),  Echocardiogram ,  ESR  (sedimentation rate) or  C-reactive protein  (measures of inflammation), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003016-5" qtype="treatment">What are the treatments for Pericarditis - after heart attack ?</Question>
+			<Answer>The goal of treatment is to make the heart work better and reduce pain and other symptoms. Aspirin may be used to treat inflammation of the pericardium. A drug called colchicine is often used as well. In some cases, excess fluid surrounding the heart (pericardial effusion) may need to be removed. This is done with a procedure called  pericardiocentesis . If complications develop, part of the pericardium may sometimes need to be removed with surgery (pericardiectomy).</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003016-6" qtype="outlook">What is the outlook for Pericarditis - after heart attack ?</Question>
+			<Answer>The condition may recur in some cases.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003016-7" qtype="complications">What are the complications of Pericarditis - after heart attack ?</Question>
+			<Answer>Possible complications of pericarditis are: Cardiac tamponade ,  Congestive heart failure ,  Constrictive pericarditis , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003016-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pericarditis - after heart attack ?</Question>
+			<Answer>Contact your provider if: You develop symptoms of pericarditis after a heart attack, You have been diagnosed with pericarditis and symptoms continue or come back despite treatment, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

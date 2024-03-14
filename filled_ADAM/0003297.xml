@@ -1,0 +1,59 @@
+<Document id="0003297" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000083.htm">
+ 
+<Focus>Pulmonary nocardiosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0275583</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Nocardiosis - pulmonary</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003297-1" qtype="information">What is (are) Pulmonary nocardiosis ?</Question>
+			<Answer>Pulmonary nocardiosis is an infection of the lung with&#160; Nocardia  bacteria.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003297-2" qtype="causes">What causes Pulmonary nocardiosis ?</Question>
+			<Answer>Nocardia infection develops when you breathe in (inhale) the bacteria. The infection causes  pneumonia -like symptoms. The infection can spread to any part of the body. People with a weak immune system are at a high risk for nocardia infection. This includes people who have: Been taking steroids or other medicines that weaken the immune system for a long time, Cushing disease, An organ transplant,  HIV/AIDS , Lymphoma (a type of  cancer ),  Other people at risk include those with long-term (chronic) lung problems related to smoking,  emphysema , or  tuberculosis .</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003297-3" qtype="symptoms">What are the symptoms of Pulmonary nocardiosis ?</Question>
+			<Answer>Pulmonary nocardiosis mainly affects the lungs. But, nocardiosis can also spread to other organs in the body. Common symptoms may include: ENTIRE BODY Fever  (comes and goes), General ill feeling ( malaise ), Night sweats ,  GASTROINTESTINAL SYSTEM  Nausea, Liver and spleen swelling ( hepatosplenomegaly ), Loss of appetite, Unintentional weight loss, Vomiting ,  LUNGS AND AIRWAYS  Breathing difficulty , Chest pain not due to heart problems, Coughing up blood or mucus, Rapid breathing, 
+   Shortness of breath
+   ,  MUSCLES AND JOINTS  Joint pain ,  NERVOUS SYSTEM  Change in mental state, Confusion, Dizziness, Headache,  Seizures , Changes in vision,  SKIN  Skin rashes or lumps, Skin sores (abscesses),  Swollen lymph nodes , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003297-4" qtype="exams and tests">How to diagnose Pulmonary nocardiosis ?</Question>
+			<Answer>Your health care provider will examine you and listen to your lungs using a stethoscope. You may have abnormal lung sounds, called crackles. Tests that may be done include: Bronchoalveolar lavage -- fluid is sent for stain and culture, which is taken by  bronchoscopy ,  Chest x-ray ,  Chest CT ,  MRI scan of the chest ,  Pleural fluid culture  and stain, Sputum stain and culture , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003297-5" qtype="treatment">What are the treatments for Pulmonary nocardiosis ?</Question>
+			<Answer>The goal of treatment is to control the infection. Antibiotics are used, but it may take a while to get better. Your provider will tell you how long you need to take the medicines. This may be for up to a year.  Surgery may be needed to remove or drain infected areas. Your provider may tell you to stop taking any medicines that weaken your immune system. Never stop taking any medicine before talking to your provider first.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003297-6" qtype="outlook">What is the outlook for Pulmonary nocardiosis ?</Question>
+			<Answer>The outcome is often good when the condition is diagnosed and treated quickly. The outcome is poor when the infection: Spreads outside the lung., Treatment is delayed., The person has a serious disease that leads to or requires long-term suppression of the immune system., </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003297-7" qtype="complications">What are the complications of Pulmonary nocardiosis ?</Question>
+			<Answer>Complications of pulmonary nocardiosis may include: Brain abscesses , Skin infections, Kidney infections, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003297-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pulmonary nocardiosis ?</Question>
+			<Answer>Contact your provider if you have symptoms of this disorder. Early diagnosis and treatment may improve the chance of a good outcome.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003297-9" qtype="prevention">How to prevent Pulmonary nocardiosis ?</Question>
+			<Answer>Be careful when using corticosteroids. Use these medicines sparingly, in the lowest effective doses and for the shortest periods of time possible. Some people with a weak immune system may need to take antibiotics for long periods of time or indefinitely to prevent the infection from returning.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

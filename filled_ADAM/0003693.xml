@@ -1,0 +1,13 @@
+<Document id="0003693" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002307.htm">
+ 
+<Focus>Spores</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003693-1" qtype="information">Do you have information about Spores</Question>
+			<Answer>Chemical disinfectants can kill bacteria, but they do not destroy their spores.  A process called sterilization destroys spores and bacteria. It is done at high temperature and under high pressure. In health care settings, sterilization of instruments is usually done using a machine called an autoclave.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

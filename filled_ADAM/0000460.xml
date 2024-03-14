@@ -1,0 +1,62 @@
+<Document id="0000460" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001440.htm">
+ 
+<Focus>Birthmarks - red</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265974</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Strawberry mark</Synonym>
+		<Synonym>Vascular skin changes</Synonym>
+		<Synonym>Angioma cavernosum</Synonym>
+		<Synonym>Capillary hemangioma</Synonym>
+		<Synonym>Hemangioma simplex</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000460-1" qtype="information">What is (are) Birthmarks - red ?</Question>
+			<Answer>Red birthmarks are skin markings created by blood vessels close to the skin surface. They develop before or shortly after birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000460-2" qtype="causes">What causes Birthmarks - red ?</Question>
+			<Answer>There are two main categories of birthmarks: 
+ Red birthmarks are made up of blood vessels close to the skin surface. These are called vascular birthmarks.,  Pigmented birthmarks  are areas in which the color of the birthmark is different from the color of the rest of the skin. ,  Hemangiomas  are a common type of vascular birthmark. Their cause is unknown. Their color is caused by the growth of blood vessels at the site. Different kinds of hemangiomas include: Strawberry hemangiomas (strawberry mark, nevus vascularis, capillary hemangioma, hemangioma simplex) may develop several weeks after birth. They may appear anywhere on the body, but are most often found on the neck and face. These areas consist of small blood vessels that are very close together., Cavernous hemangiomas (angioma cavernosum, cavernoma) are similar to strawberry hemangiomas, but they are deeper and may appear as a red-blue spongy area of tissue filled with blood.,  Salmon patches  (stork bites) are very common. Up to half of all newborns have them. They are small, pink, flat spots made up of small blood vessels that can be seen through the skin. They are most common on the forehead, eyelids, upper lip, between the eyebrows, and on the back of the neck. Salmon patches may be more noticeable when an infant cries or during temperature changes.,  Port-wine stains  are flat hemangiomas made of expanded tiny blood vessels (capillaries). Port-wine stains on the face may be associated with  Sturge-Weber  syndrome. They are most often located on the face. Their size varies from very small to over half of the body's surface. , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000460-3" qtype="symptoms">What are the symptoms of Birthmarks - red ?</Question>
+			<Answer>The main symptoms of birthmarks include: Marks on the skin that look like blood vessels,  Skin rash or lesion  that is red , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000460-4" qtype="exams and tests">How to diagnose Birthmarks - red ?</Question>
+			<Answer>A health care provider should examine all birthmarks. Diagnosis is based on how the birthmark looks. Tests to confirm deeper birthmarks include: Skin biopsy ,  CT  scan,  MRI  of the area , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000460-5" qtype="treatment">What are the treatments for Birthmarks - red ?</Question>
+			<Answer>Many strawberry hemangiomas, cavernous hemangiomas, and salmon patches are temporary and do not need treatment. Port-wine stains may not need treatment unless they: Affect your appearance, Cause emotional distress, Are painful, Change in size, shape, or color ,  Most permanent birthmarks are not treated before a child reaches school age or the birthmark is causing symptoms. Port-wine stains on the face are an exception. They should be treated at a young age to prevent emotional and social problems.  Laser surgery  can be used to treat them.  Concealing cosmetics may hide permanent birthmarks. Oral or injected cortisone may reduce the size of a hemangioma that is growing quickly and affecting vision or vital organs. Other treatments for red birthmarks include: Beta-blocker medicines, Freezing ( cryotherapy ), Laser surgery, Surgical removal, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000460-6" qtype="outlook">What is the outlook for Birthmarks - red ?</Question>
+			<Answer>Birthmarks rarely cause problems, other than changes in appearance. Many birthmarks go away on their own by the time a child reaches school age, but some are permanent. The following development patterns are typical for the different types of birthmarks: Strawberry hemangiomas usually grow quickly and stay the same size. Then they go away. Most strawberry hemangiomas are gone by the time a child is 9 years old. However, there may be a slight change in color or puckering of the skin where the birthmark was., Some cavernous hemangiomas go away on their own, usually as a child is about school age., Salmon patches often fade as the infant grows. Patches on the back of the neck may not disappear. They usually are not visible as hair grows., Port-wine stains are often permanent. , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000460-7" qtype="complications">What are the complications of Birthmarks - red ?</Question>
+			<Answer>The following complications can occur from birthmarks: Emotional distress because of appearance, Discomfort or bleeding from vascular birthmarks (occasional), Interference with vision or bodily functions, Scarring or complications after surgery to remove them, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000460-8" qtype="when to contact a medical professional">Do I need to see a doctor for Birthmarks - red ?</Question>
+			<Answer>Have your provider look at all birthmarks.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000460-9" qtype="prevention">How to prevent Birthmarks - red ?</Question>
+			<Answer>There is no known way to prevent birthmarks.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

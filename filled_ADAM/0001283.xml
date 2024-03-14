@@ -1,0 +1,55 @@
+<Document id="0001283" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000016.htm">
+ 
+<Focus>Drug abuse first aid</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013146</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Overdose from drugs</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001283-1" qtype="information">What is (are) Drug abuse first aid ?</Question>
+			<Answer>Drug use  is the misuse or overuse of any medicine or drug, including alcohol. This article discusses first aid for drug  overdose  and withdrawal.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001283-2" qtype="considerations">What to do for Drug abuse first aid ?</Question>
+			<Answer>Many drugs and medicines can cause harm if taken incorrectly or misused. Many street drugs, such as methamphetamine or crack cocaine, have no known beneficial use in any amount. Medicines that are used to treat a health problem can be misused, either accidentally or intentionally. This can occur when people take more than the normal dose or if the medicine is taken with alcohol or other drugs. Drug interactions may also lead to side effects. So, it is important to let your health care provider know about all the drugs you are taking. This includes vitamins, supplements, medicines from other countries, and other medicines or drugs you bought without a prescription. Many drugs and medicines are addictive. Sometimes, the addiction is gradual. And some drugs (such as  cocaine ) can cause addiction after only a few doses. Addiction means that a person has a strong urge to use the substance and can't stop, even if they want to. Someone who has become addicted to a drug usually will have withdrawal symptoms when the drug is suddenly stopped. Treatment can help prevent or lessen withdrawal symptoms. A drug dose that is large enough to cause harm to the body (toxic) is called an overdose. This may occur suddenly, when a large amount of the drug is taken at one time. It may also occur gradually as a drug builds up in the body over a longer period. Prompt medical attention may save the life of someone who has an overdose.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001283-3" qtype="causes">What causes Drug abuse first aid ?</Question>
+			<Answer>An overdose of narcotics can cause sleepiness, slowed breathing, and even  unconsciousness . When prescription drugs are taken in higher than prescribed amounts, serious side effects may occur. Uppers ( stimulants ) produce excitement, increased heart rate, and  rapid breathing . Downers (depressants) do just the opposite. Mind-altering drugs are called hallucinogens. They vary widely in effect and include drugs like peyote and  LSD , which primarily affect serotonin receptors in the brain, as well as ketamine and  PCP  (angel dust), which affect multiple receptors in the brain. These mind-altering substances are not well understood and in some cases may cause  paranoia , dangerous behaviors, or extreme social withdrawal. Cannabis drugs such as  marijuana  may cause relaxation, impaired motor skills, and increased appetite.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001283-4" qtype="symptoms">What are the symptoms of Drug abuse first aid ?</Question>
+			<Answer>Drug overdose symptoms vary widely, depending on the specific drug used, but may include: Abnormal pupil size or pupils that don't change size when light is shined into them,  Agitation ,  Seizures , tremors, Delusional or paranoid behavior, hallucinations,  Difficulty breathing , 
+   Drowsiness, coma, Nausea and vomiting,  Staggering  or unsteady gait ( ataxia ), 
+   Sweating or extremely dry, hot skin, blisters, rash, Violent or aggressive behavior, Death,  Drug withdrawal symptoms also vary widely, depending on the specific drug used, but may include: Abdominal cramping , Agitation,  restlessness ,  Cold sweat , Delusions, hallucinations,  Depression , Nausea, vomiting, diarrhea, Seizures, Death, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001283-5" qtype="considerations">What to do for Drug abuse first aid ?</Question>
+			<Answer>Many drugs and medicines can cause harm if taken incorrectly or misused. Many street drugs, such as methamphetamine or crack cocaine, have no known beneficial use in any amount. Medicines that are used to treat a health problem can be misused, either accidentally or intentionally. This can occur when people take more than the normal dose or if the medicine is taken with alcohol or other drugs. Drug interactions may also lead to side effects. So, it is important to let your health care provider know about all the drugs you are taking. This includes vitamins, supplements, medicines from other countries, and other medicines or drugs you bought without a prescription. Many drugs and medicines are addictive. Sometimes, the addiction is gradual. And some drugs (such as  cocaine ) can cause addiction after only a few doses. Addiction means that a person has a strong urge to use the substance and can't stop, even if they want to. Someone who has become addicted to a drug usually will have withdrawal symptoms when the drug is suddenly stopped. Treatment can help prevent or lessen withdrawal symptoms. A drug dose that is large enough to cause harm to the body (toxic) is called an overdose. This may occur suddenly, when a large amount of the drug is taken at one time. It may also occur gradually as a drug builds up in the body over a longer period. Prompt medical attention may save the life of someone who has an overdose.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001283-6" qtype="considerations">What to do for Drug abuse first aid ?</Question>
+			<Answer>Many drugs and medicines can cause harm if taken incorrectly or misused. Many street drugs, such as methamphetamine or crack cocaine, have no known beneficial use in any amount. Medicines that are used to treat a health problem can be misused, either accidentally or intentionally. This can occur when people take more than the normal dose or if the medicine is taken with alcohol or other drugs. Drug interactions may also lead to side effects. So, it is important to let your health care provider know about all the drugs you are taking. This includes vitamins, supplements, medicines from other countries, and other medicines or drugs you bought without a prescription. Many drugs and medicines are addictive. Sometimes, the addiction is gradual. And some drugs (such as  cocaine ) can cause addiction after only a few doses. Addiction means that a person has a strong urge to use the substance and can't stop, even if they want to. Someone who has become addicted to a drug usually will have withdrawal symptoms when the drug is suddenly stopped. Treatment can help prevent or lessen withdrawal symptoms. A drug dose that is large enough to cause harm to the body (toxic) is called an overdose. This may occur suddenly, when a large amount of the drug is taken at one time. It may also occur gradually as a drug builds up in the body over a longer period. Prompt medical attention may save the life of someone who has an overdose.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001283-7" qtype="when to contact a medical professional">Do I need to see a doctor for Drug abuse first aid ?</Question>
+			<Answer>Drug emergencies are not always easy to identify. If you think someone has overdosed, or if you think someone is having withdrawal, give first aid and seek medical help. Try to find out what drug the person has taken. If possible, collect all drug containers and any remaining drug samples or the person's  vomit  and take them to the hospital. If you or someone you are with has overdosed, call 911 or the local emergency number or the poison control center, which can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. This is a free and confidential service. All local poison control centers in the United States use this national number. You should call if you have any questions about poisoning or poison prevention. It does NOT need to be an emergency. You can call for any reason, 24 hours a day, 7 days a week. At the hospital, the provider will perform a history and physical examination. Tests and procedures will be done as necessary. These may include: Activated charcoal and laxatives to help remove swallowed drugs from the body (sometimes given through a tube placed through the mouth into the stomach), Airway and breathing support, including oxygen, a face mask, tube through the mouth into the trachea, and breathing machine (ventilator), Blood and urine tests, CT scan of the head, neck, and other areas, Chest x-ray, ECG (electrocardiogram, or heart tracing), Intravenous fluids (fluids through a vein), Medicines to reverse the effects of the drugs, Mental health and social work evaluation and assistance,  In serious cases, the person may need to be admitted to the hospital for further treatment. Outcome depends on many things, including: The type and amount of drugs, Where the drugs entered the body, such as through the mouth, nose, or by injection (intravenous or skin popping), Whether the person has other health problems, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001283-8" qtype="prevention">How to prevent Drug abuse first aid ?</Question>
+			<Answer>Many  resources  are available for treating substance use. Ask a provider about local resources.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

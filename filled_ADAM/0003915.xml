@@ -1,0 +1,57 @@
+<Document id="0003915" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000172.htm">
+ 
+<Focus>Thromboangiitis obliterans</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0040021</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Buerger disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003915-1" qtype="information">What is (are) Thromboangiitis obliterans ?</Question>
+			<Answer>Thromboangiitis obliterans is a rare disease in which blood vessels of the hands and feet become blocked.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003915-2" qtype="causes">What causes Thromboangiitis obliterans ?</Question>
+			<Answer>Thromboangiitis obliterans (Buerger disease) is caused by small blood vessels that become inflamed and swollen. The blood vessels then narrow or get blocked by blood clots (thrombosis). Blood vessels of the hands and feet are mostly affected. Arteries are more affected than veins. Average age when symptoms begin is around 35. Women and older adults are affected less often. This condition mostly affects young men ages 20 to 45 who are heavy smokers or chew tobacco. Female smokers may also be affected. The condition affects more people in the Middle East, Asia, the Mediterranean, and Eastern Europe. Many people with this problem have poor dental health, most likely due to tobacco use. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003915-3" qtype="symptoms">What are the symptoms of Thromboangiitis obliterans ?</Question>
+			<Answer>Symptoms most often affect 2 or more limbs and may include: Fingers or toes that appear pale, red, or bluish and feel cold to the touch., Sudden severe pain in the hands and feet. The pain may feel like a burning or tingling sensation., Pain in the hands and feet that most often occurs when at rest. The pain may be worse when the hands and feet get cold or during emotional stress.,  Pain in the legs , ankles, or feet when walking (intermittent claudication). The pain is often located in the arch of the foot., Skin changes or small painful ulcers on the fingers or toes., Occasionally, arthritis in the wrists or knees develops before the blood vessels become blocked., </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003915-4" qtype="exams and tests">How to diagnose Thromboangiitis obliterans ?</Question>
+			<Answer>The following tests may show blockage of blood vessels in the affected hands or feet: Ultrasound of the blood vessels in the extremity, called  plethysmography ,  Doppler ultrasound of the extremity , Catheter-based x-ray arteriogram ,  Blood tests for other causes of inflamed blood vessels (vasculitis) and blocked (occlusion of) blood vessels may be done. These causes include  diabetes ,  scleroderma , vasculitis, hypercoagulability, and  atherosclerosis . There are no blood tests that diagnose thromboangiitis obliterans.  A heart echocardiogram may be done to look for sources of blood clots. In rare cases when the diagnosis is unclear, a  biopsy  of the blood vessel is done.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003915-5" qtype="treatment">What are the treatments for Thromboangiitis obliterans ?</Question>
+			<Answer>There is no cure for thromboangiitis obliterans. The goal of treatment is to control symptoms and prevent the disease from getting worse. Stopping tobacco use of any kind is key to controlling the disease. Smoking cessation treatments are strongly recommended. It is also important to avoid cold temperatures and other conditions that reduce blood flow in the hands and feet. Applying warmth and doing gentle exercises can help increase circulation. Aspirin and medicines that open the blood vessels (vasodilators) may help. In very bad cases, surgery to cut the nerves to the area (surgical sympathectomy) can help control pain. Rarely, bypass surgery is considered in certain people. It may become necessary to amputate the fingers or toes if the area becomes very infected and tissue dies.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003915-6" qtype="outlook">What is the outlook for Thromboangiitis obliterans ?</Question>
+			<Answer>Symptoms of thromboangiitis obliterans may go away if the person stops tobacco use. People who continue to use tobacco may need repeated amputations. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003915-7" qtype="complications">What are the complications of Thromboangiitis obliterans ?</Question>
+			<Answer>Complications include: Tissue death ( gangrene ), Amputation of fingers or toes, Loss of blood flow in the limb of the affected fingers or toes , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003915-8" qtype="when to contact a medical professional">Do I need to see a doctor for Thromboangiitis obliterans ?</Question>
+			<Answer>Contact your health care provider if: You have symptoms of thromboangiitis obliterans. ,  You have thromboangiitis obliterans and symptoms get worse, even with treatment. ,  You develop new symptoms. , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003915-9" qtype="prevention">How to prevent Thromboangiitis obliterans ?</Question>
+			<Answer>People with a history of  Raynaud phenomenon  or blue, painful fingers or toes, especially with ulcers, should not use any form of tobacco.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

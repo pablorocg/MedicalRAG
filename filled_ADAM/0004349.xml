@@ -1,0 +1,58 @@
+<Document id="0004349" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007666.htm">
+ 
+<Focus>Zika virus disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0276289</CUI>
+			<CUI>C0042769</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Zika virus infection</Synonym>
+		<Synonym>Zika virus</Synonym>
+		<Synonym>Zika</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004349-1" qtype="information">What is (are) Zika virus disease ?</Question>
+			<Answer>Zika is a virus passed to humans by the bite of infected mosquitoes. Symptoms include fever, joint pain, rash, and red eyes (conjunctivitis).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004349-2" qtype="causes">What causes Zika virus disease ?</Question>
+			<Answer>The Zika virus is named after the Zika forest in Uganda, where the virus was first discovered in 1947. HOW ZIKA CAN SPREAD Mosquitoes spread the Zika virus from person to person. Mosquitoes acquire the virus when they feed on infected people. They then spread the virus when they bite other people., The mosquitoes that spread Zika are the same type that spread  dengue fever  and  chikungunya virus . These mosquitoes usually feed during the day. ,  Zika can be passed from a mother to her baby. This can happen in the uterus or at the time of birth., Zika has not been found to spread through breastfeeding. ,  The virus can be spread through sex. People with Zika can spread the disease to their sex partners before symptoms begin, while they have symptoms, or even after symptoms end., The virus can also be passed during sex by people with Zika who never develop symptoms., No one knows how long Zika remains in sperm and vaginal fluids, or how long it can be spread during sex., The virus remains in semen longer than in other body fluids (blood, urine, vaginal fluids). ,  Zika can also be spread through: Blood transfusion, Exposure in a laboratory ,  WHERE ZIKA IS FOUND Before 2015, the virus was found mainly in Africa, Southeast Asia, and the Pacific Islands. In May 2015, the virus was discovered for the first time in Brazil. It spread to many territories, states, and countries in: Caribbean Islands, Central America, Mexico, South America, Pacific Islands, Africa ,  The virus was confirmed in Puerto Rico, American Samoa, and United States Virgin Islands. The disease has been found in travelers coming to the United States from affected areas.  However, there are no documented cases of Zika at this time in the United States. To find the most up-to-date information on area where Zika may be found, please see the CDC page  Zika Travel Information .</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004349-3" qtype="symptoms">What are the symptoms of Zika virus disease ?</Question>
+			<Answer>Only about 1 in 5 people infected with Zika virus will have symptoms. This means that you can have Zika and not know it. Symptoms tend to occur 2 to 7 days after being bitten by an infected mosquito. They include: Fever , Rash, Joint pain,  Red eyes  (conjunctivitis),  Muscle pain ,  Headache ,  Symptoms are usually mild, and last for a few days to a week before going away entirely.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004349-4" qtype="exams and tests">How to diagnose Zika virus disease ?</Question>
+			<Answer>If you have symptoms of Zika and have recently traveled to an area where the virus is present, your health care provider may do a blood test to check for Zika. You also may be tested for other viruses spread by mosquitoes, such as  dengue  and  chikungunya .</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004349-5" qtype="treatment">What are the treatments for Zika virus disease ?</Question>
+			<Answer>There is no treatment for Zika. Like the flu virus, it has to run its course. You can take steps to help relieve symptoms: Drink plenty of fluids to stay hydrated., Get plenty of rest., Take acetaminophen (Tylenol) to relieve pain and fever., Do not take aspirin, ibuprofen (Motrin, Advil), naproxen (Aleve, Naprosyn), or any other nonsteroidal anti-inflammatory drugs (NSAIDs) until your provider confirms that you do not have dengue. These medicines can cause bleeding in people with dengue. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004349-6" qtype="complications">What are the complications of Zika virus disease ?</Question>
+			<Answer>
+A Zika infection during pregnancy can cause a rare condition called  microcephaly . It occurs when the brain does not grow as it should in the womb or after birth and causes babies to be born with a smaller-than-normal head. Intense research is currently being done to understand how the virus may spread from mothers to unborn babies and how the virus may affect babies.
+ Some people infected with Zika have later developed  Guillain-Barr&#233; syndrome . It is unclear why this may occur.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004349-7" qtype="when to contact a medical professional">Do I need to see a doctor for Zika virus disease ?</Question>
+			<Answer>Call your provider if you develop symptoms of Zika. Let your provider know if you have traveled recently in an area where the virus is spread. Your provider may do a blood test to check for Zika and other mosquito-borne illnesses. Call your provider if you or your partner has been to an area where Zika is present or live in an area with Zika and you are pregnant or thinking about becoming pregnant.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004349-8" qtype="prevention">How to prevent Zika virus disease ?</Question>
+			<Answer>There is no vaccine to protect against Zika. The best way to avoid getting the virus is to avoid getting bitten by mosquitoes. The CDC recommends that all people traveling to areas where Zika is present take steps to protect themselves from mosquito bites. Cover up with long sleeves, long pants, socks, and a hat., Use clothing coated with permethrin., Use insect repellent with DEET, picaridin, IR3535, oil of lemon eucalyptus, or para-menthane-diol. When using sunscreen, apply insect repellent after you apply sunscreen., Sleep in a room with air conditioning or with windows with screens. Check screens for large holes., Remove standing water from any outside containers such as buckets, flowerpots, and birdbaths., If sleeping outside, sleep under a mosquito net. ,  When you return from travel to an area with Zika, you should take steps to prevent mosquito bites for 3 weeks. This will help ensure you don't spread Zika to mosquitoes in your area. The CDC makes these recommendations for women who are pregnant: Do not travel to any area where the Zika virus occurs., If you must travel to one of these areas, talk to your provider first and strictly follow steps to prevent mosquito bites during your trip., If you are pregnant and have traveled to an area where Zika is present, tell your provider., If you travel to an area with Zika, you should be tested for Zika within 2 weeks of returning home, whether or not you have symptoms., If you live in an area with Zika, you should talk with your provider throughout your pregnancy. You will be tested for Zika during your pregnancy., If you live in an area with Zika and have symptoms of Zika at any time while you are pregnant, you should be tested for Zika., If your partner has recently traveled to an area where Zika is present, abstain from sex or use condoms correctly every time you have sex for the entire time of your pregnancy. This includes vaginal, anal, and oral sex (mouth-to-penis or fellatio). ,  The CDC makes these recommendations for women who are trying to become pregnant: Do not travel to areas with Zika., If you must travel to one of these areas, talk to your provider first and strictly follow steps to prevent mosquito bites during your trip., If you live in an area with Zika, talk to your provider about your plans to become pregnant, the risk of Zika virus infection during your pregnancy, and your partner's possible exposure to Zika., If you have symptoms of the Zika virus, you should wait at least 2 months after you were first infected or diagnosed with Zika before attempting to become pregnant., If you have traveled to an area where Zika is present, but have no symptoms of Zika, you should wait at least 2 months after the last date of your exposure to attempt to become pregnant., If your male partner has traveled to an area with risk of Zika and has no symptoms of Zika, you should wait at least 3 months after his return to attempt to become pregnant., If your male partner has traveled to an area with risk of Zika and has developed symptoms of Zika, you should wait at least 3 months after the date his symptoms started or the date he was diagnosed to attempt to become pregnant.,  The CDC makes these recommendations for women and their partners who are NOT trying to become pregnant: Men with Zika symptoms should not have sex or should use condoms for at least 3 months after symptoms began or the date of diagnosis., Women with Zika symptoms should not have sex or should use condoms for at least 2 months after symptoms began or the date of diagnosis., Men who do not have Zika symptoms should not have sex or should use condoms for at least 3 months after coming home from traveling to an area with Zika., Women who do not have Zika symptoms should not have sex or should use condoms for at least 2 months after coming home from traveling to an area with Zika. , Men and women who live in areas with Zika should not have sex or should use condoms for the entire time Zika is in the area. ,  Zika can't be spread after the virus has passed from the body. However, it's unclear how long Zika may remain in vaginal fluids or semen. Areas where the Zika virus occurs are likely to change, so be sure to check the  CDC website  for the most recent list of countries affected and for the latest travel advisories. All travelers to risk areas for Zika should avoid getting mosquito bites for 3 weeks after returning, to prevent the spread of Zika to mosquitoes that could spread the virus to other people.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

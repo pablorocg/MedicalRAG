@@ -1,0 +1,42 @@
+<Document id="0003790" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007649.htm">
+ 
+<Focus>Surgery for pancreatic cancer</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0346647</CUI>
+			<CUI>C0235974</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pancreaticoduodenectomy</Synonym>
+		<Synonym>Whipple procedure</Synonym>
+		<Synonym>Open distal pancreatectomy and splenectomy</Synonym>
+		<Synonym>Laparoscopic distal pancreatectomy</Synonym>
+		<Synonym>Lancreaticogastrostomy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003790-1" qtype="information">What is (are) Surgery for pancreatic cancer ?</Question>
+			<Answer>Pancreatic surgery is done to treat cancer and other diseases of the pancreas.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003790-2" qtype="information">What is (are) Surgery for pancreatic cancer ?</Question>
+			<Answer>Pancreatic surgery is done to treat cancer and other diseases of the pancreas.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003790-4" qtype="susceptibility">Who is at risk for Surgery for pancreatic cancer? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003790-7" qtype="outlook">What is the outlook for Surgery for pancreatic cancer ?</Question>
+			<Answer>Pancreatic surgery can be risky. If surgery is done, it should take place at a hospital where many of these procedures are performed.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

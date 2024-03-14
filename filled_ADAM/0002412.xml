@@ -1,0 +1,16 @@
+<Document id="0002412" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003436.htm">
+ 
+<Focus>Liver function tests</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>LFT</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002412-1" qtype="information">Do you have information about Liver function tests</Question>
+			<Answer>Liver function tests are common tests that are used to see how well the liver is working. Tests include: Albumin ,  Alpha-1 antitrypsin , Alkaline phosphatase ( ALP ), Alanine aminotransferase ( ALT ), Aspartate aminotransferase ( AST ),  Gamma-glutamyl transpeptidase (GGT) , 5' nucleotidase,  Prothrombin time , also expressed as international normalized ratio (INR),  Serum bilirubin ,  Urine bilirubin , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

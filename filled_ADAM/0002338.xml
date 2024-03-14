@@ -1,0 +1,16 @@
+<Document id="0002338" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002958.htm">
+ 
+<Focus>Laser surgery - skin</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Surgery using a laser</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002338-1" qtype="information">Do you have information about Laser surgery - skin</Question>
+			<Answer>Laser surgery uses laser energy to treat the skin. Laser surgery can be used to treat skin diseases or cosmetic concerns such as sunspots or wrinkles.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

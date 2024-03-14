@@ -1,0 +1,19 @@
+<Document id="0003078" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002125.htm">
+ 
+<Focus>Physical exam frequency</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>How often you need a physical exam</Synonym>
+		<Synonym>Health maintenance visit</Synonym>
+		<Synonym>Health screening</Synonym>
+		<Synonym>Checkup</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003078-1" qtype="information">Do you have information about Physical exam frequency</Question>
+			<Answer>All adults should visit their provider from time to time, even if they are healthy. The purpose of these visits is to: Screen for diseases, Assess risk of future medical problems, Encourage a healthy lifestyle, Update vaccinations, Maintain a relationship with a provider in case of an illness ,  Recommendations are based on gender and age: Health screening - women age 18 to 39 ,  Health screening - women age 40 to 64 ,  Health screening - women age 65 and older ,  Health screening - men age 18 to 39 ,  Health screening - men age 40 to 64 ,  Health screening - men age 65 and older ,  Talk with your provider about how often you should have checkups.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

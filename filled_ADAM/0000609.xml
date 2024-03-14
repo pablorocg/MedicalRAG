@@ -1,0 +1,16 @@
+<Document id="0000609" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003474.htm">
+ 
+<Focus>BUN - blood test</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Blood urea nitrogen</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000609-1" qtype="information">Do you have information about BUN - blood test</Question>
+			<Answer>BUN stands for blood urea nitrogen. Urea nitrogen is what forms when protein breaks down. A test can be done to measure the amount of urea nitrogen in the blood.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

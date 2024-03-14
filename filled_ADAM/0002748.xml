@@ -1,0 +1,37 @@
+<Document id="0002748" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000804.htm">
+ 
+<Focus>Natural short sleeper</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751509</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sleep - natural short sleeper</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002748-1" qtype="information">What is (are) Natural short sleeper ?</Question>
+			<Answer>A natural short sleeper is someone who sleeps a lot less in a 24-hour period than is expected for people of the same age, without being abnormally sleepy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002748-2" qtype="causes">What causes Natural short sleeper ?</Question>
+			<Answer>Although each person's need for sleep varies, the typical adult needs an average of 7 to 9 hours of sleep each night. Short sleepers sleep less than 75% of what is normal for their age. Natural short sleepers do not restrict the number of hours they sleep on purpose. Scientists believe that genetic variation allows natural short sleepers to function well with less sleep than normal. Natural short sleepers are different from people who chronically do not get enough sleep because of work or family demands, or those who have medical or mental health conditions that disrupt sleep.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002748-3" qtype="symptoms">What are the symptoms of Natural short sleeper ?</Question>
+			<Answer>Natural short sleepers are not overly tired or sleepy during the day.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002748-4" qtype="treatment">What are the treatments for Natural short sleeper ?</Question>
+			<Answer>No specific treatment is needed.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

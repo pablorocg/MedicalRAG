@@ -1,0 +1,63 @@
+<Document id="0003950" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001227.htm">
+ 
+<Focus>TMJ disorders</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039494</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>TMD</Synonym>
+		<Synonym>Temporomandibular joint disorders</Synonym>
+		<Synonym>Temporomandibular muscle disorders</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003950-1" qtype="information">What is (are) TMJ disorders ?</Question>
+			<Answer>Temporomandibular joint and muscle disorders (TMJ disorders) are problems that affect the chewing muscles and joints that connect your lower jaw to your skull.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003950-2" qtype="causes">What causes TMJ disorders ?</Question>
+			<Answer>There are 2 matching temporomandibular joints on each side of your head. They are located just in front of your ears. The abbreviation "TMJ" refers to the name of the joint, but it is often used to mean any disorders or symptoms of this region. Many TMJ-related symptoms are caused by the effects of physical stress on the structures around the joint. These structures include: Cartilage disk at the joint, Muscles of the jaw, face, and neck, Nearby ligaments, blood vessels, and nerves, Teeth ,  For many people with temporomandibular joint disorders, the cause is unknown. Some causes given for this condition are not well-proven. They include: A bad bite or orthodontic braces., Stress and tooth grinding. Many people with TMJ problems do not grind their teeth, and many who have been grinding their teeth for a long time do not have problems with their temporomandibular joint. For some people, the stress associated with this disorder may be caused by the pain, as opposed to being the cause of the problem. ,  Poor posture can also be an important factor in TMJ symptoms. For example, holding your head forward while looking at a computer all day strains the muscles of your face and neck. Other factors that may make TMJ symptoms worse include poor diet and lack of sleep. Many people end up having "trigger points." These are contracted muscles in your jaw, head, and neck. Trigger points can refer pain to other areas, causing a headache, earache, or toothache. Other possible causes of TMJ-related symptoms include  arthritis , fractures, dislocations, and structural problems present since birth.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003950-3" qtype="symptoms">What are the symptoms of TMJ disorders ?</Question>
+			<Answer>Symptoms associated with TMJ disorders may be: Biting or chewing difficulty or discomfort, Clicking, popping, or grating sound when opening or closing the mouth, Dull, aching pain in the face,  Earache ,  Headache , Jaw pain or tenderness of the jaw, Locking of the jaw, Difficulty opening or closing the mouth , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003950-4" qtype="exams and tests">How to diagnose TMJ disorders ?</Question>
+			<Answer>You may need to see more than one medical specialist for your TMJ pain and symptoms. This may include a health care provider, a dentist, or an ear, nose, and throat (ENT) doctor, depending on your symptoms. You will need a thorough exam that involves: A dental exam to show if you have poor bite alignment, Feeling the joint and muscles for tenderness, Pressing around the head to locate areas that are sensitive or painful, Sliding the teeth from side to side, Watching, feeling, and listening to the jaw open and shut, X-rays, CT scan, MRI, Doppler test of the TMJ ,  Sometimes, the results of the physical exam may appear normal. Your provider will also need to consider other conditions, such as infections, nerve-related problems, and headaches that may be causing your symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003950-5" qtype="treatment">What are the treatments for TMJ disorders ?</Question>
+			<Answer>Simple, gentle therapies are recommended first. Soft diet to calm the joint inflammation., Learn how to gently stretch, relax, or massage the muscles around your jaw. Your provider, dentist, or physical therapist can help you with these., Avoid actions that cause your symptoms, such as yawning, singing, and chewing gum., Try moist heat or cold packs on your face., Learn stress-reducing techniques., Exercise several times each week to help you increase your ability to handle pain., Bite analysis. ,  Read as much as you can on how to treat TMJ disorders, as opinion varies widely. Get the opinions of several providers. The good news is that most people eventually find something that helps. Ask your provider or dentist about medicines you can use. These might include: Short-term use of acetaminophen or ibuprofen, naproxen (or other nonsteroidal anti-inflammatory drugs), Muscle relaxant medicines or antidepressants, Muscle relaxant injections like toxin botulinum, Rarely, corticosteroid shots in the TMJ to treat inflammation ,  Mouth or bite guards, also called splints or appliances, have long been used to treat teeth grinding, clenching, and TMJ disorders. They may or may not help. While many people have found them to be useful, the benefits vary widely. The guard may lose its effectiveness over time, or when you stop wearing it. Other people may feel worse pain when they wear one., There are different types of splints. Some fit over the top teeth, while others fit over the bottom teeth., Permanent use of these items may not be recommended. You should also stop if they cause any changes in your bite. ,  If conservative treatments do not work, it does not automatically mean you need more aggressive treatment. Use caution when considering treatment methods that cannot be reversed, such as orthodontics or surgery that permanently changes your bite. Reconstructive surgery of the jaw, or joint replacement, is rarely required. In fact, the results are often worse than before surgery.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003950-6" qtype="support groups">Where to find support for people with TMJ disorders ?</Question>
+			<Answer>You can get more information and find support groups through the TMJ Syndrome Association at  tmj.org/ .</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003950-7" qtype="outlook">What is the outlook for TMJ disorders ?</Question>
+			<Answer>For many people, symptoms occur only sometimes and do not last long. They tend to go away in time with little or no treatment. Most cases can be successfully treated.  Some cases of pain go away on their own without treatment. TMJ-related pain may return again in the future. If the cause is nighttime clenching, treatment can be very tricky because it is a sleeping behavior that is hard to control. Mouth splints are a common treatment approach for teeth grinding. While some splints may silence the grinding by providing a flat, even surface, they may not be as effective at reducing pain or stopping clenching. Splints may work well in the short-term, but could become less effective over time. Some splints can also cause bite changes if they are not fitted properly. This may cause a new problem.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003950-8" qtype="complications">What are the complications of TMJ disorders ?</Question>
+			<Answer>TMJ may cause: Chronic face pain, Chronic headaches, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003950-9" qtype="when to contact a medical professional">Do I need to see a doctor for TMJ disorders ?</Question>
+			<Answer>See your provider right away if you are having trouble eating or opening your mouth. Keep in mind that many conditions can cause TMJ symptoms, from arthritis to whiplash injuries. Experts who are specially trained in facial pain can help diagnose and treat TMJ.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0003950-10" qtype="prevention">How to prevent TMJ disorders ?</Question>
+			<Answer>Many of the home-care steps to treat TMJ problems can also help prevent the condition. These steps include:  Avoid eating hard foods and chewing gum., Learn relaxation techniques to reduce overall stress and muscle tension., Maintain good posture, especially if you work all day at a computer. Pause often to change position, rest your hands and arms, and relieve stressed muscles., Use safety measures to reduce the risk for fractures and dislocations. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

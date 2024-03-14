@@ -1,0 +1,16 @@
+<Document id="0001578" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003407.htm">
+ 
+<Focus>Fetal-maternal erythrocyte distribution</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Kleihauer-Betke stain</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001578-1" qtype="information">Do you have information about Fetal-maternal erythrocyte distribution</Question>
+			<Answer>The fetal-maternal erythrocyte distribution test is used to measure the number of the unborn baby's red blood cells in a pregnant woman's blood.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

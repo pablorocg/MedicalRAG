@@ -1,0 +1,56 @@
+<Document id="0001460" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001153.htm">
+ 
+<Focus>Esophagitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014868</CUI>
+			<CUI>C1963106</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Inflammation - esophagus</Synonym>
+		<Synonym>Erosive esophagitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001460-1" qtype="information">What is (are) Esophagitis ?</Question>
+			<Answer>Esophagitis is a condition in which the lining of the esophagus becomes swollen, inflamed, or irritated. The esophagus is the tube that leads from your mouth to the stomach. It is also called the food pipe.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001460-2" qtype="causes">What causes Esophagitis ?</Question>
+			<Answer>Esophagitis is often caused by stomach fluid that flows back into the food pipe. The fluid contains acid, which irritates the esophageal lining. This problem is called  gastroesophageal reflux  (GERD). An  autoimmune disorder  called eosinophilic esophagitis also causes this condition. The following increase your risk for this condition: Alcohol use, Cigarette smoking, Surgery or radiation to the chest (for example, treatment for lung cancer), Taking certain medicines such as alendronate, doxycycline, ibandronate, risedronate, tetracycline, potassium tablets, and vitamin C, without drinking plenty of water, Vomiting, Lying down after eating a large meal , Obesity,  People who have a weakened immune system may develop infections. Infections may lead to swelling of the food pipe. Infection may be due to: Fungi or yeast (most often Candida), Viruses, such as herpes or  cytomegalovirus , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001460-3" qtype="symptoms">What are the symptoms of Esophagitis ?</Question>
+			<Answer>The infection or irritation may cause the food pipe to become inflamed. Sores called ulcers may form.  Symptoms may include: Cough, Difficulty swallowing, Painful swallowing,  Heartburn  (acid reflux), Hoarseness, Sore throat , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001460-4" qtype="exams and tests">How to diagnose Esophagitis ?</Question>
+			<Answer>The doctor may perform the following tests: Esophageal manometry ,  Esophagogastroduodenoscopy  (EGD), removing a piece of tissue from the food pipe for examination ( biopsy ),  Upper GI series  (barium swallow x-ray) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001460-5" qtype="treatment">What are the treatments for Esophagitis ?</Question>
+			<Answer>Treatment depends on the cause. Common treatment options are:  Medicines that reduce stomach acid in case of reflux disease, Antibiotics to treat infections, Medicines and diet changes to treat eosinophilic esophagitis, Medicines to coat the lining of the food pipe to treat damage related to pills,  You should stop taking medicines that damage the lining of the esophagus. Take your pills with plenty of water. Avoid lying down immediately after taking the pill.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001460-6" qtype="outlook">What is the outlook for Esophagitis ?</Question>
+			<Answer>Most of the time, the disorders that cause swelling and inflammation of the food pipe, respond to treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001460-7" qtype="complications">What are the complications of Esophagitis ?</Question>
+			<Answer>If not treated, this condition may cause severe discomfort. Scarring (stricture) of the food pipe may develop. This can cause swallowing problems.  A condition called  Barrett esophagus  (BE) can develop after years of GERD. Rarely, BE may lead to cancer of the food pipe.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001460-8" qtype="when to contact a medical professional">Do I need to see a doctor for Esophagitis ?</Question>
+			<Answer>Contact your health care provider if you have: Frequent symptoms of esophagitis, Difficulty swallowing , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,58 @@
+<Document id="0000681" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000347.htm">
+ 
+<Focus>Carcinoid syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024586</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000681-1" qtype="information">What is (are) Carcinoid syndrome ?</Question>
+			<Answer>Carcinoid syndrome is a group of symptoms associated with carcinoid tumors. These are tumors most often of the small intestine, colon, appendix, or bronchial tubes in the lungs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000681-2" qtype="causes">What causes Carcinoid syndrome ?</Question>
+			<Answer>Carcinoid syndrome is the pattern of symptoms sometimes seen in people with carcinoid tumors. These tumors are rare, and often slow growing. Most carcinoid tumors are found in the gastrointestinal tract and lungs. Carcinoid syndrome occurs in very few people with carcinoid tumors, after the tumor has spread to the liver or lung. These tumors release too much of the hormone&#160; serotonin , as well as several other chemicals. The hormones cause the blood vessels to open (dilate). This causes carcinoid syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000681-3" qtype="symptoms">What are the symptoms of Carcinoid syndrome ?</Question>
+			<Answer>The carcinoid syndrome is made up of four main symptoms including: Flushing (face, neck, or upper chest), or widened blood vessels seen on the skin ( telangiectasias ), Difficulty breathing, such as wheezing, Diarrhea, Heart problems, such as leaking heart valves, slow heartbeat, low or high blood pressure ,  Symptoms are sometimes brought on by physical exertion, or eating or drinking things such as blue cheese, chocolate, or red wine.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000681-4" qtype="exams and tests">How to diagnose Carcinoid syndrome ?</Question>
+			<Answer>Most of these tumors are found when tests or procedures are done for other reasons, such as during abdominal surgery. If a physical exam is done, the health care provider may find signs of:&#160; Heart valve problems, such as  murmur , Niacin-deficiency disease ( pellagra ),  Tests that may be done include: 5-HIAA  levels in urine, Blood tests (including  serotonin &#160;and chromogranin blood tests),  CT MRI  scan of the chest or abdomen,  Echocardiogram , PET scan, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000681-5" qtype="treatment">What are the treatments for Carcinoid syndrome ?</Question>
+			<Answer>Surgery to remove the tumor is usually the first treatment. It can permanently cure the condition if the tumor is completely removed. If the tumor has spread to the liver, treatment involves either of the following:  Removing areas of liver that have tumor cells, Sending (infusing) medicine directly into the liver to destroy the tumors,  When the entire tumor can't be removed, removing large portions of the tumor ("debulking") can help relieve the symptoms. Octreotide (Sandostatin) or lanreotide (Somatuline) injections are given to people with advanced carcinoid tumors that can't be removed with surgery. People with carcinoid syndrome should avoid alcohol, large meals, and foods high in tyramine (aged cheeses, avocado, many processed foods), because they may trigger symptoms. Some common medicines, like selective serotonin reuptake inhibitors (SSRIs), such as paroxetine (Paxil) and fluoxetine (Prozac), may make symptoms worse by increasing levels of serotonin. However, do not stop taking these medicines unless your provider tells you to do so.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000681-6" qtype="support groups">Where to find support for people with Carcinoid syndrome ?</Question>
+			<Answer>Learn more about carcinoid syndrome and get support from: The Carcinoid Cancer Foundation --&#160; www.carcinoid.org/resources/support-groups/directory/ , Neuroendocrine Tumor Research Foundation --  netrf.org/for-patients/ , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000681-7" qtype="outlook">What is the outlook for Carcinoid syndrome ?</Question>
+			<Answer>The outlook in people with carcinoid syndrome is sometimes different from the outlook in people who have carcinoid tumors without the syndrome. Prognosis also depends on the site of tumor. In people with the syndrome, the tumor has usually spread to the liver. This lowers the survival rate. People with carcinoid syndrome are also more likely to have a separate cancer (second primary tumor) at the same time. Overall, the prognosis is usually excellent.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000681-8" qtype="complications">What are the complications of Carcinoid syndrome ?</Question>
+			<Answer>Complications of carcinoid tumors may include: Increased risk of falls and injury (from low blood pressure),  Bowel obstruction  (from tumor),  Gastrointestinal bleeding , Heart valve failure,  A fatal form of carcinoid syndrome, carcinoid crisis, may occur as a side effect of surgery, anesthesia or chemotherapy.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000681-9" qtype="when to contact a medical professional">Do I need to see a doctor for Carcinoid syndrome ?</Question>
+			<Answer>Contact your provider for an appointment if you have symptoms of carcinoid syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0000681-10" qtype="prevention">How to prevent Carcinoid syndrome ?</Question>
+			<Answer>Treating the tumor reduces the risk of carcinoid syndrome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

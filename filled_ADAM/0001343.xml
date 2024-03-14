@@ -1,0 +1,38 @@
+<Document id="0001343" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000314.htm">
+ 
+<Focus>Ectopic ADH secretion</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0271594</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>SIADH</Synonym>
+		<Synonym>Syndrome of inappropriate antidiuretic hormone secretion</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001343-1" qtype="information">What is (are) Ectopic ADH secretion ?</Question>
+			<Answer>Syndrome of inappropriate antidiuretic hormone secretion (SIADH) is a condition in which the body makes too much antidiuretic hormone (ADH). ADH is also called vasopressin. This hormone helps the kidneys control the amount of water your body loses through the urine. SIADH causes your body to retain too much water. ADH is a substance produced naturally in an area of the brain called the  hypothalamus . It is then released by the pituitary gland at the base of the brain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001343-2" qtype="causes">What causes Ectopic ADH secretion ?</Question>
+			<Answer>There are many reasons why your body may make a lot of ADH. Common situations when ADH is released into the blood when it should not be produced (inappropriate) include: Medicines, such as certain seizure medicines, antidepressants, cancer medicines, opiates (less often), and heart, diabetes, and blood pressure medicines, Surgery under general anesthesia, Disorders of the brain, such as injury, infections, and stroke, Brain surgery in the region of the hypothalamus, Tuberculosis, cancer, chronic infections, and lung disease, such as pneumonia, Substance use disorder,  Rare causes include: Rare diseases of the hypothalamus or pituitary,  Leukemia  and cancer of the small intestine, pancreas, and brain, Mental disorders, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001343-3" qtype="symptoms">What are the symptoms of Ectopic ADH secretion ?</Question>
+			<Answer>With SIADH, the urine is very concentrated. Not enough water is excreted and there is too much water in the blood. This dilutes many substances in the blood such as sodium. A  low blood sodium level  is the most common cause of symptoms of too much ADH. It is also the most common clue that a person may have SIADH. Often, there are no symptoms from a mildly low sodium level. More symptoms occur the lower the level of the sodium. When symptoms do occur, they may include any of the following: Nausea and vomiting, Headache, Problems with balance that may result in falls, Mental changes, such as confusion, memory problems, strange behavior,  Seizures  or coma, in severe cases, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001343-4" qtype="treatment">What are the treatments for Ectopic ADH secretion ?</Question>
+			<Answer>Treatment depends on the cause of the problem. For example, surgery is done to remove a tumor producing ADH. Or, if a medicine is the cause, its dosage may be changed or another medicine may be tried. In all cases, the first step is to limit fluid intake. This helps prevent excess fluid from building up in the body. Your provider will tell you what your total daily fluid intake should be. The restriction is not just for water, but for almost all fluids (coffee, tea, juice, soda, etc.). If you have severe symptoms, it is a medical emergency. This is usually treated with salt solution (3% saline) given through an IV into the veins (intravenous) in the hospital. Medicines may be needed to block the effects of ADH on the kidneys so that excess water is excreted by the kidneys. These medicines may be given as pills or as injections given into the veins.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

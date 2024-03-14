@@ -1,0 +1,58 @@
+<Document id="0003019" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001059.htm">
+ 
+<Focus>Periodontitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0031099</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pyorrhea - gum disease</Synonym>
+		<Synonym>Inflammation of gums - involving bone</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003019-1" qtype="information">What is (are) Periodontitis ?</Question>
+			<Answer>Periodontitis is inflammation and infection of the ligaments and bones that support the teeth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003019-2" qtype="causes">What causes Periodontitis ?</Question>
+			<Answer>Periodontitis occurs when inflammation or infection of the gums ( gingivitis ) occurs and is not treated. Infection and inflammation spreads from the gums (gingiva) to the ligaments and bone that support the teeth. Loss of support causes the teeth to become loose and eventually fall out. Periodontitis is the primary cause of tooth loss in adults. This disorder is uncommon in young children, but it increases during the teen years.  Plaque and tartar build up at the base of the teeth. Inflammation from this buildup causes an abnormal "pocket," or gap, to form between the gums and the teeth. This pocket then fills with more plaque, tartar, and bacteria. Soft tissue swelling traps the plaque in the pocket. Continued inflammation leads to damage of the tissues and bone surrounding the tooth. Because plaque contains bacteria, infection is likely, and a  tooth abscess  may also develop. This also increases the rate of bone destruction.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003019-3" qtype="symptoms">What are the symptoms of Periodontitis ?</Question>
+			<Answer>Symptoms of periodontitis include: Bad  breath odor  (halitosis), Gums that are bright red or reddish-purple, Gums that look shiny,  Gums that bleed easily  (when flossing or brushing), Gums that are tender when touched but are painless otherwise, Loose teeth,  Swollen gums , Gaps between the teeth and gums, Shifting teeth, Yellow, brown green or white hard deposits on your teeth, Tooth sensitivity,  Note: Early symptoms are similar to gingivitis (inflammation of the gums).</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003019-4" qtype="exams and tests">How to diagnose Periodontitis ?</Question>
+			<Answer>Your dentist will examine your mouth and teeth. Your gums will be soft, swollen, and reddish-purple. (Healthy gums are pink and firm.) You may have plaque and tartar at the base of your teeth, and the pockets in your gums may be enlarged. In most cases, the gums are painless or only mildly tender, unless a tooth abscess is also present. Your gums will be tender when checking your pockets with a probe. Your teeth may be loose and gums may be pulled back, exposing the base of your teeth. Dental x-rays  show the loss of supporting bone. They may also show tartar deposits under your gums.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003019-5" qtype="treatment">What are the treatments for Periodontitis ?</Question>
+			<Answer>The goal of treatment is to reduce inflammation, remove pockets in your gums, and treat any underlying causes of gum disease.  Rough surfaces of teeth or dental appliances should be repaired.  Have your teeth cleaned thoroughly. This may involve the use of various tools to loosen and remove plaque and tartar from your teeth. Flossing and brushing is always needed to reduce your risk for gum disease, even after professional tooth cleaning. Your dentist or hygienist will show you how to brush and floss properly. You may benefit from medicines that are put directly on your gums and teeth. People with periodontitis should have a professional teeth cleaning every 3 months. Surgery may be needed to: Open and clean deep pockets in your gums, Build support for loose teeth, Remove a tooth or teeth so that the problem doesn't get worse and spread to nearby teeth, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003019-6" qtype="outlook">What is the outlook for Periodontitis ?</Question>
+			<Answer>Some people find the removal of dental plaque from inflamed gums to be uncomfortable. You may need to be numb during this process. Bleeding and tenderness of the gums should go away within 3 to 4 weeks of treatment. You need to perform careful home brushing and flossing for your entire life so that the problem does not return.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003019-7" qtype="complications">What are the complications of Periodontitis ?</Question>
+			<Answer>These complications can occur: Infection or abscess of the soft tissue, Infection of the jaw bones, Return of periodontitis, Tooth abscess, Tooth loss, Tooth flaring (sticking out) or shifting,  Trench mouth , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003019-8" qtype="when to contact a medical professional">Do I need to see a doctor for Periodontitis ?</Question>
+			<Answer>See your dentist if you have signs of gum disease.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003019-9" qtype="prevention">How to prevent Periodontitis ?</Question>
+			<Answer>Good oral hygiene is the best way to prevent periodontitis. This includes thorough tooth brushing and flossing, and regular professional dental cleaning. Preventing and treating gingivitis reduces your risk of developing periodontitis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

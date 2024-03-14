@@ -1,0 +1,58 @@
+<Document id="0003253" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000524.htm">
+ 
+<Focus>Prostatitis - nonbacterial</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0033581</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>NBP</Synonym>
+		<Synonym>Prostatodynia</Synonym>
+		<Synonym>Pelvic pain syndrome</Synonym>
+		<Synonym>CPPS</Synonym>
+		<Synonym>Chronic nonbacterial prostatitis</Synonym>
+		<Synonym>Chronic genitourinary pain</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003253-1" qtype="information">What is (are) Prostatitis - nonbacterial ?</Question>
+			<Answer>Chronic nonbacterial prostatitis causes long-term pain and urinary symptoms. It involves the prostate gland or other parts of a man's lower urinary tract or genital area. This condition is not caused by an  infection with bacteria .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003253-2" qtype="causes">What causes Prostatitis - nonbacterial ?</Question>
+			<Answer>Possible causes of nonbacterial prostatitis include: A past bacterial prostatitis infection, Bicycle riding, Less common types of bacteria that are not detected by common tests for bacteria, Irritation caused by a backup of urine flowing into the prostate, Irritation from chemicals, Nerve problem involving the lower urinary tract, Parasites, Pelvic floor muscle problem, Sexual abuse, Viruses,  Life stresses and emotional factors may play a part in the problem.  Most men with chronic prostatitis have the nonbacterial form.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003253-3" qtype="symptoms">What are the symptoms of Prostatitis - nonbacterial ?</Question>
+			<Answer>Symptoms may include: Blood in the semen ,  Blood in the urine , Pain in the genital area and lower back, Pain with bowel movements, Pain with ejaculation, Problems with urinating , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003253-4" qtype="exams and tests">How to diagnose Prostatitis - nonbacterial ?</Question>
+			<Answer>Most of the time, a physical exam is normal. However, the prostate may be swollen or tender. Urine tests may show white or red blood cells in the urine. A semen culture may show a higher number of white blood cells and low sperm count with poor movement. Urine culture  or culture from the prostate does not show bacteria.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003253-5" qtype="treatment">What are the treatments for Prostatitis - nonbacterial ?</Question>
+			<Answer>Treatment for nonbacterial prostatitis is difficult. The problem is hard to cure, so the main goal is to control symptoms. Several types of medicines may be used to treat the condition. These include: Long-term antibiotics to make sure that the prostatitis is not caused by bacteria. However, people who are not helped by antibiotics should stop taking these medicines., Medicines called alpha-adrenergic blockers help relax the muscles of the prostate gland. It often takes about 6 weeks before these medicines start working. Many people do not get relief from these medicines., Aspirin, ibuprofen, and other nonsteroidal anti-inflammatory medicines (NSAIDs), which may relieve symptoms for some men., Muscle relaxers like diazepam or cyclobenzaprine can help to reduce spasms in the pelvic floor. ,  Some people have found some relief from pollen extract (Cernitin) and allopurinol. But research does not confirm their benefit. Stool softeners may help reduce discomfort with bowel movements. Surgery, called  transurethral resection of the prostate , may be done in rare cases if medicine does not help. In most cases, this surgery is not done on younger men. It may cause  retrograde ejaculation . The surgery can lead to sterility,  impotence , and  incontinence . Other treatments that may be tried include: Warm baths to ease some of the pain, Prostate massage, acupuncture, and relaxation exercises, Dietary changes to avoid bladder and urinary tract irritants, Pelvic floor physical therapy , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003253-6" qtype="outlook">What is the outlook for Prostatitis - nonbacterial ?</Question>
+			<Answer>Many people respond to treatment. However, others do not get relief, even after trying many things. Symptoms often come back and may not be treatable.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003253-7" qtype="complications">What are the complications of Prostatitis - nonbacterial ?</Question>
+			<Answer>Untreated symptoms of nonbacterial prostatitis may lead to sexual and urinary problems. These problems can affect your lifestyle and emotional well-being.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003253-8" qtype="when to contact a medical professional">Do I need to see a doctor for Prostatitis - nonbacterial ?</Question>
+			<Answer>Contact your health care provider if you have symptoms of prostatitis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

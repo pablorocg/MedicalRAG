@@ -1,0 +1,17 @@
+<Document id="0002556" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000766.htm">
+ 
+<Focus>Medication safety: Filling your prescription</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Medical errors - medication</Synonym>
+		<Synonym>Preventing medication errors</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002556-1" qtype="information">Do you have information about Medication safety: Filling your prescription</Question>
+			<Answer>Medicine safety means you get the right medicine and the right dose, at the right times. If you take the wrong medicine or too much of it, it could cause serious problems. Take these steps when getting and filling your prescriptions in order to avoid medicine errors.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

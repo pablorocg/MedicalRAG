@@ -1,0 +1,19 @@
+<Document id="0000698" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000238.htm">
+ 
+<Focus>Carotid artery surgery - discharge</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Carotid endarterectomy - discharge</Synonym>
+		<Synonym>CEA - discharge</Synonym>
+		<Synonym>Percutaneous transluminal angioplasty - carotid artery - discharge</Synonym>
+		<Synonym>PTA - carotid artery - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000698-1" qtype="information">Do you have information about Carotid artery surgery - discharge</Question>
+			<Answer>The carotid artery brings needed blood to your brain and face. You have one of these arteries on each side of your neck. Carotid artery surgery is a procedure to restore proper blood flow to the brain.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

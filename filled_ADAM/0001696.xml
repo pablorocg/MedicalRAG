@@ -1,0 +1,33 @@
+<Document id="0001696" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000165.htm">
+ 
+<Focus>Gastrostomy feeding tube - bolus</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0743845</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Feeding - gastrostomy tube - bolus</Synonym>
+		<Synonym>G-tube - bolus</Synonym>
+		<Synonym>Gastrostomy button - bolus</Synonym>
+		<Synonym>Bard Button - bolus</Synonym>
+		<Synonym>MIC-KEY - bolus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001696-1" qtype="information">What is (are) Gastrostomy feeding tube - bolus ?</Question>
+			<Answer>Your child's gastrostomy tube (G-tube) is a special tube in your child's stomach that will help deliver food and medicines until your child can chew and swallow. This article will tell you what you need to know to feed your child through the tube.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001696-8" qtype="when to contact a medical professional">Do I need to see a doctor for Gastrostomy feeding tube - bolus ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

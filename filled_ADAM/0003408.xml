@@ -1,0 +1,54 @@
+<Document id="0003408" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000473.htm">
+ 
+<Focus>Rhabdomyolysis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0035410</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003408-1" qtype="information">What is (are) Rhabdomyolysis ?</Question>
+			<Answer>Rhabdomyolysis is the breakdown of muscle tissue that leads to the release of muscle fiber contents into the blood. These substances are harmful to the kidney and often cause kidney damage.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003408-2" qtype="causes">What causes Rhabdomyolysis ?</Question>
+			<Answer>When muscle is damaged, a protein called myoglobin is released into the bloodstream. It is then filtered out of the body by the kidneys. Myoglobin breaks down into substances that can damage kidney cells. Rhabdomyolysis may be caused by injury or any other condition that damages skeletal muscle. Problems that may lead to this disease include: Trauma or crush injuries, Use of drugs or medicines such as  cocaine , amphetamines, statins,  heroin , or PCP, Genetic muscle diseases, Extremes of body temperature, Ischemia or death of muscle tissue, Low phosphate levels,  Seizures  or muscle tremors, Severe exertion, such as marathon running or calisthenics, Lengthy surgical procedures, Severe dehydration , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003408-3" qtype="symptoms">What are the symptoms of Rhabdomyolysis ?</Question>
+			<Answer>Symptoms may include: Dark, red, or cola-colored urine, Decreased urine output, General weakness, Muscle stiffness or aching ( myalgia ), Muscle tenderness,  Weakness  of the affected muscles ,  Other symptoms that may occur with this disease: Fatigue ,  Joint pain ,  Seizures ,  Weight gain (unintentional) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003408-4" qtype="exams and tests">How to diagnose Rhabdomyolysis ?</Question>
+			<Answer>A physical exam will show tender or damaged skeletal muscles. The following tests may be done: Creatine kinase  (CK) level, Serum calcium,  Serum myoglobin ,  Serum potassium ,  Urinalysis ,  Urine myoglobin  test ,  This disease may also affect the results of the following tests: CK isoenzymes ,  Serum creatinine ,  Urine creatinine , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003408-5" qtype="treatment">What are the treatments for Rhabdomyolysis ?</Question>
+			<Answer>You will need to get fluids containing bicarbonate to help prevent kidney damage. You may need to get fluids through a vein (IV). Some people may need kidney dialysis. Your health care provider may prescribe medicines including diuretics and bicarbonate (if there is enough urine output). Hyperkalemia  and low blood calcium levels (hypocalcemia) should be treated right away.  Kidney failure  should also be treated.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003408-6" qtype="outlook">What is the outlook for Rhabdomyolysis ?</Question>
+			<Answer>The outcome depends on the amount of  kidney damage . Acute kidney failure occurs in many people. Getting treated soon after rhabdomyolysis will reduce the risk of permanent kidney damage. People with milder cases may return to their normal activities within a few weeks to a month. However, some people continue to have problems with fatigue and muscle pain.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003408-7" qtype="complications">What are the complications of Rhabdomyolysis ?</Question>
+			<Answer>Complications may include: Acute tubular necrosis ,  Acute renal failure , Harmful chemical imbalances in the blood,  Shock  (low blood pressure) , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003408-8" qtype="when to contact a medical professional">Do I need to see a doctor for Rhabdomyolysis ?</Question>
+			<Answer>Contact your provider if you have symptoms of rhabdomyolysis.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003408-9" qtype="prevention">How to prevent Rhabdomyolysis ?</Question>
+			<Answer>Rhabdomyolysis can be avoided by: Avoiding drugs or medicines that may cause rhabdomyolysis., Drinking plenty of fluids after strenuous exercise., Removing extra clothes and immersing the body in cold water in case of heat stroke., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

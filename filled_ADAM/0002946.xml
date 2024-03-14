@@ -1,0 +1,53 @@
+<Document id="0002946" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000938.htm">
+ 
+<Focus>Paranoid personality disorder</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0030477</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Personality disorder - paranoid</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002946-1" qtype="information">What is (are) Paranoid personality disorder ?</Question>
+			<Answer>Paranoid personality disorder (PPD) is a mental condition in which a person has a long-term pattern of distrust and suspicion of others. The person does not have a full-blown  psychotic  disorder, such as  schizophrenia .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002946-2" qtype="causes">What causes Paranoid personality disorder ?</Question>
+			<Answer>Causes of PPD are unknown. PPD seems to be more common in families with psychotic disorders, such as schizophrenia and delusional disorder. This suggests genes may be involved. Other factors may play a role as well. PPD seems to be more common in men.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002946-3" qtype="symptoms">What are the symptoms of Paranoid personality disorder ?</Question>
+			<Answer>People with PPD are very suspicious of other people. As a result, they severely limit their social lives. They often feel that they are in danger and look for evidence to support their suspicions. They have trouble seeing that their distrust is out of proportion to their environment. Common symptoms include: Concern that other people have hidden motives, Thinking that they will be exploited (used) or harmed by others, Not able to work together with others, Social isolation, Detachment, Hostility, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002946-4" qtype="exams and tests">How to diagnose Paranoid personality disorder ?</Question>
+			<Answer>PPD is diagnosed based on a psychological evaluation. The health care provider will consider how long and how severe the person's symptoms are.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002946-5" qtype="treatment">What are the treatments for Paranoid personality disorder ?</Question>
+			<Answer>Treatment is difficult because people with PPD are often very suspicious of providers. If treatment is accepted, talk therapy and medicines can often be effective.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002946-6" qtype="outlook">What is the outlook for Paranoid personality disorder ?</Question>
+			<Answer>Outlook usually depends on whether the person is willing to accept help. Talk therapy and medicines can sometimes reduce paranoia and limit its impact on the person's daily functioning.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002946-7" qtype="complications">What are the complications of Paranoid personality disorder ?</Question>
+			<Answer>Complications may include: Extreme social isolation, Problems with school or work , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002946-8" qtype="when to contact a medical professional">Do I need to see a doctor for Paranoid personality disorder ?</Question>
+			<Answer>See a provider or mental health professional if suspicions are interfering with your relationships or work.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

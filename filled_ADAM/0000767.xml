@@ -1,0 +1,59 @@
+<Document id="0000767" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001312.htm">
+ 
+<Focus>Chediak-Higashi syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+			<CUI>C0007965</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000767-1" qtype="information">What is (are) Chediak-Higashi syndrome ?</Question>
+			<Answer>Chediak-Higashi syndrome is a rare disease of the immune and nervous systems. It involves pale-colored hair, eyes, and skin.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000767-2" qtype="causes">What causes Chediak-Higashi syndrome ?</Question>
+			<Answer>Chediak-Higashi syndrome is passed down through families (inherited). It is an  autosomal recessive  disease. This means that both parents are carriers of a non-working copy of the gene. Each parent must pass their non-working gene to the child for them to show symptoms of the disease. Defects have been found in the  LYST  (also called  CHS1 ) gene. The primary defect in this disease is found in certain substances normally present in skin cells and certain white blood cells.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000767-3" qtype="symptoms">What are the symptoms of Chediak-Higashi syndrome ?</Question>
+			<Answer>Children with this condition may have: Silver hair, light-colored eyes (albinism), Increased infections in the lungs, skin, and mucous membranes, Jerky eye movements ( nystagmus ),  Infection of affected children with certain viruses, such as Epstein-Barr virus ( EBV ), can cause a life-threatening illness resembling the blood cancer  lymphoma  called hemophagocytic lymphohistiocytosis. Other symptoms may include: Decreased vision, Intellectual disability, Muscle weakness, Nerve problems in the limbs ( peripheral neuropathy ), Nosebleeds or easy bruising, Numbness, Tremor, Seizures, Sensitivity to bright light (photophobia), Unsteady walking ( ataxia ), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000767-4" qtype="exams and tests">How to diagnose Chediak-Higashi syndrome ?</Question>
+			<Answer>Your health care provider will perform a physical exam. This may show signs of a swollen spleen or liver or jaundice. Tests that may be done include: Complete blood count, including white blood cell count, Blood platelet count, Blood culture and smear, Brain MRI or CT, EEG, EMG, Nerve conduction tests, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000767-5" qtype="treatment">What are the treatments for Chediak-Higashi syndrome ?</Question>
+			<Answer>There is no specific treatment for Chediak-Higashi syndrome. High doses of vitamin C may help some children whose condition is in the stable phase. Hematopoietic stem cells appear to have been successful in several patients. Antibiotics are used to treat and, sometimes, prevent infections. Antiviral drugs, such as acyclovir, and chemotherapy drugs are often used in the accelerated phase of the disease. Blood and platelet transfusions are given as needed. Surgery may be needed to drain  abscesses  in some cases. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000767-6" qtype="support groups">Where to find support for people with Chediak-Higashi syndrome ?</Question>
+			<Answer>More information and support for people with Chediak-Higashi syndrome and their families can be found at: National Organization for Rare Disorders (NORD) --  rarediseases.org/rare-diseases/chediak-higashi-syndrome/ , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000767-7" qtype="outlook">What is the outlook for Chediak-Higashi syndrome ?</Question>
+			<Answer>Death often occurs in the first 10 years of life, from long-term (chronic) infections or accelerated disease that results in the lymphoma-like illness (hemophagocytic lymphohistiocytosis). However, some affected children have survived longer.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000767-8" qtype="complications">What are the complications of Chediak-Higashi syndrome ?</Question>
+			<Answer>Complications may include: Frequent infections involving certain types of bacteria, Lymphoma-like cancer triggered by viral infections such as EBV, Early death, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000767-9" qtype="when to contact a medical professional">Do I need to see a doctor for Chediak-Higashi syndrome ?</Question>
+			<Answer>Contact your provider if you have a family history of this disorder and you are planning to have children. Talk to your provider if your child shows symptoms of Chediak-Higashi syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0000767-10" qtype="prevention">How to prevent Chediak-Higashi syndrome ?</Question>
+			<Answer>Genetic counseling is recommended before becoming pregnant if you have a family history of Chediak-Higashi syndrome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

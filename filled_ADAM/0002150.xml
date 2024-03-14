@@ -1,0 +1,13 @@
+<Document id="0002150" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003593.htm">
+ 
+<Focus>Immunofixation -- urine</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002150-1" qtype="information">Do you have information about Immunofixation -- urine</Question>
+			<Answer>Urine immunofixation is a test to look for abnormal proteins in urine.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

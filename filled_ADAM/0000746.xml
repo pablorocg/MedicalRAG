@@ -1,0 +1,29 @@
+<Document id="0000746" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000419.htm">
+ 
+<Focus>Cervical cancer - screening and prevention</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007847</CUI>
+			<CUI>C1409616</CUI>
+			<CUI>C0302592</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000746-1" qtype="information">What is (are) Cervical cancer - screening and prevention ?</Question>
+			<Answer>Cervical cancer  is a cancer that starts in the cervix. The cervix is the lower part of the uterus (womb) that opens at the top of the vagina. There is a lot you can do to decrease your chance of having cervical cancer. Also, your health care provider can do tests to find early changes that may lead to cancer, or to find cervical cancer in the early stages.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000746-3" qtype="prevention">How to prevent Cervical cancer - screening and prevention ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

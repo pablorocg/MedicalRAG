@@ -1,0 +1,33 @@
+<Document id="0001285" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000293.htm">
+ 
+<Focus>Drug-induced diarrhea</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1996989</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Diarrhea associated with medications</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001285-1" qtype="information">What is (are) Drug-induced diarrhea ?</Question>
+			<Answer>Drug-induced  diarrhea  is loose, watery stools that occurs when you take certain medicines.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001285-2" qtype="causes">What causes Drug-induced diarrhea ?</Question>
+			<Answer>Nearly all medicines may cause diarrhea as a side effect. The drugs listed below, however, are more likely to cause diarrhea. Laxatives are meant to cause diarrhea. They work either by drawing water into the gut or by causing the muscles of the intestines to contract. , However, taking too much of a laxative can cause diarrhea that is a problem.,  Antacids that have magnesium in them may also cause diarrhea or make it worse. Antibiotics also can produce diarrhea. Normally, the intestines have many different bacteria. They keep each other in balance. Antibiotics destroy some of these bacteria, which allow other types to grow too much., In some cases, antibiotics can allow a type of bacteria called  Clostridioides difficile  to grow too much. This can lead to severe, watery, and often bloody diarrhea called pseudomembranous colitis. ,  Many other drugs may cause diarrhea: Chemotherapy medicines used to treat cancer., Drugs used to treat heartburn and stomach ulcers, such as omeprazole (Prilosec), esomeprazole (Nexium), lansoprazole (Prevacid), rabeprazole (Aciphex), pantoprazole (Protonix), cimetidine (Tagamet), ranitidine (Zantac), and nizatidine (Axid). This is uncommon., Medicines that suppress the immune system (such as mycophenolate)., Nonsteroidal anti-inflammatory drugs (NSAIDs) used to treat pain and arthritis, such as ibuprofen and naproxen., Metformin used to treat diabetes.,  Some herbal teas contain senna or other "natural" laxatives that can cause diarrhea. Other vitamins, minerals, or supplements may also cause diarrhea.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001285-3" qtype="prevention">How to prevent Drug-induced diarrhea ?</Question>
+			<Answer>To prevent diarrhea due to antibiotic use, talk to your health care provider about taking supplements containing healthy bacteria (probiotics) and/or eating yogurt. Some of these products may reduce the risk for diarrhea. Keep taking these supplements for a few days after you finish your antibiotics.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

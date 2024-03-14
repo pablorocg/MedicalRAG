@@ -1,0 +1,49 @@
+<Document id="0003756" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003051.htm">
+ 
+<Focus>Stuffy or runny nose - children</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1260880</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Nose - congested</Synonym>
+		<Synonym>Congested nose</Synonym>
+		<Synonym>Runny nose</Synonym>
+		<Synonym>Postnasal drip</Synonym>
+		<Synonym>Rhinorrhea</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003756-1" qtype="information">What is (are) Stuffy or runny nose - children ?</Question>
+			<Answer>A stuffy or congested nose occurs when the tissues lining the nose become swollen. The swelling is due to inflamed blood vessels.  The problem may also include nasal discharge or "runny nose." If excess mucus runs down the back of the throat (postnasal drip), it may cause a cough or sore throat.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003756-2" qtype="considerations">What to do for Stuffy or runny nose - children ?</Question>
+			<Answer>Most of the time, nasal congestion in older children and adolescents is not serious by itself, but can cause other problems.  When nasal stuffiness is just on one side, the child may have inserted something into the nose.  Nasal congestion can interfere with the ears, hearing, and speech development. Congestion that is very bad may interfere with sleep. The mucous drainage may plug up the eustachian tube between the nose and the ear, causing an  ear infection  and pain. The mucous drip may also plug the sinus passages, causing  sinus infection  and pain.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003756-3" qtype="causes">What causes Stuffy or runny nose - children ?</Question>
+			<Answer>A stuffy or runny nose may be caused by:  Common cold ,  Flu , Sinus infection,  The congestion typically goes away by itself within a week.  Congestion also can be caused by:  Hay fever or other  allergies , Use of some nasal sprays or drops bought without a prescription for more than 3 days (may make nasal stuffiness worse) , Nasal polyps, sac-like growths of inflamed tissue lining the nose or sinuses, Pregnancy , Vasomotor rhinitis, Small objects in the nostril, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003756-4" qtype="considerations">What to do for Stuffy or runny nose - children ?</Question>
+			<Answer>Most of the time, nasal congestion in older children and adolescents is not serious by itself, but can cause other problems.  When nasal stuffiness is just on one side, the child may have inserted something into the nose.  Nasal congestion can interfere with the ears, hearing, and speech development. Congestion that is very bad may interfere with sleep. The mucous drainage may plug up the eustachian tube between the nose and the ear, causing an  ear infection  and pain. The mucous drip may also plug the sinus passages, causing  sinus infection  and pain.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003756-5" qtype="when to contact a medical professional">Do I need to see a doctor for Stuffy or runny nose - children ?</Question>
+			<Answer>Contact the provider if your child has any of the following: A stuffy nose with swelling of the forehead, eyes, side of the nose, or cheek, or that occurs with blurred vision , More throat pain, or white or yellow spots on the tonsils or other parts of the throat, Discharge from the nose that has a bad smell, comes from only one side, or is a color other than white or yellow, Cough that lasts longer than 10 days, or produces yellow-green or gray mucus, Symptoms that last more than 3 weeks , Nasal discharge with fever, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003756-6" qtype="outlook">What is the outlook for Stuffy or runny nose - children ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

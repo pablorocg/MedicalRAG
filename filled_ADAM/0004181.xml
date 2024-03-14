@@ -1,0 +1,26 @@
+<Document id="0004181" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002142.htm">
+ 
+<Focus>Vaginal dryness alternative treatments</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0241633</CUI>
+			<CUI>C1963268</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Alternative treatments for vaginal dryness</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004181-1" qtype="information">What is (are) Vaginal dryness alternative treatments ?</Question>
+			<Answer>Question:  Is there a drug-free treatment for vaginal dryness?  Answer:  There are many causes of  vaginal dryness . It may be caused by reduced estrogen level, infection, medicines, and other things. Before treating yourself, talk to your health care provider.  Water-based lubricants and vaginal moisturizers work very well. Lubricants will moisten the vaginal opening and lining for several hours. The effects of a vaginal cream can last for up to a day. There are several prescription non-estrogen creams available to treat vaginal dryness that have been shown to be effective. If the usual remedies are not effective, ask your provider to discuss them with you. Soybeans contain plant-based substances called isoflavones. These substances have an effect on the body that is similar to estrogen, but weaker. Therefore, a diet rich in soy foods may improve symptoms of vaginal dryness. There continues to be research in this area. The ideal sources or dose is not known. Soy foods include tofu, soy milk, and whole soybeans (also called edamame). Some women report that creams containing wild yam help with vaginal dryness. However, there is no good research supporting this report. Extracts of wild yam have not been found to have estrogen- or progesterone-like activities. Some of the products may have synthetic medroxyprogesterone acetate (MPA) added. MPA is a derivative of progesterone and is also used in oral contraceptives. Like all supplements, MPA-containing products should be used with caution. Some women use black cohosh as a dietary supplement to relieve menopausal symptoms. However, it is not known if this herb helps with vaginal dryness.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

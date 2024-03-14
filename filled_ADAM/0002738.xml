@@ -1,0 +1,33 @@
+<Document id="0002738" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001916.htm">
+ 
+<Focus>Nasal CPAP</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Continuous positive airway pressure</Synonym>
+		<Synonym>CPAP</Synonym>
+		<Synonym>Bilevel positive airway pressure</Synonym>
+		<Synonym>BiPAP</Synonym>
+		<Synonym>Autotitrating positive airway pressure</Synonym>
+		<Synonym>APAP</Synonym>
+		<Synonym>nCPAP</Synonym>
+		<Synonym>Non-invasive positive pressure ventilation</Synonym>
+		<Synonym>NIPPV</Synonym>
+		<Synonym>Non-invasive ventilation</Synonym>
+		<Synonym>NIV</Synonym>
+		<Synonym>OSA - CPAP</Synonym>
+		<Synonym>Obstructive sleep apnea - CPAP</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002738-1" qtype="information">Do you have information about Nasal CPAP</Question>
+			<Answer>WHO SHOULD USE PAP
+ PAP can successfully treat most people with obstructive sleep apnea. It is safe and works well for people of all ages, including children. If you only have mild sleep apnea and do not feel very sleepy during the day, you may not need it. After using PAP regularly, you may notice: Better concentration and memory, Feeling more alert and less sleepy during the day, Improved sleep for your bed partner, Being more productive at work, Less anxiety and depression and a better mood, Normal sleep patterns, Lower blood pressure (in people with high blood pressure) ,  Your health care provider will prescribe the type of PAP machine that targets your problem: Continuous positive airway pressure (CPAP) provides a gentle and steady pressure of air in your airway to keep it open., Autotitrating (adjustable) positive airway pressure (APAP) changes pressure throughout the night, based on your breathing patterns., Bilevel positive airway pressure (BiPAP or BIPAP) has a higher pressure when you breathe in and lower pressure when you breathe out. ,  BiPAP is useful for children and adults who have: Airways that collapse while sleeping, making it hard to breathe freely, Decreased air exchange in the lung, Muscle weakness that makes it difficult to breathe, due to conditions such as  muscular dystrophy ,  PAP or BiPAP may also be used by people who have: Respiratory failure ,  Central sleep apnea ,  Chronic obstructive pulmonary disease (COPD) ,  Heart failure ,  
+HOW PAP WORKS
+ When using a PAP setup: You wear a mask over your nose or nose and mouth while you sleep., The mask is connected by a hose to a small machine that sits at the side of your bed., The machine pumps air under pressure through the hose and mask and into your airway while you sleep. This helps keep your airway open. ,  You may start to use PAP while you are in a  sleep center  for the night. Some newer machines (self-adjusting or auto-PAP), may be set up for you and then just given to you to sleep with at home, without the need for a test to adjust the pressures. Your provider will help choose the mask that fits you best., They will adjust the settings on the machine while you are asleep., The settings will be adjusted based on the severity of your sleep apnea. ,  If your symptoms don't improve after you're on PAP treatment, the settings on the machine may need to be changed. Your provider may teach you how to adjust the settings at home. Or, you may need to go to the sleep center to have it adjusted. 
+GETTING USED TO THE MACHINE
+ It can take time to get used to using the PAP setup. The first few nights are often the hardest and you may not sleep well. If you are having problems, you may be tempted not to use the machine for the whole night. But you will get used to it more quickly if you use the machine for the entire night. When using the setup for the first time, you may have: A feeling of being closed in (claustrophobia), Chest muscle discomfort, which often goes away after awhile, Eye irritation, Redness and sores over the bridge of your nose, Runny or stuffed-up nose, Sore or dry mouth, Nosebleeds, Upper respiratory infections ,  Many of these problems can be helped or prevented. Ask your provider about using a mask that is lightweight and cushioned. Some masks are used only around or inside the nostrils., Make sure the mask fits correctly so that it does not leak air. It should not be too tight or too loose., Try nasal salt water sprays for a stuffy nose., Use a humidifier to help with dry skin or nasal passages., Keep your equipment clean., Place your machine underneath your bed to limit noise., Most machines are quiet, but if you notice sounds that make it hard to sleep, tell your provider. ,  Your provider can lower the pressure on the machine and then increase it again at a slow pace. Some new machines can automatically adjust to the right pressure.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

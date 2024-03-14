@@ -1,0 +1,57 @@
+<Document id="0001152" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001480.htm">
+ 
+<Focus>Dermatitis herpetiformis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011608</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Duhring disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001152-1" qtype="information">What is (are) Dermatitis herpetiformis ?</Question>
+			<Answer>Dermatitis herpetiformis (DH) is a very itchy rash consisting of bumps and  blisters . The rash is chronic (long-term).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001152-2" qtype="causes">What causes Dermatitis herpetiformis ?</Question>
+			<Answer>DH usually begins in people age 20 and older. Children can sometimes be affected. It is seen in both men and women. The exact cause is unknown. Despite the name, it is not related to the herpes virus. DH is an  autoimmune disorder . There is a strong link between DH and  celiac disease . Celiac disease is an autoimmune disorder that causes inflammation in the small intestine from eating gluten. People with DH also have a sensitivity to gluten, which causes the skin rash. About 25% of people with celiac disease also have DH.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001152-3" qtype="symptoms">What are the symptoms of Dermatitis herpetiformis ?</Question>
+			<Answer>Symptoms include: Extremely itchy bumps or blisters, most often on the elbows, knees, back, and buttocks., Rashes that are usually the same size and shape on both sides., The rash can look like  eczema ., Scratch marks and skin erosions instead of blisters in some people.,  Most people with DH have damage to their intestines from eating gluten. But only some have intestinal symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001152-4" qtype="exams and tests">How to diagnose Dermatitis herpetiformis ?</Question>
+			<Answer>In most cases, a  skin biopsy  and direct immunofluorescence test of the skin are performed. The health care provider may also recommend a  biopsy  of the intestines. Blood tests may be ordered to support the diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001152-5" qtype="treatment">What are the treatments for Dermatitis herpetiformis ?</Question>
+			<Answer>An antibiotic called dapsone is very effective. A strict  gluten-free diet  will also be recommended to help control the disease. Sticking to this diet may eliminate the need for medicines and prevent later complications. Medicines that suppress the immune system may be used, but are less effective.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001152-6" qtype="outlook">What is the outlook for Dermatitis herpetiformis ?</Question>
+			<Answer>The disease may be well-controlled with treatment. Without treatment, there may be a significant risk of intestinal cancer.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001152-7" qtype="complications">What are the complications of Dermatitis herpetiformis ?</Question>
+			<Answer>Complications may include: Autoimmune thyroid disease, Develop certain cancers, especially lymphomas of the intestines, Side effects of the drugs used to treat DH , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001152-8" qtype="when to contact a medical professional">Do I need to see a doctor for Dermatitis herpetiformis ?</Question>
+			<Answer>Call your provider if you have a rash that continues despite treatment.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001152-9" qtype="prevention">How to prevent Dermatitis herpetiformis ?</Question>
+			<Answer>There is no known prevention of this disease. People with this condition may be able to prevent complications by avoiding foods that contain gluten.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

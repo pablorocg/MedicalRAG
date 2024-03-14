@@ -1,0 +1,41 @@
+<Document id="0002203" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003322.htm">
+ 
+<Focus>Intercostal retractions</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0425470</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Retractions of the chest muscles</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002203-1" qtype="information">What is (are) Intercostal retractions ?</Question>
+			<Answer>Intercostal retractions occur when the muscles between the ribs pull inward. The movement is most often a sign that the person has a breathing problem. Intercostal retractions are a medical emergency. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002203-2" qtype="considerations">What to do for Intercostal retractions ?</Question>
+			<Answer>The wall of your chest is flexible. This helps you breathe&#160;normally. Stiff tissue called cartilage attaches your ribs to the breast bone (sternum).  The intercostal muscles are the muscles between the ribs. During breathing, these muscles normally tighten and pull the rib cage up. Your chest expands and the lungs fill with air. Intercostal retractions are due to reduced air pressure inside your chest. This can happen if the upper airway (trachea) or small airways of the lungs (bronchioles) become partially blocked. As a result, the intercostal muscles are sucked inward, between the ribs, when you breathe. This is a sign of a  blocked airway . Any health problem that causes a blockage in the airway&#160;will cause intercostal retractions.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002203-3" qtype="causes">What causes Intercostal retractions ?</Question>
+			<Answer>Intercostal retractions may be caused by: A severe, whole-body allergic reaction called  anaphylaxis ,  Asthma , Swelling and mucus buildup in the smallest air passages in the lungs ( bronchiolitis ), Problem breathing and a barking cough ( croup ), Inflammation of the tissue ( epiglottis ) that covers the windpipe, Foreign body in the windpipe,  Pneumonia , A lung problem in newborns called  respiratory distress syndrome , Collection of pus in the tissues in the back of the throat ( retropharyngeal abscess ), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002203-4" qtype="when to contact a medical professional">Do I need to see a doctor for Intercostal retractions ?</Question>
+			<Answer>Seek medical help right away if intercostal retractions occur. This can be a sign of a blocked airway, which can quickly become life threatening. Also seek medical care if the skin, lips, or nailbeds turn blue, or if the person becomes confused, drowsy, or is hard to wake up.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002203-5" qtype="outlook">What is the outlook for Intercostal retractions ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

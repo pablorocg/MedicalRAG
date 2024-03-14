@@ -1,0 +1,16 @@
+<Document id="0003789" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000145.htm">
+ 
+<Focus>Suprapubic catheter care</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>SPT</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003789-1" qtype="information">Do you have information about Suprapubic catheter care</Question>
+			<Answer>A suprapubic catheter (tube) drains urine from your bladder. It is inserted into your bladder through a small hole in your lower belly. You may need a catheter because you have urinary incontinence (leakage), urinary retention (not being able to urinate), surgery that made a catheter necessary, or another health problem.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

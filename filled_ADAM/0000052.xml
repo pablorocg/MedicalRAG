@@ -1,0 +1,20 @@
+<Document id="0000052" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003368.htm">
+ 
+<Focus>Acid mucopolysaccharides</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>AMP</Synonym>
+		<Synonym>Dermatan sulfate - urine</Synonym>
+		<Synonym>Urine heparan sulfate</Synonym>
+		<Synonym>Urine dermatan sulfate</Synonym>
+		<Synonym>Heparan sulfate - urine</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000052-1" qtype="information">Do you have information about Acid mucopolysaccharides</Question>
+			<Answer>Acid mucopolysaccharides is a test that measures the amount of  mucopolysaccharides  released into the urine either&#160;during&#160;one episode or over a 24-hour period. Mucopolysaccharides are long chains of sugar molecules in the body. They are often found in mucus and in fluid around the joints.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,17 @@
+<Document id="0000257" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003537.htm">
+ 
+<Focus>Anti-DNase B blood test</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Antideoxyribonuclease B titer</Synonym>
+		<Synonym>ADN-B test</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000257-1" qtype="information">Do you have information about Anti-DNase B blood test</Question>
+			<Answer>Anti-DNase B is a blood test to look for antibodies to a substance (protein) produced by group A streptococcus .  This is the bacteria that cause  strep throat . When used together with the  ASO titer test , more than 90% of past streptococcal infections can be identified.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,60 @@
+<Document id="0002769" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007303.htm">
+ 
+<Focus>Neonatal sepsis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3665339</CUI>
+			<CUI>C0456103</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sepsis neonatorum</Synonym>
+		<Synonym>Neonatal septicemia</Synonym>
+		<Synonym>Sepsis - infant</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002769-1" qtype="information">What is (are) Neonatal sepsis ?</Question>
+			<Answer>Neonatal sepsis is a blood infection that occurs in an infant younger than 90 days old. Early-onset sepsis is seen in the first week of life. Late onset sepsis occurs after 1 week through 3 months of age. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002769-2" qtype="causes">What causes Neonatal sepsis ?</Question>
+			<Answer>Neonatal sepsis can be caused by bacteria such as  Escherichia coli  ( E coli ),  Listeria , and some strains of streptococcus.  Group B streptococcus (GBS)  has been a major cause of neonatal sepsis. However, this problem has become less common because women are screened for GBS during pregnancy. The  herpes simplex virus  (HSV) can also cause a severe infection in a newborn baby. This happens most often when the mother is newly infected with HSV.  Early-onset neonatal sepsis most often appears within 24 to 48 hours of birth. The baby gets the infection from the mother before or during delivery. The following increase an infant's risk of early-onset bacterial sepsis: GBS colonization during pregnancy, Preterm delivery, Water breaking (rupture of membranes) longer than 18 hours before birth, Infection of the placenta tissues and amniotic fluid (chorioamnionitis) ,  Babies with late-onset neonatal sepsis are infected after delivery. The following increase an infant's risk for sepsis after delivery: Having a catheter in a blood vessel for a long time, Staying in the hospital for an extended period of time , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002769-3" qtype="symptoms">What are the symptoms of Neonatal sepsis ?</Question>
+			<Answer>Infants with neonatal sepsis may have the following symptoms: Body temperature changes, Breathing problems, Diarrhea or decreased bowel movements, Low blood sugar, Reduced movements, Reduced sucking, Seizures, Slow or fast heart rate, Swollen belly area, Vomiting, Yellow skin and whites of the eyes (jaundice) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002769-4" qtype="exams and tests">How to diagnose Neonatal sepsis ?</Question>
+			<Answer>Lab tests can help diagnose neonatal sepsis and identify the cause of the infection. Blood tests may include: Blood culture, C-reactive protein, Complete blood count (CBC) ,  If a baby has symptoms of sepsis, a lumbar puncture (spinal tap) will be done to look at the spinal fluid for bacteria. Skin, stool, and urine cultures may be done for HSV, especially if the mother has a history of HSV infection. A chest x-ray will be done if the baby has a cough or problems breathing. Urine culture tests are done in babies older than a few days. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002769-5" qtype="treatment">What are the treatments for Neonatal sepsis ?</Question>
+			<Answer>Babies younger than 4 weeks old who have fever or other signs of infection are started on intravenous (IV) antibiotics right away. (It may take 24 to 72 hours to get lab results.) Newborns whose mothers had chorioamnionitis or who may be at high risk for other reasons will also get IV antibiotics at first, even if they have no symptoms. The baby will get antibiotics for up to 3 weeks if bacteria are found in the blood or spinal fluid. Treatment will be shorter if no bacteria are found.  An antiviral medicine called acyclovir will be used for infections that may be caused by HSV. Older babies who have normal lab results and have only a fever may not be given antibiotics. Instead, the child may be able to leave the hospital and come back for checkups. Babies who need treatment and have already gone home after birth will most often be admitted to the hospital for monitoring.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002769-6" qtype="outlook">What is the outlook for Neonatal sepsis ?</Question>
+			<Answer>Many babies with bacterial infections will recover completely and have no other problems. However, neonatal sepsis is a leading cause of infant death. The more quickly an infant gets treatment, the better the outcome.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002769-7" qtype="complications">What are the complications of Neonatal sepsis ?</Question>
+			<Answer>Complications may include: Disability , Death , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002769-8" qtype="when to contact a medical professional">Do I need to see a doctor for Neonatal sepsis ?</Question>
+			<Answer>Seek medical help right away for an infant that shows symptoms of neonatal sepsis.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002769-9" qtype="prevention">How to prevent Neonatal sepsis ?</Question>
+			<Answer>Pregnant women may need preventive antibiotics if they have: Chorioamnionitis, Group B strep colonization, Given birth in the past to a baby with sepsis caused by bacteria ,  Other things that can help prevent sepsis include: Preventing and treating infections in mothers, including HSV, Providing a clean place for birth, Delivering the baby within 12 to 24 hours of when the membranes break (Cesarean delivery should be done in women within 4 to 6 hours or sooner of membranes breaking.) , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

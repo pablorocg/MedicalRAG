@@ -1,0 +1,58 @@
+<Document id="0001698" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000564.htm">
+ 
+<Focus>Gaucher disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017205</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Glucocerebrosidase deficiency</Synonym>
+		<Synonym>Glucosylceramidase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001698-1" qtype="information">What is (are) Gaucher disease ?</Question>
+			<Answer>Gaucher disease is a rare genetic disorder in which a person lacks an enzyme called glucocerebrosidase (GBA).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001698-2" qtype="causes">What causes Gaucher disease ?</Question>
+			<Answer>Gaucher disease is rare in the general population. People of Eastern and Central European (Ashkenazi) Jewish heritage are more likely to have this disease. It is an  autosomal recessive  disease. This means that the mother and father must both pass&#160;one abnormal copy of the disease gene to their child in order for the child to develop the disease. A parent who carries an abnormal copy of the gene but doesn't have the disease is called a silent carrier. The lack of the GBA causes harmful substances to build up in the liver, spleen, bones, and bone marrow. These substances prevent cells and organs from working properly. There are three main subtypes of Gaucher disease: Type 1 is most common. It involves bone disease, anemia, an enlarged spleen and low platelets (thrombocytopenia). Type 1 affects both children and adults. It is most common in the Ashkenazi Jewish population., Type 2 usually begins in infancy with severe neurologic involvement. This form can lead to rapid, early death., Type 3 may cause liver, spleen, and brain problems.&#160;People with this type&#160;may live into adulthood. , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001698-3" qtype="symptoms">What are the symptoms of Gaucher disease ?</Question>
+			<Answer>Bleeding because of low platelet count is the most common symptom seen in Gaucher disease. Other symptoms may include: Bone pain  and fractures, Cognitive impairment (decreased thinking ability), Easy bruising,  Enlarged spleen ,  Enlarged liver ,  Fatigue , Heart valve problems, Lung disease (rare), Seizures, Severe  swelling &#160;at birth, Skin changes, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001698-4" qtype="exams and tests">How to diagnose Gaucher disease ?</Question>
+			<Answer>The health care provider will perform a physical exam and ask about the symptoms. The following tests may be done: Blood test to look for enzyme activity,  Bone marrow aspiration ,  MRI ,  CT ,  X-ray of the skeleton , Genetic testing, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001698-5" qtype="treatment">What are the treatments for Gaucher disease ?</Question>
+			<Answer>Gaucher disease can't be cured. But treatments can help control and may improve symptoms. Medicines may be given to: Replace the missing GBA (enzyme replacement therapy) to help reduce spleen size, bone pain, and improve thrombocytopenia., Limit production of fatty chemicals that build up in the body.,  Other treatments include: Medicines for pain, Surgery for bone and joint problems, or to remove the spleen, Blood transfusions&#160;, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001698-6" qtype="support groups">Where to find support for people with Gaucher disease ?</Question>
+			<Answer>These groups can provide more information on Gaucher disease: National Gaucher Foundation --  www.gaucherdisease.org , MedlinePlus - Gaucher disease.--&#160; medlineplus.gov/genetics/condition/gaucher-disease/ , National Organization for Rare Diseases -- rarediseases.org/rare-diseases/gaucher-disease  rarediseases.org/rare-diseases/gaucher-disease , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001698-7" qtype="outlook">What is the outlook for Gaucher disease ?</Question>
+			<Answer>How well a person does depends on their subtype of the disease. The infantile form of Gaucher disease (Type 2) may lead to early death. Most affected children die before age 5. Adults with the type 1 form of&#160;Gaucher disease can expect normal life expectancy with enzyme replacement therapy.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001698-8" qtype="complications">What are the complications of Gaucher disease ?</Question>
+			<Answer>Complications of Gaucher disease may include: Seizures ,  Anemia ,  Thrombocytopenia , Bone problems, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001698-9" qtype="prevention">How to prevent Gaucher disease ?</Question>
+			<Answer>Genetic counseling &#160;is recommended for prospective parents with a family history of Gaucher disease. Testing can determine if parents carry the gene that could pass on the Gaucher disease. A prenatal test can also tell if a baby in the womb has Gaucher syndrome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

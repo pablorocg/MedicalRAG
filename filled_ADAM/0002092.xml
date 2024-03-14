@@ -1,0 +1,49 @@
+<Document id="0002092" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003071.htm">
+ 
+<Focus>Hyperventilation</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020578</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Rapid deep breathing</Synonym>
+		<Synonym>Breathing - rapid and deep</Synonym>
+		<Synonym>Overbreathing</Synonym>
+		<Synonym>Fast deep breathing</Synonym>
+		<Synonym>Respiratory rate - rapid and deep</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002092-1" qtype="information">What is (are) Hyperventilation ?</Question>
+			<Answer>Hyperventilation is rapid and deep breathing. It is also called overbreathing, and it may leave you feeling breathless.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002092-2" qtype="considerations">What to do for Hyperventilation ?</Question>
+			<Answer>You breathe in oxygen and breathe out carbon dioxide. Excessive breathing creates a low level of carbon dioxide in your blood. This causes many of the symptoms of hyperventilation. You may hyperventilate from an emotional cause such as during a  panic  attack. Or, it can be due to a medical problem, such as bleeding or infection. Your health care provider will determine the cause of your hyperventilation. Rapid breathing may be a medical emergency and you need to get treated, unless you have had this before and your provider has told you that you can treat it on your own. If you frequently overbreathe, you may have a medical problem called hyperventilation syndrome. When you're overbreathing, you might not be aware you're breathing fast and deep. But you'll likely be aware of the other symptoms, including: Feeling lightheaded, dizzy, weak, or not able to think straight, Feeling as if you can't catch your breath, Chest pain or fast and pounding heartbeat, Belching or bloating, Dry mouth, Muscle spasms in the hands and feet, Numbness and tingling in the arms or around the mouth, Problems sleeping, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002092-3" qtype="causes">What causes Hyperventilation ?</Question>
+			<Answer>Emotional causes include: Anxiety  and nervousness, Panic attack, Situations where there is a psychological advantage in having a sudden, dramatic illness (for example,  somatization disorder ),  Stress ,  Medical causes include: Bleeding, Heart problem such as  heart failure  or heart attack, Drugs (such as an  aspirin overdose ), Infection such as  pneumonia  or  sepsis ,  Ketoacidosis  and other medical conditions causing excess acid production in the body, Lung disease such as  asthma ,  COPD , or  pulmonary embolism , Pregnancy, Severe pain,  Stimulant  medicines, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002092-4" qtype="considerations">What to do for Hyperventilation ?</Question>
+			<Answer>You breathe in oxygen and breathe out carbon dioxide. Excessive breathing creates a low level of carbon dioxide in your blood. This causes many of the symptoms of hyperventilation. You may hyperventilate from an emotional cause such as during a  panic  attack. Or, it can be due to a medical problem, such as bleeding or infection. Your health care provider will determine the cause of your hyperventilation. Rapid breathing may be a medical emergency and you need to get treated, unless you have had this before and your provider has told you that you can treat it on your own. If you frequently overbreathe, you may have a medical problem called hyperventilation syndrome. When you're overbreathing, you might not be aware you're breathing fast and deep. But you'll likely be aware of the other symptoms, including: Feeling lightheaded, dizzy, weak, or not able to think straight, Feeling as if you can't catch your breath, Chest pain or fast and pounding heartbeat, Belching or bloating, Dry mouth, Muscle spasms in the hands and feet, Numbness and tingling in the arms or around the mouth, Problems sleeping, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002092-5" qtype="when to contact a medical professional">Do I need to see a doctor for Hyperventilation ?</Question>
+			<Answer>Contact your provider if: You are having rapid breathing for the first time. This may be a medical emergency for which you should be taken to the emergency room right away., You are in pain, have a fever, or are bleeding., Your hyperventilation continues or gets worse, even with home treatment., You also have other symptoms., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002092-6" qtype="outlook">What is the outlook for Hyperventilation ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

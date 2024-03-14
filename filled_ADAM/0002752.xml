@@ -1,0 +1,59 @@
+<Document id="0002752" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001023.htm">
+ 
+<Focus>Nearsightedness</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027092</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Myopia</Synonym>
+		<Synonym>Shortsightedness</Synonym>
+		<Synonym>Refractive error - nearsightedness</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002752-1" qtype="information">What is (are) Nearsightedness ?</Question>
+			<Answer>Nearsightedness is when light entering the eye is focused incorrectly. This makes distant objects appear blurred. Nearsightedness is a type of refractive error of the eye. If you are nearsighted, you have trouble seeing things that are far away.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002752-2" qtype="causes">What causes Nearsightedness ?</Question>
+			<Answer>People are able to see because the front part of the eye bends (refracts) light and focuses it on the retina. This is the inside of the back surface of the eye. Nearsightedness occurs when there is a mismatch between the focusing power of the eye and the length of the eye. Light rays are focused in front of the retina, rather than directly on it. As a result, what you see is blurry. Most of the eye's focusing power comes from the cornea. Watch this video about: Seeing Nearsightedness affects males and females equally. People who have a family history of nearsightedness are more likely to develop it. Most eyes with nearsightedness are healthy. However, a small number of people with severe nearsightedness develop a form of retinal degeneration. The predominant wavelength of light in your environment may affect the development of myopia. Recent research suggests that more time outdoors may lead to less myopia.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002752-3" qtype="symptoms">What are the symptoms of Nearsightedness ?</Question>
+			<Answer>A nearsighted person sees close-up objects clearly, but objects in the distance are blurred. Squinting will tend to make far away objects seem clearer. Nearsightedness is often first noticed in school-aged children or teenagers. Children often cannot read the blackboard, but they can easily read a book. Nearsightedness gets worse during the growth years. People who are nearsighted may need to change glasses or contact lenses often. Nearsightedness most often stops progressing as a person stops growing in his or her early twenties. Other symptoms may include: Eyestrain,  Headaches  (uncommon) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002752-4" qtype="exams and tests">How to diagnose Nearsightedness ?</Question>
+			<Answer>A nearsighted person can easily read the Jaeger eye chart (the chart for near reading), but has trouble reading the Snellen eye chart (the chart for distance). A general eye exam, or  standard ophthalmic exam  may include: Eye pressure measurement ( tonometry ),  Refraction test , to determine the correct prescription for glasses, Retinal examination,  Slit-lamp exam  of the structures at the front of the eyes,  Test of color vision , to look for possible color blindness, Tests of the muscles that move the eyes, Visual acuity, both at a distance (Snellen), and close up (Jaeger) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002752-5" qtype="treatment">What are the treatments for Nearsightedness ?</Question>
+			<Answer>Wearing eyeglasses or contact lenses can help shift the focus of the light image directly onto the retina. This will produce a clearer image. The most common surgery to correct myopia is  LASIK . An excimer laser is used to reshape (flatten) the cornea, shifting the focus. A newer type of laser refractive surgery called SMILE (Small Incision Lenticule Extraction) is also approved for use in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002752-6" qtype="outlook">What is the outlook for Nearsightedness ?</Question>
+			<Answer>Early diagnosis of nearsightedness is important. A child can suffer socially and educationally by not being able to see well at a distance.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002752-7" qtype="complications">What are the complications of Nearsightedness ?</Question>
+			<Answer>Complications may include: Corneal ulcers and infections  may occur in people who use contact lenses., Rarely, complications of laser vision correction may occur. These can be serious., People with myopia, in rare cases, develop  retinal detachments  or retinal degeneration., </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002752-8" qtype="when to contact a medical professional">Do I need to see a doctor for Nearsightedness ?</Question>
+			<Answer>Contact your health care provider if your child shows these signs, which may indicate a vision problem: Having difficulty reading the blackboard in school or signs on a wall, Holding books very close when reading, Sitting close to the television ,  Contact your eye doctor if you or your child is nearsighted and experiences signs of a possible retinal tear or detachment, including: Flashing lights, Floating spots, Sudden loss of any part of the field of vision , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002752-9" qtype="prevention">How to prevent Nearsightedness ?</Question>
+			<Answer>It has been generally believed that there is no way to prevent nearsightedness. Reading and watching television do not cause nearsightedness. During the Covid-19 pandemic of 2020, when most school-aged children were learning from home, there was an increase in the development of nearsightedness over what had been seen before. In the past, dilating eye drops were proposed as a treatment to slow the development of nearsightedness in children, but those early studies were inconclusive. However, there is recent information that certain dilating eyedrops used in certain children at just the right time, may decrease the total amount of nearsightedness that they will develop. The use of glasses or contact lenses does not affect the normal progression of myopia -- they simply focus the light so the nearsighted person can see distant objects clearly. However, it is important to not prescribe glasses or contact lenses that are too strong. Hard contact lenses will sometimes hide the progression of nearsightedness, but vision will still get worse "under" the contact lens.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

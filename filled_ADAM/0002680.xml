@@ -1,0 +1,21 @@
+<Document id="0002680" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003198.htm">
+ 
+<Focus>Movement - uncoordinated</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Lack of coordination</Synonym>
+		<Synonym>Loss of coordination</Synonym>
+		<Synonym>Coordination impairment</Synonym>
+		<Synonym>Ataxia</Synonym>
+		<Synonym>Clumsiness</Synonym>
+		<Synonym>Uncoordinated movement</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002680-1" qtype="information">Do you have information about Movement - uncoordinated</Question>
+			<Answer>Uncoordinated movement is due to&#160;a muscle control problem&#160;that causes&#160;an inability to coordinate movements. It leads to a jerky, unsteady, to-and-fro motion of the middle of the body (trunk) and an  unsteady gait  (walking style). It can also affect the limbs. The medical name of this condition is ataxia.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

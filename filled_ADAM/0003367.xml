@@ -1,0 +1,65 @@
+<Document id="0003367" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000516.htm">
+ 
+<Focus>Renal cell carcinoma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007134</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Renal cancer</Synonym>
+		<Synonym>Kidney cancer</Synonym>
+		<Synonym>Hypernephroma</Synonym>
+		<Synonym>Adenocarcinoma of renal cells</Synonym>
+		<Synonym>Cancer - kidney</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003367-1" qtype="information">What is (are) Renal cell carcinoma ?</Question>
+			<Answer>Renal cell carcinoma is a type of kidney cancer that starts in the lining of very small tubes (tubules) in the kidney.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003367-2" qtype="causes">What causes Renal cell carcinoma ?</Question>
+			<Answer>Renal cell carcinoma is the most common type of kidney cancer in adults. It occurs most often in men 60 to 70 years old. The exact cause is unknown. The following may increase your risk of kidney cancer: Smoking, Obesity,  Dialysis  treatment, Family history of the disease, High blood pressure, Horseshoe kidney, Long-term use of certain medicines, such as pain pills or water pills (diuretics), Polycystic kidney disease, Von Hippel-Lindau disease (a hereditary disease that affects blood vessels in the brain, eyes, and other body parts), Birt-Hogg-Dube syndrome (a genetic disease associated with benign skin tumors and lung cysts), </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003367-3" qtype="symptoms">What are the symptoms of Renal cell carcinoma ?</Question>
+			<Answer>Symptoms of this cancer may include any of the following: Abdominal pain  and swelling, Back pain,  Blood in the urine , Swelling of the veins around a testicle (varicocele),  Flank pain ,  Weight loss , Fever, Liver dysfunction, Elevated erythrocyte sedimentation rate ( ESR ),  Excessive hair growth in females , Pale skin,  Vision problems , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003367-4" qtype="exams and tests">How to diagnose Renal cell carcinoma ?</Question>
+			<Answer>The health care provider will perform a physical exam. This may reveal a mass or swelling of the abdomen. Tests that may be ordered include: Abdominal CT scan , Blood chemistry, Complete blood count  (CBC) , Intravenous pyelogram  (IVP) ,  Liver function tests ,  Renal arteriography ,  Ultrasound of the abdomen  and kidney,  Urinalysis ,  The following tests may be done to see if the cancer has spread: Abdominal MRI ,  Biopsy ,  Bone scan ,  Chest x-ray , Chest CT scan,  PET scan , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003367-5" qtype="treatment">What are the treatments for Renal cell carcinoma ?</Question>
+			<Answer>Surgery to remove all or part of the kidney ( nephrectomy ) is usually recommended. This may include removing the bladder, surrounding tissues, or lymph nodes. A cure is unlikely unless all of the cancer is removed with surgery. But even if some cancer is left behind, there may be a benefit from surgery. Chemotherapy is generally not effective for treating kidney cancer in adults. Newer immune system medicines may help some people. Medicines that target the development of blood vessels that feed the tumor may be used to treat kidney cancer. Your provider can tell you more. Radiation therapy is usually done when the cancer spreads to the bone or brain. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003367-6" qtype="support groups">Where to find support for people with Renal cell carcinoma ?</Question>
+			<Answer>You can ease the stress of illness by joining a  support group  whose members share common experiences and problems.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003367-7" qtype="outlook">What is the outlook for Renal cell carcinoma ?</Question>
+			<Answer>Sometimes, both kidneys are involved. The cancer spreads easily, most often to the lungs and other organs. In about one fourth of people, the cancer has already spread (metastasized) at the time of diagnosis. How well someone with kidney cancer does depends on how much the cancer has spread and how well treatment works. The survival rate is highest if the tumor is in the early stages and has not spread outside the kidney. If it has spread to the lymph nodes or to other organs, the survival rate is much lower.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003367-8" qtype="complications">What are the complications of Renal cell carcinoma ?</Question>
+			<Answer>Complications of kidney cancer include: High blood pressure ( hypertension ), Too much calcium in the blood, High red blood cell count, Spread of the cancer , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003367-9" qtype="when to contact a medical professional">Do I need to see a doctor for Renal cell carcinoma ?</Question>
+			<Answer>Contact your provider any time you see blood in the urine. Also contact if you have any other symptoms of this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0003367-10" qtype="prevention">How to prevent Renal cell carcinoma ?</Question>
+			<Answer>Stop smoking. Follow your provider's recommendations in the treatment of kidney disorders, especially those that may require dialysis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

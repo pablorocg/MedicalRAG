@@ -1,0 +1,61 @@
+<Document id="0000756" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001372.htm">
+ 
+<Focus>Chagas disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0041234</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>American trypanosomiasis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000756-1" qtype="information">What is (are) Chagas disease ?</Question>
+			<Answer>Chagas disease is an illness caused by tiny parasites and spread by insects. The disease is common in South and Central America.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000756-2" qtype="causes">What causes Chagas disease ?</Question>
+			<Answer>Chagas disease is caused by the parasite  Trypanosoma cruzi.  It is spread by the bite of reduviid bugs, or kissing bugs, and is one of the major health problems in South America. Due to immigration, the disease also affects people in the United States. Risk factors for Chagas disease include: Living in a hut where reduviid bugs live in the walls, Living in Central or South America, Poverty, Receiving a blood transfusion or an organ donation from a person who carries the parasite, but does not have active Chagas disease, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000756-3" qtype="symptoms">What are the symptoms of Chagas disease ?</Question>
+			<Answer>Chagas disease has two phases:  acute  and  chronic . The acute phase may have no symptoms or very mild symptoms, including: Fever, General ill feeling, Swelling of an eye if the bite is near the eye, Swollen red area at site of the insect bite,  After the acute phase, the disease goes into remission. No other symptoms may appear for many years. When symptoms finally develop, they may include: 
+   Constipation
+   , Digestive problems, Heart failure, Pain in the abdomen, Pounding or racing heart, Swallowing difficulties, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000756-4" qtype="exams and tests">How to diagnose Chagas disease ?</Question>
+			<Answer>Physical examination  can confirm the symptoms. Signs of Chagas disease may include: Disease of the heart muscle, Enlarged liver and spleen,  Enlarged lymph nodes , Irregular heartbeat, Rapid heartbeat ,  Tests include: Blood culture  to look for signs of infection,  Chest x-ray ,  Echocardiogram  (uses sound waves to create pictures of the heart), Electrocardiogram ( ECG , tests electrical activity in the heart), Enzyme-linked immunoassay ( ELISA ) to look for signs of infection,  Blood smear  to look for signs of infection , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000756-5" qtype="treatment">What are the treatments for Chagas disease ?</Question>
+			<Answer>The acute phase of reactivated Chagas disease should be treated. Infants born with the infection should also be treated. Treating the chronic phase is recommended for children and most adults. Adults with chronic phase Chagas disease should talk to their health care provider to decide whether treatment is needed. Two drugs are used to treat this infection: benznidazole and nifurtimox. Both drugs often have side effects. The side effects may be worse in older people. They may include: Headaches and dizziness, Loss of appetite and weight loss, Nerve damage, Problems sleeping, Skin rashes, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000756-6" qtype="outlook">What is the outlook for Chagas disease ?</Question>
+			<Answer>About one third of infected people who are not treated will develop chronic or  symptomatic  Chagas disease. It may take more than 20 years from the time of the original infection to develop heart or digestive problems. Abnormal heart rhythms may cause sudden death. Once heart failure develops, death usually occurs within several years.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000756-7" qtype="complications">What are the complications of Chagas disease ?</Question>
+			<Answer>Chagas disease can cause these complications: Enlarged colon, Enlarged esophagus with swallowing difficulty, 
+   Heart disease
+   , Heart failure,  Malnutrition , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000756-8" qtype="when to contact a medical professional">Do I need to see a doctor for Chagas disease ?</Question>
+			<Answer>Contact your provider for an appointment if you think you may have Chagas disease.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000756-9" qtype="prevention">How to prevent Chagas disease ?</Question>
+			<Answer>Insect control with insecticides and houses that are less likely to have high insect populations will help control the spread of the disease. Blood banks in Central and South America screen donors for exposure to the parasite. The blood is discarded if the donor has the parasite. Most blood banks in the United States began screening for Chagas disease in 2007.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

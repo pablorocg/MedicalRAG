@@ -1,0 +1,53 @@
+<Document id="0003153" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000428.htm">
+ 
+<Focus>Polymyositis - adult</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085655</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003153-1" qtype="information">What is (are) Polymyositis - adult ?</Question>
+			<Answer>Polymyositis and dermatomyositis are rare inflammatory diseases. (The condition is called dermatomyositis when it involves the skin.) These diseases lead to muscle weakness, swelling, tenderness, and tissue damage. They are part of a larger group of diseases called myopathies, more specifically inflammatory myopathies.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003153-2" qtype="causes">What causes Polymyositis - adult ?</Question>
+			<Answer>Polymyositis affects the skeletal muscles. It is also known as idiopathic inflammatory myopathy. The exact cause is unknown, but it may be related to an  autoimmune  reaction or infection. Polymyositis can affect people at any age. It is most common in adults between ages 50 and 60, and in older children. It affects women twice as often as men. It is more common in African Americans than white people. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003153-3" qtype="symptoms">What are the symptoms of Polymyositis - adult ?</Question>
+			<Answer>Polymyositis is a systemic disease. This means it affects the whole body. Muscle weakness and tenderness can be signs of polymyositis. A rash is a sign of a related condition,  dermatomyositis . Common symptoms include: Muscle weakness in the shoulders and hips. This can make it hard to raise the arms over the head, get up from a sitting position, or climb stairs., Difficulty swallowing. ,  Muscle pain .
+   , Problems with the voice (caused by weak throat muscles).,  Shortness of breath .
+   ,  You may also have: Fatigue, Fever, Joint pain, Loss of appetite, Morning stiffness, Weight loss , Skin rash on the back of the fingers, on the eyelids, or on the face, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003153-4" qtype="exams and tests">How to diagnose Polymyositis - adult ?</Question>
+			<Answer>Tests may include:  Autoimmune antibodies and inflammation tests, 
+   Serum  CPK  (creatine phosphokinase),  Serum aldolase ,  Electromyography , MRI of affected muscles,  Muscle biopsy ,  Myoglobin in the urine , ECG, Chest x-ray and CT scan of the chest, Pulmonary function tests, Esophageal swallowing study, Myositis specific and associated autoantibodies,  People with this condition also must be watched carefully for signs of cancer.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003153-5" qtype="treatment">What are the treatments for Polymyositis - adult ?</Question>
+			<Answer>The main treatment is the use of corticosteroid medicines. The dose of medicine is slowly tapered off as muscle strength improves. This takes about 4 to 6 weeks. You will stay on a low dose of a corticosteroid medicine after that for a longer period of time. Medicines to suppress the immune system may be used to replace the corticosteroids. These medicines may include azathioprine, methotrexate or mycophenolate. For disease that remains active in spite of corticosteroids, intravenous gamma globulin has been tried with mixed results. Biologic drugs also may be used. Rituximab appears to be the most promising. It is important to rule out other conditions in people who do not respond to treatment. A repeat muscle biopsy may be needed to make this diagnosis. If the condition is associated with a  tumor , it may improve if the tumor is removed.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003153-6" qtype="outlook">What is the outlook for Polymyositis - adult ?</Question>
+			<Answer>Response to treatment varies, based on the complications. As many as 1 in 5 people may die within 5 years of developing the condition.  Many people, especially children, recover from the illness and do not need ongoing treatment. For most adults, however, immunosuppressant drugs are needed to control the disease. The outlook for people with lung disease with the anti-MDA-5 antibody is poor despite current treatment. In adults, death may result from: Malnutrition,  Pneumonia , Respiratory failure, Severe, long-term muscle weakness ,  The major causes of death are cancer and lung disease.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003153-7" qtype="complications">What are the complications of Polymyositis - adult ?</Question>
+			<Answer>Complications may include: Calcium deposits in the affected muscles, especially in children with the disease, Cancer, Heart disease,  lung disease , or abdominal complications , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003153-8" qtype="when to contact a medical professional">Do I need to see a doctor for Polymyositis - adult ?</Question>
+			<Answer>Contact your health care provider if you have symptoms of this disorder. Seek emergency treatment if you have shortness of breath and difficulty swallowing.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

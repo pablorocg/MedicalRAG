@@ -1,0 +1,16 @@
+<Document id="0000661" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000825.htm">
+ 
+<Focus>Cancer prevention: take charge of your lifestyle</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Lifestyle modification</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000661-1" qtype="information">Do you have information about Cancer prevention: take charge of your lifestyle</Question>
+			<Answer>Like any illness or disease,  cancer  can occur without warning. Many factors that increase your cancer risk are beyond your control, such as your family history and your genes. Others, such as whether you smoke or get regular cancer screenings, are within your control.  Changing certain habits can give you a powerful tool to help prevent cancer. It all starts with your lifestyle.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

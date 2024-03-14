@@ -1,0 +1,54 @@
+<Document id="0003661" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000071.htm">
+ 
+<Focus>Solitary pulmonary nodule</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2350019</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003661-1" qtype="information">What is (are) Solitary pulmonary nodule ?</Question>
+			<Answer>A solitary pulmonary nodule is a round or oval spot (lesion) in the lung that is seen with a  chest x-ray  or  CT scan .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003661-2" qtype="causes">What causes Solitary pulmonary nodule ?</Question>
+			<Answer>More than half of all solitary pulmonary nodules are noncancerous (benign). Benign nodules have many causes, including scars and past infections. Infectious granulomas (which are formed by cells as a reaction to a past infection) cause most benign nodules. Common infections that often result in granulomas or other healed scars include: Tuberculosis  (TB) or exposure to TB, Fungus, such as  aspergillosis ,  coccidioidomycosis ,  cryptococcosis , or  histoplasmosis ,  Primary lung cancer is the most common cause of cancerous (malignant) pulmonary nodules. This is cancer that starts in the lung.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003661-3" qtype="symptoms">What are the symptoms of Solitary pulmonary nodule ?</Question>
+			<Answer>A solitary pulmonary nodule itself rarely causes symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003661-4" qtype="exams and tests">How to diagnose Solitary pulmonary nodule ?</Question>
+			<Answer>A solitary pulmonary nodule is most often found on a chest x-ray or chest CT scan. These imaging tests are often done for other symptoms or reasons. It can also occur as part of the screening chest CT for people age 50 to 80 years who have a 20 pack-year smoking history. Your health care provider must decide whether the nodule in your lung is most likely benign or of concern. A nodule more is likely benign if: 
+  The nodule is small, has a smooth border, and has a solid and even appearance on an x-ray or CT scan.
+  , 
+  You are young and never smoked.
+  ,  Your provider may then choose to monitor the nodule over time by repeating a series of x-rays or CT scans. Repeat chest x-rays or chest CT scans are the most common way to monitor the nodule. Sometimes, lung  PET scans  may be done., 
+  If repeated x-rays show that the nodule size has not changed in 2 years, it is most likely benign and a biopsy is not needed.
+  ,  Your provider may recommend a biopsy of the nodule to check for cancer if: 
+  You are a smoker.
+  , 
+  You have other symptoms of lung cancer.
+  , 
+  The nodule has grown in size or has changed when compared to earlier images.
+  , The nodule has features that make it more likely to be cancerous (malignant).,  A  lung needle biopsy  may be done by placing a needle directly through the wall of your chest, or during procedures called  bronchoscopy  or  mediastinoscopy . Tests to check for TB and other infections may also be done.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003661-5" qtype="treatment">What are the treatments for Solitary pulmonary nodule ?</Question>
+			<Answer>Ask your provider about the risks of having a biopsy versus monitoring the size of the nodule with regular x-rays or CT scans. Treatment may be based on the results of the biopsy or other tests.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003661-6" qtype="outlook">What is the outlook for Solitary pulmonary nodule ?</Question>
+			<Answer>The outlook is usually good if the nodule is benign. If the nodule does not grow larger over a 2-year period, often nothing more needs to be done.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

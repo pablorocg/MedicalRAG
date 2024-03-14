@@ -1,0 +1,37 @@
+<Document id="0003665" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000753.htm">
+ 
+<Focus>Spasmodic dysphonia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0264588</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Dysphonia - spasmodic</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003665-1" qtype="information">What is (are) Spasmodic dysphonia ?</Question>
+			<Answer>Spasmodic dysphonia is difficulty speaking due to spasms (dystonia) of the muscles that control the vocal cords.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003665-2" qtype="causes">What causes Spasmodic dysphonia ?</Question>
+			<Answer>The exact cause of spasmodic dysphonia is unknown. Sometimes it is triggered by psychological stress. Most cases result from a problem in the brain and nervous system that can affect the voice. The vocal cord muscles spasm, or contract, which causes the vocal cords to get too close or too far apart while a person is using their voice. Spasmodic dysphonia often occurs between ages 30 and 50. Women are more likely to be affected than men. Sometimes, the condition runs in the family.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003665-3" qtype="symptoms">What are the symptoms of Spasmodic dysphonia ?</Question>
+			<Answer>The voice is usually hoarse or grating. It may waver and pause. The voice may sound strained or strangled, and it may seem as if the speaker has to use extra effort. This is known as adductor dysphonia. Sometimes, the voice is whispery or breathy. This is known as abductor dysphonia. The problem may go away when the person laughs, whispers, speaks in a high-pitched voice, sings, or shouts. Some people have muscle tone problems in other parts of the body, such as writer's cramp.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003665-4" qtype="treatment">What are the treatments for Spasmodic dysphonia ?</Question>
+			<Answer>There is no cure for spasmodic dysphonia. Treatment can only reduce the symptoms. Medicine that treats spasm of the vocal cord muscles may be tried. They appear to work in up to one half of people, at best. Some of these medicines have bothersome side effects. Botulinum toxin (Botox)  treatments may help. Botulinum toxin comes from a certain type of bacteria. Very small amounts of this toxin may be injected into the muscles around the vocal cords. This treatment will often help for 3 to 4 months. Surgery to cut one of the nerves to the vocal cords has been used to treat spasmodic dysphonia, but it is not very effective. Other surgical treatments may improve symptoms in some people, but further evaluation is necessary. Brain stimulation may be useful in some people. Voice therapy and psychological counseling may help to reduce the symptoms in mild cases of spasmodic dysphonia.&#160;</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

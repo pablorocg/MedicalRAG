@@ -1,0 +1,50 @@
+<Document id="0003287" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000114.htm">
+ 
+<Focus>Pulmonary alveolar proteinosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0034050</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Alveolar proteinosis</Synonym>
+		<Synonym>Pulmonary alveolar phospholipoproteinosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003287-1" qtype="information">What is (are) Pulmonary alveolar proteinosis ?</Question>
+			<Answer>Pulmonary alveolar proteinosis (PAP) is a rare disease in which a type of protein builds up in the air sacs (alveoli) of the lungs, making breathing difficult. Pulmonary means related to the lungs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003287-2" qtype="causes">What causes Pulmonary alveolar proteinosis ?</Question>
+			<Answer>In some cases, the cause of PAP is unknown. In others, it occurs with lung infection or an immune problem. It also can occur with cancers of the blood system, and after exposure to high levels of environmental substances, such as silica or aluminum dust. People between 30 and 50 years old are most often affected. PAP is seen in men more often than in women. A form of the disorder is present at birth (congenital).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003287-3" qtype="symptoms">What are the symptoms of Pulmonary alveolar proteinosis ?</Question>
+			<Answer>Symptoms of PAP may include any of the following: Shortness of breath,  Cough ,  Fatigue , Fever, if there is lung infection, Bluish skin ( cyanosis ) in severe cases,  Weight loss ,  Sometimes, there are no symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003287-4" qtype="exams and tests">How to diagnose Pulmonary alveolar proteinosis ?</Question>
+			<Answer>Your health care provider will listen to the lungs with a stethoscope and may hear crackles (rales) in the lungs. Often, the physical examination is normal. The following tests may be done: Bronchoscopy  with saline wash of the lungs (lavage),  Chest x-ray ,  CT scan of the chest ,  Lung function tests ,  Open lung biopsy  (surgical biopsy) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003287-5" qtype="treatment">What are the treatments for Pulmonary alveolar proteinosis ?</Question>
+			<Answer>Treatment involves washing out the protein substance from the lung (whole-lung lavage) from time to time. Some people may need a lung transplant. Avoiding dusts that might have caused the condition is also recommended. Another treatment that may be tried is a blood-stimulating drug called granulocyte-macrophage colony stimulating factor (GM-CSF), which is lacking in some people with alveolar proteinosis.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003287-6" qtype="outlook">What is the outlook for Pulmonary alveolar proteinosis ?</Question>
+			<Answer>Some people with PAP go into remission. Others have a decline in lung function ( respiratory failure ) that gets worse, and they may need a lung transplant.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003287-7" qtype="when to contact a medical professional">Do I need to see a doctor for Pulmonary alveolar proteinosis ?</Question>
+			<Answer>Call your provider if you develop serious breathing symptoms. Shortness of breath that gets worse over time may signal that your condition is developing into a medical emergency.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

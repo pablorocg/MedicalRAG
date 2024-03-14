@@ -1,0 +1,35 @@
+<Document id="0000663" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000826.htm">
+ 
+<Focus>Cancer treatment: dealing with hot flashes and night sweats</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0600142</CUI>
+			<CUI>C0028081</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000663-1" qtype="information">What is (are) Cancer treatment: dealing with hot flashes and night sweats ?</Question>
+			<Answer>Certain types of cancer treatments can cause hot flashes and night sweats. Hot flashes are when your body suddenly feels hot. In some cases, hot flashes can make you sweat. Night sweats are hot flashes with sweating at night.  Hot flashes and night sweats are more common in women, but they can also occur in men. Some people continue to have these side effects after cancer treatment. Hot flashes and night sweats can be unpleasant, but there are treatments that can help.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000663-2" qtype="causes">What causes Cancer treatment: dealing with hot flashes and night sweats ?</Question>
+			<Answer>People who are treated for  breast cancer  or  prostate cancer  are likely to have hot flashes or night sweats during or after treatment. In women, some cancer treatments can cause them to go into early menopause. Hot flashes and night sweats are common symptoms of menopause. These treatments include some types of: Radiation, Chemotherapy, Hormone treatment, Surgery to remove your ovaries ,  In men, surgery to remove one or both testicles or treatment with certain hormones can cause these symptoms. Hot flashes and night sweats also may be caused by some medicines: Aromatase inhibitors . Used as hormone therapy for some women with certain types of breast cancer.,  Opioids . Strong pain relievers given to some people with cancer.,  Tamoxifen . A drug used to treat breast cancer in both women and men. It is also used to prevent cancer in some women.,  Tricyclic antidepressants . A type of antidepressant drug.,  Steroids . Used to reduce swelling. They also may be used to treat some cancers. , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000663-4" qtype="treatment">What are the treatments for Cancer treatment: dealing with hot flashes and night sweats ?</Question>
+			<Answer>Some other types of treatments may help with hot flashes and night sweats. Relaxation techniques or stress reduction.  Learning how to decrease stress and anxiety may help relieve hot flashes in some people.,  Hypnosis.  During hypnosis, a therapist can help you relax and focus on feeling cool. Hypnosis also may help you lower your heart rate, lessen stress, and balance your body temperature, which can help reduce hot flashes.,  Acupuncture.  Although some studies have found that acupuncture can help with hot flashes, others have not found a benefit. If you are interested in acupuncture, ask your provider if it might be an option for you. , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000663-5" qtype="treatment">What are the treatments for Cancer treatment: dealing with hot flashes and night sweats ?</Question>
+			<Answer>Some other types of treatments may help with hot flashes and night sweats. Relaxation techniques or stress reduction.  Learning how to decrease stress and anxiety may help relieve hot flashes in some people.,  Hypnosis.  During hypnosis, a therapist can help you relax and focus on feeling cool. Hypnosis also may help you lower your heart rate, lessen stress, and balance your body temperature, which can help reduce hot flashes.,  Acupuncture.  Although some studies have found that acupuncture can help with hot flashes, others have not found a benefit. If you are interested in acupuncture, ask your provider if it might be an option for you. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

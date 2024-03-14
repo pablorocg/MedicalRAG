@@ -1,0 +1,17 @@
+<Document id="0003654" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003481.htm">
+ 
+<Focus>Sodium blood test</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Serum sodium</Synonym>
+		<Synonym>Sodium - serum</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003654-1" qtype="information">Do you have information about Sodium blood test</Question>
+			<Answer>The sodium blood test measures the concentration of sodium in the blood. Sodium can also be measured using a  urine test .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

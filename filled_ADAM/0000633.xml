@@ -1,0 +1,16 @@
+<Document id="0000633" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003603.htm">
+ 
+<Focus>Calcium - urine</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Urinary Ca+2</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000633-1" qtype="information">Do you have information about Calcium - urine</Question>
+			<Answer>This test measures the amount of calcium in the urine. All cells need calcium in order to work. Calcium helps build strong bones and teeth. It is important for heart function, and helps with muscle contraction, nerve signaling, and blood clotting. See also:  Calcium - blood</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

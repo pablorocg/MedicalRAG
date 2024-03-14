@@ -1,0 +1,37 @@
+<Document id="0000059" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000750.htm">
+ 
+<Focus>Acne - self-care</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0001144</CUI>
+			<CUI>C0702166</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Acne vulgaris - self-care</Synonym>
+		<Synonym>Cystic acne - self-care</Synonym>
+		<Synonym>Pimples - self-care</Synonym>
+		<Synonym>Zits - self-care</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000059-1" qtype="information">What is (are) Acne - self-care ?</Question>
+			<Answer>Acne is a skin condition that causes pimples or "zits." Whiteheads (closed comedones), blackheads (open comedones), red, inflamed papules, and nodules or cysts may develop. These most often occur on the face, neck, upper trunk and upper arm. Acne occurs when tiny pores on the surface of the skin become clogged. The pores can become plugged by substances on the surface of the skin. More commonly they develop from a mixture of the natural oils of the skin and the dead cells shed from the inside of the pore. These plugs are called comedones. Acne is most common in teenagers. But anyone can get acne. Acne breakouts can be triggered by: Hormonal changes, Use of oily skin or hair care products, Certain medicines, Sweat, Humidity, Possibly diet , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000059-4" qtype="treatment">What are the treatments for Acne - self-care ?</Question>
+			<Answer>If pimples are still a problem after you've tried over-the-counter medicines, your health care provider may suggest: Antibiotics in the form of pills or creams that you put on your skin, Prescription gels or creams containing a retinoid to help clear up the pimples, Hormone pills for women whose acne is made worse by hormonal changes, Isotretinoin pills for severe acne, A light based procedure called photodynamic therapy, Chemical skin peeling , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000059-5" qtype="when to contact a medical professional">Do I need to see a doctor for Acne - self-care ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

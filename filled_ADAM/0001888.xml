@@ -1,0 +1,43 @@
+<Document id="0001888" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003114.htm">
+ 
+<Focus>Heartburn</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018834</CUI>
+			<CUI>C0847097</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pyrosis</Synonym>
+		<Synonym>Non-cardiac chest pain</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001888-1" qtype="information">What is (are) Heartburn ?</Question>
+			<Answer>Heartburn is a painful burning feeling just below or behind the breastbone. Most of the time, it comes from the esophagus. The pain often rises in your chest from your stomach. It may also spread to your neck or throat.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001888-2" qtype="causes">What causes Heartburn ?</Question>
+			<Answer>Almost everyone has heartburn at some time. If you have heartburn very often, you may have  gastroesophageal reflux disease  (GERD). Normally when food or liquid enters your stomach, a band of muscle at the lower end of your esophagus closes off the esophagus. This band is called the lower esophageal sphincter (LES). If this band does not close tightly enough, food or stomach acid can back up (reflux) into the esophagus. The stomach contents can irritate the esophagus and cause heartburn and other symptoms. Watch this video about: Heartburn Heartburn is more likely if you have a  hiatal hernia . A hiatal hernia is a condition which occurs when the top part of the stomach pokes into the chest cavity. This weakens the LES so that it is easier for acid to back up from the stomach into the esophagus. Pregnancy and many medicines can bring on heartburn or make it worse. Medicines that can cause heartburn include: Anticholinergics (such as medicines used for sea sickness), Beta-blockers for high blood pressure or heart disease, Bronchodilators for asthma or other lung diseases, Calcium channel blockers for high blood pressure, Dopamine-like drugs for Parkinson disease, Progestin for abnormal menstrual bleeding or birth control, Sedatives for anxiety or sleep problems (insomnia), Theophylline (for asthma or other lung diseases), Tricyclic antidepressants ,  Talk to your health care provider if you think one of your medicines may be causing heartburn. Never change or stop taking medicine without talking to your provider first.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001888-3" qtype="considerations">What to do for Heartburn ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001888-4" qtype="when to contact a medical professional">Do I need to see a doctor for Heartburn ?</Question>
+			<Answer>Get urgent medical care if: You vomit material that is bloody or looks like coffee grounds., Your  stools are black  (like tar) or maroon., You have a burning feeling and a squeezing, crushing, or pressure in your chest. Sometimes people who think they have heartburn are having a heart attack.,  Contact your provider if: You have heartburn often or it does not go away after a few weeks of self-care., You lose weight that you did not want to lose., You have trouble swallowing (food feels stuck as it goes down)., You have a cough or wheezing that does not go away., Your symptoms get worse with antacids, H2 blockers, or other treatments., You think one of your medicines may be causing heartburn. DO NOT change or stop taking your medicine on your own., </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001888-5" qtype="outlook">What is the outlook for Heartburn ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

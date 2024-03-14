@@ -1,0 +1,17 @@
+<Document id="0000316" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003327.htm">
+ 
+<Focus>Arteriogram</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Angiogram</Synonym>
+		<Synonym>Angiography</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000316-1" qtype="information">Do you have information about Arteriogram</Question>
+			<Answer>An arteriogram is an imaging test that uses x-rays and a special dye to see inside the arteries. It can be used to view arteries in the heart, brain, kidney, and other parts of the body. Related tests include: Aortic angiography  (chest or abdomen),  Cerebral angiography  (brain),  Coronary angiography  (heart),  Extremity angiography  (legs or arms),  Pulmonary angiography  (lungs),  Renal arteriography  (kidneys),  Mesenteric angiography  (colon or small bowel), Pelvic angiography (pelvis) , Hepatic angiography (liver), </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

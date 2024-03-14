@@ -1,0 +1,61 @@
+<Document id="0000916" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000266.htm">
+ 
+<Focus>Colorectal polyps</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0949059</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Intestinal polyps</Synonym>
+		<Synonym>Polyps - colorectal</Synonym>
+		<Synonym>Adenomatous polyps</Synonym>
+		<Synonym>Hyperplastic polyps</Synonym>
+		<Synonym>Villous adenomas</Synonym>
+		<Synonym>Serrated polyp</Synonym>
+		<Synonym>Serrated adenoma</Synonym>
+		<Synonym>Precancerous polyps</Synonym>
+		<Synonym>Colon cancer - polyps</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000916-1" qtype="information">What is (are) Colorectal polyps ?</Question>
+			<Answer>A colorectal polyp is a growth on the lining of the colon or rectum.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000916-2" qtype="causes">What causes Colorectal polyps ?</Question>
+			<Answer>Polyps of the colon and rectum are most often  benign . This means they are not a cancer. You may have one or many polyps. They become more common with age. There are many types of polyps. Adenomatous polyps are a common type. They are gland-like growths that develop on the mucous membrane that lines the large intestine. They are also called adenomas and are most often one of the following: Tubular polyp, which protrudes out in the lumen (open space) of the colon, Villous adenoma, which is sometimes flat and spreading, and is more likely to become a cancer ,  When adenomas become cancerous, they are known as adenocarcinomas. Adenocarcinomas are cancers that originate in glandular tissue cells. Adenocarcinoma is the most common type of colorectal cancer. Other types of polyps are: Hyperplastic polyps, which rarely, if ever, develop into cancer, Serrated polyps, which are less common, but may develop into cancer over time ,  Polyps that are 1 centimeter (cm) or larger have a higher cancer risk than polyps smaller than 1 cm. Risk factors include: Age, Family history of colon cancer or polyps, A type of polyp called villous adenoma ,  A small number of people with polyps may also be linked to some inherited disorders, including: Familial adenomatous polyposis (FAP), Gardner syndrome (a type of FAP), Juvenile polyposis, a disease that causes many benign growths in the intestine, usually before 20 years old, Hereditary non-polyposis colorectal cancer (HNPCC), also called Lynch syndrome, a disease that raises the chance of many types of cancer, including in the intestine,  Peutz-Jeghers syndrome , a disease that causes intestinal polyps, usually in the small intestine and usually benign, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000916-3" qtype="symptoms">What are the symptoms of Colorectal polyps ?</Question>
+			<Answer>Polyps usually do not have symptoms. When present, symptoms may include: Blood in the stools , Change in bowel habit, Fatigue caused by losing blood over time , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000916-4" qtype="exams and tests">How to diagnose Colorectal polyps ?</Question>
+			<Answer>Your health care provider will perform a physical exam. A large polyp in the rectum may be felt during a rectal exam. Most polyps are found with the following tests: Barium enema  (rarely done),  Colonoscopy ,  Sigmoidoscopy ,  Stool test  for hidden (occult) blood,  Virtual colonoscopy , Stool DNA test,  Fecal immunochemical test (FIT) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000916-5" qtype="treatment">What are the treatments for Colorectal polyps ?</Question>
+			<Answer>Colorectal polyps should be removed because some can develop into  cancer . In most cases, the polyps may be removed during a colonoscopy. For people with adenomatous polyps, new polyps can appear in the future. You should have a repeat colonoscopy, usually 1 to 10 years later, depending on: Your age and general health, Number of polyps you had , Size and type of the polyps, Family history of polyps or cancer,  In rare cases, when polyps are very likely to turn into cancer or too large to remove during colonoscopy, the provider will recommend a partial  colectomy . This is surgery to remove part of the colon that has the polyps.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000916-6" qtype="outlook">What is the outlook for Colorectal polyps ?</Question>
+			<Answer>The outlook is excellent if the polyps are removed. Polyps that are not removed can develop into cancer over time.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000916-7" qtype="when to contact a medical professional">Do I need to see a doctor for Colorectal polyps ?</Question>
+			<Answer>Contact your provider if you have: Blood&#160;in a bowel movement, Change in bowel habits, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000916-8" qtype="prevention">How to prevent Colorectal polyps ?</Question>
+			<Answer>To reduce your risk of developing polyps: Eat foods low in fat and eat more fruits, vegetables, and fiber., Do not smoke and do not drink alcohol in excess., Maintain a normal body weight., Get regular exercise. ,  Your provider can order a colonoscopy or other  screening tests :  These tests help prevent colon cancer by finding and removing polyps before they become cancer. This may reduce the chance of developing colon cancer, or at least help catch it in its most treatable stage., All adults should begin one of these tests at age 45.,  Taking aspirin, naproxen, ibuprofen, or similar medicines may help reduce the risk for new polyps. Be aware that these medicines can have serious side effects if taken for a long time. Side effects include bleeding in the stomach or colon and heart disease. Talk with your provider before taking these medicines.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

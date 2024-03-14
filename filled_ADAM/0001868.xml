@@ -1,0 +1,26 @@
+<Document id="0001868" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000540.htm">
+ 
+<Focus>Heart disease and intimacy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018799</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001868-1" qtype="information">What is (are) Heart disease and intimacy ?</Question>
+			<Answer>If you have had angina, heart surgery, or a heart attack, you may: Wonder if and when you can have sex again, Have different feelings about having sex or being intimate with your partner ,  Almost everyone with heart problems has these questions and concerns. The most helpful thing you can do is talk to your health care providers, spouse, partner, or friends.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001868-5" qtype="when to contact a medical professional">Do I need to see a doctor for Heart disease and intimacy ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

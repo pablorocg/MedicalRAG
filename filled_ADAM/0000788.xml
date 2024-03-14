@@ -1,0 +1,22 @@
+<Document id="0000788" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001535.htm">
+ 
+<Focus>Childhood disintegrative disorder</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0236791</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000788-1" qtype="information">What is (are) Childhood disintegrative disorder ?</Question>
+			<Answer>Childhood disintegrative disorder is a condition in which children develop normally through about age 3. Then, over a few months, they lose language, motor, social, and other skills that they already learned. Childhood disintegrative disorder is a part of the larger developmental disorder category of  autism spectrum disorder .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

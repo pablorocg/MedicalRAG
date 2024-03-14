@@ -1,0 +1,58 @@
+<Document id="0002099" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000390.htm">
+ 
+<Focus>Hypogonadotropic hypogonadism</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0271623</CUI>
+			<CUI>C0022735</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Gonadotropin deficiency</Synonym>
+		<Synonym>Secondary hypogonadism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002099-1" qtype="information">What is (are) Hypogonadotropic hypogonadism ?</Question>
+			<Answer>Hypogonadism  is a condition in which the male  testes  or the female ovaries produce little or no sex hormones. Hypogonadotropic hypogonadism (HH) is a form of hypogonadism that is due to a problem with the pituitary gland or hypothalamus. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002099-2" qtype="causes">What causes Hypogonadotropic hypogonadism ?</Question>
+			<Answer>HH is caused by a lack of hormones that normally stimulate the ovaries or testes. These hormones include: Gonadotropin-releasing hormone (GnRH), Follicle stimulating hormone (FSH), Luteinizing hormone (LH),  Normally: The hypothalamus in the brain releases GnRH., This hormone stimulates the pituitary gland to release FSH and LH., These hormones tell the female ovaries or the male testes to release hormones that lead to normal sexual development in puberty, normal menstrual cycles, estrogen levels and fertility in adult women, and normal testosterone production and sperm production in adult men., Any change in this hormone release chain causes a lack of sex hormones. This prevents normal sexual maturity in children and normal function of the testicles or ovaries in adults.,  There are several causes of HH: Damage to the pituitary gland or hypothalamus from surgery, injury, tumor, infection, or radiation, Genetic defects, High doses or long-term use of opioid or steroid (glucocorticoid) medicines, High prolactin level (a different hormone released by the pituitary), Severe stress, Nutritional problems (both rapid weight gain or weight loss), Long-term (chronic) medical diseases, including chronic inflammation or infections, Drug use, such as heroin or use or abuse of prescription opioid medicines, Certain medical conditions, such as  iron overload ,  Kallmann syndrome is an inherited form of HH. Some people with this condition also lose their sense of smell (anosmia).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002099-3" qtype="symptoms">What are the symptoms of Hypogonadotropic hypogonadism ?</Question>
+			<Answer>Children: Lack of growth and sexual development at the standard age for puberty (development may be very late or incomplete) , In girls, a lack of breast development and menstrual periods, In boys, no development of sex characteristics, such as enlargement of the testes and penis, deepening of the voice, and facial hair, Inability to smell (in some cases),  Short stature  (in some cases),  Adults: Loss of interest in sex (libido) in men, Loss of menstrual periods (amenorrhea) in women, Decreased energy and interest in activities, Loss of muscle mass in men, Weight gain, Mood changes,  Infertility , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002099-4" qtype="exams and tests">How to diagnose Hypogonadotropic hypogonadism ?</Question>
+			<Answer>Your health care provider will perform a physical exam and ask about your symptoms. Tests that may be done include: Blood tests to measure hormone levels such as FSH, LH, TSH, prolactin, testosterone and estradiol ,  LH response to GnRH ,  MRI  of the pituitary gland/hypothalamus (to look for a tumor or other growth), Genetic testing, Blood tests to check for iron saturation level, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002099-5" qtype="treatment">What are the treatments for Hypogonadotropic hypogonadism ?</Question>
+			<Answer>Treatment depends on the source of the problem, but may involve: Injections of  testosterone  (in males), Slow-release testosterone skin patch (in males), Testosterone gels (in males), Estrogen and progesterone pills or skin patches (in females), GnRH injections, HCG injections, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002099-6" qtype="outlook">What is the outlook for Hypogonadotropic hypogonadism ?</Question>
+			<Answer>The right hormone treatment will cause puberty to start in children and may restore fertility in adults. If the condition begins after puberty or in adulthood, symptoms will often improve with treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002099-7" qtype="complications">What are the complications of Hypogonadotropic hypogonadism ?</Question>
+			<Answer>Health problems that may result from HH include: Delayed puberty, Early menopause (in females), 
+   Infertility
+   , Low bone density and fractures later in life, Low self-esteem due to late start of puberty (emotional support may be helpful), Sexual problems, such as low libido, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002099-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hypogonadotropic hypogonadism ?</Question>
+			<Answer>Contact your provider if: Your child does not start puberty at the appropriate time., You are a woman under age 40 and your menstrual cycles stop., You have lost armpit or pubic hair., You are a man and you have decreased interest in sex., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

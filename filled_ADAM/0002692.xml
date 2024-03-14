@@ -1,0 +1,63 @@
+<Document id="0002692" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000399.htm">
+ 
+<Focus>Multiple endocrine neoplasia (MEN) II</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027662</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sipple syndrome</Synonym>
+		<Synonym>MEN II</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002692-1" qtype="information">What is (are) Multiple endocrine neoplasia (MEN) II ?</Question>
+			<Answer>Multiple endocrine neoplasia, type II (MEN II) is a disorder passed down through families in which one or more of the endocrine glands are overactive or form a tumor. Endocrine glands most commonly involved include: Adrenal gland (about half the time), Parathyroid gland (20% of the time), Thyroid gland (almost all the time) ,  Multiple endocrine neoplasia, type I ( MEN I ) is a related condition. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002692-2" qtype="causes">What causes Multiple endocrine neoplasia (MEN) II ?</Question>
+			<Answer>The cause of MEN II is a defect in a gene called RET. This defect causes many tumors to appear in the same person, but not necessarily at the same time. Involvement of the adrenal gland is most often with a tumor called a  pheochromocytoma .  Involvement of the thyroid gland is most often with a tumor called  medullary carcinoma of the thyroid . Tumors in the thyroid, adrenal, or parathyroid glands may occur years apart. The disorder may occur at any age, and affects men and women equally. The main risk factor is a family history of MEN II. There are two subtypes of MEN II. They are MEN IIa and IIb. MEN IIb is less common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002692-3" qtype="symptoms">What are the symptoms of Multiple endocrine neoplasia (MEN) II ?</Question>
+			<Answer>The symptoms may vary. However, they are similar to those of: Medullary carcinoma of the thyroid ,  Pheochromocytoma ,  Parathyroid adenoma ,  Parathyroid hyperplasia , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002692-4" qtype="exams and tests">How to diagnose Multiple endocrine neoplasia (MEN) II ?</Question>
+			<Answer>To diagnose this condition, the health care provider looks for a mutation in the RET gene. This can be done with a blood test. Additional tests are done to determine which hormones are being overproduced. A physical exam may reveal: 
+   Enlarged lymph nodes in the neck
+   ,  Fever ,  High blood pressure ,  Rapid heart rate ,  Thyroid nodules ,  Imaging tests used to identify tumors may include: Abdominal CT scan , 
+   Imaging of the kidneys or ureters
+   ,  MIBG scintiscan ,  MRI of abdomen ,  Thyroid scan ,  Ultrasound of the thyroid ,  Blood tests are used to see how well certain glands in the body are working. They may include: Calcitonin  level
+   ,  Blood alkaline phosphatase ,  Blood calcium , Blood parathyroid hormone level,  Blood phosphorus ,  Urine catecholamines ,  Urine metanephrine ,  Other tests or procedures that may be done include: Adrenal biopsy, Electrocardiogram ( ECG ), Thyroid biopsy, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002692-5" qtype="treatment">What are the treatments for Multiple endocrine neoplasia (MEN) II ?</Question>
+			<Answer>Surgery is needed to remove a pheochromocytoma, which can be life threatening due to the hormones it makes. For medullary carcinoma of the thyroid, the thyroid gland and surrounding lymph nodes must be totally removed. Thyroid hormone replacement therapy is given after surgery. If a child is known to carry the RET gene mutation, surgery to remove the thyroid before it becomes cancerous is considered. This should be discussed with a physician who is very familiar with this condition. It would be done at an early age (before age 5) in people with known MEN IIa, and before age 6 months in people with MEN IIb. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002692-6" qtype="outlook">What is the outlook for Multiple endocrine neoplasia (MEN) II ?</Question>
+			<Answer>Pheochromocytoma is most often not cancerous (benign). Medullary carcinoma of the thyroid is a very aggressive and potentially fatal cancer, but early diagnosis and surgery can often lead to a cure. Surgery does not cure the underlying MEN II.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002692-7" qtype="complications">What are the complications of Multiple endocrine neoplasia (MEN) II ?</Question>
+			<Answer>The spread of cancerous cells is a possible complication.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002692-8" qtype="when to contact a medical professional">Do I need to see a doctor for Multiple endocrine neoplasia (MEN) II ?</Question>
+			<Answer>Contact your provider if you notice symptoms of MEN II or if someone in your family receives such a diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002692-9" qtype="prevention">How to prevent Multiple endocrine neoplasia (MEN) II ?</Question>
+			<Answer>Screening close relatives of people with MEN II may lead to early detection of the syndrome and related cancers. This may allow for steps to prevent complications. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

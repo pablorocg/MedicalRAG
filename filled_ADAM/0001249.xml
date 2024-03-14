@@ -1,0 +1,17 @@
+<Document id="0001249" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000573.htm">
+ 
+<Focus>Disseminated intravascular coagulation (DIC)</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Consumption coagulopathy</Synonym>
+		<Synonym>DIC</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001249-1" qtype="information">Do you have information about Disseminated intravascular coagulation (DIC)</Question>
+			<Answer>Disseminated intravascular coagulation (DIC) is a serious disorder in which the proteins that control blood clotting become overactive.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

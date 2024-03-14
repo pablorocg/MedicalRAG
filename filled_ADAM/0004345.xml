@@ -1,0 +1,26 @@
+<Document id="0004345" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000822.htm">
+ 
+<Focus>Your cancer survivorship care plan</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006826</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004345-1" qtype="information">What is (are) Your cancer survivorship care plan ?</Question>
+			<Answer>After cancer treatment, you may have a lot of questions about your future. Now that treatment is over, what is next? What are the chances that  cancer may recur ? What can you do to stay healthy? A cancer survivorship care plan can help you feel more in control after treatment. Learn what a care plan is, why you may want one, and how to get one.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004345-2" qtype="information">What is (are) Your cancer survivorship care plan ?</Question>
+			<Answer>After cancer treatment, you may have a lot of questions about your future. Now that treatment is over, what is next? What are the chances that  cancer may recur ? What can you do to stay healthy? A cancer survivorship care plan can help you feel more in control after treatment. Learn what a care plan is, why you may want one, and how to get one.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

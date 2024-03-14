@@ -1,0 +1,64 @@
+<Document id="0004163" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007655.htm">
+ 
+<Focus>Uterine sarcoma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0338113</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Leiomyosarcoma</Synonym>
+		<Synonym>Endometrial stromal sarcoma</Synonym>
+		<Synonym>Undifferentiated sarcomas</Synonym>
+		<Synonym>Uterine cancer-sarcoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004163-1" qtype="information">What is (are) Uterine sarcoma ?</Question>
+			<Answer>Uterine sarcoma is a rare cancer of the uterus (womb). It is not the same as  endometrial cancer , a much more common cancer that starts in the lining of the uterus. Uterine sarcoma most often starts in the muscle underneath that lining.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004163-2" qtype="causes">What causes Uterine sarcoma ?</Question>
+			<Answer>The exact cause is not known. But there are certain risk factors: Past radiation therapy. A few women develop uterine sarcoma 5 to 25 years after they had radiation therapy for another pelvic cancer., Past or current treatment with tamoxifen for breast cancer., Race. African American women have twice the risk that white or Asian women have., Genetics. The same abnormal gene that causes an eye cancer called  retinoblastoma  also increases the risk for uterine sarcoma., Women who have never been pregnant., </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004163-3" qtype="symptoms">What are the symptoms of Uterine sarcoma ?</Question>
+			<Answer>The most common symptom of uterine sarcoma is bleeding after menopause. Let your health care provider know as soon as you can about: Any bleeding that is not part of your menstrual period, Any bleeding that happens after menopause ,  Most likely, the bleeding will not be from cancer. But you should always tell your provider about unusual bleeding.  Other possible symptoms of uterine sarcoma include: Vaginal discharge that does not get better with antibiotics and may occur without bleeding, A mass or lump in the vagina or uterus,  Some of the symptoms of uterine sarcoma are similar to those of  fibroids . The only way to tell the difference between sarcoma and fibroids is with tests, such as a biopsy of tissue taken from the uterus.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004163-4" qtype="exams and tests">How to diagnose Uterine sarcoma ?</Question>
+			<Answer>Your provider will take your medical history. You will also have a physical exam and a pelvic exam. Other tests may include: Endometrial biopsy  to collect a sample of tissue to look for signs of cancer,  Dilation and curettage (D &amp; C)  to collect cells from the uterus to look for cancer,  Imaging tests are needed to create a picture of your reproductive organs.  Ultrasound of the pelvis  is often done first. Yet, it often cannot tell the difference between a fibroid and a sarcoma. An  MRI scan of the pelvis  may also be needed. A biopsy using ultrasound or MRI to guide the needle may be used to make the diagnosis. If your provider finds signs of cancer, other tests are needed for staging the cancer. These tests will show how much cancer there is. They'll also show if it has spread to other parts of your body.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004163-5" qtype="treatment">What are the treatments for Uterine sarcoma ?</Question>
+			<Answer>Surgery is the most common treatment for uterine cancer. Surgery may be used to diagnose, stage, and treat uterine sarcoma all at one time. After surgery, the cancer will be examined in a lab to see how advanced it is. Depending on the results, you may need  radiation therapy  or  chemotherapy  to kill any cancer cells that remain. You also may have hormone therapy for certain kinds of tumors that respond to hormones. For advanced cancer that has spread outside the pelvis, you may want to join a  clinical trial  for uterine cancer. With cancer that has come back, radiation may be used for  palliative treatment . Palliative care is meant to relieve symptoms and improve a person's quality of life.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004163-6" qtype="support groups">Where to find support for people with Uterine sarcoma ?</Question>
+			<Answer>Cancer affects how you feel about yourself and your life. You can ease the stress of illness by joining a  cancer support group . Sharing with others who have the same experiences and problems can help you feel less alone. Ask your provider or the staff at the cancer treatment center to help you find a support group for people who have been diagnosed with uterine cancer.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004163-7" qtype="outlook">What is the outlook for Uterine sarcoma ?</Question>
+			<Answer>Your prognosis depends on the type and stage of uterine sarcoma you had when treated. For cancer that has not spread, at least 2 out of every 3 people are cancer-free after 5 years. The number drops once the cancer has started to spread and becomes harder to treat. Uterine sarcoma is often not found early, therefore, the prognosis may be poor. Your provider can help you understand the outlook for your type of cancer.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004163-8" qtype="complications">What are the complications of Uterine sarcoma ?</Question>
+			<Answer>Complications may include: A perforation (hole) of the uterus may occur during a D and C or endometrial biopsy, Complications from surgery, radiation, and chemotherapy, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0004163-9" qtype="when to contact a medical professional">Do I need to see a doctor for Uterine sarcoma ?</Question>
+			<Answer>See your provider if you have any symptoms of uterine cancer.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0004163-10" qtype="prevention">How to prevent Uterine sarcoma ?</Question>
+			<Answer>Because the cause is unknown, there's no way to prevent uterine sarcoma. If you have had radiation therapy in your pelvic area or have taken tamoxifen for breast cancer, ask your provider how often you should be checked for possible problems.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

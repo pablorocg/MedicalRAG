@@ -1,0 +1,54 @@
+<Document id="0001347" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001007.htm">
+ 
+<Focus>Ectropion</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013592</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001347-1" qtype="information">What is (are) Ectropion ?</Question>
+			<Answer>Ectropion is the turning out of the eyelid so that the inner surface is exposed. It most often affects the lower eyelid. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001347-2" qtype="causes">What causes Ectropion ?</Question>
+			<Answer>Ectropion is very often caused by the aging process. The connective (supporting) tissue of the eyelid becomes weak. This causes the lid to turn out so that the inside of the lower lid is no longer against the eyeball. It can also be caused by: A defect that occurs before birth (for example, in children with  Down syndrome ),  Facial muscle weakness , Scar tissue from burns or injuries, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001347-3" qtype="symptoms">What are the symptoms of Ectropion ?</Question>
+			<Answer>Symptoms include: Dry, painful eyes, Excess tearing of the eye ( epiphora ), Eyelid turns outward (downward), Long-term (chronic)  conjunctivitis ,  Keratitis , Redness of the lid and white part of the eye ,  If you have ectropion, you will most likely have excess tearing. This happens because the eye gets dry, then makes more tears. The excess tears can't get into the tear drainage duct. Therefore, they build up inside the lower lid and then spill over the edge of the lid onto the cheek.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001347-4" qtype="exams and tests">How to diagnose Ectropion ?</Question>
+			<Answer>The health care provider will make a diagnosis by doing an exam of the eyes and eyelids. Special tests are not needed most of the time.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001347-5" qtype="treatment">What are the treatments for Ectropion ?</Question>
+			<Answer>Artificial tears (a lubricant) may ease dryness and keep the cornea moist. Ointment may be helpful when the eye can't close all of the way, such as when you are asleep. Surgery is very often effective. When ectropion is related to aging or paralysis, the surgeon can tighten the muscles that hold the eyelids in place. If the condition is due to scarring of the skin, a skin graft or laser treatment may be used. The surgery is most often done in the office or at an outpatient surgery center. A medicine is used to numb the area (local anesthesia) before the surgery.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001347-6" qtype="outlook">What is the outlook for Ectropion ?</Question>
+			<Answer>The outcome is very often good with treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001347-7" qtype="complications">What are the complications of Ectropion ?</Question>
+			<Answer>Corneal dryness and irritation may lead to: Corneal abrasions ,  Corneal ulcers , Eye infections,  Corneal ulcers can cause vision loss.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001347-8" qtype="when to contact a medical professional">Do I need to see a doctor for Ectropion ?</Question>
+			<Answer>Contact your provider if you have symptoms of ectropion. If you have ectropion, get emergency medical help if you have:  Vision that is getting worse, Pain,  Sensitivity to light , Eye redness that is getting worse quickly, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001347-9" qtype="prevention">How to prevent Ectropion ?</Question>
+			<Answer>Most cases cannot be prevented. You may want to use artificial tears or ointments to prevent injury to the cornea, especially if you are waiting for a more permanent treatment.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

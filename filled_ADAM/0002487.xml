@@ -1,0 +1,34 @@
+<Document id="0002487" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001216.htm">
+ 
+<Focus>Macroamylasemia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0853030</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002487-1" qtype="information">What is (are) Macroamylasemia ?</Question>
+			<Answer>Macroamylasemia is the presence of an abnormal substance called macroamylase in the blood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002487-2" qtype="causes">What causes Macroamylasemia ?</Question>
+			<Answer>Macroamylase is a substance that consists of an  enzyme , called amylase, attached to a protein. Because it is large, macroamylase is filtered very slowly from the blood by the kidneys. Most people with macroamylasemia do not have a serious disease that is causing it, but the condition has been associated with: Celiac disease , Lymphoma,  HIV infection ,  Monoclonal gammopathy ,  Rheumatoid arthritis ,  Ulcerative colitis , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002487-3" qtype="symptoms">What are the symptoms of Macroamylasemia ?</Question>
+			<Answer>Macroamylasemia does not cause symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002487-4" qtype="exams and tests">How to diagnose Macroamylasemia ?</Question>
+			<Answer>A blood test will show high levels of amylase. However, macroamylasemia can look similar to  acute pancreatitis , which also causes high levels of amylase in the blood. Measuring amylase levels in the urine can help tell macroamylasemia apart from acute pancreatitis. Urine levels of amylase are low in people with macroamylasemia, but high in people with acute pancreatitis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

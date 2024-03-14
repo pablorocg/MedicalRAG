@@ -1,0 +1,22 @@
+<Document id="0000820" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000386.htm">
+ 
+<Focus>Cholesterol testing and results</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Cholesterol test results</Synonym>
+		<Synonym>LDL test results</Synonym>
+		<Synonym>VLDL test results</Synonym>
+		<Synonym>HDL test results</Synonym>
+		<Synonym>Coronary risk profile results</Synonym>
+		<Synonym>Hyperlipidemia-results</Synonym>
+		<Synonym>Lipid disorder test results</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000820-1" qtype="information">Do you have information about Cholesterol testing and results</Question>
+			<Answer>Cholesterol is a soft, wax-like substance found in all parts of the body. Your body needs a little bit of cholesterol to work properly. But too much cholesterol can clog your arteries and lead to  heart disease . Cholesterol blood tests are done to help you and your health care provider better understand your risk for heart disease, stroke, and other problems caused by narrowed or blocked arteries. The ideal values for all cholesterol results depend on whether you already have heart disease, diabetes, or other risk factors. Your provider can tell you what your goal should be. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

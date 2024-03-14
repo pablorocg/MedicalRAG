@@ -1,0 +1,42 @@
+<Document id="0003614" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003279.htm">
+ 
+<Focus>Skin lumps</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0577559</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003614-1" qtype="information">What is (are) Skin lumps ?</Question>
+			<Answer>Skin lumps are any abnormal bumps or swellings on or under the skin.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003614-2" qtype="considerations">What to do for Skin lumps ?</Question>
+			<Answer>Most lumps and swellings are  benign  (not cancerous) and are harmless, especially the kind that feel soft and roll easily under the fingers (such as lipomas and cysts). A lump or swelling that appears suddenly (over 24 to 48 hours) and is painful is usually caused by an injury or an infection.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003614-3" qtype="causes">What causes Skin lumps ?</Question>
+			<Answer>Common causes of skin lumps include: Lipomas, which are fatty lumps under the skin,  Enlarged lymph glands , usually in the armpits, neck, and groin,  Cysts , a closed sac in or under the skin that is lined with skin tissue and contains fluid or semisolid material, Benign skin growths such as seborrheic keratoses, skin tags, or neurofibromas,  Boils , painful, red bumps usually involving an infected hair follicle or group of follicles,  Corns or calluses , caused by skin thickening in response to continued pressure (for example, from shoes) and usually occurring on a toe or foot,  Warts , caused by a virus that develops a rough, hard bump, usually appearing on a hand or foot and often with tiny black dots in the bump,  Moles , skin-colored, tan, or brown bumps on the skin,  Abscesses , infected fluid and pus trapped in a closed space from which it cannot escape,  Cancer  of the skin (colored or pigmented spot that bleeds easily, changes size or shape, or crusts and does not heal) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003614-4" qtype="considerations">What to do for Skin lumps ?</Question>
+			<Answer>Most lumps and swellings are  benign  (not cancerous) and are harmless, especially the kind that feel soft and roll easily under the fingers (such as lipomas and cysts). A lump or swelling that appears suddenly (over 24 to 48 hours) and is painful is usually caused by an injury or an infection.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003614-5" qtype="when to contact a medical professional">Do I need to see a doctor for Skin lumps ?</Question>
+			<Answer>Call your provider if you have an unexplained lump or swelling.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003614-6" qtype="outlook">What is the outlook for Skin lumps ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

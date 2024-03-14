@@ -1,0 +1,34 @@
+<Document id="0000210" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002231.htm">
+ 
+<Focus>Anastomosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0332853</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T020</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000210-1" qtype="information">What is (are) Anastomosis ?</Question>
+			<Answer>Examples of surgical anastomoses are: Arteriovenous  fistula  (an opening created between an artery and vein) for  dialysis ,  Colostomy  (an opening created between the bowel and the skin of the abdominal wall), 
+   Intestinal, in which two ends of intestine are sewn together
+   , 
+   A connection between a graft and a blood vessel to create a bypass
+   , </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000210-2" qtype="information">What is (are) Anastomosis ?</Question>
+			<Answer>Examples of surgical anastomoses are: Arteriovenous  fistula  (an opening created between an artery and vein) for  dialysis ,  Colostomy  (an opening created between the bowel and the skin of the abdominal wall), 
+   Intestinal, in which two ends of intestine are sewn together
+   , 
+   A connection between a graft and a blood vessel to create a bypass
+   , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

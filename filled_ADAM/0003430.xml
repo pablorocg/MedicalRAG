@@ -1,0 +1,16 @@
+<Document id="0003430" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007275.htm">
+ 
+<Focus>Root canal</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Endodontic therapy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003430-1" qtype="information">Do you have information about Root canal</Question>
+			<Answer>A root canal is a dental procedure to save a tooth by removing dead or dying nerve tissue and bacteria from inside a tooth.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

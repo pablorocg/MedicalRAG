@@ -1,0 +1,54 @@
+<Document id="0004353" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000325.htm">
+ 
+<Focus>Zollinger-Ellison syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0043515</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Z-E syndrome</Synonym>
+		<Synonym>Gastrinoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004353-1" qtype="information">What is (are) Zollinger-Ellison syndrome ?</Question>
+			<Answer>Zollinger-Ellison syndrome is a condition in which the body produces too much of the hormone gastrin. Most of the time, a small tumor (gastrinoma) in the pancreas or small intestine is the source of the extra gastrin in the blood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004353-2" qtype="causes">What causes Zollinger-Ellison syndrome ?</Question>
+			<Answer>Zollinger-Ellison syndrome is caused by tumors. These growths are most often found in the head of the pancreas and the upper small intestine. The tumors are called gastrinomas. High levels of gastrin cause production of too much stomach acid. Gastrinomas occur as single tumors or several tumors. One half to two thirds of single gastrinomas are cancerous (malignant) tumors. These tumors often spread to the liver and nearby lymph nodes. Many people with gastrinomas have several tumors as part of a condition called  multiple endocrine neoplasia type I  (MEN I). Tumors may develop in the pituitary gland (brain) and parathyroid gland (neck) as well as in the pancreas.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004353-3" qtype="symptoms">What are the symptoms of Zollinger-Ellison syndrome ?</Question>
+			<Answer>Symptoms may include: Abdominal pain ,  Diarrhea ,  Vomiting blood  (sometimes) , Severe esophageal reflux ( GERD ) symptoms,  Signs include ulcers in the stomach and small intestine.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004353-4" qtype="exams and tests">How to diagnose Zollinger-Ellison syndrome ?</Question>
+			<Answer>Tests include: Abdominal CT scan , Calcium infusion test,  Endoscopic  ultrasound, Exploratory surgery,  Gastrin blood level , Octreotide scan,  Secretin stimulation test , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004353-5" qtype="treatment">What are the treatments for Zollinger-Ellison syndrome ?</Question>
+			<Answer>Drugs called proton pump inhibitors (omeprazole, lansoprazole, and others) are used for treating this problem. These drugs reduce acid production by the stomach. This helps the ulcers in the stomach and small intestine heal. These medicines also relieve abdominal pain and diarrhea. Surgery to remove a single gastrinoma may be done if the tumors have not spread to other organs. Surgery on the stomach (gastrectomy) to control acid production is rarely needed.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004353-6" qtype="outlook">What is the outlook for Zollinger-Ellison syndrome ?</Question>
+			<Answer>The cure rate is low, even when it is found early and the tumor is removed. However, gastrinomas grow slowly. People with this condition may live for many years after the tumor is found. Acid-suppressing medicines work well to control the symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004353-7" qtype="complications">What are the complications of Zollinger-Ellison syndrome ?</Question>
+			<Answer>Complications may include: Failure to locate the tumor during surgery, Intestinal bleeding or hole (perforation) from ulcers in the stomach or  duodenum , Severe diarrhea and  weight loss , Spread of the tumor to other organs , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004353-8" qtype="when to contact a medical professional">Do I need to see a doctor for Zollinger-Ellison syndrome ?</Question>
+			<Answer>Contact your health care provider if you have severe abdominal pain that does not go away, especially if it occurs with diarrhea.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,85 @@
+<Document id="0000201" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000688.htm">
+ 
+<Focus>Amyotrophic lateral sclerosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002736</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lou Gehrig's disease</Synonym>
+		<Synonym>ALS</Synonym>
+		<Synonym>Upper and lower motor neuron disease</Synonym>
+		<Synonym>Motor neuron disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000201-1" qtype="information">What is (are) Amyotrophic lateral sclerosis ?</Question>
+			<Answer>Amyotrophic lateral sclerosis, or ALS, is a disease of the nerve cells in the brain, brain stem and spinal cord that control voluntary muscle movement. ALS is also known as Lou Gehrig disease.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000201-2" qtype="causes">What causes Amyotrophic lateral sclerosis ?</Question>
+			<Answer>One in 10 cases of ALS is due to a genetic defect. The cause is unknown in most other cases. In ALS, motor nerve cells (neurons) waste away or die, and can no longer send messages to muscles. This eventually leads to muscle weakening, twitching, and an inability to move the arms, legs, and body. The condition slowly gets worse. When the muscles in the chest area stop working, it becomes hard or impossible to breathe. ALS affects approximately 5 out of every 100,000 people worldwide. Having a family member who has a hereditary form of the disease is a risk factor for ALS. Other risks include military service. The reasons for this are unclear, but it may have to do with environmental exposure to toxins.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000201-3" qtype="symptoms">What are the symptoms of Amyotrophic lateral sclerosis ?</Question>
+			<Answer>Symptoms usually do not develop until after age 50, but they can start in younger people. People with ALS have a loss of muscle strength and coordination that eventually gets worse and makes it impossible for them to do routine tasks such as going up steps, getting out of a chair, or swallowing. Weakness can first affect the arms or legs, or the ability to breathe or swallow. As the disease gets worse, more muscle groups develop problems. ALS does not affect the senses (sight, smell, taste, hearing, touch). Most people are able to think normally, although a small number develop dementia, causing problems with memory. Muscle weakness starts in one body part, such as the arm or hand, and slowly gets worse until it leads to the following: Difficulty lifting, climbing stairs, and walking, Difficulty breathing, Difficulty swallowing -- choking easily, drooling, or gagging, Head drop due to weakness of the neck muscles, Speech problems, such as a slow or abnormal speech pattern (slurring of words), Voice changes, hoarseness,  Other findings include: Depression,  Muscle cramps , Muscle stiffness, called spasticity,  Muscle contractions , called fasciculations, Weight loss, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000201-4" qtype="exams and tests">How to diagnose Amyotrophic lateral sclerosis ?</Question>
+			<Answer>The health care provider will examine you and ask about your medical history and symptoms. The physical exam may show: Weakness, often beginning in one area, Muscle tremors, spasms, twitching, or loss of muscle tissue, Twitching of the tongue (common), Abnormal reflexes, Stiff or clumsy walk, Decreased or increased reflexes at the joints, Difficulty controlling crying or laughing (sometimes called emotional incontinence), Loss of gag reflex ,  Tests that may be done include: 
+   Blood tests to rule out other conditions
+   , 
+   Breathing test to see if lung muscles are affected
+   ,  Cervical spine CT  or MRI to be sure there is no disease or injury to the neck, which can mimic ALS
+   ,  Electromyography  to see which nerves or muscles do not work properly
+   , 
+   Genetic testing, if there is a family history of ALS
+   ,  Head CT  or  MRI  to rule out other conditions
+   , 
+   Swallowing studies
+   , 
+   Spinal tap (lumbar puncture)
+   , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000201-5" qtype="treatment">What are the treatments for Amyotrophic lateral sclerosis ?</Question>
+			<Answer>There is no known cure for ALS. Two medicines are available that help slow the progression of symptoms and may help people live slightly longer: Riluzole (Rilutek), Edaravone (Radicava),  Treatments to control other symptoms include: 
+   Baclofen or diazepam for  spasticity  that interferes with daily activities
+   , 
+   Trihexyphenidyl or amitriptyline for people with problems swallowing their own saliva
+   ,  Physical therapy, rehabilitation, use of braces or a wheelchair, or other measures may be needed to help with muscle function and general health. People with ALS tend to lose weight. The illness itself increases the need for food and calories. At the same time, problems with choking and swallowing make it hard to eat enough. To help with feeding, a tube may be placed into the stomach. A dietitian who specializes in ALS can give advice on healthy eating. Breathing devices include machines that are used only at night, and constant mechanical ventilation. Medicine for depression may be needed if a person with ALS is feeling sad. They also should discuss their wishes regarding artificial ventilation with their families and providers.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000201-6" qtype="support groups">Where to find support for people with Amyotrophic lateral sclerosis ?</Question>
+			<Answer>Emotional support is vital in coping with the disorder, because mental functioning is not affected.  Groups  such as the ALS Association may be available to help people who are coping with the disorder. Support for people who are caring for someone with ALS is also available, and may be very helpful.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000201-7" qtype="outlook">What is the outlook for Amyotrophic lateral sclerosis ?</Question>
+			<Answer>Over time, people with ALS lose the ability to function and care for themselves. Death often occurs within 3 to 5 years of diagnosis. About 1 in 4 people survive for more than 5 years after diagnosis. Some people live much longer, but they typically need help breathing from a ventilator or other device.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000201-8" qtype="complications">What are the complications of Amyotrophic lateral sclerosis ?</Question>
+			<Answer>Complications of ALS include: Breathing in food or fluid ( aspiration ), Loss of ability to care for self, Lung failure,  Pneumonia , Pressure sores, Weight loss, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000201-9" qtype="when to contact a medical professional">Do I need to see a doctor for Amyotrophic lateral sclerosis ?</Question>
+			<Answer>Call your provider if: 
+   You have symptoms of ALS, particularly if you have a family history of the disorder
+   , 
+   You or someone else has been diagnosed with ALS and symptoms get worse or new symptoms develop
+   ,  Increased difficulty swallowing, difficulty breathing, and episodes of  apnea  are symptoms that require immediate attention.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0000201-10" qtype="prevention">How to prevent Amyotrophic lateral sclerosis ?</Question>
+			<Answer>You may want to see a genetic counselor if you have a family history of ALS.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

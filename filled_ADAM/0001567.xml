@@ -1,0 +1,58 @@
+<Document id="0001567" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001173.htm">
+ 
+<Focus>Female pattern baldness</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162311</CUI>
+			<CUI>C0263477</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Alopecia in women</Synonym>
+		<Synonym>Baldness - female</Synonym>
+		<Synonym>Hair loss in women</Synonym>
+		<Synonym>Androgenetic alopecia in women</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001567-1" qtype="information">What is (are) Female pattern baldness ?</Question>
+			<Answer>Female pattern baldness is the most common type of  hair loss  in women.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001567-2" qtype="causes">What causes Female pattern baldness ?</Question>
+			<Answer>Each strand of hair sits in a tiny hole in the skin called a follicle. In general, baldness occurs when the hair follicle shrinks over time, resulting in shorter and finer hair. Eventually, the follicle does not grow new hair. The follicles remain alive, which suggests that it is still possible to grow new hair. The reason for female pattern baldness is not well understood, but may be related to: Aging, Changes in the levels of androgens (hormones that can stimulate male features), Family history of male or female pattern baldness, Heavy loss of blood during menstrual periods, Certain medicines, such as estrogenic oral contraceptive, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001567-3" qtype="symptoms">What are the symptoms of Female pattern baldness ?</Question>
+			<Answer>Hair thinning is different from that of male pattern baldness. In female pattern baldness: Hair thins mainly on the top and crown of the scalp. It usually starts with a widening through the center hair part. This pattern of hair loss is known as Christmas tree pattern., The front hairline remains unaffected except for normal recession, which happens to everyone as time passes., The hair loss rarely progresses to total or near total baldness, as it may in men., If the cause is increased androgens, hair on the head is thinner while hair on the face is coarser.,  Itching or skin sores on the scalp are generally not seen.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001567-4" qtype="exams and tests">How to diagnose Female pattern baldness ?</Question>
+			<Answer>Female pattern baldness is usually diagnosed based on: Ruling out other causes of hair loss, such as thyroid disease or iron deficiency., The appearance and pattern of hair loss., Your medical history. ,  The health care provider will examine you for other signs of too much male hormone (androgen), such as: Abnormal new hair growth, such as on the face or between the belly button and pubic area, Changes in menstrual periods and enlargement of the clitoris, New acne ,  A  skin biopsy  of the scalp or blood tests may be used to diagnose skin disorders that cause hair loss. Looking at the hair with a dermoscope or under a microscope may be done to check for problems with the structure of the hair shaft itself.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001567-5" qtype="treatment">What are the treatments for Female pattern baldness ?</Question>
+			<Answer>
+Untreated, hair loss in female pattern baldness is permanent. In most cases, hair loss is mild to moderate. You do not need treatment if you are comfortable with your appearance. MEDICINES The only medicine approved by the United States Food and Drug Administration (FDA) to treat female pattern baldness is minoxidil: It is applied to the scalp., For women, the 2% solution or 5% foam is recommended., Minoxidil may help hair grow in about 1 in 4 or 5 of women. In most women, it may slow or stop hair loss., You must continue to use this medicine for a long time. Hair loss starts again when you stop using it. Also, the hair&#160;that it helps grow will fall out.,  If minoxidil does not work, your provider may recommend other medicines, such as spironolactone, cimetidine, birth control pills, ketoconazole, among others. Your provider can tell you more about these if needed.  HAIR TRANSPLANT This procedure can be effective in females: Who do not respond well to medical treatment, With no significant cosmetic improvement,  During hair transplant, tiny plugs of hair are removed from areas where hair is thicker, and placed (transplanted) in areas that are balding. Minor scarring may occur where hair is removed. There is a slight risk for skin infection. You will likely need many transplants, which can be expensive. However, the results are often excellent and permanent. OTHER SOLUTIONS Hair weaving, hairpieces, or a change in hairstyle can help hide hair loss and improve your appearance. This is most often the least expensive and safest way to deal with female pattern baldness.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001567-6" qtype="outlook">What is the outlook for Female pattern baldness ?</Question>
+			<Answer>Female pattern baldness is usually not a sign of an underlying medical disorder.  Hair loss may affect self-esteem and cause anxiety.  Hair loss is usually permanent. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001567-7" qtype="when to contact a medical professional">Do I need to see a doctor for Female pattern baldness ?</Question>
+			<Answer>Contact your provider if you have hair loss and it continues, especially if you also have  itching , skin irritation, or other symptoms. There might be a treatable medical cause for the hair loss.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001567-8" qtype="prevention">How to prevent Female pattern baldness ?</Question>
+			<Answer>There is no known prevention for female pattern baldness.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

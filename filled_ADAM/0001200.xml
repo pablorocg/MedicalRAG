@@ -1,0 +1,17 @@
+<Document id="0001200" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003918.htm">
+ 
+<Focus>Diagnostic laparoscopy</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Laparoscopy - diagnostic</Synonym>
+		<Synonym>Exploratory laparoscopy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001200-1" qtype="information">Do you have information about Diagnostic laparoscopy</Question>
+			<Answer>Diagnostic laparoscopy is a procedure that allows a doctor to look directly at the contents of the abdomen or pelvis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

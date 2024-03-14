@@ -1,0 +1,49 @@
+<Document id="0004007" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007233.htm">
+ 
+<Focus>Transient tachypnea - newborn</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0231835</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>TTN</Synonym>
+		<Synonym>Wet lungs - newborns</Synonym>
+		<Synonym>Retained fetal lung fluid</Synonym>
+		<Synonym>Transient RDS</Synonym>
+		<Synonym>Prolonged transition</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004007-1" qtype="information">What is (are) Transient tachypnea - newborn ?</Question>
+			<Answer>Transient tachypnea of the newborn (TTN) is a breathing disorder seen shortly after delivery, most often in early term or late preterm babies. Transient means it is short-lived (most often less than 48 hours)., Tachypnea means rapid breathing (faster than most newborns, who normally breathe 40 to 60 times per minute)., </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004007-2" qtype="causes">What causes Transient tachypnea - newborn ?</Question>
+			<Answer>As the baby grows in the womb, the lungs make a special fluid. This fluid fills the baby's lungs and helps them grow. When the baby is born at term, hormones released during labor tell the lungs to stop making this special fluid. The baby's lungs start removing or reabsorbing it. The first few breaths a baby takes after delivery fill the lungs with air and help to clear most of the remaining lung fluid. Leftover fluid in the lungs causes the baby to breathe rapidly. It is harder for the small air sacs of the lungs to stay open. TTN is more likely to occur in babies who are: Born before 38 completed weeks gestation (preterm, or early term), Delivered by C-section, especially if labor has not already started, Born to a mother with diabetes or asthma, Twins, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004007-3" qtype="symptoms">What are the symptoms of Transient tachypnea - newborn ?</Question>
+			<Answer>Newborns with TTN have breathing problems soon after birth, usually starting within 1 to 2 hours. Symptoms include: Bluish skin color ( cyanosis ),  Rapid breathing , which may occur with noises such as grunting, Flaring nostrils or movements between the ribs or breastbone known as retractions , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004007-4" qtype="exams and tests">How to diagnose Transient tachypnea - newborn ?</Question>
+			<Answer>The mother's pregnancy and labor history are important to make the diagnosis. Tests performed on the baby may include: Blood count  and  blood culture  to rule out infection,  Chest x-ray  to rule out other causes of breathing problems, Blood gas to check levels of carbon dioxide and oxygen, Continuous monitoring of the baby's oxygen levels, breathing, and heart rate,  The diagnosis of TTN is most often made after the baby is monitored for 2 or 3 days. If the condition goes away in that time, it is considered to be transient.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004007-5" qtype="treatment">What are the treatments for Transient tachypnea - newborn ?</Question>
+			<Answer>Your baby will be given oxygen, and sometimes CPAP (continuous positive airway pressure) as well, to keep the blood oxygen level and breathing rate stable. Your baby will often need the most support within a few hours after birth and will usually begin to improve after that. Most infants with TTN improve in less than 24 to 48 hours, but some will need help for a few days. Very rapid breathing usually means a baby is unable to eat. Fluids and nutrients will be given through a vein until your baby improves. Your baby may also receive antibiotics until the health care team is sure there is no infection. Sometimes, babies with TTN will need help with breathing or feeding for a week or more, usually if they are premature.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004007-6" qtype="outlook">What is the outlook for Transient tachypnea - newborn ?</Question>
+			<Answer>The condition most often goes away within 48 to 72 hours after delivery. In most cases, babies who have had TTN have no further problems from the condition. They will not need special care or follow-up other than their routine checkups. However, there is some evidence that babies with TTN may be at a higher risk for wheezing problems later in infancy. Late preterm or early term babies (born more than 2 to 6 weeks before their due date) who have been delivered by  C-section  without labor may be at risk for a more severe form known as "malignant TTN."</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

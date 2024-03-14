@@ -1,0 +1,40 @@
+<Document id="0004061" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002746.htm">
+ 
+<Focus>Turpentine oil poisoning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032343</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004061-1" qtype="information">What is (are) Turpentine oil poisoning ?</Question>
+			<Answer>Turpentine oil comes from a substance in pine trees. Turpentine oil poisoning occurs when someone swallows turpentine oil or breathes in the fumes. Breathing these fumes on purpose is sometimes called "huffing" or "bagging." It is a member of a class of compounds known as hydrocarbons. Exposure to hydrocarbons, both intentional and unintentional, is a common problem resulting in thousands of calls to poison control centers each year. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004061-4" qtype="symptoms">What are the symptoms of Turpentine oil poisoning ?</Question>
+			<Answer>Below are symptoms of turpentine poisoning in different parts of the body. BLADDER AND KIDNEYS Blood in urine ,  Kidney failure  (no urine produced) ,  EYES, EARS, NOSE, AND THROAT Loss of vision, Severe pain in the throat, Severe pain or burning in the nose, eyes, ears, lips, or tongue ,  HEART AND BLOOD Collapse,  Low blood pressure  that develops rapidly ,  LUNGS AND AIRWAYS Breathing difficulty (from breathing in turpentine), Severe cough or choking, Throat swelling (which may also cause breathing difficulty) ,  NERVOUS SYSTEM Dizziness, Drowsiness, Nervousness, Convulsions (seizures), Euphoria (feeling of being drunk), Headache, Staggering, Tremors, Unconsciousness, Weakness ,  SKIN Bluish skin color, Burns, Irritation ,  
+STOMACH AND INTESTINES
+ Blood in the stool , Burns of the food pipe (esophagus), Severe  abdominal pain , Vomiting,  Vomiting blood , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004061-5" qtype="considerations">What to do for Turpentine oil poisoning ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004061-8" qtype="outlook">What is the outlook for Turpentine oil poisoning ?</Question>
+			<Answer>How well someone does depends on how much turpentine they swallowed and how quickly they receive treatment. The faster medical help is given, the better the chance for recovery. Turpentine can cause extensive damage in the: Lungs, Mouth, Stomach, Throat ,  The outcome depends on the extent of this damage. Delayed injury may occur, including a hole forming in the throat, esophagus, or stomach. This can lead to severe bleeding and infection. Surgical procedures may be needed to treat these complications. If turpentine gets in the eye, ulcers may develop in the cornea, the clear part of the eye. This can cause blindness.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0004061-9" qtype="outlook">What is the outlook for Turpentine oil poisoning ?</Question>
+			<Answer>How well someone does depends on how much turpentine they swallowed and how quickly they receive treatment. The faster medical help is given, the better the chance for recovery. Turpentine can cause extensive damage in the: Lungs, Mouth, Stomach, Throat ,  The outcome depends on the extent of this damage. Delayed injury may occur, including a hole forming in the throat, esophagus, or stomach. This can lead to severe bleeding and infection. Surgical procedures may be needed to treat these complications. If turpentine gets in the eye, ulcers may develop in the cornea, the clear part of the eye. This can cause blindness.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

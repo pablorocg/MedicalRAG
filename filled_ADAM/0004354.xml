@@ -1,0 +1,19 @@
+<Document id="0004354" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000892.htm">
+ 
+<Focus>10 ways to cut 500 calories a day</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Weight loss - 500 calories</Synonym>
+		<Synonym>Overweight - 500 calories</Synonym>
+		<Synonym>Obesity - 500 calories</Synonym>
+		<Synonym>Diet - 500 calories</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004354-1" qtype="information">Do you have information about 10 ways to cut 500 calories a day</Question>
+			<Answer>No matter what type of diet you follow, to lose weight you need to burn more calories than you take in each day. For most people with overweight, cutting about 500 calories a day is a good place to start. If you can eat 500 fewer calories every day, you should lose about a pound (450 g) a week. Always talk with your health care provider to determine a healthy weight for you before starting a weight-loss diet.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

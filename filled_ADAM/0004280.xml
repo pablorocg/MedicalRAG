@@ -1,0 +1,42 @@
+<Document id="0004280" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003107.htm">
+ 
+<Focus>Weight loss - unintentional</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0043096</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Loss of weight</Synonym>
+		<Synonym>Losing weight without trying</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004280-1" qtype="information">What is (are) Weight loss - unintentional ?</Question>
+			<Answer>Unexplained weight loss is a decrease in body weight, when you did not try to lose the weight on your own. Many people gain and lose weight. Unintentional weight loss is loss of 10 pounds (4.5 kilograms) or 5% of your normal body weight over 6 to 12 months or less without knowing the reason.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004280-2" qtype="causes">What causes Weight loss - unintentional ?</Question>
+			<Answer>A loss of appetite may be due to: Feeling depressed, Cancer, even when other symptoms are not present, Chronic infection such as AIDS, Chronic illness, such as COPD or Parkinson disease, Drugs, including chemotherapy drugs, and thyroid medicines, Drug use such as amphetamines and cocaine, Stress or anxiety ,  Chronic digestive system problems that decrease the amount of calories and nutrients your body absorbs, including: Celiac disease, Diarrhea and other infections that last a long time, such as parasites, Chronic inflammation of the pancreas, Removal of part of the small intestine, Overuse of laxatives ,  Other causes such as: Eating disorders, such as anorexia nervosa that have not been diagnosed yet, Diabetes that has not been diagnosed, Overactive thyroid gland , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004280-3" qtype="considerations">What to do for Weight loss - unintentional ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004280-4" qtype="when to contact a medical professional">Do I need to see a doctor for Weight loss - unintentional ?</Question>
+			<Answer>Contact your provider if: You or a family member  loses more weight  than is considered healthy for their age and height., You have lost more than 10 pounds (4.5 kilograms) or 5% of your normal body weight over 6 to 12 months or less, and you do not know the reason., You have other symptoms in addition to the weight loss. , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004280-5" qtype="outlook">What is the outlook for Weight loss - unintentional ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

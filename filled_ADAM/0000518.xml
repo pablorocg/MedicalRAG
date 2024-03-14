@@ -1,0 +1,53 @@
+<Document id="0000518" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000935.htm">
+ 
+<Focus>Borderline personality disorder</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006012</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Personality disorder - borderline</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000518-1" qtype="information">What is (are) Borderline personality disorder ?</Question>
+			<Answer>Borderline personality disorder (BPD) is a mental condition in which a person has long-term patterns of unstable or turbulent emotions. These inner experiences often result in impulsive actions and chaotic relationships with other people.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000518-2" qtype="causes">What causes Borderline personality disorder ?</Question>
+			<Answer>The cause of BPD is unknown. Genetic, family, and social factors are thought to play roles. Risk factors include: Either real or fear of abandonment in childhood or adolescence, Disrupted family life, Poor communication in the family, Sexual, physical, or emotional abuse ,  BPD occurs equally in men and women, though women tend to seek treatment more often than men. Symptoms may get better in or after middle age.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000518-3" qtype="symptoms">What are the symptoms of Borderline personality disorder ?</Question>
+			<Answer>People with BPD lack confidence in how they view themselves and how they are judged by others. As a result, their interests and values can change rapidly. They also tend to view things in terms of extremes, such as either all good or all bad. Their views of other people can change quickly. A person who is looked up to one day may be looked down on the next day. These suddenly shifting feelings often lead to intense and unstable relationships. Other symptoms of BPD include: Intense fear of being abandoned, Can't tolerate being alone, Feelings of emptiness and boredom, Displays of inappropriate anger, Impulsiveness, such as with substance use or sexual relationships, Self-injury, such as wrist cutting or overdosing , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000518-4" qtype="exams and tests">How to diagnose Borderline personality disorder ?</Question>
+			<Answer>BPD is diagnosed based on a psychological evaluation. The health care provider will consider how long and how severe the person's symptoms are.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000518-5" qtype="treatment">What are the treatments for Borderline personality disorder ?</Question>
+			<Answer>Individual talk therapy may successfully treat BPD. Group therapy can sometimes be helpful. Medicines have less of a role in treating BPD than many other mental disorders. In some cases, they can improve mood swings and treat depression or other disorders that may occur with this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000518-6" qtype="outlook">What is the outlook for Borderline personality disorder ?</Question>
+			<Answer>The outlook of treatment depends on how severe the condition is and whether the person is willing to accept help. With long-term talk therapy, the person often gradually improves.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000518-7" qtype="complications">What are the complications of Borderline personality disorder ?</Question>
+			<Answer>Complications may include: Depression ,  Drug use , Problems with work, family, and social relationships,  Suicide  attempts and actual suicide , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000518-8" qtype="when to contact a medical professional">Do I need to see a doctor for Borderline personality disorder ?</Question>
+			<Answer>See your provider if you or someone you know has symptoms of borderline personality disorder. It is especially important to seek help right away if you or someone you know is having thoughts of suicide. If you or someone you know is thinking about suicide, call or text 988 or chat  988lifeline.org . You can also call 1-800-273-8255 (1-800-273-TALK). The 988 Suicide and Crisis Lifeline provides free and confidential support 24/7, anytime day or night. You can also call 911 or the local emergency number or go to the hospital emergency room. DO NOT delay. If someone you know has attempted suicide, call 911 or the local emergency number right away. DO NOT leave the person alone, even after you have called for help.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

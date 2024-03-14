@@ -1,0 +1,54 @@
+<Document id="0002537" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001034.htm">
+ 
+<Focus>Mastoiditis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024904</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002537-1" qtype="information">What is (are) Mastoiditis ?</Question>
+			<Answer>Mastoiditis is an infection of the mastoid bone of the skull. The mastoid bone is located just behind the ear.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002537-2" qtype="causes">What causes Mastoiditis ?</Question>
+			<Answer>Mastoiditis is most often caused by a middle ear infection ( acute otitis media ). The infection may spread from the ear to the mastoid bone. The bone has a honeycomb-like structure that fills with infected material and may break down.  The condition is most common in children. Before antibiotics, mastoiditis was one of the leading causes of death in children. The condition does not occur very often today. It is also much less dangerous. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002537-3" qtype="symptoms">What are the symptoms of Mastoiditis ?</Question>
+			<Answer>Symptoms include: Drainage from the ear ,  Ear pain or discomfort , Fever, may be high or suddenly increase, Headache, Hearing loss, Redness of the ear or behind the ear, Swelling behind the ear, may cause ear to stick out or feel as if it is filled with fluid, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002537-4" qtype="exams and tests">How to diagnose Mastoiditis ?</Question>
+			<Answer>An exam of the head may reveal signs of mastoiditis. The following tests may show an abnormality of the mastoid bone: CT scan  of the ear ,  Head CT scan ,  A culture of drainage from the ear may show bacteria.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002537-5" qtype="treatment">What are the treatments for Mastoiditis ?</Question>
+			<Answer>Mastoiditis may be hard to treat because the medicine may not reach deeply into the bone. The condition sometimes requires repeated or long-term treatment. The infection is treated with antibiotic injections, followed by antibiotics taken by mouth.  Surgery to remove part of the bone and drain the mastoid ( mastoidectomy ) may be needed if antibiotic treatment does not work. Surgery to drain the middle ear through the eardrum ( myringotomy ) may be needed to treat the middle ear infection.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002537-6" qtype="outlook">What is the outlook for Mastoiditis ?</Question>
+			<Answer>Mastoiditis can be cured. However, it may be hard to treat and may come back.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002537-7" qtype="complications">What are the complications of Mastoiditis ?</Question>
+			<Answer>Complications may include: Destruction of the mastoid bone,  Dizziness  or vertigo,  Epidural abscess ,  Facial paralysis ,  Meningitis , Partial or complete  hearing loss , Spread of infection to the brain or throughout the body, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002537-8" qtype="when to contact a medical professional">Do I need to see a doctor for Mastoiditis ?</Question>
+			<Answer>Contact your health care provider if you have symptoms of mastoiditis. Also call if: You have an  ear infection  that does not respond to treatment or is followed by new symptoms., Your symptoms do not respond to treatment., You notice any facial asymmetry., </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002537-9" qtype="prevention">How to prevent Mastoiditis ?</Question>
+			<Answer>Prompt and thorough treatment of ear infections reduces the risk for mastoiditis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,23 @@
+<Document id="0002037" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000748.htm">
+ 
+<Focus>How to take statins</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Antilipemic Agent</Synonym>
+		<Synonym>HMG-CoA reductase inhibitors</Synonym>
+		<Synonym>Atorvastatin (Lipitor)</Synonym>
+		<Synonym>Simvastatin (Zocor)</Synonym>
+		<Synonym>Lovastatin (Mevacor, Altoprev)</Synonym>
+		<Synonym>Pravastatin (Pravachol)</Synonym>
+		<Synonym>Rosuvastatin (Crestor)</Synonym>
+		<Synonym>Fluvastatin (Lescol)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002037-1" qtype="information">Do you have information about How to take statins</Question>
+			<Answer>Statins are medicines that help lower the amount of cholesterol and other fats in your blood. Statins work by: Lowering LDL (bad)  cholesterol , Raising HDL (good) cholesterol in your blood, Lowering  triglycerides , another type of fat in your blood ,  Statins block how your liver makes cholesterol. Cholesterol can stick to the walls of your arteries and narrow or block them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

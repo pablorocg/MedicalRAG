@@ -1,0 +1,34 @@
+<Document id="0002634" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003272.htm">
+ 
+<Focus>Microcephaly</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0025958</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002634-1" qtype="information">What is (are) Microcephaly ?</Question>
+			<Answer>Microcephaly is a condition in which a person's head size is much smaller than that of others of the same age and sex. Head size is measured as the distance around the top of the head. A smaller than normal size is determined using standardized charts.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002634-2" qtype="causes">What causes Microcephaly ?</Question>
+			<Answer>Microcephaly most often occurs because the brain does not grow at a normal rate. The growth of the skull is determined by brain growth. Brain growth takes place while a baby is in the womb and during infancy. Conditions that affect brain growth can cause smaller than normal head size. These include infections, genetic disorders, and severe malnutrition. Genetic conditions that cause microcephaly include: Cornelia de Lange syndrome,  Cri du chat syndrome , Down syndrome,  Rubinstein-Taybi syndrome , Seckel syndrome, Smith-Lemli-Opitz syndrome,  Trisomy 18 , Trisomy 21 ,  Other problems that may lead to microcephaly include: Uncontrolled phenylketonuria (PKU) in the mother, Methylmercury poisoning,  Congenital rubella ,  Congenital toxoplasmosis ,  Congenital cytomegalovirus  (CMV), Use of certain drugs during pregnancy, especially alcohol and phenytoin,  Becoming infected with the  Zika virus  while pregnant can also cause microcephaly. The Zika virus has been found in Africa, the South Pacific, tropical regions of Asia, and in Brazil and other parts of South America, along with Mexico, Central America, and the Caribbean.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002634-3" qtype="when to contact a medical professional">Do I need to see a doctor for Microcephaly ?</Question>
+			<Answer>Most often, microcephaly is diagnosed at birth or during routine  well-baby exams . Talk to your health care provider if you think your infant's head size is too small or not growing normally.  Contact your provider if you or your partner has been to an area where Zika is present and you are pregnant or thinking about becoming pregnant.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002634-4" qtype="outlook">What is the outlook for Microcephaly ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

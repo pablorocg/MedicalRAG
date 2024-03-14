@@ -1,0 +1,42 @@
+<Document id="0003263" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007338.htm">
+ 
+<Focus>Protein-losing enteropathy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0033680</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003263-1" qtype="information">What is (are) Protein-losing enteropathy ?</Question>
+			<Answer>Protein-losing enteropathy is an abnormal loss of protein from the digestive tract. It can also refer to the inability of the digestive tract to absorb proteins.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003263-2" qtype="causes">What causes Protein-losing enteropathy ?</Question>
+			<Answer>There are many causes of protein-losing enteropathy. Conditions that cause serious inflammation in the intestines can lead to protein loss. Some of these are:  Bacterial or parasitic infection of the intestines,  Celiac disease ,  Crohn disease , 
+   HIV infection
+   , 
+   Lymphoma
+   , Lymphatic obstruction in the gastrointestinal tract, Intestinal lymphangiectasia, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003263-3" qtype="symptoms">What are the symptoms of Protein-losing enteropathy ?</Question>
+			<Answer>Symptoms can include: Diarrhea, Fever, Abdominal pain, Swelling,  Symptoms will depend on the disease that is causing the problem.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003263-4" qtype="exams and tests">How to diagnose Protein-losing enteropathy ?</Question>
+			<Answer>You may need tests that look at the intestinal tract. These may include a CT scan of the abdomen or an upper GI bowel series. Other tests you may need include: Colonoscopy, Esophagogastroduodenoscopy (EGD), Small intestine biopsy,  Alpha-1-antitrypsin  test, Small bowel capsule endoscopy, CT or MR enterography, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003263-5" qtype="treatment">What are the treatments for Protein-losing enteropathy ?</Question>
+			<Answer>The health care provider will treat the condition that caused protein-losing enteropathy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

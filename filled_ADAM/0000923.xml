@@ -1,0 +1,22 @@
+<Document id="0000923" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000583.htm">
+ 
+<Focus>Common symptoms during pregnancy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1457887</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000923-1" qtype="information">What is (are) Common symptoms during pregnancy ?</Question>
+			<Answer>Growing a baby is hard work. Your body will go through a lot of changes as your baby grows and your hormones change. Along with the  aches and pains of pregnancy , you will feel other new or changing symptoms. Even so, many pregnant women say that they feel healthier than ever. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

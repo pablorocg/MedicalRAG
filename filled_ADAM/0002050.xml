@@ -1,0 +1,46 @@
+<Document id="0002050" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003112.htm">
+ 
+<Focus>Hump behind the shoulders (Dorsocervical fat pad)</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0154270</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Buffalo hump</Synonym>
+		<Synonym>Dorsocervical fat pad</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002050-1" qtype="information">What is (are) Hump behind the shoulders (Dorsocervical fat pad) ?</Question>
+			<Answer>A hump on the upper back between the shoulder blades is an area of fat accumulation on the back of the neck. The medical name of this condition is dorsocervical fat pad.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002050-2" qtype="considerations">What to do for Hump behind the shoulders (Dorsocervical fat pad) ?</Question>
+			<Answer>A hump between the shoulder blades by itself is not a sign of a specific condition. Your health care provider must consider this along with other symptoms and test results.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002050-3" qtype="causes">What causes Hump behind the shoulders (Dorsocervical fat pad) ?</Question>
+			<Answer>Causes of dorsocervical fat pad include any of the following: Certain medicines used to treat HIV/AIDS, Long-term use of certain glucocorticoid medicines, including prednisone, dexamethasone, and hydrocortisone, Obesity (usually causes more generalized fat deposition), High level of the hormone cortisol (caused by  Cushing syndrome ), Certain genetic disorders that cause unusual fat accumulation, Madelung disease (multiple symmetrical lipomatosis) often associated with excess alcohol intake,  Osteoporosis  may cause a curvature of the spine in the neck called kyphoscoliosis. This causes an abnormal shape but does not by itself cause excessive fat in the back of the neck.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002050-4" qtype="considerations">What to do for Hump behind the shoulders (Dorsocervical fat pad) ?</Question>
+			<Answer>A hump between the shoulder blades by itself is not a sign of a specific condition. Your health care provider must consider this along with other symptoms and test results.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002050-5" qtype="when to contact a medical professional">Do I need to see a doctor for Hump behind the shoulders (Dorsocervical fat pad) ?</Question>
+			<Answer>Make an appointment with your provider if you have an unexplained hump behind the shoulders.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002050-6" qtype="outlook">What is the outlook for Hump behind the shoulders (Dorsocervical fat pad) ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

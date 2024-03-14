@@ -1,0 +1,58 @@
+<Document id="0001941" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000284.htm">
+ 
+<Focus>Hepatitis C</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019196</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sustained virologic response - hepatitis C</Synonym>
+		<Synonym>SVR - hepatitis C</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001941-1" qtype="information">What is (are) Hepatitis C ?</Question>
+			<Answer>Hepatitis C is a viral disease that leads to swelling (inflammation) of the liver. Other types of viral hepatitis include: Hepatitis A ,  Hepatitis B ,  Hepatitis D , Hepatitis E , </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001941-2" qtype="causes">What causes Hepatitis C ?</Question>
+			<Answer>Hepatitis C infection is caused by the hepatitis C virus (HCV).  You can catch hepatitis C if the blood of someone who has HCV enters your body. Exposure may occur: After a needle stick or sharps injury , If blood from someone who has HCV contacts a cut on your skin or contacts your eyes or mouth , While injecting street drugs,  People at risk for HCV are those who: Inject street drugs or share a needle with someone who has HCV, Have been on long-term kidney dialysis, Have regular contact with blood at work (such as a health care worker), Have unprotected sexual contact with a person who has HCV, Were born to a mother who had HCV, Received a tattoo or acupuncture with needles that were not disinfected properly after being used on another person (risk is very low with practitioners who have a tattoo license or permit or an acupuncture license), Received an organ transplant from a donor who has HCV, Share personal items, such as toothbrushes and razors, with someone who has HCV (less common), Received a  blood transfusion  (rare in the United States since blood screening became available in 1992) , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001941-3" qtype="symptoms">What are the symptoms of Hepatitis C ?</Question>
+			<Answer>Most people who are recently infected with HCV do not have symptoms. Some people have yellowing of the skin (jaundice). Chronic infection often causes no symptoms. But fatigue, depression and other problems can occur. Persons who have long-term (chronic) infection often have no symptoms until their liver becomes scarred ( cirrhosis ). Most people with this condition are ill and have many health problems.  The following symptoms may occur with HCV infection: Pain in the right upper abdomen, Abdominal swelling due to fluid ( ascites ), Clay-colored or pale stools,  Dark urine ,  Fatigue ,  Fever ,  Itching , Jaundice, Loss of appetite, Nausea and vomiting, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001941-4" qtype="exams and tests">How to diagnose Hepatitis C ?</Question>
+			<Answer>Blood tests are done to check for HCV: Enzyme immunoassay (EIA) to detect HCV antibody, Polymerase chain reaction (PCR) to detect the virus itself, to measure virus levels (viral load), and to identify the type of hepatitis C virus,  All adults ages 18 to 79 should get a one-time test for HCV. This screening test checks for antibodies against HCV (anti-HCV). If the antibody test is positive, a PCR test is used to confirm HCV infection. Further genetic testing is done to check for the type of HCV (genotype). There are six types of the virus (genotypes 1 through 6). Test results can help your health care provider choose treatment that is best for you. The following tests are done to identify and monitor liver damage from HCV: Albumin level, Liver function tests, Prothrombin time, Liver biopsy, Transient elastography using ultrasound, Magnetic resonance elastography (MRE), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001941-5" qtype="treatment">What are the treatments for Hepatitis C ?</Question>
+			<Answer>You should talk to your provider about your treatment options and when treatment should begin.  The goal of treatment is to rid the body of the virus. This can prevent liver damage that may lead to liver failure or  liver cancer ., Treatment is especially important for people who are showing signs of liver fibrosis or scarring. ,  Antiviral medicines are used to treat HCV. These medicines help fight HCV. Newer antiviral drugs: Provide an excellent cure rate, Have fewer side effects and are easier to take than older medicines, Are taken by mouth for 8 to 24 weeks ,  The choice of which medicine depends on the genotype of HCV you have. A  liver transplant  may be recommended for people who develop cirrhosis and/or liver cancer. Your provider can tell you more about liver transplant. If you have HCV: Do not take over-the-counter medicines that you have not taken before without asking your provider. Also ask about vitamins and other supplements., Do not use alcohol or street drugs. Alcohol can speed up the damage to your liver. It can also reduce how well medicines work., If blood tests show that you do not have antibodies to hepatitis A and B, you should have the hepatitis A and hepatitis B vaccines. If you have not received a vaccine for hepatitis A or B or have not had these forms of hepatitis, you may need vaccination for them., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001941-6" qtype="support groups">Where to find support for people with Hepatitis C ?</Question>
+			<Answer>More information and support for people with HCV condition and their families can be found by joining a support group. Ask your provider about liver disease resources and support groups in your area.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001941-7" qtype="outlook">What is the outlook for Hepatitis C ?</Question>
+			<Answer>Most people (75% to 85%) who are infected with the virus develop chronic HCV. This condition poses a risk for cirrhosis and liver cancer. The outlook for HCV depends in part on the genotype.  A good response to treatment occurs when the virus can no longer be detected in the blood 12 weeks or more after treatment. This is called "sustained virologic response" (SVR). Up to 90% of those treated for some genotypes have this type of response. Some people do not respond to initial treatment. They may need to be re-treated with a different class of medicines. Also, some people can become re-infected or infected with a different genotype strain.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001941-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hepatitis C ?</Question>
+			<Answer>Contact your provider if: You develop symptoms of hepatitis, You believe you have been exposed to HCV, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001941-9" qtype="prevention">How to prevent Hepatitis C ?</Question>
+			<Answer>Steps that can be taken to help  prevent the spread of HCV  from one person to another include: Health care workers should follow precautions when handling blood., Do not share needles with anyone., Do not get tattoos or body piercings or receive acupuncture from someone who does not have a permit or license., Do not share personal items, such as razors and toothbrushes., Practice  safe sex .,  If you or your sexual partner is infected with HCV and you have been in a stable and monogamous (no other partners) relationship, the risk of giving the virus to, or getting the virus from, the other person is low. HCV cannot be spread by casual contact, such as holding hands, kissing, coughing or sneezing, breastfeeding, sharing eating utensils or drinking glasses. Currently there is no vaccine for HCV.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

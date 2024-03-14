@@ -1,0 +1,43 @@
+<Document id="0002640" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001367.htm">
+ 
+<Focus>Milia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0345996</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002640-1" qtype="information">What is (are) Milia ?</Question>
+			<Answer>Milia are tiny white bumps or small cysts on the skin. They are almost always seen in newborn babies.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002640-2" qtype="causes">What causes Milia ?</Question>
+			<Answer>Milia occur when dead skin becomes trapped in small pockets at the surface of the skin or mouth. They are common in newborn infants. Similar cysts are seen in the mouths of newborn infants. They are called  Epstein pearls . These cysts also go away on their own. Adults may develop milia on the face. The bumps and cysts also occur on parts of the body that are swollen (inflamed) or injured. Rough sheets or clothing may irritate the skin and mild reddening around the bump. The middle of the bump will stay white. Irritated milia are sometimes called "baby acne." This is incorrect since milia are not a true from of acne.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002640-3" qtype="symptoms">What are the symptoms of Milia ?</Question>
+			<Answer>Symptoms may include: Whitish, pearly bump in the skin of newborns, Bumps that appear across the cheeks, nose, and chin, Whitish, pearly bump on gums or roof of mouth (they may look like teeth coming through the gums) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002640-4" qtype="exams and tests">How to diagnose Milia ?</Question>
+			<Answer>The health care provider can often diagnose milia just by looking at the skin or mouth. No testing is needed.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002640-5" qtype="treatment">What are the treatments for Milia ?</Question>
+			<Answer>In children, no treatment is needed. Skin changes on the face or cysts in the mouth often go away after the first few weeks of life without treatment. There are no lasting effects. Adults may have milia removed to improve their appearance.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002640-6" qtype="prevention">How to prevent Milia ?</Question>
+			<Answer>There is no known prevention.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

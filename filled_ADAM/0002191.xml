@@ -1,0 +1,64 @@
+<Document id="0002191" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001065.htm">
+ 
+<Focus>Injury - kidney and ureter</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3263723</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Kidney damage</Synonym>
+		<Synonym>Toxic injury of the kidney</Synonym>
+		<Synonym>Kidney injury</Synonym>
+		<Synonym>Traumatic injury of the kidney</Synonym>
+		<Synonym>Fractured kidney</Synonym>
+		<Synonym>Inflammatory injury of the kidney</Synonym>
+		<Synonym>Bruised kidney</Synonym>
+		<Synonym>Ureteral injury</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002191-1" qtype="information">What is (are) Injury - kidney and ureter ?</Question>
+			<Answer>Injury to the kidney and ureter is damage to the organs of the upper urinary tract.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002191-2" qtype="causes">What causes Injury - kidney and ureter ?</Question>
+			<Answer>The kidneys are located in the flank at either side of the spine. The flank is the back of the upper abdomen. They are protected by the spine, lower rib cage, and strong muscles of the back. This location protects the kidneys from many outside forces. The kidneys are also surrounded by a layer of fat. The fat helps to cushion them. The kidneys have a large blood supply. Any injury to them, can lead to severe bleeding. The many layers of padding help prevent kidney injury. Kidneys may be injured by damage to the blood vessels that supply or drain them, including: Aneurysm ,  Arterial blockage , Arteriovenous  fistula ,  Renal vein thrombosis  (clotting), Trauma ,  Kidney injuries may also be caused by: Angiomyolipoma, a noncancerous tumor, if the tumor is very large,  Autoimmune disorders , Bladder outlet obstruction, Cancer of the kidney, pelvic organs (ovaries or uterus in women), or colon, Diabetes, Buildup of body waste products such as uric acid (which can occur with  gout  or treatment of bone marrow, lymph node, or other disorders), Exposure to toxic substances such as lead, cleaning products, solvents, fuels, certain antibiotics, or long-term use of pain medicines ( analgesic nephropathy ), High blood pressure and other medical conditions that affect the kidneys, Inflammation caused by immune responses to medicines, infection, or other disorders, Medical procedures such as  kidney biopsy , or nephrostomy tube placement,  Ureteropelvic junction obstruction , Ureteral obstruction, Kidney stones ,  The ureters are the tubes that carry urine from the kidneys to the bladder. Ureteral injuries may be caused by: Complications from medical procedures, Diseases such as  retroperitoneal fibrosis , retroperitoneal sarcomas, or cancers that spread to the lymph nodes near the ureters, Kidney stone disease,  Radiation  to the belly area, Trauma , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002191-3" qtype="symptoms">What are the symptoms of Injury - kidney and ureter ?</Question>
+			<Answer>Emergency symptoms may include: Abdominal pain  and swelling, Severe flank pain and back pain,  Blood in the urine , Drowsiness,  decreased alertness , including coma, Decreased urine output or inability to urinate, Fever, Increased heart rate, Nausea, vomiting, Skin that is pale or cool to touch, Sweating ,  Long-term (chronic) symptoms may include: Malnutrition, High blood pressure, Kidney failure ,  If only one kidney is affected and the other kidney is healthy, you may not have any symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002191-4" qtype="exams and tests">How to diagnose Injury - kidney and ureter ?</Question>
+			<Answer>The health care provider will examine you. Let them know about any recent illness or if you have come into contact with toxic substances. The exam may show: Excess bleeding (hemorrhage), Extreme tenderness over the kidney,  Shock , including rapid heart rate or falling blood pressure, Signs of kidney failure ,  Tests that may be done include: Abdominal CT scan ,  Abdominal MRI , Abdominal ultrasound,  Angiography  of the kidney artery or vein, Blood  electrolytes , Blood tests to look for toxic substances, Complete blood count ( CBC ), Intravenous pyelogram ( IVP ), Kidney function tests,  Kidney x-ray , Retrograde pyelogram,  Renal scan ,  Urinalysis , Urodynamic study, Voiding cystourethrogram, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002191-5" qtype="treatment">What are the treatments for Injury - kidney and ureter ?</Question>
+			<Answer>The goals are to treat emergency symptoms and prevent or treat complications. You may need to stay in a hospital. Treatments for a kidney injury may include: Bed rest for 1 to 2 weeks or until bleeding is reduced, Close observation and treatment for symptoms of kidney failure, Diet changes, Medicines to treat damage caused by toxic substances or illnesses (for example, chelation therapy for lead poisoning or allopurinol to lower uric acid in the blood due to gout), Pain medicines, Eliminating medicines or exposure to substances that may have injured the kidney, Drugs such as corticosteroids or immunosuppressants if the injury was caused by inflammation, Treatment of acute kidney failure,  Sometimes, surgery is needed. This may include: Repairing a "fractured" or torn kidney, torn blood vessels, torn ureter, or similar injury, Removing the entire kidney ( nephrectomy ), draining the space around the kidney, or stopping the bleeding via arterial catheterization (angioembolization), Placing a stent, Removing blockage or relieving obstruction, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002191-6" qtype="outlook">What is the outlook for Injury - kidney and ureter ?</Question>
+			<Answer>How well you do depends on the cause and severity of the injury.  Sometimes, the kidney starts working properly again. Sometimes, kidney failure occurs. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002191-7" qtype="complications">What are the complications of Injury - kidney and ureter ?</Question>
+			<Answer>Complications may include: Sudden kidney failure , one or both kidneys, Bleeding (may be minor or severe), Bruising of the kidney,  Chronic kidney failure , one or both kidneys, Infection ( peritonitis ,  sepsis ), Pain, Renal artery stenosis,  Renal hypertension ,  Shock ,  Urinary tract infection , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002191-8" qtype="when to contact a medical professional">Do I need to see a doctor for Injury - kidney and ureter ?</Question>
+			<Answer>Contact your provider if you have symptoms of an injury to the kidney or ureter. Contact the provider if you have a history of: Exposure to toxic substances, Illness, Infection, Physical injury,  Go to the emergency room or call 911 or the local emergency number if you have decreased urine output after a kidney injury. This may be a symptom of kidney failure.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002191-9" qtype="prevention">How to prevent Injury - kidney and ureter ?</Question>
+			<Answer>You can help prevent injury to the kidneys and ureter by taking these steps: Be aware of substances that can cause lead poisoning. These include old paints, vapors from working with lead-coated metals, and alcohol distilled in recycled car radiators., Take all your medicines properly, including ones you buy without a prescription (over-the-counter)., Treat gout and other illnesses as instructed by your provider., Use safety equipment during work and play., Use cleaning products, solvents, and fuels as directed. Make sure the area is well-ventilated, because the fumes may also be toxic., Wear seat belts and drive safely., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

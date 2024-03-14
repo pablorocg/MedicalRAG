@@ -1,0 +1,55 @@
+<Document id="0000050" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001577.htm">
+ 
+<Focus>Achondroplasia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0001080</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000050-1" qtype="information">What is (are) Achondroplasia ?</Question>
+			<Answer>Achondroplasia is a disorder of bone growth that causes the most common type of dwarfism.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000050-2" qtype="causes">What causes Achondroplasia ?</Question>
+			<Answer>Achondroplasia is one of a group of conditions called chondrodystrophies or osteochondrodysplasias. These rare genetic disorders cause problems with the development of bone, cartilage, and connective tissue. Achondroplasia is caused by a change (mutation) in the fibroblast growth factor receptor 3 (FGFR3) gene. This prevents bone growth and mainly affects the long bones in the arms and legs. People with achondroplasia have a short stature, with an average height under 4 feet 6 inches (137 centimeters). Achondroplasia may be inherited as an autosomal dominant trait. This means that if a child gets the defective gene from one parent, the child will have the disorder. If one parent has achondroplasia, the infant has a 50% chance of inheriting the disorder. If both parents have the condition, the infant's chance of being affected increases to 75%. However, most cases (about 80%) appear as spontaneous mutations. This means that two parents without achondroplasia may give birth to a baby with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000050-3" qtype="symptoms">What are the symptoms of Achondroplasia ?</Question>
+			<Answer>Achondroplastic dwarfism results in the following: Unusually large head,  Large forehead  and flat bridge of the nose, Crowded or crooked teeth, Short stature (well below the average height for a person of the same age and sex), Average size trunk with short arms and legs (especially the upper arms and thighs), Bowed legs, Limited range of motion of the elbows, Spine curvatures called  kyphosis  and  lordosis , Short fingers with an extra space between the ring and middle finger (trident hand), Decreased muscle tone in infants,  Almost all people with achondroplasia have normal intelligence and will have a normal lifespan. Children with the disorder may develop at a slower rate than other children the same age.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000050-4" qtype="exams and tests">How to diagnose Achondroplasia ?</Question>
+			<Answer>During pregnancy, a prenatal ultrasound may show excessive amniotic fluid surrounding the unborn infant. Examination of the infant after birth shows increased front-to-back head size. X-rays of the long bones can reveal achondroplasia in the newborn.  CT scan or MRI of the brain may be done if there are signs of "water on the brain" ( hydrocephalus ). Neuroimaging is needed to check the base of the head to look for signs of spinal cord compression. Sleep studies help detect problems with sleep apnea. Children with achondroplasia will need ongoing monitoring as they grow to check for health problems that can develop.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000050-5" qtype="treatment">What are the treatments for Achondroplasia ?</Question>
+			<Answer>There is no specific treatment for achondroplasia. The disorder may cause certain health conditions, which need to be treated when they cause problems. Obstructive sleep apnea  can be treated with surgery and  continuous positive airway pressure  (CPAP) devices., Children who have recurring  ear infections  may need  surgery  to place tubes in their eardrums., Obesity can put extra strain on the body, so learning to eat a healthy diet and avoid weight gain from a young age is important., Bracing may be needed to help correct upper spine curvature (kyphosis)., Hydrocephalus can be treated with  surgery  (ventriculoperitoneal shunting)., Physical therapy can help if gait is affected due to lordosis (curving of the lower back)., Corrective surgery may be needed if there are problems walking due to bowed legs., Spine surgery may be needed to relieve pressure on the spinal cord due to  spinal stenosis  or spinal cord compression at the base of the skull.,  Vosoritide (Voxzogo) is a new medicine approved for use in children age 5 years and older who are still growing. This once daily injection may slightly improve bone growth. Children and adults will need adaptations to their home, school, and work environment to accommodate a shorter stature.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000050-6" qtype="outlook">What is the outlook for Achondroplasia ?</Question>
+			<Answer>Adult heights typically are 46 to 57 inches (1.18 to 1.45 meters) for men and 44 to 54 inches (1.12 to 1.36 meters) for women. Intelligence is in the normal range. Infants who receive the abnormal gene from both parents do not often live beyond a few months. People with achondroplasia should have regular checkups throughout their life, as the condition can cause other health problems. Most problems can be treated.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000050-7" qtype="complications">What are the complications of Achondroplasia ?</Question>
+			<Answer>Complications that may develop include: Breathing problems from a small upper airway and from pressure on the area of the brain that controls breathing, Lung problems from a small ribcage, Narrowing of the spinal column (spinal stenosis), Pressure on the spinal column at the base of the neck, Hydrocephalus, Back pain and joint problems, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000050-8" qtype="when to contact a medical professional">Do I need to see a doctor for Achondroplasia ?</Question>
+			<Answer>If there is a family history of achondroplasia and you plan to have children, you may find it helpful to speak to your health care provider.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000050-9" qtype="prevention">How to prevent Achondroplasia ?</Question>
+			<Answer>Genetic counseling may be helpful for prospective parents when one or both have achondroplasia. However, because achondroplasia most often develops spontaneously, prevention is not always possible.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,58 @@
+<Document id="0002094" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000350.htm">
+ 
+<Focus>Hypervitaminosis A</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020579</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Vitamin A toxicity</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002094-1" qtype="information">What is (are) Hypervitaminosis A ?</Question>
+			<Answer>Hypervitaminosis A is a disorder in which there is too much  vitamin A  in the body.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002094-2" qtype="causes">What causes Hypervitaminosis A ?</Question>
+			<Answer>Vitamin A is a fat-soluble vitamin that is stored in the liver. Many foods contain vitamin A, including: Meat, fish, and poultry (egg yolks), Dairy products, Some fruits and vegetables,  Some dietary supplements also contain vitamin A. Supplements are the most common cause of vitamin A toxicity. It tends not to occur just from eating vitamin A-rich foods. Too much vitamin A can make you sick. Taking large doses during pregnancy can cause birth defects. Acute vitamin A poisoning occurs quickly. It can happen when an adult takes several hundred thousand international units (IUs) of vitamin A.,  Chronic  vitamin A poisoning may occur over time in adults who regularly take more than 25,000 IU a day., Babies and children are more sensitive to vitamin A. They can become sick after taking smaller doses of it. Swallowing products that contain vitamin A, such as skin cream with retinol in it, can also cause vitamin A poisoning., </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002094-3" qtype="symptoms">What are the symptoms of Hypervitaminosis A ?</Question>
+			<Answer>Symptoms may include: Abnormal softening of the skull bone (in infants and children), Blurred vision,  Bone pain  or swelling, 
+   Bulging of the soft spot in an infant's skull ( fontanelle ), Changes in alertness or consciousness,  Decreased appetite , Dizziness, Double vision (in young children), Drowsiness, Hair changes, such as hair loss and oily hair, Headache, Irritability, Liver damage, Nausea and vomiting, Poor weight gain (in infants and children), Skin changes, such as cracking at corners of the mouth, higher sensitivity to sunlight, oily skin, peeling, itching, and yellow color to the skin, Vision changes, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002094-4" qtype="exams and tests">How to diagnose Hypervitaminosis A ?</Question>
+			<Answer>These tests may be done if a high vitamin A level is suspected: Bone x-rays, Blood calcium test, Cholesterol test, Liver function test, Blood test to check  vitamin A  level, Blood test to check other vitamin levels, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002094-5" qtype="treatment">What are the treatments for Hypervitaminosis A ?</Question>
+			<Answer>Treatment involves simply stopping supplements (or in rare cases, foods) that contain vitamin A.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002094-6" qtype="outlook">What is the outlook for Hypervitaminosis A ?</Question>
+			<Answer>Most people fully recover.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002094-7" qtype="complications">What are the complications of Hypervitaminosis A ?</Question>
+			<Answer>Complications can include: Very high calcium level,  Failure to thrive &#160;(in infants), Kidney damage due to high calcium, Liver damage ,  Taking too much vitamin A during pregnancy may cause birth defects. Talk to your health care provider about eating a proper diet while you are pregnant.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002094-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hypervitaminosis A ?</Question>
+			<Answer>You should contact your provider: If you think that you or your child may have taken too much vitamin A, You have symptoms of excess vitamin A, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002094-9" qtype="prevention">How to prevent Hypervitaminosis A ?</Question>
+			<Answer>How much vitamin A you need depends on your age and sex. Other factors, such as pregnancy and your overall health, are also important. Ask your provider what amount is best for you. To avoid hypervitaminosis A, don't take more than the recommended daily allowance of this vitamin. Check the ingredients of all your medicines to be sure you are not taking vitamin A from more than one source. Some people take vitamin A and  beta carotene  supplements in the belief it will help prevent cancer. This may lead to chronic hypervitaminosis A if people take more than is recommended.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

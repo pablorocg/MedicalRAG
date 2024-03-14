@@ -1,0 +1,17 @@
+<Document id="0004273" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003643.htm">
+ 
+<Focus>WBC count</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Leukocyte count</Synonym>
+		<Synonym>White blood cell count</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004273-1" qtype="information">Do you have information about WBC count</Question>
+			<Answer>A WBC count is a blood test to measure the number of white blood cells (WBCs) in the blood. It is a part of a complete blood count (CBC). WBCs are also called leukocytes. They help fight infections. There are  five major types of white blood cells : Basophils,  Eosinophils , Lymphocytes (T cells, B cells, and Natural Killer cells), Monocytes, Neutrophils , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

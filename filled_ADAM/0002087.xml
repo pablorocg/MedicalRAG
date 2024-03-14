@@ -1,0 +1,30 @@
+<Document id="0002087" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001314.htm">
+ 
+<Focus>Hypersplenism</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020532</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002087-1" qtype="information">What is (are) Hypersplenism ?</Question>
+			<Answer>Hypersplenism is an overactive spleen. The spleen is an organ found in the upper left side of your abdomen. The spleen helps filter old and damaged cells from your bloodstream. If your spleen is overactive, it removes the blood cells too early and too quickly. An overactive spleen is often, but not always, enlarged (splenomegaly). The spleen plays a key role in helping your body fight infections. Problems with the spleen can make you more likely to develop infections.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002087-2" qtype="causes">What causes Hypersplenism ?</Question>
+			<Answer>Common causes of hypersplenism include: Cirrhosis  (advanced liver disease), Lymphoma,  Malaria ,  Tuberculosis , Various connective tissue and inflammatory diseases , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002087-3" qtype="symptoms">What are the symptoms of Hypersplenism ?</Question>
+			<Answer>Symptoms include:  Enlarged spleen , Low level of one or more types of blood cells, Feeling full too soon after eating, Stomach pain on the left side , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

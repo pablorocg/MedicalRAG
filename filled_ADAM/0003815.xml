@@ -1,0 +1,48 @@
+<Document id="0003815" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003097.htm">
+ 
+<Focus>Swollen lymph nodes</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0497156</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Swollen glands</Synonym>
+		<Synonym>Glands - swollen</Synonym>
+		<Synonym>Lymph nodes - swollen</Synonym>
+		<Synonym>Lymphadenopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003815-1" qtype="information">What is (are) Swollen lymph nodes ?</Question>
+			<Answer>Lymph nodes are present throughout your body. They are an important part of your immune system. Lymph nodes help your body recognize and fight germs, infections, and other foreign substances. The term "swollen glands" refers to enlargement of one or more lymph nodes. The medical name for swollen lymph nodes is lymphadenopathy. In a child, a node is considered enlarged if it is more than 1 centimeter (0.4 inch) wide.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003815-2" qtype="considerations">What to do for Swollen lymph nodes ?</Question>
+			<Answer>Watch this video about: Lymph nodes Common areas where the lymph nodes can be felt (with the fingers) include: Groin, Armpit, Neck (there is a chain of lymph nodes on either side of the front of the neck, both sides of the neck, and down each side of the back of the neck), Under the jaw and chin, Behind the ears, On the back of the head , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003815-3" qtype="causes">What causes Swollen lymph nodes ?</Question>
+			<Answer>Infections are the most common cause of swollen lymph nodes. Infections that can cause them include: Abscessed  or  impacted tooth ,  Ear infection ,  Colds ,  flu , and other infections, Swelling (inflammation) of gums ( gingivitis ),  Mononucleosis ,  Mouth sores , Sexually transmitted illness (STI),  Tonsillitis ,  Tuberculosis ,  Skin infections ,  Immune or autoimmune disorders that can cause swollen lymph nodes are: HIV ,  Rheumatoid arthritis  (RA) ,  Cancers that can cause swollen lymph nodes include: Leukemia ,  Hodgkin disease ,  Non-Hodgkin lymphoma ,  Many other cancers may also cause this problem. Certain medicines can cause swollen lymph nodes, including: Seizure medicines, such as phenytoin, Typhoid  immunization ,  Which lymph nodes are swollen depends on the cause and the body parts involved. Swollen lymph nodes that appear suddenly and are painful are usually due to injury or infection. Slow, painless swelling may be due to cancer or a tumor. </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003815-4" qtype="considerations">What to do for Swollen lymph nodes ?</Question>
+			<Answer>Watch this video about: Lymph nodes Common areas where the lymph nodes can be felt (with the fingers) include: Groin, Armpit, Neck (there is a chain of lymph nodes on either side of the front of the neck, both sides of the neck, and down each side of the back of the neck), Under the jaw and chin, Behind the ears, On the back of the head , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003815-5" qtype="when to contact a medical professional">Do I need to see a doctor for Swollen lymph nodes ?</Question>
+			<Answer>Contact your health care provider if: Your lymph nodes do not get smaller after several weeks or they continue to get larger., They are red and tender., They feel hard, irregular, or fixed in place., You have fever, night sweats, or unexplained weight loss., Any node in a child is larger than 1 centimeter (a little less than half inch) in diameter. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003815-6" qtype="outlook">What is the outlook for Swollen lymph nodes ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

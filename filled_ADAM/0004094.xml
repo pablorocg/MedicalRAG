@@ -1,0 +1,64 @@
+<Document id="0004094" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000201.htm">
+ 
+<Focus>Unstable angina</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002965</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Accelerating angina</Synonym>
+		<Synonym>New-onset angina</Synonym>
+		<Synonym>Angina - unstable</Synonym>
+		<Synonym>Progressive angina</Synonym>
+		<Synonym>CAD - unstable angina</Synonym>
+		<Synonym>Coronary artery disease -unstable angina</Synonym>
+		<Synonym>Heart disease - unstable angina</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004094-1" qtype="information">What is (are) Unstable angina ?</Question>
+			<Answer>Unstable angina is a condition in which your heart doesn't get enough blood flow and oxygen. It may lead to a heart attack. Angina is a type of chest discomfort due to poor blood flow through the blood vessels in the heart called the coronary arteries.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004094-2" qtype="causes">What causes Unstable angina ?</Question>
+			<Answer>Coronary artery disease  due to  atherosclerosis  is the most common cause of unstable angina. Atherosclerosis is the buildup of fatty material, called plaque, along the walls of the arteries. This causes arteries to become narrowed and less flexible. The narrowing can reduce blood flow to the heart, causing chest pain. People with unstable  angina  are at higher risk of having a heart attack. Rare causes of angina are: Abnormal function of tiny branch arteries without narrowing of larger arteries (called microvascular dysfunction or Syndrome X), Coronary artery  spasm ,  Risk factors for coronary artery disease include: Diabetes , Family history of early coronary heart disease (a close relative such as a sibling or parent had heart disease before age 55 in a man or before age 65 in a woman)
+   ,  High blood pressure , High LDL cholesterol, Low HDL cholesterol, Male sex, Sedentary lifestyle (not getting enough exercise), Obesity, Older age, Smoking, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004094-3" qtype="symptoms">What are the symptoms of Unstable angina ?</Question>
+			<Answer>Symptoms of angina may include: Chest pain that you may also feel in the shoulder, arm, jaw, neck, back, or other area, Discomfort that feels like tightness, squeezing, crushing, burning, choking, or aching, Discomfort that occurs at rest and does not easily go away when you take medicine, Shortness of breath, Sweating,  With stable angina, the chest pain or other symptoms only occur with a certain amount of activity or stress. The pain does not occur more often or get worse over time. Unstable angina is chest pain that is sudden and often gets worse over a short period of time. You may be developing unstable angina if the chest pain: Starts to feel different, is more severe, comes more often, or occurs with less activity or while you are at rest, Lasts longer than 15 to 20 minutes, Occurs without cause (for example, while you are asleep or sitting quietly), Does not respond well to a medicine called nitroglycerin (especially if this medicine worked to relieve chest pain in the past), Occurs with a drop in blood pressure or shortness of breath,  Unstable angina is a warning sign that a heart attack may happen soon and needs to be treated right away. See your health care provider if you have any type of chest pain.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004094-4" qtype="exams and tests">How to diagnose Unstable angina ?</Question>
+			<Answer>The provider will do a  physical exam  and check your  blood pressure . The provider may hear abnormal sounds, such as a heart murmur or irregular heartbeat, when listening to your chest with a stethoscope. Tests for angina include: Blood tests to show if you have heart tissue damage or are at a high risk for heart attack, including high sensitivity cardiac troponins I and T. Testing may also include&#160; creatine phosphokinase  (CPK), and  myoglobin .,  ECG .,  Echocardiography ., Stress tests, such as exercise tolerance test (stress test or treadmill test),  nuclear stress test , or  stress echocardiogram .,  Coronary angiography . This test involves taking pictures of the heart arteries using x-rays and dye. It is the most direct test to diagnose heart artery narrowing and find clots., </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004094-5" qtype="treatment">What are the treatments for Unstable angina ?</Question>
+			<Answer>You may need to check into the hospital to get some rest, have more tests, and prevent complications. Blood thinners (antiplatelet drugs) are used to treat and prevent unstable angina. You will receive these drugs as soon as possible if you can take them safely. Medicines include aspirin and the prescription drug clopidogrel or something similar (ticagrelor, prasugrel). These medicines may be able to reduce the chance of a heart attack or the severity of a heart attack that occurs. During an unstable angina event: You may get heparin (or another blood thinner) and nitroglycerin (under the tongue or through an IV)., Other treatments may include medicines to control blood pressure, anxiety,  abnormal heart rhythms , and cholesterol (such as a statin drug).,  A procedure called  angioplasty  and stenting can often be done to open a blocked or narrowed artery. Angioplasty is a procedure to open narrowed or blocked blood vessels that supply blood to the heart., A coronary artery  stent  is a small, metal mesh tube that opens up (expands) inside a coronary artery. A stent is often placed after angioplasty. It helps prevent the artery from closing up again. A drug-eluting stent has medicine in it that helps prevent the artery from closing over time.,  Heart bypass surgery  may be done for some people. The decision to have this surgery depends on: Which arteries are blocked, How many arteries are involved, Which parts of the coronary arteries are narrowed, How severe the narrowings are, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004094-6" qtype="outlook">What is the outlook for Unstable angina ?</Question>
+			<Answer>Unstable angina is a sign of more severe heart disease. How well you do depends on many different things, including: How many and which arteries in your heart are blocked, and how severe the blockage is, If you have ever had a heart attack, How well your heart muscle is able to pump blood out to your body,  Abnormal heart rhythms and heart attacks can cause sudden death.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004094-7" qtype="complications">What are the complications of Unstable angina ?</Question>
+			<Answer>Unstable angina may lead to: Abnormal heart rhythms (arrhythmias), A heart attack, Heart failure, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004094-8" qtype="when to contact a medical professional">Do I need to see a doctor for Unstable angina ?</Question>
+			<Answer>Seek medical attention if you have new, unexplained chest pain or pressure. If you have had angina before, call your provider. Call 911 or the local emergency number if your angina pain: Is not better 5 minutes after you take nitroglycerin (your provider may tell you to take 3 total doses), Does not go away after 3 doses of nitroglycerin, Is getting worse, Returns after the nitroglycerin helped at first,  Contact your provider if: You are having angina symptoms more often, You are having angina when you are sitting (rest angina), You are feeling tired more often, You are feeling faint or lightheaded, or you pass out, Your heart is beating very slowly (less than 60 beats a minute) or very fast (more than 120 beats a minute), or it is not steady, You are having trouble taking your heart medicines, You have any other unusual symptoms,  If you think you are having a heart attack, get medical treatment right away.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0004094-9" qtype="prevention">How to prevent Unstable angina ?</Question>
+			<Answer>Some studies have shown that making a few lifestyle changes can prevent blockages from getting worse and may actually improve them. Lifestyle changes can also help prevent some angina attacks. Your provider may tell you to: Lose weight if you are overweight, Stop smoking, Exercise regularly, Drink alcohol in moderation only, Eat a healthy diet that is high in vegetables, fruits, whole grains, fish, and lean meats,  Your provider will also recommend that you keep other health conditions such as high blood pressure, diabetes, and high cholesterol levels under control. If you have one or more risk factors for heart disease, talk to your provider about taking aspirin or other medicines to help prevent a heart attack. Aspirin therapy (75 to 325 mg a day) or drugs such as clopidogrel, ticagrelor or prasugrel may help prevent heart attacks in some people. Aspirin and other blood-thinning therapies are recommended if the benefit is likely to outweigh the risk of side effects.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

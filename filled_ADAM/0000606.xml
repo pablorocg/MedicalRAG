@@ -1,0 +1,59 @@
+<Document id="0000606" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000341.htm">
+ 
+<Focus>Bulimia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006370</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bulimia nervosa</Synonym>
+		<Synonym>Binge-purge behavior</Synonym>
+		<Synonym>Eating disorder - bulimia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000606-1" qtype="information">What is (are) Bulimia ?</Question>
+			<Answer>Bulimia is an eating disorder in which a person has regular episodes of eating a very large amount of food (bingeing) during which the person feels a loss of control over their eating. The person then uses different ways, such as vomiting or laxatives (purging), to prevent weight gain. Many people with bulimia also have  anorexia .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000606-2" qtype="causes">What causes Bulimia ?</Question>
+			<Answer>Many more women than men have bulimia.&#160;The disorder is most common in teenage girls and young women. The person usually knows that their eating pattern is abnormal. They may feel fear or guilt with the binge-purge episodes. The exact cause of bulimia is unknown. Genetic, psychological, family, society, or cultural factors may play a role. Bulimia is likely due to more than one factor.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000606-3" qtype="symptoms">What are the symptoms of Bulimia ?</Question>
+			<Answer>With bulimia, eating binges may occur as often as several times a day for many months. The person often eats large amounts of high-calorie foods, usually in secret. During these episodes, the person feels a lack of control over the eating. Binges lead to self-disgust, which causes purging to prevent weight gain. Purging may include: Forcing oneself to vomit, Excessive exercise, Using laxatives, enemas, or diuretics (water pills) ,  Purging often brings a sense of relief. People with bulimia are often at a normal weight, but they may see themselves as being overweight. Because the person's weight is often normal, other people may not notice this eating disorder. Symptoms that other people can see include: Spending a lot of time exercising, Suddenly eating large amounts of food or buying large amounts of food that disappear right away, Regularly going to the bathroom right after meals, Throwing away packages of laxatives, diet pills, emetics (drugs that cause vomiting), or diuretics , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000606-4" qtype="exams and tests">How to diagnose Bulimia ?</Question>
+			<Answer>A dental exam may show  cavities  or gum infections (such as  gingivitis ). The enamel of the teeth may be worn away or pitted because of too much exposure to the acid in vomit. A physical exam may also show: Broken blood vessels in the eyes (from the strain of vomiting), Dry mouth, Pouch-like look to the cheeks , Rashes and pimples, Small cuts and calluses across the tops of the finger joints from forcing oneself to vomit,  Blood tests may show an  electrolyte  imbalance (such as  low potassium level ) or  dehydration .</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000606-5" qtype="treatment">What are the treatments for Bulimia ?</Question>
+			<Answer>People with bulimia rarely have to go to the hospital, unless they: Have anorexia, Have  major depression , Need medicines to help them stop purging ,  Most often, a stepped approach is used to treat bulimia. Treatment depends on how severe the bulimia is, and the person's response to treatments: Support groups may be helpful for mild bulimia without other health problems., Counseling, such as talk therapy and nutritional therapy are the first treatments for bulimia that does not respond to support groups., Medicines that also treat depression, known as selective serotonin-reuptake inhibitors (SSRIs) are often used for bulimia. Combining talk therapy with SSRIs may help, if talk therapy alone does not work. ,  People may drop out of programs if they have unrealistic hopes of being "cured" by therapy alone. Before a program begins, people should know that: Different therapies will likely be needed to manage this disorder., It is common for bulimia to return (relapse), and this is no cause for despair., The process is painful, and the person and their family will need to work hard. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000606-6" qtype="support groups">Where to find support for people with Bulimia ?</Question>
+			<Answer>The stress of illness can be eased by joining a  support group . Sharing with others who have common experiences and problems can help you not feel alone.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000606-7" qtype="outlook">What is the outlook for Bulimia ?</Question>
+			<Answer>Bulimia is a long-term illness. Many people will still have some symptoms, even with treatment. People with fewer medical complications of bulimia and those willing and able to take part in therapy have a better chance of recovery.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000606-8" qtype="complications">What are the complications of Bulimia ?</Question>
+			<Answer>Bulimia can be dangerous. It may lead to serious health problems over time. For example, vomiting over and over can cause: Stomach acid in the esophagus (the tube that moves food from the mouth to the stomach). This can lead to permanent damage of this area., Tears in the esophagus., Dental cavities., Swelling of the throat.,  Vomiting and overuse of enemas or laxatives can lead to: Your body not having as much water and fluid as it should,  Low level of potassium  in the blood, which may lead to dangerous  heart rhythm problems , Hard stools or  constipation ,  Hemorrhoids ,  Damage of the pancreas , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000606-9" qtype="when to contact a medical professional">Do I need to see a doctor for Bulimia ?</Question>
+			<Answer>Contact your health care provider for an appointment if you or your child has symptoms of an eating disorder. If you or someone you know is thinking about suicide, call or text 988 or chat  988lifeline.org . You can also call 1-800-273-8255 (1-800-273-TALK). The 988 Suicide and Crisis Lifeline provides free and confidential support 24/7, anytime day or night. You can also call 911 or the local emergency number or go to the hospital emergency room. DO NOT delay. If someone you know has attempted suicide, call 911 or the local emergency number right away. DO NOT leave the person alone, even after you have called for help.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

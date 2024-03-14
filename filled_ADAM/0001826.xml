@@ -1,0 +1,24 @@
+<Document id="0001826" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003791.htm">
+ 
+<Focus>Head MRI</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Nuclear magnetic resonance - cranial</Synonym>
+		<Synonym>Magnetic resonance imaging - cranial</Synonym>
+		<Synonym>MRI of the head</Synonym>
+		<Synonym>MRI - cranial</Synonym>
+		<Synonym>NMR - cranial</Synonym>
+		<Synonym>Cranial MRI</Synonym>
+		<Synonym>Brain MRI</Synonym>
+		<Synonym>MRI - brain</Synonym>
+		<Synonym>MRI - head</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001826-1" qtype="information">Do you have information about Head MRI</Question>
+			<Answer>A head MRI (magnetic resonance imaging) is an imaging test that uses powerful magnets and radio waves to create pictures of the brain and surrounding tissues. It does not use radiation.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

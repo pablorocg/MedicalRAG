@@ -1,0 +1,54 @@
+<Document id="0003624" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000064.htm">
+ 
+<Focus>Sleep disorders in the elderly</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037317</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003624-1" qtype="information">What is (are) Sleep disorders in the elderly ?</Question>
+			<Answer>Sleep disorders in older adults involve any disrupted sleep pattern. This can include problems falling or staying asleep, too much sleep, or abnormal behaviors with sleep.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003624-2" qtype="causes">What causes Sleep disorders in the elderly ?</Question>
+			<Answer>Sleep problems are common in older adults. The amount of sleep needed stays constant throughout the adult years. Doctors recommend that adults get 7 to 8 hours of sleep each night. In older adults, sleep is less deep and choppier than sleep in younger people.  A healthy 70-year-old may wake up several times during the night without it being due to disease. Sleep disturbances in older adults may be due to any of the following: Alzheimer disease , Alcohol, Changes in the body's natural internal clock, causing some people to fall asleep earlier in the evening, Long-term (chronic) disease, such as  heart failure , Certain medicines, herbs, supplements, and recreational drugs,  Depression  (depression is a common cause of sleep problems in people of all ages), Brain and nervous system conditions, Not being very active, Pain caused by diseases such as  arthritis , Stimulants such as  caffeine  and nicotine, Frequent  urination at night , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003624-3" qtype="symptoms">What are the symptoms of Sleep disorders in the elderly ?</Question>
+			<Answer>Symptoms that may occur include: Difficulty falling asleep, Difficulty telling the difference between night and day, Early morning awakening, Waking up often during the night (for example, due to nocturia), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003624-4" qtype="exams and tests">How to diagnose Sleep disorders in the elderly ?</Question>
+			<Answer>The health care provider will take a history and perform a physical exam to look for medical causes and determine which type of sleep disorder is causing the problem. Your provider may recommend you create a sleep diary or that you have a sleep study (polysomnography).</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003624-5" qtype="treatment">What are the treatments for Sleep disorders in the elderly ?</Question>
+			<Answer>Relieving chronic pain and controlling medical conditions such as frequent urination may improve sleep in some people. Treating depression will often improve sleep. Sleeping in a quiet room that isn't too hot or too cold and having a relaxing bedtime routine may help improve symptoms. Other ways to promote sleep include these healthy lifestyle tips: Avoid large meals shortly before bedtime. A light bedtime snack may be helpful. Many people find that warm milk increases sleepiness, because it contains a natural, sedative-like amino acid., Avoid stimulants such as caffeine for at least 3 or 4 hours before bed., Exercise at regular times each day, but not within 3 hours of your bedtime., Go to bed and wake up at the same time every day., Do not take naps., Do not watch television or use your computer, cell phone, or tablet in the bedroom., Avoid tobacco products, especially before sleep., Use the bed only for sleep or sexual activity.,  If you can't fall asleep after 20 minutes, get out of bed and do a quiet activity such as reading or listening to music. Avoid using sleeping pills to help you sleep, if possible. They can lead to dependence and can make sleep problems worse over time if you don't use them the right way. Your provider should assess your risks of daytime sleepiness, mental (cognitive) side effects, and falls before you begin taking sleep medicines. If you think you need sleeping pills, talk with your provider about which pills are safe for you when taken properly. Certain sleeping pills should not be taken on a long-term basis., Do not drink alcohol at any time when you are using sleeping pills. Alcohol can make the side effects of all sleeping pills worse.,  WARNING: The FDA has asked manufacturers of certain sleep medicines to put stronger warning labels on their products so that consumers are more aware of the potential risks. Possible risks while taking such medicines include severe allergic reactions and dangerous sleep-related behaviors, including sleep-driving. Ask your provider about these risks.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003624-6" qtype="outlook">What is the outlook for Sleep disorders in the elderly ?</Question>
+			<Answer>For most people, sleep improves with treatment. However, others may continue to have sleep disruptions.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003624-7" qtype="complications">What are the complications of Sleep disorders in the elderly ?</Question>
+			<Answer>Possible complications are: Alcohol use, Drug abuse, Increased risk for falls (due to frequent urination at night), </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003624-8" qtype="when to contact a medical professional">Do I need to see a doctor for Sleep disorders in the elderly ?</Question>
+			<Answer>Contact your provider for an appointment if a lack of sleep or too much sleep is interfering with daily living.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003624-9" qtype="prevention">How to prevent Sleep disorders in the elderly ?</Question>
+			<Answer>Getting regular exercise and avoiding as many causes of sleep disruption as possible and adequate exposure to natural light may help control sleep problems. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

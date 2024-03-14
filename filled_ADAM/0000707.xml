@@ -1,0 +1,17 @@
+<Document id="0000707" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002957.htm">
+ 
+<Focus>Cataract removal</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Cataract extraction</Synonym>
+		<Synonym>Cataract surgery</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000707-1" qtype="information">Do you have information about Cataract removal</Question>
+			<Answer>Cataract removal is surgery to remove a clouded lens ( cataract ) from the eye. Cataracts are removed to help you see better. The procedure almost always includes placing an artificial lens in the eye.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

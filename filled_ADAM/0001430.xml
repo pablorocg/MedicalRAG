@@ -1,0 +1,18 @@
+<Document id="0001430" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000483.htm">
+ 
+<Focus>Episiotomy - aftercare</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Perineal laceration - aftercare</Synonym>
+		<Synonym>Vaginal birth perineal tear - aftercare</Synonym>
+		<Synonym>Postpartum care - episiotomy - aftercare</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001430-1" qtype="information">Do you have information about Episiotomy - aftercare</Question>
+			<Answer>An episiotomy is a minor incision made during childbirth to widen the opening of the vagina. A perineal tear or laceration often forms on its own during a vaginal birth. Rarely, this tear will also involve the muscle around the anus or the rectum. Both episiotomies and perineal lacerations require stitches to repair and ensure the best healing. Both are similar in recovery time and discomfort during healing.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

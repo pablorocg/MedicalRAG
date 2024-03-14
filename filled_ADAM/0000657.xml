@@ -1,0 +1,62 @@
+<Document id="0000657" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000525.htm">
+ 
+<Focus>Cancer - renal pelvis or ureter</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006826</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Transitional cell cancer of the renal pelvis or ureter</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000657-1" qtype="information">What is (are) Cancer - renal pelvis or ureter ?</Question>
+			<Answer>Cancer of the renal pelvis or ureter is cancer that forms in the kidney's pelvis or the tube (ureter) that carries urine from the kidney to the bladder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000657-2" qtype="causes">What causes Cancer - renal pelvis or ureter ?</Question>
+			<Answer>Cancer can grow in the urine collection system, but it is uncommon. Renal pelvis and ureter cancers affect men more often than women. These cancers are more common in people older than 65. The exact causes of this cancer are not known. Long-term (chronic) irritation of the kidney from harmful substances removed in the urine may be a factor. This irritation may be caused by: Kidney damage from medicines, especially ones for pain ( analgesic nephropathy ), Exposure to certain dyes and chemicals used to manufacture leather goods, textiles, plastics, and rubber, Smoking ,  People who have had bladder cancer are also at risk.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000657-3" qtype="symptoms">What are the symptoms of Cancer - renal pelvis or ureter ?</Question>
+			<Answer>Symptoms may include any of the following: Constant back pain,  Blood in the urine , Burning, pain, or  discomfort with urination ,  Fatigue ,  Flank pain , 
+   Unexplained  weight loss &#160;, Loss of appetite, Anemia,  Urinary frequency or urgency , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000657-4" qtype="exams and tests">How to diagnose Cancer - renal pelvis or ureter ?</Question>
+			<Answer>The health care provider will perform a physical exam, and examine your belly area (abdomen). In rare cases, this may reveal an enlarged kidney. If tests are done: Urinalysis may show blood in the urine., A complete blood count ( CBC ) may show  anemia .,  Urine cytology  (microscopic examination of cells)&#160;may reveal cancer cells. ,  Other tests that may be ordered include: Abdominal CT scan , Chest x-ray, Cystoscopy with ureteroscopy,  Intravenous pyelogram  (IVP),  Kidney ultrasound ,  MRI of the abdomen ,  Renal scan ,  These tests may reveal a tumor or show that the cancer has spread from the kidneys.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000657-5" qtype="treatment">What are the treatments for Cancer - renal pelvis or ureter ?</Question>
+			<Answer>The goal of treatment is to eliminate the cancer. The following procedures may be used to treat the condition: Nephroureterectomy -- This involves removal of entire kidney, ureter, and the bladder cuff (tissue that connects ureter to the bladder), Nephrectomy -- Surgery to remove all or part of the kidney is often done. This may include removing part of the bladder and tissues around it, or the lymph nodes., Ureter resection -- Surgery to remove part of the ureter that contains cancer, and some healthy tissue around it. This may be used in case of superficial tumors present in lower part of the ureter near the bladder. This may help to preserve the kidney.,  Chemotherapy  -- This is used when the cancer has spread outside of the kidney or ureter. Because these tumors are similar to a form of bladder cancer, they are treated with a similar type of chemotherapy., Immunotherapy -- This is used when the cancer has spread outside of the kidney or ureter. Because these tumors are similar to a form of bladder cancer, they are treated with a similar type of immunotherapy., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000657-6" qtype="support groups">Where to find support for people with Cancer - renal pelvis or ureter ?</Question>
+			<Answer>You can ease the stress of illness by joining a cancer  support group . Sharing with others who have common experiences and problems can help you not feel alone.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000657-7" qtype="outlook">What is the outlook for Cancer - renal pelvis or ureter ?</Question>
+			<Answer>Outcome varies, depending on the location of the tumor and whether the cancer has spread. Cancer that is only in the kidney or ureter&#160;may be cured with surgery. Cancer that has spread to other organs is usually not curable.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000657-8" qtype="complications">What are the complications of Cancer - renal pelvis or ureter ?</Question>
+			<Answer>Complications from this cancer may include: Kidney failure , Local spread of the tumor with increasing pain, Spread of the cancer to lung, liver, and bone, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000657-9" qtype="when to contact a medical professional">Do I need to see a doctor for Cancer - renal pelvis or ureter ?</Question>
+			<Answer>Contact your provider if you have any of the symptoms listed above.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0000657-10" qtype="prevention">How to prevent Cancer - renal pelvis or ureter ?</Question>
+			<Answer>Measures that may help prevent this cancer include: Follow your provider's advice regarding medicines, including over-the-counter pain medicine., Stop smoking., Wear protective equipment if you are likely to be exposed to substances that are toxic to the kidneys., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

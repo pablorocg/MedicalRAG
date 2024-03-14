@@ -1,0 +1,57 @@
+<Document id="0000757" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001006.htm">
+ 
+<Focus>Chalazion</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007933</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Meibomian gland lipogranuloma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000757-1" qtype="information">What is (are) Chalazion ?</Question>
+			<Answer>A chalazion is a small bump in the eyelid caused by a blockage of a tiny oil gland.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000757-2" qtype="causes">What causes Chalazion ?</Question>
+			<Answer>A chalazion is caused by a blocked duct in one of the meibomian glands. These glands are located in the eyelid directly behind the eyelashes. They produce a thin, oily fluid that lubricates the eye.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000757-3" qtype="symptoms">What are the symptoms of Chalazion ?</Question>
+			<Answer>A chalazion often develops following an internal hordeolum (also called a stye). The eyelid most often becomes tender, red, swollen and warm. Sometimes, the blocked gland causing the stye will not drain even though the redness and swelling go away. The gland will form a firm nodule in the eyelid that is not tender. This is called a chalazion.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000757-4" qtype="exams and tests">How to diagnose Chalazion ?</Question>
+			<Answer>An exam of the eyelid confirms the diagnosis. Rarely,  skin cancer  of the eyelid may look like a chalazion. If this is suspected, you may need a  biopsy .</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000757-5" qtype="treatment">What are the treatments for Chalazion ?</Question>
+			<Answer>A chalazion will often go away without treatment in a month or so.  The first treatment is to place warm compresses over the eyelid for 10 to 15 minutes at least four times a day. Use lukewarm water (no hotter than you can leave your hand in comfortably). This may soften the hardened oils blocking the duct, and lead to drainage and healing., DO NOT push or squeeze the chalazion. ,  If the chalazion continues to get bigger, it may need to be removed with surgery. This is most often done from the inside of the eyelid to avoid a scar on the skin. Steroid injection is another treatment option. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000757-6" qtype="outlook">What is the outlook for Chalazion ?</Question>
+			<Answer>Chalazia most often heal on their own. The outcome with treatment is excellent in most cases, but they may return after they have initially healed.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000757-7" qtype="complications">What are the complications of Chalazion ?</Question>
+			<Answer>You may lose some eyelashes or you may end up with a small notch in the edge of the eyelid. Rarely, a healed chalazion will leave a small scar on the skin of the eyelid. These problems are more common if you've had surgery for the chalazion.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000757-8" qtype="when to contact a medical professional">Do I need to see a doctor for Chalazion ?</Question>
+			<Answer>Contact your health care provider if lumps on the eyelid continue to get bigger despite treatment, or you have an area of eyelash loss.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000757-9" qtype="prevention">How to prevent Chalazion ?</Question>
+			<Answer>Applying warm compresses daily, then scrubbing the lid at the eyelash line may help prevent chalazia and styes. Use eye cleansing pads or diluted baby shampoo for this. If your provider has prescribed antibiotic ointment, apply it to the lash line after using warm compresses and scrubs.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

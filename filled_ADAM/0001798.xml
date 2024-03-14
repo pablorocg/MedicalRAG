@@ -1,0 +1,42 @@
+<Document id="0001798" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003258.htm">
+ 
+<Focus>Hallucinations</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018524</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sensory hallucinations</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001798-1" qtype="information">What is (are) Hallucinations ?</Question>
+			<Answer>Hallucinations involve sensing things such as visions, sounds, or smells that seem real but are not. These things are created by the mind.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001798-2" qtype="considerations">What to do for Hallucinations ?</Question>
+			<Answer>Common hallucinations can include: Feeling sensations in the body, such as a crawling feeling on the skin or the movement of internal organs., Hearing sounds, such as music, footsteps, windows or doors banging., Hearing voices when no one has spoken (the most common type of hallucination). These voices may be positive, negative, or neutral. They may command someone to do something that may cause harm to themselves or others., Seeing patterns, lights, beings, or objects that are not there., Smelling an odor.,  Sometimes, hallucinations are normal. For example, hearing the voice of or briefly seeing a loved one who recently died can be a part of the grieving process.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001798-3" qtype="causes">What causes Hallucinations ?</Question>
+			<Answer>There are many causes of hallucinations, including: Being drunk or high, or coming down from such drugs like  marijuana ,  LSD , cocaine (including crack), PCP, amphetamines, heroin, ketamine, and alcohol,  Delirium  or  dementia  (visual hallucinations are most common),  Epilepsy  that involves a part of the brain called the temporal lobe (odor hallucinations are most common), 
+   Fever, especially in children and the older people,  Narcolepsy  (disorder that causes a person to fall into periods of deep sleep), Mental disorders, such as  schizophrenia  and psychotic depression, Sensory problem, such as blindness or deafness, Severe illness, including liver failure,  kidney failure ,  HIV/AIDS , and brain cancer , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001798-4" qtype="when to contact a medical professional">Do I need to see a doctor for Hallucinations ?</Question>
+			<Answer>A person who begins to hallucinate and is detached from reality should get checked by a health care professional right away. Many medical and mental conditions that can cause hallucinations may quickly become emergencies. The person should not be left alone. Contact your health care provider, go to the emergency room, or call 911 or the local emergency number.  A person who smells odors that are not there should also be evaluated by a provider. These hallucinations may be caused by medical conditions such as epilepsy and Parkinson disease.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001798-5" qtype="outlook">What is the outlook for Hallucinations ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

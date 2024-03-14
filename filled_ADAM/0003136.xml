@@ -1,0 +1,43 @@
+<Document id="0003136" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002886.htm">
+ 
+<Focus>Poison ivy - oak - sumac</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162451</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sumac - poisonous</Synonym>
+		<Synonym>Oak - poisonous</Synonym>
+		<Synonym>Ivy - poisonous</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003136-1" qtype="information">What is (are) Poison ivy - oak - sumac ?</Question>
+			<Answer>Poison ivy, oak, or sumac poisoning is an allergic reaction that results from touching the sap of these plants. The sap may be on the plant, in the ashes of burned plants, on an animal, or on other objects that came in contact with the plant, such as clothing, garden tools, and sports equipment. Small amounts of sap can remain under a person's fingernails for several days. It must be purposely removed with thorough cleaning. Plants in this family are strong and hard to get rid of. They are found in every state of the continental United States. These plants grow best along cool streams and lakes. They grow especially well in areas that are sunny and hot. They do not survive well above 1,500 m (5,000 feet), in deserts, or in rainforests.  This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003136-4" qtype="symptoms">What are the symptoms of Poison ivy - oak - sumac ?</Question>
+			<Answer>Symptoms of exposure may include: Blisters , Burning skin, Itching, Redness of the skin, Swelling ,  In addition to the skin, symptoms can affect the eyes and mouth. The rash may be spread by touching undried sap and moving it around the skin. The oil can also stick to animal fur, which explains why people often contract the skin irritation (dermatitis) from their outdoor pets.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003136-5" qtype="considerations">What to do for Poison ivy - oak - sumac ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003136-8" qtype="outlook">What is the outlook for Poison ivy - oak - sumac ?</Question>
+			<Answer>Life-threatening reactions may occur if the poisonous ingredients are swallowed or are breathed in (which can happen when the plants are burned).  Typical skin rashes most often go away without any long-term problems. A skin infection may develop if the affected areas are not kept clean. Wear protective clothing whenever possible when travelling through areas where these plants grow. DO NOT touch or eat any unfamiliar plant. Wash your hands after working in the garden or walking in the woods.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003136-9" qtype="outlook">What is the outlook for Poison ivy - oak - sumac ?</Question>
+			<Answer>Life-threatening reactions may occur if the poisonous ingredients are swallowed or are breathed in (which can happen when the plants are burned).  Typical skin rashes most often go away without any long-term problems. A skin infection may develop if the affected areas are not kept clean. Wear protective clothing whenever possible when travelling through areas where these plants grow. DO NOT touch or eat any unfamiliar plant. Wash your hands after working in the garden or walking in the woods.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

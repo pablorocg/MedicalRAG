@@ -1,0 +1,25 @@
+<Document id="0000218" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000183.htm">
+ 
+<Focus>Anesthesia - what to ask your doctor - adult</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2219802</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>What to ask your doctor about anesthesia - adult</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000218-1" qtype="information">What is (are) Anesthesia - what to ask your doctor - adult ?</Question>
+			<Answer>You are scheduled to have a surgery or procedure. You will need to talk with your doctor about the type of anesthesia that will be best for you. Below are some questions you may want to ask your doctor.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,66 @@
+<Document id="0002665" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000591.htm">
+ 
+<Focus>Mononucleosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0021345</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Mono</Synonym>
+		<Synonym>Kissing disease</Synonym>
+		<Synonym>Glandular fever</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002665-1" qtype="information">What is (are) Mononucleosis ?</Question>
+			<Answer>Mononucleosis, or mono, is a viral infection that causes fever, sore throat, and swollen lymph glands, most often in the neck.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002665-2" qtype="causes">What causes Mononucleosis ?</Question>
+			<Answer>Mono is often spread by saliva and close contact. It is known as "the kissing disease." Mono occurs most often in people ages 15 to 17, but the infection may develop at any age. Mono is caused by the Epstein-Barr virus (EBV). Rarely, it is caused by other viruses, such as cytomegalovirus (CMV).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002665-3" qtype="symptoms">What are the symptoms of Mononucleosis ?</Question>
+			<Answer>Mono may begin slowly with fatigue, a general ill feeling, headache, and sore throat. The sore throat slowly gets worse. Your tonsils become swollen and develop a whitish-yellow covering. Often, the lymph nodes in the neck are swollen and painful. A pink, measles-like rash can occur, and is more likely if you take the medicine ampicillin or amoxicillin for a throat infection. (Antibiotics are typically not given without a test that shows you have a strep infection.) Common symptoms of mono include: Drowsiness ,  Fever , General discomfort, uneasiness, or ill feeling,  Loss of appetite ,  Muscle aches  or stiffness,  Rash , Sore throat,  Swollen lymph nodes , most often in the neck and armpit ,  Less common symptoms are: Chest pain ,  Cough ,  Fatigue ,  Headache ,  Hives , Jaundice (yellow color to the skin and whites of the eyes),  Neck stiffness ,  Nosebleed ,  Rapid heart rate ,  Sensitivity to light ,  Shortness of breath , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002665-4" qtype="exams and tests">How to diagnose Mononucleosis ?</Question>
+			<Answer>Your health care provider will examine you. They may find:  Swollen lymph nodes in the front and back of your neck, Swollen tonsils with a whitish-yellow covering, Swollen liver or spleen, Skin rash ,  Blood tests will be done, including:  White blood cell (WBC) count -- will be higher than normal if you have mono,  Monospot test &#160;--&#160;will be positive for infectious mononucleosis
+ ,  Antibody titer &#160;--&#160;tells the difference between a current and past infection , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002665-5" qtype="treatment">What are the treatments for Mononucleosis ?</Question>
+			<Answer>The goal of treatment is to relieve symptoms. Steroid medicine (prednisone) may be given if your symptoms are severe.  Antiviral drugs, such as acyclovir, have little or no benefit. To relieve typical symptoms: Drink plenty of fluids., Gargle with warm salt water to ease a sore throat., Get plenty of rest., Take acetaminophen or ibuprofen for pain and fever. ,  Also avoid contact sports if your spleen is swollen (to prevent it from rupturing).</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002665-6" qtype="outlook">What is the outlook for Mononucleosis ?</Question>
+			<Answer>The fever usually drops in 10 days, and swollen lymph glands and spleen heal in 4 weeks. Tiredness usually goes away within a few weeks, but it may linger for 2 to 3 months. Nearly everyone recovers completely.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002665-7" qtype="complications">What are the complications of Mononucleosis ?</Question>
+			<Answer>Complications of mononucleosis may include: Anemia, which occurs when red blood cells in the blood die sooner than normal,  Hepatitis  with jaundice (more common in people older than 35), Swollen or inflamed testicles, Nervous system problems (rare), such as  Guillain-Barr&#233; syndrome , meningitis,  seizures , damage to the nerve that controls movement of the muscles in the face ( Bell palsy ), and uncoordinated movements, Spleen rupture (rare, avoid pressure on the spleen),  Skin rash  (uncommon) ,  Death is possible in people who have a weakened immune system. </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002665-8" qtype="when to contact a medical professional">Do I need to see a doctor for Mononucleosis ?</Question>
+			<Answer>The early symptoms of mono feel very much like any other illness caused by a virus. You do not need to contact a provider unless your symptoms last longer than 10 days or you develop: Abdominal pain, Breathing difficulty, Persistent high fevers (more than 101.5&#176;F or 38.6&#176;C), Severe headache, Severe sore throat or swollen tonsils, Weakness in your arms or legs, Yellow color in your eyes or skin ,  Call 911 or the local emergency number or go to an emergency room if you develop: 
+   Sharp, sudden, severe abdominal pain
+   , 
+   Stiff neck or severe weakness
+   , 
+   Trouble swallowing or breathing
+   , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002665-9" qtype="prevention">How to prevent Mononucleosis ?</Question>
+			<Answer>People with mono may be contagious while they have symptoms and for up to a few months afterwards. How long someone with the disease is contagious varies. The virus can live for several hours outside the body. Avoid kissing or sharing utensils if you or someone close to you has mono.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

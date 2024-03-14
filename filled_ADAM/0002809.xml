@@ -1,0 +1,62 @@
+<Document id="0002809" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001515.htm">
+ 
+<Focus>Nipple discharge</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3669208</CUI>
+			<CUI>C0149741</CUI>
+			<CUI>C0849787</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Discharge from breasts</Synonym>
+		<Synonym>Milk secretions</Synonym>
+		<Synonym>Lactation - abnormal</Synonym>
+		<Synonym>Witch's milk (neonatal milk)</Synonym>
+		<Synonym>Galactorrhea</Synonym>
+		<Synonym>Inverted nipple</Synonym>
+		<Synonym>Nipple problems</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002809-1" qtype="information">What is (are) Nipple discharge ?</Question>
+			<Answer>Nipple discharge is any fluid that comes out of the nipple area in your breast.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002809-2" qtype="causes">What causes Nipple discharge ?</Question>
+			<Answer>Sometimes discharge from your nipples is OK and will get better on its own. You are more likely to have nipple discharge if you have been pregnant at least once. Nipple discharge is most often not due to cancer (thus a benign condition), but rarely, it can be a sign of breast cancer. It is important to find out what is causing it and to get treatment. Here are some reasons for nipple discharge: Pregnancy, Recent breastfeeding, Rubbing on the area from a bra or t-shirt, Injury to the breast, Breast infection, Inflammation and clogging of the breast ducts, Noncancerous pituitary tumors, Small growth in the breast that is usually not cancer, Severe underactive thyroid gland (hypothyroidism),  Fibrocystic breast  (normal lumpiness in the breast), Use of certain medicines such as birth control pills or antidepressants, Use of certain herbs, such as anise, blessed thistle, and fennel, Widening of the milk ducts ,  Intraductal papilloma  (benign tumor in the milk duct), Chronic kidney disease, Illicit drug use, including cocaine, opioids and marijuana,  Sometimes, babies can have nipple discharge. This is caused by hormones from the mother before birth. It should go away in 2 weeks. Cancers such as Paget disease (a rare type of cancer involving the skin of the nipple) can also cause nipple discharge.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002809-3" qtype="symptoms">What are the symptoms of Nipple discharge ?</Question>
+			<Answer>Nipple discharge that is not normal is: Bloody, Comes from only one nipple, Comes out on its own without you squeezing or touching your nipple ,  Nipple discharge is more likely to be normal if it: Comes out of both nipples, Happens when you squeeze your nipples ,  The color of the discharge does not tell you whether it is normal. The discharge can look milky, clear, yellow, green, or brown. Squeezing your nipple to check for discharge can make it worse. Leaving the nipple alone may make the discharge stop.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002809-4" qtype="exams and tests">How to diagnose Nipple discharge ?</Question>
+			<Answer>Your health care provider will examine you and ask questions about your symptoms and medical history. Tests that may be done include: Prolactin blood test ,  Thyroid blood tests ,  Head CT scan  or  MRI  to look for pituitary tumor,  Mammography ,  Ultrasound of the breast ,  Breast biopsy , Ductography or ductogram: an x-ray with contrast dye injected into the affected milk duct,  Skin biopsy , if Paget disease is a concern , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002809-5" qtype="treatment">What are the treatments for Nipple discharge ?</Question>
+			<Answer>Once the cause of your nipple discharge is found, your provider can recommend ways to treat it. You may: Need to change any medicine that caused the discharge, Have lumps removed, Have all or some of the breast ducts removed, Receive creams to treat skin changes around your nipple, Receive medicines to treat a&#160;health condition ,  If all of your tests are normal, you may not need treatment. You should have another mammogram and physical exam within 1 year.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002809-6" qtype="outlook">What is the outlook for Nipple discharge ?</Question>
+			<Answer>Most of the time, nipple problems are not  breast cancer . These problems will either go away with the right treatment, or they can be watched closely over time.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002809-7" qtype="complications">What are the complications of Nipple discharge ?</Question>
+			<Answer>Nipple discharge may be a symptom of breast cancer or a pituitary tumor. Skin changes around the nipple may be caused by Paget disease.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002809-8" qtype="when to contact a medical professional">Do I need to see a doctor for Nipple discharge ?</Question>
+			<Answer>Have your provider evaluate any nipple discharge. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

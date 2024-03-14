@@ -1,0 +1,47 @@
+<Document id="0002707" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003296.htm">
+ 
+<Focus>Muscle twitching</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0015644</CUI>
+			<CUI>C0231530</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Muscle fasciculation</Synonym>
+		<Synonym>Fasciculations of muscle</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002707-1" qtype="information">What is (are) Muscle twitching ?</Question>
+			<Answer>Muscle twitches are fine movements of a small area of muscle.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002707-2" qtype="considerations">What to do for Muscle twitching ?</Question>
+			<Answer>Muscle twitching is caused by minor  muscle contractions  in the area, or uncontrollable twitching of a muscle group that is served by a single motor nerve fiber. Muscle twitches are minor and often go unnoticed. Some are common and normal. Others are signs of a nervous system disorder.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002707-3" qtype="causes">What causes Muscle twitching ?</Question>
+			<Answer>Causes may include: Autoimmune disorders , such as Isaac syndrome., Drug overdose (caffeine, amphetamines, or other stimulants)., Lack of sleep., Drug side effect (such as from diuretics, corticosteroids, or estrogens)., Exercise (twitching is seen after exercise)., Lack of nutrients in the diet (deficiency)., Stress., Medical conditions that cause metabolic disorders, including low potassium, kidney disease, and uremia., Twitches not caused by disease or disorders (benign twitches), often affecting the eyelids, calf, or thumb. These twitches are normal and quite common, and are often triggered by stress or  anxiety . These twitches can come and go, and usually do not last for more than a few days. ,  Nervous system conditions that can cause muscle twitching include: Amyotrophic&#160;lateral sclerosis ( ALS ), also sometimes called Lou Gehrig disease or motor neuron disease, Neuropathy or damage to the nerve that leads to a muscle,  Spinal muscular atrophy , Weak muscles (myopathy) ,  Symptoms of a nervous system disorder include: Loss of, or change in, sensation, Loss of muscle size (wasting), Weakness , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002707-4" qtype="considerations">What to do for Muscle twitching ?</Question>
+			<Answer>Muscle twitching is caused by minor  muscle contractions  in the area, or uncontrollable twitching of a muscle group that is served by a single motor nerve fiber. Muscle twitches are minor and often go unnoticed. Some are common and normal. Others are signs of a nervous system disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002707-5" qtype="when to contact a medical professional">Do I need to see a doctor for Muscle twitching ?</Question>
+			<Answer>Contact your health care provider if you have long-term or persistent muscle twitches or if twitching occurs with weakness or loss of muscle.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002707-6" qtype="outlook">What is the outlook for Muscle twitching ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

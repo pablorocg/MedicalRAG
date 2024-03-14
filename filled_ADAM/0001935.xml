@@ -1,0 +1,54 @@
+<Document id="0001935" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000278.htm">
+ 
+<Focus>Hepatitis A</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019159</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Viral hepatitis</Synonym>
+		<Synonym>Infectious hepatitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001935-1" qtype="information">What is (are) Hepatitis A ?</Question>
+			<Answer>Hepatitis A is inflammation (irritation and swelling) of the liver from the hepatitis A virus.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001935-2" qtype="causes">What causes Hepatitis A ?</Question>
+			<Answer>The hepatitis A virus is found mostly in the stool and blood of an infected person. The virus is present about 15 to 45 days before symptoms occur and during the first week of illness. You can catch hepatitis A if: You eat or drink food or water that has been contaminated by stools (feces) containing the hepatitis A virus. Unpeeled and uncooked fruits and vegetables, shellfish, ice, and water are common sources of the disease., You come in contact with the stool or blood of a person who currently has the disease., A person with hepatitis A passes the virus to an object or food due to poor hand-washing after using the toilet., You take part in sexual practices that involve oral-anal contact.,  Not everyone has symptoms with hepatitis A infection. Therefore, many more people are infected than are diagnosed or reported. Risk factors include: Overseas travel, especially to Asia, South or Central America, Africa and the Middle East, Injection drug use, Living in a nursing home, Working in a health care, food, or sewage industry, Eating raw shellfish such as oysters and clams,  Other common hepatitis virus infections include hepatitis B and hepatitis C. Hepatitis A is the least serious and mildest of these diseases, but can still be a dangerous illness.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001935-3" qtype="symptoms">What are the symptoms of Hepatitis A ?</Question>
+			<Answer>Symptoms most often show up 2 to 6 weeks after being exposed to the hepatitis A virus. They are most often mild, but may last for up to several months, especially in adults. Symptoms include:  Dark urine, Fatigue, Itching, Loss of appetite, Low-grade fever, Nausea and vomiting, Pale or clay-colored stools,  Yellow skin (jaundice) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001935-4" qtype="exams and tests">How to diagnose Hepatitis A ?</Question>
+			<Answer>The health care provider will perform a physical exam, which may show that your liver is enlarged and tender. A series of blood tests, called the hepatitis viral panel, is done for suspected hepatitis. It can help detect: New infection, Older infection that is no longer active,  Blood tests may show: Raised IgM and IgG antibodies to hepatitis A (IgM is positive before IgG), IgM antibodies to hepatitis A which appear during the acute infection, Elevated liver enzymes (liver function tests), especially transaminase enzyme levels, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001935-5" qtype="treatment">What are the treatments for Hepatitis A ?</Question>
+			<Answer>There is no specific treatment for hepatitis A. You should rest and stay well hydrated when the symptoms are the worst., People with acute hepatitis should avoid alcohol and medicines that are toxic to the liver, including acetaminophen (Tylenol) during the acute illness and for several months after recovery., Fatty foods may cause vomiting and are best avoided during the acute phase of the illness., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001935-6" qtype="outlook">What is the outlook for Hepatitis A ?</Question>
+			<Answer>The virus does not remain in the body after the infection is gone. Most people with hepatitis A recover within 3 months. Nearly all people get better within 6 months. There is no lasting damage once you've recovered. Also, you can't get the disease again. There is a low risk for death. The risk is higher among older adults and people with  chronic liver disease .</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001935-7" qtype="when to contact a medical professional">Do I need to see a doctor for Hepatitis A ?</Question>
+			<Answer>Contact your provider if you have symptoms of hepatitis.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001935-8" qtype="prevention">How to prevent Hepatitis A ?</Question>
+			<Answer>The following tips can help reduce your risk for spreading or catching the virus: Always wash your hands well after using the restroom, and when you come in contact with an infected person's blood, stools, or other bodily fluid., Avoid unclean food and water. ,  The virus may spread more rapidly through day care centers and other places where people are in close contact. Thorough hand washing before and after each diaper change, before serving food, and after using the toilet may help prevent such outbreaks. Ask your provider about getting either immune globulin or the hepatitis A vaccine if you are exposed to the disease and have not had hepatitis A or the hepatitis A vaccine. Common reasons for getting one or both of these treatments include: You have hepatitis B or C or any form of chronic liver disease., You live with someone who has hepatitis A., You recently had sexual contact with someone who has hepatitis A., You recently shared illegal drugs, either injected or noninjected, with someone who has hepatitis A., You have had close personal contact over a period of time with someone who has hepatitis A., You have eaten in a restaurant where food or food handlers were found to be contaminated or infected with hepatitis., You are planning to travel to places where hepatitis A is common. ,  Vaccines that protect against hepatitis A  infection are available. The vaccine begins to protect 4 weeks after you get the first dose. You will need to get a booster shot 6 to 12 months later for long-term protection. Travelers should take the following steps to protect against getting the disease: Avoid dairy products., Avoid raw or undercooked meat and fish., Beware of sliced fruit that may have been washed in unclean water. Travelers should peel all fresh fruits and vegetables themselves., DO NOT buy food from street vendors., Get vaccinated against hepatitis A (and possibly hepatitis B) if traveling to countries where outbreaks of the disease occur., Use only carbonated bottled water for brushing teeth and drinking. (Remember that ice cubes can carry infection.), If bottled water is not available, boiling water is the best way to get rid of hepatitis A. Bring the water to a full boil for at least 1 minute to make it safe to drink., Heated food should be hot to the touch and eaten right away. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,19 @@
+<Document id="0000778" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002947.htm">
+ 
+<Focus>Chest tube insertion</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Chest drainage tube insertion</Synonym>
+		<Synonym>Insertion of tube into chest</Synonym>
+		<Synonym>Tube thoracostomy</Synonym>
+		<Synonym>Pericardial drain</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000778-1" qtype="information">Do you have information about Chest tube insertion</Question>
+			<Answer>A chest tube is a hollow, flexible tube placed into the chest. It acts as a drain. Chest tubes drain blood, fluid, or air from around your lungs, heart, or esophagus., The tube around your lung is placed between your ribs and into the space between the inner lining and the outer lining of your chest cavity. This is called the pleural space. It allows your lungs to fully expand., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

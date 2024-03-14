@@ -1,0 +1,25 @@
+<Document id="0000168" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003497.htm">
+ 
+<Focus>ALP isoenzyme test</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0456984</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Alkaline phosphatase isoenzyme test</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000168-1" qtype="information">What is (are) ALP isoenzyme test ?</Question>
+			<Answer>Alkaline phosphatase (ALP) is an enzyme found in many body tissues such as liver, bile ducts, bone, and intestine. There are several different structural forms of ALP called isoenzymes. The structure of the enzyme depends on where in the body it is produced. This test is most often used to test ALP made in the tissues of the liver and bones. The ALP isoenzyme test is a lab test that measures the amounts of different types of ALP in the blood. The  ALP test  is a related test.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

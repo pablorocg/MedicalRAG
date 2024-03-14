@@ -1,0 +1,56 @@
+<Document id="0002073" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000365.htm">
+ 
+<Focus>Hypercalcemia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020437</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002073-1" qtype="information">What is (are) Hypercalcemia ?</Question>
+			<Answer>Hypercalcemia means you have too much calcium in&#160;your blood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002073-2" qtype="causes">What causes Hypercalcemia ?</Question>
+			<Answer>Parathyroid hormone (PTH) and Vitamin D help manage calcium balance in the body.  PTH is made by the parathyroid glands. These are four small glands located in the neck behind the thyroid gland. ,  Vitamin D  is obtained when the skin is exposed to sunlight, and from food sources or supplements.,  The most common cause of high calcium blood level is excess PTH released by the parathyroid glands. This excess occurs due to: An enlargement of one or more of the parathyroid glands. , A growth on one of the glands. Most of the time, these growths are benign (not a cancer).,  Calcium blood level may also be high if your body is low on fluids or water. Other conditions can also cause hypercalcemia: Certain kinds of cancers, such as lung and breast cancer, or cancer that has spread to your organs., Too much vitamin D in your blood (hypervitaminosis D)., Being immobile in bed for many days or weeks (mostly in children)., Too much calcium in your diet. This is called milk-alkali syndrome. It most often occurs when a person is taking more than 2000 milligrams of calcium bicarbonate supplements a day along with high doses of Vitamin D.,  Overactive thyroid gland .
+  ,  Chronic kidney disease or kidney failure .
+  , Medicines such as lithium and thiazide diuretics (water pills)., Some infections or health problems such as, Paget disease, tuberculosis and sarcoidosis. , An inherited condition that affects the body's ability to manage calcium. ,  Men and women of all ages can have a high blood calcium level. However, it is most common in women over age 50 (after menopause). In most cases, this is due to an overactive parathyroid gland. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002073-3" qtype="symptoms">What are the symptoms of Hypercalcemia ?</Question>
+			<Answer>The condition is most often diagnosed at an early stage using routine blood tests. Most people have no symptoms. Symptoms due to high calcium level may vary, depending on the cause and how long the problem&#160;has been&#160;present. They may include: Digestive symptoms, such as nausea or vomiting, poor appetite, or constipation, Increased thirst or more frequent urination, due to changes in the kidneys , Muscle weakness or twitches, Changes in how your brain works, such as feeling tired or fatigued or confused,  Bone pain  and fragile bones that break more easily, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002073-4" qtype="exams and tests">How to diagnose Hypercalcemia ?</Question>
+			<Answer>An accurate diagnosis is needed in hypercalcemia. People with kidney stones should have tests to evaluate for hypercalcemia. Serum calcium ,  Serum PTH , Serum PTHrP (PTH-related protein), Serum vitamin D level,  Urine calcium , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002073-5" qtype="treatment">What are the treatments for Hypercalcemia ?</Question>
+			<Answer>Treatment is aimed at the cause of hypercalcemia whenever possible. People with primary hyperparathyroidism (PHPT) may need surgery to remove the abnormal parathyroid gland. This will cure the hypercalcemia. Severe hypercalcemia that causes symptoms and requires a hospital stay may be treated with the following: Fluids through a vein -- This is the most important therapy., Calcitonin., Dialysis, if kidney damage is involved., Diuretic medicine, such as furosemide., Drugs that stop bone breakdown and absorption by the body (bisphosphonates)., Glucocorticoids (steroids)., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002073-6" qtype="outlook">What is the outlook for Hypercalcemia ?</Question>
+			<Answer>How well you do depends on the cause of your high calcium level. The outlook is good for people with mild hyperparathyroidism or hypercalcemia&#160;that have&#160;a treatable cause. Most of the time, there are no complications.  People with hypercalcemia due to conditions such as cancer or sarcoidosis may not do well. This is most often due to the disease itself, rather than the high calcium level.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002073-7" qtype="complications">What are the complications of Hypercalcemia ?</Question>
+			<Answer>GASTROINTESTINAL Pancreatitis,  Peptic ulcer  disease,  KIDNEY Calcium deposits in the kidney ( nephrocalcinosis ) that cause poor kidney function,  Dehydration ,  High blood pressure , Kidney failure,  Kidney stones ,  PSYCHOLOGICAL Depression, Difficulty concentrating or thinking,  SKELETAL Bone cysts,  Fractures ,  Osteoporosis ,  These complications of long-term hypercalcemia are uncommon today in many countries.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002073-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hypercalcemia ?</Question>
+			<Answer>Contact your health care provider if you have: Family history of hypercalcemia ,  Family history of hyperparathyroidism ,  Symptoms of hypercalcemia , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002073-9" qtype="prevention">How to prevent Hypercalcemia ?</Question>
+			<Answer>Most causes of hypercalcemia cannot be prevented. Women over age 50 should see their provider regularly and have their blood calcium level checked if they have symptoms of hypercalcemia. Talk to your provider about the correct dose&#160;if you are taking&#160;calcium and vitamin D supplements. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

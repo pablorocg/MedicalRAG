@@ -1,0 +1,36 @@
+<Document id="0004047" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003560.htm">
+ 
+<Focus>Trypsinogen test</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0456984</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Serum trypsin</Synonym>
+		<Synonym>Trypsin-like immunoreactivity</Synonym>
+		<Synonym>Serum trypsinogen</Synonym>
+		<Synonym>Immunoreactive trypsin</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004047-1" qtype="information">What is (are) Trypsinogen test ?</Question>
+			<Answer>Trypsinogen is a substance that is normally produced in the pancreas and released into the small intestine. Trypsinogen is converted to trypsin. Then it starts the process needed to break down proteins into their building blocks (called amino acids). A test can be done to measure the amount of trypsinogen in your blood.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004047-8" qtype="susceptibility">Who is at risk for Trypsinogen test? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0004047-9" qtype="considerations">What to do for Trypsinogen test ?</Question>
+			<Answer>Other tests used to detect pancreas diseases may include: Serum amylase, Serum lipase , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

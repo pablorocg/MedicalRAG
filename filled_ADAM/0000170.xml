@@ -1,0 +1,55 @@
+<Document id="0000170" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000120.htm">
+ 
+<Focus>Alpha-1 antitrypsin deficiency</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221757</CUI>
+			<CUI>C3501835</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AAT deficiency</Synonym>
+		<Synonym>Alpha-1 protease deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000170-1" qtype="information">What is (are) Alpha-1 antitrypsin deficiency ?</Question>
+			<Answer>Alpha-1 antitrypsin (AAT) deficiency is a condition in which the body does not make enough of AAT, a protein that protects the lungs and liver from damage. The condition can lead to  chronic obstructive pulmonary disease  (COPD) and liver disease ( cirrhosis ).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000170-2" qtype="causes">What causes Alpha-1 antitrypsin deficiency ?</Question>
+			<Answer>AAT is a type of protein called a protease inhibitor. AAT is made in the liver and it works to protect the lungs and liver. AAT deficiency means there is not enough of this protein in the body. It is caused by a genetic defect. The condition is most common among Europeans and North Americans of European descent. Adults with severe AAT deficiency will develop emphysema, sometimes before 40 years of age. Smoking can increase the risk for emphysema and make it occur earlier.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000170-3" qtype="symptoms">What are the symptoms of Alpha-1 antitrypsin deficiency ?</Question>
+			<Answer>Symptoms may include any of the following: Shortness of breath  with and without exertion, and other symptoms of COPD, Symptoms of liver failure,  Loss of weight  without trying,  Wheezing , Coughing, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000170-4" qtype="exams and tests">How to diagnose Alpha-1 antitrypsin deficiency ?</Question>
+			<Answer>A physical examination may reveal a barrel-shaped chest, wheezing, or decreased breath sounds. The following tests may also help with diagnosis: AAT  blood test,  Arterial blood gases ,  Chest x-ray ,  CT scan of the chest , Genetic testing,  Lung function tests ,  Your health care provider may suspect you of having this condition if you develop: COPD before age 45, COPD but you have never smoked or been exposed to toxins, COPD and you have a family history of the condition, Cirrhosis and no other cause can be found, Cirrhosis and you have a family history of liver disease , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000170-5" qtype="treatment">What are the treatments for Alpha-1 antitrypsin deficiency ?</Question>
+			<Answer>Treatment for AAT deficiency involves replacing the missing AAT protein. The protein is given through a vein each week or every 4 weeks. This is only slightly effective at preventing more lung damage in people without end-stage disease. This procedure is called augmentation therapy. If you smoke, you need to quit.  Other treatments are also used for COPD and cirrhosis. Lung transplant can be used for severe lung disease, and liver transplant can be used for severe cirrhosis.&#160;</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000170-6" qtype="outlook">What is the outlook for Alpha-1 antitrypsin deficiency ?</Question>
+			<Answer>Some people with this deficiency will not develop liver or lung disease. If you quit smoking, you can slow the progression of the lung disease. COPD and cirrhosis can be life threatening.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000170-7" qtype="complications">What are the complications of Alpha-1 antitrypsin deficiency ?</Question>
+			<Answer>Complications of AAT deficiency include: Bronchiectasis  (damage of the large airways),  COPD , Liver failure or cancer , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000170-8" qtype="when to contact a medical professional">Do I need to see a doctor for Alpha-1 antitrypsin deficiency ?</Question>
+			<Answer>Contact your provider if you develop symptoms of AAT deficiency.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

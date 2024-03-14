@@ -1,0 +1,42 @@
+<Document id="0002077" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007228.htm">
+ 
+<Focus>Hyperglycemia - infants</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020456</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>High blood sugar - infants</Synonym>
+		<Synonym>High blood glucose level - infants</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002077-1" qtype="information">What is (are) Hyperglycemia - infants ?</Question>
+			<Answer>Hyperglycemia is abnormally high blood sugar. The medical term for blood sugar is blood glucose. This article discusses hyperglycemia in infants.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002077-2" qtype="causes">What causes Hyperglycemia - infants ?</Question>
+			<Answer>A healthy baby's body most often has very careful control of blood sugar level. Insulin is the main hormone in the body that regulates blood sugar. Sick babies may have poor insulin function or low amounts. This causes poor control of the blood sugar. There can be specific causes of ineffective or low insulin. Causes may include infection, liver problems, hormone problems, and some medicines. Rarely, babies may actually have diabetes, and therefore have a low insulin level that results in high blood sugar.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002077-3" qtype="symptoms">What are the symptoms of Hyperglycemia - infants ?</Question>
+			<Answer>Babies with hyperglycemia often have no symptoms. Sometimes, babies with high blood sugar will produce large amounts of urine and become dehydrated. High blood sugar may be a sign that the baby has added stress on the body due to problems such as an infection or heart failure.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002077-4" qtype="exams and tests">How to diagnose Hyperglycemia - infants ?</Question>
+			<Answer>A blood test will be done to check the baby's blood sugar level. This can be done with a heel or finger stick at the bedside or in a health care provider's office or lab. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002077-5" qtype="outlook">What is the outlook for Hyperglycemia - infants ?</Question>
+			<Answer>There are most often no long-term effects from a temporary high blood sugar level unless the baby has diabetes.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,64 @@
+<Document id="0001669" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000273.htm">
+ 
+<Focus>Gallstones</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0008350</CUI>
+			<CUI>C0947622</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cholelithiasis</Synonym>
+		<Synonym>Gallbladder attack</Synonym>
+		<Synonym>Biliary colic</Synonym>
+		<Synonym>Gallstone attack</Synonym>
+		<Synonym>Biliary calculus: chenodeoxycholic acids (CDCA)</Synonym>
+		<Synonym>Ursodeoxycholic acid (UDCA, ursodiol)</Synonym>
+		<Synonym>Endoscopic retrograde cholangiopancreatography (ERCP)-gallstones</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001669-1" qtype="information">What is (are) Gallstones ?</Question>
+			<Answer>Gallstones are hard deposits that form inside the gallbladder. These may be as small as a grain of sand or as large as a golf ball.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001669-2" qtype="causes">What causes Gallstones ?</Question>
+			<Answer>The cause of gallstones varies. There are two main types of gallstones: Stones made of cholesterol -- This is the most common type. Cholesterol gallstones are not related to cholesterol level in the blood. In most cases, they are not visible on CT scans but are visible on a sonogram (ultrasound) of the abdomen., Stones made of bilirubin -- These are called pigment stones. They occur when red blood cells are destroyed and too much bilirubin is in the bile. ,  Gallstones are more common in: Female sex, Native Americans and people of Hispanic descent, People over age 40, People who are overweight, People with family history of gallstones,  The following factors also make you more likely to develop gallstones: Bone marrow  or solid organ transplant,  Diabetes , Failure of the gallbladder to empty bile properly (this is more likely to happen during pregnancy),  Liver cirrhosis  and biliary tract infections (pigmented stones), Medical conditions that cause too many  red blood cells to be destroyed , Rapid weight loss from eating a very low-calorie diet, or after weight loss surgery, Receiving nutrition through a vein for a long period of time (intravenous feedings), Taking birth control pills , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001669-3" qtype="symptoms">What are the symptoms of Gallstones ?</Question>
+			<Answer>Many people with gallstones do not have any symptoms. These are often found during a routine x-ray, abdominal surgery, or other medical procedure. However, if a large  stone blocks a tube  or duct that drains the gallbladder, you may have a cramping pain in the middle to right upper abdomen. This is known as biliary colic. The pain goes away if the stone passes into the first part of the small intestine. Symptoms that may occur include: Pain in the right upper or middle upper abdomen for at least 30 minutes. The pain may be constant or cramping. It can feel sharp or dull., Fever., Yellowing of skin and whites of the eyes (jaundice).,  Other symptoms may include: Clay-colored stools, Nausea and vomiting , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001669-4" qtype="exams and tests">How to diagnose Gallstones ?</Question>
+			<Answer>Tests used to detect gallstones or gallbladder inflammation include: Ultrasound, abdomen ,  CT scan, abdomen , Endoscopic retrograde cholangiopancreatography (ERCP),  Gallbladder radionuclide scan , Endoscopic ultrasound, Magnetic resonance cholangiopancreatography (MRCP),  Percutaneous transhepatic cholangiogram  (PTCA) ,  Your health care provider may order the following blood tests: Bilirubin ,  Liver function tests , Complete blood count, Pancreatic enzyme (amylase or lipase), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001669-5" qtype="treatment">What are the treatments for Gallstones ?</Question>
+			<Answer>SURGERY Most of the time, surgery is not needed unless symptoms begin. However, people planning weight loss surgery may need to have gallstones removed before undergoing the procedure. In general, people who have symptoms will need surgery right away or soon after the stone is found. A technique called  laparoscopic cholecystectomy  is most commonly used. This procedure uses small surgical incisions, which allow for a faster recovery. A patient can often go home from the hospital within 1 day of surgery., In the past, open  cholecystectomy  (gallbladder removal) was most often done. However, this technique is less common now. ,  ERCP and a procedure called a sphincterotomy may be done to find or treat  gallstones in the common bile duct . MEDICINES Medicines may be given in pill form to dissolve cholesterol gallstones. However, these drugs may take 2 years or longer to work, and the stones may return after treatment ends. Rarely, chemicals are passed into the gallbladder through a catheter. The chemical rapidly dissolves cholesterol stones. This treatment is hard to perform, so it is not done very often. The chemicals used can be toxic, and the gallstones may return. LITHOTRIPSY Shock wave lithotripsy (ESWL) of the gallbladder has also been used for people who cannot have surgery. This treatment is not used as often as it once was because gallstones often come back.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001669-6" qtype="outlook">What is the outlook for Gallstones ?</Question>
+			<Answer>You may need to be on a  liquid diet  or take other steps to give your gallbladder a rest after you are treated. Your provider will give you instructions when you leave the hospital. The chance of symptoms or complications from gallstone surgery is low. Nearly all people who have their gallbladder taken out by surgery do not have their symptoms return.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001669-7" qtype="complications">What are the complications of Gallstones ?</Question>
+			<Answer>Blockage by gallstones may cause swelling or infection in the: Gallbladder (cholecystitis), Tube that carries bile from the liver to the gallbladder and intestines ( cholangitis ), Pancreas (pancreatitis), </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001669-8" qtype="when to contact a medical professional">Do I need to see a doctor for Gallstones ?</Question>
+			<Answer>Contact your provider if you have: Pain in the upper part of your abdomen ,  Yellowing of the skin or whites of the eyes , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001669-9" qtype="prevention">How to prevent Gallstones ?</Question>
+			<Answer>In most people, gallstones can't be prevented. In people who are obese, avoiding rapid weight loss&#160;may help&#160;prevent gallstones.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

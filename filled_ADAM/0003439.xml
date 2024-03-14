@@ -1,0 +1,16 @@
+<Document id="0003439" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003723.htm">
+ 
+<Focus>Routine sputum culture</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Sputum culture</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003439-1" qtype="information">Do you have information about Routine sputum culture</Question>
+			<Answer>Routine sputum culture is a laboratory test that looks for germs that cause infection. Sputum is the material that comes up from air passages when you cough deeply.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

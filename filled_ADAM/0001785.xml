@@ -1,0 +1,22 @@
+<Document id="0001785" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000737.htm">
+ 
+<Focus>Gunshot wounds - aftercare</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0043252</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001785-1" qtype="information">What is (are) Gunshot wounds - aftercare ?</Question>
+			<Answer>A gunshot wound is caused when a bullet or other projectile is shot into or through the body. Gunshot wounds can cause serious injury, including: Severe bleeding, Damage to tissues and organs, Broken bones, Wound infections, Paralysis,  The amount of damage depends on the location of the injury and the speed and type of bullet. Gunshot wounds to the head or body (torso) are likely to cause more damage. High-velocity wounds with fracture are associated with an increased risk of infection.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

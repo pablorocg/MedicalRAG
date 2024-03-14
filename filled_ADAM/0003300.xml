@@ -1,0 +1,58 @@
+<Document id="0003300" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000075.htm">
+ 
+<Focus>Pulmonary veno-occlusive disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0034091</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pulmonary vaso-occlusive disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003300-1" qtype="information">What is (are) Pulmonary veno-occlusive disease ?</Question>
+			<Answer>Pulmonary veno-occlusive disease (PVOD) is a very rare disease. It leads to high blood pressure in the lung arteries ( pulmonary hypertension ).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003300-2" qtype="causes">What causes Pulmonary veno-occlusive disease ?</Question>
+			<Answer>In most cases, the cause of PVOD is unknown. The high blood pressure occurs in the pulmonary arteries. These lung arteries are directly connected to the right side of the heart. The condition may be related to a viral infection. It may occur as a complication of certain diseases such as  lupus , or  bone marrow transplantation . The disorder is most common among children and young adults. As the disease gets worse, it causes: Narrowed pulmonary veins, Pulmonary artery hypertension, Congestion and swelling of the lungs,  Possible risk factors for PVOD include: Family history of the condition, Smoking, Exposure to substances like trichloroethylene or  chemotherapy  medicines,  Systemic sclerosis  (autoimmune skin disorder), </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003300-3" qtype="symptoms">What are the symptoms of Pulmonary veno-occlusive disease ?</Question>
+			<Answer>Symptoms may include any of the following: Shortness of breath , Dry cough,  Fatigue on exertion ,  Fainting ,  Coughing up blood ,  Difficulty breathing while lying flat , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003300-4" qtype="exams and tests">How to diagnose Pulmonary veno-occlusive disease ?</Question>
+			<Answer>The health care provider will examine you and ask about your medical history and symptoms. The exam may reveal: 
+   Increased pressure in the neck veins
+   ,  Clubbing  of the fingers
+   ,  Bluish coloration of the skin  due to lack of oxygen ( cyanosis ), 
+   Swelling in the legs
+   ,  Your provider may hear abnormal  heart sounds  when listening to the chest and lungs with a stethoscope. The following tests may be done: Arterial blood gases , Blood oximetry,  Chest x-ray ,  Chest CT ,  Cardiac catheterization , Lung function tests,  Echocardiogram , Lung biopsy , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003300-5" qtype="treatment">What are the treatments for Pulmonary veno-occlusive disease ?</Question>
+			<Answer>There is currently no known effective medical treatment. However, the following medicines may be helpful for some people: Medicines that widen the blood vessels (vasodilators), Medicines that control the immune system response (such as azathioprine or steroids),  A  lung transplant  may be needed.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003300-6" qtype="outlook">What is the outlook for Pulmonary veno-occlusive disease ?</Question>
+			<Answer>The outcome is often very poor in infants, with a survival rate of just a few weeks. Survival in adults may be months to a few years. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003300-7" qtype="complications">What are the complications of Pulmonary veno-occlusive disease ?</Question>
+			<Answer>Complications of PVOD may include: Difficulty breathing  that gets worse, including at night ( sleep apnea ), Pulmonary hypertension, Right-sided heart failure ( cor pulmonale ), </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003300-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pulmonary veno-occlusive disease ?</Question>
+			<Answer>Call your provider if you have symptoms of this disorder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

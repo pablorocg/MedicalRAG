@@ -1,0 +1,47 @@
+<Document id="0003965" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003065.htm">
+ 
+<Focus>Tooth - abnormal colors</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0332572</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Discolored teeth</Synonym>
+		<Synonym>Tooth discoloration</Synonym>
+		<Synonym>Tooth pigmentation</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003965-1" qtype="information">What is (are) Tooth - abnormal colors ?</Question>
+			<Answer>Abnormal tooth color is any color other than white to yellowish-white.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003965-2" qtype="considerations">What to do for Tooth - abnormal colors ?</Question>
+			<Answer>Many things can cause teeth to become discolored. The change in color may affect the entire tooth, or it may appear as spots or lines in the tooth enamel. Enamel is the hard outer layer of the tooth. The discoloration can be either temporary or permanent. It may also appear on many teeth or only one area.  Your genes affect your tooth color. Other things that can affect tooth color include: Diseases that are present at birth, Environmental factors, Infections ,  Inherited diseases may affect the thickness of enamel or the calcium or protein content of the enamel. This can cause color changes. Metabolic diseases may cause changes in tooth color and shape. Drugs and medicines taken by a mother during pregnancy or by a child during the time of tooth development can cause changes in the color and hardness of the enamel.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003965-3" qtype="causes">What causes Tooth - abnormal colors ?</Question>
+			<Answer>Some things that can cause teeth to become discolored are: Antibiotic tetracycline use before age 8, Eating or drinking items that temporarily stain the teeth, such as tea, coffee, red wine, or iron-containing liquids, Smoking and chewing tobacco, Genetic defects that affect the tooth enamel, such as dentinogenesis and  amelogenesis , High  fever  at an age when teeth are forming, Poor oral care, Tooth nerve damage,  Porphyria  (a group of disorders caused by a buildup of natural chemicals in the body), Severe neonatal jaundice, Too much fluoride from environmental sources (naturally high water fluoride levels) or ingestion of fluoride rinses, toothpaste, and high amount of fluoride supplements , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003965-4" qtype="considerations">What to do for Tooth - abnormal colors ?</Question>
+			<Answer>Many things can cause teeth to become discolored. The change in color may affect the entire tooth, or it may appear as spots or lines in the tooth enamel. Enamel is the hard outer layer of the tooth. The discoloration can be either temporary or permanent. It may also appear on many teeth or only one area.  Your genes affect your tooth color. Other things that can affect tooth color include: Diseases that are present at birth, Environmental factors, Infections ,  Inherited diseases may affect the thickness of enamel or the calcium or protein content of the enamel. This can cause color changes. Metabolic diseases may cause changes in tooth color and shape. Drugs and medicines taken by a mother during pregnancy or by a child during the time of tooth development can cause changes in the color and hardness of the enamel.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003965-5" qtype="when to contact a medical professional">Do I need to see a doctor for Tooth - abnormal colors ?</Question>
+			<Answer>Contact your provider if: Your teeth are an abnormal color without an apparent cause, Abnormal tooth color lasts, even after cleaning your teeth well, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003965-6" qtype="outlook">What is the outlook for Tooth - abnormal colors ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

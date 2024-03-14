@@ -1,0 +1,65 @@
+<Document id="0004122" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000521.htm">
+ 
+<Focus>Urinary tract infection - adults</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0042029</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bladder infection - adults</Synonym>
+		<Synonym>UTI - adults</Synonym>
+		<Synonym>Cystitis - bacterial - adults</Synonym>
+		<Synonym>Pyelonephritis - adults</Synonym>
+		<Synonym>Kidney infection - adults</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004122-1" qtype="information">What is (are) Urinary tract infection - adults ?</Question>
+			<Answer>A urinary tract infection, or UTI, is an infection of the urinary tract. The infection can occur at different points in the urinary tract, including the:  
+   Bladder -- An infection in the bladder is also called  cystitis  or a bladder infection., 
+   Kidneys -- An infection of one or both kidneys is called  pyelonephritis  or a kidney infection., 
+   Ureters -- The tubes that take urine from each kidney to the bladder are rarely the only site of infection., 
+   Urethra -- An infection of the tube that empties urine from the bladder to the outside is called  urethritis . , </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004122-2" qtype="causes">What causes Urinary tract infection - adults ?</Question>
+			<Answer>Most UTIs are caused by bacteria that enter the urethra and then the bladder. The infection most commonly develops in the bladder, but can spread to the kidneys. Most of the time, your body can get rid of these bacteria. However, certain conditions increase the risk for having UTIs. Women tend to get them more often because their urethra is shorter and closer to the anus than in men. Because of this, women are more likely to get an infection after sexual activity or when using a diaphragm for birth control. Menopause also increases the risk for a UTI. The following also increase your chances of developing a UTI: Diabetes , Advanced age, Conditions that affect personal care habits (such as  Alzheimer disease  and  delirium ), Problems emptying the bladder completely,  Having a urinary catheter ,  Bowel incontinence ,  Enlarged prostate ,  narrowed urethra , or anything that blocks the flow of urine,  Kidney stones , Staying still (immobile) for a long period of time (for example, while you are recovering from a hip fracture), Pregnancy, Surgery or other procedure involving the urinary tract , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004122-3" qtype="symptoms">What are the symptoms of Urinary tract infection - adults ?</Question>
+			<Answer>The symptoms of a bladder infection include: Cloudy  or bloody urine, which may have a foul or strong odor, Low grade fever in some people, Pain or burning with  urination , Pressure or cramping in the lower abdomen or back, Strong need to urinate often, even right after the bladder has been emptied ,  If the infection spreads to your kidneys, symptoms may include: Chills  and shaking or night sweats,  Fatigue  and a general ill feeling, Fever above 101&#176;F (38.3&#176;C), Pain in the side, back, or groin, Flushed, warm, or reddened skin, Mental changes or  confusion  (in older people, these symptoms often are the only signs of a UTI),  Nausea  and vomiting, Severe abdominal pain (sometimes) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004122-4" qtype="exams and tests">How to diagnose Urinary tract infection - adults ?</Question>
+			<Answer>Most of the time, you will need to provide a urine sample for the following tests:  Urinalysis  -- This test is done to look for white blood cells, red blood cells, bacteria, and to test chemicals such as nitrites in the urine. This test can diagnose an infection most of the time.,  Clean-catch urine culture  -- This test may be done to identify the bacteria and determine the best antibiotic for treatment. ,  Blood tests such as complete blood count ( CBC ) and a  blood culture  may be done as well. You may also need the following tests to help check for other problems in your urinary system: CT scan of the abdomen ,  Intravenous pyelogram  (IVP), Kidney ultrasound,  Voiding cystourethrogram , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004122-5" qtype="treatment">What are the treatments for Urinary tract infection - adults ?</Question>
+			<Answer>Your health care provider must first decide if the infection is just in the bladder, or if it has spread to the kidneys and how severe it is.  MILD BLADDER AND KIDNEY INFECTIONS Most of the time, you will need to take an antibiotic to prevent the infection from spreading to the kidneys., For a simple bladder infection, you will take antibiotics for 3 days (women) or 7 to 14 days (men)., If you are pregnant or have diabetes, or have a mild kidney infection, you will most often take antibiotics for 7 to 14 days., Finish all of the antibiotics, even if you feel better. If you do not finish the whole dose of medicine, the infection may return and be harder to treat later., Always drink plenty of water when you have a bladder or kidney infection., Tell your provider if you might be pregnant before taking these drugs. ,  RECURRENT BLADDER INFECTIONS Some women have repeated bladder infections. Your provider may suggest that you: Take a single dose of an antibiotic after sexual contact to prevent an infection., Have a 3-day course of antibiotics at home to use if you develop an infection., Take a single, daily dose of an antibiotic to prevent infections. ,  MORE SEVERE KIDNEY INFECTIONS You may need to go into the hospital if you are very sick and cannot take medicines by mouth or drink enough fluids. You may also be admitted to the hospital if you: Are an older adult, Have kidney stones or changes in the anatomy of your urinary tract, Have recently had urinary tract surgery, Have cancer, diabetes,  multiple sclerosis , spinal cord injury, or other medical problems, Are pregnant and have a fever or are otherwise ill ,  At the hospital, you will receive fluids and antibiotics through a vein. Some people have UTIs that do not go away with treatment or keep coming back. These are called chronic UTIs. If you have a chronic UTI, you may need stronger antibiotics or to take medicine for a longer time.  You may need surgery if the infection is caused by a problem with the structure of the urinary tract.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004122-6" qtype="outlook">What is the outlook for Urinary tract infection - adults ?</Question>
+			<Answer>Most UTIs can be cured. Bladder infection symptoms most often go away within 24 to 48 hours after treatment begins. If you have a kidney infection, it may take 1 week or longer for symptoms to go away.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004122-7" qtype="complications">What are the complications of Urinary tract infection - adults ?</Question>
+			<Answer>Complications may include: Life-threatening blood infection ( sepsis ) -- The risk is greater among the young, very old adults, and people whose bodies cannot fight infections (for example, due to HIV or cancer chemotherapy)., Kidney damage or scarring., Kidney infection., </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004122-8" qtype="when to contact a medical professional">Do I need to see a doctor for Urinary tract infection - adults ?</Question>
+			<Answer>Contact your provider if you have symptoms of a UTI. Contact your provider right away if you have signs of a possible kidney infection, such as: Back or side pain, Chills, Fever, Vomiting ,  Also contact your provider if UTI symptoms come back shortly after you have been treated with antibiotics. </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0004122-9" qtype="prevention">How to prevent Urinary tract infection - adults ?</Question>
+			<Answer>Diet and  lifestyle changes  may help prevent some UTIs. After menopause, a woman may use estrogen cream around the vagina to reduce infections.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

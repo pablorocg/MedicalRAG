@@ -1,0 +1,55 @@
+<Document id="0002488" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000588.htm">
+ 
+<Focus>Macroglobulinemia of Waldenstrom</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024419</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Waldenstrom macroglobulinemia</Synonym>
+		<Synonym>Macroglobulinemia - primary</Synonym>
+		<Synonym>Lymphoplasmacytic lymphoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002488-1" qtype="information">What is (are) Macroglobulinemia of Waldenstrom ?</Question>
+			<Answer>Waldenstr&#246;m macroglobulinemia (WM) is a cancer of the B lymphocytes (a type of white blood cell). WM is associated with the overproduction of proteins called IgM  antibodies .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002488-2" qtype="causes">What causes Macroglobulinemia of Waldenstrom ?</Question>
+			<Answer>WM is a result of a condition called lymphoplasmacytic lymphoma. This is a  cancer  of the white blood cells, in which the B immune cells start dividing rapidly. The exact cause of too much production of the IgM antibody is unknown. Hepatitis C may increase the risk of WM. Gene mutations are often found in the malignant B cells. Production of excess IgM antibodies can cause several types of problems: Hyperviscosity, which causes the blood to become too thick. This can make it harder for blood to flow through small blood vessels., Neuropathy, or nerve damage, when the IgM antibody reacts with nerve tissue., Anemia, when the IgM antibody binds to red blood cells., Kidney disease, when the IgM antibody deposits in kidney tissue.,  Cryoglobulinemia  and vasculitis (inflammation of the blood vessels) when the IgM antibody forms immune complexes with cold exposure.,  WM is very rare. Most people with this condition are over 65 years of age.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002488-3" qtype="symptoms">What are the symptoms of Macroglobulinemia of Waldenstrom ?</Question>
+			<Answer>Symptoms of WM may include any of the following: Bleeding of the gums  and nosebleeds,  Blurred or decreased vision ,  Bluish skin &#160;in the fingers after cold exposure,  Dizziness  or confusion, Easy bruising of the skin, Fatigue, Diarrhea,  Numbness , tingling, or burning pain in the hands, feet, fingers, toes, ears, or nose,  Rash ,  Swollen glands ,  Unintentional weight loss ,  Vision loss  in one eye , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002488-4" qtype="exams and tests">How to diagnose Macroglobulinemia of Waldenstrom ?</Question>
+			<Answer>A physical examination may reveal a  swollen spleen , liver, and lymph nodes. An eye exam may show enlarged veins in the retina or retinal bleeding (hemorrhages). A  CBC &#160;may show a low number of red blood cells or platelets.  Blood chemistry &#160;may show evidence of kidney disease. A test called  serum protein electrophoresis  shows an increased level of the IgM antibody. Levels are often higher than 300 milligrams per deciliter (mg/dL), or 3000 mg/L. An immunofixation test will be done to show that the IgM antibody is derived from a single cell type (clonal). A serum viscosity test can tell if the blood has become thick. Symptoms usually occur when the blood is four times thicker than normal. A bone marrow biopsy will show increased numbers of abnormal cells that look like both lymphocytes and plasma cells. Additional tests that may be done include: 24-hour  urine protein ,  Total protein ,  Immunofixation in urine ,  T (thymus derived) lymphocyte count , Bone x-rays, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002488-5" qtype="treatment">What are the treatments for Macroglobulinemia of Waldenstrom ?</Question>
+			<Answer>Some people with WM who have increased IgM antibodies do not have symptoms. This condition is known as smoldering WM. No treatment is needed other than careful follow-up. In people with symptoms, treatment aims at decreasing the symptoms and the risk of developing organ damage. There is no current standard treatment. Your health care provider may suggest that you participate in a clinical trial. Plasmapheresis removes IgM antibodies from the blood. It also controls the symptoms caused by blood thickening. Medicines may include corticosteroids, a combination of chemotherapy medicines and the monoclonal antibody to B cells, rituximab. Autologous stem cell transplant may be recommended for some people with otherwise good health. People who have a low number of red or white blood cells or platelets may need transfusions or antibiotics.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002488-6" qtype="outlook">What is the outlook for Macroglobulinemia of Waldenstrom ?</Question>
+			<Answer>The average survival is about 5 years. Some people live more than 10 years. In some people, the disorder may produce few symptoms and progress slowly.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002488-7" qtype="complications">What are the complications of Macroglobulinemia of Waldenstrom ?</Question>
+			<Answer>Complications of WM may include: Changes in mental function, possibly leading to  coma ,   Heart failure , Gastrointestinal bleeding or malabsorption,  Vision problems ,  Hives , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002488-8" qtype="when to contact a medical professional">Do I need to see a doctor for Macroglobulinemia of Waldenstrom ?</Question>
+			<Answer>Contact your provider if symptoms of WM develop.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

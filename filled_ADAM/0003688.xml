@@ -1,0 +1,26 @@
+<Document id="0003688" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001293.htm">
+ 
+<Focus>Splenic infarction</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037998</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003688-1" qtype="information">What is (are) Splenic infarction ?</Question>
+			<Answer>Splenic infarction is the death of tissue (necrosis) in the spleen due to a blockage in blood flow.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003688-2" qtype="causes">What causes Splenic infarction ?</Question>
+			<Answer>Common causes of splenic infarction include: Blood clots from the heart, Blood cancer, such as lymphoma or  leukemia , Diseases in which the blood clots more easily, such as  sickle cell disease , Inflammation of the pancreas or a mass in the pancreas pressing on the blood vessels to the spleen, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

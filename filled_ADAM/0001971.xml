@@ -1,0 +1,50 @@
+<Document id="0001971" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000999.htm">
+ 
+<Focus>High blood pressure and eye disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020538</CUI>
+			<CUI>C0015397</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hypertensive retinopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001971-1" qtype="information">What is (are) High blood pressure and eye disease ?</Question>
+			<Answer>High blood pressure can damage blood vessels in the  retina . The retina is the layer of tissue at the back part of the eye. It changes light and images that enter the eye into nerve signals that are sent to the brain. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001971-2" qtype="causes">What causes High blood pressure and eye disease ?</Question>
+			<Answer>The higher the blood pressure and the longer it has been high, the more severe the damage is likely to be. You have a higher risk of damage and vision loss when you also have diabetes, high cholesterol level, or you smoke. Rarely, very high blood pressure develops suddenly. However, when it does, it can cause severe changes in the eye. Other problems with the retina are also more likely, such as:  Damage to the nerves in the eye  due to poor blood flow,  Blockage of the arteries  that supply blood to the retina,  Blockage of the veins  that carry blood away from the retina , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001971-3" qtype="symptoms">What are the symptoms of High blood pressure and eye disease ?</Question>
+			<Answer>Most people with hypertensive retinopathy do not have symptoms until late in the disease. Symptoms may include:  Double vision, dim vision, or vision loss,  Headaches ,  Sudden symptoms are a medical emergency. It often means that the blood pressure is very high. </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001971-4" qtype="exams and tests">How to diagnose High blood pressure and eye disease ?</Question>
+			<Answer>Your health care provider will use an  ophthalmoscope  to look for narrowing of the blood vessels and signs that fluid has leaked from blood vessels. The degree of damage to the retina (retinopathy) is graded on a scale of 1 to 4: Grade 1: Usually you would not have symptoms., Grades 2 to 3: There are a number of changes in the blood vessels, leaking from blood vessels, and swelling in other parts of the retina., Grade 4: You will have swelling of the optic nerve and of the visual center of the retina (macula). This swelling can cause decreased vision. ,  You may need a special  test  to examine the blood vessels. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001971-5" qtype="treatment">What are the treatments for High blood pressure and eye disease ?</Question>
+			<Answer>The only treatment for hypertensive retinopathy is to  control high blood pressure . </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001971-6" qtype="outlook">What is the outlook for High blood pressure and eye disease ?</Question>
+			<Answer>People with grade 4 (severe retinopathy) often have heart and kidney problems due to high blood pressure. They are also at higher risk for stroke. In most cases, the retina will heal if the blood pressure is controlled. However, some people with grade 4 retinopathy will have lasting damage to the optic nerve or macula.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001971-7" qtype="when to contact a medical professional">Do I need to see a doctor for High blood pressure and eye disease ?</Question>
+			<Answer>Get emergency treatment if you have high blood pressure with vision changes or headaches.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

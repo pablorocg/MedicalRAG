@@ -1,0 +1,45 @@
+<Document id="0000678" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002890.htm">
+ 
+<Focus>Carbolic acid poisoning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0274848</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Phenol poisoning</Synonym>
+		<Synonym>Phenylic acid poisoning</Synonym>
+		<Synonym>Hydroxybenzene poisoning</Synonym>
+		<Synonym>Phenic acid poisoning</Synonym>
+		<Synonym>Benzenol poisoning</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000678-1" qtype="information">What is (are) Carbolic acid poisoning ?</Question>
+			<Answer>Carbolic acid is a sweet-smelling clear liquid. It is added to many different products. Carbolic acid poisoning occurs when someone touches or swallows this chemical. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000678-4" qtype="symptoms">What are the symptoms of Carbolic acid poisoning ?</Question>
+			<Answer>Below are symptoms of carbolic acid poisoning in different parts of the body. BLADDER AND KIDNEYS Blue- or green-colored urine, Decreased urine output, No urine output ,  EYES, EARS, NOSE, MOUTH, AND THROAT Severe burns in the mouth and food pipe (esophagus),  Yellow eyes  (jaundice),  STOMACH AND INTESTINES Abdominal (stomach) pain - severe,  Bloody stools ,  Diarrhea ,  Nausea and vomiting  - possibly bloody,  HEART AND BLOOD Low blood pressure  (shock), Rapid heart rate ,  LUNGS AND AIRWAYS Deep, rapid breathing,  Wheezing ,  Trouble breathing  (may be life threatening if inhaled) ,  NERVOUS SYSTEM Coma  (decreased level of consciousness and lack of responsiveness),  Seizures  (convulsions),  Hyperactivity , Lack of alertness (stupor) ,  SKIN Blue lips and fingernails  (cyanosis), Burns, Yellow skin (jaundice),  WHOLE BODY Excessive thirst, Heavy sweating , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000678-5" qtype="considerations">What to do for Carbolic acid poisoning ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000678-8" qtype="outlook">What is the outlook for Carbolic acid poisoning ?</Question>
+			<Answer>How well someone does depends on how much carbolic acid was swallowed and how quickly treatment is received. The faster medical help is given, the better the chance for recovery.  Damage continues to occur to the esophagus and stomach for several weeks after the poison was swallowed. Death may occur as long as a month later.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000678-9" qtype="outlook">What is the outlook for Carbolic acid poisoning ?</Question>
+			<Answer>How well someone does depends on how much carbolic acid was swallowed and how quickly treatment is received. The faster medical help is given, the better the chance for recovery.  Damage continues to occur to the esophagus and stomach for several weeks after the poison was swallowed. Death may occur as long as a month later.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

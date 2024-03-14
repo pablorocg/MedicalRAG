@@ -1,0 +1,38 @@
+<Document id="0002316" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001611.htm">
+ 
+<Focus>Lacrimal gland tumor</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0339124</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002316-1" qtype="information">What is (are) Lacrimal gland tumor ?</Question>
+			<Answer>A lacrimal gland tumor is a  tumor  in one of the glands that produces tears. The lacrimal gland is located under the outer part of each eyebrow. Lacrimal gland tumors can be harmless ( benign ) or cancerous ( malignant ). About half of lacrimal gland tumors are benign. Some masses in the lacrimal gland are not really tumors but may be due to inflammation or overgrowth of lymphoid tissue.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002316-2" qtype="symptoms">What are the symptoms of Lacrimal gland tumor ?</Question>
+			<Answer>Symptoms may include: Double vision, Fullness in one eyelid or the side of the face, Pain , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002316-3" qtype="exams and tests">How to diagnose Lacrimal gland tumor ?</Question>
+			<Answer>You may first be examined by an eye doctor (ophthalmologist). You may then be evaluated by a head and neck doctor (otolaryngologist, or ENT), or a doctor who specializes in problems with the bony eye socket (orbit). Tests most often include a  CT  or  MRI scan .</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002316-4" qtype="treatment">What are the treatments for Lacrimal gland tumor ?</Question>
+			<Answer>Most lacrimal gland tumors will need to be removed with surgery. Cancerous tumors may need other treatment too, such as radiation or chemotherapy.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002316-5" qtype="outlook">What is the outlook for Lacrimal gland tumor ?</Question>
+			<Answer>The outlook is most often excellent for noncancerous growths. The outlook for cancer depends on the type of cancer and stage at which it is discovered.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

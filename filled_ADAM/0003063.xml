@@ -1,0 +1,37 @@
+<Document id="0003063" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002530.htm">
+ 
+<Focus>Phenobarbital overdose</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0572867</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Luminal overdose</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003063-1" qtype="information">What is (are) Phenobarbital overdose ?</Question>
+			<Answer>Phenobarbital is a medicine used to treat  epilepsy  (seizures), anxiety, and  insomnia . It is in a class of medicines called barbiturates. Phenobarbital overdose occurs when someone takes too much of this medicine. Barbiturates are addictive, producing physical dependence and a withdrawal syndrome that can be life threatening. This article is for information only. DO NOT use it to treat or manage an actual  overdose . If you or someone you are with overdoses, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003063-4" qtype="symptoms">What are the symptoms of Phenobarbital overdose ?</Question>
+			<Answer>Symptoms of a phenobarbital overdose may include: Blurred or double vision, rapid side-to-side movement of eyes (nystagmus), Coma (decreased level of consciousness and lack of responsiveness),  Confusion , Dizziness, Drowsiness, tiredness, fainting, Nausea, Rash, Shock (extremely low blood pressure), Slowed or absent breathing, Stupor (decreased level of alertness), Slurred speech, Weakness, uncoordinated movement, staggering gait (ataxia, seen commonly in children), </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003063-7" qtype="outlook">What is the outlook for Phenobarbital overdose ?</Question>
+			<Answer>How well the person does depends on the severity of the overdose and how quickly treatment is received. With proper treatment, people can recover in 1 to 5 days. People who are in a prolonged coma or who have respiratory complications, or those who develop shock may have permanent disability.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003063-8" qtype="outlook">What is the outlook for Phenobarbital overdose ?</Question>
+			<Answer>How well the person does depends on the severity of the overdose and how quickly treatment is received. With proper treatment, people can recover in 1 to 5 days. People who are in a prolonged coma or who have respiratory complications, or those who develop shock may have permanent disability.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

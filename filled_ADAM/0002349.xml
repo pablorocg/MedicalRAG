@@ -1,0 +1,17 @@
+<Document id="0002349" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003499.htm">
+ 
+<Focus>LDH isoenzyme blood test</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>LD</Synonym>
+		<Synonym>Lactic (lactate) dehydrogenase isoenzymes</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002349-1" qtype="information">Do you have information about LDH isoenzyme blood test</Question>
+			<Answer>The  lactate dehydrogenase  (LDH) isoenzyme test checks how much of the different types of LDH, called isoenzymes, are present in the blood.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

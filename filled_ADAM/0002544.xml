@@ -1,0 +1,17 @@
+<Document id="0002544" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007240.htm">
+ 
+<Focus>Mechanical ventilator - infants</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Ventilator - infants</Synonym>
+		<Synonym>Respirator - infants</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002544-1" qtype="information">Do you have information about Mechanical ventilator - infants</Question>
+			<Answer>WHY IS A MECHANICAL VENTILATOR USED? A ventilator is used to provide breathing support for ill or immature babies. Sick or  premature  babies are often not able to breathe well enough on their own. They may need help from a ventilator to provide "good air" (oxygen) to the lungs and to remove "bad" exhaled air (carbon dioxide). HOW IS A MECHANICAL VENTILATOR USED? A ventilator is a bedside machine. It is attached to a breathing tube that is placed into the windpipe (trachea) of sick or premature babies who need help breathing. Caregivers can adjust the ventilator as needed, depending on the baby's condition, blood gas measurements, and x-rays. WHAT ARE THE RISKS OF A MECHANICAL VENTILATOR? Most babies who need ventilator assistance have some lung problems, including immature or diseased lungs, which are at risk for injury. Sometimes, delivering oxygen under pressure can damage the fragile air sacs (alveoli) in the lungs. This can lead to air leaks, which can make it difficult for the ventilator to help the baby breathe. The most common type of air leak occurs when air gets into the space between the lung and inner chest wall. This is called a  pneumothorax . This air can be removed with a tube placed into the space until the pneumothorax heals., A less common kind of air leak occurs when many tiny pockets of air are found in the lung tissue around the air sacs. This is called pulmonary interstitial emphysema. This air cannot be removed. However, it most often slowly goes away on its own.,  Long-term damage may also occur because newborn lungs are not yet fully developed. This can lead to chronic lung disease that is called  bronchopulmonary dysplasia  (BPD). This is why caregivers closely monitor the baby. They will try to "wean" the baby from oxygen or decrease the ventilator settings whenever possible. How much breathing support is given will depend on the baby's needs.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

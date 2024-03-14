@@ -1,0 +1,53 @@
+<Document id="0003507" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001219.htm">
+ 
+<Focus>Secondary amenorrhea</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0232940</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Amenorrhea - secondary</Synonym>
+		<Synonym>No periods - secondary</Synonym>
+		<Synonym>Absent periods - secondary</Synonym>
+		<Synonym>Absent menses - secondary</Synonym>
+		<Synonym>Absence of periods - secondary</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003507-1" qtype="information">What is (are) Secondary amenorrhea ?</Question>
+			<Answer>Absence of a woman's monthly menstrual period is called amenorrhea. Secondary amenorrhea is when a woman who has been having normal menstrual cycles stops getting her periods for 6 months or longer.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003507-2" qtype="causes">What causes Secondary amenorrhea ?</Question>
+			<Answer>Secondary amenorrhea can occur due to natural changes in the body. For example, the most common cause of secondary amenorrhea is pregnancy. Breastfeeding and menopause are also common, but natural causes. Women who take birth control pills or who receive hormone shots such as Depo-Provera may not have any monthly bleeding. When they stop taking these hormones, their periods may not return for more than 6 months. You are more likely to have absent periods if you: Are obese, Exercise too much and for long periods of time, Have very low body fat (less than 15% to 17%), Have severe anxiety or emotional distress, Lose a lot of weight suddenly (for example, from strict or extreme diets or after  gastric bypass surgery ) ,  Other causes include: Brain (pituitary) tumors, Drugs for cancer treatment, Medicines to treat  schizophrenia  or psychosis,  Overactive thyroid gland ,  Polycystic ovarian syndrome , Reduced function of the ovaries ,  Also, procedures such as a dilation and curettage ( D and C ) can cause scar tissue to form. This tissue may cause a woman to stop menstruating. This is called  Asherman syndrome . Scarring may also be caused by some severe pelvic infections.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003507-3" qtype="symptoms">What are the symptoms of Secondary amenorrhea ?</Question>
+			<Answer>In addition to having no menstrual periods, other symptoms can include: Breast size changes,  Weight gain  or  weight loss , Discharge from the breast or change in breast size, Acne and increased hair growth in a male pattern, Vaginal dryness, Voice changes ,  If amenorrhea is caused by a pituitary tumor, there may be other symptoms related to the tumor, such as vision loss and  headache .</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003507-4" qtype="exams and tests">How to diagnose Secondary amenorrhea ?</Question>
+			<Answer>A physical exam and pelvic exam must be done to check for pregnancy. A  pregnancy test  will be done. Blood tests may be done to check hormone levels, including: Estradiol levels ,  Follicle stimulating hormone  (FSH level),  Luteinizing hormone  (LH level),  Prolactin level , Serum  hormone levels , such as  testosterone  levels,  Thyroid stimulating hormone  (TSH) ,  Other tests that may be performed include: CT scan  or  MRI scan of the head  to look for tumors,  Biopsy of the lining of the uterus , Genetic testing, Ultrasound of the pelvis or  hysterosonogram  (pelvic ultrasound that involves putting saline solution inside the uterus) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003507-5" qtype="treatment">What are the treatments for Secondary amenorrhea ?</Question>
+			<Answer>Treatment depends on the cause of amenorrhea. Normal monthly periods&#160;most often&#160;return after the condition is treated. A lack of menstrual period due to  obesity , vigorous exercise, or weight loss may respond to a change in exercise routine or weight control (gain or loss, as needed).</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003507-6" qtype="outlook">What is the outlook for Secondary amenorrhea ?</Question>
+			<Answer>The outlook depends on the cause of amenorrhea. Many of the conditions that cause secondary amenorrhea will respond to treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003507-7" qtype="when to contact a medical professional">Do I need to see a doctor for Secondary amenorrhea ?</Question>
+			<Answer>See your primary health care provider or women's health care provider if you have missed more than one period so you can get diagnosed and treated, if needed.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

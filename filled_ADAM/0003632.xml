@@ -1,0 +1,19 @@
+<Document id="0003632" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000152.htm">
+ 
+<Focus>Small bowel resection - discharge</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Small intestine surgery - discharge</Synonym>
+		<Synonym>Bowel resection - small intestine - discharge</Synonym>
+		<Synonym>Resection of part of the small intestine - discharge</Synonym>
+		<Synonym>Enterectomy - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003632-1" qtype="information">Do you have information about Small bowel resection - discharge</Question>
+			<Answer>You had surgery to remove all or part of your small intestine (small bowel). You may also have had an  ileostomy .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

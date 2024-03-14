@@ -1,0 +1,58 @@
+<Document id="0002687" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000649.htm">
+ 
+<Focus>Mucormycosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0043541</CUI>
+			<CUI>C0026718</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Zygomycosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002687-1" qtype="information">What is (are) Mucormycosis ?</Question>
+			<Answer>Mucormycosis is a fungal infection of the sinuses, brain, or lungs. It occurs in some people with a weakened immune system.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002687-2" qtype="causes">What causes Mucormycosis ?</Question>
+			<Answer>Mucormycosis is caused by different kinds of fungi that are often found in decaying organic matter. These include spoiled bread, fruit, and vegetables, as well as soil and compost piles. Most people come in contact with the fungus in the environment. People with a weakened immune system are more likely to develop mucormycosis. These include people with any of the following conditions: AIDS , Burns, Diabetes (usually poorly controlled),  Leukemia  and  lymphoma , Long-term steroid use,  Metabolic acidosis , Poor nutrition (malnutrition), Use of some medicines that suppress the immune system,  Mucormycosis may involve: A sinus and brain infection called rhinocerebral infection:  It may start as a sinus infection, and then lead to the swelling of the nerves that come from the brain. It may also cause blood clots that block vessels to the brain.,  A lung infection called pulmonary mucormycosis:  Pneumonia gets worse quickly and may spread to the chest cavity, heart, and brain.,  Other parts of the body:  Mucormycosis of the gastrointestinal tract, skin, and kidneys. , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002687-3" qtype="symptoms">What are the symptoms of Mucormycosis ?</Question>
+			<Answer>Symptoms of rhinocerebral mucormycosis include: Eyes that swell and stick out (protrude), Dark scabbing in nasal cavities, Fever, Headache, Mental status changes, Redness of skin above sinuses, Sinus pain or congestion ,  Symptoms of lung (pulmonary) mucormycosis include: Cough, Coughing blood (occasionally), Fever, Shortness of breath ,  Symptoms of gastrointestinal mucormycosis include: Abdominal pain, Blood in the stools,  Diarrhea , Vomiting blood ,  Symptoms of kidney (renal) mucormycosis include: Fever, Pain in the upper abdomen or back ,  Symptoms of skin (cutaneous) mucormycosis include a single, sometimes painful, hardened area of skin that may have a blackened center.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002687-4" qtype="exams and tests">How to diagnose Mucormycosis ?</Question>
+			<Answer>Your health care provider will examine you. See an ear-nose-throat (ENT) doctor if you are having sinus problems.  Testing depends on your symptoms, but may include these imaging tests: CT scans ,  MRI  scans ,  A  biopsy  must be done to diagnose mucormycosis. A biopsy is the removal of a small piece of tissue for laboratory examination to identify the fungus and invasion into host tissue.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002687-5" qtype="treatment">What are the treatments for Mucormycosis ?</Question>
+			<Answer>Surgery should be done right away to remove all dead and infected tissue. Surgery can lead to disfiguration because it may involve removal of the palate, parts of the nose, or parts of the eye. But, without such aggressive surgery, chances of survival are greatly decreased. You will also receive antifungal medicine, usually amphotericin B, through a vein. After the infection is under control, you may be switched to a different medicine such as posaconazole or isavuconazole. If you have diabetes, it will be important to get your blood sugar in the normal range.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002687-6" qtype="outlook">What is the outlook for Mucormycosis ?</Question>
+			<Answer>Mucormycosis has a very high death rate, even when aggressive surgery is done. Risk of death depends on the area of the body involved and your overall health.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002687-7" qtype="complications">What are the complications of Mucormycosis ?</Question>
+			<Answer>These complications may occur: Blindness (if the optic nerve is involved), Clotting or blockage of brain or lung blood vessels, Death, Nerve damage , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002687-8" qtype="when to contact a medical professional">Do I need to see a doctor for Mucormycosis ?</Question>
+			<Answer>People with weakened immune systems and immune disorders (including diabetes) should seek medical attention if they develop:  Fever , Headache , Sinus pain , Eye swelling , Any of the other symptoms listed above, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002687-9" qtype="prevention">How to prevent Mucormycosis ?</Question>
+			<Answer>Because the fungi that cause mucormycosis are widespread, the best way to prevent this infection is to improve control of the illnesses associated with mucormycosis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

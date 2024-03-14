@@ -1,0 +1,18 @@
+<Document id="0001708" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002432.htm">
+ 
+<Focus>Genetically engineered foods</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Bioengineered foods</Synonym>
+		<Synonym>GMOs</Synonym>
+		<Synonym>Genetically modified foods</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001708-1" qtype="information">Do you have information about Genetically engineered foods</Question>
+			<Answer>Genetically engineered (GE) foods have had their DNA changed using genes from other plants or animals. Scientists take the gene for a desired trait in one plant or animal, and they insert that gene into a cell of another plant or animal.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,26 @@
+<Document id="0002490" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002251.htm">
+ 
+<Focus>Macrosomia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0158915</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002490-1" qtype="information">What is (are) Macrosomia ?</Question>
+			<Answer>The most common cause of macrosomia is  diabetes  in the mother. Macrosomia can lead to injury during birth and a greater chance of a  cesarean delivery  (C-section).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002490-2" qtype="information">What is (are) Macrosomia ?</Question>
+			<Answer>The most common cause of macrosomia is  diabetes  in the mother. Macrosomia can lead to injury during birth and a greater chance of a  cesarean delivery  (C-section).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

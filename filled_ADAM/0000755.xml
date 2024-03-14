@@ -1,0 +1,29 @@
+<Document id="0000755" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002034.htm">
+ 
+<Focus>Chafing</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1405994</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Skin irritation from rubbing</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000755-1" qtype="information">What is (are) Chafing ?</Question>
+			<Answer>When rubbing causes skin irritation, these tips may help: Avoid coarse clothing. Wearing 100% cotton fabric against your skin may help., Reduce friction against your skin by wearing the right kind of clothing for the activity you are doing (for example, athletic tights for running or cycling shorts for biking)., Avoid activities that cause chafing unless they are part of your typical lifestyle, exercise, or sports routine., Wear clean and dry clothing. Dried sweat, chemicals, dirt, and other debris may cause irritation., Use petroleum jelly or baby powder on chafed areas until the skin heals. You can also use these before activities to prevent chafing in easily irritated areas, for example, on your inner thighs or upper arms before running. , </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000755-2" qtype="information">What is (are) Chafing ?</Question>
+			<Answer>When rubbing causes skin irritation, these tips may help: Avoid coarse clothing. Wearing 100% cotton fabric against your skin may help., Reduce friction against your skin by wearing the right kind of clothing for the activity you are doing (for example, athletic tights for running or cycling shorts for biking)., Avoid activities that cause chafing unless they are part of your typical lifestyle, exercise, or sports routine., Wear clean and dry clothing. Dried sweat, chemicals, dirt, and other debris may cause irritation., Use petroleum jelly or baby powder on chafed areas until the skin heals. You can also use these before activities to prevent chafing in easily irritated areas, for example, on your inner thighs or upper arms before running. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

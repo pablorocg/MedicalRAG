@@ -1,0 +1,41 @@
+<Document id="0002353" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002473.htm">
+ 
+<Focus>Lead poisoning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023176</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Plumbism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002353-1" qtype="information">What is (are) Lead poisoning ?</Question>
+			<Answer>Lead is a very strong poison. When a person swallows an object that has lead in it or breathes in lead dust, some of the poison can stay in the body and cause serious health problems. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002353-3" qtype="symptoms">What are the symptoms of Lead poisoning ?</Question>
+			<Answer>There are many possible symptoms of lead poisoning. Lead can affect many different parts of the body. A single high dose of lead can cause severe emergency symptoms. However, it is more common for lead poisoning to occur slowly over time. This results from repeated exposure to small amounts of lead. In this case, there may not be any obvious symptoms. Over time, even low levels of lead exposure can harm a child's mental development. The health problems get worse as the level of lead in the blood gets higher. Lead is much more harmful to children than adults because it can affect children's developing nerves and brains. The younger the child, the more harmful lead can be. Unborn children are the most vulnerable. Possible complications include: Behavior or attention problems, Failure at school, Hearing problems, Kidney damage, Reduced IQ, Slowed body growth ,  The symptoms of lead poisoning may include: Abdominal pain and cramping (usually the first sign of a high, toxic dose of lead), Aggressive behavior,  Anemia  (low red blood cell count), Constipation, Difficulty getting pregnant, Difficulty sleeping, Headaches, Hearing loss, Irritability, Loss of previous developmental skills (in young children), Low appetite and energy, Reduced sensations ,  Very high levels of lead may cause vomiting, internal bleeding, staggering walk, muscle weakness,  seizures , or coma.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002353-4" qtype="considerations">What to do for Lead poisoning ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002353-7" qtype="outlook">What is the outlook for Lead poisoning ?</Question>
+			<Answer>Adults who have had mildly high lead levels often recover without problems. In children, even mild lead poisoning can have a permanent impact on attention and IQ. People with higher lead levels have a greater risk of long-lasting health problems. They must be followed carefully. Their nerves and muscles can be greatly affected and may no longer function as well as they should. Other body systems may be harmed to various degrees, such as the kidneys and blood vessels. People who survive toxic lead levels may have some permanent brain damage. Children are more vulnerable to serious long-term problems. A complete recovery from chronic lead poisoning may take months to years.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002353-8" qtype="outlook">What is the outlook for Lead poisoning ?</Question>
+			<Answer>Adults who have had mildly high lead levels often recover without problems. In children, even mild lead poisoning can have a permanent impact on attention and IQ. People with higher lead levels have a greater risk of long-lasting health problems. They must be followed carefully. Their nerves and muscles can be greatly affected and may no longer function as well as they should. Other body systems may be harmed to various degrees, such as the kidneys and blood vessels. People who survive toxic lead levels may have some permanent brain damage. Children are more vulnerable to serious long-term problems. A complete recovery from chronic lead poisoning may take months to years.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

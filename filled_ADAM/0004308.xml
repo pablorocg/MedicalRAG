@@ -1,0 +1,26 @@
+<Document id="0004308" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000693.htm">
+ 
+<Focus>When your child has diarrhea</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011991</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004308-1" qtype="information">What is (are) When your child has diarrhea ?</Question>
+			<Answer>Diarrhea  is the passage of loose or watery stools. For some children, diarrhea is mild and will go away within a few days. For others, it may last longer. It can make your child lose too much fluid (become dehydrated) and feel weak. A  stomach or intestinal illness  is a common cause of diarrhea. Medical treatments, such as antibiotics and some cancer treatments can also cause diarrhea. Many other medicines can also cause diarrhea. This article is about diarrhea in children over 1 year of age.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004308-5" qtype="when to contact a medical professional">Do I need to see a doctor for When your child has diarrhea ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

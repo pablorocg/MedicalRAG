@@ -1,0 +1,47 @@
+<Document id="0002232" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002658.htm">
+ 
+<Focus>Iodine poisoning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0238201</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002232-1" qtype="information">What is (are) Iodine poisoning ?</Question>
+			<Answer>Iodine is a naturally-occurring chemical. Small amounts are needed for good health. However, large doses can cause harm. Children are especially sensitive to the effects of iodine. NOTE: Iodine is found in certain foods. However, there is normally not enough iodine in foods to harm the body. This article focusses on poisoning from exposure to non-food items that contain iodine. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002232-4" qtype="symptoms">What are the symptoms of Iodine poisoning ?</Question>
+			<Answer>Symptoms of iodine poisoning include: Abdominal pain ,  
+ Coughing 
+ ,  Delirium ,  
+ Diarrhea, sometimes bloody,  
+ Fever 
+ , Gum and tooth soreness, Loss of appetite,  Metallic taste  in mouth, Mouth and throat pain and burning,  No urine output , Rash, Salivation (producing saliva), Seizures,  Shock , Shortness of breath,  Stupor  (decreased level of alertness),  
+ Thirst 
+ ,  
+ Vomiting 
+ , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002232-5" qtype="considerations">What to do for Iodine poisoning ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002232-8" qtype="outlook">What is the outlook for Iodine poisoning ?</Question>
+			<Answer>How well a person does depends on the amount of iodine swallowed and how quickly treatment was received. The faster a person gets medical help, the better the chance for recovery. Esophageal stricture  (narrowing of the esophagus, the tube that carries food from the mouth to the stomach) is a possible complication. Long-term effects of iodine overdose include thyroid gland problems.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002232-9" qtype="outlook">What is the outlook for Iodine poisoning ?</Question>
+			<Answer>How well a person does depends on the amount of iodine swallowed and how quickly treatment was received. The faster a person gets medical help, the better the chance for recovery. Esophageal stricture  (narrowing of the esophagus, the tube that carries food from the mouth to the stomach) is a possible complication. Long-term effects of iodine overdose include thyroid gland problems.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

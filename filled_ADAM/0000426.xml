@@ -1,0 +1,29 @@
+<Document id="0000426" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003977.htm">
+ 
+<Focus>Benign prostate hyperplasia (BPH) - resources</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0005001</CUI>
+			<CUI>C1704272</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Resources - benign prostatic hyperplasia (BPH)</Synonym>
+		<Synonym>Prostate enlargement resources</Synonym>
+		<Synonym>BPH resources</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000426-1" qtype="information">What is (are) Benign prostate hyperplasia (BPH) - resources ?</Question>
+			<Answer>The following organizations provide information on benign prostatic hyperplasia ( prostate enlargement ): American Academy of Family Physician, Family Doctor --  familydoctor.org/condition/benign-prostatic-hyperplasia-bph/ , US National Library of Medicine, MedlinePlus --  medlineplus.gov/enlargedprostatebph.html , National Association for Continence --  nafc.org/enlarged-prostate/ , National Institute of Diabetes and Digestive and Kidney Diseases --  www.niddk.nih.gov/health-information/urologic-diseases/prostate-problems/prostate-enlargement-benign-prostatic-hyperplasia , Urology Care Foundation --  www.urologyhealth.org/urology-a-z/b/benign-prostatic-hyperplasia-(bph) , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

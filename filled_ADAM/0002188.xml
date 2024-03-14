@@ -1,0 +1,61 @@
+<Document id="0002188" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001237.htm">
+ 
+<Focus>Ingrown toenail</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027343</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T020</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Onychocryptosis</Synonym>
+		<Synonym>Unguis incarnatus</Synonym>
+		<Synonym>Surgical nail avlusion</Synonym>
+		<Synonym>Matrix excision</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002188-1" qtype="information">What is (are) Ingrown toenail ?</Question>
+			<Answer>An ingrown toenail occurs when the edge of the nail grows into the skin of the toe.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002188-2" qtype="causes">What causes Ingrown toenail ?</Question>
+			<Answer>An ingrown toenail can result from a number of things. Poorly fitting shoes and toenails that are not properly trimmed are the most common causes. The skin along the edge of a toenail may become red and infected. The great toe is affected most often, but any toenail can become ingrown. An ingrown toenail may occur when extra pressure is placed on your toe. This pressure is caused by shoes that are too tight or fit poorly. If you walk often or play sports, a shoe that is even a little tight can cause this problem. Deformities of the foot or toes can also place extra pressure on the toe. Nails that are not trimmed properly can also cause ingrown toenails: Toenails that are trimmed too short, or if the edges are rounded rather than cut straight across may cause the nail to curl and grow into the skin., Poor eyesight, inability to reach the toes easily, or having thick nails can make it hard to properly trim nails., Picking or tearing at the corners of the nails can also cause an ingrown toenail.,  Some people are born with nails that are curved and grow into the skin. Others have toenails that are too large for their toes. Stubbing your toe or other injuries can also lead to an ingrown toenail.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002188-3" qtype="symptoms">What are the symptoms of Ingrown toenail ?</Question>
+			<Answer> 
+ There may be pain, redness, and swelling around the nail.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002188-4" qtype="exams and tests">How to diagnose Ingrown toenail ?</Question>
+			<Answer>Your health care provider will examine your toenail and ask about your symptoms. Tests or x-rays aren't usually needed.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002188-5" qtype="treatment">What are the treatments for Ingrown toenail ?</Question>
+			<Answer>If you have  diabetes ,  nerve problems  in the leg or foot, poor blood circulation to your foot, or an infection around the nail, see your provider right away. Don't try to treat an ingrown nail at home. Otherwise, to treat an ingrown nail at home: Soak the foot in warm water 3 to 4 times a day if possible. After soaking, keep the toe dry., Gently massage over the inflamed skin., Place a small piece of cotton or dental floss under the nail. Wet the cotton or floss with water or antiseptic. ,  When trimming your toenails: Briefly soak your foot in warm water to soften the nails., Use a clean, sharp trimmer., Trim toenails straight across the top. Do not taper or round the corners or trim too short., Do not try to cut out the ingrown portion of the nail yourself. This will only make the problem worse. ,  Consider wearing sandals until the problem goes away. Over-the-counter medicine that is applied to the ingrown toenail may help with the pain, but it does not treat the problem. If this doesn't work and the ingrown nail gets worse, see your provider or a foot specialist (podiatrist). If the ingrown nail doesn't heal or keeps coming back, your provider may remove part of the nail: Numbing medicine is first injected into the toe., The ingrown part of the nail is removed. This procedure is called a partial nail avulsion., It takes 2 to 4 months for the nail to regrow. ,  If the toe is infected, your provider may prescribe antibiotics. After the procedure, follow any  instructions  for helping your nail heal.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002188-6" qtype="outlook">What is the outlook for Ingrown toenail ?</Question>
+			<Answer>Treatment usually controls the infection and relieves pain. The condition is likely to return if you don't practice good foot care.  This condition may become serious in people with diabetes, poor blood circulation, and nerve problems.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002188-7" qtype="complications">What are the complications of Ingrown toenail ?</Question>
+			<Answer>In severe cases, the infection&#160;can spread through the toe and into the bone.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002188-8" qtype="when to contact a medical professional">Do I need to see a doctor for Ingrown toenail ?</Question>
+			<Answer>Contact your provider if you: Are not able to treat an ingrown toenail at home, Have severe pain, redness, swelling, or fever, Have diabetes, nerve damage in the leg or foot, poor circulation to your foot, or an infection around the nail , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002188-9" qtype="prevention">How to prevent Ingrown toenail ?</Question>
+			<Answer>Wear shoes that fit properly. Shoes that you wear every day should have plenty of room around your toes. Shoes that you wear for walking briskly or for playing sports should also have plenty of room, but not be too loose. When trimming your toenails: Briefly soak your foot in warm water to soften the nail., Use a clean, sharp nail trimmer., Trim toenails straight across the top. Do not taper or round the corners or trim too short., Do not pick or tear at the nails. ,  Keep your feet clean and dry. People with diabetes should have routine  foot exams  and nail care.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

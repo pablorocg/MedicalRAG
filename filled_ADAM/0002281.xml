@@ -1,0 +1,17 @@
+<Document id="0002281" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003907.htm">
+ 
+<Focus>Kidney biopsy</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Renal biopsy</Synonym>
+		<Synonym>Biopsy - kidney</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002281-1" qtype="information">Do you have information about Kidney biopsy</Question>
+			<Answer>A kidney biopsy is the removal of a small piece of kidney tissue for examination.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,53 @@
+<Document id="0002197" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000805.htm">
+ 
+<Focus>Insomnia - overview</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1963237</CUI>
+			<CUI>C0917801</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sleep disorder - insomnia</Synonym>
+		<Synonym>Sleep issues</Synonym>
+		<Synonym>Difficulty falling asleep</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002197-1" qtype="information">What is (are) Insomnia - overview ?</Question>
+			<Answer>Insomnia is trouble falling asleep, staying asleep through the night, or waking up too early in the morning. Episodes of insomnia may come and go or be long-lasting. The quality of your sleep is as important as how much sleep you get.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002197-2" qtype="causes">What causes Insomnia - overview ?</Question>
+			<Answer>Sleep habits we learned as children may affect our sleep behaviors as adults. Poor sleep or lifestyle habits that may cause insomnia or make it worse include: Going to bed at a different time each night, Daytime napping, Poor sleeping environment, such as too much noise or light, Spending too much time in bed while awake, Working evenings or night shifts, Not getting enough exercise, Using the television, computer, or a mobile device in bed ,  The use of some medicines and drugs may also affect sleep, including: Alcohol or other drugs, Heavy smoking, Too much caffeine throughout the day or drinking caffeine late in the day, Getting used to certain types of sleep medicines, Some cold medicines and diet pills, Other medicines, herbs, or supplements ,  Physical, social, and mental health issues can affect sleep patterns, including: Bipolar disorder ., Feeling sad or depressed. (Often, insomnia is the symptom that causes people with depression to seek medical help.), Stress and anxiety, whether it is short-term or long-term. For some people, the stress caused by insomnia makes it even harder to fall asleep. ,  Health problems may also lead to problems sleeping and insomnia: Pregnancy , Physical pain or discomfort., Waking up at night to use the bathroom, common in men with enlarged prostate,  Sleep apnea ,  With age, sleep patterns  tend to change. Many people find that aging causes them to have a harder time falling asleep, and that they wake up more often.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002197-3" qtype="symptoms">What are the symptoms of Insomnia - overview ?</Question>
+			<Answer>The most common complaints or symptoms in people with insomnia are: Trouble falling asleep on most nights, Feeling tired during the day or falling asleep during the day, Not feeling refreshed when you wake up, Waking up several times during sleep ,  People who have insomnia are sometimes consumed by the thought of getting enough sleep. But the more they try to sleep, the more frustrated and upset they get, and the harder sleep becomes. Lack of restful sleep can: Make you tired and unfocused, so it is hard to do daily activities., Put you at risk for auto accidents. If you are driving and feel sleepy, pull over and take a break. , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002197-4" qtype="exams and tests">How to diagnose Insomnia - overview ?</Question>
+			<Answer>Your&#160;health care provider&#160;will do a physical exam and ask about your current medicines, drug use, and medical history. Usually, these are the only methods needed to diagnose insomnia.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002197-5" qtype="treatment">What are the treatments for Insomnia - overview ?</Question>
+			<Answer>Not getting 8 hours of sleep every night does not mean your health is at risk. Different people have different sleep needs. Some people do fine on 6 hours of sleep a night. Others only do well if they get 10 to 11 hours of sleep a night. Treatment often begins by reviewing any medicines or health problems that may be causing or worsen insomnia, such as: Enlarged prostate gland or any other medical condition, causing men to wake up at night to urinate, Pain or discomfort from muscle, joint, or nerve disorders, such as arthritis and Parkinson disease, Other medical conditions, such as acid reflux, allergies, and thyroid problems, Mental health disorders, such as depression and anxiety,  You should also think about lifestyle and sleep habits that may affect your sleep. This is called sleep hygiene. Making some  changes in your sleep habits  may improve or solve your insomnia. Some people may need  medicines to help with sleep  for a short period of time. But in the long run, making changes in your lifestyle and sleep habits is the best treatment for problems with falling and staying asleep. Most over-the-counter (OTC) sleeping pills contain antihistamines. These medicines are commonly used to treat allergies. Your body quickly becomes used to them., Sleep medicines called hypnotics can be prescribed by your provider to help reduce the time it takes you to fall asleep. Most of these can become habit-forming., Medicines used to treat anxiety or depression can also help with sleep,  Different methods of talk therapy, such as cognitive behavioral therapy for insomnia (CBT-I), may help you gain control over anxiety or depression.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002197-6" qtype="outlook">What is the outlook for Insomnia - overview ?</Question>
+			<Answer>Most people are able to sleep by practicing good sleep hygiene.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002197-7" qtype="when to contact a medical professional">Do I need to see a doctor for Insomnia - overview ?</Question>
+			<Answer>Contact your&#160;provider if insomnia has become a problem.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

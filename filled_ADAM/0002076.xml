@@ -1,0 +1,56 @@
+<Document id="0002076" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001499.htm">
+ 
+<Focus>Hyperemesis gravidarum</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020450</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Nausea - persistent - in pregnancy</Synonym>
+		<Synonym>Vomiting - persistent - in pregnancy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002076-1" qtype="information">What is (are) Hyperemesis gravidarum ?</Question>
+			<Answer>Hyperemesis gravidarum is extreme, persistent nausea and vomiting during pregnancy. It can lead to  dehydration , weight loss, and electrolyte imbalances. Morning sickness is mild nausea and vomiting that occurs in early pregnancy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002076-2" qtype="causes">What causes Hyperemesis gravidarum ?</Question>
+			<Answer>Most women have some nausea or vomiting ( morning sickness ), particularly during the first 3 months of pregnancy. The exact cause of nausea and vomiting during pregnancy is not known. However, it is believed to be caused by a rapidly rising blood level of a hormone called  human chorionic gonadotropin  (HCG). HCG is released by the placenta. Mild morning sickness is common. Hyperemesis gravidarum is less common and more severe. Women with hyperemesis gravidarum have extreme nausea and vomiting during pregnancy. It can cause a weight loss of more than 5% of body weight. The condition can happen in any pregnancy, but is a little more likely if you are pregnant with twins (or more babies), or if you have a  hydatidiform mole . Women are at higher risk for hyperemesis if they have had the problem in previous pregnancies or are prone to motion sickness.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002076-3" qtype="symptoms">What are the symptoms of Hyperemesis gravidarum ?</Question>
+			<Answer>Morning sickness can cause decreased appetite, low level nausea, or vomiting. This is different from true hyperemesis because people are typically still able to eat and drink fluids some of the time. Symptoms of hyperemesis gravidarum are much more severe. They may include: Severe, persistent nausea and vomiting during pregnancy, Salivating a lot more than normal, Weight loss, Signs of dehydration, such as dark urine, dry skin, weakness, lightheadedness, or fainting, Constipation, Inability to take in adequate amounts of fluid or nutrition, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002076-4" qtype="exams and tests">How to diagnose Hyperemesis gravidarum ?</Question>
+			<Answer>Your health care provider will do a physical exam. Your blood pressure may be low. Your pulse may be high. The following laboratory tests will be done to check for signs of dehydration: Complete blood count, Electrolytes,  Urine ketones , Weight loss,  Your provider may need to run tests to make sure you do not have liver and gastrointestinal problems. A  pregnancy ultrasound  will be done to see if you are carrying twins or more babies. Ultrasound also checks for a hydatidiform mole.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002076-5" qtype="treatment">What are the treatments for Hyperemesis gravidarum ?</Question>
+			<Answer>Morning sickness can most often be managed by avoiding foods that trigger the problem and drinking plenty of fluids when the symptoms decrease in order to stay hydrated. If your nausea and vomiting causes you to become dehydrated, you will receive fluids through an IV. You also may be given anti-nausea medicine. If nausea and vomiting is so severe that you and your baby might be in danger, you will be admitted to the hospital for treatment. If you can't eat enough to get the nutrients you and your baby need, you may get extra nutrients either through an IV or a tube placed into your stomach. To help manage symptoms at home, try these tips. Avoid triggers.  You may notice that certain things can trigger nausea and vomiting. These may include: Certain noises and sounds, even the radio or TV, Bright or blinking lights, Toothpaste, Smells, such as perfume and scented bathing and grooming products, Pressure on your stomach (wear loose-fitting clothes), Riding in a car, Taking showers,  Eat and drink when you are able.  Take advantage of the times you feel better to eat and drink. Eat small, frequent meals. Try dry, bland foods such as crackers or potatoes. Try eating any foods that appeal to you. See if you can tolerate nutritious smoothies with fruits or vegetables. Increase fluids during times of the day when you feel least nauseated. Seltzer, ginger ale, or other sparkling drinks may help. You can also try using low-dose ginger supplements or acupressure wrist bands to ease symptoms. Vitamin B6 (no more than 100 mg daily) has been shown to decrease nausea in early pregnancy. Ask your provider if this vitamin might help you. Another medicine called doxylamine (Unisom) has been shown to be very effective and safe when combined with Vitamin B6 for nausea in pregnancy. You can buy this medicine without a prescription. Ginger supplementation may be helpful. Talk to your provider for additional information.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002076-6" qtype="outlook">What is the outlook for Hyperemesis gravidarum ?</Question>
+			<Answer>Morning sickness typically is mild, but persistent. It can begin between 4 and 8 weeks of pregnancy. It typically goes away by 16 to 18 weeks of pregnancy. Severe nausea and vomiting may also start between 4 and 8 weeks of pregnancy and often goes away by weeks 14 to 16. Some women will continue to have nausea and vomiting for their entire pregnancy. With proper identification of symptoms and careful follow-up, serious complications for the baby or mother are rare.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002076-7" qtype="complications">What are the complications of Hyperemesis gravidarum ?</Question>
+			<Answer>
+
+Severe vomiting is harmful because it leads to dehydration and poor weight gain during pregnancy. Rarely, a woman may have bleeding in her esophagus or other serious problems from constant vomiting. The condition can make it difficult to continue to work or take care of yourself. It can cause anxiety and depression in some women that lingers after the pregnancy. </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002076-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hyperemesis gravidarum ?</Question>
+			<Answer>Contact your provider if you are pregnant and have severe nausea and vomiting or if you have any of the following symptoms: Signs of dehydration., Unable to tolerate any fluids for over 12 hours., Lightheadedness or dizziness., Blood in the vomit., Abdominal pain., Weight loss of more than 5 pounds or 2.7 kilograms. (Weigh yourself regularly to watch for excessive weight loss.), </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

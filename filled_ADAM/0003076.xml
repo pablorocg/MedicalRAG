@@ -1,0 +1,47 @@
+<Document id="0003076" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003041.htm">
+ 
+<Focus>Photophobia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085636</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Light sensitivity</Synonym>
+		<Synonym>Vision - light sensitive</Synonym>
+		<Synonym>Eyes - sensitivity to light</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003076-1" qtype="information">What is (are) Photophobia ?</Question>
+			<Answer>Photophobia is eye discomfort in bright light.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003076-2" qtype="considerations">What to do for Photophobia ?</Question>
+			<Answer>Photophobia is common. For many people, the problem is not due to any disease. Severe photophobia may occur with eye problems. It can cause bad eye pain, even in low light.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003076-3" qtype="causes">What causes Photophobia ?</Question>
+			<Answer>Causes may include: Acute  iritis  or  uveitis  (inflammation inside the eye), Burns to the eye,  Corneal abrasion ,  Corneal ulcer , Drugs such as amphetamines, atropine,  cocaine , cyclopentolate, idoxuridine, phenylephrine, scopolamine, trifluridine, tropicamide, and vidarabine, Excessive wearing of contact lenses, or wearing poorly-fitting contact lenses, Eye disease, injury, or infection (such as  chalazion ,  episcleritis ,  glaucoma ), Eye testing when the eyes have been dilated,  Meningitis , Migraine headache, Recovery from eye surgery, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003076-4" qtype="considerations">What to do for Photophobia ?</Question>
+			<Answer>Photophobia is common. For many people, the problem is not due to any disease. Severe photophobia may occur with eye problems. It can cause bad eye pain, even in low light.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003076-5" qtype="when to contact a medical professional">Do I need to see a doctor for Photophobia ?</Question>
+			<Answer>Call your provider if:  Light sensitivity is severe or painful. (For example, you need to wear sunglasses indoors.), Sensitivity occurs with headaches,  red eye  or  blurred vision  or does not go away in a day or two. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003076-6" qtype="outlook">What is the outlook for Photophobia ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

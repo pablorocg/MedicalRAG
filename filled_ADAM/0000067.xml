@@ -1,0 +1,18 @@
+<Document id="0000067" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003695.htm">
+ 
+<Focus>ACTH blood test</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Serum adrenocorticotropic hormone</Synonym>
+		<Synonym>Adrenocorticotropic hormone</Synonym>
+		<Synonym>Highly-sensitive ACTH</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000067-1" qtype="information">Do you have information about ACTH blood test</Question>
+			<Answer>The ACTH test measures the level of adrenocorticotropic hormone (ACTH) in the blood. ACTH is a hormone released from the pituitary gland at the base of the brain.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

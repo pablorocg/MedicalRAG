@@ -1,0 +1,40 @@
+<Document id="0002684" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007493.htm">
+ 
+<Focus>MRI and low back pain</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024031</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Backache - MRI</Synonym>
+		<Synonym>Low back pain - MRI</Synonym>
+		<Synonym>Lumbar pain - MRI</Synonym>
+		<Synonym>Back strain - MRI</Synonym>
+		<Synonym>Lumbar radiculopathy - MRI</Synonym>
+		<Synonym>Herniated intervertebral disk - MRI</Synonym>
+		<Synonym>Prolapsed intervertebral disk - MRI</Synonym>
+		<Synonym>Slipped disk - MRI</Synonym>
+		<Synonym>Ruptured disk - MRI</Synonym>
+		<Synonym>Herniated nucleus pulposus - MRI</Synonym>
+		<Synonym>Spinal stenosis - MRI</Synonym>
+		<Synonym>Degenerative spine disease - MRI</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002684-1" qtype="information">What is (are) MRI and low back pain ?</Question>
+			<Answer>DANGER SIGNS AND BACK PAIN Both you and your health care provider may be worried that something serious is causing your low back pain. Could your pain be caused by cancer or infection in your spine? How does your provider know for sure? You will likely need an MRI right away if you have warning signs of a more serious cause of back pain: Cannot pass urine or stools, Cannot control your urine or stools, Difficulty with walking and balance, Back pain that is severe in children, Fever, History of  cancer , Other signs or symptoms of cancer, Recent serious fall or injury, Back pain that is very severe, and not even pain pills from your provider help, Leg that is numb or weak and it is getting worse ,  If you have low back pain but none of the warning signs just mentioned, having an MRI won't lead to better treatment, better pain relief, or a quicker return to activities. You and your provider may want to wait before having an MRI. If the pain does not get better or becomes worse, your provider may order one. Keep in mind that: Most of the time, back and neck pain are not caused by a serious medical problem or injury., Low back or neck pain often gets better on its own with time. ,  An MRI scan creates detailed pictures of your spine. It can pick up most injuries that you have had in your spine or changes that happen with aging. Even small problems or changes that are not the cause of your current back pain can be picked up. These findings rarely change how your provider first treats you. But they can lead to: Your provider ordering more tests that you may not really need., You worrying about your health and back even more. If these worries cause you not to exercise, this may cause your back to take longer to heal., Treatment that you don't need, especially for changes that occur naturally as you age. ,  MRI SCAN RISKS In rare cases, the contrast (dye) used with MRI scans can cause severe allergic reactions or damage to your kidneys. The strong magnetic fields created during an MRI can cause heart pacemakers and other implants not to work as well. Newer pacemakers can be MRI compatible. Check with your cardiologist, and tell the MRI technologist that your pacemaker is MRI compatible.  An MRI scan can also cause a piece of metal inside your body to move. Before having an MRI, tell the technologist about any metal objects that you have in your body.  Pregnant women should not have MRI scans.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002684-2" qtype="information">What is (are) MRI and low back pain ?</Question>
+			<Answer>DANGER SIGNS AND BACK PAIN Both you and your health care provider may be worried that something serious is causing your low back pain. Could your pain be caused by cancer or infection in your spine? How does your provider know for sure? You will likely need an MRI right away if you have warning signs of a more serious cause of back pain: Cannot pass urine or stools, Cannot control your urine or stools, Difficulty with walking and balance, Back pain that is severe in children, Fever, History of  cancer , Other signs or symptoms of cancer, Recent serious fall or injury, Back pain that is very severe, and not even pain pills from your provider help, Leg that is numb or weak and it is getting worse ,  If you have low back pain but none of the warning signs just mentioned, having an MRI won't lead to better treatment, better pain relief, or a quicker return to activities. You and your provider may want to wait before having an MRI. If the pain does not get better or becomes worse, your provider may order one. Keep in mind that: Most of the time, back and neck pain are not caused by a serious medical problem or injury., Low back or neck pain often gets better on its own with time. ,  An MRI scan creates detailed pictures of your spine. It can pick up most injuries that you have had in your spine or changes that happen with aging. Even small problems or changes that are not the cause of your current back pain can be picked up. These findings rarely change how your provider first treats you. But they can lead to: Your provider ordering more tests that you may not really need., You worrying about your health and back even more. If these worries cause you not to exercise, this may cause your back to take longer to heal., Treatment that you don't need, especially for changes that occur naturally as you age. ,  MRI SCAN RISKS In rare cases, the contrast (dye) used with MRI scans can cause severe allergic reactions or damage to your kidneys. The strong magnetic fields created during an MRI can cause heart pacemakers and other implants not to work as well. Newer pacemakers can be MRI compatible. Check with your cardiologist, and tell the MRI technologist that your pacemaker is MRI compatible.  An MRI scan can also cause a piece of metal inside your body to move. Before having an MRI, tell the technologist about any metal objects that you have in your body.  Pregnant women should not have MRI scans.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

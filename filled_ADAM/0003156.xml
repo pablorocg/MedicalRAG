@@ -1,0 +1,19 @@
+<Document id="0003156" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003372.htm">
+ 
+<Focus>Porphyrins - blood test</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Protoporphyrin levels</Synonym>
+		<Synonym>Porphyrins -- total</Synonym>
+		<Synonym>Coproporphyrin levels</Synonym>
+		<Synonym>PROTO test</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003156-1" qtype="information">Do you have information about Porphyrins - blood test</Question>
+			<Answer>Porphyrins help form many important substances in the body. One of these is hemoglobin. This is the protein in red blood cells that carries oxygen in the blood. Porphyrins can be measured in the blood or the  urine . This article discusses the blood test.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,22 @@
+<Document id="0001297" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000032.htm">
+ 
+<Focus>Dry mouth during cancer treatment</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0043352</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001297-1" qtype="information">What is (are) Dry mouth during cancer treatment ?</Question>
+			<Answer>Some cancer treatments and medicines can cause dry mouth. Take good care of your mouth during your cancer treatment. Follow the measures outlined below.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

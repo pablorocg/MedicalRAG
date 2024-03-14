@@ -1,0 +1,54 @@
+<Document id="0001718" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000896.htm">
+ 
+<Focus>Gestational diabetes</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085207</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Glucose intolerance during pregnancy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001718-1" qtype="information">What is (are) Gestational diabetes ?</Question>
+			<Answer>Gestational diabetes is high blood sugar (glucose) that starts or is first diagnosed during pregnancy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001718-2" qtype="causes">What causes Gestational diabetes ?</Question>
+			<Answer>Pregnancy hormones can inhibit insulin from doing its job. When this happens, glucose level may increase in a pregnant woman's blood. You are at greater risk for gestational diabetes if you: Are older than 25 when you are pregnant, Come from a higher risk ethnic group, such as Latino, African American, Native American, Asian, or Pacific Islander, Have a family history of diabetes, Gave birth to a baby that weighed more than 9 pounds (4 kg) or had a birth defect, Have  high blood pressure , Have too much amniotic fluid, Have had an unexplained miscarriage or stillbirth 
+ , Were overweight before your pregnancy, Gain too much weight during your pregnancy, Have  polycystic ovary syndrome , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001718-3" qtype="symptoms">What are the symptoms of Gestational diabetes ?</Question>
+			<Answer>Most of the time, there are no symptoms. The diagnosis is made during a routine prenatal screening. Mild symptoms, such as increased thirst or shakiness, may be present. These symptoms are usually not dangerous to the pregnant woman. Other symptoms may include: Blurred vision ,  Fatigue , Frequent infections, including those of the bladder, vagina, and skin,  Increased thirst , Increased urination, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001718-4" qtype="exams and tests">How to diagnose Gestational diabetes ?</Question>
+			<Answer>Gestational diabetes most often starts halfway through the pregnancy. All pregnant women should receive an  oral glucose tolerance test &#160;(glucose challenge test) between the 24th and 28th week of pregnancy to look for the condition. Women who have risk factors for gestational diabetes may have this test earlier in the pregnancy. Once you are diagnosed with gestational diabetes, you can see how well you are doing by testing your glucose level at home. The most common way involves pricking your finger and putting a drop of your blood on a machine that will give you a glucose reading.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001718-5" qtype="treatment">What are the treatments for Gestational diabetes ?</Question>
+			<Answer>The goals of treatment are to keep blood sugar (glucose) level within normal limits during the pregnancy, and to make sure that the growing baby is healthy. WATCHING YOUR BABY Your health care provider should closely check both you and your baby throughout the pregnancy. Fetal monitoring will check the size and health of the fetus. A  nonstress test  is a very simple, painless test for you and your baby.  A machine that hears and displays your baby's heartbeat (electronic fetal monitor) is placed on your abdomen., Your provider can compare the pattern of your baby's heartbeat to movements and find out whether the baby is doing well.,  If you take medicine to control diabetes, you may need to be monitored more often toward the end of your pregnancy. DIET AND EXERCISE In many cases, eating healthy foods, staying active, and managing your weight are all that are needed to treat gestational diabetes. The best way to improve your diet is by eating a variety of healthy foods. You should learn how to read food labels and check them when making food decisions. Talk to your provider if you are a vegetarian or on another special diet. In general, when you have gestational diabetes, your  diet  should:  Be moderate in fat and protein, Provide carbohydrates through foods that include fruits, vegetables, and complex carbohydrates (such as bread, cereal, pasta, and rice), Be low in foods that contain a lot of sugar, such as soft drinks, fruit juices, and pastries ,  Talk with your provider about the physical activities that are right for you. Low-impact exercises, such as swimming, brisk walking, or using an elliptical machine are safe ways to control your blood sugar and weight. &#160; If managing your diet&#160;and exercising don't&#160;control your blood sugar, you may be prescribed diabetes medicine or insulin therapy.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001718-6" qtype="outlook">What is the outlook for Gestational diabetes ?</Question>
+			<Answer>There are many risks of having diabetes in pregnancy when blood sugar is not well controlled. With good control, most pregnancies have good outcomes. Pregnant women with gestational diabetes tend to have larger babies at birth. This can increase the chance of problems at the time of delivery, including: Birth injury (trauma) because of the baby's large size, Delivery by  C-section ,  Your baby is more likely to have periods of low blood sugar ( hypoglycemia ) during the first few days of life, and may need to be monitored in a neonatal intensive care unit (NICU) for a few days. Mothers with gestational diabetes have an increased risk for  high blood pressure during pregnancy  and increased risk for preterm delivery. Mothers with seriously uncontrolled blood sugar have a higher risk for stillbirth. After delivery: Your high blood sugar (glucose) level often goes back to normal., You should be closely followed for signs of diabetes over the next 5 to 10 years after delivery., </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001718-7" qtype="when to contact a medical professional">Do I need to see a doctor for Gestational diabetes ?</Question>
+			<Answer>Contact your provider if you are pregnant and you have symptoms of diabetes.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001718-8" qtype="prevention">How to prevent Gestational diabetes ?</Question>
+			<Answer>Early prenatal care and having regular checkups helps improve your health and the health of your baby. Getting prenatal screening at 24 to 28 weeks of pregnancy will help detect gestational diabetes early. If you are overweight, getting your weight within the normal  body mass index  (BMI) range will decrease your risk for gestational diabetes.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

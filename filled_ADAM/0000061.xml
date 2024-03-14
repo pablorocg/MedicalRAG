@@ -1,0 +1,65 @@
+<Document id="0000061" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001061.htm">
+ 
+<Focus>Acoustic trauma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2239187</CUI>
+			<CUI>C1148522</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Injury - inner ear</Synonym>
+		<Synonym>Trauma - inner ear</Synonym>
+		<Synonym>Ear injury</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000061-1" qtype="information">What is (are) Acoustic trauma ?</Question>
+			<Answer>Acoustic trauma is injury to the hearing mechanisms in the inner ear. It is due to very loud noise.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000061-2" qtype="causes">What causes Acoustic trauma ?</Question>
+			<Answer>Acoustic trauma is a common cause of sensory  hearing loss . Damage to the hearing mechanisms within the inner ear may be caused by: Explosion near the ear, Firing a gun near the ear, Long-term exposure to loud noises (such as loud music or machinery) , Any very loud noise near the ear, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000061-3" qtype="symptoms">What are the symptoms of Acoustic trauma ?</Question>
+			<Answer>Symptoms include: Partial hearing loss that most often involves repeated long-term exposures to loud or high-pitched sounds. The hearing loss may slowly get worse., Noises, ringing in the ear ( tinnitus )., </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000061-4" qtype="exams and tests">How to diagnose Acoustic trauma ?</Question>
+			<Answer>The health care provider will most often suspect acoustic trauma if hearing loss occurs after noise exposure. A physical exam will determine if the eardrum is damaged.  Audiometry  may determine how much hearing has been lost.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000061-5" qtype="treatment">What are the treatments for Acoustic trauma ?</Question>
+			<Answer>The hearing loss may not be treatable. The goal of treatment is to protect the ear from further damage.  Eardrum repair  may be needed. A hearing aid may help you communicate. You can also learn coping skills, such as lip reading. In some cases, your doctor may prescribe steroid medicine to help bring back some of the hearing.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000061-6" qtype="outlook">What is the outlook for Acoustic trauma ?</Question>
+			<Answer>Hearing loss may be permanent in the affected ear. Wearing ear protection when around sources of loud sounds may prevent the hearing loss from getting worse.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000061-7" qtype="complications">What are the complications of Acoustic trauma ?</Question>
+			<Answer>Progressive hearing loss is the main complication of acoustic trauma. Tinnitus (ear ringing) can also occur.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000061-8" qtype="when to contact a medical professional">Do I need to see a doctor for Acoustic trauma ?</Question>
+			<Answer>Contact your provider if: 
+  You have symptoms of acoustic trauma
+  , 
+  Hearing loss occurs or gets worse
+  , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000061-9" qtype="prevention">How to prevent Acoustic trauma ?</Question>
+			<Answer>Take the following steps to help prevent hearing loss: Wear protective ear plugs or earmuffs to prevent hearing damage from loud equipment., Be aware of risks to your hearing from activities such as shooting guns, using chain saws, or driving motorcycles and snowmobiles., DO NOT listen to loud music for long periods of time., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

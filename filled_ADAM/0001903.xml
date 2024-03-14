@@ -1,0 +1,81 @@
+<Document id="0001903" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000327.htm">
+ 
+<Focus>Hemochromatosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018995</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Iron overload</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001903-1" qtype="information">What is (are) Hemochromatosis ?</Question>
+			<Answer>Hemochromatosis is a condition in which there is too much iron in the body. It is also called iron overload. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001903-2" qtype="causes">What causes Hemochromatosis ?</Question>
+			<Answer>Hemochromatosis may be a genetic disorder passed down through families. People with this type absorb too much iron through their digestive tract. Iron builds up in the body. The liver, heart, and pancreas are common organs where iron builds up., It is present at birth, but may not be diagnosed for years.,  Hemochromatosis may also occur as a result of: Other blood disorders, such as  thalassemia &#160;or certain  anemias . Too many  blood transfusions  over time may lead to iron overload., Long-term alcohol use and other health conditions.,  This disorder affects more men than women. It is common in white people of northern European descent.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001903-3" qtype="symptoms">What are the symptoms of Hemochromatosis ?</Question>
+			<Answer>Symptoms may include any of the following: Abdominal pain, Fatigue, lack of energy, weakness, Generalized darkening of skin color (often referred to as bronzing), Joint pain, Loss of body hair, Loss of sexual desire, Weight loss, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001903-4" qtype="exams and tests">How to diagnose Hemochromatosis ?</Question>
+			<Answer>The health care provider will perform a physical exam. This may show liver and spleen swelling, and skin color changes. Blood tests may help make the diagnosis. Tests may include: Ferritin level ,  Iron level , Percentage of transferrin saturation (high), Genetic testing,  Other tests may include: 
+   Blood sugar (glucose) level
+   ,  Alpha fetoprotein ,  Echocardiogram  to examine the heart's function
+   ,  Electrocardiogram (ECG)  to look at the electrical activity of the heart
+   , 
+   Imaging tests such as CT scans, MRI, and ultrasound
+   , 
+   Liver function tests
+   ,  The condition may be confirmed with a  liver biopsy  or genetic testing. If a genetic defect is confirmed, other blood tests can be used to find out if other family members are at risk for iron overload.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001903-5" qtype="treatment">What are the treatments for Hemochromatosis ?</Question>
+			<Answer>The goal of treatment is to remove excess iron from the body and treat any organ damage. A procedure called phlebotomy is the best method for removing excess iron from the body: One half liter of blood is removed from the body each week until the body's iron stores are depleted. This may take many months to do., After that, the procedure may be done less often to maintain normal iron storage.,  Why the procedure is needed depends on your symptoms and levels of hemoglobin and serum ferritin and how much iron you take in your diet. For people unable to undergo phlebotomy, medicines may be prescribed to reduce the body's iron.&#160; Other health problems such as diabetes, decreased testosterone levels in men, arthritis, liver failure, and heart failure will be treated. If you are diagnosed with hemochromatosis, your provider may recommend a diet to reduce how much iron is absorbed through your digestive tract. Your provider may recommend the following: Do not drink alcohol, especially if you have liver damage., Do not take iron pills or vitamins containing iron., Do not use iron cookware., Limit foods fortified with iron, such as 100% iron-fortified breakfast cereals., Avoid uncooked shellfish., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001903-6" qtype="outlook">What is the outlook for Hemochromatosis ?</Question>
+			<Answer>Untreated, iron overload can lead to liver damage.&#160; Extra iron may also build up in other areas of the body, including the thyroid gland, testicles, pancreas, pituitary gland, heart, or joints. Early treatment can help prevent complications such as liver disease, heart disease, arthritis or diabetes.  How well you do depends on the amount of organ damage. Some organ damage can be reversed when hemochromatosis is detected early and treated aggressively with phlebotomy.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001903-7" qtype="complications">What are the complications of Hemochromatosis ?</Question>
+			<Answer>Complications include: 
+   Liver cirrhosis
+   , 
+   Liver failure
+   , Liver cancer,  The disease may lead to the development of: 
+   Arthritis
+   , 
+   Diabetes
+   , 
+  Heart problems
+   , 
+   Increased risk for certain bacterial infections
+   , 
+   Testicular atrophy
+   , 
+  Skin color changes
+   , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001903-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hemochromatosis ?</Question>
+			<Answer>Contact your provider if symptoms of hemochromatosis develop.  Contact your provider for an appointment (for screening) if a family member has been diagnosed with hemochromatosis.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001903-9" qtype="prevention">How to prevent Hemochromatosis ?</Question>
+			<Answer>Screening family members of a person diagnosed with hemochromatosis may detect the disease early so that treatment can be started before organ damage has occurred in other affected relatives.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

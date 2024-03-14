@@ -1,0 +1,68 @@
+<Document id="0002456" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000122.htm">
+ 
+<Focus>Lung cancer - small cell</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242379</CUI>
+			<CUI>C0684249</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cancer - lung - small cell</Synonym>
+		<Synonym>Small cell lung cancer</Synonym>
+		<Synonym>SCLC</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002456-1" qtype="information">What is (are) Lung cancer - small cell ?</Question>
+			<Answer>Small cell lung cancer (SCLC) is a fast-growing type of  lung cancer . It spreads much more quickly than  non-small cell lung cancer . There are two types of SCLC: Small cell carcinoma (oat cell cancer), Combined small cell carcinoma ,  Most SCLCs are of the oat cell type.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002456-2" qtype="causes">What causes Lung cancer - small cell ?</Question>
+			<Answer>About 15% of all lung cancer cases are SCLC. Small cell lung cancer is slightly more common in men than women. Almost all cases of SCLC are due to cigarette smoking. SCLC is very rare in people who have never smoked. SCLC is the most aggressive form of lung cancer. It usually starts in the breathing tubes (bronchi) in the center of the chest. Although the cancer cells are small, they grow very quickly and create large tumors. These tumors often spread rapidly (metastasize) to other parts of the body, including the brain, liver, and bone.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002456-3" qtype="symptoms">What are the symptoms of Lung cancer - small cell ?</Question>
+			<Answer>Symptoms of SCLC include: Bloody sputum  (phlegm),  Chest pain ,  
+ Cough 
+ ,  
+ Loss of appetite 
+ ,  Shortness of breath ,  Weight loss , Wheezing,  Other symptoms that may occur with this disease, especially in the late stages, include: Facial swelling ,  
+ Fever 
+ ,  Hoarseness or changing voice ,  
+ Swallowing difficulty 
+ ,  Weakness , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002456-4" qtype="exams and tests">How to diagnose Lung cancer - small cell ?</Question>
+			<Answer>Your health care provider will perform a physical exam and ask about your medical history. You will be asked whether you smoke, and if so, how much and for how long. When listening to your chest with a stethoscope, your provider may hear fluid around the lungs or areas where the lung has partially  collapsed . Each of these findings may suggest cancer. SCLC has usually spread to other parts of your body by the time it is diagnosed. Tests that may be performed include: Bone scan , Chest x-ray, Complete blood count ( CBC ),  CT scan ,  Liver function tests ,  MRI scan , Positron emission tomography ( PET ) scan,  Sputum test  (to look for cancer cells),  Thoracentesis  (removal of fluid from the chest cavity around the lungs),  In most cases, a piece of tissue is removed from your lungs or other areas to be examined under a microscope. This is called a biopsy. There are several ways to do a biopsy: Bronchoscopy  combined with  biopsy ,  CT scan-directed needle biopsy , Endoscopic esophageal or bronchial ultrasound with biopsy,  Mediastinoscopy with biopsy ,  Open lung biopsy ,  Pleural biopsy ,  Video-assisted thoracoscopy ,  Usually, if a biopsy shows cancer, more imaging tests are done to find out the stage of the cancer. Stage means how big the tumor is and how far it has spread. SCLC is classified as either: Limited -- Cancer is only in the chest and can be treated with radiation therapy., Extensive -- Cancer has spread outside the area that can be covered by radiation therapy., </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002456-5" qtype="treatment">What are the treatments for Lung cancer - small cell ?</Question>
+			<Answer>Because SCLC spreads quickly throughout the body, treatment will include cancer-killing drugs ( chemotherapy ), which are usually given through a vein (by IV). Treatment with chemotherapy and immunotherapy, and possibly  radiation , may be done for people with SCLC that has spread throughout the body (extensive). In this case, the treatment only helps relieve symptoms and prolongs life, but does not cure the disease. Radiation therapy can be used with chemotherapy if the disease is confined to one area within the chest (limited). Radiation therapy uses powerful x-rays or other forms of radiation to kill cancer cells. Radiation may be used to: Treat the cancer, along with chemotherapy, if surgery is not possible., Help relieve symptoms caused by the cancer, such as breathing problems and swelling., Help relieve cancer pain when the cancer has spread to the bones.,  Often, SCLC may have already spread to the brain. This can occur even when there are no symptoms or other signs of cancer in the brain. As a result, some people with smaller cancers, or who had a good response in their first round of chemotherapy, may receive radiation therapy to the brain. This therapy is done to prevent spread of the cancer to the brain. Surgery helps very few people with SCLC because the disease has often spread by the time it is diagnosed. Surgery may be done when there is only one tumor that has not spread. If surgery is done, chemotherapy or radiation therapy is still needed.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002456-6" qtype="support groups">Where to find support for people with Lung cancer - small cell ?</Question>
+			<Answer>You can ease the stress of illness by joining a  cancer support group . Sharing with others who have common experiences and problems can help you not feel alone.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002456-7" qtype="outlook">What is the outlook for Lung cancer - small cell ?</Question>
+			<Answer>How well you do depends on how much the lung cancer has spread. SCLC is very deadly. Not many people with this type of cancer are still alive 5 years after diagnosis. Treatment can often prolong life to more than 12 months, even when the cancer has spread. In rare cases, if SCLC is diagnosed early, treatment may result in a long-term cure.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002456-8" qtype="when to contact a medical professional">Do I need to see a doctor for Lung cancer - small cell ?</Question>
+			<Answer>Contact your provider if you have symptoms of lung cancer, particularly if you smoke.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002456-9" qtype="prevention">How to prevent Lung cancer - small cell ?</Question>
+			<Answer>If you smoke, now is the time to quit. If you are having trouble quitting, talk with your provider. There are many methods to help you quit, from  support groups &#160;to  prescription medicines . Also try to avoid secondhand smoke. If you smoke or used to smoke, talk with your provider about getting screened for lung cancer. To get screened, you need to have a CT scan of the chest.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

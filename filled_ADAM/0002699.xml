@@ -1,0 +1,57 @@
+<Document id="0002699" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001557.htm">
+ 
+<Focus>Mumps</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026780</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Epidemic parotitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002699-1" qtype="information">What is (are) Mumps ?</Question>
+			<Answer>Mumps is a contagious disease that leads to painful swelling of the  salivary glands . The salivary glands produce saliva, a liquid that moistens food and helps you chew and swallow.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002699-2" qtype="causes">What causes Mumps ?</Question>
+			<Answer>Mumps is caused by a virus. The virus spreads from person to person by drops of moisture from the nose and mouth, such as through sneezing. It is also spread through direct contact with items that have infected saliva on them. Mumps most often occurs in children ages 2 through 12 who have not been vaccinated against the disease. However, the infection can occur at any age and may also be seen in college age students. The time between being exposed to the virus and getting sick (incubation period) is about 12 to 25 days. Mumps may also infect the: Central nervous system , Pancreas,  Testes , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002699-3" qtype="symptoms">What are the symptoms of Mumps ?</Question>
+			<Answer>Symptoms of mumps may include: Face pain, Fever, Headache, Sore throat, Loss of appetite,  Swelling  of the parotid glands (the largest salivary glands, located between the ear and the jaw), Swelling of the temples or jaw (temporomandibular area) ,  Other symptoms that can occur in males are: Testicle lump ,  Testicle pain ,  Scrotal swelling , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002699-4" qtype="exams and tests">How to diagnose Mumps ?</Question>
+			<Answer>The health care provider will perform an exam and ask about the symptoms, especially when they started. No tests are needed in most cases. The provider can usually diagnose mumps by looking at the symptoms. Blood tests may be needed to confirm the diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002699-5" qtype="treatment">What are the treatments for Mumps ?</Question>
+			<Answer>There is no specific treatment for mumps. The following things can be done to relieve symptoms: Apply ice or heat packs to the neck area., Take acetaminophen (Tylenol) to relieve pain. Do not give aspirin to children with a viral illness because of the risk for  Reye syndrome ., Drink extra fluid., Eat soft foods., Gargle with warm salt water. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002699-6" qtype="outlook">What is the outlook for Mumps ?</Question>
+			<Answer>People with this disease do well most of the time, even if organs other than the salivary glands are involved. After the illness is over in about 7 days, they'll be  immune  to mumps for the rest of their life.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002699-7" qtype="complications">What are the complications of Mumps ?</Question>
+			<Answer>Infection of other organs may occur, including testicle swelling ( orchitis ).</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002699-8" qtype="when to contact a medical professional">Do I need to see a doctor for Mumps ?</Question>
+			<Answer>Contact your provider if you or your child has mumps along with: Red eyes, Constant drowsiness, Constant vomiting or abdominal pain, Severe headache, Pain or a lump in testicle ,  Call 911 or the local emergency number or visit the emergency room if  seizures  occur.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002699-9" qtype="prevention">How to prevent Mumps ?</Question>
+			<Answer>MMR immunization (vaccine)  protects against  measles , mumps, and  rubella . It should be given to children at these ages: First dose: 12 through 15 months old, Second dose: 4 through 6 years old,  Adults can also receive the vaccine. Talk to your provider about this. Recent outbreaks of the mumps have supported the importance of having all children vaccinated.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

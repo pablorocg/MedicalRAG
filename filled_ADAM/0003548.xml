@@ -1,0 +1,56 @@
+<Document id="0003548" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007578.htm">
+ 
+<Focus>Shaken baby syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0686721</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Shaken impact syndrome</Synonym>
+		<Synonym>Whiplash - shaken infant</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003548-1" qtype="information">What is (are) Shaken baby syndrome ?</Question>
+			<Answer>Shaken baby syndrome is a severe form of child abuse caused by violently shaking an infant or child.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003548-2" qtype="considerations">What to do for Shaken baby syndrome ?</Question>
+			<Answer>Shaken baby syndrome can occur from as little as 5 seconds of shaking. Shaken baby injuries most often occur in children younger than 2 years old, but may be seen in children up to 5 years old. When an infant or toddler is shaken, the brain bounces back and forth against the skull. This can cause bruising of the brain (cerebral contusion), swelling, pressure, and bleeding in the brain. The large veins along the outside of the brain may tear, leading to further bleeding, swelling, and increased pressure. This can easily cause permanent brain damage or death. Shaking an infant or small child may cause other injuries, such as damage to the neck, spine, and eyes.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003548-3" qtype="causes">What causes Shaken baby syndrome ?</Question>
+			<Answer>Most cases are due to an angry parent or caregiver shaking the baby to punish or quiet it. Such shaking most often takes place when the infant is crying inconsolably and the frustrated caregiver loses control. Many times the caregiver did not intend to harm the baby. Still, it is a form of  child abuse . Injuries are most likely to happen when the baby is shaken and then the baby's head hits something. Even hitting a soft object, such as a mattress or pillow, may be enough to injure newborns and small infants. Children's brains are softer, their neck muscles and ligaments are weak, and their heads are large and heavy in proportion to their bodies. The result is a type of  whiplash , similar to what occurs in some auto accidents. Shaken baby syndrome does not result from gentle bouncing, playful swinging or tossing the child in the air, or jogging with the child. It also is very unlikely to occur from accidents such as falling off chairs or down stairs, or accidentally being dropped from a caregiver's arms. Short falls may cause other types of head injuries, although these are often minor.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003548-4" qtype="symptoms">What are the symptoms of Shaken baby syndrome ?</Question>
+			<Answer>The symptoms can vary, ranging from mild to severe. They may include: Convulsions ( seizures ), Decreased alertness, Extreme  irritability  or other changes in behavior,  Lethargy ,  sleepiness , not smiling, Loss of consciousness, Loss of vision, No breathing, Pale or bluish skin, Poor feeding, lack of appetite, Vomiting ,  There may not be any physical signs of injury, such as bruising, bleeding, or swelling. In some cases, the condition can be difficult to diagnose and may not be found during an office visit. However, rib fractures are common and can be seen on x-rays. An eye doctor may find bleeding behind the baby's eye or  retinal detachment . There are, however, other causes of bleeding behind the eye and they should be ruled out before diagnosing shaken baby syndrome. Other factors must be considered.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003548-5" qtype="considerations">What to do for Shaken baby syndrome ?</Question>
+			<Answer>Shaken baby syndrome can occur from as little as 5 seconds of shaking. Shaken baby injuries most often occur in children younger than 2 years old, but may be seen in children up to 5 years old. When an infant or toddler is shaken, the brain bounces back and forth against the skull. This can cause bruising of the brain (cerebral contusion), swelling, pressure, and bleeding in the brain. The large veins along the outside of the brain may tear, leading to further bleeding, swelling, and increased pressure. This can easily cause permanent brain damage or death. Shaking an infant or small child may cause other injuries, such as damage to the neck, spine, and eyes.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003548-6" qtype="considerations">What to do for Shaken baby syndrome ?</Question>
+			<Answer>Shaken baby syndrome can occur from as little as 5 seconds of shaking. Shaken baby injuries most often occur in children younger than 2 years old, but may be seen in children up to 5 years old. When an infant or toddler is shaken, the brain bounces back and forth against the skull. This can cause bruising of the brain (cerebral contusion), swelling, pressure, and bleeding in the brain. The large veins along the outside of the brain may tear, leading to further bleeding, swelling, and increased pressure. This can easily cause permanent brain damage or death. Shaking an infant or small child may cause other injuries, such as damage to the neck, spine, and eyes.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003548-7" qtype="when to contact a medical professional">Do I need to see a doctor for Shaken baby syndrome ?</Question>
+			<Answer>Call your health care provider if a child has any of the above signs or symptoms, regardless of how mild or severe they are. Also call if you think a child has shaken baby syndrome. If you think a child is in immediate danger because of neglect, you should call 911 or the local emergency number. If you suspect that a child is being abused, report it right away. Most states have a child abuse hotline. You may also use the Childhelp National Child Abuse Hotline at 1-800-4-A-Child (1-800-422-4453).</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003548-8" qtype="prevention">How to prevent Shaken baby syndrome ?</Question>
+			<Answer>These steps can help decrease the risk for shaken baby syndrome: Never shake a baby or child in play or in anger. Even gentle shaking can become violent shaking when you are angry., Do not hold your baby during an argument., If you find yourself becoming annoyed or angry with your baby, put the baby in their crib and leave the room. Try to calm down. Call someone for support., Call a friend or relative to come and stay with the child if you feel out of control., Contact a local crisis hotline or child abuse hotline for help and guidance., Seek the help of a counselor and attend parenting classes., Do not ignore the signs if you suspect child abuse in your home or in the home of someone you know. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

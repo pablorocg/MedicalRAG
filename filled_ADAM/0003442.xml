@@ -1,0 +1,38 @@
+<Document id="0003442" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002820.htm">
+ 
+<Focus>Rubber cement poisoning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032343</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003442-1" qtype="information">What is (are) Rubber cement poisoning ?</Question>
+			<Answer>Rubber cement is a common household glue. It is often used for arts and crafts projects. Breathing in large amounts of rubber cement fumes or swallowing any amount can be extremely dangerous, especially for a small child. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003442-4" qtype="symptoms">What are the symptoms of Rubber cement poisoning ?</Question>
+			<Answer>Most symptoms occur in people who repeatedly sniff rubber cement to get high. The symptoms below can occur in different parts of the body. AIRWAYS AND LUNGS Breathing difficulty (from inhalation), Throat swelling (which may also cause breathing difficulty),  EYES, EARS, NOSE, AND THROAT Burning in the nose, lips, throat, or eyes, Vision loss,  HEART AND BLOOD Change in the acid balance of the blood, which can lead to organ damage, Collapse,  Low blood pressure  (shock),  STOMACH AND INTESTINES Abdominal pain,  Nausea and vomiting ,  NERVOUS SYSTEM Convulsions  (seizures), Dizziness,  Headache ,  Muscle spasms , Nerve problems, Unconsciousness (lack of responsiveness), Unsteady walk,  SKIN Irritation, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003442-5" qtype="considerations">What to do for Rubber cement poisoning ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003442-8" qtype="outlook">What is the outlook for Rubber cement poisoning ?</Question>
+			<Answer>How well a person does depends on the amount of poison swallowed and how quickly treatment is received. The faster a person gets medical help, the better the chance for recovery. Swallowing or putting small amounts of rubber cement in your mouth is often harmless. However, eating large amounts on purpose can cause damage to your brain, liver, and kidneys. Severe damage to your brain, lungs, and kidneys can occur over time from repeatedly sniffing rubber cement.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003442-9" qtype="outlook">What is the outlook for Rubber cement poisoning ?</Question>
+			<Answer>How well a person does depends on the amount of poison swallowed and how quickly treatment is received. The faster a person gets medical help, the better the chance for recovery. Swallowing or putting small amounts of rubber cement in your mouth is often harmless. However, eating large amounts on purpose can cause damage to your brain, liver, and kidneys. Severe damage to your brain, lungs, and kidneys can occur over time from repeatedly sniffing rubber cement.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

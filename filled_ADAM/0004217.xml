@@ -1,0 +1,18 @@
+<Document id="0004217" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000149.htm">
+ 
+<Focus>Ventriculoperitoneal shunt - discharge</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Shunt - ventriculoperitoneal - discharge</Synonym>
+		<Synonym>VP shunt - discharge</Synonym>
+		<Synonym>Shunt revision - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004217-1" qtype="information">Do you have information about Ventriculoperitoneal shunt - discharge</Question>
+			<Answer>Your child has  hydrocephalus  and a  shunt  was placed to drain excess fluid and relieve pressure in the brain. This buildup of brain fluid (cerebrospinal fluid, or CSF) causes the brain tissue to press (become compressed) against the skull. Too much pressure or pressure that is present for too long can damage the brain tissue. After your child goes home, follow the health care provider's instructions on how to care for your child. Use the information below as a reminder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

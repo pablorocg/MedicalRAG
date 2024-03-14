@@ -1,0 +1,16 @@
+<Document id="0001992" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003527.htm">
+ 
+<Focus>Histoplasma complement fixation</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Histoplasma antibody test</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001992-1" qtype="information">Do you have information about Histoplasma complement fixation</Question>
+			<Answer>Histoplasma complement fixation is a blood test that checks for infection by a fungus called  Histoplasma capsulatum  ( H capsulatum ), which causes the disease  histoplasmosis .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

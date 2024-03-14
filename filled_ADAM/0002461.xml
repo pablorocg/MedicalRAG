@@ -1,0 +1,68 @@
+<Document id="0002461" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000097.htm">
+ 
+<Focus>Lung metastases</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0153676</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Metastases to the lung</Synonym>
+		<Synonym>Metastatic cancer to the lung</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002461-1" qtype="information">What is (are) Lung metastases ?</Question>
+			<Answer>Lung metastases are cancerous tumors that start somewhere else in the body and spread to the lungs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002461-2" qtype="causes">What causes Lung metastases ?</Question>
+			<Answer>Metastatic tumors in the lungs are cancers that developed at other places in the body (or other parts of the lungs). They then spread through the bloodstream or lymphatic system to the lungs. It is different than lung cancer that starts in the lungs.  Nearly any cancer can spread to the lungs. Common cancers include: Bladder cancer ,  Breast cancer , Lung cancer,  Colorectal cancer , Kidney cancer, Melanoma, Ovarian cancer, Sarcoma, Thyroid cancer, Pancreatic cancer, Testicular cancer , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002461-3" qtype="symptoms">What are the symptoms of Lung metastases ?</Question>
+			<Answer>Symptoms may include any of the following: Bloody sputum ,  Chest pain ,  Cough ,  Shortness of breath , Weakness, Weight loss, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002461-4" qtype="exams and tests">How to diagnose Lung metastases ?</Question>
+			<Answer>The health care provider will examine you and ask about your medical history and symptoms. Tests that may be done include: Bronchoscopy  to view the airways,  Chest CT scan ,  Chest x-ray ,  Cytologic studies of pleural fluid  or sputum,  Lung needle biopsy , PET scan, Surgery to take a sample of tissue from the lungs (surgical lung biopsy) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002461-5" qtype="treatment">What are the treatments for Lung metastases ?</Question>
+			<Answer>Chemotherapy is often used to treat metastatic cancer to the lung. Surgery to remove the tumors may be done when any of the following occurs: The cancer has spread to only limited areas of the lung, The lung tumors can be completely removed with surgery ,  However, the main tumor must be curable, and the person must be strong enough to go through the surgery and recovery. Other treatments include: Radiation therapy , Immunotherapy, Targeted systemic therapy, The placement of  stents  inside the airways,  Laser therapy , Using local heat probes to destroy the area, Using very cold temperature to destroy the area, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002461-6" qtype="support groups">Where to find support for people with Lung metastases ?</Question>
+			<Answer>You can ease the stress of illness by joining a  support group  where members share common experiences and problems.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002461-7" qtype="outlook">What is the outlook for Lung metastases ?</Question>
+			<Answer>A cure is unlikely in most cases of cancers that have spread to the lungs. But the outlook depends on the main cancer. In some cases, a person can live more than 5 years with metastatic cancer to the lungs.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002461-8" qtype="complications">What are the complications of Lung metastases ?</Question>
+			<Answer>Complications of metastatic tumors in the lungs may include: Fluid between the lung and chest wall (pleural effusion), which can cause shortness of breath or pain when taking a deep breath, Further spread of the cancer, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002461-9" qtype="when to contact a medical professional">Do I need to see a doctor for Lung metastases ?</Question>
+			<Answer>Call your provider if you have a history of cancer and you develop: 
+   Coughing up blood
+   , 
+   Persistent cough
+   ,  Shortness of breath , 
+   Unexplained weight loss
+   , </Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0002461-10" qtype="prevention">How to prevent Lung metastases ?</Question>
+			<Answer>Not all cancers can be prevented. However, many can be prevented by: Eating healthy foods, Exercising regularly, Limiting alcohol consumption, Not smoking , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

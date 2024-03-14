@@ -1,0 +1,17 @@
+<Document id="0003914" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003746.htm">
+ 
+<Focus>Throat swab culture</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Throat culture and sensitivity</Synonym>
+		<Synonym>Culture - throat</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003914-1" qtype="information">Do you have information about Throat swab culture</Question>
+			<Answer>A throat swab culture is a laboratory test that is done to identify germs that may cause infection in the throat. It is most often used to diagnose  strep throat .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

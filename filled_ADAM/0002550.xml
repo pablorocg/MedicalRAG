@@ -1,0 +1,51 @@
+<Document id="0002550" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007638.htm">
+ 
+<Focus>Medial epicondylitis - golfer's elbow</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0158309</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T020</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Baseball elbow</Synonym>
+		<Synonym>Suitcase elbow</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002550-1" qtype="information">What is (are) Medial epicondylitis - golfer's elbow ?</Question>
+			<Answer>Medial epicondylitis is soreness or pain on the inside of the lower arm near the elbow. It is commonly called golfer's elbow.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002550-2" qtype="causes">What causes Medial epicondylitis - golfer's elbow ?</Question>
+			<Answer>The part of the muscle that attaches to a bone is called a tendon. Some of the muscles in your forearm attach to the bone on the inside of your elbow. When you use these muscles over and over again, small tears may develop in the tendons. Over time, this leads to irritation and pain where the tendon is attached to the bone. The injury can occur from using poor form or overdoing certain sports, such as: Golf, Baseball and other throwing sports, such as football and javelin, Racquet sports, such as tennis, Weight training,  Repeated twisting of the wrist (such as when using a screwdriver) can lead to golfer's elbow. People in certain jobs may be more likely to develop it, such as: Painters, Plumbers, Construction workers, Cooks, Assembly-line workers, Computer users, Butchers, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002550-3" qtype="symptoms">What are the symptoms of Medial epicondylitis - golfer's elbow ?</Question>
+			<Answer>Symptoms of golfer's elbow include: 
+   Elbow pain that runs along the inside of your forearm to your wrist, on the same side as your pinky finger, Pain when flexing your wrist, palm down, Pain when shaking hands, Weak grasp, Numbness and tingling from your elbow up and into your pinky and ring fingers (due to irritation of the ulnar nerve in this region),  Pain may occur gradually or suddenly. It gets worse when you grasp things or flex your wrist.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002550-4" qtype="exams and tests">How to diagnose Medial epicondylitis - golfer's elbow ?</Question>
+			<Answer>Your health care provider will examine you and have you move your fingers, hand, and wrist. The exam may show: Pain or tenderness when the tendon is gently pressed where it attaches to the upper arm bone, over the inside of the elbow., Pain near the elbow when the wrist is bent downward against resistance.,  You may have x-rays and an MRI to rule out other possible causes.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002550-5" qtype="treatment">What are the treatments for Medial epicondylitis - golfer's elbow ?</Question>
+			<Answer>Your provider may suggest that you first rest your arm. This means avoiding the activity that causes your symptoms for at least 2 to 3 weeks or longer until the pain goes away. You may also want to: Put ice on the inside of your elbow 3 to 4 times a day for 15 to 20 minutes. Wrap the ice in a cloth. Do not put ice directly on the skin., Take a nonsteroidal anti-inflammatory drug (NSAID). These include ibuprofen (Motrin, Advil), naproxen (Aleve, Naprosyn), or aspirin., Do stretching and strengthening exercises. Your provider may suggest certain exercises, or you may have physical or occupational therapy., Gradually return to activity.,  If your golfer's elbow is due to a sports activity, you may want to: Ask about any changes you can make in your technique. If you play golf, have an instructor check your form., Check any sports equipment you are using to see if any changes may help. For example, using lighter golf clubs may help. Also check if the grip of your equipment is causing the elbow pain., Think about how often you have been playing your sport and if you should cut down on the amount of time you play., If you work on a computer, ask your manager about making changes to your work station. Have someone look at how your chair, desk, and computer are set up., You can buy a special brace for golfer's elbow at most drug stores. It wraps around the upper part of your forearm and takes some of the pressure off your muscles.,  Your provider may inject cortisone and a numbing medicine around the area where the tendon attaches to the bone. This may help decrease the swelling and pain. If the pain continues after 6 to 12 months of rest and treatment, surgery may be recommended. Talk with your provider about the risks, and ask if surgery might help.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002550-6" qtype="outlook">What is the outlook for Medial epicondylitis - golfer's elbow ?</Question>
+			<Answer>Elbow pain usually gets better without surgery. However, most people who have surgery have full use of their forearm and elbow afterward.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002550-7" qtype="when to contact a medical professional">Do I need to see a doctor for Medial epicondylitis - golfer's elbow ?</Question>
+			<Answer>Contact your provider for an appointment if: This is the first time you have had these symptoms., Home treatment does not relieve the symptoms., Symptoms worsen or are accompanied by numbness and tingling that goes down your forearm., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

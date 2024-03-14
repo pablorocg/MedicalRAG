@@ -1,0 +1,44 @@
+<Document id="0002369" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003182.htm">
+ 
+<Focus>Leg pain</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023222</CUI>
+			<CUI>C0839480</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pain - leg</Synonym>
+		<Synonym>Aches - leg</Synonym>
+		<Synonym>Cramps - leg</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002369-1" qtype="information">What is (are) Leg pain ?</Question>
+			<Answer>Leg pain is a common problem. It can be due to a cramp, injury, or other cause.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002369-2" qtype="causes">What causes Leg pain ?</Question>
+			<Answer>Leg pain can be due to a muscle cramp (also called a  charley horse ). Common causes of cramps include: Dehydration  or low amounts of potassium, sodium, calcium, or magnesium in the blood, Medicines (such as diuretics and statins), Muscle fatigue or strain from overuse, too much exercise, or holding a muscle in the same position for a long time ,  An injury can also cause leg pain from: A torn or overstretched muscle ( strain ), Hairline crack in the bone (stress fracture), Inflamed tendon ( tendinitis ),  Shin splints  (pain in the front of the leg from overuse) ,  Other common causes of leg pain include: Peripheral artery disease (PAD) , which causes a problem with blood flow in the legs (this type of pain, called claudication, is generally felt when exercising or walking and is relieved by rest), Blood clot ( deep vein thrombosis ) from long-term bed rest, Infection of the bone ( osteomyelitis ) or skin and soft tissue ( cellulitis ), Inflammation of the leg joints caused by  arthritis  or  gout ,  Nerve damage  common to people with diabetes, smokers, and alcoholics,  Varicose veins ,  Less common causes include: Cancerous bone tumors ( osteosarcoma , Ewing sarcoma),  Legg-Calve-Perthes disease  -- poor blood flow to the hip that may stop or slow the normal growth of the leg, Noncancerous (benign) tumors or cysts of the femur or tibia (osteoid osteoma), Sciatic nerve pain (radiating pain down the leg) caused by a slipped disk in the back,  Slipped capital femoral epiphysis  -- most often seen in boys and overweight children between ages 11 and 15 , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002369-3" qtype="considerations">What to do for Leg pain ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002369-4" qtype="when to contact a medical professional">Do I need to see a doctor for Leg pain ?</Question>
+			<Answer>Contact your health care provider if: The painful leg is swollen or red., You have a fever., Your pain gets worse when you walk or exercise and improves with rest., The leg is black and blue., The leg is cold and pale., You are taking medicines that may be causing leg pain. DO NOT stop taking or change any of your medicines without talking to your provider., Self-care steps do not help. , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002369-5" qtype="outlook">What is the outlook for Leg pain ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

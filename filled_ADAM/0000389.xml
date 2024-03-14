@@ -1,0 +1,46 @@
+<Document id="0000389" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000687.htm">
+ 
+<Focus>Bacterial vaginosis - aftercare</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085166</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Nonspecific vaginitis - aftercare</Synonym>
+		<Synonym>BV</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000389-1" qtype="information">What is (are) Bacterial vaginosis - aftercare ?</Question>
+			<Answer>Bacterial vaginosis (BV) is a type of vaginal infection. The  vagina  normally contains both healthy bacteria and unhealthy bacteria. BV occurs when more unhealthy bacteria grow than healthy bacteria. No one knows exactly what causes this to occur. BV is a common problem that can affect women and girls of all ages.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000389-2" qtype="symptoms">What are the symptoms of Bacterial vaginosis - aftercare ?</Question>
+			<Answer>Symptoms of BV include: White or gray vaginal discharge that smells fishy or unpleasant, Burning when you urinate, Itching inside and outside the vagina ,  You also may not have any symptoms. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000389-3" qtype="exams and tests">How to diagnose Bacterial vaginosis - aftercare ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000389-4" qtype="treatment">What are the treatments for Bacterial vaginosis - aftercare ?</Question>
+			<Answer>If you have BV, your provider may prescribe: Antibiotic pills that you swallow, Antibiotic creams or suppositories that you insert into your vagina ,  Be sure you use the medicine exactly as prescribed and follow the instructions on the label. Drinking alcohol with some medicines may upset your stomach, give you strong stomach cramps, or make you sick. Do not skip a day or stop taking any medicine early, because the infection may come back. You cannot spread BV to a male partner. But if you have a female partner, it is possible it can spread to her. She may need to be treated for BV, as well.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000389-6" qtype="prevention">How to prevent Bacterial vaginosis - aftercare ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000389-7" qtype="when to contact a medical professional">Do I need to see a doctor for Bacterial vaginosis - aftercare ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

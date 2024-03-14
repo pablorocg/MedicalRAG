@@ -1,0 +1,30 @@
+<Document id="0001262" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000507.htm">
+ 
+<Focus>Do you have a drinking problem?</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085762</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001262-1" qtype="information">What is (are) Do you have a drinking problem? ?</Question>
+			<Answer>Many people with  alcohol problems  cannot tell when their drinking is out of control. It is important to be aware of how much you are drinking. You should also know how your alcohol use may affect your life and those around you. One drink equals one 12-ounce (oz), or 355 milliliters (mL), can or bottle of beer, one 5-ounce (148 mL) glass of wine, 1 wine cooler, 1 cocktail, or 1 shot of hard liquor. Think about: How often you have an alcoholic drink, How many drinks you have when you do drink, How any drinking you are doing affects your life or the lives of others , </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001262-2" qtype="information">What is (are) Do you have a drinking problem? ?</Question>
+			<Answer>Many people with  alcohol problems  cannot tell when their drinking is out of control. It is important to be aware of how much you are drinking. You should also know how your alcohol use may affect your life and those around you. One drink equals one 12-ounce (oz), or 355 milliliters (mL), can or bottle of beer, one 5-ounce (148 mL) glass of wine, 1 wine cooler, 1 cocktail, or 1 shot of hard liquor. Think about: How often you have an alcoholic drink, How many drinks you have when you do drink, How any drinking you are doing affects your life or the lives of others , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001262-6" qtype="when to contact a medical professional">Do I need to see a doctor for Do you have a drinking problem? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

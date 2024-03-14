@@ -1,0 +1,34 @@
+<Document id="0003613" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007673.htm">
+ 
+<Focus>Skin lesion removal</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Shave excision - skin</Synonym>
+		<Synonym>Excision of skin lesions - benign</Synonym>
+		<Synonym>Skin lesion removal - benign</Synonym>
+		<Synonym>Cryosurgery- skin, benign</Synonym>
+		<Synonym>BCC - removal</Synonym>
+		<Synonym>Basal cell cancer - removal</Synonym>
+		<Synonym>Actinic keratosis - removal</Synonym>
+		<Synonym>Wart - removal</Synonym>
+		<Synonym>Squamous cell - removal</Synonym>
+		<Synonym>Mole - removal</Synonym>
+		<Synonym>Nevus - removal</Synonym>
+		<Synonym>Nevi - removal</Synonym>
+		<Synonym>Scissor excision</Synonym>
+		<Synonym>Skin tag removal</Synonym>
+		<Synonym>Mole removal</Synonym>
+		<Synonym>Skin cancer removal</Synonym>
+		<Synonym>Birthmark removal</Synonym>
+		<Synonym>Molluscum contagiosum - removal</Synonym>
+		<Synonym>Electrodesiccation - skin lesion removal</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003613-1" qtype="information">Do you have information about Skin lesion removal</Question>
+			<Answer>A skin lesion is an area of the skin that is different than the surrounding skin. This can be a lump, sore, or an area of skin that is not normal. It may also be a skin cancer. Skin lesion removal is a procedure to remove the lesion.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,19 @@
+<Document id="0002460" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003824.htm">
+ 
+<Focus>Lung gallium scan</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Gallium 67 lung scan</Synonym>
+		<Synonym>Lung scan</Synonym>
+		<Synonym>Gallium scan - lung</Synonym>
+		<Synonym>Scan - lung</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002460-1" qtype="information">Do you have information about Lung gallium scan</Question>
+			<Answer>Lung gallium scan is a type of  nuclear scan  that uses radioactive gallium to identify inflammation in the lungs.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

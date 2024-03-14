@@ -1,0 +1,57 @@
+<Document id="0003920" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001108.htm">
+ 
+<Focus>Thrombophlebitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0040046</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Phlebitis, superficial phlebitis, deep vein thrombosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003920-1" qtype="information">What is (are) Thrombophlebitis ?</Question>
+			<Answer>Thrombophlebitis is swelling (inflammation) of a vein. A  blood clot  (thrombus) in the vein can cause this swelling.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003920-2" qtype="causes">What causes Thrombophlebitis ?</Question>
+			<Answer>Thrombophlebitis may affect  deeper, larger veins  or  veins near the skin surface . Most of the time, it occurs in the pelvis and legs. Blood clots may form when something slows or changes the flow of blood in the veins. Risk factors include: A pacemaker catheter that has been passed through the vein in the groin, Bed rest or sitting in one position for too long, such as plane travel, Family history of blood clots, which may imply the presence of inherited disorders that lead to increased risk of clots. Common ones include deficiency or lack of antithrombin, protein C, and protein S, factor V Leiden (FVL) and prothrombin, Fractures in the pelvis or legs, Giving birth within the last 6 months, Pregnancy, Obesity, Recent surgery (most commonly hip, knee, or female pelvic surgery), Too many blood cells being made by the bone marrow, causing the blood to be thicker than normal (polycythemia vera), Having an indwelling (long-term) catheter in a blood vessel,  Blood is more likely to clot in someone who has certain problems or disorders, such as: Cancer, Certain autoimmune disorders, such as lupus, Cigarette smoking, Conditions that make it more likely to develop blood clots, Taking estrogens or birth control pills (this risk is even higher with smoking), </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003920-3" qtype="symptoms">What are the symptoms of Thrombophlebitis ?</Question>
+			<Answer>The following symptoms are often associated with thrombophlebitis: Swelling in the part of the body affected, Pain in the part of the body affected,  Skin redness  (not always present), Warmth and tenderness over the vein, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003920-4" qtype="exams and tests">How to diagnose Thrombophlebitis ?</Question>
+			<Answer>The health care provider can often diagnose the condition based on how the affected area looks. Your provider will frequently check your  vital signs . This is to make sure you don't have complications. If the cause cannot be easily identified, one or more of the following tests may be done: Blood coagulation studies,  Doppler ultrasound ,  Venography , Genetic testing, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003920-5" qtype="treatment">What are the treatments for Thrombophlebitis ?</Question>
+			<Answer>Support stockings and wraps can help to reduce discomfort. Your provider may prescribe medicines such as: Painkillers, Blood thinners to prevent new clots from forming, most often only prescribed when deep veins are involved, Medicines such as ibuprofen to reduce pain and swelling, Medicines injected into the vein to dissolve an existing clot,  You may be told to do the following: Keep pressure off the area to reduce pain and decrease the risk for further damage., Raise the affected area to reduce  swelling .,  Rare treatment options are: Surgical removal of a vein near the surface, Vein stripping, Bypass of the vein, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003920-6" qtype="outlook">What is the outlook for Thrombophlebitis ?</Question>
+			<Answer>Prompt treatment can treat thrombophlebitis and its other forms.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003920-7" qtype="complications">What are the complications of Thrombophlebitis ?</Question>
+			<Answer>Complications of thrombosis include: Blood clot in the lungs ( pulmonary embolism ), Chronic pain, Swelling in the leg, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003920-8" qtype="when to contact a medical professional">Do I need to see a doctor for Thrombophlebitis ?</Question>
+			<Answer>Contact your provider if you have symptoms of thrombophlebitis. Contact your provider right away if: Your symptoms do not improve with treatment., Your symptoms get worse., New symptoms occur (such as an entire limb becoming pale, cold, or swollen)., </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003920-9" qtype="prevention">How to prevent Thrombophlebitis ?</Question>
+			<Answer>Routine changing of  intravenous  (IV) lines helps to prevent thrombophlebitis related to IVs. If you are taking a long car or plane trip: Walk or stretch your legs once in a while, Drink plenty of liquids, Wear support hose,  If you are hospitalized, your provider may prescribe medicine to prevent thrombophlebitis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

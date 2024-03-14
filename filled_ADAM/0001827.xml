@@ -1,0 +1,45 @@
+<Document id="0001827" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003024.htm">
+ 
+<Focus>Headache</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2096315</CUI>
+			<CUI>C0018681</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pain - head</Synonym>
+		<Synonym>Rebound headaches</Synonym>
+		<Synonym>Medication overuse headaches</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001827-1" qtype="information">What is (are) Headache ?</Question>
+			<Answer>A headache is pain or discomfort in the head, scalp, or neck. Serious causes of headaches are rare. Most people with headaches can feel much better by making lifestyle changes, learning ways to relax, and sometimes by taking medicines. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001827-2" qtype="causes">What causes Headache ?</Question>
+			<Answer>The most common type of headache is tension headache. It is likely caused by tight muscles in your shoulders, neck, scalp, and jaw. A  tension headache :  May be related to stress, depression, anxiety, a head injury, or holding your head and neck in an abnormal position., Tends to be on both sides of your head. It often starts at the back of the head and spreads forward. The pain may feel dull or squeezing, like a tight band or vice. Your shoulders, neck, or jaw may feel tight or sore. ,  A  migraine headache  involves pain that is throbbing, pounding, or pulsating, and is on one side of your head. It usually occurs with other symptoms, such as vision changes, sensitivity to sound or light, or nausea. With a migraine: The headache may be associated with an aura. This is a group of warning symptoms that start before your headache., The pain usually gets worse as you try to move around., Migraines may be triggered by foods, such as chocolate, certain cheeses, or monosodium glutamate (MSG). Caffeine withdrawal, lack of sleep, and alcohol may also be triggers.,  Rebound headaches are headaches that keep coming back. They often occur from overuse of pain medicines for other headaches like migraine or tension headaches. For this reason, these headaches are also called medicine overuse headaches. People who take pain medicine more than 3 days a week on a regular basis can develop this type of headache. Other types of headaches: Cluster headache  is a sharp, very painful headache that occurs daily, sometimes up to several times a day for months. It then goes away for weeks to months. In some people, the headaches never come back. The headache usually lasts less than an hour. It tends to occur at the same times every day., Sinus headache causes pain in the front of the head and face. It is due to swelling in the sinus passages behind the cheeks, nose, and eyes. The pain is worse when you bend forward and when you first wake up in the morning., Headaches may occur if you have a cold, the flu, a fever, or  premenstrual syndrome ., Headache due to a disorder called  temporal arteritis . This is a swollen, inflamed artery that supplies blood to part of the head, temple, and neck area. ,  In rare cases, a headache can be a sign of something more serious, such as: High blood pressure (hypertension), Bleeding in the area between the brain and the thin tissue that covers the brain (subarachnoid hemorrhage), Blood pressure that is very high, Brain infection, such as  meningitis  or  encephalitis , or  abscess ,  Brain tumor , Buildup of fluid inside the skull that leads to brain swelling ( hydrocephalus ), Buildup of pressure inside the skull that appears to be, but is not a tumor ( pseudotumor cerebri ),  Carbon monoxide poisoning , Lack of oxygen during sleep ( sleep apnea ), Problems with the blood vessels and bleeding in the brain, such as  arteriovenous malformation  (AVM),  brain aneurysm , or  stroke , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001827-3" qtype="considerations">What to do for Headache ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001827-4" qtype="when to contact a medical professional">Do I need to see a doctor for Headache ?</Question>
+			<Answer>Some headaches may be a sign of a more serious illness. Seek medical help right away for any of the following: This is the first headache you have ever had in your life and it interferes with your daily activities., Your headache comes on suddenly and is explosive or violent. This kind of headache needs medical attention right away. It may be due to a ruptured blood vessel in the brain. Call 911 or the local emergency number or go to the nearest emergency room., Your headache is "the worst ever," even if you regularly get headaches., You also have slurred speech, a change in vision, problems moving your arms or legs, loss of balance, confusion, or memory loss with your headache., Your headache gets worse over 24 hours., You also have a fever, stiff neck, nausea, and vomiting with your headache., Your headache occurs with a head injury., Your headache is severe and just in one eye, with redness in that eye., You just started getting headaches, especially if you are older than 50., Your headaches are associated with vision problems, pain while chewing, or weight loss., You have a history of cancer or immune system problem (such as HIV/AIDS) and develop a new headache. , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001827-5" qtype="outlook">What is the outlook for Headache ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

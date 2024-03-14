@@ -1,0 +1,53 @@
+<Document id="0002437" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007306.htm">
+ 
+<Focus>Low blood sugar - newborns</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020615</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Neonatal hypoglycemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002437-1" qtype="information">What is (are) Low blood sugar - newborns ?</Question>
+			<Answer>A low blood sugar level in newborn babies is also called neonatal hypoglycemia. It refers to low blood sugar (glucose) in the first few days after birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002437-2" qtype="causes">What causes Low blood sugar - newborns ?</Question>
+			<Answer>Babies need blood sugar (glucose) for energy. Most of that glucose is used by the brain. The baby gets glucose from the mother through the placenta before birth. After birth, the baby gets glucose from the mother through her milk, or from formula. The baby can also produce some glucose in the liver. The glucose level can drop if: There is too much insulin in the blood. Insulin is a hormone that pulls glucose from the blood., The baby is not able to produce enough glucose., The baby's body is using more glucose than is being produced., The baby is not able to take in enough glucose by feeding.,  Neonatal hypoglycemia occurs when the glucose level of a newborn causes symptoms or is below the range considered safe for the baby's age. It occurs in about 1 to 3 out of every 1000 births. Low blood sugar level is more likely in infants with one or more of these risk factors: Born early, has a serious infection, and/or needed oxygen right after delivery, Mother has  diabetes , Slower than expected growth in the womb during pregnancy, Smaller or larger in size than expected for their  gestational age , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002437-3" qtype="symptoms">What are the symptoms of Low blood sugar - newborns ?</Question>
+			<Answer>Infants with low blood sugar may not have symptoms. If your baby has one of the risk factors for low blood sugar, nurses in the hospital will check your baby's blood sugar level, even if there are no symptoms. Also, blood sugar level is usually checked for babies with these symptoms: Bluish-colored or pale skin , Breathing problems, such as pauses in breathing (apnea), rapid breathing, or a grunting sound, Irritability or listlessness,  Loose or floppy muscles , Poor feeding or vomiting, Problems keeping the body warm, Tremors, shakiness, sweating, or  seizures , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002437-4" qtype="exams and tests">How to diagnose Low blood sugar - newborns ?</Question>
+			<Answer>Newborns at risk for hypoglycemia should have a blood test to measure blood sugar level frequently after birth. This will be done using a heel stick. The health care provider should continue taking blood tests until the baby's glucose level stays normal for about 12 to 24 hours. Other possible tests include newborn screening for metabolic disorders, such as blood and urine tests.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002437-5" qtype="treatment">What are the treatments for Low blood sugar - newborns ?</Question>
+			<Answer>Infants with a low blood sugar level will need to receive extra feedings with mother's milk or formula. Babies who are breast-fed may need to receive extra formula if the mother is not able to produce enough milk. (Hand expression and massage can help mothers express more milk.) A sugar gel may be given by mouth temporarily if there is not enough milk. The infant may need a sugar solution given through a vein (intravenously) if unable to eat by mouth, if the blood sugar does not improve with feeding, or if the blood sugar level is very low. Treatment will be continued until the baby can maintain blood sugar level. This may take hours or days. Infants who were born early or at a low weight, whose mothers had diabetes, or who have other complications/problems may need to be treated for a longer period of time. If the low blood sugar continues, in rare cases, the baby may also receive medicine to increase blood sugar level. In very rare cases, newborns with very severe hypoglycemia who do not improve with treatment may need surgery to remove part of the pancreas (to reduce insulin production).</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002437-6" qtype="outlook">What is the outlook for Low blood sugar - newborns ?</Question>
+			<Answer>The outlook is good for newborns who do not have symptoms, or who respond well to treatment. However, low blood sugar level can return in a small number of babies after treatment, so levels will be checked after treatment has stopped. The condition is more likely to return when babies are taken off fluids given through a vein before they are fully ready to eat by mouth. Babies with more severe symptoms are more likely to develop learning problems. This is more often true for babies who are at a lower-than-average weight, whose mothers had diabetes, or who have other complications/problems.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002437-7" qtype="complications">What are the complications of Low blood sugar - newborns ?</Question>
+			<Answer>Severe or persistent low blood sugar level may affect the baby's mental function. In rare cases, heart failure or seizures may occur. However, these problems may also be due to the underlying cause of the low blood sugar, rather than a result of the low blood sugar itself.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002437-8" qtype="prevention">How to prevent Low blood sugar - newborns ?</Question>
+			<Answer>If you have diabetes during pregnancy, work with your provider to control your blood sugar level. Be sure that your newborn's blood sugar level is monitored after birth.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

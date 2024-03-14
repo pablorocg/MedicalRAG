@@ -1,0 +1,59 @@
+<Document id="0002773" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000490.htm">
+ 
+<Focus>Nephrotic syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027726</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Nephrosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002773-1" qtype="information">What is (are) Nephrotic syndrome ?</Question>
+			<Answer>Nephrotic syndrome is a group of symptoms and abnormal test results that include  protein in the urine , low blood protein levels in the blood,  high cholesterol levels , high triglyceride levels, increased blood clot risk, and  swelling .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002773-2" qtype="causes">What causes Nephrotic syndrome ?</Question>
+			<Answer>Nephrotic syndrome is caused by different disorders that damage the kidneys. This damage leads to the release of too much protein in the urine. The most common cause in children is  minimal change disease .  Membranous glomerulonephritis  is the most common cause in adults. In both diseases, the glomeruli in the kidneys are damaged. Glomeruli are the structures that help filter wastes and fluids. This condition can also occur due to: Cancer , Diseases such as  diabetes ,  systemic lupus erythematosus ,  multiple myeloma , and  amyloidosis , Genetic disorders, Immune disorders, Infections (such as  strep throat ,  hepatitis , or  mononucleosis ), Use of certain drugs,  It can occur with kidney disorders such as: Focal and  segmental glomerulosclerosis ,  Glomerulonephritis , Mesangiocapillary glomerulonephritis,  Nephrotic syndrome can affect all age groups. In children, it is most common between ages 2 and 6. This disorder occurs slightly more often in males than females.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002773-3" qtype="symptoms">What are the symptoms of Nephrotic syndrome ?</Question>
+			<Answer>Swelling  (edema) is the most common symptom. It may occur: In the face and around the eyes ( facial swelling ), In the arms and legs, especially in the feet and ankles, In the belly area ( swollen abdomen ),  Other symptoms include: Skin  rash  or sores, Foamy appearance of the urine,  Poor appetite ,  Weight gain (unintentional)  from fluid retention,  Seizures , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002773-4" qtype="exams and tests">How to diagnose Nephrotic syndrome ?</Question>
+			<Answer>Your health care provider will perform a physical exam. Laboratory tests will be done to see how well the kidneys are working. They include: Albumin  blood test, Blood chemistry tests, such as  basic metabolic panel  or  comprehensive metabolic panel ,  Blood urea nitrogen  (BUN),  Creatinine - blood test ,  Creatinine clearance - urine test ,  Urinalysis ,  Fats are often also present in the urine. Blood cholesterol and triglyceride levels may be high. A  kidney biopsy  may be needed to find the cause of the disorder. Tests to rule out various causes may include the following: Antinuclear antibody ,  Cryoglobulins ,  Complement levels ,  Glucose tolerance test , 
+   Hepatitis B antigen, Hepatitis C antibodies
+   ,  HIV test ,  Rheumatoid factor ,  Serum protein electrophoresis  (SPEP), Syphilis serology,  Urine protein electrophoresis  (UPEP),  This disease may also change the results of the following tests: Vitamin D level ,  Serum iron ,  Urinary casts , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002773-5" qtype="treatment">What are the treatments for Nephrotic syndrome ?</Question>
+			<Answer>The goals of treatment are to relieve symptoms, prevent complications, and delay  kidney damage . To control nephrotic syndrome, the disorder that is causing it must be treated. You may need treatment for life. Treatments may include any of the following: Keeping blood pressure at or below 130/80 mm Hg to delay kidney damage. Angiotensin-converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARBs) are the medicines most often used. ACE inhibitors and ARBs may also help decrease the amount of protein lost in the urine., Corticosteroids and other drugs that suppress or quiet the immune system., Treating high cholesterol to reduce the risk for heart and blood vessel problems --&#160;A low-fat, low-cholesterol diet is usually not enough for people with nephrotic syndrome. Medicines to reduce cholesterol and triglycerides (usually statins) may be needed., A  low-sodium diet  may help with swelling in the hands and legs. Water pills (diuretics) may also help with this problem., Low-protein diets may be helpful. Your provider may suggest a moderate-protein diet (1 gram of protein per kilogram of body weight per day)., Taking&#160; vitamin D  supplements if nephrotic syndrome is long-term and is not responding to treatment., Taking blood thinner drugs to treat or prevent blood clots., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002773-6" qtype="outlook">What is the outlook for Nephrotic syndrome ?</Question>
+			<Answer>The outcome varies. Some people recover from the condition. Others develop long-term kidney disease and need  dialysis &#160;and eventually a  kidney transplant .</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002773-7" qtype="complications">What are the complications of Nephrotic syndrome ?</Question>
+			<Answer>Health problems that may result from nephrotic syndrome include: Acute kidney failure ,  Hardening of the arteries  and related heart diseases,  Chronic kidney disease , Fluid overload,  heart failure ,  fluid buildup in lungs , Infections, including pneumococcal  pneumonia ,  Malnutrition ,  Renal vein thrombosis , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002773-8" qtype="when to contact a medical professional">Do I need to see a doctor for Nephrotic syndrome ?</Question>
+			<Answer>Contact your provider if: You or your child develops symptoms of nephrotic syndrome, including swelling in face, belly, or arms and legs, or skin sores, You or your child are being treated for nephrotic syndrome, but symptoms don't improve, New symptoms develop, including  cough , decreased urine output,&#160;discomfort with urination,  fever , severe  headache ,  Go to the emergency room or call the local emergency number (such as 911) if you have  seizures .</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002773-9" qtype="prevention">How to prevent Nephrotic syndrome ?</Question>
+			<Answer>Treating conditions that can cause nephrotic syndrome may help prevent the syndrome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

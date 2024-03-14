@@ -1,0 +1,60 @@
+<Document id="0003381" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000092.htm">
+ 
+<Focus>Respiratory acidosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0001127</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ventilatory failure</Synonym>
+		<Synonym>Respiratory failure</Synonym>
+		<Synonym>Acidosis - respiratory</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003381-1" qtype="information">What is (are) Respiratory acidosis ?</Question>
+			<Answer>Respiratory acidosis is a condition that occurs when your lungs can&#8217;t remove all of the carbon dioxide produced by your body. This causes the blood and other body fluids to become too acidic.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003381-2" qtype="causes">What causes Respiratory acidosis ?</Question>
+			<Answer>There are many causes of respiratory acidosis, including: 
+   Airway diseases, such as  asthma  and  COPD , Lung tissue diseases, such as  pulmonary fibrosis , which causes scarring and thickening of the lungs, Diseases that can affect the chest, such as scoliosis, Diseases that affect the nerves and muscles that signal the lungs to inflate or deflate, Medicines that suppress breathing, including narcotics (opioids), and "downers," such as benzodiazepines, often when combined with each other or alcohol, Severe obesity, which restricts how much the lungs can expand, Obstructive sleep apnea,  Chronic respiratory acidosis occurs over a long time. This leads to a stable situation, because the kidneys increase body chemicals, such as bicarbonate, that help restore the body's acid-base balance. Acute respiratory acidosis occurs when carbon dioxide builds up very quickly, before the kidneys can return the body to a state of balance. Some people with chronic respiratory acidosis get acute respiratory acidosis when a serious illness worsens their condition and disrupts their body's acid-base balance.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003381-3" qtype="symptoms">What are the symptoms of Respiratory acidosis ?</Question>
+			<Answer>Symptoms may include: Confusion, Anxiety, Easy fatigue, Lethargy, Shortness of breath, Sleepiness, Tremors (shaking), Warm and flushed skin, Sweating , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003381-4" qtype="exams and tests">How to diagnose Respiratory acidosis ?</Question>
+			<Answer>Your health care provider will perform a physical exam and ask about symptoms. You may have certain tests, including: Arterial  blood gas  (measures oxygen and carbon dioxide levels in the blood), Basic metabolic panel,  Chest x-ray , CT scan of the chest,  Pulmonary function test  to measure breathing and how well the lungs are functioning, Ultrasound of the heart (echocardiogram), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003381-5" qtype="treatment">What are the treatments for Respiratory acidosis ?</Question>
+			<Answer>Treatment is aimed at the underlying disease, and may include: Bronchodilator medicines and corticosteroids to reverse some types of airway obstruction, Noninvasive positive-pressure ventilation (called  CPAP  or BiPAP), Oxygen if your blood oxygen level is low, Treatment to  stop smoking ., Changing medicines when appropriate,  If your case is severe, you may need to be put on a breathing machine (ventilator).</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003381-6" qtype="outlook">What is the outlook for Respiratory acidosis ?</Question>
+			<Answer>How well you do depends on the disease causing the respiratory acidosis.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003381-7" qtype="complications">What are the complications of Respiratory acidosis ?</Question>
+			<Answer>Complications may include: Poor organ function, Respiratory failure,  Shock , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003381-8" qtype="when to contact a medical professional">Do I need to see a doctor for Respiratory acidosis ?</Question>
+			<Answer>Severe acute respiratory acidosis is a medical emergency. Seek medical help right away if you have symptoms of this condition. Call your provider if you have symptoms of lung disease that suddenly get worse.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003381-9" qtype="prevention">How to prevent Respiratory acidosis ?</Question>
+			<Answer>DO NOT smoke. Smoking can lead to many severe lung diseases that can cause respiratory acidosis. Losing weight may help prevent respiratory acidosis due to obesity (obesity-hypoventilation syndrome). Be careful about taking sedating medicines, and never combine these medicines with alcohol. Use your CPAP device regularly if it has been prescribed for you.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

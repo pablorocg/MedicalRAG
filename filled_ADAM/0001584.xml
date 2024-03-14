@@ -1,0 +1,30 @@
+<Document id="0001584" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000577.htm">
+ 
+<Focus>Fibrinolysis - primary or secondary</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027627</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Primary fibrinolysis</Synonym>
+		<Synonym>Secondary fibrinolysis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001584-1" qtype="information">What is (are) Fibrinolysis - primary or secondary ?</Question>
+			<Answer>Fibrinolysis is a normal body process. It prevents blood clots that occur naturally from growing and causing problems. Primary fibrinolysis refers to the normal breakdown of clots. Secondary fibrinolysis is the breakdown of blood clots due to a medical disorder, medicine, or other cause. This may cause severe bleeding.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001584-2" qtype="causes">What causes Fibrinolysis - primary or secondary ?</Question>
+			<Answer>Blood clots form on a protein called fibrin. The breakdown of fibrin (fibrinolysis) can be due to: Bacterial infections, Cancer, Intense exercise, Not enough oxygen to tissues ,  Your health care provider may give you medicines to help blood clots break down more quickly. This may be done if a blood clot causes a heart attack.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,62 @@
+<Document id="0003444" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001249.htm">
+ 
+<Focus>Rubinstein-Taybi syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0035934</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Rubinstein syndrome, RTS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003444-1" qtype="information">What is (are) Rubinstein-Taybi syndrome ?</Question>
+			<Answer>Rubinstein-Taybi syndrome (RTS) is a genetic disease. It involves broad thumbs and toes, short stature, distinctive facial features, and varying degrees of intellectual disability.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003444-2" qtype="causes">What causes Rubinstein-Taybi syndrome ?</Question>
+			<Answer>RTS is a rare condition. Variations in the genes  CREBBP  or  EP300  are seen in some people with this condition. Some people are missing the gene entirely. This is more typical in people with more severe problems. Most cases are sporadic (not passed down through families). They are likely due to a new genetic variant that occurs either in the sperm or egg cells, or at the time of conception.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003444-3" qtype="symptoms">What are the symptoms of Rubinstein-Taybi syndrome ?</Question>
+			<Answer>Symptoms include: Broadening of the thumbs and big toes, Constipation, Excess hair on body (hirsutism), Heart defects, possibly requiring surgery,  Intellectual disability , Seizures,  Short stature  that is noticeable after birth, Slow development of cognitive skills, Slow development of motor skills accompanied by low muscle tone ,  Other signs and symptoms may include: Absent or extra kidney, and other problems with kidney or bladder, An underdeveloped bone in the midface, Unsteady or stiff walking gait, Downward-slanted eyes,  Low-set ears  or malformed ears, Drooping eyelid ( ptosis ),  Cataracts ,  Coloboma  (a defect in the iris of the eye),  Microcephaly  (excessively small head), Narrow, small, or recessed mouth with crowded teeth, Prominent or "beaked" nose, Thick and arched eyebrows with long eyelashes, Undescended testicle ( cryptorchidism ), or other testicular problems , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003444-4" qtype="exams and tests">How to diagnose Rubinstein-Taybi syndrome ?</Question>
+			<Answer>Your health care provider will perform a physical exam. Blood tests and x-rays may also be done. Genetic tests can be done to determine if the genes involved in this disease are missing or changed.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003444-5" qtype="treatment">What are the treatments for Rubinstein-Taybi syndrome ?</Question>
+			<Answer>There is no specific treatment for RTS. However, the following treatments can be used to manage problems commonly associated with the condition. Surgery to repair the bones in the thumbs or toes can sometimes improve grasp or relieve discomfort., Early intervention programs and special education to address developmental disabilities., Referral to behavioral specialists and support groups for family members., Medical treatment for heart defects, hearing loss, and eye abnormalities., Treatment for constipation and gastroesophageal reflux (GERD)., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003444-6" qtype="support groups">Where to find support for people with Rubinstein-Taybi syndrome ?</Question>
+			<Answer>More information and support for people with RTS and their families can be found at: Special Friends Foundation --  specialfriends.org , Rubinstein-Taybi Syndrome Children's Foundation --  www.facebook.com/RTSCF/ , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003444-7" qtype="outlook">What is the outlook for Rubinstein-Taybi syndrome ?</Question>
+			<Answer>The majority of children can learn to read at an elementary level. The majority of children have delayed motor development, but on average, they learn to walk by 2 1/2 years of age.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003444-8" qtype="complications">What are the complications of Rubinstein-Taybi syndrome ?</Question>
+			<Answer>Complications depend on what part of the body is affected. Complications may include: Feeding problems in infants, Repeated ear infections and hearing loss, Problems with the shape of the heart, Abnormal heartbeat, Scarring of the skin , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003444-9" qtype="when to contact a medical professional">Do I need to see a doctor for Rubinstein-Taybi syndrome ?</Question>
+			<Answer>An appointment with a geneticist is recommended if your provider finds signs of RTS.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0003444-10" qtype="prevention">How to prevent Rubinstein-Taybi syndrome ?</Question>
+			<Answer>Genetic counseling is advised for couples with a family history of this disease who are planning a pregnancy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

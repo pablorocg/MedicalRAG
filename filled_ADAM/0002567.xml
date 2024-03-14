@@ -1,0 +1,16 @@
+<Document id="0002567" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002256.htm">
+ 
+<Focus>Melanin</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Skin pigment</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002567-1" qtype="information">Do you have information about Melanin</Question>
+			<Answer>Melanin is a natural substance that gives color (pigment) to:  Hair, Skin, The  iris  of the eye ,  It is produced by cells in the skin called melanocytes. Melanin also helps protect the skin from the sun.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

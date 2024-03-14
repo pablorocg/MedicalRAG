@@ -1,0 +1,41 @@
+<Document id="0000019" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003136.htm">
+ 
+<Focus>Abdominal rigidity</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0159066</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Rigidity of the abdomen</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000019-1" qtype="information">What is (are) Abdominal rigidity ?</Question>
+			<Answer>Abdominal rigidity is stiffness of the muscles in the belly area, which can be felt when touched or pressed.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000019-2" qtype="considerations">What to do for Abdominal rigidity ?</Question>
+			<Answer>When there is a sore area inside the belly or abdomen, the pain will often get worse when a hand presses against your belly area. Your fear or nervousness about being touched (palpated) may cause your abdominal muscles to stiffen, but there should be no pain. If you have pain when you are touched and you tighten the muscles to guard against more pain, it is more likely caused by a physical condition inside your body. The condition may affect one or both sides of your body. Abdominal rigidity may occur with: Abdominal tenderness ,  Nausea , Pain,  Swelling ,  Vomiting , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000019-3" qtype="causes">What causes Abdominal rigidity ?</Question>
+			<Answer>Causes can include: Abscess inside the abdomen ,  Appendicitis ,  Cholecystitis  caused by gallstones, Hole that develops through the entire wall of the stomach, small intestine, large bowel, or gallbladder ( gastrointestinal perforation ), Injury to the abdomen,  Peritonitis , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000019-4" qtype="when to contact a medical professional">Do I need to see a doctor for Abdominal rigidity ?</Question>
+			<Answer>Get medical care right away if you have pain when the belly is gently pressed and then released. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000019-5" qtype="outlook">What is the outlook for Abdominal rigidity ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,61 @@
+<Document id="0001542" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000392.htm">
+ 
+<Focus>Familial hypercholesterolemia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020445</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Type II hyperlipoproteinemia</Synonym>
+		<Synonym>Hypercholesterolemic xanthomatosis</Synonym>
+		<Synonym>Low density lipoprotein receptor mutation</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001542-1" qtype="information">What is (are) Familial hypercholesterolemia ?</Question>
+			<Answer>Familial hypercholesterolemia is a disorder that is passed down through families. It causes LDL (bad) cholesterol level to be very high. The condition begins at birth and can cause heart attacks at an early age. Related topics include: Familial combined hyperlipidemia ,  Familial hypertriglyceridemia ,  Familial dysbetalipoproteinemia , </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001542-2" qtype="causes">What causes Familial hypercholesterolemia ?</Question>
+			<Answer>Familial hypercholesterolemia is a genetic disorder. It is caused by a defect on chromosome 19. The defect makes the body unable to remove low density lipoprotein (LDL, or bad) cholesterol from the blood. This results in a high level of LDL in the blood. This makes you more likely to have narrowing of the arteries from  atherosclerosis  at an early age. The condition is typically passed down through families in an  autosomal dominant  manner. That means you only need to get the abnormal gene from one parent in order to inherit the disease. In rare cases, a child may inherit the gene from both parents. When this occurs, the increase in cholesterol level is much more severe. The risk for heart attacks and heart disease are high, even in childhood.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001542-3" qtype="symptoms">What are the symptoms of Familial hypercholesterolemia ?</Question>
+			<Answer>In the early years there may be no symptoms. Symptoms that may occur include: Fatty skin deposits called xanthomas over parts of the hands, elbows, knees, ankles and around the cornea of the eye, Cholesterol deposits in the eyelids (xanthelasmas), Chest pain ( angina ) or other signs of  coronary artery disease  may be present at a young age, Cramping of one or both calves when walking, Sores on the toes that do not heal, Sudden stroke-like symptoms such as trouble speaking, drooping on one side of the face, weakness of an arm or leg, and loss of balance , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001542-4" qtype="exams and tests">How to diagnose Familial hypercholesterolemia ?</Question>
+			<Answer>A physical exam may show fatty skin growths called  xanthomas  and cholesterol deposits in the eye (corneal arcus). The&#160;health care provider&#160;will ask questions about your personal and family medical history. There may be: A strong family history of familial hypercholesterolemia or early heart attacks, High level of LDL cholesterol in either or both parents ,  People from families with a strong history of early heart attacks should have blood tests done to determine lipid levels. Blood tests may show: High level of  total cholesterol , High LDL level, Normal  triglyceride  levels ,  Other tests that may be done include: Studies of cells called fibroblasts to see how the body absorbs LDL cholesterol, Genetic test for the defect associated with this condition , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001542-5" qtype="treatment">What are the treatments for Familial hypercholesterolemia ?</Question>
+			<Answer>The goal of treatment is to reduce the risk of  atherosclerotic heart disease . People who get only one copy of the defective gene from their parents may do well with diet changes and statin drugs. LIFESTYLE CHANGES The first step is to  change what you eat . Most of the time,&#160;the&#160;provider will recommend that you try this for several months before prescribing medicines. Diet changes include lowering the amount of fat you eat so that it is less than 30% of your total calories. If you are overweight, losing weight is very helpful. Here are some ways to cut saturated fat out of your diet: Eat less beef, chicken, pork, and lamb, Replace full-fat dairy products&#160;with low-fat products, Eliminate trans fats ,  You can lower the amount of cholesterol you eat by eliminating egg yolks and organ meats such as liver. It may help to talk to a dietitian who can give you advice about changing your eating habits. Weight loss and regular exercise may also help lower your cholesterol level. MEDICINES If lifestyle changes do not change your cholesterol level, your&#160;provider may recommend that you take medicines. There are several types of drugs available to help lower blood cholesterol level, and they work in different ways. Some are better at lowering LDL cholesterol, some are good at lowering triglycerides, while others help raise HDL cholesterol. Many people will be on several medicines. Statin drugs are commonly used and are very effective. These drugs help lower your risk of heart attack and stroke.  They include: Lovastatin (Mevacor), Pravastatin (Pravachol), Simvastatin (Zocor), Fluvastatin (Lescol), Atorvastatin (Lipitor), Pitivastatin (Livalo), Rosuvastatin (Crestor),  Other cholesterol-lowering medicines include: Bile acid-sequestering resins., Ezetimibe., Fibrates (such as gemfibrozil or fenofibrate).,  Nicotinic acid . 
+ , PCSK9 inhibitors, such as alirocumab (Praluent) and evolocumab (Repatha).&#160; These represent a newer class of drugs to treat high cholesterol.
+ ,  People with a severe form of the disorder may need a treatment called apheresis. Blood or plasma is removed from the body. Special filters remove the extra LDL cholesterol, and the blood plasma is then returned to the body.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001542-6" qtype="outlook">What is the outlook for Familial hypercholesterolemia ?</Question>
+			<Answer>How well you do depends on how closely you follow your provider's treatment advice and how well you respond to the recommended treatment. Making diet changes, exercising, and taking your medicines correctly can lower cholesterol level. These changes can help delay a heart attack, especially for people with a milder form of the disorder. Men and women with familial hypercholesterolemia typically are at increased risk of early heart attacks. Risk of death varies among people with familial hypercholesterolemia. If you inherit two copies of the defective gene, you have a poorer outcome. That type of familial hypercholesterolemia does not respond well to treatment and may cause an early heart attack. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001542-7" qtype="complications">What are the complications of Familial hypercholesterolemia ?</Question>
+			<Answer>Complications may include: Heart attack at an early age, Heart disease, Stroke, Peripheral vascular disease&#160;, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001542-8" qtype="when to contact a medical professional">Do I need to see a doctor for Familial hypercholesterolemia ?</Question>
+			<Answer>Seek medical care right away if you have chest pain or other warning signs of a heart attack. Contact your provider if you have a personal or family history of high cholesterol level.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001542-9" qtype="prevention">How to prevent Familial hypercholesterolemia ?</Question>
+			<Answer>A diet low in cholesterol and saturated fat and rich in unsaturated fat may help to control your LDL level. People with a family history of this condition, particularly if both parents carry the defective gene, may want to seek genetic counseling. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,61 @@
+<Document id="0001344" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000406.htm">
+ 
+<Focus>Ectopic Cushing syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010481</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cushing syndrome - ectopic</Synonym>
+		<Synonym>Ectopic ACTH syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001344-1" qtype="information">What is (are) Ectopic Cushing syndrome ?</Question>
+			<Answer>Ectopic Cushing syndrome is a form of  Cushing syndrome  in which a tumor outside the pituitary gland produces a hormone called adrenocorticotropic hormone (ACTH).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001344-2" qtype="causes">What causes Ectopic Cushing syndrome ?</Question>
+			<Answer>
+Cushing syndrome is a disorder that occurs when your body has a higher than normal level of the hormone cortisol. This hormone is made in the  adrenal glands . Too much cortisol can be due to various problems. One of the causes is if there is too much of the hormone ACTH in the blood. ACTH is usually made by the pituitary in small amounts and then signals the adrenal glands to produce cortisol. Sometimes other cells outside the pituitary can make large amounts of ACTH. This is called ectopic Cushing syndrome. Ectopic means that something is occurring in an abnormal place in the body. Ectopic Cushing syndrome is caused by  tumors  that release ACTH. Tumors that can, in rare cases, release ACTH include: Benign carcinoid tumors of the lung,  Islet cell tumors  of the pancreas,  Medullary carcinoma of the thyroid ,  Small cell tumors of the lung , Tumors of the thymus gland , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001344-3" qtype="symptoms">What are the symptoms of Ectopic Cushing syndrome ?</Question>
+			<Answer>Ectopic Cushing syndrome can cause a lot of different symptoms. Some people have many symptoms while others have only a few. Most people with any type of Cushing syndrome have: Round, red, and full face ( moon face ), Slow growth rate in children, Weight gain with fat accumulation on the trunk, but fat loss from the arms, legs, and buttocks (central obesity) ,  Skin changes that are often seen: Skin infections, Thick, purple stretch marks (1/2 inch or 1 centimeter or more wide) called  striae  on the skin of the abdomen, thighs, upper arms, and breasts, Thin skin with easy bruising ,  Muscle and bone changes include: Backache, which occurs with routine activities, Bone pain or tenderness, Collection of fat between the shoulders and above the collar bone, Rib and spine fractures caused by  thinning of the bones , Weak muscles, especially of the hips and shoulders ,  Body-wide (systemic) problems may include: Type 2 diabetes mellitus, High blood pressure, High cholesterol and triglycerides ,  Women may have: Excess hair growth on the face, neck, chest, abdomen, and thighs, Periods that become irregular or stop ,  Men may have:  Decreased or no desire for sex,  Impotence ,  Other symptoms that may occur include: 
+   Mental changes, such as  depression , anxiety, or changes in behavior,  Fatigue , Headache, Increased  thirst  and  urination , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001344-4" qtype="exams and tests">How to diagnose Ectopic Cushing syndrome ?</Question>
+			<Answer>The health care provider will perform a physical exam and ask about your symptoms.  Tests that may be done include: 24-hour urine sample to measure  cortisol  and  creatinine  levels, Blood tests to check ACTH,  cortisol , and  potassium  levels (the potassium level is often very low in ectopic Cushing syndrome),  Dexamethasone suppression test  (both high and low dose)
+   , Inferior petrosal sinus sampling (a special test that measures ACTH from veins near the brain and in the chest),  Fasting glucose ,  MRI  and high resolution  CT scans  to find the tumor (sometimes nuclear medicine scans may be needed), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001344-5" qtype="treatment">What are the treatments for Ectopic Cushing syndrome ?</Question>
+			<Answer>The best treatment for ectopic Cushing syndrome is surgery to remove the tumor that is producing too much ACTH. Surgery is usually possible when the tumor is noncancerous ( benign ). In some cases, the tumor is cancerous and spreads to other areas of the body before your provider can discover the problem with cortisol production. Surgery may not be possible in these cases. But your provider may prescribe medicines to block cortisol production. Sometimes removal of both adrenal glands is needed if the tumor cannot be found and medicines do not fully block cortisol production.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001344-6" qtype="outlook">What is the outlook for Ectopic Cushing syndrome ?</Question>
+			<Answer>Surgery to remove the tumor may lead to full recovery. But there is a chance that the tumor will come back.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001344-7" qtype="complications">What are the complications of Ectopic Cushing syndrome ?</Question>
+			<Answer>The tumor may spread or return after surgery. A high cortisol level may continue.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001344-8" qtype="when to contact a medical professional">Do I need to see a doctor for Ectopic Cushing syndrome ?</Question>
+			<Answer>Contact your provider if you develop symptoms of Cushing syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001344-9" qtype="prevention">How to prevent Ectopic Cushing syndrome ?</Question>
+			<Answer>Prompt treatment of tumors may reduce the risk in some cases. Many cases are not preventable.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

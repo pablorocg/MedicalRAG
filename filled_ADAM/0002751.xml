@@ -1,0 +1,53 @@
+<Document id="0002751" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000046.htm">
+ 
+<Focus>Near drowning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027516</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Drowning - near</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002751-1" qtype="information">What is (are) Near drowning ?</Question>
+			<Answer>"Near drowning" means a person almost died from not being able to breathe (suffocating) under water. If a person has been rescued from a near-drowning situation, quick first aid and medical attention are very important.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002751-2" qtype="considerations">What to do for Near drowning ?</Question>
+			<Answer>Thousands of people drown in the United States each year. Most drownings occur within a short distance of safety. Immediate action and first aid can prevent death., A person who is drowning usually can't shout for help. Be alert for signs of drowning., Most drownings in children younger than one year occur in the bathtub., It may be possible to revive a drowning person, even after a long period under water, especially if the person is young and was in very cold water., Suspect an accident if you see someone in the water fully clothed. Watch for uneven swimming motions, which is a sign that the swimmer is getting tired. Often, the body sinks, and only the head shows above the water. , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002751-3" qtype="causes">What causes Near drowning ?</Question>
+			<Answer>Attempted suicide, Attempting to swim too far, Behavioral/developmental disorders, Blows to the head or seizures while in the water, Drinking alcohol or using other drugs while boating or swimming, Heart attack or other heart issues while swimming or bathing, Failure to use life jackets (person flotation devices), Falling through thin ice, Inability to swim or panicking while swimming, Leaving small children unattended around bathtubs or pools, Risk-taking behaviors, Swimming in water that is too deep, rough, or turbulent, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002751-4" qtype="symptoms">What are the symptoms of Near drowning ?</Question>
+			<Answer>Symptoms can vary, but may include: Abdominal distention  (swollen belly),  Bluish skin  of the face, especially around the lips,  Chest pain , Cold skin and pale appearance,  Confusion ,  Cough  with pink, frothy sputum, Irritability,  Lethargy ,  No breathing ,  Restlessness , Shallow or gasping respirations,  Unconsciousness  (lack of responsiveness),  Vomiting , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002751-5" qtype="considerations">What to do for Near drowning ?</Question>
+			<Answer>Thousands of people drown in the United States each year. Most drownings occur within a short distance of safety. Immediate action and first aid can prevent death., A person who is drowning usually can't shout for help. Be alert for signs of drowning., Most drownings in children younger than one year occur in the bathtub., It may be possible to revive a drowning person, even after a long period under water, especially if the person is young and was in very cold water., Suspect an accident if you see someone in the water fully clothed. Watch for uneven swimming motions, which is a sign that the swimmer is getting tired. Often, the body sinks, and only the head shows above the water. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002751-6" qtype="considerations">What to do for Near drowning ?</Question>
+			<Answer>Thousands of people drown in the United States each year. Most drownings occur within a short distance of safety. Immediate action and first aid can prevent death., A person who is drowning usually can't shout for help. Be alert for signs of drowning., Most drownings in children younger than one year occur in the bathtub., It may be possible to revive a drowning person, even after a long period under water, especially if the person is young and was in very cold water., Suspect an accident if you see someone in the water fully clothed. Watch for uneven swimming motions, which is a sign that the swimmer is getting tired. Often, the body sinks, and only the head shows above the water. , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002751-7" qtype="when to contact a medical professional">Do I need to see a doctor for Near drowning ?</Question>
+			<Answer>Call 911 or your local emergency number if you can't rescue the drowning person without putting yourself in danger. If you are trained and able to rescue the person, do so, but always call for medical help as soon as possible. All people who have experienced a near drowning should be checked by a health care provider. Even though the person may quickly seem OK at the scene, lung complications are common. Fluid and body chemical (electrolyte) imbalances may develop. Other traumatic injuries may be present, and irregular heart rhythms can occur. All people who have experienced a near drowning who require any form of resuscitation, including rescue breathing alone, should be transported to the hospital for evaluation. This should be done even if the person appears alert with good breathing and a strong pulse.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002751-8" qtype="prevention">How to prevent Near drowning ?</Question>
+			<Answer>Some tips to help prevent near drowning are:  Do not drink alcohol or use other drugs when swimming or boating. This includes certain prescription medicines., Drowning can occur in any container of water. Do not leave any standing water in basins, buckets, ice chests, kiddie pools, or bathtubs, or in other areas where a young child can enter the water. , Secure toilet seat lids with a child safety device., Fence around all pools and spas. Secure all the doors leading to the outside, and install pool and door alarms., If your child is missing, check the pool right away., Never allow children to swim alone or unsupervised regardless of their ability to swim., Never leave children alone for any period of time or let them leave your line of sight around any pool or body of water. Drownings have occurred when parents left "for just a minute" to answer the phone or door., Observe water safety rules., Take a water safety course., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

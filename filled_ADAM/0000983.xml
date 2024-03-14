@@ -1,0 +1,36 @@
+<Document id="0000983" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000916.htm">
+ 
+<Focus>Coping with cancer - managing fatigue</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006826</CUI>
+			<CUI>C0015672</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cancer-related fatigue</Synonym>
+		<Synonym>CRF</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000983-1" qtype="information">What is (are) Coping with cancer - managing fatigue ?</Question>
+			<Answer>Fatigue  is a feeling of tiredness, weakness, or exhaustion. It is different from drowsiness, which can be relieved with a good night's sleep.  Most people feel fatigue while being treated for cancer. How severe your fatigue is depends on the type of cancer you have, the stage of cancer, and your treatments. Other factors like your general health, diet, and stress level can also add to fatigue. Fatigue often goes away after your last cancer treatment. For some people though, it can last for months after treatment ends.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000983-2" qtype="causes">What causes Coping with cancer - managing fatigue ?</Question>
+			<Answer>Your fatigue could be caused by one or more factors. Here are ways having cancer can cause fatigue. Simply having cancer can drain your energy: Some cancers release proteins called cytokines that can make you feel fatigued., Some tumors can change the way your body uses energy and leave you feeling tired. ,  Many cancer treatments cause fatigue as a side effect: Chemotherapy .  You may feel most worn out for a few days after each chemo treatment. Your fatigue may get worse with each treatment. For some people, fatigue is worst about halfway through the full course of chemo.,  Radiation .  Fatigue often gets more intense with each radiation treatment until about halfway through the cycle. Then it often levels off and stays about the same until the end of treatment.,  Surgery.  Fatigue is common when recovering from any surgery. Having surgery along with other cancer treatments can make fatigue last longer.,  Biologic therapy.  Treatments that use vaccines or bacteria to trigger your immune system to fight cancer can cause fatigue. ,  Other factors: Anemia .  Some cancer treatments decrease, or kill, red blood cells that carry oxygen from your heart to the rest of your body.,  Poor nutrition.  Nausea or lost appetite can make it hard to keep your body fueled. Even if your eating habits do not change, your body may have trouble taking in nutrients during cancer treatment.,  Emotional stress.  Having cancer can make you feel anxious, depressed, or distressed. These emotions can drain your energy and motivation.,  Medicines.  Many of the medicines for treating pain, depression, insomnia, and nausea can also cause fatigue.,  Sleep problems.  Pain, distress, and other cancer side effects can make it hard to get truly rested. , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000983-4" qtype="when to contact a medical professional">Do I need to see a doctor for Coping with cancer - managing fatigue ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

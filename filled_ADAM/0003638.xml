@@ -1,0 +1,17 @@
+<Document id="0003638" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000018.htm">
+ 
+<Focus>Smashed fingers</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Finger(s) - smashed</Synonym>
+		<Synonym>Crushed digits</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003638-1" qtype="information">Do you have information about Smashed fingers</Question>
+			<Answer>Smashed fingers is an injury involving trauma to one or more fingers.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

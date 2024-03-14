@@ -1,0 +1,29 @@
+<Document id="0000162" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000489.htm">
+ 
+<Focus>Allergies, asthma, and pollen</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020517</CUI>
+			<CUI>C0004096</CUI>
+			<CUI>C0489531</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Allergic rhinitis - pollen</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000162-1" qtype="information">What is (are) Allergies, asthma, and pollen ?</Question>
+			<Answer>In people who have sensitive airways, allergy and asthma symptoms can be triggered by breathing in substances called allergens, or triggers. It is important to know your triggers because avoiding them is your first step toward feeling better. Pollen is a common trigger.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

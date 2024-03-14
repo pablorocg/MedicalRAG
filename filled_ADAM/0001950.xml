@@ -1,0 +1,59 @@
+<Document id="0001950" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000563.htm">
+ 
+<Focus>Hereditary elliptocytosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0427480</CUI>
+			<CUI>C0013902</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Elliptocytosis - hereditary</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001950-1" qtype="information">What is (are) Hereditary elliptocytosis ?</Question>
+			<Answer>Hereditary elliptocytosis is a disorder passed down through families in which the red blood cells are abnormally shaped. It is similar to other blood conditions such as  hereditary spherocytosis  and  hereditary ovalocytosis .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001950-2" qtype="causes">What causes Hereditary elliptocytosis ?</Question>
+			<Answer>Elliptocytosis affects about 1 in every 2,500 people of northern European heritage. It is more common in people of African and Mediterranean descent. You are more likely to develop this condition if someone in your family has had it.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001950-3" qtype="symptoms">What are the symptoms of Hereditary elliptocytosis ?</Question>
+			<Answer>Symptoms may include: Fatigue, Shortness of breath, Yellow skin and eyes (jaundice). May continue for a long time in a newborn. , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001950-4" qtype="exams and tests">How to diagnose Hereditary elliptocytosis ?</Question>
+			<Answer>An exam by your health care provider may show an  enlarged spleen . The following test results may help diagnose the condition: Bilirubin  level may be high., Blood smear may show elliptical red blood cells.,  Complete blood count  (CBC) may show anemia or signs of red blood cell destruction., Lactate dehydrogenase level may be high., Imaging of the gallbladder may show gallstones., </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001950-5" qtype="treatment">What are the treatments for Hereditary elliptocytosis ?</Question>
+			<Answer>There is no treatment needed for the disorder unless severe anemia or anemia symptoms occur. Surgery to remove the spleen may decrease the rate of red blood cell damage.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001950-6" qtype="outlook">What is the outlook for Hereditary elliptocytosis ?</Question>
+			<Answer>Most people with hereditary elliptocytosis have no problems. They often do not know they have the condition.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001950-7" qtype="complications">What are the complications of Hereditary elliptocytosis ?</Question>
+			<Answer>Elliptocytosis is often harmless. In mild cases, fewer than 15% of red blood cells are elliptical-shaped. However, some people may have crises in which the red blood cells rupture. This is more likely to happen when they have a viral infection. People with this disease can develop anemia, jaundice, and gallstones. </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001950-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hereditary elliptocytosis ?</Question>
+			<Answer>Contact your provider if you have jaundice that does not go away or symptoms of anemia or gallstones.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001950-9" qtype="prevention">How to prevent Hereditary elliptocytosis ?</Question>
+			<Answer>Genetic counseling may be appropriate for people with a family history of this disease who wish to become parents. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

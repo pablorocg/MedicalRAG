@@ -1,0 +1,43 @@
+<Document id="0004211" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000744.htm">
+ 
+<Focus>Venous ulcers - self-care</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0042344</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T020</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004211-1" qtype="information">What is (are) Venous ulcers - self-care ?</Question>
+			<Answer>Venous ulcers  (open sores) can occur when the veins in your legs do not push blood back up to your heart as well as they should. Blood backs up in the veins, building up pressure. If not treated, increased pressure and excess fluid in the affected area can cause an open sore to form. Most venous ulcers occur on the leg, above the ankle. This type of wound can be slow to heal.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004211-2" qtype="causes">What causes Venous ulcers - self-care ?</Question>
+			<Answer>The cause of venous ulcers is high pressure in the veins of the lower leg. The veins have one-way valves that keep blood flowing up toward your heart. When these valves become weak or the veins become scarred and blocked, blood can flow backward and pool in your legs. This is called  venous insufficiency . This leads to high pressure in the lower leg veins. The increase in pressure and buildup of fluid prevents nutrients and oxygen from getting to tissues. The lack of nutrients causes cells to die, damaging the tissue, and a wound can form.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004211-3" qtype="symptoms">What are the symptoms of Venous ulcers - self-care ?</Question>
+			<Answer>When blood pools in the veins of the lower leg, fluid and blood cells leak out into the skin and other tissues. This can cause itchy, thin skin and lead to skin changes called  stasis dermatitis . This is an early sign of venous insufficiency. Other early signs include: Leg swelling, heaviness, and cramping, Dark red, purple, brown, hardened skin (this is a sign that blood is pooling), Itching and tingling ,  Signs and symptoms of venous ulcers include: Shallow sore with a red base, sometimes covered by yellow tissue, Unevenly shaped borders, Surrounding skin may be shiny, tight, warm or hot, and discolored, Leg pain, If the sore becomes infected, it may have a bad odor and pus may drain from the wound , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004211-4" qtype="susceptibility">Who is at risk for Venous ulcers - self-care? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004211-6" qtype="prevention">How to prevent Venous ulcers - self-care ?</Question>
+			<Answer>If you are at risk for venous ulcers, take the steps listed above under Wound Care. Also, check your feet and legs every day: the tops and bottoms, ankles, and heels. Look for cracks and changes in skin color. Lifestyle changes can help prevent venous ulcers. The following measures may help improve blood flow and aid healing. Keep the skin of your lower legs well moisturized., Quit smoking. Smoking is bad for your blood vessels., If you have diabetes, keep your blood sugar level under control. This will help you heal faster., Exercise as much as you can. Staying active helps with blood flow., Eat healthy foods and get plenty of sleep at night., Lose weight if you are overweight., Manage your blood pressure and cholesterol levels. , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004211-7" qtype="when to contact a medical professional">Do I need to see a doctor for Venous ulcers - self-care ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

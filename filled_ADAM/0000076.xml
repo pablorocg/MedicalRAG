@@ -1,0 +1,60 @@
+<Document id="0000076" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000568.htm">
+ 
+<Focus>Acute cytomegalovirus (CMV) infection</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010825</CUI>
+			<CUI>C3714514</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T005</SemanticType>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CMV mononucleosis</Synonym>
+		<Synonym>Cytomegalovirus (CMV)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000076-1" qtype="information">What is (are) Acute cytomegalovirus (CMV) infection ?</Question>
+			<Answer>Cytomegalovirus (CMV) infection is a disease caused by a type of herpes virus.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000076-2" qtype="causes">What causes Acute cytomegalovirus (CMV) infection ?</Question>
+			<Answer>Infection with CMV is very common. The infection is spread by: Blood transfusions, Organ transplants, Respiratory droplets, Saliva, Sexual contact, Urine, Tears,  Most people come into contact with CMV in their lifetime. But usually, it's people with a weakened immune system, such as those with HIV/AIDS, who become ill from CMV infection. Some otherwise healthy people with CMV infection develop a mononucleosis-like syndrome. CMV is a type of herpes virus. All herpes viruses remain in your body for the rest of your life after infection. If your immune system becomes weakened in the future, this virus may have the chance to reactivate, causing symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000076-3" qtype="symptoms">What are the symptoms of Acute cytomegalovirus (CMV) infection ?</Question>
+			<Answer>Many people are exposed to CMV early in life, but do not realize it because they have no symptoms, or they have mild symptoms that resemble the common cold or flu. These may include: Enlarged lymph nodes, especially in the neck,  Fever ,  Fatigue ,  Loss of appetite ,  Malaise ,  Muscle aches , Rash, Sore throat,  CMV can cause infections in different parts of the body. Symptoms vary depending on the area that is affected. Examples of body areas that can be infected by CMV are: The  lungs , The  stomach or intestine , The back of the eye ( retina ), A baby while still in the womb ( congenital CMV ), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000076-4" qtype="exams and tests">How to diagnose Acute cytomegalovirus (CMV) infection ?</Question>
+			<Answer>Your health care provider will perform a physical exam and feel your belly area. Your liver or spleen may be enlarged or tender when they are gently pressed (palpated). You may have a skin rash. Special lab tests such as a  CMV DNA serum PCR test  may be done to check for presence of substances in your blood produced by CMV. Tests, such as a CMV antibody test, may be done to check the body's immune response to the CMV infection. Other tests may include: Blood tests for  platelets  and white blood cells,  Chemistry panel ,  Liver function tests ,  Mono spot test  (to distinguish from mononucleosis due to Epstein-Barr virus infection), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000076-5" qtype="treatment">What are the treatments for Acute cytomegalovirus (CMV) infection ?</Question>
+			<Answer>Most people recover in 4 to 6 weeks without medicine. Rest is needed, sometimes for a month or longer to regain full activity levels. Painkillers and warm salt-water gargles can help relieve symptoms. Antiviral medicines and antibody therapy are usually not used in people with healthy immune function, but may be used for people with an impaired immune system.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000076-6" qtype="outlook">What is the outlook for Acute cytomegalovirus (CMV) infection ?</Question>
+			<Answer>Outcome is good with treatment. The symptoms may be relieved in a few weeks to months.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000076-7" qtype="complications">What are the complications of Acute cytomegalovirus (CMV) infection ?</Question>
+			<Answer>Throat infection is the most common complication. Rare complications include: Colitis ,  Guillain-Barr&#233; syndrome , Nervous system (neurologic) complications,  Pericarditis  or  myocarditis ,  Pneumonia , Rupture of the spleen , Inflammation of liver (hepatitis), </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000076-8" qtype="when to contact a medical professional">Do I need to see a doctor for Acute cytomegalovirus (CMV) infection ?</Question>
+			<Answer>Contact your provider for an appointment if you have symptoms of CMV infection. Go to the emergency room or call 911 or the local emergency number if you have sharp, severe sudden pain in your left upper abdomen. This could be a sign of a ruptured spleen, which may require emergency surgery.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000076-9" qtype="prevention">How to prevent Acute cytomegalovirus (CMV) infection ?</Question>
+			<Answer>CMV infection can be contagious if the infected person comes in close or intimate contact with another person. You should avoid kissing and sexual contact with an infected person. The virus may also spread among young children in day care settings. When planning blood transfusions or organ transplants, the CMV status of the donor can be checked to avoid passing CMV to a recipient who has not had CMV infection.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

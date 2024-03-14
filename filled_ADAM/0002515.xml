@@ -1,0 +1,57 @@
+<Document id="0002515" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000404.htm">
+ 
+<Focus>Malnutrition</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162429</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Nutrition - inadequate</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002515-1" qtype="information">What is (are) Malnutrition ?</Question>
+			<Answer>Malnutrition is the condition that occurs when your body does not get enough nutrients.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002515-2" qtype="causes">What causes Malnutrition ?</Question>
+			<Answer>There are many types of malnutrition, and they have different causes. Some causes include: Poor diet, Starvation due to food not being available, Eating disorders, Problems with digesting food or absorbing nutrients from food (malabsorption), Certain medical conditions that make a person unable to eat ,  You may develop malnutrition if you lack a single vitamin in your diet. Lacking a vitamin or other nutrient is called a deficiency.  Sometimes malnutrition is very mild and causes no symptoms. Other times it can be so severe that the damage it does to the body is permanent, even though you survive. Poverty, natural disasters, political problems, and war can all contribute to malnutrition and starvation, and not just in developing countries. Some health conditions that are related to malnutrition are: Malabsorption ,  Hunger ,  Beriberi ,  Binge eating ,  Deficiency - Vitamin A ,  Deficiency - Vitamin B1 (thiamine) ,  Deficiency - Vitamin B2 (riboflavin) ,  Deficiency - Vitamin B6 (pyridoxine) ,  Deficiency - Vitamin B9 (folacin) ,  Deficiency - Vitamin E ,  Deficiency - Vitamin K ,  Eating disorders ,  Kwashiorkor , Megaloblastic anemia,  Pellagra ,  Rickets ,  Scurvy ,  Spina bifida ,  Malnutrition is a significant problem all over the world, especially among children. It is very harmful to children because it affects brain development and other growth. Children who suffer from malnutrition may have lifelong problems. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002515-3" qtype="symptoms">What are the symptoms of Malnutrition ?</Question>
+			<Answer>Symptoms of malnutrition vary and depend on its cause. General symptoms include fatigue, dizziness, and weight loss.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002515-4" qtype="exams and tests">How to diagnose Malnutrition ?</Question>
+			<Answer>Testing depends on the specific disorder. Most health care providers will do a nutritional assessment and blood work.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002515-5" qtype="treatment">What are the treatments for Malnutrition ?</Question>
+			<Answer>Treatment most often consists of: Replacing missing nutrients, Treating symptoms as needed, Treating any underlying medical condition, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002515-6" qtype="outlook">What is the outlook for Malnutrition ?</Question>
+			<Answer>The outlook depends on the cause of the malnutrition. Most nutritional deficiencies can be corrected. However, if malnutrition is caused by a medical condition, that illness has to be treated in order to reverse the nutritional deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002515-7" qtype="complications">What are the complications of Malnutrition ?</Question>
+			<Answer>If untreated, malnutrition can lead to mental or physical disability, illness, and possibly death.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002515-8" qtype="when to contact a medical professional">Do I need to see a doctor for Malnutrition ?</Question>
+			<Answer>Talk&#160;to your provider about the risk of malnutrition. Treatment is necessary if you or your child have any changes in the body's ability to function. Contact your provider if these symptoms develop: Fainting, Lack of menstruation, Lack of growth in children, Rapid hair loss, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002515-9" qtype="prevention">How to prevent Malnutrition ?</Question>
+			<Answer>Eating a well-balanced diet helps to prevent most forms of malnutrition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

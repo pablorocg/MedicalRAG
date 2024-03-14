@@ -1,0 +1,54 @@
+<Document id="0002576" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000680.htm">
+ 
+<Focus>Meningitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0025289</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002576-1" qtype="information">What is (are) Meningitis ?</Question>
+			<Answer>Meningitis is an infection of the membranes covering the brain and spinal cord. This covering is called the meninges.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002576-2" qtype="causes">What causes Meningitis ?</Question>
+			<Answer>The most common causes of meningitis are viral infections. These infections usually get better without treatment. But, bacterial meningitis infections are very serious. They may result in death or brain damage, even if treated. A lumbar puncture (or spinal tap) is required to determine the specific cause. Meningitis may also be caused by: Chemical irritation, Drug allergies, Fungi, Parasites, Tumors ,  Many types of viruses can cause meningitis: Enteroviruses: These are viruses that also can cause intestinal illness., Herpes viruses: These are the same viruses that can cause  cold sores  and  genital herpes . However, people with cold sores or genital herpes do not have a higher chance of developing herpes meningitis., HIV., Mumps virus.,  West Nile virus : This virus is spread by mosquito bites and is an important cause of viral meningitis in most of the United States. , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002576-3" qtype="symptoms">What are the symptoms of Meningitis ?</Question>
+			<Answer>Enteroviral meningitis occurs more often than bacterial meningitis and is milder. It usually occurs in the late summer and early fall. It most often affects children and adults under age 30. Symptoms may include: Headache, Sensitivity to light ( photophobia ), Slight fever, Upset stomach and diarrhea&#160;, Fatigue ,  Bacterial meningitis is an emergency. You will need immediate treatment in a hospital. Symptoms usually come on quickly, and may include: Fever and chills,  Mental status changes , Nausea and vomiting, Sensitivity to light, Severe headache, Stiff neck ,  Other symptoms that can occur with this disease: Agitation ,  Bulging fontanelles  in babies,  Decreased alertness , Poor feeding or irritability in children, Rapid breathing, Unusual posture, with the head and neck arched backward ( opisthotonos ) ,  You cannot tell if you have bacterial or viral meningitis by how you feel. Your health care provider must find out the cause. Go to a hospital emergency department right away if you think you have symptoms of meningitis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002576-4" qtype="exams and tests">How to diagnose Meningitis ?</Question>
+			<Answer>Your provider will examine you. This may show: Fast heart rate, Fever, Mental status changes, Stiff neck ,  If the provider thinks you have meningitis, a lumbar puncture ( spinal tap ) should be done to remove a sample of spinal fluid (cerebrospinal fluid, or CSF) for testing. Other tests that may be done include: Blood culture ,  Chest x-ray ,  CT scan of the head , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002576-5" qtype="treatment">What are the treatments for Meningitis ?</Question>
+			<Answer>Antibiotics are used to treat bacterial meningitis. Antibiotics&#160;do not&#160;treat viral meningitis. But antiviral medicine may be given to those with herpes meningitis. Other treatments will include: Fluids through a vein (IV), Medicines to treat symptoms, such as brain swelling,  shock , and  seizures , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002576-6" qtype="outlook">What is the outlook for Meningitis ?</Question>
+			<Answer>Early diagnosis and treatment of bacterial meningitis is essential to prevent permanent neurological damage. Viral meningitis is usually not serious, and symptoms should disappear within 2 weeks with no lasting complications.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002576-7" qtype="complications">What are the complications of Meningitis ?</Question>
+			<Answer>Without prompt treatment, meningitis may result in the following:  Brain or neurologic damage, Buildup of fluid between the skull and brain ( subdural effusion ),  Hearing loss , Buildup of fluid inside the skull that leads to brain swelling ( hydrocephalus ), Seizures, Death, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002576-8" qtype="when to contact a medical professional">Do I need to see a doctor for Meningitis ?</Question>
+			<Answer>If you think that you or your child has symptoms of meningitis, get emergency medical help immediately. Early treatment is key to a good outcome.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002576-9" qtype="prevention">How to prevent Meningitis ?</Question>
+			<Answer>Certain vaccines can help prevent some types of bacterial meningitis:  Haemophilus vaccine ( HiB vaccine ) given to children helps., Pneumococcal vaccine is given to  children  and  adults ., Meningococcal vaccine is given to  children and adults ; some communities hold vaccination campaigns after an outbreak of meningococcal meningitis. ,  Household members and others in close contact with people who have meningococcal meningitis should receive antibiotics to prevent becoming infected.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

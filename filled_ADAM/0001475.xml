@@ -1,0 +1,59 @@
+<Document id="0001475" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001302.htm">
+ 
+<Focus>Ewing sarcoma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1261473</CUI>
+			<CUI>C0553580</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ewing family of tumors</Synonym>
+		<Synonym>Primitive neuroectodermal tumors (PNET)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001475-1" qtype="information">What is (are) Ewing sarcoma ?</Question>
+			<Answer>Ewing sarcoma is a malignant  bone tumor  that forms in the bone or soft tissue. It affects mostly teens and young adults.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001475-2" qtype="causes">What causes Ewing sarcoma ?</Question>
+			<Answer>Ewing sarcoma can occur anytime during childhood and young adulthood. But it usually develops during puberty, when bones are growing rapidly. It is more common in White children than in Black or Asian children. The tumor may start anywhere in the body. Most often, it starts in the  long bones  of the arms and legs, the pelvis, or the chest. It can also develop in the skull or the  flat bones  of the trunk. The tumor often spreads ( metastasizes)  to the lungs and other bones. At the time of diagnosis, spread is seen in about one third of children with Ewing sarcoma.  In rare cases, Ewing sarcoma occurs in adults.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001475-3" qtype="symptoms">What are the symptoms of Ewing sarcoma ?</Question>
+			<Answer>There are few symptoms. The most common is pain and sometimes swelling at the site of the tumor. Children may also break a bone at the site of the tumor after a minor injury. Fever may also be present.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001475-4" qtype="exams and tests">How to diagnose Ewing sarcoma ?</Question>
+			<Answer>If a tumor is suspected, tests to locate the primary tumor and any spread (metastasis) often include: Bone scan ,  Chest x-ray ,  CT scan of the chest , MRI of the tumor, X-ray of the tumor,  A  biopsy  of the tumor will be done. Different tests are done on this tissue to help determine how aggressive the cancer is and what treatment may be best.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001475-5" qtype="treatment">What are the treatments for Ewing sarcoma ?</Question>
+			<Answer>Treatment often includes a combination of: Chemotherapy ,  Radiation therapy ,  Surgery  to remove the primary tumor,  Treatment depends on the following: Stage  of the cancer, Age and sex of the person, Results of the tests on the biopsy sample , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001475-6" qtype="support groups">Where to find support for people with Ewing sarcoma ?</Question>
+			<Answer>The stress of illness can be eased by joining a  cancer support group . Sharing with others who have common experiences and problems can help you not feel alone.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001475-7" qtype="outlook">What is the outlook for Ewing sarcoma ?</Question>
+			<Answer>Before treatment, outlook depends on: Whether the tumor has spread to distant parts of the body, Where in the body the tumor started, How large the tumor is when it's diagnosed, Whether the LDH level in the blood is higher than normal, Whether the tumor has certain gene changes, Whether the child is younger than 15 years, Child's sex, Whether the child has had treatment for a different cancer before Ewing sarcoma, Whether the tumor has just been diagnosed or has come back,  The best chance for cure is with a combination of treatments that includes chemotherapy plus radiation or surgery.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001475-8" qtype="complications">What are the complications of Ewing sarcoma ?</Question>
+			<Answer>The treatments needed to fight this disease have many complications. Discuss these with your health care provider.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001475-9" qtype="when to contact a medical professional">Do I need to see a doctor for Ewing sarcoma ?</Question>
+			<Answer>Call your provider if your child has any of the symptoms of Ewing sarcoma. An early diagnosis can increase the possibility of a favorable outcome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,17 @@
+<Document id="0004158" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000175.htm">
+ 
+<Focus>Using your shoulder after surgery</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Shoulder surgery - using your shoulder</Synonym>
+		<Synonym>Shoulder surgery - after</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004158-1" qtype="information">Do you have information about Using your shoulder after surgery</Question>
+			<Answer>You had surgery on your shoulder to repair a muscle, tendon, or cartilage tear. The surgeon may have removed damaged tissue. You will need to know how to take care of your shoulder as it heals, and how to make it stronger.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

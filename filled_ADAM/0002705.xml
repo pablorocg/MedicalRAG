@@ -1,0 +1,48 @@
+<Document id="0002705" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003190.htm">
+ 
+<Focus>Muscle function loss</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0517929</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Paralysis</Synonym>
+		<Synonym>Paresis</Synonym>
+		<Synonym>Loss of movement</Synonym>
+		<Synonym>Motor dysfunction</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002705-1" qtype="information">What is (are) Muscle function loss ?</Question>
+			<Answer>Muscle function loss is when a muscle does not work or move normally. The medical term for complete loss of muscle function is paralysis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002705-2" qtype="considerations">What to do for Muscle function loss ?</Question>
+			<Answer>Loss of muscle function may be caused by: A disease of the muscle itself (myopathy), A disease of the area where the muscle and nerve meet (neuromuscular junction), A disease of the nervous system: Nerve damage (neuropathy), spinal cord injury (myelopathy), or brain damage ( stroke  or other brain injury) ,  The loss of muscle function after these types of events can be severe. In some cases, muscle strength may not completely return, even with treatment. Paralysis can be temporary or permanent. It can affect a small area (localized or focal) or be widespread (generalized). It may affect one side (unilateral) or both sides (bilateral). If the paralysis affects the lower half of the body and both legs it is called paraplegia. If it affects both arms and legs, it is called quadriplegia. If the paralysis affects the muscles that cause breathing, it is quickly life-threatening.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002705-3" qtype="causes">What causes Muscle function loss ?</Question>
+			<Answer>Diseases of the muscles that cause muscle-function loss include: Alcohol-associated myopathy, Congenital myopathies (most often due to a genetic disorder),  Dermatomyositis  and  polymyositis , Drug-induced myopathy (statins, steroids),  Muscular dystrophy ,  Diseases of the nervous system that cause muscle function loss include: Amyotrophic lateral sclerosis  (ALS, or Lou Gehrig disease),  Bell palsy ,  Botulism ,  Guillain-Barr&#233; syndrome ,  Myasthenia gravis  or Lambert-Eaton Syndrome, Neuropathy, Paralytic  shellfish  poisoning, Periodic paralysis, Focal nerve injury,  Polio &#160;or other viruses,  Spinal cord or brain injury , Stroke , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002705-4" qtype="considerations">What to do for Muscle function loss ?</Question>
+			<Answer>Loss of muscle function may be caused by: A disease of the muscle itself (myopathy), A disease of the area where the muscle and nerve meet (neuromuscular junction), A disease of the nervous system: Nerve damage (neuropathy), spinal cord injury (myelopathy), or brain damage ( stroke  or other brain injury) ,  The loss of muscle function after these types of events can be severe. In some cases, muscle strength may not completely return, even with treatment. Paralysis can be temporary or permanent. It can affect a small area (localized or focal) or be widespread (generalized). It may affect one side (unilateral) or both sides (bilateral). If the paralysis affects the lower half of the body and both legs it is called paraplegia. If it affects both arms and legs, it is called quadriplegia. If the paralysis affects the muscles that cause breathing, it is quickly life-threatening.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002705-5" qtype="when to contact a medical professional">Do I need to see a doctor for Muscle function loss ?</Question>
+			<Answer>Muscle paralysis always requires immediate medical attention. If you notice gradual weakening or problems with a muscle, get medical attention as soon as possible.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002705-6" qtype="outlook">What is the outlook for Muscle function loss ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

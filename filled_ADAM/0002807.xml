@@ -1,0 +1,38 @@
+<Document id="0002807" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003209.htm">
+ 
+<Focus>Nightmares</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0028084</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002807-1" qtype="information">What is (are) Nightmares ?</Question>
+			<Answer>A nightmare is a bad dream that brings out strong feelings of fear, terror, distress, or  anxiety . </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002807-2" qtype="causes">What causes Nightmares ?</Question>
+			<Answer>Nightmares usually begin before age 10 and are most often considered a normal part of childhood. They tend to be more common in girls than boys. Nightmares may be triggered by seemingly routine events, such as starting at a new school, taking a trip, or a mild illness in a parent. Nightmares may continue into adulthood. They can be one way our brain deals with the stresses and fears of everyday life. One or more nightmares over a short period of time may be caused by: A major life event, such as the loss of a loved one or a traumatic event, Increased stress at home or work ,  Nightmares may also be triggered by: A new drug prescribed by your health care provider, Abrupt  alcohol withdrawal , Drinking too much alcohol, Eating just before going to bed, Illegal street drug use, Illness with a fever, Over-the-counter sleep aids and medicines, Stopping certain drugs, such as sleeping pills or opioid pain pills ,  Repeated nightmares may also be a sign of: Breathing disorder in sleep ( sleep apnea ),  Post-traumatic stress disorder  (PTSD), which can occur after you have seen or experienced a traumatic event that involved the threat of injury or death, More severe anxiety disorders or depression, Sleep disorder (for example,  narcolepsy  or  sleep terror disorder ) , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002807-3" qtype="considerations">What to do for Nightmares ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002807-4" qtype="when to contact a medical professional">Do I need to see a doctor for Nightmares ?</Question>
+			<Answer>Tell your provider if your nightmares started shortly after you began taking a new medicine. They will tell you if you should stop taking that medicine. DO NOT stop taking it before talking to your provider. For nightmares caused by street drugs or regular alcohol use, ask for advice from your provider on the safest and most effective way to quit. Also contact your provider if: You have nightmares more than once a week., Nightmares stop you from getting a good night's rest, or from keeping up with your daily activities for a long period., </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002807-5" qtype="outlook">What is the outlook for Nightmares ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

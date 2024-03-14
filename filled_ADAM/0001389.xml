@@ -1,0 +1,58 @@
+<Document id="0001389" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007636.htm">
+ 
+<Focus>Endometrial polyps</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1704273</CUI>
+			<CUI>C0156369</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Uterine polyps</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001389-1" qtype="information">What is (are) Endometrial polyps ?</Question>
+			<Answer>The endometrium is the lining of the inside of the womb (uterus). Overgrowth of this lining can create polyps. Polyps are fingerlike growths that attach to the wall of the uterus. They can be as small as a sesame seed or larger than a golf ball. There may be just one or many polyps.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001389-2" qtype="causes">What causes Endometrial polyps ?</Question>
+			<Answer>The exact cause of endometrial polyps in women is not known. They tend to grow when there is more of the hormone estrogen in the body. Most endometrial polyps are not cancerous but they can be cancerous or precancerous. The chance of cancer is higher if you are postmenopausal, on tamoxifen, or have heavy or irregular periods. Other factors that may increase the risk for endometrial polyps are: Obesity , Tamoxifen, a treatment for breast cancer, Postmenopausal hormone replacement therapy, Family history of Lynch syndrome or Cowden syndrome (genetic conditions that run in families),  Endometrial polyps are common in women between 20 to 40 years of age.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001389-3" qtype="symptoms">What are the symptoms of Endometrial polyps ?</Question>
+			<Answer>You may not have any symptoms of endometrial polyps. If you do have symptoms, they may include: Menstrual bleeding that is not regular or predictable, Long or heavy menstrual bleeding,  Bleeding between periods , Bleeding from the vagina after menopause, Trouble getting or staying pregnant ( infertility ), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001389-4" qtype="exams and tests">How to diagnose Endometrial polyps ?</Question>
+			<Answer>Your health care provider may perform these tests to find out if you have endometrial polyps: Transvaginal ultrasound ,  Hysteroscopy ,  Endometrial biopsy , Hysterosonogram: a specialized type of ultrasound in which fluid is put into the uterine cavity while an ultrasound is performed, Three-dimensional ultrasound, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001389-5" qtype="treatment">What are the treatments for Endometrial polyps ?</Question>
+			<Answer>Many polyps should be removed because of the small risk for cancer. Endometrial polyps are most often removed by a procedure called hysteroscopy. Sometimes, a  D and C  procedure (Dilation and Curettage) can be done to biopsy the endometrium and remove the polyp. This is less commonly used. Postmenopausal women who have polyps that are not causing symptoms may also consider watchful waiting. However, the polyp should be removed if it is causing vaginal bleeding.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001389-6" qtype="outlook">What is the outlook for Endometrial polyps ?</Question>
+			<Answer>In rare cases, polyps can return after treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001389-7" qtype="complications">What are the complications of Endometrial polyps ?</Question>
+			<Answer>Endometrial polyps may make it hard to get or stay pregnant.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001389-8" qtype="when to contact a medical professional">Do I need to see a doctor for Endometrial polyps ?</Question>
+			<Answer>Contact your provider if you have: Menstrual bleeding that is not regular or predictable, Long or heavy menstrual bleeding, Bleeding between periods, Bleeding from the vagina after menopause, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001389-9" qtype="prevention">How to prevent Endometrial polyps ?</Question>
+			<Answer>You cannot prevent endometrial polyps.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,59 @@
+<Document id="0003921" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000552.htm">
+ 
+<Focus>Thrombotic thrombocytopenic purpura</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0034150</CUI>
+			<CUI>C0034155</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>TTP</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003921-1" qtype="information">What is (are) Thrombotic thrombocytopenic purpura ?</Question>
+			<Answer>Thrombotic thrombocytopenic purpura (TTP) is a blood disorder in which platelet clumps form in small blood vessels. This leads to a low platelet count ( thrombocytopenia ).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003921-2" qtype="causes">What causes Thrombotic thrombocytopenic purpura ?</Question>
+			<Answer>This disease may be caused by problems with an enzyme (a type of protein) that is involved in blood clotting. This enzyme is called ADAMTS13. Absence of this enzyme results in platelet clumping. Platelets are particles in the blood that aid in blood clotting. As the platelets clump together, fewer platelets are available in the blood in other parts of the body to help with clotting. This can lead to bleeding under the skin. In some cases, the disorder is passed down through families (inherited). In these cases, people are born with naturally low levels of this enzyme. This condition also may be caused by: Cancer, Chemotherapy, Hematopoietic stem cell transplantation, HIV infection, Hormone replacement therapy and estrogens, Medicines (including ticlopidine, clopidogrel, quinine, and cyclosporine A), </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003921-3" qtype="symptoms">What are the symptoms of Thrombotic thrombocytopenic purpura ?</Question>
+			<Answer>Symptoms may include any of the following: Bleeding into the skin  or mucus membranes,  Confusion  ,  Fatigue , weakness,  Fever ,  Headache , Pale skin color or yellowish skin color,  Shortness of breath , Fast heart rate (over 100 beats per minute), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003921-4" qtype="exams and tests">How to diagnose Thrombotic thrombocytopenic purpura ?</Question>
+			<Answer>Tests that may be ordered include: 
+   ADAMTS 13 activity level,  Bilirubin ,  Blood smear ,  Complete blood count  (CBC),  Creatinine  level,  Lactate dehydrogenase  (LDH) level,  Platelet count ,  Urinalysis ,  Haptoglobin ,  Coombs test , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003921-5" qtype="treatment">What are the treatments for Thrombotic thrombocytopenic purpura ?</Question>
+			<Answer>You may have a treatment called plasma exchange. It removes your abnormal proteins in your plasma and replaces it with normal plasma from a healthy donor. Plasma is the liquid part of blood that contains blood cells and platelets. Plasma exchange also replaces the missing enzyme. The procedure is done as follows: First, you have your blood drawn as if donating blood., As the blood is passed through a machine that separates blood into its different parts, the abnormal plasma is removed and your blood cells are saved., Your blood cells are then combined with normal plasma from a donor, and then given back to you. ,  This treatment is repeated daily until blood tests show improvement. People who do not respond to this treatment or whose condition often returns may need to: Have surgery to remove their spleen, Get medicines that suppress the immune system, such as steroids or rituximab , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003921-6" qtype="outlook">What is the outlook for Thrombotic thrombocytopenic purpura ?</Question>
+			<Answer>Most people with TTP who undergo plasma exchange recover completely. But some people die of this disease, especially if it is not diagnosed right away. In people who do not recover, this condition can become long-term (chronic).</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003921-7" qtype="complications">What are the complications of Thrombotic thrombocytopenic purpura ?</Question>
+			<Answer>Complications may include: Kidney failure , Low platelet count (thrombocytopenia), Low red blood cell count (caused by the premature breakdown of red blood cells), Nervous system problems, Severe bleeding (hemorrhage),  Stroke , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003921-8" qtype="when to contact a medical professional">Do I need to see a doctor for Thrombotic thrombocytopenic purpura ?</Question>
+			<Answer>Contact your health care provider if you have any unexplained bleeding.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003921-9" qtype="prevention">How to prevent Thrombotic thrombocytopenic purpura ?</Question>
+			<Answer>Because the cause is unknown, there is no known way to prevent this condition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

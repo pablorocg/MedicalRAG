@@ -1,0 +1,53 @@
+<Document id="0002305" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001263.htm">
+ 
+<Focus>Knock knees</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0576093</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Genu valgum</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002305-1" qtype="information">What is (are) Knock knees ?</Question>
+			<Answer>Knock knees are condition in which the knees touch, but the ankles do not touch. The legs turn inward.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002305-2" qtype="causes">What causes Knock knees ?</Question>
+			<Answer>Infants start out with bowlegs because of their folded position while in their mother's womb. The legs begin to straighten once the child starts to walk (at about 12 to 18 months). By age 3, the child becomes knock-kneed. When the child stands, the knees touch but the ankles are apart. By puberty, the legs straighten out and most children can stand with the knees and ankles touching (without forcing the position). Knock knees can also develop as a result of a medical problem or disease, such as: Injury of the shinbone (only one leg will be knock-kneed),  Osteomyelitis  (bone infection), Overweight or obesity,  Rickets  (a disease caused by a lack of vitamin D) , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002305-3" qtype="exams and tests">How to diagnose Knock knees ?</Question>
+			<Answer>A health care provider will examine your child. Tests will be done if there are signs that knock knees are not a part of normal development. </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002305-4" qtype="treatment">What are the treatments for Knock knees ?</Question>
+			<Answer>Knock knees are not treated in most cases. If the problem continues after age 7, the child may use a night brace. This brace is attached to a shoe.  Surgery may be considered for knock knees that are severe and continue beyond late childhood. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002305-5" qtype="outlook">What is the outlook for Knock knees ?</Question>
+			<Answer>Children normally outgrow knock knees without treatment, unless it is caused by a disease.  If surgery is needed, the results are most often good.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002305-6" qtype="complications">What are the complications of Knock knees ?</Question>
+			<Answer>Complications may include: Difficulty walking (very rare), Self-esteem changes related to cosmetic appearance of knock knees, If left untreated, knock knees can lead to early arthritis of the knee , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002305-7" qtype="when to contact a medical professional">Do I need to see a doctor for Knock knees ?</Question>
+			<Answer>Contact your provider if you think your child has knock knees.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002305-8" qtype="prevention">How to prevent Knock knees ?</Question>
+			<Answer>There is no known prevention for normal knock knees.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

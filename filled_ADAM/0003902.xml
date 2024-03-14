@@ -1,0 +1,17 @@
+<Document id="0003902" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002401.htm">
+ 
+<Focus>Thiamin</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Vitamin B1</Synonym>
+		<Synonym>Thiamine</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003902-1" qtype="information">Do you have information about Thiamin</Question>
+			<Answer>Thiamin is one of the B vitamins. The B vitamins are a group of water-soluble vitamins that are part of many of the chemical reactions in the body.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

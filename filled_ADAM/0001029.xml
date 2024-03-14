@@ -1,0 +1,57 @@
+<Document id="0001029" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000788.htm">
+ 
+<Focus>Creutzfeldt-Jakob disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022336</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Transmissible spongiform encephalopathy</Synonym>
+		<Synonym>vCJD</Synonym>
+		<Synonym>CJD</Synonym>
+		<Synonym>Jacob-Creutzfeldt disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001029-1" qtype="information">What is (are) Creutzfeldt-Jakob disease ?</Question>
+			<Answer>Creutzfeldt-Jakob disease (CJD) is a form of brain damage that leads to a rapid decrease in movement and loss of mental function.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001029-2" qtype="causes">What causes Creutzfeldt-Jakob disease ?</Question>
+			<Answer>CJD is caused by a  protein  called a prion. A prion causes normal proteins to fold abnormally. This affects other proteins' ability to function. CJD is very rare. There are several types. The classic types of CJD are: Sporadic CJD  makes up most cases. It occurs for no known reason. It starts on average at age 65 years. Familial CJD  occurs when a person inherits the abnormal prion from a parent (this form of CJD is rare). Acquired CJD  includes variant CJD (vCJD), the form related to mad cow disease. Variant CJD is caused by eating infected meat. The infection that causes the disease in cows is thought to be the same one that causes vCJD in humans., Variant CJD causes less than 1% of all CJD cases. It tends to affect younger people. Fewer than 200 people worldwide have had this disease. Almost all cases occurred in England and France., Iatrogenic CJD is also an acquired form of the disease. Iatrogenic CJD is sometimes passed through a blood product transfusion, transplant, or contaminated surgical instruments.,  CJD may be related to several other diseases caused by prions, including: Chronic wasting disease (found in deer),  Kuru  (affected mostly women in New Guinea who ate the brains of dead relatives as part of a funeral ritual), Scrapie (found in sheep), Other very rare inherited human diseases, such as Gerstmann-Straussler-Scheinker disease and fatal familial insomnia , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001029-3" qtype="symptoms">What are the symptoms of Creutzfeldt-Jakob disease ?</Question>
+			<Answer>CJD symptoms may include any of the following: Dementia  that gets worse quickly over a few weeks or months, Blurred vision (sometimes),  Changes in gait  (walking),  Confusion , disorientation, Hallucinations (seeing or hearing things that aren't there), Lack of coordination (for example, stumbling and falling), Muscle stiffness, twitching, Feeling nervous, jumpy, Personality changes, Sleepiness, Sudden jerky movements or seizures, Trouble speaking , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001029-4" qtype="exams and tests">How to diagnose Creutzfeldt-Jakob disease ?</Question>
+			<Answer>Early in the disease, a nervous system and mental exam will show memory and thinking problems. Later in the disease, a motor system exam (to test muscle reflexes, strength, coordination, and other physical functions) may show: Abnormal reflexes or increased normal reflex responses, Increase in muscle tone, Muscle twitching and spasms, Strong startle response, Weakness and loss of muscle tissue ( muscle wasting ),  Loss of coordination occurs due to changes in the cerebellum. This is the area of the brain that controls coordination. An eye exam shows areas of blindness that the person may not notice. Tests used to diagnose this condition may include: Blood tests to rule out other forms of dementia and to look for markers that may occur with the disease,  CT scan of the brain ,  Electroencephalogram  (EEG),  MRI of the brain ,  Spinal tap  to test for the abnormal prion protein or for a protein called 14-3-3 in the spinal fluid,  The disease can only be confirmed with a brain biopsy or autopsy. Today, it is very rare for a brain biopsy to be done to look for this disease.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001029-5" qtype="treatment">What are the treatments for Creutzfeldt-Jakob disease ?</Question>
+			<Answer>There is no cure for this condition. Different medicines have been tried to slow the disease, but none works well. The goals of treatment include: Provide a safe environment, Control aggressive or agitated behavior, Make the person comfortable, Meet the person's needs,  This may require monitoring and assistance in the home or in a care facility. Family counseling may help the family cope with the changes needed for home care. People with this condition may need help controlling unacceptable or dangerous behaviors. This involves rewarding positive behaviors and ignoring negative behaviors (when it is safe). They may also need help getting oriented to their surroundings. Sometimes, medicines are needed to help control aggression. It is helpful for people with CJD and their family to seek legal advice early on.  Advance directive , power of attorney, and other legal actions can make it easier to make decisions about the care of the person with CJD.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001029-6" qtype="outlook">What is the outlook for Creutzfeldt-Jakob disease ?</Question>
+			<Answer>The outcome of CJD is very poor. People with sporadic CJD are unable to care for themselves within 6 months or less after symptoms begin. The disorder is fatal in a short time, usually within 8 months. People who have variant CJD get worse more slowly, but the condition is still fatal. A few people survive for as long as 1 or 2 years. The cause of death is usually infection, heart failure, or respiratory failure. The course of CJD is: Infection with the disease, Severe malnutrition, Dementia in some cases, Loss of ability to interact with others, Loss of ability to function or care for oneself, Death, </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001029-7" qtype="when to contact a medical professional">Do I need to see a doctor for Creutzfeldt-Jakob disease ?</Question>
+			<Answer>CJD is not a medical emergency. However, early diagnosis and treatment may make the symptoms easier to control, give patients time to make advance directives and prepare for the end of life, and give families extra time to come to terms with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001029-8" qtype="prevention">How to prevent Creutzfeldt-Jakob disease ?</Question>
+			<Answer>Medical equipment that may be contaminated should be removed from service and disposed of. People known to have CJD should not donate a cornea or other body tissue. Most countries now have strict guidelines for managing infected cows to avoid passing CJD to humans.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

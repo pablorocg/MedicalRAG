@@ -1,0 +1,59 @@
+<Document id="0001247" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001543.htm">
+ 
+<Focus>Disorder of written expression</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0236825</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Written expression disorder</Synonym>
+		<Synonym>Dysgraphia</Synonym>
+		<Synonym>Specific learning disorder with impairment in written expression</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001247-1" qtype="information">What is (are) Disorder of written expression ?</Question>
+			<Answer>Dysgraphia is a childhood learning disorder that involves poor writing skills. It is also called disorder of written expression.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001247-2" qtype="causes">What causes Disorder of written expression ?</Question>
+			<Answer>Dysgraphia is as common as other learning disorders. A child can have dysgraphia only or with other learning disabilities, such as: Developmental coordination disorder  (includes poor handwriting),  Expressive language disorder ,  Reading disorder ,  Attention deficit hyperactivity disorder (ADHD) , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001247-3" qtype="symptoms">What are the symptoms of Disorder of written expression ?</Question>
+			<Answer>Symptoms may include: Errors in grammar and punctuation, Poor handwriting, Poor spelling, Poorly organized writing , The need to say words aloud when writing, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001247-4" qtype="exams and tests">How to diagnose Disorder of written expression ?</Question>
+			<Answer>Other causes of learning disabilities must be ruled out before the diagnosis can be confirmed.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001247-5" qtype="treatment">What are the treatments for Disorder of written expression ?</Question>
+			<Answer>Special (remedial) education is the best approach to this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001247-6" qtype="outlook">What is the outlook for Disorder of written expression ?</Question>
+			<Answer>The degree of recovery depends on the severity of the disorder. Improvement is often seen after treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001247-7" qtype="complications">What are the complications of Disorder of written expression ?</Question>
+			<Answer>Complications that may occur include: Learning problems, Low self-esteem, Problems with socializing , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001247-8" qtype="when to contact a medical professional">Do I need to see a doctor for Disorder of written expression ?</Question>
+			<Answer>Parents who are concerned about their child's writing ability should have their child tested by educational professionals.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001247-9" qtype="prevention">How to prevent Disorder of written expression ?</Question>
+			<Answer>Learning disorders often run in families. Affected or potentially affected families should make every effort to recognize problems early. Intervention can begin as early as preschool or kindergarten.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

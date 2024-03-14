@@ -1,0 +1,44 @@
+<Document id="0001315" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003042.htm">
+ 
+<Focus>Ear discharge</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0155540</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Drainage from the ear</Synonym>
+		<Synonym>Otorrhea</Synonym>
+		<Synonym>Ear bleeding</Synonym>
+		<Synonym>Bleeding from ear</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001315-1" qtype="information">What is (are) Ear discharge ?</Question>
+			<Answer>Ear discharge is drainage of blood,  ear wax , pus, or fluid from the ear.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001315-2" qtype="causes">What causes Ear discharge ?</Question>
+			<Answer>Most of the time, any fluid leaking out of an ear is ear wax. A ruptured eardrum can cause a white, slightly bloody, or yellow discharge from the ear. Dry crusted material on a child's pillow is often a sign of a ruptured eardrum. The eardrum may also bleed. Causes of a ruptured eardrum include: Foreign object in the ear canal, Injury from a blow to the head, foreign object, very loud noises, or sudden pressure changes (such as in airplanes), Inserting cotton-tipped swabs or other small objects into the ear, Middle ear infection ,  Other causes of ear discharge include: Eczema  and other skin irritations in the ear canal,  Swimmer's ear &#160;with symptoms such as itching, scaling, a red or moist ear canal, and pain that increases when you move the earlobe , Normal ear wax, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001315-3" qtype="considerations">What to do for Ear discharge ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001315-4" qtype="when to contact a medical professional">Do I need to see a doctor for Ear discharge ?</Question>
+			<Answer>Contact your health care provider if: The discharge is white, yellow, clear, or bloody., The discharge is the result of an injury., The discharge has lasted more than 5 days., There is severe pain., The discharge is associated with other symptoms, such as fever or headache., There is loss of hearing., There is redness or swelling coming out of the ear canal. , Facial weakness or asymmetry, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001315-5" qtype="outlook">What is the outlook for Ear discharge ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,57 @@
+<Document id="0000503" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001474.htm">
+ 
+<Focus>Boils</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242301</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Furuncle</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000503-1" qtype="information">What is (are) Boils ?</Question>
+			<Answer>A boil is an infection that affects groups of hair follicles and nearby skin tissue. Related conditions include  folliculitis , an inflammation of one or more hair follicles, and  carbunculosis , a skin infection that often involves a group of hair follicles.&#160;</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000503-2" qtype="causes">What causes Boils ?</Question>
+			<Answer>Boils are very common. They are most often caused by the bacteria  Staphylococcus aureus . They can also be caused by other types of bacteria or fungi found on the skin's surface. Damage to the hair follicle allows the infection to grow deeper into the follicle and the tissues under it.  Boils may occur in the hair follicles anywhere on the body. They are most common on the face, neck, armpit, buttocks, and thighs. You may have one or many boils. The condition may occur only once or it can be a long-lasting (chronic) or recurring problem.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000503-3" qtype="symptoms">What are the symptoms of Boils ?</Question>
+			<Answer>A boil may begin as tender, pinkish-red, and swollen, on a firm area of the skin. Over time, it will feel like a water-filled balloon or  cyst . Pain gets worse as it fills with pus and dead tissue. Pain lessens when the boil drains. A boil may drain on its own. More often, the boil needs to be opened to drain. The main symptoms of a boil include: A bump about the size of a pea, but may be as large as a golf ball, White or yellow center ( pustules ), Spread to other skin areas or joining with other boils, Quick growth, Weeping, oozing, or crusting ,  Other symptoms may include: Fatigue , Fever, General ill-feeling, Itching before the boil develops, Skin redness around the boil, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000503-4" qtype="exams and tests">How to diagnose Boils ?</Question>
+			<Answer>The health care provider can usually diagnose a boil based on how it looks. A sample of cells from the boil may be sent to the lab for a  culture  to look for staphylococcus or other bacteria.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000503-5" qtype="treatment">What are the treatments for Boils ?</Question>
+			<Answer>Boils may heal on their own after a period of itching and mild pain. More often, they become more painful as pus builds up. Boils usually need to open and drain in order to heal. This most often happens within 2 weeks. You should: Put warm, moist, compresses on the boil several times a day to speed draining and healing., Never squeeze a boil or try to cut it open at home. This can spread the infection., Continue to put warm, wet, compresses on the area after the boil opens. ,  You may need to have surgery to drain deep or large boils. Get treatment from your provider if: You have a fever or other symptoms with the boil., The boil causes pain or discomfort.&#160;, You have a boil on your spine or the middle of your face., A boil lasts longer than 1 week., A boil comes back.,  It is important to keep a boil clean. To do this: Clean boils and change their dressing often., Wash your hands well before and after touching a boil., Do not reuse or share washcloths or towels. Wash clothing, washcloths, towels, and sheets or other items that have touched infected areas in hot water., Throw out used dressings in a sealed bag so that fluid from the boil does not touch anything else. ,  Your provider may give you antibiotics to take by mouth or a shot, if the boil is very bad or comes back. Antibacterial soaps and creams cannot help much once a boil has formed.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000503-6" qtype="outlook">What is the outlook for Boils ?</Question>
+			<Answer>Some people have repeated boil infections and are unable to prevent them.  Boils in areas such as the ear canal or nose can be very painful. Boils that form close together may expand and join, causing a condition called carbunculosis.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000503-7" qtype="complications">What are the complications of Boils ?</Question>
+			<Answer>These complications may occur: Abscess of the skin, spinal cord, brain, kidneys, or other organ, Brain infection,  Heart infection ,  Bone infection , Infection of the blood or tissues ( sepsis ), Spinal cord infection, Spread of infection to other parts of the body or skin surfaces, Permanent scarring, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000503-8" qtype="when to contact a medical professional">Do I need to see a doctor for Boils ?</Question>
+			<Answer>Contact your provider if boils: Appear on your face or spine, Occur along with a fever, red streaks coming out from the sore, a large build-up of fluid in the area, or other symptoms of infection, Cause pain or discomfort, Do not heal with home treatment within 1 week, Come back after treatment, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000503-9" qtype="prevention">How to prevent Boils ?</Question>
+			<Answer>The following may help prevent the spread of infection: Antibacterial soaps ,  Antiseptic (germ-killing) washes ,  Keeping clean&#160;(such as thorough hand washing) , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

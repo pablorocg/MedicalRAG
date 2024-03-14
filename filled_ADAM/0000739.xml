@@ -1,0 +1,65 @@
+<Document id="0000739" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000716.htm">
+ 
+<Focus>Cerebral palsy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007789</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Spastic paralysis</Synonym>
+		<Synonym>Paralysis - spastic</Synonym>
+		<Synonym>Spastic hemiplegia</Synonym>
+		<Synonym>Spastic diplegia</Synonym>
+		<Synonym>Spastic quadriplegia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000739-1" qtype="information">What is (are) Cerebral palsy ?</Question>
+			<Answer>Cerebral palsy (CP) is a group of disorders that involve the brain. This affects nervous system functions, such as movement, learning, hearing, seeing, and thinking. There are several different types of CP, including spastic, dyskinetic, ataxic, hypotonic, and mixed.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000739-2" qtype="causes">What causes Cerebral palsy ?</Question>
+			<Answer>CP is caused by injuries or abnormalities of the brain. Most of these problems occur as the baby grows in the womb. But they can happen at any time during the first 2 years of life, while the baby's brain is still developing. In some people with cerebral palsy, parts of the brain are injured due to a low level of oxygen ( hypoxia ) in those areas. It is not known why this occurs. Premature infants have a slightly higher risk of developing CP. It may also occur in early infancy as a result of certain conditions such as: Bleeding in the brain, Brain infections ( encephalitis ,  meningitis , herpes simplex infections),  Head injury , Infections in the mother during pregnancy ( rubella ), Untreated  jaundice , Injuries to the brain during the childbirth process , Exposure to toxins while developing (mercury),  In some cases, the cause of CP is never determined.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000739-3" qtype="symptoms">What are the symptoms of Cerebral palsy ?</Question>
+			<Answer>Symptoms of CP can be very different between people with this group of disorders. Symptoms may: Be very mild or very severe, Only involve one side of the body or both sides, Be more pronounced in either the arms or legs, or involve both the arms and legs ,  Symptoms are usually seen before a child is 2 years old. Sometimes symptoms begin as early as 3 months. Parents may notice that their child is delayed in reaching developmental stages such as sitting, rolling, crawling, or walking. There are several different types of cerebral palsy. Some people have a mix of symptoms. Spastic CP is the most common type. Symptoms include: Muscles that are very tight and do not stretch. They may tighten even more over time., Abnormal walk (gait) -- arms tucked in toward the sides, knees crossed or touching, legs make "scissors" movements, walk on the toes., Joints are tight and do not open all the way (called joint contracture)., Muscle weakness or loss of movement in a group of muscles (paralysis)., Symptoms may affect one arm or leg, one side of the body, both legs, or both arms and legs. ,  The following symptoms may occur in other types of CP: Abnormal movements (twisting, jerking, or writhing) of the hands, feet, arms, or legs while awake, which gets worse during periods of stress,  Tremors , Unsteady gait, Loss of coordination, Floppy muscles, especially at rest, and joints that move around too much ,  Other brain and nervous system symptoms may include: Learning disabilities are common, but intelligence can be normal, Speech problems (dysarthria), Hearing or vision problems,  Seizures , Pain, especially in adults, which can be difficult to manage ,  Eating and digestion symptoms: Difficulty sucking or feeding in infants, or chewing and swallowing in older children and adults, Vomiting or constipation ,  Other symptoms: Increased drooling, Slower than normal growth, Irregular breathing,  Urinary incontinence , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000739-4" qtype="exams and tests">How to diagnose Cerebral palsy ?</Question>
+			<Answer>Your health care provider will perform a full neurologic exam. In older people, testing cognitive function is also important. Other tests may be performed as needed, most often to rule out other disorders: Blood tests,  CT scan of the head , Cranial ultrasound (especially in pre-term infants), Electroencephalogram ( EEG ), Hearing screen,  MRI of the head , Vision testing , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000739-5" qtype="treatment">What are the treatments for Cerebral palsy ?</Question>
+			<Answer>There is no cure for CP. The goal of treatment is to help the person be as independent as possible. Treatment requires a team approach, including: Primary care provider, Dentist (dental check-ups are recommended around every 6 months), Social worker, Nurses, Occupational, physical, and speech therapists, Other specialists, including a neurologist, rehabilitation physician (physiatrist), pulmonologist, and gastroenterologist ,  Treatment is based on the person's symptoms and the need to prevent complications. Self and home care include: Getting enough food and nutrition, Keeping the home safe, Performing exercises recommended by the providers, Practicing proper bowel care (stool softeners, fluids, fiber, laxatives, regular bowel habits), Protecting the joints from injury ,  Putting the child in regular schools is recommended unless physical disabilities or mental development makes this impossible. Special education or schooling may help. The following may help with communication and learning: Glasses, Hearing aids, Muscle and bone braces, Walking aids, Wheelchairs ,  Physical therapy, occupational therapy, orthopedic help, or other treatments may also be needed to help with daily activities and care. Medicines may include: Anticonvulsants to prevent or reduce the frequency of seizures, Botulinum toxin to help with spasticity and drooling, Muscle relaxants to reduce tremors and spasticity ,  Surgery may be needed in some cases to: Control  gastroesophageal reflux , Cut certain nerves from the spinal cord to help with pain and spasticity, Place a pump for medicine administration into spinal canal, Place a feeding tube, Release joint contractures ,  Shockwave therapy to reduce spasticity is being investigated.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000739-6" qtype="support groups">Where to find support for people with Cerebral palsy ?</Question>
+			<Answer>Stress and burnout among parents and other caregivers of people with cerebral palsy is common. Seek support and more information from  organizations that specialize in CP .</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000739-7" qtype="outlook">What is the outlook for Cerebral palsy ?</Question>
+			<Answer>CP is a life-long disorder. Long-term care may be required. The disorder does not affect expected length of life. The amount of disability varies. Babies with mild CP may outgrow their symptoms. Many adults are able to live in the community, either independently or with different levels of help.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000739-8" qtype="complications">What are the complications of Cerebral palsy ?</Question>
+			<Answer>CP may lead to the following health problems: Bone thinning ( osteoporosis ),  Bowel obstruction , Hip  dislocation  and  arthritis  in the hip joint, Injuries from falls,  Pressure sores , Joint contractures,  Pneumonia  caused by choking, Poor nutrition, Reduced communication skills (sometimes), Reduced intellect (sometimes),  Scoliosis , Seizures (in about half of the people who are affected by cerebral palsy), Social stigma , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000739-9" qtype="when to contact a medical professional">Do I need to see a doctor for Cerebral palsy ?</Question>
+			<Answer>Contact your provider if symptoms of CP develop, especially if you know that an injury occurred during birth or early infancy.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0000739-10" qtype="prevention">How to prevent Cerebral palsy ?</Question>
+			<Answer>Getting the proper prenatal care may reduce the risk for some rare causes of CP. In most cases though, the injury causing the disorder is not preventable. Pregnant mothers with certain medical conditions may need to be followed in a high-risk prenatal clinic. Adults with CP should continue to follow-up with a neurologist to reduce the risk of late complications.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

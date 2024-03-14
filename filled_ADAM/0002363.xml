@@ -1,0 +1,30 @@
+<Document id="0002363" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000014.htm">
+ 
+<Focus>Leg amputation - discharge</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0586286</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002363-1" qtype="information">What is (are) Leg amputation - discharge ?</Question>
+			<Answer>You were in the hospital because all or part of your leg was removed. Your recovery time may vary depending on your overall health and any complications that may have occurred. This article gives you information on what to expect and how to care for yourself during your recovery.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002363-3" qtype="outlook">What is the outlook for Leg amputation - discharge ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002363-7" qtype="when to contact a medical professional">Do I need to see a doctor for Leg amputation - discharge ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

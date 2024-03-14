@@ -1,0 +1,57 @@
+<Document id="0000934" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000443.htm">
+ 
+<Focus>Compression fractures of the back</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0521169</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Vertebral compression fractures</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000934-1" qtype="information">What is (are) Compression fractures of the back ?</Question>
+			<Answer>Compression fractures of the back are broken vertebrae. Vertebrae are the bones of the spine.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000934-2" qtype="causes">What causes Compression fractures of the back ?</Question>
+			<Answer>Osteoporosis  is the most common cause of this type of fracture. Osteoporosis is a disease in which bones become fragile. In most cases, bone loses calcium and other minerals with age. Other causes of compression fractures may include: Trauma to the back, Tumors that spread to the bone from elsewhere, Tumors that start in the spine, such as multiple myeloma ,  Having many fractures of the vertebrae can lead to  kyphosis . This is a hump-like curvature of the spine.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000934-3" qtype="symptoms">What are the symptoms of Compression fractures of the back ?</Question>
+			<Answer>Compression fractures can occur suddenly. This can cause severe back pain.  The pain is most commonly felt in the middle or lower spine. It can also be felt on the sides or in the front of the spine., The pain is often sharp and "knife-like." Pain can be disabling, and take weeks to months to go away. ,  Compression fractures due to osteoporosis may cause no symptoms at first. Often, they are discovered when x-rays of the spine are done for other reasons. Over time, the following symptoms may occur: Back pain that starts slowly, and gets worse with walking, but is not felt when resting, Loss of height, as much as 6 inches (15 centimeters) over time, Stooped-over posture, or kyphosis, also called a dowager's hump ,  Pressure on the spinal cord from hunched over posture can, in rare cases, cause: Numbness ,  Tingling ,  Weakness , Difficulty walking, Loss of control of the bowel or bladder , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000934-4" qtype="exams and tests">How to diagnose Compression fractures of the back ?</Question>
+			<Answer>Your health care provider will perform a physical exam. This may show: A humpback, or kyphosis, Tenderness over the affected spinal bone or bones, Loss of height,  A  spine x-ray  may show at least 1 compressed vertebra that is shorter than the other vertebrae. Other tests that may be done include: A bone density test to evaluate for osteoporosis, A CT or MRI scan, if there is a concern that the fracture was caused by a tumor or severe trauma (such as a fall or car accident) or if there are symptoms of nerve damage, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000934-5" qtype="treatment">What are the treatments for Compression fractures of the back ?</Question>
+			<Answer>Most compression fractures are seen in older people with osteoporosis. These fractures often do not cause injury to the spinal cord. The condition is usually treated with medicines and calcium supplements to prevent further fractures.  Pain may be treated with:  Pain medicine, Bed rest ,  Other treatments may include:  Back braces, but these may further weaken the bones and increase the risk for more fractures, Physical therapy to improve movement and strength around the spine, A medicine called calcitonin to help relieve bone pain ,  Surgery may be done if you have severe and disabling pain for more than 2 months that does not get better with other treatments. Surgery can include:  Balloon kyphoplasty ,  Vertebroplasty ,  Spinal fusion ,  Other surgery may be done to remove bone if the fracture is due to a tumor.  After surgery you may need:  A brace for 6 to 10 weeks if the fracture was due to an injury., More surgery to join spine bones together or to relieve pressure on a nerve., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000934-6" qtype="outlook">What is the outlook for Compression fractures of the back ?</Question>
+			<Answer>Most compression fractures due to injury heal in 8 to 10 weeks with rest, wearing of a brace, and pain medicines. However, recovery can take much longer if surgery was done. You will lose some height and have a more bent back. Fractures due to osteoporosis often become less painful with rest and pain medicines. Some fractures, though, can lead to long-term (chronic) pain and disability. Medicines to treat osteoporosis can help prevent future fractures. However, medicines cannot reverse damage that has already occurred. For compression fractures caused by tumors, the outcome depends on the type of tumor involved. Tumors that involve the spine include: Breast cancer, Lung cancer, Lymphoma, Prostate cancer, Multiple myeloma, Hemangioma, </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000934-7" qtype="complications">What are the complications of Compression fractures of the back ?</Question>
+			<Answer>Complications may include: Failure of the bones to fuse after surgery, Humpback, Spinal cord or nerve root compression , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000934-8" qtype="when to contact a medical professional">Do I need to see a doctor for Compression fractures of the back ?</Question>
+			<Answer>Contact your provider if: You have back pain and you think you may have a compression fracture., Your symptoms are getting worse, or you have problems controlling your bladder and bowel function. , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000934-9" qtype="prevention">How to prevent Compression fractures of the back ?</Question>
+			<Answer>Taking steps to  prevent and treat osteoporosis  is the most effective way to prevent compression or insufficiency fractures. Getting regular load-bearing exercise (such as walking) can help you avoid bone loss. Women should have their bone density checked at age 65, or earlier if you are at increased risk for osteoporosis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

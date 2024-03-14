@@ -1,0 +1,59 @@
+<Document id="0001552" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007657.htm">
+ 
+<Focus>Fatty liver - nonalcoholic</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0015695</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Fatty liver</Synonym>
+		<Synonym>Steatosis</Synonym>
+		<Synonym>Nonalcoholic steatohepatitis</Synonym>
+		<Synonym>NASH</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001552-1" qtype="information">What is (are) Fatty liver - nonalcoholic ?</Question>
+			<Answer>Nonalcoholic fatty liver disease (NAFLD) is the buildup of fat in the liver that is not caused by drinking too much alcohol. People who have it do not have a history of heavy drinking. NAFLD is usually but not always related to being overweight. For many people, NAFLD causes no symptoms or problems. A more severe form of the disease is called non-alcoholic steatohepatitis (NASH). NASH can cause  cirrhosis  and liver failure. It can also cause  liver cancer .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001552-2" qtype="causes">What causes Fatty liver - nonalcoholic ?</Question>
+			<Answer>NAFLD is the result of more than normal deposits of fat in the liver. Things that may put you at risk include any of the following: Being overweight or  obese . The more overweight you are, the higher the risk.,  Prediabetes  (insulin resistance).,  Type 2 diabetes .
+  ,  High cholesterol .
+  , High triglycerides., 
+  High blood pressure. ,  Other risk factors may include: Rapid weight loss and poor diet,  Gastric bypass surgery , Bowel disease, Certain medicines, such as calcium channel blockers and some cancer medicines,  NAFLD also occurs in people who have no known risk factors.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001552-3" qtype="symptoms">What are the symptoms of Fatty liver - nonalcoholic ?</Question>
+			<Answer>People with NAFLD often have no symptoms. When symptoms occur, the most common include: Fatigue, Pain in the upper right abdomen ,  In people with NASH who have  liver damage  (cirrhosis), symptoms may include: Weakness, Loss of appetite, Nausea, Yellow skin and eyes (jaundice), Itching, Fluid buildup and swelling in the legs and abdomen, Mental confusion, GI bleeding , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001552-4" qtype="exams and tests">How to diagnose Fatty liver - nonalcoholic ?</Question>
+			<Answer>NAFLD is often found during  routine blood tests  that are used to see how well the liver is working. You may have the following tests to measure liver function: Complete blood count ,  Prothrombin time ,  Blood albumin level , Serum transaminases,  Your health care provider may order certain imaging tests, including: Ultrasound to confirm a diagnosis of NAFLD,  MRI  and  CT scan , Fibroscan (elastography),  A  liver biopsy  is needed to confirm a diagnosis of NASH, the more severe form of NAFLD.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001552-5" qtype="treatment">What are the treatments for Fatty liver - nonalcoholic ?</Question>
+			<Answer>There is no specific treatment for NAFLD. The goal is to manage your risk factors and any health conditions. Your provider will help you understand your condition and the healthy choices that can help you take care of your liver. These may include: Losing weight if you are overweight., Eating a healthy diet that is low in salt., Not drinking alcohol., Staying physically active., Managing health conditions such as  diabetes  and high blood pressure., Getting vaccinated for diseases such as  hepatitis A  and  hepatitis B ., Lowering your cholesterol and triglyceride levels., Taking medicines as directed. Talk to your provider about all medicines you take, including herbs and supplements and over-the-counter medicines.,  Losing weight and managing diabetes can slow or sometimes reverse the deposit of fat in the liver.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001552-6" qtype="outlook">What is the outlook for Fatty liver - nonalcoholic ?</Question>
+			<Answer>Many people with NAFLD have no health problems and do not go on to develop NASH. Losing weight and making healthy lifestyle choices can help prevent more serious problems.  It is unclear why some people develop NASH. NASH can lead to  cirrhosis .</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001552-7" qtype="when to contact a medical professional">Do I need to see a doctor for Fatty liver - nonalcoholic ?</Question>
+			<Answer>Most people with NAFLD do not know they have it. See your provider if you begin to have unusual symptoms such as fatigue or abdominal pain.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001552-8" qtype="prevention">How to prevent Fatty liver - nonalcoholic ?</Question>
+			<Answer>To help prevent NAFLD: Maintain a healthy weight., Eat a healthy diet., Exercise regularly., Limit alcohol consumption., Use medicines properly., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

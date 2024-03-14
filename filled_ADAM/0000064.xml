@@ -1,0 +1,59 @@
+<Document id="0000064" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001248.htm">
+ 
+<Focus>Acrodysostosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220659</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Arkless-Graham</Synonym>
+		<Synonym>Acrodysplasia</Synonym>
+		<Synonym>Maroteaux-Malamut</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000064-1" qtype="information">What is (are) Acrodysostosis ?</Question>
+			<Answer>Acrodysostosis is an extremely rare disorder that is present at birth (congenital). It leads to problems&#160;with the bones of the hands, feet, and nose, and intellectual disability.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000064-2" qtype="causes">What causes Acrodysostosis ?</Question>
+			<Answer>Most people with acrodysostosis have no family history of the disease. However, sometimes the condition is passed down from parent to child. Parents with the condition have a 1 in 2 chance of passing the disorder to their children. There is a slightly greater risk with fathers who are older.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000064-3" qtype="symptoms">What are the symptoms of Acrodysostosis ?</Question>
+			<Answer>Symptoms of this disorder include: Frequent middle  ear infections , Growth problems, short arms and legs, Hearing problems, Intellectual disability, The body doesn't respond to certain hormones, even though hormone levels are normal, Distinct facial features , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000064-4" qtype="exams and tests">How to diagnose Acrodysostosis ?</Question>
+			<Answer>The health care provider can usually diagnose this condition with a physical exam. This may show any of the following: Advanced bone age, Bone deformities in hands and feet, Delays in growth, Problems with the skin, genitals, teeth, and skeleton, Short arms and legs with small hands and feet, Short head, measured front to back, Short height, Small, upturned broad nose with flat bridge, Distinct features of the face (short nose, open mouth, jaw that sticks out), Unusual head, Wide-spaced eyes, sometimes with extra skin fold at corner of eye ,  In the first months of life, x-rays may show spotty calcium deposits, called stippling, in bones (especially the nose). Infants may also have: Abnormally short fingers and toes, Early growth of bones in the hands and feet, Short bones, Shortening of the forearm bones near the wrist ,  Two genes have been linked with this condition, and genetic testing may be done.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000064-5" qtype="treatment">What are the treatments for Acrodysostosis ?</Question>
+			<Answer>Treatment depends on the symptoms. Hormones, such as growth hormone, may be given. Surgery to treat bone problems may be done.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000064-6" qtype="outlook">What is the outlook for Acrodysostosis ?</Question>
+			<Answer>Problems depend on the degree of skeletal involvement and  intellectual disability . In general, people do well.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000064-7" qtype="complications">What are the complications of Acrodysostosis ?</Question>
+			<Answer>Acrodysostosis may lead to: Learning disability,  Arthritis ,  Carpal tunnel syndrome , Worsening range of movement in the spine, elbows, and hands , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000064-8" qtype="when to contact a medical professional">Do I need to see a doctor for Acrodysostosis ?</Question>
+			<Answer>Contact your child's provider if signs of acrodystosis develop. Make sure your child's height and weight are measured during each well-child visit. The provider may refer you to: A genetic professional for a full evaluation and chromosome studies, A pediatric endocrinologist for management of your child's growth problems, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000064-9" qtype="prevention">How to prevent Acrodysostosis ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

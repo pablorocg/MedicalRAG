@@ -1,0 +1,44 @@
+<Document id="0001891" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003094.htm">
+ 
+<Focus>Heat intolerance</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0231274</CUI>
+			<CUI>C2107732</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sensitivity to heat</Synonym>
+		<Synonym>Intolerance to heat</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001891-1" qtype="information">What is (are) Heat intolerance ?</Question>
+			<Answer>Heat intolerance is a feeling of being overheated when the temperature around you rises. It can often cause heavy sweating. Heat intolerance usually comes on slowly and lasts for a long time, but it may also occur quickly and be due to a serious illness.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001891-2" qtype="causes">What causes Heat intolerance ?</Question>
+			<Answer>Heat intolerance may be caused by different factors: Some types of medicines may make you less tolerant to heat. Not all medicines will affect everyone the same. If you have questions about any medicines you take, contact your health care provider. The types of medicines that may increase your risk include: Antihistamines, Amphetamines or other stimulants, including those found in drugs that suppress your appetite, Antibiotics, Antidepressants, Antipsychotic medicines, Blood pressure medicines, Cholesterol medicines (statins), Decongestants, Diabetes medicines, Overactive bladder medicines, Pain relievers (non-steroidal anti-inflammatories), Parkinson medicines,  Certain health conditions may make you less tolerant to heat. This can be due to the condition itself or any medicine you may take to manage it: Cystic fibrosis, Diabetes, Cardiovascular disease, Graves disease, Mental illness, Multiple sclerosis, Obesity, Too much thyroid hormone ( thyrotoxicosis ),  Other issues and conditions can make you more likely to have heat intolerance. These include: Alcohol use, Bacterial or viral infection, Having had heat exhaustion or heat stroke before, Illegal drug use (opioids, cocaine, methamphetamines), Lack of physical fitness,  Menopause , Pregnancy,  Age can also be a factor. Young children and older adults are less able to adjust to temperature extremes. Older adults are also more likely to be taking medicine that increases the risk for heat intolerance.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001891-3" qtype="considerations">What to do for Heat intolerance ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001891-4" qtype="when to contact a medical professional">Do I need to see a doctor for Heat intolerance ?</Question>
+			<Answer>Contact your health care provider if you have unexplained heat intolerance.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001891-5" qtype="outlook">What is the outlook for Heat intolerance ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

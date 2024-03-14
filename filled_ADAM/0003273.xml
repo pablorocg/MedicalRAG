@@ -1,0 +1,54 @@
+<Document id="0003273" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000351.htm">
+ 
+<Focus>Pseudotumor cerebri</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0033845</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Idiopathic intracranial hypertension</Synonym>
+		<Synonym>Benign intracranial hypertension</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003273-1" qtype="information">What is (are) Pseudotumor cerebri ?</Question>
+			<Answer>Idiopathic intracranial hypertension&#160;(IIH) is a condition in which the pressure inside the skull is increased. The brain is affected in a way that the condition appears to be, but is not, a tumor.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003273-2" qtype="causes">What causes Pseudotumor cerebri ?</Question>
+			<Answer>The condition occurs more often in women than men, especially in young obese women 20 to 40 years old. It is rare in infants, but can occur in children. Before puberty, it occurs equally in boys and girls. The cause is unknown. Certain medicines can increase the risk of developing this condition. These medicines include: Amiodarone, Birth control pills such as levonorgestrel (Norplant), Cyclosporine, Cytarabine, Growth hormone, Isotretinoin, Levothyroxine (children), Lithium carbonate, Minocycline, Nalidixic acid, Nitrofurantoin, Phenytoin, Steroids (starting or stopping them), Sulfa antibiotics, Tamoxifen, Tetracycline, Certain drugs that contain Vitamin A, such as cis-retinoic acid (Accutane),  The following factors are also related to this condition: Down syndrome, Behcet disease,  Chronic kidney failure , Endocrine (hormone) disorders such as  Addison disease ,  Cushing disease ,  hypoparathyroidism ,  polycystic ovary syndrome , Following treatment (embolization) of an  arteriovenous malformation , Infectious diseases such as HIV/AIDS, Lyme disease, following chickenpox in children, Iron deficiency anemia, Obesity, Obstructive sleep apnea, Pregnancy , Sarcoidosis (inflammation of the lymph nodes, lungs, liver, eyes, skin, or other tissues),  Systemic lupus erythematosis ,  Turner syndrome , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003273-3" qtype="symptoms">What are the symptoms of Pseudotumor cerebri ?</Question>
+			<Answer>Symptoms may include any of the following: Headaches, throbbing, daily, irregular and worse in the morning, Neck pain, Blurred vision, Buzzing sound in the ears (tinnitus), Dizziness,  Double vision  (diplopia), Nausea, vomiting, Vision problems such as flashing or even loss of vision, Low back pain, radiating along both legs,  Headaches may get worse during physical activity, especially when you tighten the stomach muscles during coughing or straining.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003273-4" qtype="exams and tests">How to diagnose Pseudotumor cerebri ?</Question>
+			<Answer>The health care provider will perform a physical exam. Signs of this condition include: Bulging anterior fontanelle  in infants, Increased head size in infants, Swelling of the optic nerve in the back of the eye (papilledema), Inward turning of the eye toward the nose (sixth cranial, or abducens, nerve palsy),  Even though there is increased pressure in the skull, there is no change in alertness. Tests that may be done include: Funduscopic examination,  CT scan of the head , Eye exam, including  visual field  testing,  MRI of the head  with MR venography,  Lumbar puncture  (spinal tap) ,  Diagnosis is made when other health conditions are ruled out. These include conditions that may cause increased pressure in the skull, such as: Hydrocephalus , Tumor, Venous sinus thrombosis , Infection, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003273-5" qtype="treatment">What are the treatments for Pseudotumor cerebri ?</Question>
+			<Answer>Treatment is aimed at the cause of IIH. The main goal of treatments is to preserve vision and reduce the severity of headaches. A  lumbar puncture &#160;(spinal tap) can help relieve pressure in the brain and prevent vision problems.&#160;Repeat lumbar punctures are helpful for pregnant women in order to delay surgery until after delivery. Other treatments may include: Fluid or salt restriction, Medicines such as corticosteroids, acetazolamide, furosemide, and topiramate, Shunting procedures to relieve pressure from spinal fluid buildup, Surgery to relieve pressure on the optic nerve, Weight loss , Treatment of the underlying disease, such as vitamin A overdose,  People will need to have their vision closely monitored. There can be vision loss, which is sometimes permanent. Follow-up MRI or CT scans may be done to rule out problems such as tumors or hydrocephalus (buildup of fluid inside the skull). In some cases, the pressure inside the brain remains high for many years. Symptoms can return in some people. A small number of people have symptoms that slowly get worse and lead to blindness.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003273-6" qtype="outlook">What is the outlook for Pseudotumor cerebri ?</Question>
+			<Answer>The condition sometimes disappears on its own within 6 months. Symptoms can return in some people. A small number of people have symptoms that slowly get worse and lead to blindness.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003273-7" qtype="complications">What are the complications of Pseudotumor cerebri ?</Question>
+			<Answer>Vision loss is a serious complication of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003273-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pseudotumor cerebri ?</Question>
+			<Answer>Contact your provider if you or your child has any of the symptoms listed above.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

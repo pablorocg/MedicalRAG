@@ -1,0 +1,50 @@
+<Document id="0001236" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000168.htm">
+ 
+<Focus>Dilated cardiomyopathy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007193</CUI>
+			<CUI>C0878544</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cardiomyopathy - dilated</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001236-1" qtype="information">What is (are) Dilated cardiomyopathy ?</Question>
+			<Answer>Cardiomyopathy is disease in which the heart muscle becomes weakened, stretched, or has another structural problem. Dilated cardiomyopathy is a condition in which the heart muscle becomes weakened and enlarged. As a result, the heart cannot pump enough blood to the rest of the body. There are many types of cardiomyopathy. Dilated cardiomyopathy is the most common form, but it may be the result of different underlying conditions. Some health care providers use the term to indicate a specific condition, called idiopathic dilated cardiomyopathy. There is no known cause for this type of dilated cardiomyopathy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001236-2" qtype="causes">What causes Dilated cardiomyopathy ?</Question>
+			<Answer>The most common causes of dilated cardiomyopathy are: Heart disease caused by a narrowing or blockage in the coronary arteries, Poorly controlled high blood pressure,  There are many other causes of dilated cardiomyopathy, including: Alcohol or cocaine (or other illegal drug) abuse, Diabetes, thyroid disease, or hepatitis, Medicines that can be toxic to the heart, such as drugs used to treat cancer, Abnormal heart rhythms in which the heart beats very fast for a long period of time,  Autoimmune illnesses , Conditions that run in families,  Infections that involve the heart muscle , Heart valves that are either too narrow or too leaky, During the last month of pregnancy, or  within 5 months after the baby is born , Exposure to heavy metals such as lead, arsenic, cobalt, or mercury,  This condition can affect anyone at any age. However, it is most common in adult men.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001236-3" qtype="symptoms">What are the symptoms of Dilated cardiomyopathy ?</Question>
+			<Answer>Symptoms of heart failure are most common. They most often develop slowly over time. However, sometimes symptoms start very suddenly and may be severe. Common symptoms are: Chest pain or pressure (more likely with exercise), Cough, Fatigue, weakness, faintness, Irregular or rapid pulse, Loss of appetite,  Shortness of breath  with activity or after lying down (or being asleep) for a while,  Swelling of feet  and ankles, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001236-4" qtype="exams and tests">How to diagnose Dilated cardiomyopathy ?</Question>
+			<Answer>During the exam, the health care provider may find: The heart is enlarged., Lung crackles (a sign of fluid buildup), heart murmur, or other abnormal sounds., The liver is possibly enlarged., Neck veins may be bulging.,  A number of laboratory tests may be done to determine the cause: Antinuclear antibody ( ANA ), erythrocyte sedimentation rate ( ESR ), and other tests to diagnose autoimmune illnesses, Antibody test to identify infections such as Lyme disease and HIV, Iron tests of the blood, Serum  TSH  and  T4  test to identify thyroid problems, Tests for  amyloidosis  (blood, urine) ,  Heart enlargement or other problems with the structure and function of the heart (such as weak squeezing) may show up on these tests. They may also help diagnose the exact cause of the problem: Echocardiogram  (ultrasound of the heart),  Cardiac stress tests ,  Chest x-ray ,  Coronary angiogram  to look at blood flow to the heart, Cardiac catheterization to measure pressures in and around the heart,  CT scan of the heart ,  MRI of the heart ,  Nuclear heart scan  (scintigraphy, MUGA, RNV, PET scan),  Heart biopsy , in which a small piece of heart muscle is removed, may be needed depending on the cause. However, this is rarely done.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001236-5" qtype="treatment">What are the treatments for Dilated cardiomyopathy ?</Question>
+			<Answer>Things you can do at home to take care of your condition include: Know your body, and watch for symptoms that your  heart failure  is getting worse., Watch for changes in your symptoms, heart rate, pulse, blood pressure, and weight., Limit  how much you drink  and  how much salt (sodium)  you get in your diet.,  Most people who have  heart failure need to take medicines . Some medicines treat your symptoms. Others may help prevent your heart failure from becoming worse, or may prevent other heart problems. Procedures and surgeries you may need include: A pacemaker to help treat slow heart rates or help your heartbeat stay in sync, A defibrillator that recognizes life-threatening heart rhythms and sends an electrical pulse (shock) to stop them,  Heart bypass  (CABG) surgery or angioplasty to improve blood flow to the damaged or weakened heart muscle, Valve replacement or repair,  For advanced cardiomyopathy: A heart transplant may be recommended if standard treatments have not worked and heart failure symptoms are very severe., Placement of a  ventricular assist device  or artificial heart may be considered.,  Chronic heart failure becomes worse over time. Many people who have heart failure will die from the condition. Thinking about the type of  care you may want at the end of life  and discussing these issues with loved ones and your health care provider is important.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001236-6" qtype="outlook">What is the outlook for Dilated cardiomyopathy ?</Question>
+			<Answer>Heart failure is most often a chronic illness, which may get worse over time. Some people develop severe heart failure, in which medicines, other treatments, and surgery no longer help. Many people are at risk for deadly heart rhythms, and may need medicines or a defibrillator.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001236-7" qtype="when to contact a medical professional">Do I need to see a doctor for Dilated cardiomyopathy ?</Question>
+			<Answer>Contact your provider if you have symptoms of cardiomyopathy. Get emergency medical help right away if you have chest pain, palpitations or fainting.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

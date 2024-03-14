@@ -1,0 +1,60 @@
+<Document id="0001271" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007327.htm">
+ 
+<Focus>Double inlet left ventricle</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0344622</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DILV</Synonym>
+		<Synonym>Single ventricle</Synonym>
+		<Synonym>Common ventricle</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001271-1" qtype="information">What is (are) Double inlet left ventricle ?</Question>
+			<Answer>Double inlet left ventricle (DILV) is a heart defect that is present from birth (congenital). It affects the valves and chambers of the heart. Babies born with this condition have only one working pumping chamber (ventricle) in their heart.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001271-2" qtype="causes">What causes Double inlet left ventricle ?</Question>
+			<Answer>DILV is one of several heart defects known as single (or common) ventricle defects. People with DILV have a large left ventricle and a small right ventricle. The left ventricle is the pumping chamber of the heart that sends oxygen-rich blood to the body. The right ventricle is the pumping chamber that sends oxygen-poor blood to the lungs. In the normal heart, the right and left ventricles receive blood from the right and left atria. The atria are upper chambers of the heart. Oxygen-poor blood returning from the body flows to the right atrium and right ventricle. The right ventricle then pumps blood to the pulmonary artery. This is the blood vessel that carries blood to the lungs to pick up oxygen. Blood with fresh oxygen returns to the left atrium and left ventricle. The aorta then carries oxygen-rich blood to the rest of the body from the left ventricle. The aorta is the major artery leading out of the heart. In people with DILV, only the left ventricle is developed. Both atria empty blood into this ventricle. This means that oxygen-rich blood mixes with oxygen-poor blood. The mixture is then pumped to both the body and the lungs. DILV can happen if the large blood vessels arising from the heart are in the wrong positions. The aorta arises from the small right ventricle and the pulmonary artery arises from the left ventricle. It can also occur when the arteries are in normal positions and arise from the usual ventricles. In this case, blood flows from the left to right ventricle through a hole between the chambers called a  ventricular septal defect  (VSD).  DILV is very rare. The exact cause is unknown. The problem most likely occurs early in the pregnancy, when the baby's heart develops. People with DILV often also have other heart problems, such as: Coarctation of the aorta  (narrowing of the aorta),  Pulmonary atresia  (pulmonary valve of the heart is not formed properly),  Pulmonary valve stenosis  (narrowing of the pulmonary valve), 
+, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001271-3" qtype="symptoms">What are the symptoms of Double inlet left ventricle ?</Question>
+			<Answer>Symptoms of DILV may include: Bluish color to the skin and lips ( cyanosis ) due to low oxygen in the blood, Failure to gain weight and grow, Pale skin (pallor), Poor feeding from becoming tired easily, Sweating, Swollen legs or abdomen, Trouble breathing , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001271-4" qtype="exams and tests">How to diagnose Double inlet left ventricle ?</Question>
+			<Answer>Signs of DILV may include: Abnormal heart rhythm, as seen on an electrocardiogram, Buildup of fluid around the lungs,  Heart failure , Heart murmur, Rapid heartbeat ,  Tests to diagnose DILV may include: Chest x-ray , Measurement of the electrical activity in the heart (electrocardiogram, or  ECG ), Ultrasound exam of the heart ( echocardiogram ), Passing a thin, flexible tube into the heart to examine the arteries ( cardiac catheterization ),  Heart MRI , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001271-5" qtype="treatment">What are the treatments for Double inlet left ventricle ?</Question>
+			<Answer>Surgery is needed to improve blood circulation through the body and into the lungs. The most common surgeries to treat DILV are a series of 2 to 3 operations. These surgeries are similar to the ones used to treat  hypoplastic left heart  syndrome and  tricuspid atresia . The first surgery may be needed when the baby is only a few days old. In most cases, the baby can go home from the hospital afterward. The child will most often need to take medicines every day and be closely followed by a pediatric heart doctor (cardiologist). The child's doctor will determine when the second stage of surgery should be done. The next surgery (or first surgery, if the baby didn't need a procedure as a newborn) is called the bidirectional Glenn shunt or Hemifontan procedure. This surgery is usually done when the child is 4 to 6 months old. Even after the above operations, the child may still look blue (cyanotic). The final step is called the Fontan procedure. This surgery is most often done when the child is 18 months to 3 years old. After this final step, the baby is no longer blue. The Fontan operation does not create normal circulation in the body. But, it does improve blood flow enough for the child to live and grow.  A child may need more surgeries for other defects or to extend survival while waiting for the Fontan procedure. Your child may need to take medicines before and after surgery. These may include: Anticoagulants to prevent blood clotting, ACE inhibitors to reduce blood pressure, Inotropic agents to help the heart contract, Water pills (diuretics) to reduce swelling in the body,  A heart transplant may be recommended, if the above methods fail.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001271-6" qtype="outlook">What is the outlook for Double inlet left ventricle ?</Question>
+			<Answer>DILV is a very complex heart defect that isn't easy to treat. How well the baby does depends on: The baby's overall condition at the time of diagnosis and treatment., If there are other heart problems., How severe the defect is.,  After treatment, many infants with DILV live to be adults. But, they will require lifelong follow-ups. They may also face complications and may have to limit their physical activities.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001271-7" qtype="complications">What are the complications of Double inlet left ventricle ?</Question>
+			<Answer>Complications of DILV include: Clubbing  (thickening of the nail beds) on the toes and fingers (late sign), Heart failure, Frequent pneumonia, Heart rhythm problems, Death, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001271-8" qtype="when to contact a medical professional">Do I need to see a doctor for Double inlet left ventricle ?</Question>
+			<Answer>Contact your health care provider if your child: Seems to tire easily, Has trouble breathing, Has bluish skin or lips,  Also talk to your provider if your baby is not growing or gaining weight.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001271-9" qtype="prevention">How to prevent Double inlet left ventricle ?</Question>
+			<Answer>There is no known prevention.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

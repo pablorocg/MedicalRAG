@@ -1,0 +1,37 @@
+<Document id="0002741" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000554.htm">
+ 
+<Focus>Nasal fracture - aftercare</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0339848</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Broken nose</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002741-1" qtype="information">What is (are) Nasal fracture - aftercare ?</Question>
+			<Answer>Your nose has 2 bones at the bridge of your nose and a long piece of cartilage (flexible but strong tissue) that gives your nose its shape.  A nasal fracture occurs when the bony part of your nose has been broken. Most broken noses are caused by trauma such as sport injuries, car accidents, or fights. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002741-2" qtype="information">What is (are) Nasal fracture - aftercare ?</Question>
+			<Answer>Your nose has 2 bones at the bridge of your nose and a long piece of cartilage (flexible but strong tissue) that gives your nose its shape.  A nasal fracture occurs when the bony part of your nose has been broken. Most broken noses are caused by trauma such as sport injuries, car accidents, or fights. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002741-3" qtype="outlook">What is the outlook for Nasal fracture - aftercare ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002741-8" qtype="when to contact a medical professional">Do I need to see a doctor for Nasal fracture - aftercare ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

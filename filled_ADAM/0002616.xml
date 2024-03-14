@@ -1,0 +1,44 @@
+<Document id="0002616" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000571.htm">
+ 
+<Focus>Metatarsal fracture (acute) - aftercare</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0435943</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Broken foot-metatarsal</Synonym>
+		<Synonym>Jones fracture</Synonym>
+		<Synonym>Dancer's fracture</Synonym>
+		<Synonym>Foot fracture</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002616-1" qtype="information">What is (are) Metatarsal fracture (acute) - aftercare ?</Question>
+			<Answer>You were treated for a broken bone in your foot. The bone that was broken is called the metatarsal. At home, be sure to follow your doctor's instructions on how to take care of your broken foot so that it heals well.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002616-2" qtype="information">What is (are) Metatarsal fracture (acute) - aftercare ?</Question>
+			<Answer>You were treated for a broken bone in your foot. The bone that was broken is called the metatarsal. At home, be sure to follow your doctor's instructions on how to take care of your broken foot so that it heals well.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002616-3" qtype="outlook">What is the outlook for Metatarsal fracture (acute) - aftercare ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002616-4" qtype="symptoms">What are the symptoms of Metatarsal fracture (acute) - aftercare ?</Question>
+			<Answer>You can decrease swelling by: Resting and not putting weight on your foot, Elevating your foot ,  Make an ice pack by putting ice in a plastic bag and wrapping a cloth around it.  Do not put the bag of ice directly on your skin. Cold from the ice could damage your skin., Ice your foot for about 20 minutes every hour while awake for the first 48 hours, then 2 to 3 times a day. ,  For pain, you can use ibuprofen (Advil, Motrin, and others) or naproxen (Aleve, Naprosyn, and others). Talk with your health care provider before using these medicines if you have heart disease, high blood pressure, kidney disease, liver disease, or have had stomach ulcers or internal bleeding in the past., Do not take more than the amount recommended on the bottle or more than your provider tells you to take. , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002616-7" qtype="when to contact a medical professional">Do I need to see a doctor for Metatarsal fracture (acute) - aftercare ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

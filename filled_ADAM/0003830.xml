@@ -1,0 +1,55 @@
+<Document id="0003830" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000008.htm">
+ 
+<Focus>Tailbone trauma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3714660</CUI>
+			<CUI>C3263723</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Coccyx injury</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003830-1" qtype="information">What is (are) Tailbone trauma ?</Question>
+			<Answer>Tailbone trauma is an injury to the small bone at the lower tip of the spine.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003830-2" qtype="considerations">What to do for Tailbone trauma ?</Question>
+			<Answer>Actual  fractures  of the tailbone (coccyx) are not common. Tailbone trauma usually involves  bruising  of the bone or pulling of the ligaments.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003830-3" qtype="causes">What causes Tailbone trauma ?</Question>
+			<Answer>Backward falls onto a hard surface, such as a slippery floor or ice, are the most common cause of this injury.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003830-4" qtype="symptoms">What are the symptoms of Tailbone trauma ?</Question>
+			<Answer>Symptoms include: Bruising on the lower part of the spine, Pain when sitting or putting pressure on the tailbone, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003830-5" qtype="considerations">What to do for Tailbone trauma ?</Question>
+			<Answer>Actual  fractures  of the tailbone (coccyx) are not common. Tailbone trauma usually involves  bruising  of the bone or pulling of the ligaments.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003830-6" qtype="considerations">What to do for Tailbone trauma ?</Question>
+			<Answer>Actual  fractures  of the tailbone (coccyx) are not common. Tailbone trauma usually involves  bruising  of the bone or pulling of the ligaments.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003830-7" qtype="when to contact a medical professional">Do I need to see a doctor for Tailbone trauma ?</Question>
+			<Answer>Call 911 or the local emergency number for immediate medical help if: Spinal cord injury is suspected, The person can't move, Pain is severe, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003830-8" qtype="prevention">How to prevent Tailbone trauma ?</Question>
+			<Answer>Keys to preventing tailbone trauma include: DO NOT run on slippery surfaces, such as around a swimming pool., Dress in shoes with good tread or slip-resistant soles, especially in snow or on ice., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

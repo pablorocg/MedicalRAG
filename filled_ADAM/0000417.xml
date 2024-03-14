@@ -1,0 +1,47 @@
+<Document id="0000417" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003080.htm">
+ 
+<Focus>Belching</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014724</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Burping</Synonym>
+		<Synonym>Eructation</Synonym>
+		<Synonym>Gas - belching</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000417-1" qtype="information">What is (are) Belching ?</Question>
+			<Answer>Belching is the act of bringing up air from the stomach.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000417-2" qtype="considerations">What to do for Belching ?</Question>
+			<Answer>Belching is a normal process. The purpose of belching is to release air from the stomach. Every time you swallow, you also swallow air, along with fluid or food. The buildup of air in the upper stomach causes the stomach to stretch. This triggers the muscle at the lower end of the esophagus (the tube that runs from your mouth to the stomach) to relax. Air is allowed to escape up the esophagus and out the mouth. Depending on the cause of the belching, it may occur more often, last longer, be more forceful. Symptoms such as nausea,  dyspepsia , and  heartburn  may be relieved by belching.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000417-3" qtype="causes">What causes Belching ?</Question>
+			<Answer>Abnormal belching may be due to: Acid reflux disease  (also called gastroesophageal reflux disease or GERD), Digestive system disease, Pressure caused by the unconscious swallowing of air (aerophagia), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000417-4" qtype="considerations">What to do for Belching ?</Question>
+			<Answer>Belching is a normal process. The purpose of belching is to release air from the stomach. Every time you swallow, you also swallow air, along with fluid or food. The buildup of air in the upper stomach causes the stomach to stretch. This triggers the muscle at the lower end of the esophagus (the tube that runs from your mouth to the stomach) to relax. Air is allowed to escape up the esophagus and out the mouth. Depending on the cause of the belching, it may occur more often, last longer, be more forceful. Symptoms such as nausea,  dyspepsia , and  heartburn  may be relieved by belching.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000417-5" qtype="when to contact a medical professional">Do I need to see a doctor for Belching ?</Question>
+			<Answer>Most of the time belching is a minor problem. Contact a health care provider if the belching does not go away, or if you also have other symptoms such as abdominal pain or fever.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000417-6" qtype="outlook">What is the outlook for Belching ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

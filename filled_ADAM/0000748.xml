@@ -1,0 +1,17 @@
+<Document id="0000748" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007354.htm">
+ 
+<Focus>Cervical MRI scan</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>MRI - cervical spine</Synonym>
+		<Synonym>MRI - neck</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000748-1" qtype="information">Do you have information about Cervical MRI scan</Question>
+			<Answer>A cervical MRI (magnetic resonance imaging) scan uses energy from strong magnets to create pictures of the part of the spine that runs through the neck area (cervical spine).  MRI does not use radiation (x-rays). Single  MRI  images are called slices. The images can be stored on a computer or printed on film. One exam produces many images.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

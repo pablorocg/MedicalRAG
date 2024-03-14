@@ -1,0 +1,16 @@
+<Document id="0003750" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003735.htm">
+ 
+<Focus>String test</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Duodenal parasites test</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003750-1" qtype="information">Do you have information about String test</Question>
+			<Answer>A string test involves swallowing a string to obtain a sample from the upper part of the small intestine. The sample is then tested to look for intestinal parasites.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

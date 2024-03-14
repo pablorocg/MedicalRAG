@@ -1,0 +1,16 @@
+<Document id="0003533" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002306.htm">
+ 
+<Focus>Serosanguineous</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Serosanguinous</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003533-1" qtype="information">Do you have information about Serosanguineous</Question>
+			<Answer>Serosanguineous means contains or relates to both blood and the liquid part of blood (serum). It usually refers to fluids collected from or leaving the body. For example, fluid leaving a wound that is serosanguineous is yellowish with small amounts of blood.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

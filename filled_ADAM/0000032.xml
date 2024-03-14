@@ -1,0 +1,54 @@
+<Document id="0000032" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000212.htm">
+ 
+<Focus>Abscess - abdomen or pelvis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0000833</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Abscess - intra-abdominal</Synonym>
+		<Synonym>Pelvic abscess</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000032-1" qtype="information">What is (are) Abscess - abdomen or pelvis ?</Question>
+			<Answer>An abdominal abscess is a pocket of infected fluid and pus located inside the belly (abdominal cavity). This type of abscess can be located near or inside the liver, pancreas, kidneys or other organs. There can be one or more abscesses.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000032-2" qtype="causes">What causes Abscess - abdomen or pelvis ?</Question>
+			<Answer>You can get abdominal abscesses because you have: A burst appendix, A burst or leaking intestine, A burst ovary, A perforated diverticulum, most often in the sigmoid colon , Inflammatory bowel disease, Infection in your gallbladder, pancreas, ovary or other organs, Pelvic infection, Parasite infection,  You are more at risk for an abdominal abscess if you have: Trauma, Perforated ulcer disease, Surgery in your belly area, Weakened immune system,  Germs may pass through your blood to an organ in your belly. Sometimes, no reason can be found for an abscess.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000032-3" qtype="symptoms">What are the symptoms of Abscess - abdomen or pelvis ?</Question>
+			<Answer>Pain or discomfort in the belly that does not go away is a common symptom. This pain: May be found only in one area of your belly or over most of your belly, May be sharp or dull, May become worse over time ,  Depending on where the abscess is located, you may have: Pain in your back, Pain in your chest or shoulder ,  Other symptoms of an abdominal abscess may be a lot like symptoms of having the flu. You may have: Swollen belly, Diarrhea, Fever or chills, Lack of appetite and possible weight loss, Nausea or vomiting, Weakness, Cough , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000032-4" qtype="exams and tests">How to diagnose Abscess - abdomen or pelvis ?</Question>
+			<Answer>Your symptoms can be a sign of many different problems. Your health care provider will do some tests to help determine if you have an abdominal abscess. These may include the following tests: Complete blood count  -- A high white blood cell count is a possible sign of an abscess of other infection., Comprehensive metabolic panel -- This will show any liver, kidney or blood problems. ,  Other tests that should show abdominal abscesses include: Abdominal x-ray, Ultrasound of the abdomen and pelvis,  CT scan  of the abdomen and pelvis,  MRI  of the abdomen and pelvis , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000032-5" qtype="treatment">What are the treatments for Abscess - abdomen or pelvis ?</Question>
+			<Answer>Your health care team will try to identify and treat the cause of the abscess. Your abscess will be treated with antibiotics, drainage of the pus, or both. At first, you will likely receive care in the hospital. ANTIBIOTICS You will be given antibiotics to treat the abscess. You will take them for up to 4 to 6 weeks. You will start on IV antibiotics in the hospital and you may receive IV antibiotics at home., You then may change to pills. Be sure you take all of your antibiotics, even if you feel better. ,  DRAINAGE Your abscess needs to be drained of pus. Your provider and you will decide the best way to do this. Using a needle and drain  -- Your provider puts a needle through the skin and into the abscess. Usually, this is done with the help of x-rays to make sure the needle is inserted into the abscess. Your provider will give you medicine to make you sleepy, and medicine to numb the skin before the needle is inserted into the skin. A sample of the abscess will be sent to the lab. This helps your provider choose which antibiotics to use. A drain is left in the abscess so that pus can drain out. Usually, the drain is kept in for days or weeks until the abscess gets better. Having surgery  -- Sometimes, a surgeon does surgery to clean out the abscess. You will be put under  general anesthesia  so that you are asleep for the  surgery . Surgery may be needed if: Your abscess cannot be reached safely using a needle through the skin, Your appendix, intestines, or another organ has burst ,  The surgeon will make a cut into the belly area.  Laparotomy  involves a larger cut.  Laparoscopy  uses a very small cut and a laparoscope (a tiny video camera). The surgeon will then: Clean and drain the abscess., Put a drain into the abscess. The drain stays in until the abscess gets better. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000032-6" qtype="outlook">What is the outlook for Abscess - abdomen or pelvis ?</Question>
+			<Answer>How well you respond to treatment depends on the cause of the abscess and how bad the infection is. It also depends on your overall health. Usually, antibiotics and drainage takes care of abdominal abscesses that have not spread. You may need more than one operation. Sometimes, an abscess will come back.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000032-7" qtype="complications">What are the complications of Abscess - abdomen or pelvis ?</Question>
+			<Answer>Complications may include: The abscess may not drain fully., The abscess may come back (recur)., The abscess may cause severe illness and a bloodstream infection., The infection could spread., </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000032-8" qtype="when to contact a medical professional">Do I need to see a doctor for Abscess - abdomen or pelvis ?</Question>
+			<Answer>Contact your provider if you have: Severe abdominal pain, Fevers, Nausea, Vomiting, Changes in bowel habits, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

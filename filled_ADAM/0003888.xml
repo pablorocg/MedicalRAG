@@ -1,0 +1,59 @@
+<Document id="0003888" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000517.htm">
+ 
+<Focus>Testicular torsion</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037856</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Torsion of the testis</Synonym>
+		<Synonym>Testicular ischemia</Synonym>
+		<Synonym>Testicular twisting</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003888-1" qtype="information">What is (are) Testicular torsion ?</Question>
+			<Answer>Testicular torsion is twisting of the spermatic cord, which supports the testes in the scrotum. When this occurs, blood supply is cut off to the testicles and nearby tissue in the  scrotum . This may cause permanent damage to the testicle.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003888-2" qtype="causes">What causes Testicular torsion ?</Question>
+			<Answer>Some men are more prone to this condition because of defects in the connective tissue within the scrotum. The problem may also occur after an injury to the scrotum that results in a lot of swelling, or following heavy exercise. In some cases, there is no clear cause.  The condition is more common during the first year of life and at the beginning of adolescence (puberty). However, it may happen in older men.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003888-3" qtype="symptoms">What are the symptoms of Testicular torsion ?</Question>
+			<Answer>Symptoms include: Sudden severe pain in one testicle. The pain may occur without a clear reason., Swelling within one side of the scrotum ( scrotal swelling )., Nausea or vomiting.,  Additional symptoms that may be associated with this disease: Testicle lump ,  Blood in the semen , Testicle pulled to a higher position in scrotum than normal (high riding), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003888-4" qtype="exams and tests">How to diagnose Testicular torsion ?</Question>
+			<Answer>Your health care provider will examine you. The exam may show: Extreme tenderness and swelling in the testicle area., The testicle on the affected side is higher.,  You may have a Doppler ultrasound of the testicle to check the blood flow. There will be no blood flowing through the area if you have complete torsion. Blood flow may be reduced if the spermatic cord is partly twisted.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003888-5" qtype="treatment">What are the treatments for Testicular torsion ?</Question>
+			<Answer>Most of the time, surgery is needed to correct the problem. The procedure involves untwisting the cord and sewing the testicle to the inside wall of the scrotum. Surgery should be done as soon as possible after symptoms begin. If it is performed within 6 hours, most of the testicle can be saved. During surgery, the testicle on the other side is often secured into place as well. This is because the unaffected testicle is at risk of testicular torsion in the future.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003888-6" qtype="outlook">What is the outlook for Testicular torsion ?</Question>
+			<Answer>The testicle may continue to function properly if the condition is found early and treated right away. The chances that the testicle will need to be removed increase if blood flow is reduced for more than 6 hours. However, sometimes it may lose its ability to function even if torsion has lasted fewer than 6 hours.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003888-7" qtype="complications">What are the complications of Testicular torsion ?</Question>
+			<Answer>The testicle may shrink if blood supply is cut off for an extended time. It may need to be surgically removed. Shrinkage of the testicle may occur days to months after the torsion has been corrected. Severe infection of the testicle and scrotum is also possible if the blood flow is limited for a long period.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003888-8" qtype="when to contact a medical professional">Do I need to see a doctor for Testicular torsion ?</Question>
+			<Answer>Get emergency medical attention if you have symptoms of testicular torsion as soon as possible. It is better to go to an emergency room instead of an urgent care in case you need to have surgery right away.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003888-9" qtype="prevention">How to prevent Testicular torsion ?</Question>
+			<Answer>Take steps to avoid injury to the scrotum. Many cases cannot be prevented. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

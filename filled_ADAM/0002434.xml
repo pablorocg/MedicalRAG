@@ -1,0 +1,53 @@
+<Document id="0002434" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007422.htm">
+ 
+<Focus>Low back pain - chronic</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024031</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Nonspecific back pain</Synonym>
+		<Synonym>Backache - chronic</Synonym>
+		<Synonym>Lumbar pain - chronic</Synonym>
+		<Synonym>Pain - back - chronic</Synonym>
+		<Synonym>Chronic back pain - low</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002434-1" qtype="information">What is (are) Low back pain - chronic ?</Question>
+			<Answer>Low back pain refers to pain that you feel in your lower back. You may also have back stiffness, decreased movement of the lower back, and difficulty standing straight. Low back pain that is long-term is called chronic low back pain. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002434-2" qtype="causes">What causes Low back pain - chronic ?</Question>
+			<Answer>Low back pain is common. Almost everyone has back pain at some time in their life. Often, the exact cause of the pain cannot be found. A single event may not have caused your pain. You may have been doing many activities, such as lifting the wrong way, for a long time. Then suddenly, one simple movement, such as reaching for something or bending from your waist, leads to pain. Many people with chronic back pain have arthritis. Or they may have extra wear and tear of the spine, which may be due to: Heavy use from work or sports, Injuries or fractures, Surgery ,  You may have had a  herniated disk , in which part of the spinal disk pushed onto nearby nerves. Normally, the disks provide space and cushion in your spine. If these disks dry out and become thinner and more brittle, you can lose movement in the spine over time. If the spaces between the spinal nerves and spinal cord become narrowed, this can lead to  spinal stenosis . These problems are called degenerative joint or spine disease. Other possible causes of chronic low back pain include: Curvature of the spine, such as  scoliosis  or  kyphosis , Medical problems, such as  fibromyalgia  or  rheumatoid arthritis , Piriformis syndrome, a pain disorder involving a muscle in the buttocks called the piriformis muscle ,  You are at greater risk for low back pain if you: Are over age 30, Are  overweight , Are pregnant, Do not exercise, Feel  stressed  or  depressed , Have a job in which you have to do heavy lifting, bending and twisting, or that involves whole body vibration, such as truck driving or using a sandblaster, Smoke , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002434-3" qtype="symptoms">What are the symptoms of Low back pain - chronic ?</Question>
+			<Answer>Symptoms may include any of the following: Dull aching pain, Sharp pain, Tingling or burning sensation, Weakness in your legs or feet ,  Low back pain can differ from person to person. The pain may be mild, or it can be so severe that you cannot move. Depending on the cause of your back pain, you may also have pain in your leg, hip, or on the bottom of your foot.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002434-4" qtype="exams and tests">How to diagnose Low back pain - chronic ?</Question>
+			<Answer>During the physical exam, the health care provider will try to pinpoint the location of the pain and figure out how it affects your movement. Other tests you have depend on your medical history and symptoms. Tests may include: Blood tests, such as a  complete blood count  and  erythrocyte sedimentation rate ,  CT scan of the lower spine ,  MRI scan of the lower spine , Myelogram (x-ray or CT scan of the spine after dye has been injected into the spinal column),  X-ray  of the lumbosacral spine, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002434-5" qtype="treatment">What are the treatments for Low back pain - chronic ?</Question>
+			<Answer>Your back pain may not go away completely, or it may get more painful at times. Learn to  take care of your back at home  and how to prevent repeat episodes of back pain. This can help you continue with your normal activities. Your provider may recommend measures to reduce your pain, including: A back brace to support your back, Cold packs and heat therapy, Traction, Physical therapy, involving stretching and strengthening exercises, Counseling to learn ways to understand and manage your pain ,  These other health care providers may also help: Massage therapist, Someone who performs acupuncture, Someone who does spinal manipulation (a chiropractor, osteopathic physician, or physical therapist) ,  If needed, your provider may prescribe medicines to help with your back pain: Aspirin, naproxen (Aleve), or ibuprofen (Advil), which you can buy without a prescription, Low doses of prescription medicines, Narcotics or opioids when the pain is severe ,  If your pain does not improve with medicine, physical therapy, and other treatments, your provider may recommend an  epidural injection . Spinal surgery is considered only if you have nerve damage or bone damage that is causing the back pain does not heal after a long time.  In some patients, a spinal cord stimulator can help reduce back pain. Other treatments that may be recommended if your pain does not improve with medicine and physical therapy include: Spinal surgery, only if you have nerve damage or the cause of your pain does not heal after a long time, Spinal cord stimulation, in which a small device sends an electric current to the spine to block pain signals ,  Some people with low back pain may also need: Job changes, Job counseling, Job retraining, Occupational therapy , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002434-6" qtype="outlook">What is the outlook for Low back pain - chronic ?</Question>
+			<Answer>Most back problems get better on their own. Follow your provider's advice on treatment and self-care measures.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002434-7" qtype="when to contact a medical professional">Do I need to see a doctor for Low back pain - chronic ?</Question>
+			<Answer>Contact your provider if you have severe back pain that does not go away. Call right away if you have numbness, loss of movement, weakness, or bowel or bladder changes.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,44 @@
+<Document id="0001281" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003208.htm">
+ 
+<Focus>Drowsiness</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013144</CUI>
+			<CUI>C2830004</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sleepiness - during the day</Synonym>
+		<Synonym>Hypersomnia</Synonym>
+		<Synonym>Somnolence</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001281-1" qtype="information">What is (are) Drowsiness ?</Question>
+			<Answer>Drowsiness refers to feeling more sleepy than normal during the day. People who are drowsy may fall asleep when they do not want to or at times which can lead to safety concerns.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001281-2" qtype="considerations">What to do for Drowsiness ?</Question>
+			<Answer>Excessive daytime sleepiness (without a known cause) may be a sign of a sleep disorder. Depression ,  anxiety ,  stress , and boredom can all contribute to excessive sleepiness. However, these conditions more often cause  fatigue  and apathy.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001281-3" qtype="causes">What causes Drowsiness ?</Question>
+			<Answer>Drowsiness may be due to the following: Long-term (chronic) pain, Diabetes, Having to work long hours or different shifts (nights, weekends),  Insomnia  and other problems falling or staying asleep, Changes in blood sodium levels ( hyponatremia  or hypernatremia), Medicines (tranquilizers, sleeping pills, antihistamines, certain painkillers, some psychiatric drugs), Not sleeping long enough, Sleep disorders (such as  sleep apnea  and  narcolepsy ), Too much calcium in your blood ( hypercalcemia ), Underactive thyroid ( hypothyroidism ) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001281-4" qtype="considerations">What to do for Drowsiness ?</Question>
+			<Answer>Excessive daytime sleepiness (without a known cause) may be a sign of a sleep disorder. Depression ,  anxiety ,  stress , and boredom can all contribute to excessive sleepiness. However, these conditions more often cause  fatigue  and apathy.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001281-5" qtype="outlook">What is the outlook for Drowsiness ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

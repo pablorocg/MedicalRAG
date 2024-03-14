@@ -1,0 +1,57 @@
+<Document id="0002605" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000335.htm">
+ 
+<Focus>Metabolic acidosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220981</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Acidosis - metabolic</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002605-1" qtype="information">What is (are) Metabolic acidosis ?</Question>
+			<Answer>Metabolic acidosis is a condition in which there is too much acid in the body fluids.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002605-2" qtype="causes">What causes Metabolic acidosis ?</Question>
+			<Answer>Metabolic acidosis develops when too much acid is produced in the body. It can also occur when the kidneys cannot remove enough acid from the body. There are several types of metabolic acidosis: Diabetic acidosis (also called  diabetic ketoacidosis  and DKA) develops when substances called ketone bodies (which are acidic) build up during uncontrolled diabetes (usually type 1 diabetes)., Hyperchloremic acidosis is caused by the loss of too much sodium bicarbonate from the body, which can happen with severe diarrhea., Kidney disease (uremia, distal renal tubular acidosis or proximal renal tubular acidosis)., Lactic acidosis., Poisoning by aspirin, ethylene glycol (found in antifreeze), or methanol., Severe  dehydration .,  Lactic acidosis results from a buildup of lactic acid. Lactic acid is mainly produced in muscle cells and red blood cells. It forms when the body breaks down carbohydrates to use for energy when oxygen levels are low. It can be caused by: Cancer, Carbon monoxide poisoning, Drinking too much alcohol, Exercising vigorously for a very long time, Liver failure, Low blood sugar (hypoglycemia), Medicines, such as salicylates, metformin, anti-retrovirals, MELAS (a very rare genetic mitochondrial disorder that affects energy production), Prolonged lack of oxygen from  shock ,  heart failure , or severe  anemia ,  Seizures , Sepsis -- severe illness due to infection with bacteria or other germs, Severe asthma, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002605-3" qtype="symptoms">What are the symptoms of Metabolic acidosis ?</Question>
+			<Answer>Most symptoms are caused by the underlying disease or condition that is causing the metabolic acidosis. Metabolic acidosis itself causes rapid and deep breathing as your body tries to compensate for it. Confusion or lethargy may also occur. Severe metabolic acidosis can lead to shock or death. In some situations, metabolic acidosis can be a mild, ongoing (chronic) condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002605-4" qtype="exams and tests">How to diagnose Metabolic acidosis ?</Question>
+			<Answer>Your health care provider will perform a physical examination and ask about your symptoms. These tests can help diagnose acidosis. They can also determine whether the cause is a breathing problem or a metabolic problem. Tests may include: Arterial or venous blood gas, Basic metabolic panel, (a group of blood tests that measure your sodium and potassium levels, kidney function, and other chemicals and functions), Blood ketones, Lactic acid test,  Urine ketones , Urine pH,  Other blood tests may be needed to determine the cause of the acidosis. Other tests that may be needed to determine the cause of the acidosis include: Chest x-ray, CT abdomen, Urinalysis, Urine pH, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002605-5" qtype="treatment">What are the treatments for Metabolic acidosis ?</Question>
+			<Answer>Treatment is aimed at the health problem causing the metabolic acidosis. In some cases, sodium bicarbonate (the chemical in baking soda) may be given to reduce the acidity of the blood. Often, you will receive lots of fluids through your vein.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002605-6" qtype="outlook">What is the outlook for Metabolic acidosis ?</Question>
+			<Answer>Metabolic acidosis can be dangerous if untreated. Many cases respond well to treatment. The outlook will depend on the underlying disease causing the condition.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002605-7" qtype="complications">What are the complications of Metabolic acidosis ?</Question>
+			<Answer>Very severe metabolic acidosis can lead to shock or death.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002605-8" qtype="when to contact a medical professional">Do I need to see a doctor for Metabolic acidosis ?</Question>
+			<Answer>Seek medical help if you have symptoms of any disease that can cause metabolic acidosis.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002605-9" qtype="prevention">How to prevent Metabolic acidosis ?</Question>
+			<Answer>Diabetic ketoacidosis can be prevented by keeping  type 1 diabetes  under control and responding promptly if the blood sugar stays above 250 mg/dL for over 12 hours.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

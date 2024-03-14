@@ -1,0 +1,54 @@
+<Document id="0004043" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000275.htm">
+ 
+<Focus>Tropical sprue</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038054</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004043-1" qtype="information">What is (are) Tropical sprue ?</Question>
+			<Answer>Tropical sprue is a condition that occurs in people who live in or visit tropical areas for extended periods of time. It impairs nutrients from being absorbed from the intestines. Tropical sprue (TS) is a syndrome characterized by acute or chronic diarrhea, weight loss, and  malabsorption  of nutrients.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004043-2" qtype="causes">What causes Tropical sprue ?</Question>
+			<Answer>This disease is caused by damage to the lining of the small intestine. It comes from having too much of certain types of bacteria in the intestines. Risk factors are: Living in the tropics, Long periods of travel to tropical destinations , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004043-3" qtype="symptoms">What are the symptoms of Tropical sprue ?</Question>
+			<Answer>Symptoms include: Abdominal cramps , Diarrhea, worse on a high-fat diet,  Excess gas (flatus) , Fatigue, Fever, Leg swelling,  Weight loss ,  Symptoms may not appear for up to 10 years after leaving the tropics.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004043-4" qtype="exams and tests">How to diagnose Tropical sprue ?</Question>
+			<Answer>There is no clear marker or test that clearly diagnoses this problem. Certain tests help to confirm that poor absorption of nutrients is present: D-xylose is a lab test to see how well the intestines absorb a simple sugar, Tests of the stool to see if fat is absorbed correctly, Blood tests to measure iron, folate,  vitamin B12 , or vitamin D,  Complete blood count (CBC) ,  Tests that examine the small intestine may include: Enteroscopy ,  Upper endoscopy , Biopsy of the small intestine,  Upper GI series , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004043-5" qtype="treatment">What are the treatments for Tropical sprue ?</Question>
+			<Answer>Treatment begins with plenty of fluids and electrolytes. Replacement of folate, iron, vitamin B12, and other nutrients may also be needed. Antibiotic therapy with tetracycline or Bactrim is typically given for 3 to 6 months. In most cases, oral tetracycline is not prescribed for children until after all the permanent teeth have come in. This medicine can permanently discolor teeth that are still forming. However, other antibiotics can be used.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004043-6" qtype="outlook">What is the outlook for Tropical sprue ?</Question>
+			<Answer>The outcome is good with treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004043-7" qtype="complications">What are the complications of Tropical sprue ?</Question>
+			<Answer>Vitamin and mineral deficiencies are common. In children, sprue leads to: Delay in the maturing of bones (skeletal maturation) ,  Growth failure , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004043-8" qtype="when to contact a medical professional">Do I need to see a doctor for Tropical sprue ?</Question>
+			<Answer>Contact your health care provider if: Tropical sprue symptoms get worse or do not improve with treatment., You develop new symptoms., You have diarrhea or other symptoms of this disorder for a long period of time, especially after spending time in the tropics. , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0004043-9" qtype="prevention">How to prevent Tropical sprue ?</Question>
+			<Answer>Other than avoiding living in or traveling to tropical climates, there is no known prevention for tropical sprue.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

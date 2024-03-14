@@ -1,0 +1,30 @@
+<Document id="0002180" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002055.htm">
+ 
+<Focus>Infant test/procedure preparation</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0456984</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Test/procedure preparation - infant</Synonym>
+		<Synonym>Preparing infant for test/procedure</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002180-1" qtype="information">What is (are) Infant test/procedure preparation ?</Question>
+			<Answer>Be aware that your infant will likely cry and restraints may be used. You can help your infant through this procedure the most by being there and showing you care. Crying is a normal response to the strange environment, unfamiliar people, restraints, and separation from you. Your infant will cry more for these reasons than because the test or procedure is uncomfortable. WHY RESTRAINTS? Infants lack the physical control, coordination, and ability to follow commands that older children most often have. Restraints may be used during a procedure or other situation to ensure your infant's safety. For example, in order to get clear test results on an x-ray, there cannot be any movement. Your infant may be restrained by hand or with physical devices. If blood needs to be taken or an IV started, restraints are important in preventing injury to your infant. If your infant moves while the needle is being inserted, the needle could damage a blood vessel, bone, tissue, or nerves. Your health care provider will use every means to ensure the safety and comfort of your baby. Beside restraints, other measures include medicines, observation, and monitors. DURING THE PROCEDURE Your presence helps your infant during the procedure, especially if the procedure allows you to maintain physical contact. If the procedure is performed at the hospital or your provider's office, you will likely be able to be present. If you are not asked to be by your infant's side and would like to be, ask your provider if this is possible. If you think you may become ill or anxious, consider keeping your distance, but staying in your infant's line of vision. If you are not able to be present, leaving a familiar object with your infant may be comforting. OTHER CONSIDERATIONS Ask your provider to limit the number of strangers entering and leaving the room during the procedure, since this can raise anxiety., Ask that the provider who has spent the most time with your child perform the procedure., Ask that anesthetics be used if appropriate to reduce your child's discomfort., Ask that painful procedures not be done in the hospital crib, so that the infant does not come to associate pain with the crib. Many hospitals have special treatment rooms where procedures are done., Imitate the behavior you or your provider need the infant to do, such as opening the mouth., Many children's hospitals have child life specialists who are specially trained to educate patients and families and advocate for them during procedures. Ask if such a person is available. , </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002180-2" qtype="information">What is (are) Infant test/procedure preparation ?</Question>
+			<Answer>Be aware that your infant will likely cry and restraints may be used. You can help your infant through this procedure the most by being there and showing you care. Crying is a normal response to the strange environment, unfamiliar people, restraints, and separation from you. Your infant will cry more for these reasons than because the test or procedure is uncomfortable. WHY RESTRAINTS? Infants lack the physical control, coordination, and ability to follow commands that older children most often have. Restraints may be used during a procedure or other situation to ensure your infant's safety. For example, in order to get clear test results on an x-ray, there cannot be any movement. Your infant may be restrained by hand or with physical devices. If blood needs to be taken or an IV started, restraints are important in preventing injury to your infant. If your infant moves while the needle is being inserted, the needle could damage a blood vessel, bone, tissue, or nerves. Your health care provider will use every means to ensure the safety and comfort of your baby. Beside restraints, other measures include medicines, observation, and monitors. DURING THE PROCEDURE Your presence helps your infant during the procedure, especially if the procedure allows you to maintain physical contact. If the procedure is performed at the hospital or your provider's office, you will likely be able to be present. If you are not asked to be by your infant's side and would like to be, ask your provider if this is possible. If you think you may become ill or anxious, consider keeping your distance, but staying in your infant's line of vision. If you are not able to be present, leaving a familiar object with your infant may be comforting. OTHER CONSIDERATIONS Ask your provider to limit the number of strangers entering and leaving the room during the procedure, since this can raise anxiety., Ask that the provider who has spent the most time with your child perform the procedure., Ask that anesthetics be used if appropriate to reduce your child's discomfort., Ask that painful procedures not be done in the hospital crib, so that the infant does not come to associate pain with the crib. Many hospitals have special treatment rooms where procedures are done., Imitate the behavior you or your provider need the infant to do, such as opening the mouth., Many children's hospitals have child life specialists who are specially trained to educate patients and families and advocate for them during procedures. Ask if such a person is available. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

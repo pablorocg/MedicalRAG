@@ -1,0 +1,48 @@
+<Document id="0003749" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003074.htm">
+ 
+<Focus>Stridor</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038450</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Breathing sounds - abnormal</Synonym>
+		<Synonym>Extrathoracic airway obstruction</Synonym>
+		<Synonym>Wheezing</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003749-1" qtype="information">What is (are) Stridor ?</Question>
+			<Answer>Stridor is an abnormal, high-pitched, musical breathing sound. It is caused by a blockage in the throat or voice box (larynx). It is most often heard when taking in a breath.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003749-2" qtype="considerations">What to do for Stridor ?</Question>
+			<Answer>Children are at higher risk of airway blockage because they have narrower airways than adults. In young children, stridor is a sign of airway blockage. It must be treated right away to prevent the airway from becoming completely closed.  The airway can be blocked by an object, swollen tissues of the throat or upper airway, or a spasm of the airway muscles or the vocal cords.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003749-3" qtype="causes">What causes Stridor ?</Question>
+			<Answer>Common causes of stridor include: Airway injury,  Allergic reaction , 
+  Problem breathing and a barking cough ( croup ), Diagnostic tests such as  bronchoscopy  or laryngoscopy,  Epiglottitis , which is inflammation of the cartilage that covers the windpipe, Inhaling an object such as a peanut or marble ( foreign body aspiration ), Swelling and irritation of the voice box ( laryngitis ), Neck surgery, Use of a breathing tube for a long time, Secretions such as phlegm (sputum), Smoke inhalation or other inhalation injury, Swelling of the neck or face, Swollen tonsils or adenoids (such as with  tonsillitis ),  Vocal cord cancer , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003749-4" qtype="considerations">What to do for Stridor ?</Question>
+			<Answer>Children are at higher risk of airway blockage because they have narrower airways than adults. In young children, stridor is a sign of airway blockage. It must be treated right away to prevent the airway from becoming completely closed.  The airway can be blocked by an object, swollen tissues of the throat or upper airway, or a spasm of the airway muscles or the vocal cords.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003749-5" qtype="when to contact a medical professional">Do I need to see a doctor for Stridor ?</Question>
+			<Answer>Stridor may be a sign of an emergency. Call your provider right away if there is unexplained stridor, especially in a child.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003749-6" qtype="outlook">What is the outlook for Stridor ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

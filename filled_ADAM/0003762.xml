@@ -1,0 +1,60 @@
+<Document id="0003762" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000701.htm">
+ 
+<Focus>Subarachnoid hemorrhage</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038525</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hemorrhage - subarachnoid</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003762-1" qtype="information">What is (are) Subarachnoid hemorrhage ?</Question>
+			<Answer>Subarachnoid hemorrhage is bleeding in the area between the brain and the thin tissues that cover the brain. This area is called the subarachnoid space. Subarachnoid bleeding is an emergency and prompt medical attention is needed.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003762-2" qtype="causes">What causes Subarachnoid hemorrhage ?</Question>
+			<Answer>Subarachnoid hemorrhage can be caused by: Bleeding from a tangle of blood vessels called an  arteriovenous malformation  (AVM), Bleeding disorder, Bleeding from a  cerebral aneurysm &#160;(weak area in the wall of a blood vessel that causes the blood vessel to bulge or balloon out), Head injury, Unknown cause (idiopathic), Use of blood thinners,  Subarachnoid hemorrhage caused by head injury in older people is often due to falls. Among the young, the most common injury leading to subarachnoid hemorrhage is motor vehicle crashes. When caused by trauma, subarachnoid hemorrhage commonly occurs with other types of bleeding in the head. Risks include: 
+   Unruptured aneurysm in the brain and other blood vessels, Fibromuscular dysplasia (FMD) and other connective tissue and autoimmune disorders, High blood pressure, History of  polycystic kidney disease , Smoking, Use of illicit drugs such as cocaine and methamphetamine, Use of blood thinners such as warfarin,  A strong family history of aneurysms may also increase your risk.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003762-3" qtype="symptoms">What are the symptoms of Subarachnoid hemorrhage ?</Question>
+			<Answer>The main symptom is a severe headache that starts suddenly (often called thunderclap headache). It is often worse near the back of the head. Many people often describe it as the "worst headache ever" and unlike any other type of headache pain. The headache may start after a popping or snapping feeling in the head. Other symptoms: Decreased consciousness  and alertness, Eye discomfort in bright light ( photophobia ), Mood and personality changes, including  confusion  and irritability,  
+ Muscle aches (especially neck pain and shoulder pain), Nausea and vomiting, Numbness in part of the body,  Seizure , Stiff neck,  
+ Vision problems, including double vision, blind spots, or temporary vision loss in one eye,  Other symptoms that may occur with this disease: Eyelid drooping ,  Pupil size difference , Sudden stiffening of back and neck, with arching of the back ( opisthotonos ; not very common), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003762-4" qtype="exams and tests">How to diagnose Subarachnoid hemorrhage ?</Question>
+			<Answer>Signs include: A physical exam may show a stiff neck., A brain and nervous system exam may show signs of decreased nerve and brain function (focal  neurologic deficit )., An eye exam may show decreased eye movements which may indicate damage to the cranial nerves (in milder cases, an eye exam may show no problems).,  If your doctor thinks you have a subarachnoid hemorrhage, a  head CT scan  (without contrast dye) will be done right away. In some cases, the scan is normal, especially if there has only been a small bleed. If the CT scan is normal, a lumbar puncture ( spinal tap ) may be done. Additional CT scans may be needed for further confirmation. Other tests that may be done include: Cerebral angiography  of blood vessels of the brain, CT scan angiography (using contrast dye), Transcranial Doppler ultrasound, to look at blood flow in the arteries of the brain, Magnetic resonance imaging (MRI) and  magnetic resonance angiography  (MRA) (occasionally) , Blood tests to check for bleeding disorders, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003762-5" qtype="treatment">What are the treatments for Subarachnoid hemorrhage ?</Question>
+			<Answer>The goals of treatment are to: Save your life, Repair the cause of bleeding, Relieve symptoms, Prevent complications such as permanent brain damage (stroke),  Surgery may be done to: Remove large collections of blood or relieve pressure on the brain if the hemorrhage is due to an injury, Repair the aneurysm if the hemorrhage is due to an aneurysm rupture,  If the person is critically ill, surgery may have to wait until the person is more stable. Surgery may involve: Craniotomy  (cutting a hole in the skull) and aneurysm clipping, to close the aneurysm,  Endovascular coiling : placing coils in the aneurysm and  stents  in the blood vessel to cage the coils reduces the risk of further bleeding,  If no aneurysm is found, the person should be closely watched by a health care team and may need more imaging tests. Treatment for coma or decreased alertness includes: Draining tube placed in the brain to relieve pressure, Life support, Methods to protect the airway, Special positioning, Special medicines to decrease swelling in the skull,  A person who is conscious may need to be on strict bed rest. The person will be told to avoid activities that can increase pressure inside the head, including: Bending over, Straining, Suddenly changing position,  Treatment may also include: Medicines given through an  IV line  to control blood pressure, Medicine to prevent artery spasms, Painkillers and anti-anxiety medicines to relieve headache, Medicines to prevent or treat seizures, Stool softeners or laxatives to prevent straining during bowel movements, Medicines to prevent seizures, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003762-6" qtype="outlook">What is the outlook for Subarachnoid hemorrhage ?</Question>
+			<Answer>How well a person with subarachnoid hemorrhage does depends on a number of different factors, including: Location and amount of bleeding, Complications ,  Older age and more severe symptoms can lead to a poorer outcome. People can recover completely after treatment. But some people die, even with treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003762-7" qtype="complications">What are the complications of Subarachnoid hemorrhage ?</Question>
+			<Answer>Repeated bleeding is the most serious complication. If a cerebral aneurysm bleeds for a second time, the outlook is much worse. Changes in consciousness and alertness due to a subarachnoid hemorrhage may become worse and lead to  coma  or death. Other complications include: Complications of surgery, Medicine side effects, Seizures,  Stroke , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003762-8" qtype="when to contact a medical professional">Do I need to see a doctor for Subarachnoid hemorrhage ?</Question>
+			<Answer>Go to the emergency room or call 911 or the local emergency number if you or someone you know has symptoms of a subarachnoid hemorrhage.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003762-9" qtype="prevention">How to prevent Subarachnoid hemorrhage ?</Question>
+			<Answer>The following measures may help prevent subarachnoid hemorrhage: Stopping smoking, Treating high blood pressure, Identifying and successfully treating an aneurysm, Not using illicit drugs, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

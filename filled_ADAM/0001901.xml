@@ -1,0 +1,58 @@
+<Document id="0001901" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001459.htm">
+ 
+<Focus>Hemangioma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018916</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cavernous hemangioma</Synonym>
+		<Synonym>Strawberry nevus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001901-1" qtype="information">What is (are) Hemangioma ?</Question>
+			<Answer>A hemangioma is an abnormal&#160;buildup of blood vessels in the skin or internal organs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001901-2" qtype="causes">What causes Hemangioma ?</Question>
+			<Answer>About one third of hemangiomas are present at birth. The rest appear in the first several months of life. The hemangioma may be:  In the top skin layers ( capillary hemangioma ), Deeper in the skin (cavernous hemangioma), A mixture of both layers of skin, In an internal organ and not visible, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001901-3" qtype="symptoms">What are the symptoms of Hemangioma ?</Question>
+			<Answer>Symptoms of a hemangioma are: A red to reddish-purple, raised growth on the skin, A massive, raised, bluish lump with visible blood vessels,  Most hemangiomas are on the head, neck, or extremities.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001901-4" qtype="exams and tests">How to diagnose Hemangioma ?</Question>
+			<Answer>The health care provider will do a physical exam to diagnose a hemangioma. If the buildup of blood vessels is deep inside the body, a  CT  or  MRI  scan may be needed. A hemangioma may occur with other rare conditions. Other tests to check for related problems may be done.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001901-5" qtype="treatment">What are the treatments for Hemangioma ?</Question>
+			<Answer>The majority of small or uncomplicated hemangiomas may not need treatment. They often go away on their own and the appearance of the skin returns to normal. Sometimes, a laser may be used to remove the small blood vessels. Taking beta-blocker medicines may also help reduce the size of a hemangioma. Cavernous hemangiomas that involve the eyelid and block vision can be treated with lasers or steroid injections to shrink them. This allows vision to develop normally. Large cavernous hemangiomas or mixed hemangiomas may be treated with steroids, taken by mouth or injected into the hemangioma.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001901-6" qtype="outlook">What is the outlook for Hemangioma ?</Question>
+			<Answer>Small superficial hemangiomas will often disappear on their own. About one half&#160;go away by age 5, and almost all disappear by age 7.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001901-7" qtype="complications">What are the complications of Hemangioma ?</Question>
+			<Answer>These complications can occur from a hemangioma: Bleeding (especially if the hemangioma is injured), Problems with breathing and eating, Psychological problems, from skin appearance,  Secondary infections  and sores, Visible changes in the skin, Vision problems , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001901-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hemangioma ?</Question>
+			<Answer>All birthmarks, including hemangiomas, should be evaluated by your provider during a regular exam. Hemangiomas of the eyelid that may cause problems with vision must be treated soon after birth. Hemangiomas that interfere with eating or breathing also need to be treated early. Contact your provider if a hemangioma is bleeding or develops a sore.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001901-9" qtype="prevention">How to prevent Hemangioma ?</Question>
+			<Answer>There is no known way to prevent hemangiomas.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

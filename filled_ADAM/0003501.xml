@@ -1,0 +1,56 @@
+<Document id="0003501" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001532.htm">
+ 
+<Focus>Seasonal affective disorder</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085159</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Seasonal depression</Synonym>
+		<Synonym>Winter depression</Synonym>
+		<Synonym>Wintertime blues</Synonym>
+		<Synonym>SAD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003501-1" qtype="information">What is (are) Seasonal affective disorder ?</Question>
+			<Answer>Seasonal affective disorder (SAD) is a type of depression that occurs at a certain time of the year, usually in winter.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003501-2" qtype="causes">What causes Seasonal affective disorder ?</Question>
+			<Answer>SAD may begin during the teen years or in adulthood. Like other forms of  depression , it occurs more often in women than in men. People who live in places with long winter nights are at high risk of developing SAD. A less common form of the disorder involves depression during the summer months.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003501-3" qtype="symptoms">What are the symptoms of Seasonal affective disorder ?</Question>
+			<Answer>Symptoms usually build up slowly in the late autumn and winter months. Symptoms are often the same as with other forms of depression: Hopelessness, Increased appetite with weight gain (weight loss is more common with other forms of depression), Increased sleep (too little sleep is more common with other forms of depression), Less energy and ability to concentrate, Loss of interest in work or other activities, Sluggish movements, Social withdrawal, Unhappiness and irritability ,  SAD can sometimes become long-term depression.  Bipolar disorder  or thoughts of suicide are also possible.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003501-4" qtype="exams and tests">How to diagnose Seasonal affective disorder ?</Question>
+			<Answer>There is no test for SAD. Your health care provider can make a diagnosis by asking about your history of symptoms. Your provider may also perform a physical exam and blood tests to rule out other disorders that have symptoms similar to SAD.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003501-5" qtype="treatment">What are the treatments for Seasonal affective disorder ?</Question>
+			<Answer>As with other types of depression, antidepressant medicines and talk therapy can be effective. 
+MANAGING YOUR DEPRESSION AT HOME
+ To manage your symptoms at home: Get enough sleep., Eat healthy foods., Take medicines the right way. Ask your provider how to manage side effects., Learn to watch for early signs that your depression is getting worse. Have a plan if it does get worse., Try to exercise more often. Do activities that make you happy. ,  DO NOT use alcohol or illegal drugs. These can make depression worse. They can also cause you to think about suicide. When you are struggling with depression, talk about how you are feeling with someone you trust. Try to be around people who are caring and positive. Volunteer or get involved in group activities. 
+LIGHT THERAPY
+ Your provider may prescribe light therapy. Light therapy uses a special lamp with a very bright light that mimics light from the sun: Treatment is started in the fall or early winter, before the symptoms of SAD begin., Follow your provider's instructions about how to use light therapy. One way that may be recommended is to sit two feet (60 centimeters) away from the light box for about 30 minutes each day. This is often done in the early morning, to mimic sunrise., Keep your eyes open, but do not look straight into the light source. ,  If light therapy is going to help, symptoms of depression should improve within 3 to 4 weeks. Side effects of light therapy include: Eye strain or headache,  Mania  (rarely) ,  People who take medicines that make them more sensitive to light, such as certain psoriasis drugs, antibiotics, or antipsychotics, should not use light therapy. A checkup with your eye doctor is recommended before starting treatment. With no treatment, symptoms usually get better on their own with the change of seasons. Symptoms can improve more quickly with treatment.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003501-6" qtype="outlook">What is the outlook for Seasonal affective disorder ?</Question>
+			<Answer>The outcome is usually good with treatment. But some people have SAD throughout their lives.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003501-7" qtype="when to contact a medical professional">Do I need to see a doctor for Seasonal affective disorder ?</Question>
+			<Answer>If you or someone you know is thinking about suicide, call or text 988 or chat  988lifeline.org . You can also call 1-800-273-8255 (1-800-273-TALK). The 988 Suicide and Crisis Lifeline provides free and confidential support 24/7, anytime day or night. You can also call 911 or the local emergency number or go to the hospital emergency room. DO NOT delay. If someone you know has attempted suicide, call 911 or the local emergency number right away. DO NOT leave the person alone, even after you have called for help.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,54 @@
+<Document id="0003198" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007193.htm">
+ 
+<Focus>Premenstrual dysphoric disorder</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0520676</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PMDD</Synonym>
+		<Synonym>Severe PMS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003198-1" qtype="information">What is (are) Premenstrual dysphoric disorder ?</Question>
+			<Answer>Premenstrual dysphoric disorder (PMDD) is a condition in which a woman has severe depression symptoms, irritability, and tension before menstruation. The symptoms of PMDD are more severe than those seen with  premenstrual syndrome (PMS) . PMS refers to a wide range of physical or emotional symptoms that most often occur about 5 to 11 days before a woman starts her monthly menstrual cycle. In most cases, the symptoms stop when, or shortly after, her period begins.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003198-2" qtype="causes">What causes Premenstrual dysphoric disorder ?</Question>
+			<Answer>The causes of PMS and PMDD have not been found. Hormone changes that occur during a woman's menstrual cycle may play a role. PMDD affects a small number of women during the years when they are having menstrual periods. Many women with this condition have: Anxiety,  Severe depression ,  Seasonal affective disorder  (SAD) ,  Other factors that may play a role include: Alcohol or substance abuse , Thyroid disorders, Being overweight, Having a mother with a history of the disorder, Lack of exercise , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003198-3" qtype="symptoms">What are the symptoms of Premenstrual dysphoric disorder ?</Question>
+			<Answer>The symptoms of PMDD are similar to those of PMS. However, they are very often more severe and debilitating. They also include at least one mood-related symptom. Symptoms occur during the week just before menstrual bleeding. They most often get better within a few days after the period starts. Here is a list of common PMDD symptoms: Lack of&#160;interest in daily activities and relationships, Fatigue or low energy, Sadness or hopelessness, possibly thoughts of suicide, Anxiety, Out of control feeling, Food cravings or binge eating, Mood swings sometimes with bouts of crying, Panic attacks, Irritability or anger that affects other people, Bloating, breast tenderness, headaches, and joint or muscle pain, Problems sleeping, Trouble concentrating, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003198-4" qtype="exams and tests">How to diagnose Premenstrual dysphoric disorder ?</Question>
+			<Answer>No physical exam or lab tests can diagnose PMDD. A complete history, physical exam (including a pelvic exam), thyroid testing, and psychiatric evaluation should be done to rule out other conditions. Keeping a calendar or diary of symptoms can help women identify the most troublesome symptoms and the times when they are likely to occur. This information may help your health care provider diagnose PMDD and determine the best treatment.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003198-5" qtype="treatment">What are the treatments for Premenstrual dysphoric disorder ?</Question>
+			<Answer>A healthy lifestyle is the first step to managing PMDD. Eat healthy foods with whole grains, vegetables, fruit, and little or no salt, sugar, alcohol, and caffeine., Get regular aerobic exercise throughout the month to reduce the severity of PMS symptoms., If you have problems sleeping, try changing your sleep habits before taking medicines for insomnia.,  Keep a diary or calendar to record: The type of symptoms you are having, How severe they are, How long they last,  Some antidepressants may be helpful. The first option is most often an antidepressant known as a selective serotonin-reuptake inhibitor (SSRI). You can take SSRIs in the second part of your cycle up until your period starts. You may also take it the whole month. Ask your provider. Cognitive behavioral therapy (CBT) may be used either with or instead of antidepressants. During CBT, you have about 10 visits with a mental health professional over several weeks to months. Other treatments that may help include: Birth control pills which typically help reduce PMS symptoms. Continuous dosing types are most effective, especially those that contain a hormone called drospirenone. With continuous dosing, you may not get a monthly period., Diuretics which may be useful for women who have significant short-term weight gain from fluid retention., Other medicines (such as Depo-Lupron) that suppress the ovaries and ovulation, although the side effects that occur are similar to those occurring in women in menopause., Pain relievers such as aspirin or ibuprofen that may be prescribed for headache, backache, menstrual cramps, and breast tenderness.,  Most studies have shown that nutritional supplements, such as vitamin B6, calcium, and magnesium are not helpful in relieving symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003198-6" qtype="outlook">What is the outlook for Premenstrual dysphoric disorder ?</Question>
+			<Answer>After proper diagnosis and treatment, most women with PMDD find that their symptoms go away or drop to tolerable levels.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003198-7" qtype="complications">What are the complications of Premenstrual dysphoric disorder ?</Question>
+			<Answer>PMDD symptoms may be severe enough to interfere with a woman's daily life. Women with depression may have worse symptoms during the second half of their cycle and may need changes in their medicine. Some women with PMDD have suicidal thoughts. Suicide in women with depression is more likely to occur during the second half of their menstrual cycle. PMDD may be associated with eating disorders and smoking.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003198-8" qtype="when to contact a medical professional">Do I need to see a doctor for Premenstrual dysphoric disorder ?</Question>
+			<Answer>If you or someone you know is thinking about suicide, call or text 988 or chat 988lifeline.org. You can also call 1-800-273-8255 (1-800-273-TALK). The 988 Suicide and Crisis Lifeline provides free and confidential support 24/7, anytime day or night. You can also call 911 or the local emergency number or go to the hospital emergency room. DO NOT delay. If someone you know has attempted suicide, call 911 or the local emergency number right away. DO NOT leave the person alone, even after you have called for help. Contact your provider if: Symptoms do not improve with self-treatment, Symptoms interfere with your daily life, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

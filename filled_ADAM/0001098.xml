@@ -1,0 +1,57 @@
+<Document id="0001098" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001625.htm">
+ 
+<Focus>Dacryoadenitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0155223</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001098-1" qtype="information">What is (are) Dacryoadenitis ?</Question>
+			<Answer>Dacryoadenitis is inflammation of the tear-producing gland (lacrimal gland).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001098-2" qtype="causes">What causes Dacryoadenitis ?</Question>
+			<Answer>Acute dacryoadenitis is most commonly due to viral or bacterial infection. Common causes include  mumps ,  Epstein-Barr virus , staphylococcus, and gonococcus. Chronic dacryoadenitis is most often due to noninfectious inflammatory disorders. Examples include  sarcoidosis , thyroid eye disease, and  orbital pseudotumor .</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001098-3" qtype="symptoms">What are the symptoms of Dacryoadenitis ?</Question>
+			<Answer>Symptoms may include: Swelling of the outer portion of the upper eyelid, with possible redness and tenderness
+  , Pain in the area of swelling
+  , Excess tearing or discharge
+  , Swelling of lymph nodes in front of the ear, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001098-4" qtype="exams and tests">How to diagnose Dacryoadenitis ?</Question>
+			<Answer>Dacryoadenitis can be diagnosed by an exam of the eyes and lids. Special tests, such as a  CT scan  may be needed to look for the cause. Sometimes a biopsy will be needed to&#160;make sure that a  tumor of the lacrimal gland  is not present.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001098-5" qtype="treatment">What are the treatments for Dacryoadenitis ?</Question>
+			<Answer>If the cause of dacryoadenitis is a viral condition such as mumps, rest and warm compresses may be enough. In other cases, the treatment depends on the disease that caused the condition.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001098-6" qtype="outlook">What is the outlook for Dacryoadenitis ?</Question>
+			<Answer>Most people will fully recover from dacryoadenitis. For more serious causes, such as sarcoidosis, the outlook depends on the disease that caused this condition.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001098-7" qtype="complications">What are the complications of Dacryoadenitis ?</Question>
+			<Answer>Swelling may be severe enough to put pressure on the eye and distort vision. Some people who were&#160;first thought to have dacryoadenitis may turn out to have cancer of the lacrimal gland.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001098-8" qtype="when to contact a medical professional">Do I need to see a doctor for Dacryoadenitis ?</Question>
+			<Answer>Contact your health care provider if swelling or pain increase despite treatment.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001098-9" qtype="prevention">How to prevent Dacryoadenitis ?</Question>
+			<Answer>Mumps can be prevented by getting vaccinated. You can avoid getting infected with gonococcus, the bacteria that cause gonorrhea,&#160;by using&#160;safe sex practices. Most other causes cannot be prevented.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

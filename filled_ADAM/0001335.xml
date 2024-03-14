@@ -1,0 +1,58 @@
+<Document id="0001335" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007321.htm">
+ 
+<Focus>Ebstein anomaly</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013481</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ebstein's anomaly</Synonym>
+		<Synonym>Ebstein's malformation</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001335-1" qtype="information">What is (are) Ebstein anomaly ?</Question>
+			<Answer>Ebstein anomaly is a rare heart defect in which parts of the tricuspid valve are abnormal. The tricuspid valve separates the right lower heart chamber (right ventricle) from the right upper heart chamber (right atrium). In Ebstein anomaly, the positioning of the tricuspid valve and how it functions to separate the two chambers is abnormal.  The condition is congenital, which means it is present at birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001335-2" qtype="causes">What causes Ebstein anomaly ?</Question>
+			<Answer>The tricuspid valve is normally made of three parts, called leaflets or flaps. The leaflets open to allow blood to move from the right atrium (top chamber) to the right ventricle (bottom chamber) while the heart relaxes. They close to prevent blood from moving from the right ventricle to the right atrium while the heart pumps. In people with Ebstein anomaly, the leaflets are placed deeper into the right ventricle instead of the normal position. The leaflets are often larger than normal. The defect most often causes the valve to work poorly, and blood may go the wrong way. Instead of flowing out to the lungs, the blood flows back into the right atrium. The backup of blood flow can lead to heart enlargement and fluid buildup in the body. There may also be narrowing of the valve that leads to the lungs (pulmonary valve). In many cases, people also have a hole in the wall separating the heart's two upper chambers ( atrial septal defect ) and blood flow across this hole may cause oxygen-poor blood to go to the body. This can cause cyanosis, a blue tint to the skin caused by oxygen-poor blood. Ebstein anomaly occurs as a baby develops in the womb. The exact cause is unknown. The use of certain drugs (such as lithium or benzodiazepines) during pregnancy may play a role. The condition is rare. It is more common in white people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001335-3" qtype="symptoms">What are the symptoms of Ebstein anomaly ?</Question>
+			<Answer>The abnormality can be slight or very severe. Therefore, the symptoms can also range from mild to very severe. Symptoms can develop soon after birth, and can include bluish-colored lips and nails due to low blood oxygen levels. In severe cases, the baby appears very sick and has trouble breathing. In mild cases, the affected person may be asymptomatic for many years, sometimes even permanently. Symptoms in older children may include: Cough, Failure to grow, Fatigue, Rapid breathing, Shortness of breath, Very fast heartbeat , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001335-4" qtype="exams and tests">How to diagnose Ebstein anomaly ?</Question>
+			<Answer>Newborns who have a severe leakage across the tricuspid valve will have a very low level of oxygen in their blood and significant heart enlargement. The health care provider may hear abnormal heart sounds, such as a murmur, when listening to the chest with a stethoscope. Tests that can help diagnose this condition include: Chest x-ray, Magnetic resonance imaging (MRI) of the heart, Measurement of the electrical activity of the heart (ECG), Ultrasound of the heart (echocardiogram) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001335-5" qtype="treatment">What are the treatments for Ebstein anomaly ?</Question>
+			<Answer>Treatment depends on the severity of the defect and the specific symptoms. Medical care may include: Medicines to help with heart failure, such as diuretics., Oxygen and other breathing support., Surgery to correct the valve., Replacement of the tricuspid valve. This may be needed for children who continue to worsen or who have more serious complications. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001335-6" qtype="outlook">What is the outlook for Ebstein anomaly ?</Question>
+			<Answer>In general, the earlier symptoms develop, the more severe the disease. Some people may have either no symptoms or very mild symptoms. Others may worsen over time, developing blue coloring (cyanosis), heart failure, heart block, or dangerous heart rhythms.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001335-7" qtype="complications">What are the complications of Ebstein anomaly ?</Question>
+			<Answer>A severe leakage can lead to swelling of the heart and liver, and  congestive heart failure . Other complications may include: Abnormal heart rhythms (arrhythmias), including abnormally fast rhythms (tachyarrhythmias) and abnormally slow rhythms (bradyarrhythmias and heart block), Blood clots from the heart to other parts of the body, Brain abscess , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001335-8" qtype="when to contact a medical professional">Do I need to see a doctor for Ebstein anomaly ?</Question>
+			<Answer>Contact your provider if your child develops symptoms of this condition. Get medical attention right away if breathing problems occur.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001335-9" qtype="prevention">How to prevent Ebstein anomaly ?</Question>
+			<Answer>There is no known prevention, other than talking with your provider before a pregnancy if you are taking medicines that are thought to be related to developing this disease. You may be able to prevent some of the complications of the disease. For example, taking antibiotics before dental surgery may help prevent endocarditis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

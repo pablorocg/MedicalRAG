@@ -1,0 +1,58 @@
+<Document id="0002957" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000736.htm">
+ 
+<Focus>Parinaud oculoglandular syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cat scratch disease</Synonym>
+		<Synonym>Oculoglandular syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002957-1" qtype="information">What is (are) Parinaud oculoglandular syndrome ?</Question>
+			<Answer>Parinaud oculoglandular syndrome is an eye problem that is similar to conjunctivitis ("pink eye"). It most often affects only one eye. It occurs with  swollen lymph nodes  and an illness with a fever. Note : Parinaud syndrome (also called upgaze paresis) is a different disorder in which you have trouble looking upward. The latter can be caused by a brain tumor, and requires an immediate evaluation by your health care provider.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002957-2" qtype="causes">What causes Parinaud oculoglandular syndrome ?</Question>
+			<Answer>Parinaud oculoglandular syndrome (POS) is caused by an infection with bacteria, a virus, fungus, or parasite. The most common causes are cat scratch disease and  tularemia  (rabbit fever). The bacteria that cause either condition can infect the eye. The bacteria can directly enter the eye (on a finger or other object), or air droplets that carry the bacteria can land on the eye. Other infectious diseases may spread the same way, or through the bloodstream to the eye.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002957-3" qtype="symptoms">What are the symptoms of Parinaud oculoglandular syndrome ?</Question>
+			<Answer>Symptoms include: Red, irritated, and painful eye (looks like "pink eye"), Fever, General ill feeling, Increased tearing (possible), Swelling of nearby lymph glands (often in front of the ear) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002957-4" qtype="exams and tests">How to diagnose Parinaud oculoglandular syndrome ?</Question>
+			<Answer>An exam shows: Fever and other signs of illness, Red, tender, inflamed eye, Tender lymph nodes may be present in front of the ear, There may be growths (conjunctival nodules) on the inside of the eyelid or the white of the eye ,  Blood tests will be done to check for infection. The  white blood cell  count may be high or low, depending on the cause of the infection. A blood test to check antibody levels is the main method used to diagnose many of the infections that cause POS. Other tests may include: Biopsy of the lymph node , Laboratory culture of eye fluids, lymph node tissue, or blood , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002957-5" qtype="treatment">What are the treatments for Parinaud oculoglandular syndrome ?</Question>
+			<Answer>Depending on the cause of the infection, antibiotics may be helpful. Surgery may be needed in rare cases to clean away the infected tissues.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002957-6" qtype="outlook">What is the outlook for Parinaud oculoglandular syndrome ?</Question>
+			<Answer>The outlook depends on the cause of the infection. In general, if the diagnosis is made early and treatment starts right away, the outcome of POS can be very good.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002957-7" qtype="complications">What are the complications of Parinaud oculoglandular syndrome ?</Question>
+			<Answer>Serious complications are rare. The conjunctival nodules can sometimes form sores (ulcers) during the healing process. The infection can spread to nearby tissues or into the bloodstream.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002957-8" qtype="when to contact a medical professional">Do I need to see a doctor for Parinaud oculoglandular syndrome ?</Question>
+			<Answer>You should contact your provider if you develop a red, irritated, painful eye.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002957-9" qtype="prevention">How to prevent Parinaud oculoglandular syndrome ?</Question>
+			<Answer>Frequent hand washing can reduce the likelihood of getting POS. Avoid being scratched by a cat, even a healthy cat. You can avoid tularemia by not having contact with wild rabbits, squirrels, or ticks.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

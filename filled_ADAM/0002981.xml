@@ -1,0 +1,55 @@
+<Document id="0002981" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007660.htm">
+ 
+<Focus>Pediatric sleep apnea</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2118104</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sleep apnea - pediatric</Synonym>
+		<Synonym>Apnea - pediatric sleep apnea syndrome</Synonym>
+		<Synonym>Sleep-disordered breathing - pediatric</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002981-1" qtype="information">What is (are) Pediatric sleep apnea ?</Question>
+			<Answer>With pediatric sleep apnea, a child's breathing pauses during sleep because the airway has become narrowed or partly blocked.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002981-2" qtype="causes">What causes Pediatric sleep apnea ?</Question>
+			<Answer>During sleep, all of the muscles in the body become more relaxed. This includes the muscles that help keep the throat open so air can flow into the lungs. Normally, the throat remains open enough during sleep to let air pass by. However, some children have a narrow throat. This is often because of large tonsils or adenoids, which partially block the airflow. When the muscles in their upper throat relax during sleep, the tissues close in and block the airway. This stop in breathing is called apnea. Other factors that also may increase the risk of sleep apnea in children include: A small jaw, Certain shapes of the roof of the mouth (palate), Large tongue, which may fall back and block the airway, Obesity, Poor muscle tone due to conditions such as  Down syndrome  or  cerebral palsy , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002981-3" qtype="symptoms">What are the symptoms of Pediatric sleep apnea ?</Question>
+			<Answer>Loud snoring is a telltale symptom of sleep apnea. Snoring is caused by air squeezing through the narrowed or blocked airway. However, not every child who snores has sleep apnea. Children with sleep apnea also have the following symptoms at night: Long silent pauses in breathing followed by snorts, choking, and gasps for air, Breathing mainly though the mouth , Restless sleep, Waking up often, Sleepwalking , Sweating, Bedwetting,  During the daytime, children with sleep apnea may: Feel sleepy or drowsy throughout the day , Act grumpy, impatient, or irritable, Have trouble concentrating in school, Have hyperactive behavior, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002981-4" qtype="exams and tests">How to diagnose Pediatric sleep apnea ?</Question>
+			<Answer>Your health care provider will take your child's medical history and do a physical exam. Your provider will check your child's mouth, neck, and throat., Your child may be asked about daytime sleepiness, how well they sleep, and bedtime habits. ,  Your child may be given a  sleep study  to confirm sleep apnea.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002981-5" qtype="treatment">What are the treatments for Pediatric sleep apnea ?</Question>
+			<Answer>Surgery to remove the tonsils and adenoids often cures the condition in children. If needed, surgery also may be used to: Remove extra tissue at the back of the throat, Correct problems with the structures in the face, Create an opening in the windpipe to bypass the blocked airway if there are physical problems ,  Sometimes, surgery is not recommended or does not help. In that case, your child may use a  continuous positive airway pressure (CPAP) device . Your child wears a mask over their nose during sleep., The mask is connected by a hose to a small machine that sits at the side of the bed., The machine pumps air under pressure through the hose and mask and into the airway during sleep. This helps keep the airway open. ,  It can take some time to get used to sleeping using CPAP therapy. Good follow-up and support from a sleep center can help your child overcome any problems using CPAP. Other treatments may include: Inhaled nasal steroids., Dental device. This is inserted into the mouth during sleep to keep the jaw forward and the airway open., Weight loss, for overweight children. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002981-6" qtype="outlook">What is the outlook for Pediatric sleep apnea ?</Question>
+			<Answer>In most cases, treatment completely relieves symptoms and problems from sleep apnea.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002981-7" qtype="complications">What are the complications of Pediatric sleep apnea ?</Question>
+			<Answer>Untreated pediatric sleep apnea may lead to: High blood pressure, Heart or lung problems, Slow growth and development, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002981-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pediatric sleep apnea ?</Question>
+			<Answer>Contact your provider if: You notice symptoms of sleep apnea in your child, Symptoms don't improve with treatment, or new symptoms develop, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

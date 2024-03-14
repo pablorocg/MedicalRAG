@@ -1,0 +1,22 @@
+<Document id="0001369" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002361.htm">
+ 
+<Focus>Elimination patterns</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0231360</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001369-1" qtype="information">What is (are) Elimination patterns ?</Question>
+			<Answer>Elimination patterns describe the regulation, control, and removal of by-products and wastes in the body. The term usually refers to the movement of feces or urine from the body.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

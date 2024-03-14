@@ -1,0 +1,55 @@
+<Document id="0002718" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000202.htm">
+ 
+<Focus>Myocardial contusion</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0273112</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Blunt myocardial injury</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002718-1" qtype="information">What is (are) Myocardial contusion ?</Question>
+			<Answer>Myocardial contusion is a bruise of the heart muscle.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002718-2" qtype="causes">What causes Myocardial contusion ?</Question>
+			<Answer>The most common causes are: Car crashes, Getting hit by a car,  Cardiopulmonary resuscitation  (CPR), Falling from a height, most often greater than 20 feet (6 meters), </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002718-3" qtype="symptoms">What are the symptoms of Myocardial contusion ?</Question>
+			<Answer>
+A severe myocardial contusion may lead to signs and symptoms of a heart attack.
+ Symptoms can include:
+ Pain in the front of the ribs or breastbone
+   , Feeling that your heart is racing
+   , Lightheadedness, Nausea or vomiting, Shortness of breath, Weakness
+   , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002718-4" qtype="exams and tests">How to diagnose Myocardial contusion ?</Question>
+			<Answer>The health care provider will perform a physical exam. This may show: Bruise or scrapes on the chest wall, Crunching sensation when touching the skin if there are rib fractures and puncture of the lung, Fast heartbeat,  Irregular heartbeat ,  Low blood pressure , Rapid or shallow breathing, Tenderness to the touch, Abnormal chest wall movement from rib fractures ,  Tests may include: Blood tests (cardiac enzymes, such as Troponin-I or T or CKMB),  Chest x-ray , CT scan of the chest,  Electrocardiogram  (ECG),  Echocardiogram ,  These tests may show: Problems with the heart wall and the ability for the heart to contract, Fluid or blood in the thin sac surrounding the heart (pericardium), Rib fractures, lung or blood vessel injury, Problem with the heart's electrical signaling (such as a bundle branch block or other heart block), Fast heartbeat starting at the sinus node of the heart (sinus  tachycardia ), Abnormal heartbeat starting in the ventricles or lower chambers of the heart (ventricular dysrhythmia) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002718-5" qtype="treatment">What are the treatments for Myocardial contusion ?</Question>
+			<Answer>In most cases, you will be closely monitored for at least 24 hours. An ECG will be done continually to check your heart function.  Emergency room treatment may include: Catheter placement through a vein (IV), Medicines to relieve pain, heart rate disturbances, or low blood pressure, Pacemaker (temporary, may be permanent later), Oxygen ,  Other therapies may be used to treat a heart injury, include: Chest tube placement, Draining blood from around the heart, Surgery to repair blood vessels in the chest , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002718-6" qtype="outlook">What is the outlook for Myocardial contusion ?</Question>
+			<Answer>People with a mild myocardial contusion will recover completely most of the time.  Serious heart injuries can increase your risk for heart failure or heart rhythm problems.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002718-7" qtype="prevention">How to prevent Myocardial contusion ?</Question>
+			<Answer>The following safety tips may help prevent a heart bruise: Wear a seat belt when driving., Choose a car with air bags., Take steps to ensure safety when working at heights. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

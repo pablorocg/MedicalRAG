@@ -1,0 +1,55 @@
+<Document id="0001987" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001140.htm">
+ 
+<Focus>Hirschsprung's disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019569</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Congenital megacolon</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001987-1" qtype="information">What is (are) Hirschsprung's disease ?</Question>
+			<Answer>Hirschsprung disease causes a blockage of the large intestine. It occurs due to poor muscle movement in the bowel. It is a congenital condition, which means it is present from birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001987-2" qtype="causes">What causes Hirschsprung's disease ?</Question>
+			<Answer>Muscle contractions in the gut help digested foods and liquids move through the intestine. This is called peristalsis. Nerves between the muscle layers trigger the contractions. In people with Hirschsprung disease, the nerves are missing from a part of the bowel. Areas without these nerves cannot push material through. This causes a blockage. Intestinal contents build up behind the blockage. The bowel and abdomen swell as a result. Hirschsprung disease causes about 25% of all newborn intestinal blockages. It occurs 5 times more often in males than in females. Hirschsprung disease is sometimes linked to other inherited or congenital conditions, such as Down syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001987-3" qtype="symptoms">What are the symptoms of Hirschsprung's disease ?</Question>
+			<Answer>Symptoms that may be present in newborns and infants include: Difficulty with bowel movements, Failure to pass meconium shortly after birth, Failure to pass a first stool within 24 to 48 hours after birth, Infrequent but explosive stools,  Jaundice , Poor feeding, Poor weight gain,  Vomiting ,  Watery diarrhea  (in the newborn) ,  Symptoms in older children: Constipation that gradually gets worse , Fecal impaction, Malnutrition,  Slow growth ,  Swollen belly , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001987-4" qtype="exams and tests">How to diagnose Hirschsprung's disease ?</Question>
+			<Answer>Milder cases may not be diagnosed until the baby is older. During a physical exam, the health care provider may be able to feel loops of bowel in the swollen belly. A rectal exam may reveal tight muscle tone in the rectal muscles. Tests used to help diagnose Hirschsprung disease may include: Abdominal x-ray , Anal manometry (a balloon is inflated in the rectum to measure pressure in the area),  Barium enema ,  Rectal biopsy , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001987-5" qtype="treatment">What are the treatments for Hirschsprung's disease ?</Question>
+			<Answer>A procedure called serial rectal irrigation helps relieve pressure in (decompress) the bowel.  The abnormal section of colon must be taken out using surgery. Most commonly, the rectum and abnormal part of the colon are removed. The healthy part of the colon is then pulled down and attached to the anus. Sometimes this can be done in one operation. However, it is often done in two parts. A colostomy is performed first. The other part of the procedure is done later in the child's first year of life.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001987-6" qtype="outlook">What is the outlook for Hirschsprung's disease ?</Question>
+			<Answer>Symptoms improve or go away in most children after surgery. A small number of children may have constipation or problems controlling stools (fecal incontinence). Children who get treated early or who have a shorter segment of bowel involved have a better outcome.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001987-7" qtype="complications">What are the complications of Hirschsprung's disease ?</Question>
+			<Answer>Complications may include: Inflammation and infection of the intestines (enterocolitis) may occur before surgery, and sometimes during the first 1 to 2 years afterwards. Symptoms are severe, including swelling of the abdomen, foul-smelling watery diarrhea, lethargy, and poor feeding., Perforation or rupture of the intestine., Short bowel syndrome, a condition that can lead to malnourishment and dehydration. , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001987-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hirschsprung's disease ?</Question>
+			<Answer>Contact your child's provider if: Your child develops symptoms of Hirschsprung disease, Your child has abdominal pain or other new symptoms after being treated for this condition, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

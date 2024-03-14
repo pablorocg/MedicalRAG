@@ -1,0 +1,61 @@
+<Document id="0002080" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001311.htm">
+ 
+<Focus>Hyperimmunoglobulin E syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022398</CUI>
+		</CUIs>
+		<SemanticTypes>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Job syndrome</Synonym>
+		<Synonym>Hyper IgE syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002080-1" qtype="information">What is (are) Hyperimmunoglobulin E syndrome ?</Question>
+			<Answer>Hyperimmunoglobulin E syndrome is a rare, genetic disease. It causes problems with the skin, sinuses, lungs, bones, and teeth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002080-2" qtype="causes">What causes Hyperimmunoglobulin E syndrome ?</Question>
+			<Answer>Hyperimmunoglobulin E syndrome is also called Job syndrome. It is named after the biblical character Job, whose faithfulness was tested by an affliction with draining skin sores and  pustules . People with this condition have long-term, severe skin infections. The symptoms are most often present in childhood, but because the disease is so rare, it often takes years before a correct diagnosis is made. Recent research suggests that the disease is often caused by a genetic change that takes place in the  STAT3 gene  on  chromosome  17. How this gene abnormality causes the symptoms of the disease is not well understood. However, people with the disease have a higher-than-normal level of a type of  antibody  called IgE.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002080-3" qtype="symptoms">What are the symptoms of Hyperimmunoglobulin E syndrome ?</Question>
+			<Answer>Symptoms include: Bone and tooth defects, including fractures and losing the baby teeth late, Eczema, Skin  abscesses  and infection, Repeated  sinus infections , Repeated lung infections
+   , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002080-4" qtype="exams and tests">How to diagnose Hyperimmunoglobulin E syndrome ?</Question>
+			<Answer>A physical exam may show: Curving of the spine ( kyphoscoliosis ),  Osteomyelitis , Repeat sinus infections,  Tests used to confirm the diagnosis include: Absolute eosinophil count ,  CBC  with  blood differential ,  Serum globulin electrophoresis  to look for high blood IgE level, Genetic testing of  STAT3  gene,  An eye exam may reveal signs of  dry eye syndrome . A chest x-ray may reveal lung abscesses. Other tests that may be done: CT scan  of the chest
+   , Cultures of the infected site, Special blood tests to check parts of the  immune system ,  X-ray of the bones , 
+   CT scan of the sinuses
+   ,  A scoring system that combines the different problems of Hyper IgE syndrome may be used to help make the diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002080-5" qtype="treatment">What are the treatments for Hyperimmunoglobulin E syndrome ?</Question>
+			<Answer>There is no known cure for this condition. The goal of treatment is to control the infections. Medicines include: Antibiotics ,  Antifungal and antiviral medicines (when appropriate) ,  Surgery is sometimes needed to drain abscesses. Gamma globulin given through a vein (IV) may help build up the immune system if you have severe infections.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002080-6" qtype="outlook">What is the outlook for Hyperimmunoglobulin E syndrome ?</Question>
+			<Answer>Hyper IgE syndrome is a lifelong chronic condition. Each new infection requires treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002080-7" qtype="complications">What are the complications of Hyperimmunoglobulin E syndrome ?</Question>
+			<Answer>Complications may include: Repeated infections,  Sepsis , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002080-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hyperimmunoglobulin E syndrome ?</Question>
+			<Answer>Contact your health care provider if you have symptoms of Hyper IgE syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002080-9" qtype="prevention">How to prevent Hyperimmunoglobulin E syndrome ?</Question>
+			<Answer>There is no proven way to prevent Hyper IgE syndrome. Good general hygiene is helpful in preventing skin infections. Some providers may recommend preventive antibiotics for people who develop many infections, especially with  Staphylococcus aureus . This treatment does not change the condition, but it can lessen its complications.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

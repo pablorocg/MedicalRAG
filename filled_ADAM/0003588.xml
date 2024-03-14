@@ -1,0 +1,17 @@
+<Document id="0003588" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003803.htm">
+ 
+<Focus>Sinus x-ray</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Paranasal sinus radiography</Synonym>
+		<Synonym>X-ray - sinuses</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003588-1" qtype="information">Do you have information about Sinus x-ray</Question>
+			<Answer>A sinus  x-ray  is an imaging test to look at the sinuses. These are the air-filled spaces in the front of the skull.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,54 @@
+<Document id="0001674" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007218.htm">
+ 
+<Focus>Gangrene</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017086</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001674-1" qtype="information">What is (are) Gangrene ?</Question>
+			<Answer>Gangrene is the death of tissue in part of the body.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001674-2" qtype="causes">What causes Gangrene ?</Question>
+			<Answer>Gangrene happens when a body part loses its blood supply. This may happen from injury, an infection, or other causes. You have a higher risk for gangrene if you have: A serious injury, A blood vessel disease (such as arteriosclerosis, also called hardening of the arteries, in your arms or legs), Diabetes, A suppressed immune system (for example, from HIV/AIDS or chemotherapy), Surgery, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001674-3" qtype="symptoms">What are the symptoms of Gangrene ?</Question>
+			<Answer>The symptoms depend on the location and cause of the gangrene. If the skin is involved, or the gangrene is close to the skin, the symptoms may include: Discoloration (blue or black if skin is affected; red or bronze if the affected area is beneath the skin), Foul-smelling discharge , Loss of feeling in the area (which may happen after severe pain in the area),  If the affected area is inside your body (such as gangrene of the gallbladder or  gas gangrene ), the symptoms may include: Confusion, Fever, Gas in tissues beneath the skin, General ill feeling, Low blood pressure, Persistent or severe pain, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001674-4" qtype="exams and tests">How to diagnose Gangrene ?</Question>
+			<Answer>Your health care provider may diagnose gangrene from a physical exam. The following tests and procedures may also be used to diagnose gangrene: Arteriogram (special x-ray to see any blockages in the blood vessels) to help plan treatment for a blood vessel disease, Blood tests (white blood cell [WBC] count may be high), CT scan to examine internal organs, Culture of the tissue or fluid from wounds to identify bacterial infection, Examining tissue under the microscope to look for cell death, X-rays , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001674-5" qtype="treatment">What are the treatments for Gangrene ?</Question>
+			<Answer>Gangrene requires urgent evaluation and treatment. In general, dead tissue should be removed to allow healing of the surrounding living tissue and prevent further infection. Depending on the area that has the gangrene, the person's overall condition, and the cause of the gangrene, treatment may include: Amputating the body part that has gangrene , An emergency operation to find and remove dead tissue, An operation to improve blood supply to the area, Antibiotics, Repeated operations to remove dead tissue (debridement), Treatment in the intensive care unit (for severely ill people),  Hyperbaric oxygen therapy  to improve the amount of oxygen in the blood, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001674-6" qtype="outlook">What is the outlook for Gangrene ?</Question>
+			<Answer>What to expect depends on: Where the gangrene is in the body, How much gangrene there is, The person's overall condition,  The person may die if: Treatment is delayed, Gangrene is extensive, The person has other significant medical problems, </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001674-7" qtype="complications">What are the complications of Gangrene ?</Question>
+			<Answer>Complications depend on: Where in the body the gangrene is, How much gangrene there is, The cause of the gangrene, The person's overall condition,  Complications can include: Disability from amputation or removal of dead tissue, Prolonged wound healing or the need for reconstructive surgery, such as skin grafting, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001674-8" qtype="when to contact a medical professional">Do I need to see a doctor for Gangrene ?</Question>
+			<Answer>Contact your provider right away if: A wound does not heal or there are frequent sores in an area, An area of your skin turns blue or black, There is foul-smelling discharge from any wound on your body, You have persistent, unexplained pain in an area, You have persistent, unexplained fever, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001674-9" qtype="prevention">How to prevent Gangrene ?</Question>
+			<Answer>Gangrene may be prevented if it is treated before the tissue damage can't be reversed. Wounds should be treated properly and watched carefully for signs of infection (such as spreading redness, swelling, or drainage) or failure to heal. People with diabetes or blood vessel disease should routinely examine their feet for any signs of injury, infection, or change in skin color and seek care as needed.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

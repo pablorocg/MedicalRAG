@@ -1,0 +1,47 @@
+<Document id="0002106" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001286.htm">
+ 
+<Focus>Hypospadias</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1691215</CUI>
+			<CUI>C0848558</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002106-1" qtype="information">What is (are) Hypospadias ?</Question>
+			<Answer>Hypospadias is a birth (congenital) defect in which the opening of the urethra is on the underside of the penis. The urethra is the tube that carries urine and semen through the penis and outside the body. In males, the opening of the urethra is normally at the end of the penis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002106-2" qtype="causes">What causes Hypospadias ?</Question>
+			<Answer>Hypospadias occurs in about 1 in 200 newborn boys in the United States. The cause is often unknown.  Certain factors may be associated with the condition, such as: Family history, Genetic factors that affect the development of the urethra, Maternal age over 35, Maternal overweight or obesity, Premature birth, Low birth weight,  Other factors, such as exposure to certain hormones or substances in the environment may also play a role.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002106-3" qtype="symptoms">What are the symptoms of Hypospadias ?</Question>
+			<Answer>Symptoms depend on how severe the problem is.  Most often, boys with this condition have the opening of the urethra near the tip of the penis on the underside.  More severe forms of hypospadias occur when the opening is in the middle or base of the penis. Rarely, the opening is located in or behind the scrotum. This condition may cause a downward curve of the penis during an erection. Erections are common in infant boys. Other symptoms include: Abnormal spraying of urine (this can make it difficult to urinate while standing), Foreskin that makes the penis looks like it has a "hood" ,  Some boys with hypospadias have one or both testicles that have not moved down into the scrotum (undescended testicle).</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002106-4" qtype="exams and tests">How to diagnose Hypospadias ?</Question>
+			<Answer>This problem is usually diagnosed soon after birth during a physical exam. Imaging tests may be done to look for other congenital defects. Infants with hypospadias who have one or both testicles that have not moved down into the scrotum may need genetic testing ( karyotyping ) to check for genetic conditions.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002106-5" qtype="treatment">What are the treatments for Hypospadias ?</Question>
+			<Answer>The goals of treatment are: To ensure that urine and semen can pass normally through the urethra, To have the opening of the urethra at or near the tip of the penis, To correct any curvature so the penis is straight during an erection,  Infants with hypospadias should not be  circumcised . The foreskin should be kept intact for use in later surgical repair. In most cases, surgery is done before the child starts school. Most urologists recommend repair when the child is between 6 and 12 months and before 18 months old. During the surgery, the penis is straightened and the opening is corrected using tissue grafts from the foreskin. For more complex cases, the repair may require several surgeries. In some cases, if the hypospadias is very mild and there is no curve in the penis, surgery may be optional. However, even very mild cases may need to be repaired to prevent possible future problems. It's important to discuss the benefits and risks of treatment with your health care provider when deciding what is best for your child.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002106-6" qtype="outlook">What is the outlook for Hypospadias ?</Question>
+			<Answer>Results after surgery are most often good. In some cases, more surgery is needed to correct  fistulas &#160;(abnormal connection between the urethra and skin), narrowing of the urethra, or a return of the abnormal penis curve. Most males can have normal adult sexual activity. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002106-7" qtype="when to contact a medical professional">Do I need to see a doctor for Hypospadias ?</Question>
+			<Answer>Contact your provider if your son has: A curved penis during an erection, Opening to the urethra that is not on the tip of the penis, Incomplete (hooded) foreskin, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

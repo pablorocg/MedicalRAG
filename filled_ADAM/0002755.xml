@@ -1,0 +1,45 @@
+<Document id="0002755" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003098.htm">
+ 
+<Focus>Neck lump</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0149736</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lump in the neck</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002755-1" qtype="information">What is (are) Neck lump ?</Question>
+			<Answer>A neck lump is any lump, bump, or swelling in the neck.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002755-2" qtype="considerations">What to do for Neck lump ?</Question>
+			<Answer>There are many causes of lumps in the neck. The most common lumps or swellings are  enlarged lymph nodes . These can be caused by bacterial or viral infections, cancer ( malignancy ), or other rare causes. Swollen salivary glands under the jaw may be caused by infection or cancer. Lumps in the muscles of the neck are caused by injury or spasm of the neck muscles ( torticollis ). These lumps are often at the front of the neck. Lumps in the skin or just below the skin are often caused by  cysts , such as  sebaceous cysts . The thyroid gland may also produce swelling or one or more lumps. This can be due to thyroid disease or cancer. Most cancers of the thyroid gland grow very slowly. They are often cured with surgery, even if they have been present for several years. All neck lumps in children and adults should be checked right away by a health care provider. In children, most neck lumps are caused by infections that can be treated. Treatment should start quickly to prevent complications or the spread of infection. As adults age, the likelihood of the lump being a cancer increases. This is particularly true for people who smoke or drink a lot of alcohol. Most lumps in adults are not cancers.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002755-3" qtype="causes">What causes Neck lump ?</Question>
+			<Answer>Lumps in the neck from swollen lymph nodes may be caused by: Bacterial or viral infection, Cancer, Thyroid disease, Allergic reaction,  Lumps in the neck due to enlarged salivary glands may be caused by: Infection,  Mumps ,  Salivary gland tumor , Stone in salivary duct, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002755-4" qtype="considerations">What to do for Neck lump ?</Question>
+			<Answer>There are many causes of lumps in the neck. The most common lumps or swellings are  enlarged lymph nodes . These can be caused by bacterial or viral infections, cancer ( malignancy ), or other rare causes. Swollen salivary glands under the jaw may be caused by infection or cancer. Lumps in the muscles of the neck are caused by injury or spasm of the neck muscles ( torticollis ). These lumps are often at the front of the neck. Lumps in the skin or just below the skin are often caused by  cysts , such as  sebaceous cysts . The thyroid gland may also produce swelling or one or more lumps. This can be due to thyroid disease or cancer. Most cancers of the thyroid gland grow very slowly. They are often cured with surgery, even if they have been present for several years. All neck lumps in children and adults should be checked right away by a health care provider. In children, most neck lumps are caused by infections that can be treated. Treatment should start quickly to prevent complications or the spread of infection. As adults age, the likelihood of the lump being a cancer increases. This is particularly true for people who smoke or drink a lot of alcohol. Most lumps in adults are not cancers.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002755-5" qtype="when to contact a medical professional">Do I need to see a doctor for Neck lump ?</Question>
+			<Answer>Contact your provider if you have an abnormal neck swelling or lumps in your neck.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002755-6" qtype="outlook">What is the outlook for Neck lump ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

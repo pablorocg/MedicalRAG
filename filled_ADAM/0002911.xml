@@ -1,0 +1,42 @@
+<Document id="0002911" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002516.htm">
+ 
+<Focus>Oxazepam overdose</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0572983</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Serax overdose</Synonym>
+		<Synonym>Adumbran overdose</Synonym>
+		<Synonym>Serenid Forte overdose</Synonym>
+		<Synonym>Zapex overdose</Synonym>
+		<Synonym>Novoxapam overdose</Synonym>
+		<Synonym>Oxpam overdose</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002911-1" qtype="information">What is (are) Oxazepam overdose ?</Question>
+			<Answer>Oxazepam is a medicine used to treat anxiety and symptoms of alcohol withdrawal. It belongs to the class of medicines known as benzodiazepines. Oxazepam overdose occurs when someone takes too much of this medicine. Benzodiazepines are the most common prescription drugs used in suicide attempts. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with overdoses, call the local emergency number (such as 911), or the local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002911-4" qtype="symptoms">What are the symptoms of Oxazepam overdose ?</Question>
+			<Answer>Symptoms of oxazepam overdose include: Blurred or  double vision , rapid  side-to-side movement of eyes &#160;(nystagmus),  Coma  (decreased level of consciousness and lack of responsiveness),  Confusion , Dizziness,  Drowsiness , tiredness, fainting, Nausea, Rash, Slowed or absent breathing, Stupor (decreased level of alertness), Slurred speech, Weakness,  uncoordinated movement , staggering gait (ataxia, seen commonly in children) , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002911-7" qtype="outlook">What is the outlook for Oxazepam overdose ?</Question>
+			<Answer>Recovery usually occurs with proper treatment. People who are in a prolonged coma or who have respiratory complications may have permanent disability.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002911-8" qtype="outlook">What is the outlook for Oxazepam overdose ?</Question>
+			<Answer>Recovery usually occurs with proper treatment. People who are in a prolonged coma or who have respiratory complications may have permanent disability.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,59 @@
+<Document id="0002984" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000342.htm">
+ 
+<Focus>Pellagra</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0030783</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Vitamin B3 deficiency</Synonym>
+		<Synonym>Deficiency - niacin</Synonym>
+		<Synonym>Nicotinic acid deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002984-1" qtype="information">What is (are) Pellagra ?</Question>
+			<Answer>Pellagra is a disease that occurs when a person does not get enough  niacin  (one of the B complex vitamins) or  tryptophan  (an amino acid).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002984-2" qtype="causes">What causes Pellagra ?</Question>
+			<Answer>Pellagra is caused by having too little niacin or tryptophan in the diet. It can also occur if the body fails to absorb these nutrients.  Pellagra may also develop due to: Gastrointestinal diseases, Weight loss (bariatric) surgery, Anorexia, Excessive alcohol use,  Carcinoid syndrome  (group of symptoms associated with carcinoid tumors of the small intestine, colon, appendix, and bronchial tubes in the lungs), Certain medicines, such as isoniazid, 5-fluorouracil, 6-mercaptopurine, pyrazinamide, hydantoin, ethionamide, phenobarbital, azathioprine, and chloramphenicol,  Pellagra is most common among poor and food-limited populations. The disease is more common in parts of the world (such as certain parts of Africa) where people have a lot of untreated corn in their diet. Corn is a poor source of tryptophan, and niacin in corn is tightly bound to other components of the grain. Niacin is released from corn if soaked in limewater overnight. This method is used to cook tortillas in Central America where pellagra is rare. Pellagra is rare in the United States and may be associated with severe alcoholism or medical causes of malnutrition.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002984-3" qtype="symptoms">What are the symptoms of Pellagra ?</Question>
+			<Answer>Symptoms of pellagra include: Delusions or mental confusion,  Diarrhea , Weakness, Loss of appetite, Pain in abdomen, Inflamed mucous membrane, Scaly skin sores, especially in sun-exposed areas of the skin, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002984-4" qtype="exams and tests">How to diagnose Pellagra ?</Question>
+			<Answer>Your health care provider will perform a physical exam. You will be asked about the foods you eat. Tests that may be done include urine tests to check if your body has enough niacin. Blood tests may also be done.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002984-5" qtype="treatment">What are the treatments for Pellagra ?</Question>
+			<Answer>The goal of treatment is to increase your body's niacin level. You will be prescribed niacin supplements. You may also need to take other supplements. Follow your provider's instructions exactly on how much and how often to take the supplements. Symptoms due to the pellagra, such as skin sores, will be treated. If you have conditions that are causing the pellagra, these will also be treated. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002984-6" qtype="outlook">What is the outlook for Pellagra ?</Question>
+			<Answer>People often do well after taking niacin.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002984-7" qtype="complications">What are the complications of Pellagra ?</Question>
+			<Answer>Left untreated, pellagra can result in nerve damage, particularly in the brain and death. Skin sores may become infected.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002984-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pellagra ?</Question>
+			<Answer>Contact your provider if you have any symptoms of pellagra.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002984-9" qtype="prevention">How to prevent Pellagra ?</Question>
+			<Answer>Pellagra can be prevented by following a well-balanced diet.  Get treated for health problems that may cause pellagra. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

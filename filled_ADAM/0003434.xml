@@ -1,0 +1,16 @@
+<Document id="0003434" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000357.htm">
+ 
+<Focus>Rotator cuff exercises</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Shoulder exercises</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003434-1" qtype="information">Do you have information about Rotator cuff exercises</Question>
+			<Answer>The rotator cuff is a group of muscles and tendons that form a cuff over the shoulder joint. These muscles and tendons hold the arm in its joint and help the shoulder joint to move in a coordinated and pain-free way. The tendons can be torn from overuse, injury, or wearing away over time. Exercises can help strengthen the rotator cuff muscles and tendons to relieve your symptoms.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

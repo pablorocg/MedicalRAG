@@ -1,0 +1,26 @@
+<Document id="0004110" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007248.htm">
+ 
+<Focus>Urinary catheter - infants</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2135597</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bladder catheter - infants</Synonym>
+		<Synonym>Foley catheter - infants</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004110-1" qtype="information">What is (are) Urinary catheter - infants ?</Question>
+			<Answer>WHY IS A URINARY CATHETER USED? Babies may need urinary catheters while in the hospital if they are not making much urine. This is called low urine output. Babies can have low urine output because they: Have low blood pressure, Have problems with their urinary system, Are given medicines that will not allow them to move their muscles, Are recovering from surgery or severe illness,  When your baby has a catheter, health care providers can measure how much urine is coming out. They can figure out how much fluid your baby needs. A baby may have a catheter inserted and then removed right away to help diagnose an infection in the bladders or kidneys. HOW IS A URINARY CATHETER PLACED? A provider puts the catheter into the urethra and up into the bladder. The urethra is an opening at the tip of the penis in boys and near the vagina in girls. The provider will: Clean the tip of the penis or the area around the vagina., Gently put the catheter into the bladder., If a Foley catheter is used, there is a very small balloon on the end of the catheter in the bladder. This is filled with a small amount of water to keep the catheter from falling out., The catheter is connected to a bag for the urine to go into., This bag is emptied into a measuring cup to see how much urine your baby is making. ,  WHAT ARE THE RISKS OF A URINARY CATHETER? There is a small risk for injury to the urethra or the bladder when the catheter is inserted. Urinary catheters that are left in place for more than a few days increase the risk for a bladder or kidney infection.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

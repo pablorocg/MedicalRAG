@@ -1,0 +1,22 @@
+<Document id="0004070" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000073.htm">
+ 
+<Focus>Types of ileostomy</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Ileostomy - types</Synonym>
+		<Synonym>Standard ileostomy</Synonym>
+		<Synonym>Brooke ileostomy</Synonym>
+		<Synonym>Continent ileostomy</Synonym>
+		<Synonym>Abdominal pouch</Synonym>
+		<Synonym>End ileostomy</Synonym>
+		<Synonym>Ostomy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004070-1" qtype="information">Do you have information about Types of ileostomy</Question>
+			<Answer>You had an injury or disease in your digestive system and needed an operation called an ileostomy. The operation changed the way your body gets rid of waste (stool, feces, or poop). Now you have an opening called a stoma in your belly. Waste will pass through the stoma into a pouch that collects it. You will need to take care of the stoma and empty the pouch several times a day.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

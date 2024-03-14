@@ -1,0 +1,45 @@
+<Document id="0003781" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002492.htm">
+ 
+<Focus>Sulfuric acid poisoning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0161695</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Battery acid poisoning</Synonym>
+		<Synonym>Hydrogen sulfate poisoning</Synonym>
+		<Synonym>Oil of vitriol poisoning</Synonym>
+		<Synonym>Matting acid poisoning</Synonym>
+		<Synonym>Vitriol brown oil poisoning</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003781-1" qtype="information">What is (are) Sulfuric acid poisoning ?</Question>
+			<Answer>Sulfuric acid is a very strong chemical that is corrosive. Corrosive means it can cause severe burns and tissue damage when it comes into contact with the skin or mucous membranes. This article discusses poisoning from sulfuric acid. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003781-4" qtype="symptoms">What are the symptoms of Sulfuric acid poisoning ?</Question>
+			<Answer>Initial symptoms include severe pain on contact. Symptoms from swallowing may also include: Breathing difficulty  due to throat swelling, Burns in the mouth and throat, Drooling, Fever, Rapid development of low blood pressure (shock), Severe pain in the mouth and throat, Speech problems, Vomiting, with blood, Vision loss ,  Symptoms from breathing in the poison may include: Bluish skin , lips, and fingernails, Breathing difficulty, Body weakness,  Chest pain  (tightness),  Choking , Coughing,  Coughing up blood ,  Dizziness , Low blood pressure,  Rapid pulse ,  Shortness of breath ,  Symptoms from skin or eye contact may include: Skin burning, drainage, and pain, Eye burning, drainage, and pain, Vision loss , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003781-5" qtype="considerations">What to do for Sulfuric acid poisoning ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003781-8" qtype="outlook">What is the outlook for Sulfuric acid poisoning ?</Question>
+			<Answer>How well a person does depends on how fast the poison is diluted and neutralized. Extensive damage to the mouth, throat, eyes, lungs, esophagus, nose, and stomach is possible. The ultimate outcome depends on how much damage there is. Damage continues to occur to the esophagus and stomach for several weeks after the poison is swallowed, which can lead to serious infection and failure of multiple organs. Treatment may require the removal of part of the esophagus and stomach.  If the poison enters the lungs, serious damage may occur, both immediately and long-term. Swallowing the poison may cause death. It may occur as long as a month after the poisoning.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003781-9" qtype="outlook">What is the outlook for Sulfuric acid poisoning ?</Question>
+			<Answer>How well a person does depends on how fast the poison is diluted and neutralized. Extensive damage to the mouth, throat, eyes, lungs, esophagus, nose, and stomach is possible. The ultimate outcome depends on how much damage there is. Damage continues to occur to the esophagus and stomach for several weeks after the poison is swallowed, which can lead to serious infection and failure of multiple organs. Treatment may require the removal of part of the esophagus and stomach.  If the poison enters the lungs, serious damage may occur, both immediately and long-term. Swallowing the poison may cause death. It may occur as long as a month after the poisoning.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,45 @@
+<Document id="0003563" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003271.htm">
+ 
+<Focus>Short stature</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0349588</CUI>
+			<CUI>C0013336</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Idiopathic short stature</Synonym>
+		<Synonym>Non-growth hormone deficient short stature</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003563-1" qtype="information">What is (are) Short stature ?</Question>
+			<Answer>A child who has short stature is much shorter than children who are the same age and sex. Your health care provider will go over your child's growth chart with you. A child with short stature's height is: Two standard deviations (SD) or more below the average height for children of the same sex and age., Below the 2.3rd percentile on the growth chart. This means that out of 1,000 boys (or girls) who were born on the same day, 977 of the children are taller than your son or daughter. , </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003563-2" qtype="considerations">What to do for Short stature ?</Question>
+			<Answer>Your child's provider checks how your child is growing at regular checkups. Your child's provider will: Record your child's height and weight on a growth chart., Monitor your child's growth rate over time. Ask your child's provider what percentile your child is for height and weight., Compare your child's height and weight to other children of the same age and sex., Talk with you if you are worried that your child is shorter than other children. If your child has short stature, this does not necessarily mean that something is wrong. , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003563-3" qtype="causes">What causes Short stature ?</Question>
+			<Answer>There are many reasons why your child could have short stature. Most of the time, there is no medical cause for short stature. Your child may be small for their age, but is growing OK. They will probably start puberty later than their friends. Your child will most likely keep growing after most of their peers have stopped growing, and will probably be as tall as their parents. Providers call this "constitutional growth delay.", If one or both parents are short, your child will most likely also be short. Your child should get as tall as one of their parents.,  Sometimes, short stature may be a symptom of a medical condition. Bone or skeletal disorders, such as: Rickets ,  Achondroplasia ,  Long-term (chronic) diseases, such as: Asthma ,  Celiac disease ,  Congenital heart disease ,  Cushing disease , Diabetes,  Hypothyroidism , Inflammatory bowel disease,  Juvenile rheumatoid arthritis , Kidney disease,  Sickle cell anemia ,  Thalassemia ,  Genetic conditions, such as: Down syndrome,  Noonan syndrome ,  Russell-Silver syndrome ,  Turner syndrome ,  Williams syndrome ,  Other reasons include: Growth hormone deficiency , Infections of the developing baby before birth,  Malnutrition , Poor growth of a baby while in the womb ( intrauterine growth restriction ) or  small for gestational age ,  This list does not include every possible cause of short stature.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003563-4" qtype="when to contact a medical professional">Do I need to see a doctor for Short stature ?</Question>
+			<Answer>Contact your child's provider if your child appears to be much shorter than most children their age, or if they seem to have stopped growing.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003563-5" qtype="outlook">What is the outlook for Short stature ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

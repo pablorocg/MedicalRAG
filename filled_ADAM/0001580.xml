@@ -1,0 +1,18 @@
+<Document id="0001580" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002470.htm">
+ 
+<Focus>Fiber</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Diet - fiber</Synonym>
+		<Synonym>Roughage</Synonym>
+		<Synonym>Bulk</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001580-1" qtype="information">Do you have information about Fiber</Question>
+			<Answer>Fiber is a substance found in plants. Dietary fiber, which is the type of fiber you can eat, is found in fruits, vegetables, and grains. It is an important part of a healthy diet.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

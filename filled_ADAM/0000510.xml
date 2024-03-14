@@ -1,0 +1,16 @@
+<Document id="0000510" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003682.htm">
+ 
+<Focus>Bone marrow culture</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Culture - bone marrow</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000510-1" qtype="information">Do you have information about Bone marrow culture</Question>
+			<Answer>Bone marrow culture is an examination of the soft, fatty tissue found inside certain bones. The bone marrow tissue produces blood cells. This test is done to look for an infection inside the bone marrow. It is often done to diagnose prolonged fever that remains unexplained after other tests.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

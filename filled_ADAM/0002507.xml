@@ -1,0 +1,52 @@
+<Document id="0002507" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001177.htm">
+ 
+<Focus>Male pattern baldness</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162311</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Alopecia in men</Synonym>
+		<Synonym>Baldness - male</Synonym>
+		<Synonym>Hair loss in men</Synonym>
+		<Synonym>Androgenetic alopecia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002507-1" qtype="information">What is (are) Male pattern baldness ?</Question>
+			<Answer>Male pattern baldness is the most common type of hair loss in men.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002507-2" qtype="causes">What causes Male pattern baldness ?</Question>
+			<Answer>Male pattern baldness is related to your genes and male sex hormones. It usually follows a pattern of receding hairline and hair thinning on the crown. Each strand of hair sits in a tiny hole (cavity) in the skin called a follicle. Generally, baldness occurs when the hair follicle shrinks over time, resulting in shorter and finer hair. Eventually, the follicle does not grow new hair. The follicles remain alive, which suggests that it is still possible to grow new hair.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002507-3" qtype="symptoms">What are the symptoms of Male pattern baldness ?</Question>
+			<Answer>The typical pattern of male baldness begins at the hairline in the front of the head. The hairline gradually moves backward (recedes) and forms an "M" shape. A circular area on the back of the head (vertex) often thins and expands in size over time. Eventually the hair becomes finer, shorter, and thinner, and creates a U-shaped (or horseshoe) pattern of hair around the sides of the head and a bald area on the back of the head.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002507-4" qtype="exams and tests">How to diagnose Male pattern baldness ?</Question>
+			<Answer>Classic male pattern baldness is usually diagnosed based on the appearance and pattern of the hair loss.  Hair loss may be due to other conditions. This may be true if hair loss occurs in patches, you shed a lot of hair, your hair breaks, or you have hair loss along with redness,  scaling , pus, or pain. A  skin biopsy , blood tests, or other procedures may be needed to diagnose other disorders that cause hair loss. Hair analysis is not accurate for diagnosing hair loss due to nutritional or similar disorders. But it may reveal substances such as arsenic or lead.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002507-5" qtype="treatment">What are the treatments for Male pattern baldness ?</Question>
+			<Answer>Treatment is not necessary if you are comfortable with your appearance. Hair weaving, hairpieces, or change of hairstyle may disguise the hair loss. This is usually the least expensive and safest approach for male baldness. Medicines that treat male pattern baldness include: Minoxidil (Rogaine), a solution that is applied directly to the scalp to stimulate the hair follicles. It slows hair loss for many men, and some men grow new hair. Hair loss returns when you stop using this medicine., Finasteride (Propecia, Proscar), a pill that interferes with the production of a highly active form of testosterone that is linked to baldness. It slows hair loss. It works slightly better than minoxidil. Hair loss returns when you stop using this medicine., Dutasteride is similar to finasteride but may be more effective.,  Other treatments that are being investigated include: Platelet-Rich Plasma (PRP) injected into the scalp to stimulate hair growth. This involves drawing your blood, collecting a portion that is rich in platelets, and injecting the areas of hair loss over a series of sessions., Hair transplants consist of removing tiny plugs of hair from areas where the hair is continuing to grow and placing them in areas that are balding. The procedure usually requires multiple sessions and may be expensive., The use of laser or light caps or helmets to stimulate hair follicles.,  Suturing hair pieces to the scalp is not recommended. It can result in scars, infections, and  abscess  of the scalp. The use of hair implants made of artificial fibers was banned by the FDA because of the high rate of infection.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002507-6" qtype="outlook">What is the outlook for Male pattern baldness ?</Question>
+			<Answer>Male pattern baldness does not indicate a medical disorder, but it may affect self-esteem or cause anxiety. The hair loss is usually permanent.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002507-7" qtype="when to contact a medical professional">Do I need to see a doctor for Male pattern baldness ?</Question>
+			<Answer>Call your health care provider if: Your hair loss occurs in an atypical pattern, including rapid hair loss, widespread shedding, hair loss in patches, or hair breakage. ,  Your hair loss occurs with itching, skin irritation, redness, scaling, pain, or other symptoms. ,  Your hair loss begins after starting a medicine. ,  You want to treat your hair loss. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,54 @@
+<Document id="0004178" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001509.htm">
+ 
+<Focus>Vaginal cysts</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0241619</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Inclusion cyst</Synonym>
+		<Synonym>Gartner's duct cyst</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004178-1" qtype="information">What is (are) Vaginal cysts ?</Question>
+			<Answer>A cyst is a closed pocket or pouch of tissue. It can be filled with air, fluid, pus, or other material. A vaginal cyst occurs on or under the lining of the vagina.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004178-2" qtype="causes">What causes Vaginal cysts ?</Question>
+			<Answer>There are several types of vaginal cysts. Vaginal inclusion cysts are the most common. These may form due to injury to the vaginal walls during the birth process or after surgery., Gartner duct cysts develop on the side walls of the vagina. The Gartner duct is present while a baby is developing in the womb. However, this most often disappears after birth. If parts of the duct remain, they may collect fluid and develop into a vaginal wall cyst later in life.,  Bartholin cyst or abscess  forms when fluid or pus builds up and forms a lump in one of the Bartholin glands. These glands are found on each side of the vaginal opening., Endometriosis may appear as small cysts in the vagina. This is uncommon., Benign tumors of the vagina are uncommon. These tumors are most often composed of cysts., Cystoceles and rectoceles are bulges in the vaginal wall from the adjacent bladder or rectum. This happens when the muscles surrounding the vagina become weak, most commonly due to childbirth. These are not really cysts, but can look and feel like cystic masses in the vagina., </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004178-3" qtype="symptoms">What are the symptoms of Vaginal cysts ?</Question>
+			<Answer>Most vaginal cysts usually do not cause symptoms. In some cases, a soft lump can be felt in the vaginal wall or protruding from the vagina. Cysts range in size from the size of a pea to that of an orange. However, Bartholin cysts can become infected, swollen and painful.  Some women with vaginal cysts may have discomfort during sex or trouble inserting a tampon. Women with cystoceles or rectoceles may feel a protruding bulge, pelvic pressure or have difficulty with urination or defecation.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004178-4" qtype="exams and tests">How to diagnose Vaginal cysts ?</Question>
+			<Answer>A physical exam is essential to determine what type of cyst or mass you may have.  A mass or bulge of the vaginal wall may be seen during a pelvic exam. You may need a biopsy to rule out vaginal cancer, especially if the mass appears to be solid. If the cyst is located under the bladder or urethra, x-rays may be needed to see if the cyst extends into these organs.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004178-5" qtype="treatment">What are the treatments for Vaginal cysts ?</Question>
+			<Answer>Follow-up exams to check the size of the cyst and look for any changes may be the only treatment needed. Biopsies or minor surgeries to remove the cysts or drain them are typically simple to perform and resolve the issue.  Bartholin gland cysts often need to be drained. Sometimes, antibiotics are prescribed to treat them as well.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004178-6" qtype="outlook">What is the outlook for Vaginal cysts ?</Question>
+			<Answer>Most of the time, the outcome is good. Cysts often remain small and do not need treatment. When surgically removed, the cysts most often do not return. Bartholin cysts can sometimes recur and need ongoing treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004178-7" qtype="complications">What are the complications of Vaginal cysts ?</Question>
+			<Answer>In most cases, there are no complications from the cysts themselves. A surgical removal carries a small risk for complication. The risk depends on where the cyst is located.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004178-8" qtype="when to contact a medical professional">Do I need to see a doctor for Vaginal cysts ?</Question>
+			<Answer>Contact your health care provider if you feel a lump inside your vagina or is protruding from your vagina. It is important to contact your provider for an exam for any cyst or mass you notice. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

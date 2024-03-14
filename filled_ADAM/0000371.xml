@@ -1,0 +1,54 @@
+<Document id="0000371" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000776.htm">
+ 
+<Focus>Autonomic neuropathy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0259749</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Neuropathy - autonomic</Synonym>
+		<Synonym>Autonomic nerve disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000371-1" qtype="information">What is (are) Autonomic neuropathy ?</Question>
+			<Answer>Autonomic neuropathy is a group of symptoms that occur when there is damage to the nerves that manage normally automatic body functions. These functions include blood pressure, heart rate, sweating, bowel and bladder emptying, and digestion.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000371-2" qtype="causes">What causes Autonomic neuropathy ?</Question>
+			<Answer>Autonomic neuropathy is a group of symptoms. It is not a specific disease. There are many causes. Autonomic neuropathy involves damage to the nerves that carry information from the brain and spinal cord. The information is then carried to the heart, blood vessels, bladder, intestines, sweat glands, and pupils. Autonomic neuropathy may be seen with: Alcohol abuse, Diabetes  (diabetic neuropathy) , Disorders involving scarring of tissues around the nerves,  Guillain Barr&#233; syndrome  or other diseases that inflame nerves,  HIV/AIDS , Inherited nerve disorders, Multiple sclerosis,  Parkinson disease , Spinal cord injury, Surgery or injury involving the nerves , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000371-3" qtype="symptoms">What are the symptoms of Autonomic neuropathy ?</Question>
+			<Answer>Symptoms vary, depending on the nerves affected. They usually develop slowly over years.  Stomach and intestine symptoms may include: Constipation (hard stools), Diarrhea (loose stools), Feeling full after only a few bites ( early satiety ), Nausea after eating,  Problems controlling bowel movements , Swallowing problems,  Swollen abdomen , Vomiting of undigested food ,  Heart and lungs symptoms may include: Abnormal heart rate or rhythm, Blood pressure drop with position that causes dizziness when standing, High blood pressure, Shortness of breath with activity or exercise ,  Bladder symptoms may include: Difficulty beginning to urinate , Feeling of incomplete bladder emptying, Leaking urine ,  Other symptoms may include: Sweating too much or not enough,  Heat intolerance  brought on with activity and exercise, Sexual problems, including erection problems in men and vaginal dryness and orgasm difficulties in women, Small pupil in one eye, Weight loss without trying , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000371-4" qtype="exams and tests">How to diagnose Autonomic neuropathy ?</Question>
+			<Answer>Signs of autonomic nerve damage are not always seen when your doctor examines you. Your blood pressure or heart rate may change when lying down, sitting, or standing.  Special tests to measure sweating and heart rate may be done. This is called autonomic testing. Other tests depend on what type of symptoms you have. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000371-5" qtype="treatment">What are the treatments for Autonomic neuropathy ?</Question>
+			<Answer>Treatment to reverse nerve damage is most often not possible. As a result, treatment and self-care are focused on managing your symptoms and preventing further problems. Your health care provider may recommend:  Extra salt in the diet or taking salt tablets to increase fluid volume in blood vessels, Fludrocortisone or similar medicines to help your body retain salt and fluid, Medicines to treat irregular heart rhythms,  Pacemaker , Sleeping with the head raised, Wearing  compression stockings ,  The following may help your intestines and stomach work better: Daily bowel care program , Medicines that help the stomach move food through faster, Sleeping with the head raised, Small, frequent meals ,  Medicines and self-care programs can help you if you have:  Urinary incontinence ,  Neurogenic bladder , Erection problems , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000371-6" qtype="outlook">What is the outlook for Autonomic neuropathy ?</Question>
+			<Answer>How well you do will depend on the cause of the problem and if it can be treated. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000371-7" qtype="when to contact a medical professional">Do I need to see a doctor for Autonomic neuropathy ?</Question>
+			<Answer>Contact your provider if you have symptoms of autonomic neuropathy. Early symptoms might include: Becoming faint or lightheaded when standing, Changes in bowel, bladder, or sexual function, Unexplained nausea and vomiting when eating ,  Early diagnosis and treatment may control symptoms. Autonomic neuropathy may hide the warning signs of a heart attack. Instead of feeling chest pain, if you have autonomic neuropathy, during a heart attack you may only have: Sudden fatigue, Sweating, Shortness of breath, Nausea and vomiting, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000371-8" qtype="prevention">How to prevent Autonomic neuropathy ?</Question>
+			<Answer>Prevent or control associated disorders to reduce the risk for neuropathy. For example, people with diabetes should closely  control blood sugar levels . </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,24 @@
+<Document id="0000910" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002071.htm">
+ 
+<Focus>Colon cancer screening</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Screening for colon cancer</Synonym>
+		<Synonym>Colonoscopy - screening</Synonym>
+		<Synonym>Sigmoidoscopy - screening</Synonym>
+		<Synonym>Virtual colonoscopy - screening</Synonym>
+		<Synonym>Fecal immunochemical test</Synonym>
+		<Synonym>Stool DNA test</Synonym>
+		<Synonym>sDNA test</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000910-1" qtype="information">Do you have information about Colon cancer screening</Question>
+			<Answer>SCREENING TESTS There are several ways to screen for colon cancer. Stool test: Polyps in the colon and small cancers can cause small amounts of bleeding that cannot be seen with the naked eye. But blood can often be found in the stool., This method checks your stool for blood., A common test used is the  fecal occult blood test  (gFOBT).&#160;Two other tests are called the  fecal immunochemical test  (FIT) and stool DNA test (sDNA) commonly known as  Cologuard .&#160;,  
+Sigmoidoscopy: This test uses a small flexible scope to view the lower part of your colon. Because the test only looks at the last one third of the large intestine (colon), it may miss some cancers that are higher in the large intestine.,  Sigmoidoscopy  and a stool test may be used together. ,  
+Colonoscopy: A  colonoscopy  is similar to a sigmoidoscopy, but the entire colon can be viewed., Your health care provider will give you the steps for cleansing your bowel. This is called bowel preparation., During a colonoscopy, you receive medicine to make you relaxed and sleepy., Sometimes, CT scans are used as an alternative to a regular colonoscopy. This is called a  virtual colonoscopy . ,  Other test: Capsule endoscopy  involves swallowing a small, pill-sized camera that takes a video of the inside of your intestines. The method is being studied, so it is not recommended for standard screening at this time. ,  SCREENING FOR AVERAGE-RISK PEOPLE There is not enough evidence to say that any one screening method is best. Colonoscopy is the most thorough but also has the highest risk. Talk to your provider about which test is right for you. All adults should have a colon cancer screening test starting at age 45. Screening options for people with an average risk for colon cancer: Colonoscopy every 10 years starting at age 45, gFOBT or FIT every year (colonoscopy is needed if results are positive), sDNA-FIT every 1 to 3 years (colonoscopy is needed if results are positive), Flexible sigmoidoscopy every 5 years or every 10 years plus stool testing with FIT done every year, CT colonography (virtual colonoscopy) every 5 years ,  SCREENING FOR HIGHER-RISK PEOPLE People with certain risk factors for colon cancer may need earlier (before age 45) or more frequent testing. More common risk factors are: A family history of inherited colorectal cancer syndromes, such as familial adenomatous polyposis (FAP) or hereditary nonpolyposis colorectal cancer (HNPCC)., A strong family history of colorectal cancer or polyps. This usually means close relatives (parent, sibling, or child) who developed these conditions younger than age 60., A personal history of colorectal cancer or polyps., A personal history of long-term (chronic) inflammatory bowel disease (for example,  ulcerative colitis  or  Crohn disease ). ,  Screening for these groups is more likely to be done using colonoscopy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,46 @@
+<Document id="0001601" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003113.htm">
+ 
+<Focus>Flank pain</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0016199</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pain - side</Synonym>
+		<Synonym>Side pain</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001601-1" qtype="information">What is (are) Flank pain ?</Question>
+			<Answer>Flank pain is pain in one side of the body between the upper belly area (abdomen) and the back.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001601-2" qtype="considerations">What to do for Flank pain ?</Question>
+			<Answer>Flank pain can be a sign of a kidney problem. But, since many organs are in this area, other causes are possible. If you have flank pain and fever, chills, blood in the urine, or frequent or urgent urination, then a kidney problem is the likely cause. It could be a sign of&#160; kidney stones .</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001601-3" qtype="causes">What causes Flank pain ?</Question>
+			<Answer>Flank pain may be caused by any of the following: Arthritis or infection of the spine, Back problem, such as disk disease, Gallbladder disease, Gastrointestinal disease, Liver disease,  Muscle spasm ,  Kidney stone , infection, or abscess,  Shingles  (pain with one-sided  rash ), Spinal fracture , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001601-4" qtype="considerations">What to do for Flank pain ?</Question>
+			<Answer>Flank pain can be a sign of a kidney problem. But, since many organs are in this area, other causes are possible. If you have flank pain and fever, chills, blood in the urine, or frequent or urgent urination, then a kidney problem is the likely cause. It could be a sign of&#160; kidney stones .</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001601-5" qtype="when to contact a medical professional">Do I need to see a doctor for Flank pain ?</Question>
+			<Answer>Contact your health care provider if you have any of the following: Flank pain along with a high fever, chills, nausea, or vomiting, Blood (red or brown color) in the urine, Unexplained flank pain that continues, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001601-6" qtype="outlook">What is the outlook for Flank pain ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

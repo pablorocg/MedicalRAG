@@ -1,0 +1,48 @@
+<Document id="0000522" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003135.htm">
+ 
+<Focus>Bowel incontinence</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0015732</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Uncontrollable passage of feces</Synonym>
+		<Synonym>Loss of bowel control</Synonym>
+		<Synonym>Fecal incontinence</Synonym>
+		<Synonym>Incontinence - bowel</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000522-1" qtype="information">What is (are) Bowel incontinence ?</Question>
+			<Answer>Bowel incontinence is the loss of bowel control, causing you to unexpectedly pass stool. This can range from sometimes leaking a small amount of stool and passing gas, to not being able to control bowel movements. Urinary incontinence  is when you are not able to control passing urine. It is not covered in this article.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000522-2" qtype="considerations">What to do for Bowel incontinence ?</Question>
+			<Answer>In adults age 65 and older, women tend to have problems with bowel control more often than men. Children who have problems with leakage due to toilet training problems or constipation may have  encopresis . The rectum, anus, pelvic muscles, and nervous system must work together to control bowel movements. If there is a problem with any of these, it can cause incontinence. You must also be able to recognize and respond to the urge to have a bowel movement. Many people feel embarrassed about bowel incontinence and may not tell their health care provider. But incontinence can be treated. So you should tell your provider if you are having problems. Proper treatment can help most people gain control of their bowels. Exercises to make the anal and pelvic muscles stronger can help the bowels work properly.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000522-3" qtype="causes">What causes Bowel incontinence ?</Question>
+			<Answer>Reasons people have bowel incontinence include: Ongoing (chronic) constipation. This causes the anal muscles and intestines to stretch and weaken, leading to diarrhea and stool leakage.,  Fecal impaction . It is most often caused by chronic constipation. This leads to a lump of stool that partly blocks the large intestine., Long-term laxative use., Colectomy or bowel surgery., Not sensing that it's time to have a bowel movement., Emotional problems., Gynecological, prostate, or rectal surgery., Injury to the anal muscles due to childbirth (in women)., Nerve or muscle damage (from injury, tumor, or radiation)., Severe diarrhea that causes leakage., Severe hemorrhoids or rectal prolapse., Stress of being in&#160;an unfamiliar environment., </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000522-4" qtype="considerations">What to do for Bowel incontinence ?</Question>
+			<Answer>In adults age 65 and older, women tend to have problems with bowel control more often than men. Children who have problems with leakage due to toilet training problems or constipation may have  encopresis . The rectum, anus, pelvic muscles, and nervous system must work together to control bowel movements. If there is a problem with any of these, it can cause incontinence. You must also be able to recognize and respond to the urge to have a bowel movement. Many people feel embarrassed about bowel incontinence and may not tell their health care provider. But incontinence can be treated. So you should tell your provider if you are having problems. Proper treatment can help most people gain control of their bowels. Exercises to make the anal and pelvic muscles stronger can help the bowels work properly.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000522-5" qtype="when to contact a medical professional">Do I need to see a doctor for Bowel incontinence ?</Question>
+			<Answer>Report any problems with incontinence to your provider. Contact your provider if: A child who has been toilet trained has any stool incontinence, An adult has stool incontinence, You have skin irritation or sores as a result of bowel incontinence, You have severe diarrhea , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000522-6" qtype="outlook">What is the outlook for Bowel incontinence ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

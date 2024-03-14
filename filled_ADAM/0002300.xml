@@ -1,0 +1,37 @@
+<Document id="0002300" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007255.htm">
+ 
+<Focus>Knee microfracture surgery</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1265651</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cartilage regeneration - knee</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002300-1" qtype="information">What is (are) Knee microfracture surgery ?</Question>
+			<Answer>Knee microfracture surgery is a common procedure used to repair damaged knee cartilage. Cartilage helps cushion and cover the area where bones meet in the joints.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002300-2" qtype="information">What is (are) Knee microfracture surgery ?</Question>
+			<Answer>Knee microfracture surgery is a common procedure used to repair damaged knee cartilage. Cartilage helps cushion and cover the area where bones meet in the joints.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002300-4" qtype="susceptibility">Who is at risk for Knee microfracture surgery? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002300-7" qtype="outlook">What is the outlook for Knee microfracture surgery ?</Question>
+			<Answer>Many people do well after this surgery. Recovery time can be slow. Many people can go back to sports or other intense activities in about 9 to 12 months. Athletes in very intense sports may not be able to return to their former level. People under age 40 with a recent injury often have the best results. People who are not overweight also have better results. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

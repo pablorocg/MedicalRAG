@@ -1,0 +1,54 @@
+<Document id="0001957" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000969.htm">
+ 
+<Focus>Herpangina</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019338</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001957-1" qtype="information">What is (are) Herpangina ?</Question>
+			<Answer>Herpangina is a viral illness that involves ulcers and sores (lesions) inside the mouth, a sore throat, and fever. Hand, foot, and mouth disease  is a related topic.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001957-2" qtype="causes">What causes Herpangina ?</Question>
+			<Answer>Herpangina is a common childhood infection. It is most often seen in children ages 3 to 10, but it can occur in any age group. It is most often caused by Coxsackie group A viruses. These viruses are contagious. Your child is at risk for herpangina if someone at school or home has the illness.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001957-3" qtype="symptoms">What are the symptoms of Herpangina ?</Question>
+			<Answer>Symptoms may include: Fever , Headache, Loss of appetite, Sore throat, or painful swallowing,  Ulcers  in the mouth and throat, and similar sores on the feet, hands, and buttocks ,  The ulcers most often have a white to whitish-gray base and a red border. They may be very painful. In most cases, there are only a few sores.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001957-4" qtype="exams and tests">How to diagnose Herpangina ?</Question>
+			<Answer>Tests are not normally necessary. Your health care provider can most often diagnose this condition by doing a physical exam and asking questions about the child's symptoms and medical history.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001957-5" qtype="treatment">What are the treatments for Herpangina ?</Question>
+			<Answer>The symptoms are treated as necessary: Take acetaminophen (Tylenol) or ibuprofen (Motrin) by mouth for fever and discomfort as the provider recommends., Increase fluid intake, especially cold milk products. Gargle with cool water or try eating fruit-flavored ice pops. Avoid hot beverages and citrus fruits., Eat a non-irritating diet. (Cold milk products, including ice cream, are often the best choices during herpangina infection. Fruit juices are too acidic and tend to irritate the mouth sores.) Avoid spicy, fried, or hot foods., Use topical anesthetics for the mouth (these may contain benzocaine or xylocaine and are usually not required)., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001957-6" qtype="outlook">What is the outlook for Herpangina ?</Question>
+			<Answer>The illness normally clears up within a week. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001957-7" qtype="complications">What are the complications of Herpangina ?</Question>
+			<Answer>Dehydration is the most common complication, but it can be treated by your provider.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001957-8" qtype="when to contact a medical professional">Do I need to see a doctor for Herpangina ?</Question>
+			<Answer>Contact your provider if: Fever, sore throat, or mouth sores last for more than 5 days, Your child is having trouble drinking liquids or looks  dehydrated , Fever becomes very high or does not go away , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001957-9" qtype="prevention">How to prevent Herpangina ?</Question>
+			<Answer>Good handwashing can help prevent the spread of the viruses that lead to this infection.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

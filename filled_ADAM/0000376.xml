@@ -1,0 +1,16 @@
+<Document id="0000376" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000689.htm">
+ 
+<Focus>Axillary nerve dysfunction</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Neuropathy - axillary nerve</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000376-1" qtype="information">Do you have information about Axillary nerve dysfunction</Question>
+			<Answer>Axillary nerve dysfunction is nerve damage that can lead to a loss of movement or sensation in the shoulder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

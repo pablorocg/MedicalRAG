@@ -1,0 +1,34 @@
+<Document id="0001263" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000473.htm">
+ 
+<Focus>Do-not-resuscitate order</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2587207</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>No code</Synonym>
+		<Synonym>End-of-life</Synonym>
+		<Synonym>Do not resuscitate</Synonym>
+		<Synonym>Do not resuscitate order</Synonym>
+		<Synonym>DNR</Synonym>
+		<Synonym>DNR order</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001263-1" qtype="information">What is (are) Do-not-resuscitate order ?</Question>
+			<Answer>A do-not-resuscitate order, or DNR order, is a medical order written by a doctor. It instructs health care providers not to do cardiopulmonary resuscitation (CPR) if a patient's breathing stops or if the patient's heart stops beating.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001263-2" qtype="information">What is (are) Do-not-resuscitate order ?</Question>
+			<Answer>A do-not-resuscitate order, or DNR order, is a medical order written by a doctor. It instructs health care providers not to do cardiopulmonary resuscitation (CPR) if a patient's breathing stops or if the patient's heart stops beating.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

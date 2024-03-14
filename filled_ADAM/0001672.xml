@@ -1,0 +1,54 @@
+<Document id="0001672" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001436.htm">
+ 
+<Focus>Ganglioneuroblastoma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206718</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001672-1" qtype="information">What is (are) Ganglioneuroblastoma ?</Question>
+			<Answer>Ganglioneuroblastoma is an intermediate tumor that arises from nerve tissues. An intermediate tumor is one that is between benign (slow-growing and unlikely to spread) and malignant (fast-growing, aggressive, and likely to spread).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001672-2" qtype="causes">What causes Ganglioneuroblastoma ?</Question>
+			<Answer>Ganglioneuroblastoma mostly occurs in children ages 2 to 4 years. The tumor affects boys and girls equally. It occurs rarely in adults. Tumors of the nervous system have different degrees of differentiation. This is based on how the tumor cells look under the microscope. It can predict whether or not they are likely to spread. Benign tumors are less likely to spread. Malignant tumors are aggressive, grow quickly, and often spread. A  ganglioneuroma  is less malignant in nature. A  neuroblastoma  (occurring in children over 1 year old) is usually malignant. A ganglioneuroblastoma may be only in one area or it may be widespread, but it is usually less aggressive than a neuroblastoma. The cause is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001672-3" qtype="symptoms">What are the symptoms of Ganglioneuroblastoma ?</Question>
+			<Answer>Most commonly, a lump can be felt in the abdomen with tenderness. This tumor may also occur at other sites, including: Chest cavity, Neck, Legs , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001672-4" qtype="exams and tests">How to diagnose Ganglioneuroblastoma ?</Question>
+			<Answer>The health care provider may do the following tests: Fine-needle aspiration of the tumor, Bone marrow  aspiration  and  biopsy , Bone scan, CT scan or MRI scan of the affected area, PET scan,  Metaiodobenzylguanidine (MIBG) scan , Special blood and urine tests, Surgical biopsy to confirm diagnosis , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001672-5" qtype="treatment">What are the treatments for Ganglioneuroblastoma ?</Question>
+			<Answer>Depending on the type of tumor, treatment can involve surgery, and possibly chemotherapy and radiation therapy. Because these tumors are rare, they should be treated in a specialized center by experts who have experience with them.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001672-6" qtype="support groups">Where to find support for people with Ganglioneuroblastoma ?</Question>
+			<Answer>More information and support for children with ganglioneuroblastoma and their families can be found at: Children's Oncology Group --  www.childrensoncologygroup.org , The Neuroblastoma Children's Cancer Society --  neuroblastomachildrenscancersociety.org/ , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001672-7" qtype="outlook">What is the outlook for Ganglioneuroblastoma ?</Question>
+			<Answer>The outlook depends on how far the tumor has spread, and whether some areas of the tumor contain more aggressive cancer cells.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001672-8" qtype="complications">What are the complications of Ganglioneuroblastoma ?</Question>
+			<Answer>Complications that may result include: Complications of surgery,  radiation , or  chemotherapy , Spread of the tumor into surrounding areas, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001672-9" qtype="when to contact a medical professional">Do I need to see a doctor for Ganglioneuroblastoma ?</Question>
+			<Answer>Contact your provider if you feel a lump or growth on your child's body. Make sure children receive routine examinations as part of their well-child care.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

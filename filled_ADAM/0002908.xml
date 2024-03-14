@@ -1,0 +1,33 @@
+<Document id="0002908" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003101.htm">
+ 
+<Focus>Overweight</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0497406</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Overweight - body mass index</Synonym>
+		<Synonym>Obesity - body mass index</Synonym>
+		<Synonym>BMI</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002908-1" qtype="information">What is (are) Overweight ?</Question>
+			<Answer>Overweight and obesity mean having a weight than is higher than what is healthy for a given height. A person may be overweight from extra muscle, bone, or water, as well as too much fat. But both terms mean that someone's weight is higher than what is thought to be healthy for their height.  More than 1 out of every 3 adults in the United States is overweight. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002908-2" qtype="considerations">What to do for Overweight ?</Question>
+			<Answer>Experts often rely on a formula called  body mass index  (BMI) to determine if a person is overweight. BMI is used to estimate your level of body fat based on your height and weight measured in kilograms and meters. A BMI from 18.5 to 24.9 falls within a healthy weight range., A BMI of 25 to 29.9 falls within the overweight range. Since BMI only estimates how your weight compares to what is healthy, it is not accurate for all people. Some people in this group, such as athletes, may have a lot of muscle weight, and therefore not as much fat. These people will not have an increased risk of health problems due to their weight., A BMI of 30 or higher falls within the obesity range.,  There are three classes of obesity: Class 1: BMI of 30 to less than 35., Class 2: BMI of 35 to less than 40. , Class 3: BMI of 40 or higher. Class 3 is considered "severe obesity.",  The risk for many medical problems is higher for adults who have excess body fat and fall into the overweight groups. 
+CHANGING YOUR LIFESTYLE
+ An active lifestyle and plenty of exercise, along with  healthy eating , is the safest way to lose weight. Even modest weight loss can improve your health. Get support from family and friends. Your main goal should be to learn new, healthy ways of eating and make them part of your daily routine. Many people find it hard to change their eating habits and behaviors. You may have practiced some habits for so long that you may not even know they are unhealthy, or you do them without thinking. You need to be motivated to make lifestyle changes. Make the behavior change part of your life over the long term. Know that it takes time to make and keep a change in your lifestyle. Work with your health care provider and dietitian to set realistic and safe daily calorie counts that help you lose weight. Keep in mind that if you drop your weight slowly and steadily, you are more likely to keep it off. Your dietitian can teach you about: Shopping for healthy foods ,  How to read nutrition labels ,  Healthy snacks ,  Portion sizes ,  Sweetened drinks , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

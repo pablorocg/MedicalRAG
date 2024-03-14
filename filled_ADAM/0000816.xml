@@ -1,0 +1,54 @@
+<Document id="0000816" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001050.htm">
+ 
+<Focus>Cholesteatoma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0008373</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000816-1" qtype="information">What is (are) Cholesteatoma ?</Question>
+			<Answer>Cholesteatoma is a type of skin  cyst  that is located in the middle ear and mastoid bone in the skull.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000816-2" qtype="causes">What causes Cholesteatoma ?</Question>
+			<Answer>Cholesteatoma can be a birth defect (congenital). It more commonly occurs as a result of  chronic ear infection . The eustachian tube helps equalize pressure in the middle ear. When it is not working well, negative pressure can build up and pull part of the eardrum (tympanic membrane) inward. This creates a pocket or cyst that fills with old skin cells and other waste material.  The cyst may become infected or get bigger. This can cause the breakdown of some of the middle ear bones or other structures of the ear. This can affect hearing, balance, and possibly the function of the facial muscles.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000816-3" qtype="symptoms">What are the symptoms of Cholesteatoma ?</Question>
+			<Answer>Symptoms include: Dizziness ,  Drainage from the ear , which can be chronic,  Hearing loss  in one ear, Sensation of ear fullness or pressure, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000816-4" qtype="exams and tests">How to diagnose Cholesteatoma ?</Question>
+			<Answer>An ear exam may show a pocket or opening (perforation) in the eardrum, often with drainage. A deposit of old skin cells may be seen with a microscope or an otoscope, which is&#160;a special instrument to view the ear. Sometimes a group of blood vessels may be seen in the ear. The following tests may be performed to rule out other causes of dizziness: CT scan,  Electronystagmography , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000816-5" qtype="treatment">What are the treatments for Cholesteatoma ?</Question>
+			<Answer>Cholesteatomas very often continue to grow if they are not removed. Surgery is most often successful. However, you may need the ear cleaned by a health care provider from time to time. Another surgery may be needed if the cholesteatoma comes back.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000816-6" qtype="outlook">What is the outlook for Cholesteatoma ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000816-7" qtype="complications">What are the complications of Cholesteatoma ?</Question>
+			<Answer>Complications may include: Brain abscess  (rare),  Erosion  into the facial nerve (causing  facial paralysis ),  Meningitis , Spread of the cyst into the brain, Hearing loss, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000816-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cholesteatoma ?</Question>
+			<Answer>Contact your provider if ear pain, drainage from the ear, or other symptoms occur or worsen, or if hearing loss occurs.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000816-9" qtype="prevention">How to prevent Cholesteatoma ?</Question>
+			<Answer>Prompt and thorough treatment of chronic ear infection may help prevent cholesteatoma.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

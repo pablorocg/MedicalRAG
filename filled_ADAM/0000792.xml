@@ -1,0 +1,17 @@
+<Document id="0000792" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002986.htm">
+ 
+<Focus>Chin augmentation</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Augmentation mentoplasty</Synonym>
+		<Synonym>Genioplasty</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000792-1" qtype="information">Do you have information about Chin augmentation</Question>
+			<Answer>Chin augmentation is surgery to reshape or enhance the size of the chin. It may be done either by inserting an implant or by moving or reshaping the jaw bones.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

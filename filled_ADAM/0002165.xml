@@ -1,0 +1,42 @@
+<Document id="0002165" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003305.htm">
+ 
+<Focus>Increased head circumference</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1848990</CUI>
+			<CUI>C2145637</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Macrocephaly</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002165-1" qtype="information">What is (are) Increased head circumference ?</Question>
+			<Answer>Increased  head circumference  is when the measured distance around the widest part of the skull is larger than expected for the child's age and background.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002165-2" qtype="considerations">What to do for Increased head circumference ?</Question>
+			<Answer>A newborn's head is usually about 2 cm (0.78 inch) larger than the chest size. Between 6 months and 2 years, both measurements are about equal. After 2 years, the chest size becomes larger than the head. Measurements over time that show an increased rate of head growth often provide more valuable information than a single measurement that is larger than expected. Increased pressure inside the head ( increased intracranial pressure ) often occurs with increased head circumference. Symptoms of this condition include: Eyes moving downward,  Irritability , Vomiting , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002165-3" qtype="causes">What causes Increased head circumference ?</Question>
+			<Answer>Increased head size may be from any of the following: Benign familial macrocephaly (family tendency toward large head size),  Canavan disease  (condition that affects how the body breaks down and uses a protein called aspartic acid),  Hydrocephalus  (buildup of fluid inside the skull that leads to brain swelling), Bleeding inside the skull, Disease in which the body is unable to break down long chains of sugar molecules ( Hurler  or  Morquio  syndrome) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002165-4" qtype="when to contact a medical professional">Do I need to see a doctor for Increased head circumference ?</Question>
+			<Answer>Your health care provider usually finds an increased head size in a baby during a routine well-baby exam.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002165-5" qtype="outlook">What is the outlook for Increased head circumference ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,53 @@
+<Document id="0003158" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001475.htm">
+ 
+<Focus>Port-wine stain</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0235752</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Nevus flammeus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003158-1" qtype="information">What is (are) Port-wine stain ?</Question>
+			<Answer>A port-wine stain is a birthmark in which swollen blood vessels create a reddish-purplish discoloration of the skin.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003158-2" qtype="causes">What causes Port-wine stain ?</Question>
+			<Answer>Port-wine stains are caused by an abnormal formation of tiny blood vessels in the skin. In rare cases, port-wine stains are a sign of  Sturge-Weber syndrome  or  Klippel-Trenaunay-Weber syndrome .</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003158-3" qtype="symptoms">What are the symptoms of Port-wine stain ?</Question>
+			<Answer>Early-stage port-wine stains are usually flat and pink. As the child gets older, the stain grows with the child and the color may deepen to dark red or purple. Port-wine stains occur most often on the face but can appear anywhere on the body. Over time, the area can become thickened and take on a cobblestone-like appearance.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003158-4" qtype="exams and tests">How to diagnose Port-wine stain ?</Question>
+			<Answer>Your health care provider can usually diagnose a port-wine stain by looking at your skin. In a few cases, a skin biopsy is needed. Depending on the location of the birthmark and other symptoms, the provider may want to do an  intraocular pressure  test of the eye or  x-ray of the skull . An MRI or CT scan of the brain may also be done.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003158-5" qtype="treatment">What are the treatments for Port-wine stain ?</Question>
+			<Answer>Many treatments have been tried for port-wine stains, including freezing, surgery, radiation, and tattooing. Laser therapy is most successful in removing port-wine stains. It is the only method that can destroy the tiny blood vessels in the skin without causing much damage to the skin. The exact type of laser used depends on the person's age, skin type, and particular port-wine stain.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003158-6" qtype="outlook">What is the outlook for Port-wine stain ?</Question>
+			<Answer>Stains on the face respond better to laser therapy than those on the arms, legs, or middle of the body. Older stains may be more difficult to treat.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003158-7" qtype="complications">What are the complications of Port-wine stain ?</Question>
+			<Answer>Complications may include: Deformity and increasing disfigurement, Emotional and social problems related to their appearance, Development of  glaucoma  in people with port-wine stains involving upper and lower eyelids, Neurologic problems when port-wine stain is associated with a disorder such as Sturge-Weber syndrome, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003158-8" qtype="when to contact a medical professional">Do I need to see a doctor for Port-wine stain ?</Question>
+			<Answer>All birthmarks should be evaluated by the provider during a routine examination.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

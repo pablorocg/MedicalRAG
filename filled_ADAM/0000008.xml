@@ -1,0 +1,17 @@
+<Document id="0000008" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007392.htm">
+ 
+<Focus>Abdominal aortic aneurysm repair - open</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>AAA - open</Synonym>
+		<Synonym>Repair - aortic aneurysm - open</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000008-1" qtype="information">Do you have information about Abdominal aortic aneurysm repair - open</Question>
+			<Answer>Open abdominal aortic aneurysm (AAA) repair is surgery to fix a widened part in your aorta. This is called an  aneurysm . The aorta is the large artery that carries blood from your heart to your belly (abdomen), pelvis, and legs. An  aortic aneurysm  is when part of this artery becomes too large or balloons outward.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

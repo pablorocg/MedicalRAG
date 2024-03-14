@@ -1,0 +1,31 @@
+<Document id="0000829" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000595.htm">
+ 
+<Focus>Choroidal dystrophies</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0730291</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Choroideremia</Synonym>
+		<Synonym>Gyrate atrophy</Synonym>
+		<Synonym>Central areolar choroidal dystrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000829-1" qtype="information">What is (are) Choroidal dystrophies ?</Question>
+			<Answer>Choroidal dystrophies are eye disorders that involve a layer of blood vessels called the  choroid . These vessels are between the  sclera  (the white of the eye) and  retina  (the black of the eye).  In most cases, a choroidal dystrophy is due to an abnormal gene, which is passed down through families. It most often affects males, starting in childhood. The first symptoms are peripheral vision loss and vision loss at night. An eye doctor who specializes in the retina (back of the eye) can diagnose this disorder. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000829-2" qtype="exams and tests">How to diagnose Choroidal dystrophies ?</Question>
+			<Answer>The following tests may be needed to diagnose the condition: Electroretinography ,  Fluorescein angiography ,  Genetic testing , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

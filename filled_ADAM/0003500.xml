@@ -1,0 +1,27 @@
+<Document id="0003500" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000355.htm">
+ 
+<Focus>Scurvy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0036474</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Vitamin C deficiency</Synonym>
+		<Synonym>Deficiency - vitamin C</Synonym>
+		<Synonym>Scorbutus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003500-1" qtype="information">What is (are) Scurvy ?</Question>
+			<Answer>Scurvy is a disease that occurs when you have a severe lack of vitamin C (ascorbic acid) in your diet. Scurvy causes general weakness,  anemia , gum disease, poor wound healing, and  skin hemorrhages . Scurvy is rare in the United States. Older adults who are not getting proper nutrition are most affected by scurvy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

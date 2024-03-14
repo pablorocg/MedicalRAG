@@ -1,0 +1,28 @@
+<Document id="0000164" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003519.htm">
+ 
+<Focus>Allergy testing - skin</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0362085</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Patch tests - allergy</Synonym>
+		<Synonym>Scratch tests - allergy</Synonym>
+		<Synonym>Skin tests - allergy</Synonym>
+		<Synonym>RAST test</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000164-1" qtype="information">What is (are) Allergy testing - skin ?</Question>
+			<Answer>Allergy skin tests are used to find out which substances cause a person to have an  allergic reaction . These substances are called allergens.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<Document id="0000858" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003168.htm">
+ 
+<Focus>Claw foot</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0158461</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T020</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Claw toes</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000858-1" qtype="information">What is (are) Claw foot ?</Question>
+			<Answer>Claw foot is a deformity of the foot. The joint of the toe that is closest to the ankle is bent upward, and the other joints are bent downward. The toe looks like a claw.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000858-2" qtype="considerations">What to do for Claw foot ?</Question>
+			<Answer>Claw toes may be present at birth (congenital). The condition can also develop later in life because of other disorders (acquired). Claw toes may be caused by a nerve problem in the legs or a spinal cord problem or signs of arthritis. The cause is unknown in many cases. Most of the time, claw toes are not harmful by themselves. Rarely, they may be the first sign of a more serious disease of the nervous system. Claw toes may cause pain and lead to calluses on the top of the toe over the first joint, but may also be painless. The condition may create problems fitting into shoes.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000858-3" qtype="causes">What causes Claw foot ?</Question>
+			<Answer>Causes may include: Ankle fractures or surgery,  Cerebral palsy ,  Charcot-Marie-Tooth disease , Other brain and nervous system disorders,  Rheumatoid arthritis , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000858-4" qtype="when to contact a medical professional">Do I need to see a doctor for Claw foot ?</Question>
+			<Answer>Contact your health care provider if you think you may be getting claw toes.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000858-5" qtype="outlook">What is the outlook for Claw foot ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

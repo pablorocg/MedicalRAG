@@ -1,0 +1,62 @@
+<Document id="0001371" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001667.htm">
+ 
+<Focus>Ellis-van Creveld syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013903</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Chondroectodermal dysplasia</Synonym>
+		<Synonym>EVC</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001371-1" qtype="information">What is (are) Ellis-van Creveld syndrome ?</Question>
+			<Answer>Ellis-van Creveld syndrome is a rare genetic disorder that affects bone growth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001371-2" qtype="causes">What causes Ellis-van Creveld syndrome ?</Question>
+			<Answer>Ellis-van Creveld is passed down through families (inherited). It is caused by defects in 1 of 2 Ellis-van Creveld syndrome genes ( EVC  and  EVC2 ). These genes are positioned next to each other on the same chromosome. The severity of the disease varies from person to person. The highest rate of the condition is seen among the Old Order Amish population of Lancaster County, Pennsylvania. It is fairly rare in the general population.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001371-3" qtype="symptoms">What are the symptoms of Ellis-van Creveld syndrome ?</Question>
+			<Answer>Symptoms may include: Cleft lip or palate ,  Epispadias  or  undescended testicle  (cryptorchidism), Extra fingers ( polydactyly ),  Limited range of motion ,  Nail problems , including missing or deformed nails, Short arms and legs, especially forearm and lower leg, Short height, between 3.5&#160;to 5 feet (1&#160;to 1.5 meters) tall, Sparse, absent, or fine textured hair, Tooth abnormalities, such as  peg teeth ,  widely-spaced teeth , Teeth present at birth ( natal teeth ),  Delayed or missing teeth , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001371-4" qtype="exams and tests">How to diagnose Ellis-van Creveld syndrome ?</Question>
+			<Answer>Signs of this condition include: Growth hormone deficiency , Heart defects, such as a hole in the heart ( atrial septal defect ), occur in about half of all cases,  Tests include: Chest x-ray ,  Echocardiogram , Genetic testing may be performed for genetic variants in one of the two EVC genes, Skeletal  x-ray , Ultrasound,  Urinalysis , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001371-5" qtype="treatment">What are the treatments for Ellis-van Creveld syndrome ?</Question>
+			<Answer>Treatment depends on which body system is affected and the severity of the problem. The condition itself is not treatable, but many of the complications can be treated.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001371-6" qtype="support groups">Where to find support for people with Ellis-van Creveld syndrome ?</Question>
+			<Answer>More information and support for people with EVC and their families can be found at: National Foundation for Ectodermal Dysplasias (NFED) --  rarediseases.org/organizations/national-foundation-for-ectodermal-dysplasias-nfed/ , Little People of America, Inc --  rarediseases.org/non-member-patient/little-people-of-america-inc/ , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001371-7" qtype="outlook">What is the outlook for Ellis-van Creveld syndrome ?</Question>
+			<Answer>Many babies with this condition die in early infancy. Most often this is due to a small chest or heart defect.  Stillbirth  is common. The outcome depends on which body system is involved and to what extent that body system is involved. Like many genetic conditions involving bones or the physical structure, intelligence is normal.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001371-8" qtype="complications">What are the complications of Ellis-van Creveld syndrome ?</Question>
+			<Answer>Complications may include: Bone abnormalities,  Breathing difficulty ,  Congenital heart disease  (CHD) especially  atrial septal defect  (ASD), Kidney disease, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001371-9" qtype="when to contact a medical professional">Do I need to see a doctor for Ellis-van Creveld syndrome ?</Question>
+			<Answer>Contact your provider if your child has symptoms of this syndrome. If you have a family history of EVC syndrome and your child has any symptoms, visit your provider. Genetic counseling can help families understand the condition and how to care for the person.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0001371-10" qtype="prevention">How to prevent Ellis-van Creveld syndrome ?</Question>
+			<Answer>Genetic counseling is recommended for prospective parents from a high-risk group, or who have a family history of EVC syndrome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

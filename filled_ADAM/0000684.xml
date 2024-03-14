@@ -1,0 +1,59 @@
+<Document id="0000684" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007640.htm">
+ 
+<Focus>Cardiac arrest</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018790</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sudden cardiac arrest, SCA</Synonym>
+		<Synonym>Cardiopulmonary arrest</Synonym>
+		<Synonym>Circulatory arrest</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000684-1" qtype="information">What is (are) Cardiac arrest ?</Question>
+			<Answer>Cardiac arrest occurs when the heart suddenly stops beating. When this happens, blood flow to the brain and the rest of the body also stops. Cardiac arrest is a medical emergency. If it is not treated within a few minutes, cardiac arrest most often causes death.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000684-2" qtype="causes">What causes Cardiac arrest ?</Question>
+			<Answer>While some people refer to a  heart attack  as a cardiac arrest, they are not the same thing. A heart attack occurs when a blocked artery stops the flow of blood to the heart. A heart attack can damage the heart, but it does not necessarily cause death. However, a heart attack can sometimes trigger a cardiac arrest. Cardiac arrest is caused by a problem with the heart's electrical system, such as: Ventricular fibrillation (VF)  -- When VF occurs, the lower chambers in the heart quiver instead of beating regularly. The heart cannot pump blood, which results in cardiac arrest. This can happen without any cause or as a result of another condition., Heart block -- This occurs when the electrical signal is slowed or stopped as it moves through the heart. ,  Problems that may lead to cardiac arrest include: Coronary heart disease (CHD)  -- CHD can clog the arteries in your heart, so the blood cannot flow smoothly. Over time, this can put a strain on your heart's muscle and electrical system.,  Heart attack  -- A prior heart attack can create scar tissue that can lead to VF and cardiac arrest., Heart problems, such as congenital heart disease, heart valve problems, heart rhythm problems, and an enlarged heart can also lead to cardiac arrest., Abnormal levels of potassium or magnesium -- These minerals help your heart's electrical system work. Abnormally high or low levels can cause cardiac arrest., Severe physical stress -- Anything that causes a severe stress on your body can lead to cardiac arrest. This can include trauma, electrical shock, or major blood loss., Recreational drugs -- Using certain drugs, such as cocaine or amphetamines, also increases your risk for cardiac arrest., Medicines -- Some medicines can increase the likelihood of abnormal heart rhythms. , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000684-3" qtype="symptoms">What are the symptoms of Cardiac arrest ?</Question>
+			<Answer>Most people do not have any symptoms of cardiac arrest until it happens. Symptoms may include: Sudden loss of consciousness; a person will fall to the floor or slump down if sitting, No pulse, No breathing ,  In some cases, you may notice some symptoms about an hour before cardiac arrest. These may include: A racing heart, Dizziness, Shortness of breath, Nausea or vomiting, Chest pain , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000684-4" qtype="exams and tests">How to diagnose Cardiac arrest ?</Question>
+			<Answer>Cardiac arrest happens so quickly, there is no time to do tests. If a person survives, most tests are done afterwards to help find out what caused the cardiac arrest. These may include: Blood tests to check for enzymes that can show if you have had a heart attack. Your doctor may also use blood tests to check the levels of certain minerals, hormones, and chemicals in your body.,  Electrocardiogram (ECG)  to measure your heart's electrical activity. ECG can show if your heart has been damaged from CHD or a heart attack.,  Echocardiogram  to show if your heart has been damaged and find other types of heart problems (such as problems with the heart muscle or valves)., Cardiac MRI helps your health care provider see detailed pictures of your heart and blood vessels.,  Intracardiac electrophysiology study (EPS)  to see how well your heart's electrical signals are working. EPS is used to check for abnormal heartbeats or heart rhythms and to evaluate the conduction system.,  Cardiac catheterization  lets your provider see if your arteries are narrowed or blocked.,  Your provider may also run other tests, depending on your health history and the results of these tests.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000684-5" qtype="treatment">What are the treatments for Cardiac arrest ?</Question>
+			<Answer>Cardiac arrest needs emergency treatment right away to get the heart started again. Cardiopulmonary resuscitation (CPR) --  This is often the first type of treatment for cardiac arrest. It can be done by anyone who has been trained in CPR. It can help keep oxygen flowing in the body until emergency care arrives., Defibrillation -- This is the most important treatment for cardiac arrest. It is performed using a medical device that gives an electrical shock to the heart. The shock can get the heart beating normally again. Small, portable defibrillators are often available in public areas for emergency use by people trained to use them. This treatment works best when given within a few minutes. ,  If you survive cardiac arrest, you will be admitted to a hospital for treatment. Depending on what caused your cardiac arrest, you may need other medicines, procedures, or surgery. You may have a small device, called an  implantable cardioverter-defibrillator (ICD)  placed under your skin near your chest. An ICD monitors your heartbeat and gives your heart an electric shock if it detects an abnormal heart rhythm. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000684-6" qtype="outlook">What is the outlook for Cardiac arrest ?</Question>
+			<Answer>Most people do not survive cardiac arrest. If you have had a cardiac arrest, you are at high risk of having another. You will need to work closely with your doctors to reduce your risk.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000684-7" qtype="complications">What are the complications of Cardiac arrest ?</Question>
+			<Answer>Cardiac arrest can cause some lasting health problems including: Brain injury, Heart problems, Lung conditions, Infection,  You may need ongoing care and treatment to manage some of these complications.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000684-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cardiac arrest ?</Question>
+			<Answer>Call your provider or 911 or the local emergency number right away if you have: Chest pain, Shortness of breath , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000684-9" qtype="prevention">How to prevent Cardiac arrest ?</Question>
+			<Answer>The best way to protect yourself from cardiac arrest is to keep your heart healthy. If you have CHD or another heart condition, ask your provider how to reduce your risk for cardiac arrest.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

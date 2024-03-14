@@ -1,0 +1,51 @@
+<Document id="0000154" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000005.htm">
+ 
+<Focus>Allergic reactions</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020517</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000154-1" qtype="information">What is (are) Allergic reactions ?</Question>
+			<Answer>Allergic reactions are sensitivities to substances called  allergens  that come into contact with the skin, nose, eyes, respiratory tract, and gastrointestinal tract. They can be breathed into the lungs, swallowed, or injected.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000154-2" qtype="considerations">What to do for Allergic reactions ?</Question>
+			<Answer>Allergic reactions are common. The immune response that causes an allergic reaction is similar to the response that causes hay fever. Most reactions happen soon after contact with an allergen. Many allergic reactions are mild, while others can be severe and life threatening. They can be confined to a small area of the body, or they may affect the entire body. The most severe form is called  anaphylaxis  or anaphylactic shock. Allergic reactions occur more often in people who have a family history of  allergies . Substances that don't bother most people (such as venom from  bee stings  and certain foods, medicines, and pollens) can trigger allergic reactions in certain people. First-time exposure may produce only a mild reaction. Repeated exposures may lead to more serious reactions. Once a person has had an exposure or an allergic reaction (is sensitized), even a very limited exposure to a very small amount of allergen can trigger a severe reaction. Most severe allergic reactions occur within seconds or minutes after exposure to the allergen. Some reactions can occur after several hours, particularly if the allergen causes a reaction after it has been eaten. In very rare cases, reactions develop after 24 hours. Anaphylaxis is a sudden and severe allergic reaction that occurs within minutes of exposure. Immediate medical attention is needed for this condition. Without treatment, anaphylaxis can get worse very quickly and lead to death within 15 minutes.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000154-3" qtype="causes">What causes Allergic reactions ?</Question>
+			<Answer>Common allergens include: Animal dander, Bee stings or stings from other insects, Foods, especially nuts, fish, and shellfish, Insect bites, Medicines, Plants, Pollens, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000154-4" qtype="symptoms">What are the symptoms of Allergic reactions ?</Question>
+			<Answer>Common symptoms of a mild allergic reaction include: Hives  (especially over the neck and face)
+   ,  Itching , Nasal congestion,  Rashes , Watery, red eyes,  Symptoms of a moderate or severe reaction include: Abdominal pain, Abnormal (high-pitched) breathing sounds, Anxiety, Chest discomfort or tightness, Cough, Diarrhea, Difficulty breathing, wheezing, Difficulty swallowing, Dizziness or lightheadedness, Flushing or redness of the face, Nausea&#160;or vomiting,  Palpitations , Swelling of the face, eyes, or tongue, Unconsciousness, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000154-5" qtype="considerations">What to do for Allergic reactions ?</Question>
+			<Answer>Allergic reactions are common. The immune response that causes an allergic reaction is similar to the response that causes hay fever. Most reactions happen soon after contact with an allergen. Many allergic reactions are mild, while others can be severe and life threatening. They can be confined to a small area of the body, or they may affect the entire body. The most severe form is called  anaphylaxis  or anaphylactic shock. Allergic reactions occur more often in people who have a family history of  allergies . Substances that don't bother most people (such as venom from  bee stings  and certain foods, medicines, and pollens) can trigger allergic reactions in certain people. First-time exposure may produce only a mild reaction. Repeated exposures may lead to more serious reactions. Once a person has had an exposure or an allergic reaction (is sensitized), even a very limited exposure to a very small amount of allergen can trigger a severe reaction. Most severe allergic reactions occur within seconds or minutes after exposure to the allergen. Some reactions can occur after several hours, particularly if the allergen causes a reaction after it has been eaten. In very rare cases, reactions develop after 24 hours. Anaphylaxis is a sudden and severe allergic reaction that occurs within minutes of exposure. Immediate medical attention is needed for this condition. Without treatment, anaphylaxis can get worse very quickly and lead to death within 15 minutes.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000154-6" qtype="considerations">What to do for Allergic reactions ?</Question>
+			<Answer>Allergic reactions are common. The immune response that causes an allergic reaction is similar to the response that causes hay fever. Most reactions happen soon after contact with an allergen. Many allergic reactions are mild, while others can be severe and life threatening. They can be confined to a small area of the body, or they may affect the entire body. The most severe form is called  anaphylaxis  or anaphylactic shock. Allergic reactions occur more often in people who have a family history of  allergies . Substances that don't bother most people (such as venom from  bee stings  and certain foods, medicines, and pollens) can trigger allergic reactions in certain people. First-time exposure may produce only a mild reaction. Repeated exposures may lead to more serious reactions. Once a person has had an exposure or an allergic reaction (is sensitized), even a very limited exposure to a very small amount of allergen can trigger a severe reaction. Most severe allergic reactions occur within seconds or minutes after exposure to the allergen. Some reactions can occur after several hours, particularly if the allergen causes a reaction after it has been eaten. In very rare cases, reactions develop after 24 hours. Anaphylaxis is a sudden and severe allergic reaction that occurs within minutes of exposure. Immediate medical attention is needed for this condition. Without treatment, anaphylaxis can get worse very quickly and lead to death within 15 minutes.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000154-7" qtype="when to contact a medical professional">Do I need to see a doctor for Allergic reactions ?</Question>
+			<Answer>Contact for medical assistance (911 or the local emergency number) right away if: The person is having a severe allergic reaction. Do not wait to see if the reaction is getting worse., The person has a history of severe allergic reactions (check for a medical ID tag). , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000154-8" qtype="prevention">How to prevent Allergic reactions ?</Question>
+			<Answer>To prevent allergic reactions: Avoid triggers such as foods and medicines that have caused an allergic reaction in the past. Ask detailed questions about ingredients when you are eating away from home. Carefully check ingredient labels., If you have a child who is allergic to certain foods, introduce one new food at a time in small amounts so you can recognize an allergic reaction., People who have had serious allergic reactions should wear a medical ID tag and carry emergency medicines, such as a chewable form of chlorpheniramine (Chlor-Trimeton), and injectable epinephrine or a bee sting kit, according to your provider's instructions., Do not use your injectable epinephrine on anyone else. They may have a condition, such as a heart problem, that could be made worse by this drug. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

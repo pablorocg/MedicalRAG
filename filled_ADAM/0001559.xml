@@ -1,0 +1,53 @@
+<Document id="0001559" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000230.htm">
+ 
+<Focus>Fecal impaction</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0015734</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Impaction of the bowels</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001559-1" qtype="information">What is (are) Fecal impaction ?</Question>
+			<Answer>A fecal impaction is a large lump of dry, hard stool that stays stuck in the rectum. It is most often seen in people who are constipated for a long time.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001559-2" qtype="causes">What causes Fecal impaction ?</Question>
+			<Answer>Constipation is when you are not passing stool as often or as easily as is normal for you. Your stool becomes hard and dry. This makes it difficult to pass. Fecal impaction often occurs in people who have had constipation for a long time and have been using laxatives. The problem is even more likely when the laxatives are suddenly stopped. The muscles of the intestines forget how to move stool or feces on their own. You are at more risk for chronic constipation and fecal impaction if: You do not move around much and spend most of your time in a chair or bed., You have a disease of the brain or nervous system that damages the nerves that go to the muscles of the intestines.,  Certain drugs slow the passage of stool through the bowels: Anticholinergics, which affect the interaction between nerves and muscles of the bowel, Medicines used to treat diarrhea, if they are taken too often, Narcotic pain medicine, such as methadone, codeine, and oxycontin , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001559-3" qtype="symptoms">What are the symptoms of Fecal impaction ?</Question>
+			<Answer>Common symptoms include: Abdominal cramping and bloating, Leakage of liquid or sudden episodes of watery  diarrhea  in someone who has  chronic  (long-term) constipation , Rectal bleeding, Small, semi-formed stools, Straining when trying to pass stools,  Other possible symptoms include: Bladder pressure or loss of bladder control, Lower back pain, Rapid heartbeat or lightheadedness from straining to pass stool, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001559-4" qtype="exams and tests">How to diagnose Fecal impaction ?</Question>
+			<Answer>The health care provider will examine your stomach area and rectum. The rectal exam will show a hard mass of stool in the rectum. You may need to have a  colonoscopy  if there has been a recent change in your bowel habits. This is done to check for colon or rectal cancer.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001559-5" qtype="treatment">What are the treatments for Fecal impaction ?</Question>
+			<Answer>Treatment for the condition starts with removal of the impacted stool. After that, steps are taken to prevent future fecal impactions. A warm mineral oil enema is often used to soften and lubricate the stool. However, enemas alone are not enough to remove a large, hardened impaction in most cases. The mass may have to be broken up by hand. This is called manual removal: A provider will need to insert one or two fingers into the rectum and slowly break up the mass into smaller pieces so that it can come out., This process must be done in small steps to avoid causing injury to the rectum., Suppositories inserted into the rectum may be given between attempts to help clear the stool.,  Surgery is rarely needed to treat a fecal impaction. An overly widened colon (megacolon) or complete blockage of the bowel may require emergency removal of the impaction. Most people who have had a fecal impaction will need a bowel retraining program. Your provider and a specially trained nurse or therapist will: Take a detailed history of your diet, bowel patterns, laxative use, medicines, and medical problems, Examine you carefully., Recommend changes in your diet, how to use laxatives and stool softeners, special exercises, lifestyle changes, and other special techniques to retrain your bowel., Follow you closely to make sure the program works for you., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001559-6" qtype="outlook">What is the outlook for Fecal impaction ?</Question>
+			<Answer>With treatment, the outcome is good.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001559-7" qtype="complications">What are the complications of Fecal impaction ?</Question>
+			<Answer>Complications may include: Tear (ulceration) of the rectal tissue, Tissue death ( necrosis ) or rectal tissue injury, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001559-8" qtype="when to contact a medical professional">Do I need to see a doctor for Fecal impaction ?</Question>
+			<Answer>Tell your provider if you have chronic diarrhea or fecal incontinence after a long period of constipation. Also tell your provider if you have any of the following symptoms: Abdominal pain and  bloating ,  Blood in the stool , Sudden constipation with  abdominal cramps , and an inability to pass gas or stool. In this case, do not take any laxatives. Call your provider right away., Very thin, pencil-like stools, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

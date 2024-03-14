@@ -1,0 +1,54 @@
+<Document id="0004033" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001517.htm">
+ 
+<Focus>Trichotillomania</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0040953</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Trichotillosis</Synonym>
+		<Synonym>Compulsive hair pulling</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004033-1" qtype="information">What is (are) Trichotillomania ?</Question>
+			<Answer>Trichotillomania is hair loss from repeated urges to pull or twist the hair until it breaks off. People are unable to stop this behavior, even as their hair becomes thinner.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004033-2" qtype="causes">What causes Trichotillomania ?</Question>
+			<Answer>Trichotillomania is a type of impulsive control disorder. Its causes are not clearly understood. It may affect as much as 4% of the population. Women are 4 times more likely to be affected than men.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004033-3" qtype="symptoms">What are the symptoms of Trichotillomania ?</Question>
+			<Answer>Symptoms most often begin before age 17. The hair may come out in round patches or across the scalp. The effect is an uneven appearance. The person may pluck other hairy areas, such as the eyebrows, eyelashes, or body hair. These symptoms are most often seen in children: An uneven appearance to the hair, Bare patches or all around (diffuse) loss of hair, Bowel blockage (obstruction) if people eat the hair they pull out, Constant tugging, pulling, or twisting of hair, Denying the hair pulling, Hair regrowth that feels like stubble in the bare spots, Increasing sense of tension before the hair pulling, Other self-injury behaviors, Sense of relief, pleasure, or gratification after the hair pulling,  Most people with this disorder also have problems with: Feeling sad or depressed, Anxiety, Poor self-image, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004033-4" qtype="exams and tests">How to diagnose Trichotillomania ?</Question>
+			<Answer>Your health care provider will examine your skin, hair, and scalp. A piece of tissue may be removed (biopsy) to find other causes, such as a scalp infection, and to explain the hair loss.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004033-5" qtype="treatment">What are the treatments for Trichotillomania ?</Question>
+			<Answer>Experts don't agree on the use of medicine for treatment. However, naltrexone and selective serotonin reuptake inhibitors (SSRIs) have been shown to be effective in reducing some symptoms. Behavioral therapy and habit reversal may also be effective.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004033-6" qtype="outlook">What is the outlook for Trichotillomania ?</Question>
+			<Answer>Trichotillomania that begins in younger children (less than 6 years old) may go away without treatment. For most people, the hair pulling ends within 12 months. For others, trichotillomania is a lifelong disorder. However, treatment often improves the hair pulling and the feelings of depression, anxiety, or poor self-image.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004033-7" qtype="complications">What are the complications of Trichotillomania ?</Question>
+			<Answer>People can have complications when they eat the pulled-out hair (trichophagia). This can cause a blockage in the intestines or lead to poor nutrition.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004033-8" qtype="prevention">How to prevent Trichotillomania ?</Question>
+			<Answer>Early detection is the best form of prevention because it leads to early treatment. Decreasing stress can help, because stress may increase compulsive behavior.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

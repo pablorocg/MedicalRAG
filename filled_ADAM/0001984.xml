@@ -1,0 +1,26 @@
+<Document id="0001984" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000370.htm">
+ 
+<Focus>Hip or knee replacement - in the hospital after</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2186386</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hip replacement surgery - after - self-care</Synonym>
+		<Synonym>Knee replacement surgery - after - self-care</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001984-1" qtype="information">What is (are) Hip or knee replacement - in the hospital after ?</Question>
+			<Answer>You will stay in the hospital for 1 to 3 days after having  hip  or  knee  joint replacement surgery. During that time, you will recover from your anesthesia and the surgery.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

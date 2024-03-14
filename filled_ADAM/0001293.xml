@@ -1,0 +1,29 @@
+<Document id="0001293" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/004024.htm">
+ 
+<Focus>Drugs that may cause impotence</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242350</CUI>
+			<CUI>C2187990</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Impotence caused by medications</Synonym>
+		<Synonym>Drug-induced erectile dysfunction</Synonym>
+		<Synonym>Prescription medicines and impotence</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001293-1" qtype="information">What is (are) Drugs that may cause impotence ?</Question>
+			<Answer>Many medicines and recreational drugs can affect a man's sexual arousal and sexual performance. What causes  erection problems  in one man may not affect another man.  Talk to your health care provider if you think that a drug is having a negative effect on your sexual performance. Never stop taking any medicine without first talking to your provider. Some medicines may lead to life-threatening reactions if you do not take care when stopping or changing them. The following is a list of some medicines and drugs that may cause erectile dysfunction (ED) in men. There may be additional drugs other than those on this list that can cause erection difficulties. Antidepressants and other medicines for mental health conditions: Amitriptyline (Elavil), Amoxapine (Asendin), Buspirone (Buspar), Chlordiazepoxide (Librium), Chlorpromazine (Thorazine), Clomipramine (Anafranil), Clorazepate (Tranxene), Desipramine (Norpramin), Diazepam (Valium), Doxepin (Sinequan), Fluoxetine (Prozac), Fluphenazine (Prolixin), Imipramine (Tofranil), Isocarboxazid (Marplan), Lorazepam (Ativan), Meprobamate (Equanil), Mesoridazine (Serentil), Nortriptyline (Pamelor), Oxazepam (Serax), Phenelzine (Nardil), Phenytoin (Dilantin), Sertraline (Zoloft), Thioridazine (Mellaril), Thiothixene (Navane), Tranylcypromine (Parnate), Trifluoperazine (Stelazine) ,  Antihistamine medicines (certain classes of antihistamines are also used to treat heartburn): Cimetidine (Tagamet), Dimenhydrinate (Dramamine), Diphenhydramine (Benadryl), Hydroxyzine (Vistaril), Meclizine (Antivert), Nizatidine (Axid), Promethazine (Phenergan), Ranitidine (Zantac) ,  High blood pressure medicines and diuretics (water pills): Atenolol (Tenormin), Bethanidine, Bumetanide (Bumex), Captopril (Capoten), Chlorothiazide (Diuril), Chlorthalidone (Hygroton), Clonidine (Catapres), Enalapril (Vasotec), Furosemide (Lasix), Guanabenz (Wytensin), Guanethidine (Ismelin), Guanfacine (Tenex), Haloperidol (Haldol), Hydralazine (Apresoline), Hydrochlorothiazide (Esidrix), Labetalol (Normodyne), Methyldopa (Aldomet), Metoprolol (Lopressor), Nifedipine (Adalat, Procardia), Phenoxybenzamine (Dibenzyline), Phentolamine (Regitine), Prazosin (Minipress), Propranolol (Inderal), Reserpine (Serpasil), Spironolactone (Aldactone), Triamterene (Maxzide), Verapamil (Calan) ,  Thiazides are the most common cause of erectile dysfunction among the high blood pressure medicines. The next most common cause is beta blockers. Alpha blockers tend to be less likely to cause this problem. Parkinson disease medicines: Benztropine (Cogentin), Biperiden (Akineton), Bromocriptine (Parlodel), Levodopa (Sinemet), Procyclidine (Kemadrin), Trihexyphenidyl (Artane) ,  Chemotherapy  and hormonal medicines: Antiandrogens (Casodex, Flutamide, Nilutamide), Busulfan (Myleran), Cyclophosphamide (Cytoxan), Ketoconazole, LHRH agonists (Lupron, Zoladex) , LHRH antagonist (Firmagon),  Other medicines: Aminocaproic acid (Amicar), Atropine, Clofibrate (Atromid-S), Cyclobenzaprine (Flexeril), Cyproterone, Digoxin (Lanoxin), Disopyramide (Norpace), Dutasteride (Avodart), Estrogen, Finasteride (Propecia, Proscar), Furazolidone (Furoxone), H2 blockers (Tagamet, Zantac, Pepcid), Indomethacin (Indocin), Lipid-lowering agents, Licorice, Metoclopramide (Reglan), Nonsteroidal anti-inflammatory drugs (NSAIDs, ibuprofen, etc.), Orphenadrine (Norflex), Prochlorperazine (Compazine), Pseudoephedrine (Sudafed), Sumatriptan (Imitrex) ,  Opiate analgesics (painkillers): Codeine, Fentanyl (Innovar), Hydromorphone (Dilaudid), Meperidine (Demerol), Methadone, Morphine, Oxycodone (Oxycontin, Percodan) ,  Recreational drugs: Alcohol, Amphetamines, Barbiturates,  Cocaine ,  Marijuana , Heroin and other opioids, Nicotine , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

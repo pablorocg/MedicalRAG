@@ -1,0 +1,60 @@
+<Document id="0001463" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000762.htm">
+ 
+<Focus>Essential tremor</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3543433</CUI>
+			<CUI>C0270736</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Tremor - essential</Synonym>
+		<Synonym>Familial tremor</Synonym>
+		<Synonym>Tremor - familial</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001463-1" qtype="information">What is (are) Essential tremor ?</Question>
+			<Answer>Essential tremor (ET) is a type of involuntary shaking movement. It has no identified cause. Involuntary means you shake without trying to do so and are not able to stop the shaking at will.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001463-2" qtype="causes">What causes Essential tremor ?</Question>
+			<Answer>ET is the most common type of tremor. Everyone has some tremor at times, but the movements are usually so small that they can't be seen. ET affects both men and women. It is most common in people older than 65 years. The exact cause of ET is unknown. Research suggests that the part of the brain that controls muscle movements does not work correctly in people with ET. If an ET occurs in more than one member of a family, it is called a familial tremor. This type of ET is passed down through families (inherited). This suggests that genes play a role in its cause. Familial tremor is usually a dominant trait. This means that you only need to get the gene from one parent to develop the tremor. It often starts in early middle age, but may be seen in people who are older or younger, or even in children.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001463-3" qtype="symptoms">What are the symptoms of Essential tremor ?</Question>
+			<Answer>The tremor is more likely to be noticed in the forearm and hands. The arms, head, eyelids, or other muscles may also be affected. The tremor rarely occurs in the legs or feet. A person with ET may have trouble holding or using small objects such as silverware or a pen. The shaking most often involves small, rapid movements occurring 4 to 12 times a second. Specific symptoms may include: Head nodding, Shaking or quivering sound to the voice if the tremor affects the voice box, Problems with writing, drawing, drinking from a cup, or using tools if the tremor affects the hands,  The tremors may: Occur during movement (action-related tremor) and may be less noticeable with rest, Come and go, but often get worse with age, Worsen with stress, caffeine, lack of sleep, and certain medicines, Not affect both sides of the body the same way, Improve slightly by drinking a small amount of alcohol, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001463-4" qtype="exams and tests">How to diagnose Essential tremor ?</Question>
+			<Answer>Your health care provider can make the diagnosis by performing a physical exam and asking about your medical and personal history. Tests may be needed to rule out other reasons for the tremors such as: Smoking and smokeless tobacco, Overactive thyroid ( hyperthyroidism ), Suddenly stopping alcohol after drinking a lot for a long time ( alcohol withdrawal ), Too much caffeine, Use of certain medicines, Nervousness or anxiety,  Blood tests and imaging studies (such as a CT scan of the head, brain  MRI , and  x-rays ) are usually normal.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001463-5" qtype="treatment">What are the treatments for Essential tremor ?</Question>
+			<Answer>Treatment may not be needed unless the tremors interfere with your daily activities or cause embarrassment. HOME CARE For tremors made worse by stress, try techniques that help you relax. For tremors of any cause, avoid caffeine and get enough sleep. For tremors caused or made worse by a medicine, talk to your provider about stopping the medicine, reducing the dosage, or switching. Do not change or stop any medicine on your own. Severe tremors make it harder to do daily activities. You may need help with these activities. Things that can help include: Buying clothes with Velcro fasteners, or using button hooks, Cooking or eating with utensils that have a larger handle, Using straws to drink, Wearing slip-on shoes and using shoehorns ,  MEDICINES FOR TREMOR Medicines may help relieve symptoms. The most commonly used drugs include: Propranolol, a beta blocker, Primidone, a drug used to treat seizures ,  These drugs can have side effects. Propranolol may cause fatigue, stuffy nose, or slow heartbeat, and it may make asthma worse., Primidone may cause drowsiness, problems concentrating, nausea, and problems with walking, balance, and coordination. ,  Other medicines that may reduce tremors include: Antiseizure medicines, Mild tranquilizers, Blood pressure medicines called calcium-channel blockers ,  Botulinum toxin injections may be tried to reduce tremors. SURGERY In severe cases, surgery may be tried. This may include: Focusing high-powered x-rays on a small area of the brain ( stereotactic radiosurgery ), Implanting a stimulating device in the brain to signal the area that controls movement , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001463-6" qtype="outlook">What is the outlook for Essential tremor ?</Question>
+			<Answer>An ET is not a dangerous problem. But some people find the tremors annoying and embarrassing. In some cases, it may be dramatic enough to interfere with work, writing, eating, or drinking.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001463-7" qtype="complications">What are the complications of Essential tremor ?</Question>
+			<Answer>Sometimes, the tremors affect the vocal cords, which may lead to speech problems.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001463-8" qtype="when to contact a medical professional">Do I need to see a doctor for Essential tremor ?</Question>
+			<Answer>Contact your provider if: You have a new tremor, Your tremor makes it hard to perform daily activities, You have side effects from the&#160;medicines used to treat your tremor , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001463-9" qtype="prevention">How to prevent Essential tremor ?</Question>
+			<Answer>Alcoholic beverages in small quantities may decrease tremors. But alcohol use disorder may develop, especially if you have a family history of such problems.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

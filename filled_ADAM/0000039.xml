@@ -1,0 +1,43 @@
+<Document id="0000039" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002562.htm">
+ 
+<Focus>Acetaminophen and codeine overdose</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0572066</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Tylenol #3 overdose</Synonym>
+		<Synonym>Phenaphen with codeine overdose</Synonym>
+		<Synonym>Tylenol with codeine overdose</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000039-1" qtype="information">What is (are) Acetaminophen and codeine overdose ?</Question>
+			<Answer>Acetaminophen (Tylenol) and codeine is a prescription pain medicine. It is an opioid pain reliever used only for pain that is severe and is not helped by other types of painkillers. Acetaminophen and codeine overdose occurs when someone takes more than the normal or recommended amount of this medicine, either by accident or on purpose. This article is for information only. Do not use it to treat or manage an actual  overdose . If you or someone you are with overdoses, call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000039-4" qtype="symptoms">What are the symptoms of Acetaminophen and codeine overdose ?</Question>
+			<Answer>Below are symptoms of an overdose of acetaminophen combined with codeine in different parts of the body. AIRWAYS AND LUNGS Shallow breathing ,  Slow and labored breathing , Stopped breathing,  EYES Very small pupils,  HEART AND BLOOD VESSELS Low blood pressure,  NERVOUS SYSTEM Coma (lack of responsiveness), Convulsions ( seizures ),  Drowsiness , Stupor (lack of alertness),  SKIN Bluish skin  (fingernails and lips), Cold, clammy skin, Heavy sweating,  STOMACH AND GASTROINTESTINAL SYSTEM Nausea and vomiting,  Spasms  of the stomach and intestines, Liver failure,  URINARY SYSTEM Kidney failure, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000039-5" qtype="considerations">What to do for Acetaminophen and codeine overdose ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000039-8" qtype="outlook">What is the outlook for Acetaminophen and codeine overdose ?</Question>
+			<Answer>How well a person does, depends on the amount of medicine swallowed and how quickly the treatment was received. The faster a person gets medical help, the better the chance for recovery. If breathing has been depressed for a long period before treatment, brain injury may occur. If an antidote can be given, recovery from an  acute  overdose often occurs within 24 to 48 hours. Recovery takes longer, if the liver is affected, and the person may not fully recover.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000039-9" qtype="outlook">What is the outlook for Acetaminophen and codeine overdose ?</Question>
+			<Answer>How well a person does, depends on the amount of medicine swallowed and how quickly the treatment was received. The faster a person gets medical help, the better the chance for recovery. If breathing has been depressed for a long period before treatment, brain injury may occur. If an antidote can be given, recovery from an  acute  overdose often occurs within 24 to 48 hours. Recovery takes longer, if the liver is affected, and the person may not fully recover.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

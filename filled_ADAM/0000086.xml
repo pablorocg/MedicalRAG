@@ -1,0 +1,67 @@
+<Document id="0000086" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000378.htm">
+ 
+<Focus>Addison disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0266273</CUI>
+			<CUI>C0001403</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Adrenocortical hypofunction</Synonym>
+		<Synonym>Chronic adrenocortical insufficiency</Synonym>
+		<Synonym>Primary adrenal insufficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000086-1" qtype="information">What is (are) Addison disease ?</Question>
+			<Answer>Addison disease is a disorder that causes the  adrenal glands &#160;to not produce enough hormones.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000086-2" qtype="causes">What causes Addison disease ?</Question>
+			<Answer>The adrenal glands are small hormone-releasing organs located on top of each kidney. They are made up of an outer portion, called the cortex, and an inner portion, called the medulla. The cortex produces 3 hormones: Glucocorticoid hormones (such as cortisol) maintain sugar (glucose) control, blood pressure, decrease (suppress)  immune response , and help the body respond to stress., Mineralocorticoid hormones (such as aldosterone) regulate sodium, water and potassium balance., Sex hormones, androgens (male) and estrogens (female), affect sexual development and sex drive. ,  Addison disease results from damage to the adrenal cortex. The damage causes the cortex to produce hormone levels that are too low. This damage may be caused by the following: The immune system mistakenly attacking the adrenal glands ( autoimmune disease ), Infections such as  tuberculosis ,  HIV , or fungal infections, Hemorrhage into the adrenal glands, Tumors ,  Risk factors for the autoimmune type of Addison disease include other autoimmune diseases: Swelling (inflammation) of the thyroid gland that often results in reduced thyroid function ( chronic thyroiditis )
+  , Thyroid gland produces too much thyroid hormone ( overactive thyroid ,  Graves disease )
+  , Itchy rash with bumps and blisters ( dermatitis herpetiformis )
+  , Parathyroid glands in the neck do not produce enough parathyroid hormone ( hypoparathyroidism )
+  , Pituitary gland does not produce normal amounts of some or all of its hormones ( hypopituitarism )
+  , Autoimmune disorder that affects the nerves and the muscles they control ( myasthenia gravis )
+  , Body does not have enough healthy red blood cells ( pernicious anemia )
+  , Testicles cannot produce sperm or male hormones ( testicular failure ),  Type I diabetes , Loss of brown color (pigment) from areas of the skin ( vitiligo )
+  ,  Certain rare genetic defects may also cause adrenal insufficiency.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000086-3" qtype="symptoms">What are the symptoms of Addison disease ?</Question>
+			<Answer>Symptoms of Addison disease may include any of the following: Abdominal pain, Chronic diarrhea, nausea, and vomiting , Darkening of the skin,  Dehydration , Dizziness when standing up, Low-grade fever, Low blood sugar, Low blood pressure,&#160;especially with a change in body position, Extreme  weakness ,  fatigue , and slow, sluggish movement, 
+  Darker skin on the inside of the cheeks and lips (buccal  mucosa ), Salt craving (eating food with a lot of added salt), Weight loss with reduced appetite ,  Symptoms may not be present all the time. Many people have some or all of these symptoms when they have an infection or other stress on the body. Other times, they have no symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000086-4" qtype="exams and tests">How to diagnose Addison disease ?</Question>
+			<Answer>Your health care provider will perform a physical exam and ask about the symptoms.  Blood tests will likely be ordered and may show: Increased  potassium , Low  cortisol level , Low  sodium level , Low pH, Normal testosterone and estrogen levels, but low DHEA level, High  eosinophil count ,  Additional laboratory tests may be ordered. Other tests may include: Abdominal x-ray ,  Abdominal CT scan , Cosyntropin (ACTH) stimulation test
+   , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000086-5" qtype="treatment">What are the treatments for Addison disease ?</Question>
+			<Answer>Treatment with replacement corticosteroids and mineralocorticoids will control the symptoms of this disease. These medicines usually need to be taken for life.  Never skip doses of your medicine for this condition because life-threatening reactions may occur. Your provider may tell you to increase your dosage for a short time because of: Infection, Injury, Stress, Surgery ,  During an extreme form of adrenal insufficiency, called  adrenal crisis , you must inject hydrocortisone right away. Treatment for low blood pressure is usually needed as well. Some people with Addison disease (or family members) are taught to give themselves an emergency injection of hydrocortisone during stressful situations. Always carry medical ID (card, bracelet, or necklace) that says you have adrenal insufficiency. The ID should also say the type of medicine and dosage you need in case of an emergency. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000086-6" qtype="outlook">What is the outlook for Addison disease ?</Question>
+			<Answer>With hormone therapy, many people with Addison disease are able to lead a nearly normal life.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000086-7" qtype="complications">What are the complications of Addison disease ?</Question>
+			<Answer>Complications can occur if you take too little or too much adrenal hormone.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000086-8" qtype="when to contact a medical professional">Do I need to see a doctor for Addison disease ?</Question>
+			<Answer>Contact your provider if: You are unable to keep your medicine down due to vomiting., You have stress such as infection, injury, trauma, or dehydration. You may need to have your medicine adjusted., Your weight increases over time., Your ankles begin to swell., You develop new symptoms., While taking treatment, you develop signs of a disorder called  Cushing syndrome ,  If you have symptoms of adrenal crisis, give yourself an emergency injection of your prescribed medicine. If it is not available, go to the nearest emergency room or call 911 or the local emergency number. Symptoms of adrenal crisis include: Abdominal pain, Difficulty breathing, Dizziness or lightheadedness,  Low blood pressure , Reduced level of consciousness , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

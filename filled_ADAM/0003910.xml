@@ -1,0 +1,47 @@
+<Document id="0003910" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001434.htm">
+ 
+<Focus>Thoracic outlet syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039984</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003910-1" qtype="information">What is (are) Thoracic outlet syndrome ?</Question>
+			<Answer>Thoracic outlet syndrome is a rare condition that involves: Pain in the neck and shoulder,  Numbness and tingling  of the fingers, A weak grip , Swelling of the affected limb, Coldness of the affected limb,  The thoracic outlet is the area between the ribcage and collarbone.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003910-2" qtype="causes">What causes Thoracic outlet syndrome ?</Question>
+			<Answer>Nerves coming from the spine and major blood vessels of the body pass through a narrow space near your shoulder and collarbone on the way to the arms. Sometimes, there is not enough space for the nerves to pass by through the collarbone and upper ribs. Pressure (compression) on these blood vessels or nerves can cause symptoms in the arms or hands.  Pressure may happen if you have:  An extra rib above the first one., An abnormal tight band connecting the spine to the ribs. ,  People with this syndrome often have injured the area in the past or overused the shoulder. People with long necks and droopy shoulders may be more likely to develop this condition because of extra pressure on the nerves and blood vessels.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003910-3" qtype="symptoms">What are the symptoms of Thoracic outlet syndrome ?</Question>
+			<Answer>Symptoms of thoracic outlet syndrome may include: Pain, numbness, and tingling in the pinky and ring fingers, and the inner forearm, Pain and tingling in the neck and shoulders (carrying something heavy may make the pain worse), Signs of poor circulation in the hand or forearm (a bluish color, cold hands, or a swollen arm), Weakness of the muscles in the hand, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003910-4" qtype="exams and tests">How to diagnose Thoracic outlet syndrome ?</Question>
+			<Answer>Your health care provider will examine you and ask about your medical history and symptoms.  The following tests may be done to confirm the diagnosis: Electromyography  (EMG), CT angiogram,  MRI ,  Nerve conduction velocity  study,  X-ray ,  Tests are also done to rule out other problems, such as  carpal tunnel syndrome  or a damaged nerve due to problems in the neck.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003910-5" qtype="treatment">What are the treatments for Thoracic outlet syndrome ?</Question>
+			<Answer>Physical therapy is often used to treat thoracic outlet syndrome. It helps:  Make your shoulder muscles stronger, Improve your range of motion in the shoulder, Promote better posture ,  Your provider may prescribe pain medicine.  If there is pressure on a vein, your provider may give you a blood thinner to prevent a blood clot.  You may need surgery if physical therapy and changes in activity do not improve your symptoms. The surgeon may make a cut either under your armpit or just above your collarbone. During surgery, the following may be done: An extra rib is removed and certain muscles are cut., A section of the first rib is removed to release pressure in the area., 
+   Bypass surgery is done to reroute blood around the compression or remove the area that is causing the symptoms. ,  Your doctor may also suggest other alternatives, including  angioplasty , if the artery is narrowed.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003910-6" qtype="outlook">What is the outlook for Thoracic outlet syndrome ?</Question>
+			<Answer>Surgery to remove the extra rib and break up tight fiber bands may ease symptoms in some people. Some people have symptoms that return after surgery.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003910-7" qtype="complications">What are the complications of Thoracic outlet syndrome ?</Question>
+			<Answer>Complications can occur with any surgery, and depend on the type of procedure and anesthesia. Risks related to this surgery include: Damage to nerves or blood vessels, causing muscle weakness, Lung collapse , Failure to relieve the symptoms, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

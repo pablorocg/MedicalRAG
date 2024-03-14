@@ -1,0 +1,60 @@
+<Document id="0002641" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000332.htm">
+ 
+<Focus>Milk-alkali syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026141</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Calcium-alkali syndrome</Synonym>
+		<Synonym>Cope syndrome</Synonym>
+		<Synonym>Burnett syndrome</Synonym>
+		<Synonym>Hypercalcemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002641-1" qtype="information">What is (are) Milk-alkali syndrome ?</Question>
+			<Answer>Milk-alkali syndrome is a condition in which there is a high level of calcium in the body ( hypercalcemia ). This causes a shift in the body's acid/base balance toward alkaline (metabolic alkalosis). As a result, there can be a  loss of kidney function .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002641-2" qtype="causes">What causes Milk-alkali syndrome ?</Question>
+			<Answer>Milk-alkali syndrome is almost always caused by taking too many calcium supplements, usually in the form of calcium carbonate. Calcium carbonate is a common calcium supplement. It is often taken to prevent or treat bone loss ( osteoporosis ). Calcium carbonate is also an ingredient found in antacids (such as Tums).  A high level of vitamin D in the body, such as from taking supplements, can worsen milk-alkali syndrome. Calcium deposits in the kidneys and in other tissues can occur in milk-alkali syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002641-3" qtype="symptoms">What are the symptoms of Milk-alkali syndrome ?</Question>
+			<Answer>In the beginning, the condition usually has no symptoms (asymptomatic). When symptoms do occur, they can include: Back, middle of the body, and low back pain in the kidney area (related to kidney stones), Confusion, strange behavior, Constipation, Depression, Excessive urination, Fatigue, Irregular heartbeat ( arrhythmia ), Nausea or vomiting, Other problems that can result from kidney failure , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002641-4" qtype="exams and tests">How to diagnose Milk-alkali syndrome ?</Question>
+			<Answer>Calcium deposits within the tissue of the kidney ( nephrocalcinosis ) may be seen on: X-rays,  CT scan ,  Ultrasound ,  Other tests used to make a diagnosis may include: Electrolyte  levels to check the mineral levels in the body, Electrocardiogram ( ECG ) to check the electrical activity of the heart, Electroencephalogram (EEG) to measure the electrical activity of the brain, Glomerular filtration rate (GFR) to check how well the kidneys are working,  Blood calcium  level , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002641-5" qtype="treatment">What are the treatments for Milk-alkali syndrome ?</Question>
+			<Answer>In severe cases, treatment involves giving fluids through the vein (by IV). Otherwise, treatment involves drinking fluids along with reducing or stopping calcium supplements and antacids that contain calcium. Vitamin D supplements also need to be reduced or stopped.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002641-6" qtype="outlook">What is the outlook for Milk-alkali syndrome ?</Question>
+			<Answer>This condition is often reversible if  kidney function  remains normal. Severe prolonged cases may lead to permanent kidney failure requiring  dialysis .</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002641-7" qtype="complications">What are the complications of Milk-alkali syndrome ?</Question>
+			<Answer>The most common complications include: Calcium deposits in tissues (calcinosis) ,  Kidney failure ,  Kidney stones , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002641-8" qtype="when to contact a medical professional">Do I need to see a doctor for Milk-alkali syndrome ?</Question>
+			<Answer>Contact your health care provider if: You take a lot of calcium supplements or you often use antacids that contain calcium, such as Tums.&#160;You may need to be checked for milk-alkali syndrome., You have any symptoms that might suggest kidney problems. , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002641-9" qtype="prevention">How to prevent Milk-alkali syndrome ?</Question>
+			<Answer>If you use calcium-containing antacids often, tell your provider about digestive problems. If you are trying to prevent osteoporosis, do not take more than 1.2 grams (1200 milligrams) of calcium per day unless instructed by your provider.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

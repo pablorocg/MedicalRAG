@@ -1,0 +1,68 @@
+<Document id="0000844" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000091.htm">
+ 
+<Focus>Chronic obstructive pulmonary disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024117</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>COPD</Synonym>
+		<Synonym>Chronic obstructive airways disease</Synonym>
+		<Synonym>Chronic obstructive lung disease</Synonym>
+		<Synonym>Chronic bronchitis</Synonym>
+		<Synonym>Emphysema</Synonym>
+		<Synonym>Bronchitis - chronic</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000844-1" qtype="information">What is (are) Chronic obstructive pulmonary disease ?</Question>
+			<Answer>Chronic obstructive pulmonary disease (COPD) is a common lung disease. Having COPD makes it hard to breathe. There are two main forms of COPD: Chronic bronchitis, which involves a long-term cough with mucus, Emphysema, which involves damage to the lungs over time ,  Most people with COPD have a combination of both conditions.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000844-2" qtype="causes">What causes Chronic obstructive pulmonary disease ?</Question>
+			<Answer>Smoking is the main cause of COPD. The more a person smokes, the more likely that person will develop COPD. But some people smoke for years and never get COPD. If a person has a rare condition in which they lack a protein called  alpha-1 antitrypsin , they can develop emphysema even without smoking. Other risk factors for COPD are: Exposure to certain gases or fumes in the workplace, Exposure to heavy amounts of secondhand smoke and pollution, Frequent use of a cooking fire without proper ventilation , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000844-3" qtype="symptoms">What are the symptoms of Chronic obstructive pulmonary disease ?</Question>
+			<Answer>Symptoms may include any of the following: Cough , with or without mucus,  Fatigue , Frequent respiratory infections, Shortness of breath ( dyspnea ) that gets worse with mild activity, Trouble catching one's breath,  Wheezing ,  Because the symptoms develop slowly, many people may not know that they have COPD.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000844-4" qtype="exams and tests">How to diagnose Chronic obstructive pulmonary disease ?</Question>
+			<Answer>The best test for COPD is a lung function test called  spirometry . This involves blowing out as hard as possible into a small machine that tests air movement and lung capacity. The results can be checked right away.  Using a stethoscope to listen to the lungs can also be helpful, showing prolonged expiratory time or wheezing. But sometimes, the lungs sound normal, even when a person has COPD. Imaging tests of the lungs, such as  x-rays  and  CT scans  may be ordered. With an x-ray, the lungs may look normal, even when a person has COPD. A CT scan will almost always show signs of COPD if it is present. Sometimes, a blood test called  arterial blood gas  may be done to measure the amounts of oxygen and carbon dioxide in the blood. If your health care provider suspects you have alpha-1 antitrypsin deficiency, a  blood test  will likely be ordered to detect this condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000844-5" qtype="treatment">What are the treatments for Chronic obstructive pulmonary disease ?</Question>
+			<Answer>There is no cure for COPD. But there are many things you can do to relieve symptoms and keep the disease from getting worse. If you smoke,  now is the time to quit . This is the best way to slow lung damage. Medicines used to treat COPD include: Quick-relief drugs  to help open the airways,  Control drugs  to reduce lung inflammation, Anti-inflammatory drugs to reduce swelling in the airways, Certain long-term antibiotics ,  In severe cases or during flare-ups, you may need to receive: Steroids by mouth or through a vein (intravenously), Bronchodilators through a nebulizer, Oxygen therapy, Assistance from a  machine  to help breathing by using a mask or through the use of an endotracheal tube ,  Your provider may prescribe antibiotics during symptom  flare-ups , because an infection can make COPD worse. You may need  oxygen therapy  at home if you have a low level of oxygen in your blood. Pulmonary rehabilitation does not cure COPD. But it can teach you more about the disease, train you to breathe in a different way so you can stay active and feel better, and keep you functioning at the highest level possible. 
+LIVING WITH COPD
+ You  can do things every day  to keep COPD from getting worse, protect your lungs, and stay healthy. Walk to build up strength: Ask the provider or respiratory therapist how far to walk., Slowly increase how far you walk., Avoid talking if you get short of breath when you walk., Use pursed lip breathing when you breathe out, to empty your lungs before the next breath. ,  Things you can do to make it easier for yourself around the home include: Avoid very cold air or very hot weather, Make sure no one smokes in your home, Reduce air pollution by not using the fireplace and getting rid of other irritants,  Manage stress and your mood , Use oxygen if prescribed for you ,  Eat healthy foods, including fish, poultry, and lean meat, as well as fruits and vegetables. If it is hard to keep your weight up, talk to a provider or dietitian about eating foods with more calories, by eating small frequent meals. Surgery or other interventions may be used to treat COPD. Only a few people benefit from these surgical treatments: One-way valves can be inserted with a bronchoscopy to help deflate parts of the lung that are hyperinflated (overinflated) in select patients., Surgery to remove parts of the diseased lung, which can help less-diseased parts work better in some people with emphysema (lung volume reduction surgery).,  Lung transplant  for a small number of very severe cases., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000844-6" qtype="support groups">Where to find support for people with Chronic obstructive pulmonary disease ?</Question>
+			<Answer>You can ease the stress of illness by joining a  support group . Sharing with others who have common experiences and problems can help you not feel alone. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000844-7" qtype="outlook">What is the outlook for Chronic obstructive pulmonary disease ?</Question>
+			<Answer>COPD is a long-term (chronic) illness. The disease will get worse more quickly if you do not stop smoking. If you have severe COPD, you will be short of breath with most activities. You may be admitted to the hospital more often. Talk with your provider about breathing machines and end-of-life care as the disease progresses.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000844-8" qtype="complications">What are the complications of Chronic obstructive pulmonary disease ?</Question>
+			<Answer>With COPD, you may have  other health problems  such as: Irregular heartbeat ( arrhythmia ), Need for breathing machine support with a mask (non-invasive ventilation) and oxygen therapy, Right-sided heart failure or  cor pulmonale  (heart swelling and  heart failure  due to chronic lung disease),  Pneumonia , Collapsed lung ( pneumothorax ), Severe weight loss and  malnutrition , Thinning of the bones ( osteoporosis ), Debilitation, Increased anxiety , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000844-9" qtype="when to contact a medical professional">Do I need to see a doctor for Chronic obstructive pulmonary disease ?</Question>
+			<Answer>Go to the emergency room or call 911 or the local emergency number if you have a rapid increase in shortness of breath.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0000844-10" qtype="prevention">How to prevent Chronic obstructive pulmonary disease ?</Question>
+			<Answer>Not smoking prevents most cases of COPD. Ask your provider about  quit-smoking  programs. Medicines are also available to help you stop smoking.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

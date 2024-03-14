@@ -1,0 +1,46 @@
+<Document id="0003784" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003227.htm">
+ 
+<Focus>Sunburn</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038814</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Solar erythema</Synonym>
+		<Synonym>Burn from the sun</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003784-1" qtype="information">What is (are) Sunburn ?</Question>
+			<Answer>A sunburn is reddening of the skin that occurs after you are overexposed to the sun or other ultraviolet light.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003784-2" qtype="considerations">What to do for Sunburn ?</Question>
+			<Answer>The first signs of a sunburn may not appear for a few hours. The full effect to your skin may not appear for 24 hours or longer. Possible symptoms include: Red, tender skin that is warm to the touch,  Blisters  that develop hours to days later, Severe reactions (sometimes called sun poisoning), including fever, chills, nausea, or rash, Skin peeling on sunburned areas several days after the sunburn,  Symptoms of sunburn are usually temporary. But the damage to skin cells is often permanent, which can have serious long-term effects. These include  skin cancer  and  early aging of the skin . By the time the skin starts to become painful and red, the damage has been done. Pain is worst between 6 to 48 hours after sun exposure.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003784-3" qtype="causes">What causes Sunburn ?</Question>
+			<Answer>Sunburn results when the amount of exposure to the sun or other ultraviolet light source exceeds the ability of melanin to protect the skin.  Melanin  is the skin's protective coloring (pigment). Sunburn in a very light-skinned person may occur in less than 15 minutes of midday sun exposure, while a dark-skinned person may tolerate the same exposure for hours. Keep in mind: There is no such thing as a "healthy tan." Unprotected sun exposure causes early aging of the skin and skin cancer., Sun exposure can cause first- and second-degree  burns ., Skin cancer usually appears in adulthood. But it is caused by sun exposure and sunburns that began as early as childhood. ,  Factors that make sunburn more likely: Infants and children are very sensitive to the burning effects of the sun., People with fair skin are more likely to get sunburn. But even dark and black skin can burn and should be protected., The sun's rays are strongest during the hours of 10 a.m. to 4 p.m. The sun's rays are also stronger at higher altitudes and lower latitudes (closer to the equator). Reflections off water, sand, or snow can make the sun's burning rays stronger., Sun lamps can cause severe sunburn., Some medicines (such as the antibiotics doxycycline and tetracycline) can make your skin easier to sunburn., Some medical conditions (such as  lupus ) can make you more sensitive to the sun. ,  Watch this video about: Sun's effect on skin</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003784-4" qtype="considerations">What to do for Sunburn ?</Question>
+			<Answer>The first signs of a sunburn may not appear for a few hours. The full effect to your skin may not appear for 24 hours or longer. Possible symptoms include: Red, tender skin that is warm to the touch,  Blisters  that develop hours to days later, Severe reactions (sometimes called sun poisoning), including fever, chills, nausea, or rash, Skin peeling on sunburned areas several days after the sunburn,  Symptoms of sunburn are usually temporary. But the damage to skin cells is often permanent, which can have serious long-term effects. These include  skin cancer  and  early aging of the skin . By the time the skin starts to become painful and red, the damage has been done. Pain is worst between 6 to 48 hours after sun exposure.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003784-5" qtype="when to contact a medical professional">Do I need to see a doctor for Sunburn ?</Question>
+			<Answer>Call your health care provider right away if you have a fever with sunburn. Also call if there are signs of shock, heat exhaustion, dehydration, or other serious reactions. These signs include: Feeling  faint  or  dizzy ,  Rapid pulse  or  rapid breathing , Extreme thirst, no urine output, or sunken eyes, Pale, clammy, or cool skin,  Nausea ,  fever ,  chills , or  rash , Your eyes hurt and are sensitive to light, Severe, painful blisters , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003784-6" qtype="outlook">What is the outlook for Sunburn ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

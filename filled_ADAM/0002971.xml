@@ -1,0 +1,37 @@
+<Document id="0002971" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002993.htm">
+ 
+<Focus>Patent urachus repair</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0266357</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Patent urachal tube repair</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002971-1" qtype="information">What is (are) Patent urachus repair ?</Question>
+			<Answer>Patent urachus repair is surgery to fix a bladder defect. In an open (or patent) urachus, there is an opening between the bladder and the belly button (navel). The urachus is a tube between the bladder and the belly button that is present before birth. In most cases, it closes along its full length before the baby is born. An open urachus occurs mostly in infants.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002971-2" qtype="information">What is (are) Patent urachus repair ?</Question>
+			<Answer>Patent urachus repair is surgery to fix a bladder defect. In an open (or patent) urachus, there is an opening between the bladder and the belly button (navel). The urachus is a tube between the bladder and the belly button that is present before birth. In most cases, it closes along its full length before the baby is born. An open urachus occurs mostly in infants.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002971-4" qtype="susceptibility">Who is at risk for Patent urachus repair? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002971-7" qtype="outlook">What is the outlook for Patent urachus repair ?</Question>
+			<Answer>The outcome is most often excellent.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

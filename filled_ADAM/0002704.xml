@@ -1,0 +1,45 @@
+<Document id="0002704" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003193.htm">
+ 
+<Focus>Muscle cramps</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026821</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cramps - muscle</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002704-1" qtype="information">What is (are) Muscle cramps ?</Question>
+			<Answer>Muscle cramps are when a muscle gets tight (contracts) without you trying to tighten it, and it does not relax. Cramps may involve all or part of one or more muscles.  The most commonly involved muscle groups are: Back of the lower leg (calf), Back of the thigh (hamstrings), Front of the thigh (quadriceps) ,  Cramps in the feet, hands, arms, abdomen, and along the rib cage are also very common. Muscle cramps are common and may be stopped by stretching the muscle. The cramping muscle may feel hard or bulging. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002704-2" qtype="considerations">What to do for Muscle cramps ?</Question>
+			<Answer>Muscle cramps are different than  muscle twitches , which are covered in a separate article. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002704-3" qtype="causes">What causes Muscle cramps ?</Question>
+			<Answer>Muscle cramps are common and often occur when a muscle is overused or injured. Working out when you have not had enough fluids (dehydration) or when you have low levels of minerals such as sodium, potassium, or calcium can also make you more likely to have a muscle spasm. Muscle cramps can occur while you play tennis or golf, bowl, swim, or do any other exercise.  They can also be triggered by: Alcoholism ,  Hypothyroidism  (underactive thyroid),  Kidney failure , Medicines, Menstruation, Pregnancy , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002704-4" qtype="considerations">What to do for Muscle cramps ?</Question>
+			<Answer>Muscle cramps are different than  muscle twitches , which are covered in a separate article. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002704-5" qtype="when to contact a medical professional">Do I need to see a doctor for Muscle cramps ?</Question>
+			<Answer>Contact your provider if your muscle cramps: Are severe, Do not go away with simple stretching, Keep coming back, Last a long time , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002704-6" qtype="outlook">What is the outlook for Muscle cramps ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

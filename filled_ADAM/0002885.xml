@@ -1,0 +1,57 @@
+<Document id="0002885" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000437.htm">
+ 
+<Focus>Osteomyelitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0029443</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bone infection</Synonym>
+		<Synonym>Infection - bone</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002885-1" qtype="information">What is (are) Osteomyelitis ?</Question>
+			<Answer>Osteomyelitis is a bone infection. It is mainly caused by bacteria or other germs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002885-2" qtype="causes">What causes Osteomyelitis ?</Question>
+			<Answer>Bone infection is most often caused by bacteria. But it can also be caused by fungi or other germs. When a person has osteomyelitis: 
+  Bacteria or other germs may spread to a bone from infected skin, muscles, or tendons next to the bone. This may occur under a skin sore.
+  , 
+  The infection can start in another part of the body and spread to the bone through the blood.
+  , 
+  The infection can also start after bone surgery. This is more likely if the surgery is done after an injury or if metal rods or plates are placed in the bone.
+  ,  In children, the  long bones  of the arms or legs are most often involved. In adults, the feet, spine bones (vertebrae), and hips (pelvis) are most commonly affected. Risk factors are: Diabetes ,  Hemodialysis , Poor blood supply, Recent injury, Use of injected illicit drugs , Surgery involving bones, Weakened immune system, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002885-3" qtype="symptoms">What are the symptoms of Osteomyelitis ?</Question>
+			<Answer>Symptoms of osteomyelitis are not specific and vary with age. Main symptoms include: Bone pain , Excessive sweating,  
+ Fever and chills, General discomfort, uneasiness, or ill feeling ( malaise ), Local  swelling , redness, and warmth, Open wound that may show pus, Pain at the site of infection, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002885-4" qtype="exams and tests">How to diagnose Osteomyelitis ?</Question>
+			<Answer>The health care provider will examine you and ask about your symptoms. The exam may show bone tenderness and possible swelling and redness in the area around the bone. Tests may include: Blood cultures ,  Bone biopsy  (the sample is cultured and examined under a microscope),  Bone scan ,  Bone x-ray ,  Complete blood count  (CBC),  C-reactive protein  (CRP),  Erythrocyte sedimentation rate   (ESR),  MRI  of the bone, Needle  aspiration  of the area of the affected bones , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002885-5" qtype="treatment">What are the treatments for Osteomyelitis ?</Question>
+			<Answer>The goal of treatment is to get rid of the infection and reduce damage to the bone and surrounding tissues. Antibiotics are given to destroy the bacteria causing the infection:  You may receive more than one antibiotic at a time., Antibiotics are taken for at least 4 to 6 weeks, often  at home through an IV  (intravenously, meaning through a vein). ,  Surgery may be needed to remove dead bone tissue if the above methods fail: If there are metal plates near the infection, they may need to be removed., The open space left by the removed bone tissue may be filled with  bone graft  or packing material. This promotes resolution of the infection.,  Infection that occurs after joint replacement may require surgery. This is done to remove the replaced joint and infected tissue in the area. A new  prosthesis  may be implanted in the same operation. More often, doctors wait until the antibiotic course is finished and the infection has gone away. If you have  diabetes , it will need to be well controlled. If there are  problems with blood supply  to the infected area, such as the foot, surgery may be needed to improve blood flow in order to get rid of the infection.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002885-6" qtype="outlook">What is the outlook for Osteomyelitis ?</Question>
+			<Answer>With treatment, the outcome for acute osteomyelitis is often good. The outlook is worse for those with long-term (chronic) osteomyelitis. Symptoms may come and go for years, even with surgery. Amputation may be needed, especially in people with diabetes or poor blood circulation. The outlook for people with an infection of a prosthesis depends partly on: The person's health, The type of infection, Whether the infected prosthesis can be safely removed , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002885-7" qtype="when to contact a medical professional">Do I need to see a doctor for Osteomyelitis ?</Question>
+			<Answer>Contact your provider if you: Develop symptoms of osteomyelitis, Have osteomyelitis that continues even with treatment , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

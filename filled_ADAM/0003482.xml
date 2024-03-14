@@ -1,0 +1,57 @@
+<Document id="0003482" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001003.htm">
+ 
+<Focus>Scleritis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0036416</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Inflammation - sclera</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003482-1" qtype="information">What is (are) Scleritis ?</Question>
+			<Answer>The sclera is the white outer wall of the eye. Scleritis is present when this area becomes swollen or inflamed.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003482-2" qtype="causes">What causes Scleritis ?</Question>
+			<Answer>Scleritis is often linked to  autoimmune diseases . These diseases occur when the body's immune system attacks and destroys healthy body tissue by mistake.  Rheumatoid arthritis  and  systemic lupus erythematosus  are examples of autoimmune diseases that can be associated with scleritis. Sometimes the cause is unknown. Scleritis occurs most often in people between the ages of 30 and 60. It is rare in children.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003482-3" qtype="symptoms">What are the symptoms of Scleritis ?</Question>
+			<Answer>Symptoms of scleritis include: Blurred vision ,  Eye pain  and tenderness -- severe, Red patches on the normally white part of the eye,  Sensitivity to light  -- very painful,  Tearing of the eye ,  A rare form of this disease causes no eye pain or redness.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003482-4" qtype="exams and tests">How to diagnose Scleritis ?</Question>
+			<Answer>Your health care provider will perform the following tests: Eye exam , Physical exam and blood tests to look for conditions that may be causing the problem ,  It is important for your provider to determine if your symptoms are due to scleritis. The same symptoms can also be a less severe form of inflammation, such as  episcleritis .</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003482-5" qtype="treatment">What are the treatments for Scleritis ?</Question>
+			<Answer>Treatments for scleritis may include: Corticosteroid eye drops to help reduce the inflammation, Corticosteroid pills, Newer, nonsteroid anti-inflammatory drugs (NSAIDs) in some cases, Certain anticancer drugs (immune-suppressants) to help reduce the inflammation in severe cases,  If scleritis is caused by an underlying disease, treatment of that disease may be needed.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003482-6" qtype="outlook">What is the outlook for Scleritis ?</Question>
+			<Answer>In most cases, the condition goes away with treatment. But it may come back.  The disorder causing scleritis may be serious. However, it may not be discovered the first time you have the problem. The outcome will depend on the specific disorder.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003482-7" qtype="complications">What are the complications of Scleritis ?</Question>
+			<Answer>Complications may include: Return of scleritis, Side effects of long-term corticosteroid therapy, Perforation of the eyeball, leading to vision loss if the condition is left untreated, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003482-8" qtype="when to contact a medical professional">Do I need to see a doctor for Scleritis ?</Question>
+			<Answer>Contact your provider or ophthalmologist if you have symptoms of scleritis.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003482-9" qtype="prevention">How to prevent Scleritis ?</Question>
+			<Answer>Most cases cannot be prevented. People with autoimmune diseases, may need to have regular check-ups with an ophthalmologist familiar with the condition. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

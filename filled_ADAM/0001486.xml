@@ -1,0 +1,26 @@
+<Document id="0001486" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000493.htm">
+ 
+<Focus>Exercises to help prevent falls</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085639</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001486-1" qtype="information">What is (are) Exercises to help prevent falls ?</Question>
+			<Answer>If you have a medical problem or you are an older adult, you may be at risk of falling or tripping. This can result in broken bones or even more serious injuries. Exercising can help  prevent falls  because it can: Make your muscles stronger and more flexible, Improve your balance, Increase how long you can be active ,  You can do the following exercises anytime and almost anywhere. As you get stronger, try to hold each position longer or add light weights to your ankles. This will increase how effective the exercise is. Try to exercise 150 minutes a week. Perform muscle strengthening exercises 2 or more days a week. Start off slowly and check with your health care provider to make sure you are doing the right type of exercises for you. You may want to exercise on your own or join a group. When you exercise, always make sure you breathe slowly and easily. Do not hold your breath.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001486-8" qtype="when to contact a medical professional">Do I need to see a doctor for Exercises to help prevent falls ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

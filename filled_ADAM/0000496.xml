@@ -1,0 +1,16 @@
+<Document id="0000496" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000453.htm">
+ 
+<Focus>Bloodborne pathogens</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Bloodborne infections</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000496-1" qtype="information">Do you have information about Bloodborne pathogens</Question>
+			<Answer>A pathogen is something that causes disease. Germs that can have a long-lasting presence in human blood and disease in humans are called bloodborne pathogens. The most common and dangerous germs spread through blood in the hospital are: Hepatitis B  virus (HBV) and  hepatitis C  virus (HCV). These viruses cause infections and liver damage., HIV (human immunodeficiency virus). This virus causes  HIV/AIDS .,  You can be infected with HBV, HCV, or HIV if you are stuck with a needle or other sharp object that has touched the blood or bodily fluids of a person who has one of these infections. These infections can also spread if infected blood or bloody bodily fluids touch mucous membranes or an open sore or cut. Mucous membranes are the moist parts of your body, such as in your eyes, nose, and mouth. HIV can also spread from one person to another through fluid in your joints or spinal fluid. And it can spread through semen, fluids in the vagina, breast milk, and the fluid that surrounds a baby in the womb (amniotic fluid).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

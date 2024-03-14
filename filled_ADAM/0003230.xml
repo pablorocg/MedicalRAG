@@ -1,0 +1,41 @@
+<Document id="0003230" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003026.htm">
+ 
+<Focus>Prognathism</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0033324</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Extended chin</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003230-1" qtype="information">What is (are) Prognathism ?</Question>
+			<Answer>Prognathism is an extension or bulging out (protrusion) of the lower jaw (mandible). It occurs when the teeth are not properly aligned due to the shape of the face bones.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003230-2" qtype="considerations">What to do for Prognathism ?</Question>
+			<Answer>Prognathism may cause malocclusion (misalignment of the biting surfaces of the upper and lower teeth). It can give a person an angry, or fighter's appearance. Prognathism may be a symptom of other syndromes or conditions.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003230-3" qtype="causes">What causes Prognathism ?</Question>
+			<Answer>An extended (protruding) jaw can be part of a person's normal face shape that is present at birth.  It can also be caused by inherited conditions, such as Crouzon syndrome or  basal cell nevus syndrome . It may develop over time in children or adults as the result of excess growth in conditions such as  gigantism  or  acromegaly .</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003230-4" qtype="when to contact a medical professional">Do I need to see a doctor for Prognathism ?</Question>
+			<Answer>A dentist or orthodontist may be able to treat abnormal alignment of the jaw and teeth. Your primary health care provider should also be involved to check for underlying medical disorders that can be associated with prognathism. Contact a provider if: You or your child have difficulty talking, biting, or chewing related to the abnormal jaw alignment., You have concerns about jaw alignment. , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003230-5" qtype="outlook">What is the outlook for Prognathism ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

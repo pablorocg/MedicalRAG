@@ -1,0 +1,58 @@
+<Document id="0004201" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007318.htm">
+ 
+<Focus>Vascular ring</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221214</CUI>
+			<CUI>C0265888</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Right aortic arch with aberrant subclavian and left ligamentum ateriosus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004201-1" qtype="information">What is (are) Vascular ring ?</Question>
+			<Answer>Vascular ring is an abnormal formation of the aorta, the large artery that carries blood from the heart to the rest of the body. It is a congenital problem, which means it is present at birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004201-2" qtype="causes">What causes Vascular ring ?</Question>
+			<Answer>Vascular ring is rare. It accounts for less than 1% of all congenital heart problems. The condition occurs as often in males as females. Some infants with vascular ring also have another congenital heart problem. Vascular ring occurs very early during the baby's development in the womb. Normally, the aorta develops from one of several curved pieces of tissue (arches). The body breaks down some of the remaining arches, while others form into arteries. Some arteries that should break down do not, which forms a vascular ring. With vascular ring, some of the arches and vessels that should have changed into arteries or disappeared are still present when the baby is born. These arches form a ring of blood vessels, which encircles and presses down on the windpipe (trachea) and esophagus. Several different types of vascular ring exist. In some types, the vascular ring only partially encircles the trachea and esophagus, but it still can cause symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004201-3" qtype="symptoms">What are the symptoms of Vascular ring ?</Question>
+			<Answer>Some children with a vascular ring never develop symptoms. However, in most cases, symptoms are seen during infancy. Pressure on the windpipe (trachea) and esophagus can lead to breathing and digestive problems. The more the ring presses down, the more severe the symptoms will be. Breathing problems may include: High-pitched cough,  Loud breathing (stridor) , Repeated pneumonias or respiratory infections, Respiratory distress, Wheezing ,  Eating may make breathing symptoms worse. Digestive symptoms are rare, but may include: Choking, Difficulty eating solid foods,  Difficulty swallowing (dysphagia) ,  Gastroesophageal reflux (GERD) , Slow breast or bottle feeding, Vomiting , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004201-4" qtype="exams and tests">How to diagnose Vascular ring ?</Question>
+			<Answer>The health care provider will listen to the baby's breathing to rule out other breathing disorders such as asthma. Listening to the child's heart through a stethoscope can help identify murmurs and other heart problems. The following tests can help diagnose vascular ring: Chest x-ray, Computed tomography (CT) scan of the heart and major blood vessels, Camera down the throat to examine the airways (bronchoscopy), Magnetic resonance imaging (MRI) of the heart and major blood vessels, Ultrasound examination (echocardiogram) of heart, X-ray of blood vessels (angiography), X-ray of the esophagus using a special dye to better highlight the area (esophagram or barium swallow) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004201-5" qtype="treatment">What are the treatments for Vascular ring ?</Question>
+			<Answer>Surgery is usually performed as soon as possible on children with symptoms. The goal of surgery is to split the vascular ring and relieve pressure on the surrounding structures. The procedure is usually done through a small surgical cut in the left side of the chest between the ribs. Changing the child's diet may help relieve the digestive symptoms of vascular ring. The provider will prescribe medicines (such as antibiotics) to treat any respiratory tract infections, if they occur. Children who do not have symptoms may not need treatment but should be carefully watched to make sure the condition does not become worse.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004201-6" qtype="outlook">What is the outlook for Vascular ring ?</Question>
+			<Answer>How well the infant does depends on how much pressure the vascular ring is putting on the esophagus and trachea and how quickly the infant is diagnosed and treated. Surgery works well in most cases and often relieves symptoms right away. Severe breathing problems may take months to go away. Some children may continue to have loud breathing, especially when they are very active or have respiratory infections.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004201-7" qtype="complications">What are the complications of Vascular ring ?</Question>
+			<Answer>Delaying surgery in serious cases can lead to serious complications, such as damage to the trachea and death.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004201-8" qtype="when to contact a medical professional">Do I need to see a doctor for Vascular ring ?</Question>
+			<Answer>Contact your provider if your baby has symptoms of vascular ring. Getting diagnosed and treated quickly can prevent serious complications.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0004201-9" qtype="prevention">How to prevent Vascular ring ?</Question>
+			<Answer>There is no known way to prevent this condition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,20 @@
+<Document id="0002463" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007342.htm">
+ 
+<Focus>Lung PET scan</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Chest PET scan</Synonym>
+		<Synonym>Lung positron emission tomography</Synonym>
+		<Synonym>PET - chest</Synonym>
+		<Synonym>PET - lung</Synonym>
+		<Synonym>PET - tumor imaging</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002463-1" qtype="information">Do you have information about Lung PET scan</Question>
+			<Answer>A lung positron emission tomography ( PET ) scan is an imaging test. It uses a radioactive substance (called a tracer) to look for disease in the lungs such as  lung cancer . Unlike magnetic resonance imaging ( MRI ) and computed tomography ( CT ) scans, which reveal the structure of the lungs, a PET scan shows the activity of the cells within the lungs.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

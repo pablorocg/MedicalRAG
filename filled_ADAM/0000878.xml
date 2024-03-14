@@ -1,0 +1,57 @@
+<Document id="0000878" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000786.htm">
+ 
+<Focus>Cluster headache</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0009088</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Histamine headache</Synonym>
+		<Synonym>Headache - histamine</Synonym>
+		<Synonym>Migrainous neuralgia</Synonym>
+		<Synonym>Headache - cluster</Synonym>
+		<Synonym>Horton's headache</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000878-1" qtype="information">What is (are) Cluster headache ?</Question>
+			<Answer>A cluster headache is an uncommon type of headache. It is one-sided head pain that may involve tearing of the eyes, a droopy eyelid, and a stuffy nose. Attacks last from 15 minutes to 3 hours, occur daily or almost daily for weeks or months. The attacks are separated by pain-free periods that last at least 1 month or longer. Cluster headaches may be confused with other common types of headaches such as  migraines , sinus headache, and  tension headache .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000878-2" qtype="causes">What causes Cluster headache ?</Question>
+			<Answer>Doctors do not know exactly what causes cluster headaches. They seem to be related to the body's sudden release of histamine (chemical in the body released during an allergic response) or serotonin (chemical made by nerve cells) in the area of a nerve in the face called the trigeminal nerve. A problem in a small area at the base of the brain called the  hypothalamus  may be involved. More men than women are affected. The headaches can occur at any age, but are most common in the 20s through middle age. They tend to run in families. Cluster headaches may be triggered by: Alcohol and cigarette smoking, High altitudes (trekking and air travel), Bright light (including sunlight), Exertion (physical activity), Heat (hot weather or hot baths), Foods high in nitrites (bacon and preserved meats), Certain medicines, Cocaine , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000878-3" qtype="symptoms">What are the symptoms of Cluster headache ?</Question>
+			<Answer>A cluster headache begins as a severe, sudden headache. The headache commonly strikes 2 to 3 hours after you fall asleep. But it can also occur when you are awake. The headache tends to happen daily at the same time of day. Attacks can last for months. They can alternate with periods without headaches (episodic) or they can go on for a year or more without stopping (chronic). Cluster headache pain is usually: Burning, sharp, stabbing, or steady, Felt on one side of the face from neck to temple, often involving the eye, At its worst within 5 to 10 minutes, with the strongest pain lasting 30 minutes to 2 hours ,  When the eye and nose on the same side as the head pain are affected, symptoms can include: Swelling under or around the eye (may affect both eyes), Excessive tearing, Red eye, Droopy eyelid, Runny nose or stuffy nose on the same side as the head pain, Red, flushed face, with extreme sweating , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000878-4" qtype="exams and tests">How to diagnose Cluster headache ?</Question>
+			<Answer>Your health care provider can diagnose this type of headache by performing a physical exam and asking about your symptoms and medical history. If a physical exam is done during an attack, the exam will usually reveal  Horner syndrome  (one-sided eyelid drooping or a small pupil). These symptoms will not be present at other times. No other nervous system (neurologic) changes will be seen. Tests, such as an  MRI of the head , may be needed to rule out other causes of the headaches.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000878-5" qtype="treatment">What are the treatments for Cluster headache ?</Question>
+			<Answer>Treatment for cluster headaches involves: Medicines to treat the pain when it happens, Medicines to prevent the headaches,  TREATING CLUSTER HEADACHES WHEN THEY OCCUR Your provider may recommend the following treatments for when the headaches occur: Triptan medicines, such as sumatriptan (Imitrex)., Anti-inflammatory (steroid) medicines such as prednisone. Starting with a high dose, then slowly decreasing it over 2 to 3 weeks., Breathing in 100% (pure) oxygen., Injections of dihydroergotamine (DHE), which can stop cluster attacks within 5 minutes (Warning: this drug can be dangerous if taken with sumatriptan or some other medicines).,  You may need more than one of these treatments to control your headache. Your provider may have you try several medicines before deciding which works best for you. Pain medicines and narcotics do not usually relieve cluster headache pain because they take too long to work. Surgical treatment may be recommended for you when all other treatments have failed. One such treatment is a neurostimulator. This device delivers tiny electrical signals to certain nerves such as the occipital nerve in the scalp. Your provider can tell you more about surgery. PREVENTING CLUSTER HEADACHES Avoid smoking, alcohol use, certain foods, and other things that trigger your headaches. A headache diary can help you identify your headache triggers. When you get a headache, write down the following: Day and time the pain began, What you ate and drank over the past 24 hours, How much you slept, What you were doing and where you were right before the pain started, How long the headache lasted and what made it stop,  Review your diary with your provider to identify triggers or a pattern to your headaches. This can help you and your provider create a treatment plan. Knowing your triggers can help you avoid them. The headaches may go away on their own or you may need treatment to prevent them. The following medicines may also be used to treat or prevent headache symptoms: Allergy medicines, Antidepressants, Blood pressure medicines, Seizure medicine, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000878-6" qtype="outlook">What is the outlook for Cluster headache ?</Question>
+			<Answer>Cluster headaches are not life threatening. They usually do not cause permanent changes to the brain. But they are long-term (chronic), and often painful enough to interfere with work and life. However, they can occur less frequently with age.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000878-7" qtype="when to contact a medical professional">Do I need to see a doctor for Cluster headache ?</Question>
+			<Answer>Call 911 if:  You are experiencing "the worst headache of your life.", You have speech, vision, or movement problems or loss of balance, especially if you have not had these symptoms with a headache before., A headache starts suddenly.,  Schedule an appointment or contact your provider if: Your headache pattern or pain changes., Treatments that once worked no longer help., You have side effects from your medicine., You are pregnant or could become pregnant. Some medicines should not be taken during pregnancy., You need to take pain medicines more than 3 days a week., Your headaches are more severe when lying down., You have a fever or stiff neck with your headache., </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000878-8" qtype="prevention">How to prevent Cluster headache ?</Question>
+			<Answer>If you smoke, now is a good time to stop.  Alcohol use  and any foods that trigger a cluster headache may need to be avoided. Medicines may prevent cluster headaches in some cases.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,56 @@
+<Document id="0003105" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000596.htm">
+ 
+<Focus>Plague</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032064</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bubonic plague</Synonym>
+		<Synonym>Pneumonic plague</Synonym>
+		<Synonym>Septicemic plague</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003105-1" qtype="information">What is (are) Plague ?</Question>
+			<Answer>Plague is a severe bacterial infection that may cause death. The disease affects small mammals, mainly rodents, and humans.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003105-2" qtype="causes">What causes Plague ?</Question>
+			<Answer>Plague is caused by the bacteria  Yersinia pestis . Rodents, such as rats, carry the disease, which is spread by fleas. In the Middle Ages in Europe, massive plague epidemics killed millions of people. These days, plague occurs sporadically but can be treated and usually cured if caught early. Plague can still be found on nearly all continents. Most human cases have occurred in Africa. Today, plague is rare in the United States. An average of about 7 cases occur every year. Plague was introduced in the 1900s by rats aboard steamships. It caused epidemics in many urban areas up until 1925. The disease spread to the rural rodent population in the Western United States. Now most cases of plague occur in rural areas primarily in these states: Northern New Mexico and Arizona, and southern Colorado, California, southern Oregon, and western Nevada,  \
+ Wild animals affected by plague include: Squirrels, Rats, Prairie dogs, Chipmunks, Mice, Voles, Rabbits, Marmots,  Animals that eat other animals can get the disease by eating infected prey. Domestic animals, such as dogs and cats can contract plague if they are bitten by fleas that carry the disease or eat small rodents such as mice. People can get plague in the following ways: Being bitten by a flea  that carries the plague bacteria from an infected animal. Dogs and cats can also carry infected fleas into the home and spread the disease.,  Handling an infected animal  and coming into contact with body fluid or tissue.&#160; For example, hunters who skin and prepare an infected animal could become infected.,  Breathing in respiratory droplets  from an infected human or animal. Plague lung infection is called pneumonic plague. When someone with pneumonic plague coughs, tiny droplets carrying the bacteria move through the air. Anyone who breathes in these particles may catch the disease. In the United States, there have been cases of owners becoming infected by their sick cat through respiratory droplets., </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003105-3" qtype="symptoms">What are the symptoms of Plague ?</Question>
+			<Answer>There are three types of plague: bubonic, septicemic, and pneumonic. Bubonic plague is an infection of the lymph nodes. It is the most common type of plague in the United States. Flea bites are usually the cause. Bubonic plague symptoms appear suddenly, usually 2 to 8 days after exposure to the bacteria. Symptoms include: Fever and chills, General ill feeling ( malaise ),  Headache , Muscle pain,  Seizures , Smooth, painful lymph gland swelling called  buboes  that are commonly found in the groin, but may occur in the armpits or neck, most often at the site of the infection (flea bite or animal scratch). Pain may start before the swelling appears,  Septicemic plague is an infection of the blood. It may occur from a flea bite or from handling an infected animal. It can also occur from untreated bubonic plague. Septicemic plague may cause death even before severe symptoms occur. Symptoms can include: Abdominal pain , Bleeding due to blood clotting problems,  Diarrhea , Fever,  Nausea, vomiting , Extreme weakness, Shock, Bleeding into the skin and organs, Tissue death (skin turns black and dies) on fingers, toes, and nose.,  Pneumonic plague is an infection of the lungs. This is the most serious form and is what can cause epidemics to occur. It can occur from inhaling respiratory droplets from an infected human or animal (cat). It is the only type that spreads between humans. Untreated bubonic or septicemic plague can also develop into pneumonic plague when bacteria spread to the lungs. Pneumonic plague symptoms appear suddenly, typically 1 to 3 days after exposure. Pneumonia develops rapidly and symptoms include: Severe  cough , Difficulty breathing and pain in the chest when breathing deeply, Weakness, Fever and chills, Headache, Frothy,  bloody sputum , Respiratory failure, Shock,  Human-to-human transmission of plague has not occurred in the United States since 1925.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003105-4" qtype="exams and tests">How to diagnose Plague ?</Question>
+			<Answer>Your health care provider will perform a physical examination and ask about your symptoms. Tests that may be done include: Blood culture ,  Culture of lymph node aspirate  (fluid taken from an affected lymph node or bubo),  Sputum culture , Chest x-ray, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003105-5" qtype="treatment">What are the treatments for Plague ?</Question>
+			<Answer>Plague is treated with antibiotics. People with plague need to be treated right away.&#160;Treatment should be given if plague is suspected, even before test results come back. If treatment is not received within 24 hours of when the first symptoms occur, the risk for death increases.&#160; Antibiotics used to treat plague include: Ciprofloxacin, Doxycycline, Gentamicin, Levofloxacin, Moxifloxacin, Streptomycin&#160;,  Oxygen,  intravenous  fluids, and  respiratory  support are usually also needed. People with pneumonic plague must be kept away from other patients and isolation procedures will be followed in the hospital. People who have had close contact with anyone infected by pneumonic plague should be given antibiotics as a preventive measure and watched carefully.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003105-6" qtype="outlook">What is the outlook for Plague ?</Question>
+			<Answer>Before antibiotics, 60% of people with plague in the United States died. Now that plague can be treated with antibiotics, overall mortality is 11%. Almost everyone with septicemic or pneumonic plague dies if not treated right away.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003105-7" qtype="when to contact a medical professional">Do I need to see a doctor for Plague ?</Question>
+			<Answer>Contact your provider if you develop plague symptoms after exposure to fleas or rodents. Contact your provider if you live in or have visited an area where plague occurs.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003105-8" qtype="prevention">How to prevent Plague ?</Question>
+			<Answer>Rat control and watching for the disease in the wild rodent population are the main measures used to control the risk for epidemics. There is no plague vaccine available in the United States.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

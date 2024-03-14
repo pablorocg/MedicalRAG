@@ -1,0 +1,59 @@
+<Document id="0002497" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000945.htm">
+ 
+<Focus>Major depression</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0041696</CUI>
+			<CUI>C1269683</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Depression - major</Synonym>
+		<Synonym>Depression - clinical</Synonym>
+		<Synonym>Clinical depression</Synonym>
+		<Synonym>Unipolar depression</Synonym>
+		<Synonym>Major depressive disorder</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002497-1" qtype="information">What is (are) Major depression ?</Question>
+			<Answer>Depression is feeling sad, blue, unhappy, or down in the dumps. Most people feel this way once in a while.  Major depression is a mood disorder. It occurs when feelings of sadness, loss, anger, or frustration get in the way of your life over a long period of time. It also changes how your body works.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002497-2" qtype="causes">What causes Major depression ?</Question>
+			<Answer>Health care providers do not know the exact causes of depression. It is believed that chemical changes in the brain are responsible. This may be due to how your genes work. Or it may be triggered by certain stressful events. More likely, it is a combination of both. Some types of depression run in families. Other types occur even if you have no family history of the illness. Anyone can develop depression, including children and  teens . Depression may be brought on by: Alcohol  or  drug use , Certain medical problems, such as  underactive thyroid , cancer, or long-term pain, Some kinds of medicines, such as steroids or beta-blockers, Sleeping problems, Stressful life events, such as death or illness of someone close to you, divorce, medical problems, childhood abuse or neglect, loneliness (common in  older people ), and relationship breakup , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002497-3" qtype="symptoms">What are the symptoms of Major depression ?</Question>
+			<Answer>Depression can change or distort the way you see yourself, your life, and those around you. With depression, you often see everything in a negative way. It is hard for you to imagine that a problem or situation can be solved in a positive way. Symptoms of depression can include: Agitation, restlessness, irritability, and anger, Becoming withdrawn or isolated,  Fatigue  and lack of energy, Feeling hopeless, helpless, worthless, guilty, and self-hate, Loss of interest or pleasure in activities that were once enjoyed including sex, Sudden change in appetite, often with weight gain or loss, Thoughts of death or  suicide , Trouble concentrating, Trouble sleeping or sleeping too much ,  Depression in teens  may be harder to recognize. Problems with school, behavior, or alcohol or drug use can all be signs. If depression is very severe, you may have  hallucinations  or delusions (false beliefs). This condition is called depression with psychotic features.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002497-4" qtype="exams and tests">How to diagnose Major depression ?</Question>
+			<Answer>Your provider will ask about your medical history and symptoms. Your answers can help your provider diagnose depression and determine how severe it may be. Blood and urine tests may be done to check for other medical conditions that have symptoms similar to depression.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002497-5" qtype="treatment">What are the treatments for Major depression ?</Question>
+			<Answer>Depression can be treated. The choice of treatment depends on the severity of the depression and what you or your provider prefer. Treatment often includes medicines, with or without talk therapy but sometimes, talk therapy is used alone. If you are thinking about suicide or are very depressed and cannot function, you may need to be treated in a hospital. After you have been on treatment, if you feel your symptoms are getting worse, talk with your provider. Your treatment plan may need to be changed. MEDICINES  Antidepressants are medicines used to treat depression. They work by bringing back the chemicals in your brain to the right levels. This helps relieve your symptoms. The antidepressant medicines typically used are: Selective serotonin reuptake inhibitors (SSRIs), Serotonin and norepinephrine reuptake inhibitors (SNRIs),  If you have delusions or hallucinations, your provider may prescribe additional medicines. Tell your provider about any other medicines you take. Some medicines can change the way antidepressants work in your body. Allow your medicine time to work. It may take a few weeks before you feel better. Keep taking your medicine as instructed.  Do not stop taking it  or change the amount (dosage) you are taking without talking to your provider. Ask your provider about possible side effects, and what to do if you have any. If you feel your medicine is not working or causing side effects, tell your provider. The medicine or its dosage may need to be changed. Do not stop taking medicines on your own. WARNING Children, teens, and young adults should be watched closely for suicidal behavior. This is especially true during the first few months after starting medicines for depression. Women being treated for depression who are pregnant or thinking about becoming pregnant should not stop taking antidepressants without first talking to their provider. Beware of natural remedies such as St. John's wort. This is an herb sold without a prescription. It may help some people with mild depression. But it can change the way other medicines work in your body, including antidepressants. Talk to your provider before trying this herb. If you feel your medicine is making you worse or causing new symptoms (such as confusion), tell your provider right away. Go to an emergency room if you are concerned about your safety. TALK THERAPY  Talk therapy is counseling to talk about your feelings and thoughts, and help you learn how to deal with them. Types of talk therapy include: Cognitive behavioral therapy teaches you how to fight off negative thoughts. You learn how to become more aware of your symptoms and how to spot things that make your depression worse. You are also taught problem-solving skills., Psychotherapy can help you understand the issues that may be behind your thoughts and feelings., At group therapy, you share with others who have problems like yours. Your therapist or provider can tell you more about group therapy. ,  OTHER TREATMENTS FOR DEPRESSION Your provider may also use the following treatments: Electroconvulsive therapy  (ECT) may improve mood in people with severe depression or suicidal thoughts who do not get better with other treatments. ECT is generally safe., Transcranial magnetic stimulation (TMS) can also be a useful treatment if medicines are not helpful., Light therapy may relieve depression symptoms in the winter time. This type of depression is called  seasonal affective disorder . , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002497-6" qtype="outlook">What is the outlook for Major depression ?</Question>
+			<Answer>You may start feeling better a few weeks after starting treatment. If you take medicine, you will need to stay on the medicine for several months to feel good and prevent depression from returning. If your depression keeps coming back, you may need to stay on your medicine for a long period. Long-term (chronic) depression may make it harder for you to manage other illnesses such as  diabetes  or  heart disease . Ask your provider for help in managing these health problems.  
+ Alcohol or drug use can make depression worse. Talk to your provider about getting help.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002497-7" qtype="when to contact a medical professional">Do I need to see a doctor for Major depression ?</Question>
+			<Answer>If you are thinking about hurting yourself or others, text 988 or chat  988lifeline.org . You can also call 1-800-273-8255 (1-800-273-TALK). The 988 Suicide and Crisis Lifeline provides free and confidential support 24/7, anytime day or night.. You can also call 911 or the local emergency number or go to the hospital emergency room. DO NOT delay. If someone you know has attempted suicide, call 911 or the local emergency number right away. DO NOT leave the person alone, even after you have called for help. Contact your provider right away if: You hear voices not coming from people around you., You have frequent crying spells with little or no reason., Your depression is disrupting work, school, or family life., You think that your current medicine is not working or is causing side effects. DO NOT stop or change your medicine without talking to your provider. , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002497-8" qtype="prevention">How to prevent Major depression ?</Question>
+			<Answer>Do not drink alcohol or use illegal drugs. These substances make depression worse and may lead to thoughts of suicide. Take your medicine exactly as your provider instructed. Learn to recognize the early signs that your depression is getting worse. Keep going to your talk therapy sessions. The following tips may help you feel better: Get more exercise., Maintain good sleep habits., Do activities that bring you pleasure., Volunteer or get involved in group activities., Talk to someone you trust about how you are feeling., Try to be around people who are caring and positive. ,  Learn more about depression by contacting a local mental health clinic. Your workplace employee assistance program (EAP) is also a good resource.  Online resources  can also provide good information.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

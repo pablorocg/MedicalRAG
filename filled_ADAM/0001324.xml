@@ -1,0 +1,18 @@
+<Document id="0001324" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000979.htm">
+ 
+<Focus>Ear wax</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Ear impaction</Synonym>
+		<Synonym>Cerumen impaction</Synonym>
+		<Synonym>Ear blockage</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001324-1" qtype="information">Do you have information about Ear wax</Question>
+			<Answer>The ear canal is lined with hair follicles. The ear canal also has glands that produce a waxy oil called cerumen. The wax will most often make its way to the opening of the ear. There it will fall out or be removed by washing.  Wax can build up and block the ear canal. Wax blockage is one of the most common causes of hearing loss.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

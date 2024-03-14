@@ -1,0 +1,49 @@
+<Document id="0001649" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000057.htm">
+ 
+<Focus>Frostbite</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0016736</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cold exposure - arms or legs</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001649-1" qtype="information">What is (are) Frostbite ?</Question>
+			<Answer>Frostbite is damage to the skin and underlying tissues caused by extreme cold. Frostbite is the most common freezing injury.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001649-2" qtype="causes">What causes Frostbite ?</Question>
+			<Answer>Frostbite occurs when the skin and body tissues are exposed to cold temperature for a long period of time.  You are more likely to develop frostbite if you: Take medicines called beta-blockers, Have poor blood supply to the legs ( peripheral vascular disease ), Smoke or use tobacco, Have  diabetes , Have  Raynaud phenomenon , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001649-3" qtype="symptoms">What are the symptoms of Frostbite ?</Question>
+			<Answer>Symptoms of frostbite may include: Pins and needles feeling, followed by numbness, Hard, pale, and cold skin that has been exposed to the cold for too long, Aching, throbbing or lack of feeling in the affected area, Red and extremely painful skin and muscle as the area thaws,  Very severe frostbite may cause: Blisters,  Gangrene  (blackened, dead tissue), Damage to tendons, muscles, nerves, and bone,  Frostbite may affect any part of the body. The hands, feet, nose, and ears are the places most prone to frostbite.  If the frostbite did not affect your blood vessels, a complete recovery is possible., If the frostbite affected the blood vessels, the damage is permanent. Gangrene may occur. This may require removal of the affected body part (amputation). , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001649-4" qtype="considerations">What to do for Frostbite ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001649-5" qtype="considerations">What to do for Frostbite ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001649-6" qtype="when to contact a medical professional">Do I need to see a doctor for Frostbite ?</Question>
+			<Answer>Contact your health care provider if: You had severe frostbite, Normal feeling and color do not return promptly after home treatment for mild frostbite, Frostbite has occurred recently and new symptoms develop, such as  fever , general ill-feeling, skin discoloration, or drainage from the affected body part , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001649-7" qtype="prevention">How to prevent Frostbite ?</Question>
+			<Answer>Be aware of factors that can contribute to frostbite. These include extreme: Wet clothes, High winds, Poor blood circulation. Poor circulation can be caused by tight clothing or boots, cramped positions,  fatigue , certain medicines, smoking or tobacco use,  alcohol use , or diseases that affect the blood vessels, such as diabetes. ,  Wear clothing that protects you well against the cold. Protect exposed areas. In cold weather, wear mittens (not gloves); wind-proof, water-resistant, layered clothing; 2 pairs of socks; and a hat or scarf that covers the ears (to avoid heat loss through the scalp). If you expect to be exposed to the cold for a long period of time, do not drink alcohol, smoke, or use tobacco. Make sure to get enough food and rest. If caught in a severe snowstorm, find shelter early or increase physical activity to maintain body warmth.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

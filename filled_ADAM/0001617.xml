@@ -1,0 +1,25 @@
+<Document id="0001617" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002092.htm">
+ 
+<Focus>Folic acid and birth defect prevention</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0000768</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Prevention of birth defects with folic acid (folate)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001617-1" qtype="information">What is (are) Folic acid and birth defect prevention ?</Question>
+			<Answer>Taking folic acid  before and during pregnancy  can reduce the risk for certain birth defects. These include spina bifida,  anencephaly , and some heart defects. Experts recommend women who can become pregnant or who plan to become pregnant take at least 400 micrograms (&#181;g) of folic acid every day, even if they are not expecting to become pregnant. This is because many pregnancies are unplanned. Also, birth defects often occur in the early days before you may know you are pregnant. If you become pregnant, you should take a prenatal vitamin, which will include folic acid. Most prenatal vitamins contain 800 to 1000 mcg of folic acid. Taking a multivitamin with folic acid helps ensure that you get all the nutrients you need during pregnancy. Women with a history of delivering a baby with a neural tube defect may need a higher dose of folic acid. If you have had a baby with a neural tube defect, you should take 400 &#181;g of folic acid every day, even when you are not planning to become pregnant. If you plan to become pregnant, you should talk to your health care provider about whether you should increase your folic acid intake to 4 milligrams (mg) each day during the month before you become pregnant until at least the 12th week of pregnancy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

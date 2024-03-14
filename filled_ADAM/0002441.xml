@@ -1,0 +1,59 @@
+<Document id="0002441" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000479.htm">
+ 
+<Focus>Low potassium level</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020621</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Potassium - low</Synonym>
+		<Synonym>Low blood potassium</Synonym>
+		<Synonym>Hypokalemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002441-1" qtype="information">What is (are) Low potassium level ?</Question>
+			<Answer>Low blood potassium level is a condition in which the amount of potassium in the blood is lower than normal. The medical name of this condition is hypokalemia.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002441-2" qtype="causes">What causes Low potassium level ?</Question>
+			<Answer>Potassium is an  electrolyte  (mineral). It is needed for cells to function properly. You get potassium through food. The kidneys remove excess potassium through the urinary system to keep a proper balance of the mineral in the body. Common causes of low blood potassium include: Medicines, such as diuretics (water pills), certain antibiotics (amphotericin B, chloroquine at toxic levels), Diarrhea or vomiting, Eating disorders (such as  bulimia ), Hyperaldosteronism, Laxative overuse, which can cause diarrhea, Chronic kidney disease,  Low magnesium level , Sweating, Genetic disorders, such as  hypokalemic periodic paralysis ,  Bartter syndrome , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002441-3" qtype="symptoms">What are the symptoms of Low potassium level ?</Question>
+			<Answer>A small drop in the blood potassium level often does not cause symptoms or causes mild to moderate symptoms, which may include: Constipation, Feeling of skipped heart beats or  palpitations , Fatigue
+   , Muscle damage
+   , Muscle weakness or spasms
+   , Tingling or numbness
+   ,  A large drop in the blood potassium level may lead to  abnormal heart rhythms , especially in people with heart disease. This can cause you to feel lightheaded or faint. A very low blood potassium level can even cause your heart to stop.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002441-4" qtype="exams and tests">How to diagnose Low potassium level ?</Question>
+			<Answer>Your health care provider will order a blood test to check your  potassium level . Normal range is 3.7 to 5.2 mEq/L (3.7 to 5.2 mmol/L).  Other blood tests may be ordered to check levels of: Glucose, magnesium, calcium, sodium, phosphorous , Thyroid hormone,  Aldosterone ,  An electrocardiogram (ECG) to check the heart may also be done.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002441-5" qtype="treatment">What are the treatments for Low potassium level ?</Question>
+			<Answer>If your condition is mild, your provider will likely prescribe oral potassium pills. If your condition is severe, you may need to get potassium through a vein (IV). If you need diuretics, your provider may: Switch you to a form that keeps potassium in the body. This type of diuretic is called potassium-sparing., Prescribe extra potassium for you to take every day.,  Eating foods rich in potassium can help treat and prevent low level of potassium. These foods include: Avocados, Baked potato, Bananas, Bran, Carrots, Cooked lean beef, Milk, Oranges, Peanut butter, Peas and beans, Salmon, Seaweed, Spinach, Tomatoes, Wheat germ, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002441-6" qtype="outlook">What is the outlook for Low potassium level ?</Question>
+			<Answer>Taking potassium supplements can usually correct the problem. In severe cases, without proper treatment, a severe drop in the blood potassium level can lead to serious heart rhythm problems that can be fatal.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002441-7" qtype="complications">What are the complications of Low potassium level ?</Question>
+			<Answer>In severe cases, life-threatening paralysis may develop, such as with hypokalemic periodic paralysis.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002441-8" qtype="when to contact a medical professional">Do I need to see a doctor for Low potassium level ?</Question>
+			<Answer>Call your provider right away if you have been vomiting or have had excessive diarrhea, or if you are taking diuretics and have symptoms of hypokalemia.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

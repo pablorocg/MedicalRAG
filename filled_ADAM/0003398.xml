@@ -1,0 +1,58 @@
+<Document id="0003398" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000463.htm">
+ 
+<Focus>Retroperitoneal fibrosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0035357</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Idiopathic retroperitoneal fibrosis</Synonym>
+		<Synonym>Ormond's disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003398-1" qtype="information">What is (are) Retroperitoneal fibrosis ?</Question>
+			<Answer>Retroperitoneal fibrosis is a rare disorder that blocks the tubes (ureters) that carry urine from the kidneys to the bladder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003398-2" qtype="causes">What causes Retroperitoneal fibrosis ?</Question>
+			<Answer>Retroperitoneal fibrosis occurs when extra fibrous tissue forms in the area behind the stomach and intestines. The tissue forms a mass (or masses) or tough fibrotic tissue. It can block the tubes that carry urine from the kidney to the bladder. The cause of this problem is mostly unknown. It is most common in people aged 40 to 60. Men are twice as likely to develop the condition as women.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003398-3" qtype="symptoms">What are the symptoms of Retroperitoneal fibrosis ?</Question>
+			<Answer>Early symptoms: Dull pain in the abdomen or flank that increases with time, Pain and change of color in the legs (due to decreased blood flow), Swelling of one leg ,  Later symptoms: Decreased urine output , No urine output (anuria), Nausea, vomiting, changes in mental status caused by kidney failure and build-up of toxic chemicals in the blood, Severe abdominal pain with blood in the stool (due to death of intestinal tissue) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003398-4" qtype="exams and tests">How to diagnose Retroperitoneal fibrosis ?</Question>
+			<Answer>Abdominal CT scan  is the best way to find a retroperitoneal mass. Other tests that can help diagnose this condition include: BUN and creatinine blood tests,  Intravenous pyelogram  (IVP), not as commonly used,  Kidney ultrasound , MRI of the abdomen, CT scan of the abdomen and retroperitoneum ,  A biopsy of the mass may also be done to check for cancer. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003398-5" qtype="treatment">What are the treatments for Retroperitoneal fibrosis ?</Question>
+			<Answer>Corticosteroids are tried first. Some&#160;health care providers&#160;also prescribe a drug called tamoxifen. If corticosteroid treatment does not work, a biopsy should be done to confirm the diagnosis. Other medicines to suppress the immune system can be prescribed. When medicine does not work, surgery and  stents  (draining tubes) are needed. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003398-6" qtype="outlook">What is the outlook for Retroperitoneal fibrosis ?</Question>
+			<Answer>The outlook will depend on the extent of the problem and the amount of damage to the kidneys. The  kidney damage  may be temporary or permanent.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003398-7" qtype="complications">What are the complications of Retroperitoneal fibrosis ?</Question>
+			<Answer>The disorder may lead to: Ongoing blockage of the tubes leading from the kidney on one or both sides,  Chronic kidney disease or failure , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003398-8" qtype="when to contact a medical professional">Do I need to see a doctor for Retroperitoneal fibrosis ?</Question>
+			<Answer>Contact your provider if you have lower abdomen or flank pain and less output of urine.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003398-9" qtype="prevention">How to prevent Retroperitoneal fibrosis ?</Question>
+			<Answer>Try to avoid long-term use of medicines that contain methysergide. This drug has been shown to cause retroperitoneal fibrosis. Methysergide is sometimes used to treat migraine headaches.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

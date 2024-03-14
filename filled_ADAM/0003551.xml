@@ -1,0 +1,41 @@
+<Document id="0003551" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002717.htm">
+ 
+<Focus>Shaving cream poisoning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0518505</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Shaving lotion poisoning</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003551-1" qtype="information">What is (are) Shaving cream poisoning ?</Question>
+			<Answer>Shaving cream is a cream applied to the face or body before shaving the skin. Shaving cream poisoning occurs when someone eats shaving cream. This can be by accident or on purpose. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003551-3" qtype="symptoms">What are the symptoms of Shaving cream poisoning ?</Question>
+			<Answer>Shaving cream is not very poisonous. Most symptoms are from allergic reactions or if shaving cream touches the eyes. Symptoms may include: Blurred vision , Breathing difficulty, Burning pain in the throat , Burns to the eye ,  Diarrhea  (watery, bloody), Stomach pain, Rash,  Vomiting , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003551-4" qtype="considerations">What to do for Shaving cream poisoning ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003551-7" qtype="outlook">What is the outlook for Shaving cream poisoning ?</Question>
+			<Answer>How well someone does depends on how much shaving cream they swallowed or got in their eyes, and how quickly they receive treatment. The faster medical help is given, the better the chance for recovery. Shaving cream is not very toxic, so recovery is very likely.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003551-8" qtype="outlook">What is the outlook for Shaving cream poisoning ?</Question>
+			<Answer>How well someone does depends on how much shaving cream they swallowed or got in their eyes, and how quickly they receive treatment. The faster medical help is given, the better the chance for recovery. Shaving cream is not very toxic, so recovery is very likely.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

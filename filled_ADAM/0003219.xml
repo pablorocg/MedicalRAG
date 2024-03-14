@@ -1,0 +1,31 @@
+<Document id="0003219" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000147.htm">
+ 
+<Focus>Preventing pressure ulcers</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011127</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Decubitus ulcer prevention</Synonym>
+		<Synonym>Bedsore prevention</Synonym>
+		<Synonym>Pressure sores prevention</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003219-1" qtype="information">What is (are) Preventing pressure ulcers ?</Question>
+			<Answer>Pressure ulcers are also called bedsores, or pressure sores. They can form when your skin and soft tissue press against a harder surface, such as a chair or bed, for a prolonged time. This pressure reduces blood supply to that area. Lack of blood supply can cause the skin tissue in this area to become damaged or die. When this happens, a pressure ulcer may form. You have a risk of developing a pressure ulcer if you: Spend most of your day in a bed or a chair with minimal movement, Are overweight or underweight, Are not able to control your bowels or bladder or have leakage of urine or stool, Have decreased feeling in an area of your body, Spend a lot of time in one position ,  You will need to take steps to prevent these problems.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003219-5" qtype="when to contact a medical professional">Do I need to see a doctor for Preventing pressure ulcers ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

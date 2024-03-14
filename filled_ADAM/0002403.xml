@@ -1,0 +1,22 @@
+<Document id="0002403" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002209.htm">
+ 
+<Focus>Liquid medication administration</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1304698</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002403-1" qtype="information">What is (are) Liquid medication administration ?</Question>
+			<Answer>If the medicine comes in suspension form, shake well before using. Do not use flatware spoons used for eating for giving medicine. They are not all the same size. For example, a flatware teaspoon could be as small as one half teaspoon (2.5 mL) or as large as 2 teaspoons (10 mL). Measuring spoons used for cooking are accurate, but they spill easily. Oral syringes have some advantages for giving liquid medicines. They are accurate., They are easy to use., You can take a capped syringe containing a dose of medicine to your child's daycare or school. ,  There can be problems with oral syringes, however. The FDA has had reports of young children choking on syringe caps. To be safe, remove the cap before you use an oral syringe. Throw it away if you do not need it for future use. If you need it, keep it out of reach of infants and small children. Dosing cups are also a handy way to give liquid medicines. However, dosing errors have occurred with them. Always check to make sure the units (teaspoon, tablespoon, mL, or cc) on the cup or syringe match the units of the dose you want to give. Liquid medicines often do not taste good, but many flavors are now available and can be added to any liquid medicine. Ask your pharmacist. Unit conversions 1 mL = 1 cc, 2.5 mL = 1/2 teaspoon, 5 mL = 1 teaspoon, 15 mL = 1 tablespoon, 3 teaspoons = 1 tablespoon , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

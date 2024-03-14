@@ -1,0 +1,44 @@
+<Document id="0004188" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001487.htm">
+ 
+<Focus>Vaginismus</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2004487</CUI>
+			<CUI>C0042266</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004188-1" qtype="information">What is (are) Vaginismus ?</Question>
+			<Answer>Vaginismus is a spasm of the muscles surrounding the  vagina  that occurs against your will. The spasms makes the vagina very narrow and can prevent sexual activity and medical exams.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004188-2" qtype="causes">What causes Vaginismus ?</Question>
+			<Answer>Vaginismus is a  sexual problem . It has several possible causes, including:  Past sexual trauma or abuse, Mental health factors, A response that develops due to physical pain, Intercourse,  Sometimes no cause can be found. Vaginismus is an uncommon condition. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004188-3" qtype="symptoms">What are the symptoms of Vaginismus ?</Question>
+			<Answer>The main symptoms are: Difficult or painful vaginal penetration during sex. Vaginal penetration may not be possible., Vaginal pain during sexual intercourse or a pelvic exam.,  Women with vaginismus often become anxious about sexual intercourse. This does not mean they cannot become sexually aroused. Many women with this problem can have orgasms when the clitoris is stimulated.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004188-4" qtype="exams and tests">How to diagnose Vaginismus ?</Question>
+			<Answer>A pelvic exam can confirm the diagnosis. A medical history and complete physical exam are needed to look for other causes of pain with sexual intercourse (dyspareunia).</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004188-5" qtype="treatment">What are the treatments for Vaginismus ?</Question>
+			<Answer>A health care team made up of a gynecologist, physical therapist, and sexual counselor can help with treatment. Treatment involves a combination of physical therapy, education, counseling, and exercises such as pelvic floor muscle contraction and relaxation ( Kegel exercises ). Your provider may recommend injection of medicines to help relax the vaginal muscles. Vaginal dilation exercises using plastic dilators are recommended. This method helps to make the person less sensitive to vaginal penetration. These exercises should be done under the direction of a sex therapist, physical therapist, or other health care provider. Therapy should involve the partner and can slowly lead to more intimate contact. Intercourse may ultimately be possible. You will get information from your provider. Topics may include: Sexual anatomy, Sexual response cycle, Common myths about sex , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004188-6" qtype="outlook">What is the outlook for Vaginismus ?</Question>
+			<Answer>Women who are treated by a sex therapy specialist can very often overcome this problem.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

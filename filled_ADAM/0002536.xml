@@ -1,0 +1,13 @@
+<Document id="0002536" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003016.htm">
+ 
+<Focus>Mastoidectomy</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002536-1" qtype="information">Do you have information about Mastoidectomy</Question>
+			<Answer>A mastoidectomy is surgery to remove cells in the hollow, air-filled spaces in the skull behind the ear within the mastoid bone. These spaces are called mastoid air cells.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,20 @@
+<Document id="0002745" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000182.htm">
+ 
+<Focus>Nasogastric feeding tube</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Feeding - nasogastric tube</Synonym>
+		<Synonym>NG tube</Synonym>
+		<Synonym>Bolus feeding</Synonym>
+		<Synonym>Continuous pump feeding</Synonym>
+		<Synonym>Gavage tube</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002745-1" qtype="information">Do you have information about Nasogastric feeding tube</Question>
+			<Answer>A nasogastric tube (NG tube) is a special tube that carries food and medicine to the stomach through the nose. It can be used for all feedings or for giving a person extra calories. You'll learn to take good care of the tubing and the skin around the nostrils so that the skin doesn't get irritated. Follow any specific instructions your health care provider or nurse gives you. Use the information below as a reminder of what to do.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,58 @@
+<Document id="0002376" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001347.htm">
+ 
+<Focus>Leprosy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023343</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hansen disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002376-1" qtype="information">What is (are) Leprosy ?</Question>
+			<Answer>Leprosy is a disease caused by the bacterium  Mycobacterium leprae . This disease causes skin sores, nerve damage, and muscle weakness that gets worse over time.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002376-2" qtype="causes">What causes Leprosy ?</Question>
+			<Answer>Although leprosy is due to an infection, it does not spread easily. It also takes a long time before symptoms appear, which makes it hard to know where or when someone caught the disease. Children are more likely than adults to get the disease. Most people who come in contact with the bacteria don't develop the disease. This is because their immune system is able to fight off the bacteria. Experts believe that the bacteria spread when a person breathes in tiny airborne droplets released when someone with leprosy coughs or sneezes. The bacteria may also be passed through contact with the nasal fluids of a person with leprosy. Leprosy has two common forms: tuberculoid and lepromatous. Both forms produce sores on the skin. However, the lepromatous form is more severe. It causes large lumps and bumps ( nodules ). Leprosy is common in many countries worldwide including India, Brazil and Indonesia. It is also found in temperate, tropical, and subtropical climates. About 170 to 200 cases per year are diagnosed in the United States. Most new cases in the United States were in: Florida, California, Hawaii, New York, Oregon, Texas,  Drug-resistant  Mycobacterium leprae  and an increased numbers of cases worldwide have led to global concern for this disease.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002376-3" qtype="symptoms">What are the symptoms of Leprosy ?</Question>
+			<Answer>Symptoms include: Skin lesions  that are lighter than your normal skin color, Lesions that have decreased sensation to touch, heat, or pain, Lesions that do not heal after several weeks to months,  Muscle weakness ,  Numbness  or lack of feeling in the hands, arms, feet, and legs, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002376-4" qtype="exams and tests">How to diagnose Leprosy ?</Question>
+			<Answer>Tests that are done include: Skin lesion biopsy , 
+   Skin scraping examination,  The  lepromin skin test  can be used to tell the two different forms of leprosy apart. This test is not used to diagnose the disease.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002376-5" qtype="treatment">What are the treatments for Leprosy ?</Question>
+			<Answer>Several antibiotics are used to kill the bacteria that cause the disease. These include: Dapsone, Rifampin, Clofazimine, Fluoroquinolones, Macrolides, Minocycline,  More than one antibiotic is often given together, and usually for months. Aspirin, prednisone, or thalidomide may be used to control inflammation.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002376-6" qtype="outlook">What is the outlook for Leprosy ?</Question>
+			<Answer>Diagnosing the disease early is important. Early treatment helps: Limit the damage, Prevent a person from spreading the disease, Reduce long-term complications, </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002376-7" qtype="complications">What are the complications of Leprosy ?</Question>
+			<Answer>Health problems that may result from leprosy include: Disfigurement, Muscle weakness, Permanent nerve damage in the arms and legs,  Loss of sensation ,  People with long-term leprosy may lose the use of their hands or feet. This is due to repeated injury because they lack feeling in those areas.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002376-8" qtype="when to contact a medical professional">Do I need to see a doctor for Leprosy ?</Question>
+			<Answer>Contact your health care provider if you have symptoms of leprosy, especially if you have had contact with someone who has the disease. Cases of leprosy in the United States must be reported to the Centers for Disease Control and Prevention.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002376-9" qtype="prevention">How to prevent Leprosy ?</Question>
+			<Answer>People on long-term medicine become noninfectious. This means they do not transmit the organism that causes the disease.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

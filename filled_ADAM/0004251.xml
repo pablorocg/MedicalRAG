@@ -1,0 +1,51 @@
+<Document id="0004251" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000831.htm">
+ 
+<Focus>Vitiligo</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1847835</CUI>
+			<CUI>C0042900</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004251-1" qtype="information">What is (are) Vitiligo ?</Question>
+			<Answer>Vitiligo is a skin condition in which there is a loss of color (pigment) from areas of skin. This results in uneven white  patches  that have no pigment, but the skin feels normal.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004251-2" qtype="causes">What causes Vitiligo ?</Question>
+			<Answer>Vitiligo occurs when immune cells destroy the cells that make brown pigment (melanocytes). This destruction is thought to be due to an  autoimmune  problem. An autoimmune disorder occurs when the body's immune system, which normally protects the body from infection, attacks and destroys healthy body tissue instead. The exact cause of vitiligo is unknown. Vitiligo may appear at any age. There is an increased rate of the condition in some families. Vitiligo is associated with other autoimmune diseases: Addison disease  (disorder that occurs when the adrenal glands do not produce enough hormones), Thyroid disease,  Pernicious anemia  (decrease in red blood cells that occurs when the intestines cannot properly absorb vitamin B12), Type 1 diabetes, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004251-3" qtype="symptoms">What are the symptoms of Vitiligo ?</Question>
+			<Answer>Flat areas of normal-feeling skin without any pigment appear suddenly or gradually. These areas have a darker border. The edges are well defined, but irregular. Vitiligo most often affects the face, elbows and knees, back of the hands and feet, and genitals. It affects both sides of the body equally. Vitiligo is more noticeable in darker-skinned people because of the contrast of white patches against dark skin. No other skin changes occur.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004251-4" qtype="exams and tests">How to diagnose Vitiligo ?</Question>
+			<Answer>Your health care provider can examine your skin to confirm the diagnosis. Sometimes, the provider uses a  Wood lamp . This is a handheld ultraviolet light that causes the areas of skin with less pigment to glow bright white. In some cases, a  skin biopsy  may be needed to rule out other causes of pigment loss. Your provider may also perform blood tests to check the levels of thyroid or other hormones, glucose level, and  vitamin B12 &#160;to rule out other associated disorders.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004251-5" qtype="treatment">What are the treatments for Vitiligo ?</Question>
+			<Answer>Vitiligo is difficult to treat. Early treatment options include the following: Phototherapy, a medical procedure in which your skin is carefully exposed to limited amounts of ultraviolet light. Phototherapy may be given alone, or after you take a drug that makes your skin sensitive to light. A dermatologist performs this treatment., Certain lasers may help the skin repigment., Medicines applied to the skin, such as corticosteroid creams or ointments, immunosuppressant creams or ointments such as pimecrolimus (Elidel) and tacrolimus (Protopic), or topical drugs such as methoxsalen (Oxsoralen) may also help.,  Skin may be moved (grafted) from normally pigmented areas and placed onto areas where there is pigment loss. Several cover-up makeups or skin dyes can mask vitiligo. Ask your provider for the names of these products. In extreme cases when most of the body is affected, the remaining skin that still has pigment may be depigmented, or bleached. This is a permanent change that is used as a last option. It is important to remember that skin without pigment is at greater risk for sun damage. Be sure to apply a broad-spectrum (UVA and UVB), high-SPF sunscreen or sunblock. Sunscreen can also be helpful for making the condition less noticeable, because unaffected skin may not darken in the sun. Use other safeguards against sun exposure, such as wearing a hat with a broad rim and long sleeve shirt and pants.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004251-6" qtype="support groups">Where to find support for people with Vitiligo ?</Question>
+			<Answer>More information and support for people with vitiligo condition and their families can be found at: Vitiligo Support International -  vitiligosupport.org , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004251-7" qtype="outlook">What is the outlook for Vitiligo ?</Question>
+			<Answer>The course of vitiligo varies and is unpredictable. Some areas may regain normal pigment (coloring), but other new areas of pigment loss may appear. Skin that is repigmented may be slightly lighter or darker than the surrounding skin. Pigment loss may get worse over time.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004251-8" qtype="when to contact a medical professional">Do I need to see a doctor for Vitiligo ?</Question>
+			<Answer>Contact your provider for an appointment if areas of your skin lose their coloring for no reason (for example, there was no injury to the skin).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

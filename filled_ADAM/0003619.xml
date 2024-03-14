@@ -1,0 +1,19 @@
+<Document id="0003619" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003281.htm">
+ 
+<Focus>Skin turgor</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Doughy skin</Synonym>
+		<Synonym>Poor skin turgor</Synonym>
+		<Synonym>Good skin turgor</Synonym>
+		<Synonym>Decreased skin turgor</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003619-1" qtype="information">Do you have information about Skin turgor</Question>
+			<Answer>Skin turgor is the skin's elasticity. It is the ability of skin to change shape and return to normal.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

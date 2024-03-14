@@ -1,0 +1,54 @@
+<Document id="0004255" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000985.htm">
+ 
+<Focus>Volvulus - childhood</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0042961</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Childhood volvulus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004255-1" qtype="information">What is (are) Volvulus - childhood ?</Question>
+			<Answer>A volvulus is a twisting of the intestine that can occur in childhood. It causes a blockage that may cut off blood flow. Part of the intestine may be damaged as a result.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004255-2" qtype="causes">What causes Volvulus - childhood ?</Question>
+			<Answer>A birth defect called intestinal malrotation can make an infant more likely to develop a volvulus. However, a volvulus can occur without this condition present.  Volvulus due to malrotation occurs most often in the first year of life.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004255-3" qtype="symptoms">What are the symptoms of Volvulus - childhood ?</Question>
+			<Answer>Common symptoms of volvulus are: Bloody or  dark red stools ,  Constipation  or difficulty releasing stools,  Distended abdomen , Pain or tenderness in the abdomen, Nausea or vomiting,  Shock , Vomiting green material ,  Symptoms are very often severe and require emergency care. Early treatment can be critical for survival.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004255-4" qtype="exams and tests">How to diagnose Volvulus - childhood ?</Question>
+			<Answer>Your health care provider may order the following tests to diagnose the condition: Barium enema , Blood tests to check  electrolytes ,  CT scan ,  Stool guaiac  (shows blood in the stool),  Upper GI  series , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004255-5" qtype="treatment">What are the treatments for Volvulus - childhood ?</Question>
+			<Answer>In some cases,  colonoscopy  can be used to correct the problem. This involves use of a flexible tube with a light on the end that is passed into the colon (large bowel) through the rectum. Emergency surgery is often needed to repair the volvulus. A surgical cut is made in the abdomen. The bowels are untwisted and the blood supply is restored. If a small segment of bowel is dead from a lack of blood flow (necrotic), it is removed. The ends of the bowel are then sewn together. Or, they are used to form a connection of the intestines to the outside of the body (colostomy or ileostomy). Bowel contents can be removed through this opening. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004255-6" qtype="outlook">What is the outlook for Volvulus - childhood ?</Question>
+			<Answer>Most of the time, prompt diagnosis and treatment of volvulus leads to a good outcome. If the bowel is dead, the outlook is poor. The situation may be fatal, depending on how much of the bowel is dead.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004255-7" qtype="complications">What are the complications of Volvulus - childhood ?</Question>
+			<Answer>Possible complications of volvulus are: Secondary peritonitis ,  Short bowel syndrome  (after removal of a large part of the small bowel) , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004255-8" qtype="when to contact a medical professional">Do I need to see a doctor for Volvulus - childhood ?</Question>
+			<Answer>This is an emergency condition. The symptoms of childhood volvulus develop quickly and the child will become very ill. Get medical attention right away if this happens.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

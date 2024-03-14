@@ -1,0 +1,54 @@
+<Document id="0003916" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000586.htm">
+ 
+<Focus>Thrombocytopenia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0040034</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003916-1" qtype="information">What is (are) Thrombocytopenia ?</Question>
+			<Answer>Thrombocytopenia is any disorder in which there is an abnormally low amount of platelets. Platelets are parts of the blood that help blood to clot. This condition is sometimes associated with abnormal bleeding.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003916-2" qtype="causes">What causes Thrombocytopenia ?</Question>
+			<Answer>Thrombocytopenia is often divided into 3 major causes of low platelets: Not enough platelets are made in the bone marrow, Increased breakdown of platelets in the bloodstream , Increased breakdown of platelets in the spleen or liver,  Your bone marrow may not make enough platelets if you have any of the following conditions: Aplastic anemia  (disorder in which the bone marrow does not make enough blood cells), Cancer in the bone marrow, such as  leukemia , Cirrhosis (liver scarring),  Folate  deficiency, Infections in the bone marrow (very rare), Myelodysplastic syndrome (bone marrow does not make enough blood cells or makes defective cells), Vitamin B12 deficiency,  Use of certain drugs may also lead to a low production of platelets in the bone marrow. The most common example is chemotherapy treatment. The following health conditions cause increased breakdown of platelets: Disorder in which the proteins that control blood clotting become over active, most often during a serious illness ( DIC ), Drug-induced low platelet count, Enlarged spleen, Disorder in which the immune system destroys platelets ( ITP ), Disorder that causes blood clots to form in small blood vessels, causing a low platelet count ( TTP ), </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003916-3" qtype="symptoms">What are the symptoms of Thrombocytopenia ?</Question>
+			<Answer>You may not have any symptoms. Or you may have general symptoms, such as:  Bleeding in the mouth and gums, Bruising, Nosebleeds , Rash (pinpoint red spots called petechiae),  Other symptoms depend on the cause. </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003916-4" qtype="exams and tests">How to diagnose Thrombocytopenia ?</Question>
+			<Answer>Your health care provider will perform a physical exam and ask about your medical history and symptoms. The following tests may be done: Complete blood count  (CBC) , Blood clotting tests ( PTT  and  PT ) ,  Other tests that may help diagnose this condition include bone marrow aspiration or biopsy.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003916-5" qtype="treatment">What are the treatments for Thrombocytopenia ?</Question>
+			<Answer>Treatment depends on the cause of the condition. In some cases, a transfusion of platelets may be required to stop or prevent bleeding.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003916-6" qtype="outlook">What is the outlook for Thrombocytopenia ?</Question>
+			<Answer>The outcome depends on the disorder causing the low platelet counts.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003916-7" qtype="complications">What are the complications of Thrombocytopenia ?</Question>
+			<Answer>Severe bleeding (hemorrhage) is the main complication. Bleeding may occur in the brain or gastrointestinal tract.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003916-8" qtype="when to contact a medical professional">Do I need to see a doctor for Thrombocytopenia ?</Question>
+			<Answer>Call your provider if you experience unexplained bleeding or bruising.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003916-9" qtype="prevention">How to prevent Thrombocytopenia ?</Question>
+			<Answer>Prevention depends on the specific cause.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

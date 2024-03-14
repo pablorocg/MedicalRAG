@@ -1,0 +1,30 @@
+<Document id="0000666" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000913.htm">
+ 
+<Focus>Cancer treatment: preventing infection</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3714514</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000666-1" qtype="information">What is (are) Cancer treatment: preventing infection ?</Question>
+			<Answer>When you have cancer, you may be at higher risk for infection. Some cancers and cancer treatments weaken your immune system. This makes it harder for your body to fight off germs such as viruses and bacteria. If you get an infection, it can quickly become serious and be hard to treat. In some cases, you may need to go to the hospital for treatment. So it is important to learn how to prevent and treat any infections before they spread.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000666-2" qtype="susceptibility">Who is at risk for Cancer treatment: preventing infection? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000666-3" qtype="prevention">How to prevent Cancer treatment: preventing infection ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

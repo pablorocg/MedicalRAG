@@ -1,0 +1,18 @@
+<Document id="0000790" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000841.htm">
+ 
+<Focus>Children's cancer centers</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Pediatric cancer center</Synonym>
+		<Synonym>Pediatric oncology center</Synonym>
+		<Synonym>Comprehensive cancer center</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000790-1" qtype="information">Do you have information about Children's cancer centers</Question>
+			<Answer>A children's cancer center is a place dedicated to treating children with cancer. It may be a hospital or, it may be a unit inside a hospital. These centers treat children less than a year old to young adult age. Cancer centers do more than provide medical care. They also help families deal with the impact of cancer. Many also: Conduct  clinical trials , Study cancer prevention and control, Do basic laboratory research, Provide cancer information and education, Offer social and mental health services for patients and families, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

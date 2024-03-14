@@ -1,0 +1,44 @@
+<Document id="0002635" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003306.htm">
+ 
+<Focus>Micrognathia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0025990</CUI>
+			<CUI>C2228733</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002635-1" qtype="information">What is (are) Micrognathia ?</Question>
+			<Answer>Micrognathia is a term for a lower jaw that is smaller than normal.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002635-2" qtype="considerations">What to do for Micrognathia ?</Question>
+			<Answer>In some cases, the jaw is small enough to interfere with the infant's feeding. Infants with this condition may need special nipples in order to feed properly. Micrognathia often corrects itself during growth. The jaw may grow a lot during puberty. The problem can be caused by certain inherited disorders and syndromes. Micrognathia can cause the teeth not to align properly. This can be seen in the way the teeth appear when the mouth closes. Often there will not be enough room for the teeth to grow. Children with this problem should see an orthodontist when the adult teeth come in. Because children may outgrow the condition, it often makes sense to delay treatment until a child is older.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002635-3" qtype="causes">What causes Micrognathia ?</Question>
+			<Answer>Micrognathia may be part of other genetic syndromes, including: Cri du chat syndrome , Hallermann-Streiff syndrome,  Marfan syndrome ,  Pierre Robin syndrome ,  Progeria ,  Russell-Silver syndrome , Seckel syndrome, Smith-Lemli-Opitz syndrome,  Treacher-Collins syndrome ,  Trisomy 13 ,  Trisomy 18 , XO syndrome ( Turner syndrome ) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002635-4" qtype="considerations">What to do for Micrognathia ?</Question>
+			<Answer>In some cases, the jaw is small enough to interfere with the infant's feeding. Infants with this condition may need special nipples in order to feed properly. Micrognathia often corrects itself during growth. The jaw may grow a lot during puberty. The problem can be caused by certain inherited disorders and syndromes. Micrognathia can cause the teeth not to align properly. This can be seen in the way the teeth appear when the mouth closes. Often there will not be enough room for the teeth to grow. Children with this problem should see an orthodontist when the adult teeth come in. Because children may outgrow the condition, it often makes sense to delay treatment until a child is older.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002635-5" qtype="when to contact a medical professional">Do I need to see a doctor for Micrognathia ?</Question>
+			<Answer>Contact your health care provider if: Your child seems to have a very small jaw, Your child has trouble feeding properly, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002635-6" qtype="outlook">What is the outlook for Micrognathia ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

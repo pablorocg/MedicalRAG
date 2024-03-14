@@ -1,0 +1,61 @@
+<Document id="0001490" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000389.htm">
+ 
+<Focus>Exogenous Cushing syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010481</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cushing syndrome - corticosteroid induced</Synonym>
+		<Synonym>Corticosteroid-induced Cushing syndrome</Synonym>
+		<Synonym>Iatrogenic Cushing syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001490-1" qtype="information">What is (are) Exogenous Cushing syndrome ?</Question>
+			<Answer>Exogenous Cushing syndrome is a form of  Cushing syndrome  that occurs in people taking glucocorticoid (also called corticosteroid, or steroid) hormones.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001490-2" qtype="causes">What causes Exogenous Cushing syndrome ?</Question>
+			<Answer>
+Cushing syndrome is a disorder that occurs when your body has a higher than normal level of the hormone cortisol. This hormone is normally made in the  adrenal glands . Exogenous means caused by something outside the body. Exogenous Cushing syndrome occurs when a person takes man-made (synthetic) glucocorticoid medicines to treat a disease. These medicines act like cortisol in the body. Glucocorticoids are given for many diseases, such as lung diseases, skin conditions, inflammatory bowel disease, cancer, brain tumors, and joint disease. These medicines come in many forms, including pill, intravenous (IV), injection into a joint, enema, skin creams, inhalers, and eye drops.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001490-3" qtype="symptoms">What are the symptoms of Exogenous Cushing syndrome ?</Question>
+			<Answer>Most people with Cushing syndrome have: Round, red, full face ( moon face ), Slow growth rate (in children), Weight gain with fat accumulation on the trunk, but fat loss from the arms, legs, and buttocks (central obesity) ,  Skin changes that are often seen include: Skin infections, Purple stretch marks (1/2 inch or 1 centimeter or more wide), called  striae , on the skin of the abdomen, thighs, upper arms, and breasts, Thin skin with easy bruising ,  Muscle and bone changes include: Backache, which occurs with routine activities,  Bone pain or tenderness , Collection of fat between the shoulders and above the collar bone, Rib and spine fractures caused by  thinning of the bones , Weak muscles, especially of the hips and shoulders ,  Body-wide (systemic) problems may include: Type 2 diabetes, High blood pressure, High cholesterol and triglycerides,  Women with Cushing syndrome may have: Excess hair growth on the face, neck, chest, abdomen, and thighs, Periods that become irregular or stop,  Men may have: Decreased or no desire for sex (low libido),  Erection problems ,  Other symptoms that may occur include: 
+   Mental changes, such as depression, anxiety, or changes in behavior,  Fatigue , Headache, Increased thirst and urination , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001490-4" qtype="exams and tests">How to diagnose Exogenous Cushing syndrome ?</Question>
+			<Answer>Your health care provider will perform a physical exam and ask about your symptoms and the medicines you are taking. Tell the provider about all medicines you have been taking for the past several months. Also, tell the provider about shots that you received at a provider's office. If you use cortisone, prednisone, or other corticosteroids, the following test results may suggest exogenous Cushing syndrome: Low  ACTH level , Low  cortisol level  (or high cortisol level) in the blood or urine, depending on the medicine you are taking, Abnormal response to a  cosyntropin (ACTH) stimulation test , Higher than normal  fasting glucose  level, Low  blood potassium  level, Low bone density, as measured by  bone mineral density test , High cholesterol, particularly high triglycerides and low high-density lipoprotein (HDL) ,  A method called high performance liquid chromatography (HPLC) can show a high level of the suspected medicine in the urine.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001490-5" qtype="treatment">What are the treatments for Exogenous Cushing syndrome ?</Question>
+			<Answer>Treatment is to decrease and eventually stop taking any corticosteroids. This may be done slowly or quickly, depending on why you are being treated with corticosteroid. Do not stop taking any medicine without first talking to your provider. Suddenly stopping corticosteroids after taking them for a long time (usually more than 2 weeks) can result in a life-threatening condition called  adrenal crisis .  If you cannot stop taking the medicine because of the disease it is treating (for example, you need glucocorticoid medicine to treat severe asthma), follow your provider's instructions on how to reduce the possibility of developing complications, including: Treating high blood sugar with diet, oral medicines, or insulin., Treating high cholesterol with diet or medicines., Taking medicines to prevent bone loss. This can help reduce the risk for fractures if you develop osteoporosis. , Taking other medicines to decrease the amount of glucocorticoid medicine that you need., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001490-6" qtype="outlook">What is the outlook for Exogenous Cushing syndrome ?</Question>
+			<Answer>Slowly tapering the medicine that is causing the condition can help reverse the effects of adrenal gland shrinkage (atrophy). This may take months to as long as a year. During this time, you may need to restart or increase the dosage of your steroids in times of stress or illness.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001490-7" qtype="complications">What are the complications of Exogenous Cushing syndrome ?</Question>
+			<Answer>Health problems that may result from exogenous Cushing syndrome include any of the following: Low immune system, which may lead to frequent infections, Damage to the eyes, kidneys, and nerves due to untreated high blood sugar,  Diabetes ,  High cholesterol  levels, Increased risk for heart attack from untreated diabetes and high cholesterol, Increased risk for blood clots, Weak bones ( osteoporosis ) and increased risk for fractures,  These complications can generally be prevented with proper treatment.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001490-8" qtype="when to contact a medical professional">Do I need to see a doctor for Exogenous Cushing syndrome ?</Question>
+			<Answer>Contact for an appointment with your provider if you are taking a corticosteroid and you develop symptoms of Cushing syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001490-9" qtype="prevention">How to prevent Exogenous Cushing syndrome ?</Question>
+			<Answer>If you take a corticosteroid, know the signs and symptoms of Cushing syndrome. Getting treated early can help prevent any long-term effects of Cushing syndrome. If you use inhaled steroids, you can decrease your exposure to the steroids by using a spacer and by rinsing your mouth after breathing in the steroids.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

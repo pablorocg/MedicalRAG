@@ -1,0 +1,17 @@
+<Document id="0002927" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000533.htm">
+ 
+<Focus>Palliative care - what the final days are like</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>End of life - final days</Synonym>
+		<Synonym>Hospice - final days</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002927-1" qtype="information">Do you have information about Palliative care - what the final days are like</Question>
+			<Answer>If a loved one is dying, you may have a lot of questions about what to expect. Every person's end of life journey is different. Some people linger, while others pass quickly. However, there are some common signs that the end is near. It can be helpful to know that these signs are a normal part of dying.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

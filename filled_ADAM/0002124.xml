@@ -1,0 +1,41 @@
+<Document id="0002124" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002655.htm">
+ 
+<Focus>Ibuprofen overdose</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0572145</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Advil overdose</Synonym>
+		<Synonym>Nuprin overdose</Synonym>
+		<Synonym>PediaProfen overdose</Synonym>
+		<Synonym>Rufen overdose</Synonym>
+		<Synonym>Motrin overdose</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002124-1" qtype="information">What is (are) Ibuprofen overdose ?</Question>
+			<Answer>Ibuprofen is a type of nonsteroidal anti-inflammatory drug (NSAID). Ibuprofen overdose occurs when someone accidentally or intentionally takes more than the recommended amount of this medicine. This article is for information only. DO NOT use it to treat or manage an actual  overdose . If you or someone you are with overdoses, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002124-4" qtype="symptoms">What are the symptoms of Ibuprofen overdose ?</Question>
+			<Answer>Symptoms may develop in the following areas: Eyes, ears, nose, throat, and mouth: Ringing in the ears ,  Blurred vision ,  Gastrointestinal: Diarrhea , Heartburn, Nausea, vomiting (sometimes bloody),  Stomach pain  (possible bleeding in stomach and intestines),  Heart and blood: Low blood pressure (shock) and weakness&#160;,  Kidneys: Little to no urine production,  Lungs: Breathing -- difficult ,  Breathing -- slow , Wheezing,  Nervous system: Agitation ,  confusion , incoherent (not understandable) ,  Drowsiness , even coma, Convulsions, Dizziness&#160; ,  Headache &#160;(severe),  Unsteadiness , trouble moving,  Skin: Rash,  Sweating ,  Other: Chills, </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002124-7" qtype="outlook">What is the outlook for Ibuprofen overdose ?</Question>
+			<Answer>Recovery is likely with prompt medical treatment, except in very large overdoses. Some people may develop chronic liver or kidney injury.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002124-8" qtype="outlook">What is the outlook for Ibuprofen overdose ?</Question>
+			<Answer>Recovery is likely with prompt medical treatment, except in very large overdoses. Some people may develop chronic liver or kidney injury.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,46 @@
+<Document id="0004062" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001595.htm">
+ 
+<Focus>Twin-to-twin transfusion syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2909036</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>TTTS</Synonym>
+		<Synonym>Fetal transfusion syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004062-1" qtype="information">What is (are) Twin-to-twin transfusion syndrome ?</Question>
+			<Answer>Twin-to-twin transfusion syndrome is a rare condition that occurs only in identical twins while they are in the womb. Watch this video about: Twin-to-twin transfusion syndrome</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004062-2" qtype="causes">What causes Twin-to-twin transfusion syndrome ?</Question>
+			<Answer>Twin-to-twin transfusion syndrome (TTTS) occurs when the blood supply of one twin moves to the other through the shared placenta. The twin that loses the blood is called the donor twin. The twin that receives the blood is called the recipient twin. Both infants may have problems, depending on how much blood is passed from one to the other. The donor twin may have too little blood, and the other may have too much blood.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004062-3" qtype="symptoms">What are the symptoms of Twin-to-twin transfusion syndrome ?</Question>
+			<Answer>Most of the time, the donor twin is smaller than the other twin at birth. The infant often has  anemia , is dehydrated, and looks pale. The recipient twin is born larger, with redness to the skin, too much blood, and a higher blood pressure. The twin that gets too much blood may develop  cardiac failure  because of the high blood volume. The infant may also need medicine to strengthen heart function. The unequal size of identical twins is referred to as discordant twins.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004062-4" qtype="exams and tests">How to diagnose Twin-to-twin transfusion syndrome ?</Question>
+			<Answer>This condition is most often diagnosed by  ultrasound during pregnancy . After birth, the infants will receive the following tests: Blood clotting studies, including prothrombin time (PT) and partial thromboplastin time (PTT), Comprehensive metabolic panel to determine electrolyte balance, Complete blood count, Chest x-ray , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004062-5" qtype="treatment">What are the treatments for Twin-to-twin transfusion syndrome ?</Question>
+			<Answer>Treatment may require repeated amniocentesis during pregnancy. Fetal laser surgery may be done to stop the flow of blood from one twin to the other during pregnancy. After birth, treatment depends on the infant's symptoms. The donor twin may need a blood transfusion to treat anemia. The recipient twin may need to have the volume of body fluid reduced. This may involve an exchange transfusion. The recipient twin may also need to take medicine to prevent heart failure.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004062-6" qtype="outlook">What is the outlook for Twin-to-twin transfusion syndrome ?</Question>
+			<Answer>If the twin-to-twin transfusion is mild, both babies often recover fully. Severe cases may result in the death of a twin.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

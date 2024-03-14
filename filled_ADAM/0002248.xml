@@ -1,0 +1,41 @@
+<Document id="0002248" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003217.htm">
+ 
+<Focus>Itching</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0033774</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pruritus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002248-1" qtype="information">What is (are) Itching ?</Question>
+			<Answer>Itching is a tingling or irritation of the skin that makes you want to scratch the area. Itching may occur all over the body or only in one location.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002248-2" qtype="causes">What causes Itching ?</Question>
+			<Answer>There are many causes of itching, including: Aging skin,  Atopic dermatitis  (eczema),  Contact dermatitis  (poison ivy or poison oak), Contact irritants (such as soaps, chemicals, or wool),  Dry skin ,  Hives ,  Insect bites and stings , Parasites such as  pinworm ,  body lice ,  head lice , and  pubic lice ,  Pityriasis rosea ,  Psoriasis ,  Rashes  (may or may not itch),  Seborrheic dermatitis ,  Sunburn , Superficial skin infections such as  folliculitis  and  impetigo ,  Generalized itching may be caused by: Allergic reactions , Childhood infections (such as chickenpox or  measles ),  Hepatitis ,  Iron deficiency anemia , Kidney disease, Liver disease with jaundice, Pregnancy, Reactions to medicines and substances such as antibiotics (penicillin, sulfonamides), gold, griseofulvin, isoniazid, opiates, phenothiazines, or  vitamin A , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002248-3" qtype="considerations">What to do for Itching ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002248-4" qtype="when to contact a medical professional">Do I need to see a doctor for Itching ?</Question>
+			<Answer>Contact your provider if you have itching that:  Is severe, Does not go away, Cannot be easily explained ,  Also contact your provider if you have other, unexplained symptoms. With most itching, you do not need to see a provider. Look for an obvious cause of itching at home. It is sometimes easy for a parent to find the cause of a child's itching. Looking closely at the skin will help you identify any bites, stings, rashes, dry skin, or irritation. Have the itching checked out as soon as possible if it keeps returning and does not have a clear cause, you have itching all over your body, or you have hives that keep returning. Unexplained itching may be a symptom of a disease that could be serious.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002248-5" qtype="outlook">What is the outlook for Itching ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

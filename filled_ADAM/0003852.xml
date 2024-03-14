@@ -1,0 +1,60 @@
+<Document id="0003852" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001378.htm">
+ 
+<Focus>Tapeworm infection - Hymenolepsis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007894</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hymenolepiasis</Synonym>
+		<Synonym>Dwarf tapeworm infection</Synonym>
+		<Synonym>Rat tapeworm</Synonym>
+		<Synonym>Tapeworm - infection</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003852-1" qtype="information">What is (are) Tapeworm infection - Hymenolepsis ?</Question>
+			<Answer>Hymenolepis infection is an infestation by&#160;one of&#160;two species of tapeworm:  Hymenolepis nana  or  Hymenolepis diminuta . The disease is also called hymenolepiasis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003852-2" qtype="causes">What causes Tapeworm infection - Hymenolepsis ?</Question>
+			<Answer>Hymenolepis worms live in warm climates and are common in the southern United States. Insects eat the eggs of these worms. Humans and other animals become infected when they eat material contaminated by insects (including fleas associated with rats). In an infected person, it is possible for the worm's entire life cycle to be completed in the bowel, so infection can last for years. Hymenolepis nana  infections are much more common than  Hymenolepis diminuta  infections in humans. These infections used to be common in the southeastern United States, in crowded environments, and in people who were confined to institutions. However, the disease occurs throughout the world.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003852-3" qtype="symptoms">What are the symptoms of Tapeworm infection - Hymenolepsis ?</Question>
+			<Answer>Symptoms occur only with heavy infections. Symptoms include: Diarrhea, Gastrointestinal discomfort, Itchy anus, Poor appetite, Weakness, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003852-4" qtype="exams and tests">How to diagnose Tapeworm infection - Hymenolepsis ?</Question>
+			<Answer>A  stool exam  for the tapeworm and its eggs confirms the diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003852-5" qtype="treatment">What are the treatments for Tapeworm infection - Hymenolepsis ?</Question>
+			<Answer>The treatment for this condition is a single dose of praziquantel, repeated in 10 days. Household members may also need to be screened and treated because the infection can be spread easily from person to person.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003852-6" qtype="outlook">What is the outlook for Tapeworm infection - Hymenolepsis ?</Question>
+			<Answer>Expect full recovery following treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003852-7" qtype="complications">What are the complications of Tapeworm infection - Hymenolepsis ?</Question>
+			<Answer>Health problems that may result from this infection include: Abdominal discomfort,  Dehydration  from prolonged diarrhea, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003852-8" qtype="when to contact a medical professional">Do I need to see a doctor for Tapeworm infection - Hymenolepsis ?</Question>
+			<Answer>Contact your health care provider if you have chronic diarrhea or abdominal cramping.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003852-9" qtype="prevention">How to prevent Tapeworm infection - Hymenolepsis ?</Question>
+			<Answer>Good hygiene, public health and sanitation programs, and elimination of rats help prevent the spread of hymenolepiasis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

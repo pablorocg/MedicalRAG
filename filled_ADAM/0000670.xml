@@ -1,0 +1,51 @@
+<Document id="0000670" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000998.htm">
+ 
+<Focus>Canker sore</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038363</CUI>
+			<CUI>C0585213</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Aphthous ulcer</Synonym>
+		<Synonym>Ulcer - aphthous</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000670-1" qtype="information">What is (are) Canker sore ?</Question>
+			<Answer>A canker sore is a painful, open sore in the mouth. Canker sores are white or yellow and surrounded by a bright red area. They are not cancerous. A canker sore is not the same as a  fever blister  (cold sore).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000670-2" qtype="causes">What causes Canker sore ?</Question>
+			<Answer>Canker sores are a common form of  mouth ulcer . They may occur with viral infections. In some cases, the cause is unknown. Canker sores may also be linked to problems with the body's immune system. The sores may also be brought on by:  Mouth injury from dental work, Cleaning the teeth too roughly, Biting the tongue or cheek ,  Other things that can trigger canker sores include: Emotional stress, Lack of certain vitamins and minerals in the diet (especially iron,  folic acid , or  vitamin B-12 ), Hormonal changes,  Food allergies ,  Anyone can develop a canker sore. Women are more likely to get them than men. Canker sores may run in families.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000670-3" qtype="symptoms">What are the symptoms of Canker sore ?</Question>
+			<Answer>Canker sores most often appear on the inner surface of the cheeks and lips, tongue, upper surface of the mouth, and the base of the gums. Symptoms include: One or more painful, red spots or bumps that develops into an open ulcer, White or yellow center, Small size (most often under one third inch or 1 centimeter across), Gray color as healing starts,  Less common symptoms include: Fever, General discomfort or uneasiness (malaise),  Swollen lymph nodes ,  Pain often goes away in 7 to 10 days. It can take 1 to 3 weeks for a canker sore to completely heal. Large ulcers can take longer to heal.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000670-4" qtype="exams and tests">How to diagnose Canker sore ?</Question>
+			<Answer>Your health care provider can often make the diagnosis by looking at the sore. If canker sores persist or continue to return, tests should be done to look for other causes, such as  erythema multiforme ,  drug allergies , herpes infection, and bullous  lichen planus . You may need further testing or a  biopsy  to look for other causes of mouth ulcers. Canker sores are not cancer and do not cause cancer. There are types of cancer, however, that may first appear as a mouth ulcer that does not heal. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000670-5" qtype="treatment">What are the treatments for Canker sore ?</Question>
+			<Answer>In most cases, the canker sores go away without treatment. Try not to eat hot or spicy foods, which can cause pain. Use over-the-counter medicines that ease pain in the area. Rinse your mouth with salt water or mild, over-the-counter mouthwashes. (DO NOT use mouthwashes that contain alcohol which can irritate the area more.), Apply a mixture of half hydrogen peroxide and half water directly to the sore using a cotton swab. Follow by dabbing a small amount of Milk of Magnesia on the canker sore afterward. Repeat these steps 3 to 4 times a day., Rinse your mouth with a mixture of half Milk of Magnesia and half Benadryl liquid allergy medicine. Swish mixture in the mouth for about 1 minute and then spit out., Over the counter numbing mouth rinses or drops can provide short term pain relief.,  Medicines prescribed by your provider may be needed for severe cases. These may include: Chlorhexidine mouthwash, Stronger medicines called corticosteroids that are placed on the sore or are taken in pill form,  Brush your teeth twice a day and floss your teeth every day. Also, get routine dental check-ups. In some cases, gastric acid-reducing medicines can decrease the discomfort.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000670-6" qtype="outlook">What is the outlook for Canker sore ?</Question>
+			<Answer>Canker sores almost always heal on their own. The pain should decrease in a few days. Other symptoms disappear in 10 to 14 days.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000670-7" qtype="when to contact a medical professional">Do I need to see a doctor for Canker sore ?</Question>
+			<Answer>Contact your provider if: A canker sore or mouth ulcer does not go away after 2 weeks of home care or gets worse., You get canker sores more than 2 or 3 times a year., You have symptoms with the canker sore such as fever, diarrhea, headache, or skin rash. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

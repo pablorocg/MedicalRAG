@@ -1,0 +1,57 @@
+<Document id="0002081" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000316.htm">
+ 
+<Focus>Hyperkalemic periodic paralysis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0238357</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Periodic paralysis - hyperkalemic</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002081-1" qtype="information">What is (are) Hyperkalemic periodic paralysis ?</Question>
+			<Answer>Hyperkalemic periodic paralysis (hyperPP) is a disorder that causes occasional episodes of  muscle weakness  and sometimes a higher than normal level of potassium in the blood. The medical name for high potassium level is  hyperkalemia . HyperPP is one of a group of genetic disorders that includes  hypokalemic periodic paralysis  and  thyrotoxic periodic paralysis .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002081-2" qtype="causes">What causes Hyperkalemic periodic paralysis ?</Question>
+			<Answer>HyperPP is congenital. This means it is present at birth. In most cases, it is passed down through families (inherited) as an autosomal dominant disorder. In other words, only one parent needs to pass the gene related to this condition on to their child in order for the child to be affected. Occasionally, the condition may be the result of a genetic problem that is not inherited. It is believed that the disorder is related to problems with the way the body controls sodium and potassium levels in cells. Risk factors include having other family members with periodic paralysis. It affects men and women equally.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002081-3" qtype="symptoms">What are the symptoms of Hyperkalemic periodic paralysis ?</Question>
+			<Answer>Symptoms include attacks of muscle weakness or loss of muscle movement ( paralysis ) that come and go. There is normal muscle strength between attacks. Attacks usually begin in childhood. How often the attacks occur varies. Some people have several attacks a day. They are usually not severe enough to need therapy. Some people have associated myotonia, in which they cannot immediately relax their muscles after use. The weakness or paralysis: Most commonly occurs at the shoulders, back, and hips, May also involve the arms and legs, but does not affect muscles of the eyes and muscles that help with breathing and swallowing, Most commonly occurs while resting after activity or exercise, May occur on awakening, Occurs on and off, Usually lasts 15 minutes to 1 hour, but may last up to an entire day,  Triggers may include: Eating a high carbohydrate meal, Rest after exercise, Exposure to cold, Skipping meals, Eating potassium-rich foods or taking medicines that contain potassium, Stress, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002081-4" qtype="exams and tests">How to diagnose Hyperkalemic periodic paralysis ?</Question>
+			<Answer>The health care provider may suspect hyperPP based on a family history of the disorder. Other clues to the disorder are muscle weakness symptoms that come and go with normal or high results of a  potassium test . Between attacks, a physical examination shows nothing abnormal. During and between attacks, potassium blood level can be normal or high. During an attack, muscle reflexes are decreased or absent. And muscles go limp rather than staying stiff. Muscle groups near the body, such as the shoulders and hips, are involved more often than the arms and legs. Tests that may done include: Electrocardiogram ( ECG ), which may be abnormal during attacks, Electromyography ( EMG ), which is usually normal between attacks and abnormal during attacks,  Muscle biopsy , which may show abnormalities,  Other tests may be ordered to rule out other causes.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002081-5" qtype="treatment">What are the treatments for Hyperkalemic periodic paralysis ?</Question>
+			<Answer>The goal of treatment is to relieve symptoms and prevent further attacks. Attacks are seldom severe enough to require emergency treatment. But irregular heartbeats ( heart arrhythmias ) may also occur during attacks, for which emergency treatment is needed. Muscle weakness can become worse with repeated attacks, so treatment to prevent the attacks should occur as soon as possible. Glucose or other carbohydrates (sugars) given during an attack may reduce the severity of the symptoms. Calcium or diuretics (water pills) may need to be given through a vein to stop sudden attacks.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002081-6" qtype="outlook">What is the outlook for Hyperkalemic periodic paralysis ?</Question>
+			<Answer>Sometimes, attacks disappear later in life on their own. But repeated attacks may lead to permanent muscle weakness. HyperPP responds well to treatment. Treatment may prevent, and may even reverse, progressive muscle weakness.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002081-7" qtype="complications">What are the complications of Hyperkalemic periodic paralysis ?</Question>
+			<Answer>Health problems that may be due to hyperPP include: Kidney stones  (a side effect of medicine used to treat the condition), Irregular heart beat, Muscle weakness that slowly continues to get worse, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002081-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hyperkalemic periodic paralysis ?</Question>
+			<Answer>Contact your provider if you or your child has muscle weakness that comes and goes, especially if you have family members who have periodic paralysis. Go to the emergency room or call the local emergency number (such as 911) if you faint or have difficulty breathing, speaking, or swallowing.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002081-9" qtype="prevention">How to prevent Hyperkalemic periodic paralysis ?</Question>
+			<Answer>The medicines acetazolamide and thiazides prevent attacks in many cases. A low potassium, high carbohydrate diet, and light exercise may help prevent attacks. Avoiding fasting, strenuous activity, or cold temperatures also may help.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,58 @@
+<Document id="0003011" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001346.htm">
+ 
+<Focus>Perianal streptococcal cellulitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0457220</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Streptococcal proctitis</Synonym>
+		<Synonym>Proctitis - streptococcal</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003011-1" qtype="information">What is (are) Perianal streptococcal cellulitis ?</Question>
+			<Answer>Perianal streptococcal cellulitis is an infection of the anus and rectum. The infection is caused by streptococcus bacteria.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003011-2" qtype="causes">What causes Perianal streptococcal cellulitis ?</Question>
+			<Answer>Perianal streptococcal cellulitis usually occurs in children. It often appears during or after  strep throat , nasopharyngitis, or streptococcal skin infection ( impetigo ). The skin around the anus may get infected while a child wipes the area after using the toilet. The infection can also result from scratching the area with fingers that have bacteria from the mouth or nose.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003011-3" qtype="symptoms">What are the symptoms of Perianal streptococcal cellulitis ?</Question>
+			<Answer>Symptoms may include: Fever, Itching, pain, or bleeding with bowel movements, Redness around the anus, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003011-4" qtype="exams and tests">How to diagnose Perianal streptococcal cellulitis ?</Question>
+			<Answer>The health care provider will examine the child and ask about the symptoms. Tests that may be done include: Rectal swab culture, Skin culture from rectal area,  Throat culture , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003011-5" qtype="treatment">What are the treatments for Perianal streptococcal cellulitis ?</Question>
+			<Answer>The infection is treated with antibiotics for about 10 days, depending on how well and quickly they are working. Penicillin is the most often used antibiotic in children. Topical medicine can be applied to the skin and is commonly used with other antibiotics, but it should not be the only treatment. Mupirocin is a common topical medicine used for this condition.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003011-6" qtype="outlook">What is the outlook for Perianal streptococcal cellulitis ?</Question>
+			<Answer>Children usually recover quickly with antibiotic treatment. It is important to contact your provider if your child does not get better soon on antibiotics.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003011-7" qtype="complications">What are the complications of Perianal streptococcal cellulitis ?</Question>
+			<Answer>Complications are rare, but may include: Anal scarring,  fistula , or  abscess , Bleeding, discharge, Bloodstream or other streptococcal infections (including heart, joint, and bone), Kidney disease (acute  glomerulonephritis ), Severe skin and soft tissue infection ( necrotizing fasciitis ), </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003011-8" qtype="when to contact a medical professional">Do I need to see a doctor for Perianal streptococcal cellulitis ?</Question>
+			<Answer>Contact your child's provider if your child complains of pain in the rectal area, painful bowel movements, or other symptoms of perianal streptococcal cellulitis. If your child is taking antibiotics for this condition and the area of redness gets worse, or the discomfort or fever is increasing, contact your provider immediately.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003011-9" qtype="prevention">How to prevent Perianal streptococcal cellulitis ?</Question>
+			<Answer>Careful handwashing may help prevent this and other infections caused by bacteria carried in the nose and throat. To prevent the condition from coming back, be sure your child finishes all the medicine the provider prescribes.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

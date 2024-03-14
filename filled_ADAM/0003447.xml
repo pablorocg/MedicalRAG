@@ -1,0 +1,55 @@
+<Document id="0003447" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001209.htm">
+ 
+<Focus>Russell-Silver syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0175693</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Silver-Russell syndrome</Synonym>
+		<Synonym>Silver syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003447-1" qtype="information">What is (are) Russell-Silver syndrome ?</Question>
+			<Answer>Russell-Silver syndrome (RSS) is a disorder present at birth involving poor growth. One side of the body may also appear to be larger than the other.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003447-2" qtype="causes">What causes Russell-Silver syndrome ?</Question>
+			<Answer>One in 10 children with this syndrome has a problem involving chromosome 7. In other people with the syndrome, it may be due to a problem with chromosome 11. Most of the time, it occurs in people with no family history of the disease. The estimated number of people who develop this condition varies greatly. Males and females are equally affected.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003447-3" qtype="symptoms">What are the symptoms of Russell-Silver syndrome ?</Question>
+			<Answer>Symptoms can include: Birthmarks that are the color of coffee with milk ( cafe-au-lait  marks), Large head for body size, wide projecting forehead with a small triangle-shaped face and small, narrow chin, Curving of the pinky toward the ring finger,  Failure to thrive , including delayed bone age, Low birth weight, Short height, short arms, stubby fingers and toes, All or part of one side of the body is smaller than the other side (asymmetry), Stomach and intestine problems such as acid reflux and constipation, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003447-4" qtype="exams and tests">How to diagnose Russell-Silver syndrome ?</Question>
+			<Answer>The condition is usually diagnosed by early childhood. The health care provider will perform a physical exam. There are no specific laboratory tests to diagnose RSS. Diagnosis is usually based on the judgment of your child's provider. However, the following tests may be done: Blood sugar  (some children may have low blood sugar), Bone age testing (bone age is often younger than the child's actual age), Genetic testing (may detect a chromosomal problem),  Growth hormone  (some children may have a deficiency),  Skeletal survey  (to rule out other conditions that may mimic RSS) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003447-5" qtype="treatment">What are the treatments for Russell-Silver syndrome ?</Question>
+			<Answer>
+Growth hormone replacement may help if this hormone is lacking. Other treatments include: Making sure the person gets enough calories to prevent low blood sugar and promote growth, Physical therapy to improve muscle tone, Educational assistance to address learning disabilities and  attention deficit problems  the child may have ,  Many specialists may be involved in treating a person with this condition. They include: A doctor specializing in genetics to help diagnose RSS, A gastroenterologist or dietician to help develop the proper diet to enhance growth, An endocrinologist to prescribe growth hormone, A genetic counselor and psychologist , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003447-6" qtype="outlook">What is the outlook for Russell-Silver syndrome ?</Question>
+			<Answer>Older children and adults do not show typical features as clearly as infants or younger children. Intelligence may be normal, although the person may have a learning disability. Birth defects of the urinary tract may be present.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003447-7" qtype="complications">What are the complications of Russell-Silver syndrome ?</Question>
+			<Answer>People with RSS may have these problems: Chewing or speaking difficulty if jaw is very small, Learning disabilities, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003447-8" qtype="when to contact a medical professional">Do I need to see a doctor for Russell-Silver syndrome ?</Question>
+			<Answer>Contact your child's provider if signs of RSS develop. Make sure your child's height and weight are measured during each well-child visit. The provider may refer you to:  A genetic professional for a full evaluation and chromosome studies, A pediatric endocrinologist for management of your child's growth problems, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,13 @@
+<Document id="0001379" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002362.htm">
+ 
+<Focus>Endemic</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001379-1" qtype="information">Do you have information about Endemic</Question>
+			<Answer>Endemic means a disease that is always present in a population within a geographic area, typically year-round. For example, malaria is an endemic disease in parts of Africa south of the Sahara desert.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

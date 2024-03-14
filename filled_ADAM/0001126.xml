@@ -1,0 +1,59 @@
+<Document id="0001126" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000739.htm">
+ 
+<Focus>Dementia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0497327</CUI>
+			<CUI>C0011265</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Chronic brain syndrome</Synonym>
+		<Synonym>Lewy body dementia</Synonym>
+		<Synonym>DLB</Synonym>
+		<Synonym>Vascular dementia</Synonym>
+		<Synonym>Mild cognitive impairment</Synonym>
+		<Synonym>MCI</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001126-1" qtype="information">What is (are) Dementia ?</Question>
+			<Answer>Dementia is a loss of brain function that occurs with certain diseases. It affects one or more brain functions such as memory, thinking, language, judgment, or behavior. Dementia may also be referred to as major  neurocognitive disorder .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001126-2" qtype="causes">What causes Dementia ?</Question>
+			<Answer>Dementia usually occurs in older age. Most types are rare in people under age 60. The risk of dementia increases as a person gets older. Most types of dementia are nonreversible and degenerative. Nonreversible means the changes in the brain that are causing the dementia cannot be stopped or turned back.  Alzheimer disease  is the most common type of dementia. Another common type of dementia is  vascular dementia . It is caused by poor blood flow to the brain, such as with stroke. Lewy body disease is another cause of dementia in older adults. People with this condition have abnormal protein structures in certain areas of the brain. Any condition that results in injury to the brain can cause dementia. The following medical conditions can also lead to dementia: Huntington disease , Brain injury,  Multiple sclerosis , Infections such as  HIV/AIDS ,  syphilis , and  Lyme disease ,  Parkinson disease ,  Pick disease ,  Progressive supranuclear palsy , Excess alcohol use,  Some causes of dementia, such as those due to  abnormal chemical processes in the body , may be stopped or reversed if they are found soon enough, including: Brain injury, Brain tumors, Long-term (chronic) alcohol abuse, Changes in blood sugar, sodium, and calcium levels, Low  vitamin B12  level,  Normal pressure hydrocephalus , Use of certain medicines, including cimetidine and some cholesterol medicines, Some brain infections , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001126-3" qtype="symptoms">What are the symptoms of Dementia ?</Question>
+			<Answer>Dementia symptoms include difficulty with many areas of mental function, including: Emotional behavior or personality, Language, Memory, Perception, Thinking and judgment (cognitive skills) ,  Dementia usually first appears as forgetfulness. Mild cognitive impairment (MCI) is a condition in which a person has more memory and thinking problems than other people their age. People with MCI have mild problems with thinking and memory that do not interfere with daily activities. They often know about their forgetfulness. Not everyone with MCI develops dementia. Symptoms of MCI include: Difficulty doing more than one task at a time, Difficulty solving problems or making decisions, Forgetting names of familiar people, recent events, or conversations, Taking longer to do more difficult mental activities ,  Early symptoms of dementia can include: Difficulty with tasks that take some thought, but that used to come easily, such as balancing a checkbook, playing games (such as bridge), and learning new information or routines, Getting lost on familiar routes, Language problems, such as trouble with the names of familiar objects, Losing interest in things previously enjoyed, flat mood, Misplacing items, Personality changes and loss of social skills, which can lead to inappropriate behaviors&#160;, Mood changes leading to aggressive behavior, Poor performance of job duties ,  As dementia becomes worse, symptoms are more obvious and interfere with the ability to take care of oneself. Symptoms may include: Change in sleep patterns, often waking up at night, Difficulty with basic tasks, such as preparing meals, choosing proper clothing, or driving, Forgetting details about current events, Forgetting events in one's own life history, or losing self-awareness, Having  hallucinations , arguments, striking out, and violent behavior, Having delusions,  depression , and agitation, More difficulty reading or writing, Poor judgment and loss of ability to recognize danger, Using the wrong word, not pronouncing words correctly, speaking in confusing sentences, Withdrawing from social contact ,  People with severe dementia can no longer: Perform basic activities of daily living, such as eating, dressing, and bathing, Recognize family members, Understand language ,  Other symptoms that may occur with dementia: Problems controlling bowel movements or urine, Swallowing problems , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001126-4" qtype="exams and tests">How to diagnose Dementia ?</Question>
+			<Answer>A skilled health care provider can often diagnose dementia using the following: Complete physical exam, including nervous system exam, Asking about the person's medical history and symptoms, Mental function tests (mental status examination),  Other tests may be ordered to find out if other problems may be causing dementia or making it worse. These conditions include: Anemia ,  Brain tumor , Long-term (chronic) infection, Intoxication from medicines, Severe depression, Thyroid disease, Vitamin deficiency,  The following tests and procedures may be done: B12 level , Blood  ammonia  level,  Blood chemistry  (chem-20),  Blood gas analysis ,  Cerebrospinal fluid (CSF) analysis ,  Drug or alcohol levels  (toxicology screen),  Electroencephalograph  (EEG),  Head CT , Mental status test, Neuropsychological test,  MRI of head ,  Thyroid function tests , including  thyroid stimulating hormone  (TSH),  Urinalysis , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001126-5" qtype="treatment">What are the treatments for Dementia ?</Question>
+			<Answer>Treatment depends on the condition causing the dementia. Some people may need to stay in the hospital for a short time. Sometimes, medicines given for any condition, including dementia, can make a person's confusion worse. Stopping or changing these medicines is part of the treatment. Certain mental exercises can help with dementia. Treating conditions that can lead to confusion often greatly improve mental function. Such conditions include: Anemia,  Decreased blood oxygen  (hypoxia), Depression,  Heart failure , Infections, Nutritional disorders, Thyroid disorders ,  Medicines may be used to: Slow the rate at which symptoms get worse, though improvement with these medicines may be small, Control problems with behavior, such as loss of judgment or confusion ,  Someone with dementia will need  support in the home  as the condition gets worse. Family members or other caregivers can assist by helping the person cope with  memory loss  and  behavior and sleep problems . It is important to make sure the homes of people who have dementia are  safe for them . </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001126-6" qtype="outlook">What is the outlook for Dementia ?</Question>
+			<Answer>People with MCI do not always develop dementia. When dementia does occur, it usually gets worse over time. Dementia often decreases quality of life and lifespan. Families will likely need to plan for their loved one's  future care . The prognosis depends on the underlying cause. Some dementias rapidly progress to death while others can take years to get worse.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001126-7" qtype="when to contact a medical professional">Do I need to see a doctor for Dementia ?</Question>
+			<Answer>Contact your provider if: Dementia develops or a sudden  change in mental status  occurs, The condition of a person with dementia gets worse, You are unable to care for a person with dementia at home, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001126-8" qtype="prevention">How to prevent Dementia ?</Question>
+			<Answer>Most causes of dementia are not preventable. The risk of vascular dementia may be reduced by preventing strokes through: Eating healthy foods, Exercising, Quitting smoking, Controlling high blood pressure, Managing diabetes , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

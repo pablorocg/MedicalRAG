@@ -1,0 +1,59 @@
+<Document id="0000286" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000181.htm">
+ 
+<Focus>Aortic dissection</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0340643</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Aortic aneurysm - dissecting</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000286-1" qtype="information">What is (are) Aortic dissection ?</Question>
+			<Answer>Aortic dissection is a serious condition in which there is a tear in the wall of the major artery carrying blood out of the heart (aorta). As the tear extends along the wall of the aorta, blood can flow in between the layers of the blood vessel wall (dissection). This can lead to aortic rupture or decreased blood flow (ischemia) to organs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000286-2" qtype="causes">What causes Aortic dissection ?</Question>
+			<Answer>When it leaves the heart, the aorta first moves up through the chest towards the head (the ascending aorta). It then bends or arches, and finally moves down through the chest and abdomen (the descending aorta). Aortic dissection most often happens because of a tear or damage to the inner wall of the aorta. This very often occurs in the chest (thoracic) part of the artery, but it may also occur in the abdominal aorta. When a tear occurs, it creates 2 channels: One in which blood continues to travel, Another where blood stays still ,  If the channel with non-traveling blood gets bigger, it can push on other branches of the aorta. This can narrow the other branches and reduce blood flow through them. An aortic dissection may also cause abnormal widening or ballooning of the aorta ( aneurysm ). The exact cause is unknown, but more common risks include:  Aging,  Atherosclerosis , Blunt trauma to the chest, such as hitting the steering wheel of a car during an accident,  High blood pressure ,  Other risk factors and conditions linked to aortic dissection include: Bicuspid aortic valve,  Coarctation (narrowing) of the aorta , Connective tissue disorders (such as  Marfan syndrome  and Ehlers-Danlos syndrome) and rare genetic disorders, Heart surgery or procedures, Pregnancy, Swelling of the blood vessels due to conditions such as arteritis and syphilis ,  Aortic dissection occurs in about 2 out of every 10,000 people. It can affect anyone, but is most often seen in men ages 40 to 70.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000286-3" qtype="symptoms">What are the symptoms of Aortic dissection ?</Question>
+			<Answer>In most cases, the symptoms begin suddenly, and include severe  chest pain . The pain may feel like a heart attack. Pain can be described as sharp, stabbing, tearing, or ripping., It is felt below the breast bone, and then moves under the shoulder blades or to the back., Pain can move to the shoulder, neck, arm, jaw, abdomen, or hips., The pain changes position, often moving to the arms and legs as the aortic dissection gets worse.,  Symptoms are caused by a decrease of blood flowing to the rest of the body, and can include: Anxiety and a feeling of doom,  Fainting  or  dizziness ,  Heavy sweating  (clammy skin),  Nausea and vomiting , Pale skin ( pallor ), 
+  Rapid, weak pulse
+  , Shortness of breath and trouble breathing when lying flat ( orthopnea ) ,  Other symptoms may include: Pain in the abdomen, Stroke symptoms, Swallowing difficulties from pressure on the esophagus , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000286-4" qtype="exams and tests">How to diagnose Aortic dissection ?</Question>
+			<Answer>The health care provider will take your family history and listen to your heart, lungs, and abdomen with a stethoscope. The exam may find: A "blowing" murmur over the aorta, heart murmur, or other abnormal sound, A difference in blood pressure between the right and left arms, or between the arms and legs, Low blood pressure, Signs resembling a heart attack, Signs of  shock , but with normal blood pressure ,  Aortic dissection or aortic aneurysm may be seen on: Aortic angiography ,  Chest x-ray ,  Chest MRI ,  CT scan of chest  with dye,  Doppler ultrasonography  (occasionally performed),  Echocardiogram , Transesophageal echocardiogram (TEE) ,  Blood work to rule out a heart attack  is needed. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000286-5" qtype="treatment">What are the treatments for Aortic dissection ?</Question>
+			<Answer>Aortic dissection is a life-threatening condition and needs to be treated right away. Dissections that occur in the part of the aorta that is leaving the heart (ascending) are treated with surgery., Dissections that occur in other parts of the aorta (descending) may be managed with surgery or medicines. ,  Two techniques may be used for surgery: Standard, open surgery. This requires a surgical incision that is made in the chest or abdomen., Endovascular aortic repair. This surgery is done without any major surgical incisions. ,  Drugs that lower blood pressure may be prescribed. These drugs may be given through a vein (intravenously). Beta-blockers are the drugs of first choice. Strong pain relievers are very often needed. If the aortic valve is damaged, valve replacement is needed. If the heart arteries are involved, a coronary bypass is also performed.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000286-6" qtype="outlook">What is the outlook for Aortic dissection ?</Question>
+			<Answer>Aortic dissection is life threatening. The condition can be managed with surgery if it is done before the aorta ruptures. Less than one half of people with a ruptured aorta survive. Those who survive will need lifelong, aggressive treatment of high blood pressure. They will need to be followed up with CT scans every few months to monitor the aorta.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000286-7" qtype="complications">What are the complications of Aortic dissection ?</Question>
+			<Answer>Aortic dissection may decrease or stop the blood flow to many different parts of the body. This may result in short-term or long-term problems, or damage to the: Brain, Heart, Intestines or bowels, Kidneys, Legs , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000286-8" qtype="when to contact a medical professional">Do I need to see a doctor for Aortic dissection ?</Question>
+			<Answer>If you have symptoms of an aortic dissection or severe chest pain, call 911 or your local emergency number, or go to the emergency room as quickly as possible.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000286-9" qtype="prevention">How to prevent Aortic dissection ?</Question>
+			<Answer>Many cases of aortic dissection cannot be prevented. Things you can do to reduce your risk include: Treating and controlling hardening of the arteries (atherosclerosis), Keeping high blood pressure under control, especially if you are at risk for dissection, Taking safety precautions to prevent injuries that can cause dissections, If you have been diagnosed with Marfan or Ehlers-Danlos syndrome, making sure you regularly follow-up with your provider, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

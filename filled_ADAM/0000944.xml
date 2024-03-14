@@ -1,0 +1,51 @@
+<Document id="0000944" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003205.htm">
+ 
+<Focus>Confusion</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1963086</CUI>
+			<CUI>C0009676</CUI>
+			<CUI>C0683369</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Disorientation</Synonym>
+		<Synonym>Thinking - unclear</Synonym>
+		<Synonym>Thoughts - cloudy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000944-1" qtype="information">What is (are) Confusion ?</Question>
+			<Answer>Confusion is the inability to think as clearly or quickly as you normally do. You may feel disoriented and have difficulty paying attention, remembering, and making decisions.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000944-2" qtype="considerations">What to do for Confusion ?</Question>
+			<Answer>Confusion may come on quickly or slowly over time, depending on the cause. Many times, confusion lasts for a short time and goes away. Other times, it is permanent and not curable. It may be associated with delirium or dementia. Confusion is more common in older people and often occurs during a hospital stay. Some confused people may have strange or unusual behavior or may act aggressively.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000944-3" qtype="causes">What causes Confusion ?</Question>
+			<Answer>Confusion may be caused by different health problems, such as: Alcohol  or drug intoxication,  Brain tumor ,  Head trauma  or  head injury  ( concussion ), Fever,  Fluid and electrolyte imbalance , Illness in an older person, such as loss of brain function ( dementia ) , Illness in a person with existing neurological disease, such as a stroke, Infections, Lack of sleep (sleep deprivation),  Low blood sugar , Low levels of oxygen (for example, from chronic lung disorders), Medicines, Nutritional deficiencies, especially  niacin ,  thiamine , or  vitamin B12 ,  Seizures , Sudden drop in body temperature ( hypothermia ), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000944-4" qtype="considerations">What to do for Confusion ?</Question>
+			<Answer>Confusion may come on quickly or slowly over time, depending on the cause. Many times, confusion lasts for a short time and goes away. Other times, it is permanent and not curable. It may be associated with delirium or dementia. Confusion is more common in older people and often occurs during a hospital stay. Some confused people may have strange or unusual behavior or may act aggressively.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000944-5" qtype="when to contact a medical professional">Do I need to see a doctor for Confusion ?</Question>
+			<Answer>Call 911 or the local emergency number if confusion has come on suddenly or there are other symptoms, such as:  Cold or clammy skin, Dizziness or feeling faint, Fast pulse, Fever, Headache, Slow or rapid breathing, Uncontrolled shivering,  Also call 911 or the local emergency number if: This is the first time someone becomes confused for no reason, Confusion has come on suddenly in someone with diabetes, Confusion came on after a head injury, The person is in danger of harming themselves or others, The person becomes unconscious at any time,  If you have been experiencing confusion, contact your provider for an appointment.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000944-6" qtype="outlook">What is the outlook for Confusion ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

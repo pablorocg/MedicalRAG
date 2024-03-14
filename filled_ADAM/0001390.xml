@@ -1,0 +1,55 @@
+<Document id="0001390" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000915.htm">
+ 
+<Focus>Endometriosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014175</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001390-1" qtype="information">What is (are) Endometriosis ?</Question>
+			<Answer>Endometriosis occurs when cells from the lining of your womb (uterus) grow in other areas of your body. This can cause pain, heavy vaginal bleeding, vaginal bleeding between periods, and problems getting pregnant ( infertility ).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001390-2" qtype="causes">What causes Endometriosis ?</Question>
+			<Answer>Every month, a woman's ovaries produce hormones that tell the cells lining the uterus to swell and get thicker. Your uterus sheds these cells along with blood and tissue through your vagina when you have your period. Endometriosis occurs when these cells grow outside the uterus in other parts of your body. This tissue may attach on your: Ovaries, Fallopian tubes, Bowel, Rectum, Bladder, Lining of your pelvic area ,  It can grow in other areas of the body, too. These growths stay in your body, and like the cells in the lining of your uterus, these growths react to the hormones from your ovaries. This may cause you to have pain during the month prior to the onset of your period. Over time,the growths may add more tissue and blood. Growths can also build up in the abdomen and pelvis, leading to chronic pelvic pain, heavy cycles, and infertility. No one knows what causes endometriosis. One idea is that when you get your period, the cells may travel backwards through the fallopian tubes into the pelvis. Once there, the cells attach and grow. However, this backward period flow occurs in many women. The immune system may play a role in causing endometriosis in women with the condition. Endometriosis is common. It occurs in about 10% of women of reproductive age. Sometimes, it may run in families. Endometriosis probably starts when a woman begins having periods. However, it usually is not diagnosed until ages 25 to 35. You are more likely to develop endometriosis if you: Have a mother or sister with endometriosis, Started your period at a young age, Never had children, Have frequent periods, or they last 7 or more days , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001390-3" qtype="symptoms">What are the symptoms of Endometriosis ?</Question>
+			<Answer>Pain is the main symptom of endometriosis. You may have: Painful periods -- Cramps or pain in your lower belly may begin a week or two before your period. Cramps may be steady and range from dull to severe., Pain during or after sexual intercourse., Pain with urination., Pain with bowel movements., Long-term pelvic or low back pain that may occur at any time and last for 6 months or more. ,  Other symptoms of endometriosis include: Heavy menstrual bleeding or bleeding between periods, Infertility (difficulty getting or staying pregnant) ,  You may not have any symptoms. Some women with a lot of tissue in their pelvis have no pain at all, while some women with milder disease have severe pain. </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001390-4" qtype="exams and tests">How to diagnose Endometriosis ?</Question>
+			<Answer>Your health care provider will perform a physical exam, including a pelvic exam. You may have one of these tests to help diagnose the disease: Transvaginal ultrasound , Pelvic  laparoscopy , Magnetic resonance imaging (MRI) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001390-5" qtype="treatment">What are the treatments for Endometriosis ?</Question>
+			<Answer>Learning how to manage your symptoms  can make it easier to live with endometriosis. What type of treatment you have depends on: Your age, Severity of your symptoms, Severity of the disease, Whether you want to get pregnant in the future ,  There is currently no cure for endometriosis. There are different treatment options. PAIN RELIEVERS  If you have mild symptoms, you may be able to manage cramping and pain with: Exercise and relaxation techniques.,  Over-the-counter pain relievers  -- These include ibuprofen (Advil), naproxen (Aleve), and acetaminophen (Tylenol)., Prescription painkillers, if needed, for severe pain., Regular exams every 6 to 12 months so your provider can assess the disease. ,  HORMONE THERAPY  These medicines can stop endometriosis from getting worse. They may be given as pills, nasal spray, or shots. Only women who are not trying get pregnant should have this therapy. Some types of hormone therapy will also prevent you from getting pregnant while you are taking the medicine. Birth control pills -- With this therapy, you take the hormone pills (not the inactive or placebo pills) for 6 to 9 months continuously. Taking these pills relieves most symptoms. However, it does not treat any damage that has already occurred. But it may prevent ongoing damage for as long as the hormone-containing pills are taken. Many young patients will choose to continue this treatment indefinitely or until they wish to attempt pregnancy. Progesterone pills, injections, IUD -- This treatment helps shrink growths. Side effects may include weight gain and depression. 
+ Gonadotropin-agonist medicines -- These medicines stop your ovaries from producing the hormone estrogen. This causes a menopause-like state. Side effects include hot flashes, vaginal dryness, and mood changes. Treatment is often limited to 6 months because it can weaken your bones. Your provider may give you small doses of hormone to relieve symptoms during this treatment. This is known as 'add-back' therapy. It may also help protect against bone loss, while not triggering growth of the endometriosis. Gonadotropin-antagonist medicine -- This oral medication helps lower production of estrogen resulting in a menopausal-like state and controls the growth of endometrial tissue, resulting in less severe painful and heavy menses. SURGERY  Your provider may recommend surgery if you have severe pain that does not get better with other treatments.  Laparoscopy  helps diagnose the disease and can also remove growths and scar tissue. Because only a small cut is made in your belly, you will heal faster than other types of surgery.,  Laparotomy  involves making a large incision (cut) in your belly to remove growths and scar tissue. This is major surgery, so healing takes longer., Laparoscopy or laparotomy may be a good option if you want to become pregnant, because they treat the disease and leave your organs in place.,  Hysterectomy  is surgery to remove your uterus, fallopian tubes, and ovaries. Having both your ovaries removed means entering menopause. You would only have this surgery if you have severe symptoms which did not get better with other treatments and do not want to become pregnant in the future. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001390-6" qtype="outlook">What is the outlook for Endometriosis ?</Question>
+			<Answer>There is no cure for endometriosis. Hormone therapy can help relieve symptoms, but symptoms often return when therapy is stopped. Surgical treatment may help relieve symptoms for years. However, not all women with endometriosis are helped by these treatments. Once you enter menopause, endometriosis is unlikely to cause problems.&#160;</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001390-7" qtype="complications">What are the complications of Endometriosis ?</Question>
+			<Answer>Endometriosis can lead to problems getting pregnant. However, most women with mild symptoms can still get pregnant. Laparoscopy to remove growths and scar tissue may help improve your chances of becoming pregnant. If it does not, you may want to consider fertility treatments. Other complications of endometriosis include: Long-term pelvic pain that interferes with social and work activities, Large cysts in the ovaries and pelvis that may break open (rupture),  In rare cases, endometriosis tissue may block the intestines or urinary tract.  Very rarely, cancer may develop in the areas of tissue growth after menopause.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001390-8" qtype="when to contact a medical professional">Do I need to see a doctor for Endometriosis ?</Question>
+			<Answer>Contact your provider if: You have symptoms of endometriosis, Feel dizzy or lightheaded due to heavy menstrual blood loss, Back pain or other symptoms reoccurring after endometriosis is treated ,  You may want to get screened for endometriosis if:  Your mother or sister has the disease, You are unable to become pregnant after trying for 1 year , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001390-9" qtype="prevention">How to prevent Endometriosis ?</Question>
+			<Answer>Birth control pills may help to prevent or slow down the development of the endometriosis. Birth control pills used as treatment for endometriosis work best when taken continuously and not stopped to allow a menstrual period. They may be used for young women in late adolescence or early 20s with painful periods that may be due to endometriosis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

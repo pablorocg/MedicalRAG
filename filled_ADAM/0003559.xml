@@ -1,0 +1,52 @@
+<Document id="0003559" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000039.htm">
+ 
+<Focus>Shock</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0036974</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003559-1" qtype="information">What is (are) Shock ?</Question>
+			<Answer>Shock is a life-threatening condition that occurs when the body is not getting enough blood flow. Lack of blood flow means the cells and organs do not get enough oxygen and nutrients to function properly. Many organs can be damaged as a result. Shock requires immediate treatment and can get worse very rapidly. As many as 1 in 5 people in shock will die from it. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003559-2" qtype="considerations">What to do for Shock ?</Question>
+			<Answer>The main types of shock include: Cardiogenic shock  (due to heart problems),  Hypovolemic shock  (caused by too little blood volume),  Anaphylactic shock  (caused by allergic reaction),  Septic shock  (due to infections), Neurogenic shock (caused by damage to the nervous system) , Obstructive shock (caused by something outside of the heart which prevents the heart from pumping enough blood), </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003559-3" qtype="causes">What causes Shock ?</Question>
+			<Answer>Shock can be caused by any condition that reduces blood flow, including: Heart problems (such as  heart attack  or  heart failure ), Low blood volume (as with heavy  bleeding  or  dehydration ), Changes in blood vessels (as with infection or  severe allergic reactions ), Certain medicines that significantly reduce heart function or blood pressure , Slow heart rates and changes in blood vessel tone from spinal injuries, A  collapsed lung  (pneumothorax),  Shock is often associated with heavy external or internal bleeding from a serious injury. Toxic shock syndrome  is an example of shock that is caused by an infection.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003559-4" qtype="symptoms">What are the symptoms of Shock ?</Question>
+			<Answer>A person in shock has extremely low blood pressure. Depending on the specific cause and type of shock, symptoms will include one or more of the following: Anxiety  or agitation/restlessness,  Bluish lips and fingernails ,  Chest pain ,  Confusion ,  Dizziness , lightheadedness, or  faintness , Pale, cool, clammy skin,  Low or no urine output ,  Profuse sweating , moist skin, Rapid but weak pulse,  Shallow breathing , Being
+    unconscious  (unresponsive)
+   , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003559-5" qtype="considerations">What to do for Shock ?</Question>
+			<Answer>The main types of shock include: Cardiogenic shock  (due to heart problems),  Hypovolemic shock  (caused by too little blood volume),  Anaphylactic shock  (caused by allergic reaction),  Septic shock  (due to infections), Neurogenic shock (caused by damage to the nervous system) , Obstructive shock (caused by something outside of the heart which prevents the heart from pumping enough blood), </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003559-6" qtype="considerations">What to do for Shock ?</Question>
+			<Answer>The main types of shock include: Cardiogenic shock  (due to heart problems),  Hypovolemic shock  (caused by too little blood volume),  Anaphylactic shock  (caused by allergic reaction),  Septic shock  (due to infections), Neurogenic shock (caused by damage to the nervous system) , Obstructive shock (caused by something outside of the heart which prevents the heart from pumping enough blood), </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003559-7" qtype="when to contact a medical professional">Do I need to see a doctor for Shock ?</Question>
+			<Answer>Call 911 or the local emergency number any time a person has symptoms of shock. Stay with the person and follow the first aid steps until medical help arrives.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003559-8" qtype="prevention">How to prevent Shock ?</Question>
+			<Answer>Learn ways to prevent  heart disease , falls, injuries,  dehydration , and other causes of shock. If you have a known allergy (for example, to insect bites or stings), carry an epinephrine pen. Your health care provider will teach you how and when to use it.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

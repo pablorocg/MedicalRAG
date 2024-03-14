@@ -1,0 +1,63 @@
+<Document id="0001676" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000620.htm">
+ 
+<Focus>Gas gangrene</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017105</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Tissue infection - Clostridial</Synonym>
+		<Synonym>Gangrene - gas</Synonym>
+		<Synonym>Myonecrosis</Synonym>
+		<Synonym>Clostridial infection of tissues</Synonym>
+		<Synonym>Necrotizing soft tissue infection</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001676-1" qtype="information">What is (are) Gas gangrene ?</Question>
+			<Answer>Gas gangrene is a potentially deadly form of tissue death ( gangrene ).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001676-2" qtype="causes">What causes Gas gangrene ?</Question>
+			<Answer>Gas gangrene is most often caused by bacteria called  Clostridium perfringens.  It also can be caused by group A streptococcus,  Staphylococcus aureus,  and  Vibrio vulnificus . Clostridium is found nearly everywhere. As the bacteria grow inside the body, it emits gas and harmful substances (toxins) that can damage body tissues, cells, and blood vessels. Gas gangrene develops suddenly. It usually occurs at the site of trauma or a recent surgical wound. In some cases, it occurs without an irritating event. People most at risk for gas gangrene usually have blood vessel disease ( atherosclerosis , or hardening of the arteries), diabetes, or colon cancer.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001676-3" qtype="symptoms">What are the symptoms of Gas gangrene ?</Question>
+			<Answer>Gas gangrene causes very painful swelling. The skin turns pale to brownish-red. When the swollen area is pressed, gas can be felt (and sometimes&#160;heard)&#160;as a crackly sensation (crepitus). The edges of the infected area grow so quickly that changes can be seen over minutes. The area may be completely destroyed. Symptoms include: Air under the skin ( subcutaneous emphysema ), Blisters filled with brown-red fluid, Drainage from the tissues, foul-smelling brown-red or bloody fluid ( serosanguineous  discharge), Increased heart rate ( tachycardia ), Moderate to high fever, Moderate to severe pain around a skin injury, Pale skin color, later becoming dusky and changing to dark red or purple, Swelling that worsens around a skin injury, Sweating,  Vesicle  formation, combining into large blisters, Yellow color to the skin (jaundice) ,  If the condition is not treated, the person can go into  shock  with decreased blood pressure (hypotension),  kidney failure , coma, and finally death.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001676-4" qtype="exams and tests">How to diagnose Gas gangrene ?</Question>
+			<Answer>The health care provider will perform a physical exam. This may reveal signs of shock.  Tests that may be done include:  Tissue and fluid cultures to test for bacteria including clostridial species, Blood culture to determine the bacteria causing the infection, Gram stain of fluid from the infected area,  X-ray ,  CT  scan, or  MRI  of the area, which may show gas in the tissues, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001676-5" qtype="treatment">What are the treatments for Gas gangrene ?</Question>
+			<Answer>Surgery is needed quickly to remove dead, damaged, and infected tissue. Surgical removal (amputation) of an arm or leg may be needed to control the spread of infection. Amputation sometimes must be done before all test results are available. Antibiotics are also given. These medicines are given through a vein (intravenously). Pain medicines may also be prescribed.  In some cases,  hyperbaric oxygen treatment  may be tried.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001676-6" qtype="outlook">What is the outlook for Gas gangrene ?</Question>
+			<Answer>Gas gangrene usually begins suddenly and quickly gets worse. It is often deadly.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001676-7" qtype="complications">What are the complications of Gas gangrene ?</Question>
+			<Answer>Complications that may result include: Coma,  Delirium , Disfiguring or disabling permanent tissue damage, Jaundice with liver damage, 
+   Kidney failure
+   , Shock, Spread of infection through the body (sepsis),  Stupor , Death, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001676-8" qtype="when to contact a medical professional">Do I need to see a doctor for Gas gangrene ?</Question>
+			<Answer>This is an emergency condition requiring immediate medical attention. Contact your provider if you have signs of infection around a skin wound. Go to the emergency room or call the local emergency number (such as 911), if you have symptoms of gas gangrene.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001676-9" qtype="prevention">How to prevent Gas gangrene ?</Question>
+			<Answer>Clean any skin injury thoroughly. Watch for signs of infection (such as redness, pain, drainage, or swelling around a wound). See your provider promptly if these occur.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

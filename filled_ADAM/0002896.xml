@@ -1,0 +1,16 @@
+<Document id="0002896" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000891.htm">
+ 
+<Focus>Outdoor fitness routine</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Exercise - outdoors</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002896-1" qtype="information">Do you have information about Outdoor fitness routine</Question>
+			<Answer>Getting exercise does not have to mean going indoors to the gym. You can get a full workout in your own backyard, local playground, or park.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

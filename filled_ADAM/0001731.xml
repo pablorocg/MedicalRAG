@@ -1,0 +1,73 @@
+<Document id="0001731" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000733.htm">
+ 
+<Focus>Gilles de la Tourette syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0040517</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Tourette syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001731-1" qtype="information">What is (are) Gilles de la Tourette syndrome ?</Question>
+			<Answer>Tourette syndrome is a condition that causes a person to make repeated, quick movements or sounds that they cannot control.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001731-2" qtype="causes">What causes Gilles de la Tourette syndrome ?</Question>
+			<Answer>Tourette syndrome is named for Georges Gilles de la Tourette, who first described this disorder in 1885. The disorder is likely passed down through families. The syndrome may be linked to problems in certain areas of the brain. It may have to do with chemical substances (dopamine, serotonin, and norepinephrine) that help nerve cells signal one another. Tourette syndrome can be either severe or mild. Many people with very mild tics may not be aware of them and never seek medical help. Far fewer people have more severe forms of Tourette syndrome. Tourette syndrome is 4 times as likely to occur in boys as in girls. There is a 50% chance that a person with Tourette syndrome will pass the gene onto his or her children, although the children may have no or fewer symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001731-3" qtype="symptoms">What are the symptoms of Gilles de la Tourette syndrome ?</Question>
+			<Answer>Symptoms of Tourette syndrome are often first noticed during childhood, between ages 7 and 10. Most children with Tourette syndrome also have other medical problems. These can include  attention deficit hyperactivity disorder (ADHD) ,  obsessive compulsive disorder (OCD) , impulse control disorder, or depression. The most common first symptom is a tic of the face. Other tics may follow. A tic is a sudden, fast, repeated movement or sound. Symptoms of Tourette syndrome can range from tiny, minor movements (such as grunts, sniffling, or coughing) to constant movements and sounds that cannot be controlled. Different types of tics can include: 
+   Arm thrusting
+   , 
+   Eye blinking
+   , 
+   Jumping
+   , 
+   Kicking
+   , 
+   Repeated throat clearing or sniffing
+   , 
+   Shoulder shrugging
+   ,  Tics may occur many times a day. They tend to improve or get worse at different times. The tics may change with time. Symptoms often get worse before the mid-teen years. Contrary to popular belief, only a small number of people use curse words or other inappropriate words or phrases (coprolalia). Tourette syndrome is different from OCD. People with OCD feel as though they have to do the behaviors. Sometimes a person can have both Tourette syndrome and OCD. Many people with Tourette syndrome can stop doing the tic for periods of time. But they find that the tic is stronger for a few minutes after they allow it to start again. Often, the tic slows or stops during sleep.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001731-4" qtype="exams and tests">How to diagnose Gilles de la Tourette syndrome ?</Question>
+			<Answer>There are no lab tests to diagnose Tourette syndrome. A health care provider will likely do an examination to rule out other causes of the symptoms. To be diagnosed with Tourette syndrome, a person must: Have had many motor tics and one or more vocal tics, although these tics may not have occurred at the same time., Have tics that occur many times a day, nearly every day or on and off, for a period of more than 1 year.&#160;, Have started the tics before age 18., Have no other brain problem or taking medicines that could be a likely cause of the symptoms. , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001731-5" qtype="treatment">What are the treatments for Gilles de la Tourette syndrome ?</Question>
+			<Answer>People who have mild symptoms are not treated. This is because the side effects of the medicines may be worse than the symptoms of Tourette syndrome. A type of talk therapy (cognitive behavioral therapy) called habit-reversal may help to suppress tics. Different medicines are available to treat Tourette syndrome. The exact medicine that is used depends on the symptoms and any other medical problems. Ask your provider if deep brain stimulation is an option for you. It is being evaluated for the main symptoms of Tourette syndrome and the obsessive-compulsive behaviors. The treatment is not recommended when these symptoms occur in the same person.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001731-6" qtype="support groups">Where to find support for people with Gilles de la Tourette syndrome ?</Question>
+			<Answer>More information and support for people with Tourette syndrome and their families can be found at: Tourette Association of America --  tourette.org/online-support-groups-tourette-syndrome/ , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001731-7" qtype="outlook">What is the outlook for Gilles de la Tourette syndrome ?</Question>
+			<Answer>Symptoms are often worst during the teenage years and then improve in early adulthood. In some people, symptoms go away entirely for a few years and then return. In a few people, symptoms do not return at all.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001731-8" qtype="complications">What are the complications of Gilles de la Tourette syndrome ?</Question>
+			<Answer>Conditions that may occur in people who have Tourette syndrome include: Anger control issues, Attention deficit hyperactivity disorder (ADHD), Impulsive behavior, Obsessive-compulsive disorder, Poor social skills,  These conditions need to be diagnosed and treated.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001731-9" qtype="when to contact a medical professional">Do I need to see a doctor for Gilles de la Tourette syndrome ?</Question>
+			<Answer>Make an appointment with your provider if you or child has tics that are severe or persistent, or if they interfere with daily life.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0001731-10" qtype="prevention">How to prevent Gilles de la Tourette syndrome ?</Question>
+			<Answer>There is no known prevention. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,57 @@
+<Document id="0002171" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000072.htm">
+ 
+<Focus>Industrial bronchitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0264422</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Occupational bronchitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002171-1" qtype="information">What is (are) Industrial bronchitis ?</Question>
+			<Answer>Industrial  bronchitis  is swelling (inflammation) of the large airways of the lungs that occurs in some people who work around certain dusts, fumes, smoke, or other substances.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002171-2" qtype="causes">What causes Industrial bronchitis ?</Question>
+			<Answer>Exposure to dusts, fumes, strong acids, and other chemicals in the air causes this type of bronchitis. Smoking may also contribute. You may be at risk if you are exposed to dusts that contain: Asbestos, Coal, Cotton, Flax, Latex, Metals, Silica, Talc, Toluene diisocyanate, Western red cedar, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002171-3" qtype="symptoms">What are the symptoms of Industrial bronchitis ?</Question>
+			<Answer>Symptoms may include any of the following: Cough that brings up mucus (sputum),  Shortness of breath ,  Wheezing , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002171-4" qtype="exams and tests">How to diagnose Industrial bronchitis ?</Question>
+			<Answer>The health care provider will listen to your lungs using a stethoscope. Wheezing sounds or crackles may be heard. Tests that may be ordered include: Chest CT scan ,  Chest x-ray ,  Pulmonary function tests  (to measure breathing capacity and how well the lungs are functioning), Pulse oximetry or arterial blood gases, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002171-5" qtype="treatment">What are the treatments for Industrial bronchitis ?</Question>
+			<Answer>The goal of treatment is to reduce the irritation. Getting more air into the workplace or wearing masks to filter out the offending dust particles may help. Some people may need to be taken out of the workplace. Some cases of industrial bronchitis go away without treatment. Other times, a person may need inhaled anti-inflammatory medicines. If you are at risk or have experienced this problem and you smoke, stop smoking. Helpful measures include: Breathing humidified air, Increasing fluid intake, Resting, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002171-6" qtype="outlook">What is the outlook for Industrial bronchitis ?</Question>
+			<Answer>The outcome may be good as long as you can stop being exposed to the irritant.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002171-7" qtype="complications">What are the complications of Industrial bronchitis ?</Question>
+			<Answer>Continued exposure to irritating gases, fumes, or other substances can lead to permanent lung damage.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002171-8" qtype="when to contact a medical professional">Do I need to see a doctor for Industrial bronchitis ?</Question>
+			<Answer>Contact your provider if you are regularly exposed to dusts, fumes, strong acids, or other chemicals that can affect the lungs and you develop symptoms of bronchitis.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002171-9" qtype="prevention">How to prevent Industrial bronchitis ?</Question>
+			<Answer>Control dust in industrial settings by wearing face masks and protective clothing, and by treating textiles. Stop smoking if you are at risk. Get early screening by a doctor if you are exposed to chemicals that can cause this condition. If you think a chemical you work with is affecting your breathing, ask your employer for a copy of the Material Safety Data Sheet. Bring it with you to your provider.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

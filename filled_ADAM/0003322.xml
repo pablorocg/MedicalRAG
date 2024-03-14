@@ -1,0 +1,55 @@
+<Document id="0003322" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000300.htm">
+ 
+<Focus>Radiation enteritis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0259795</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Radiation enteropathy</Synonym>
+		<Synonym>Radiation-induced small bowel injury</Synonym>
+		<Synonym>Post-radiation enteritis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003322-1" qtype="information">What is (are) Radiation enteritis ?</Question>
+			<Answer>Radiation  enteritis  is damage to the lining of the intestines (bowels) caused by  radiation therapy , which is used for some types of cancer treatment.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003322-2" qtype="causes">What causes Radiation enteritis ?</Question>
+			<Answer>Radiation therapy uses high-powered x-rays, particles, or radioactive seeds to kill cancer cells. The therapy may also damage healthy cells in the lining of the intestines. People who have radiation therapy to the belly or pelvic area are at risk. These may include people with cervical, pancreatic, prostate, uterine, or colon or rectal cancer.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003322-3" qtype="symptoms">What are the symptoms of Radiation enteritis ?</Question>
+			<Answer>Symptoms may vary, depending on which part of the intestines received the radiation. Symptoms can be worse if: You have chemotherapy at the same time as the radiation., You receive stronger doses of radiation., A larger area of your intestines receives radiation.,  Symptoms may occur during or shortly after or long after radiation treatment. Changes in bowel movements may include: Bleeding or mucus from the rectum, Diarrhea or watery stools, Feeling the need to have a bowel movement most or all of the time, Pain in the rectal area, especially during bowel movements ,  Other symptoms can include: Loss of appetite, Nausea and vomiting ,  Most of the time, these symptoms get better within 2 to 3 months after radiation treatment ends. However, the condition may occur months or years after radiation therapy. When symptoms become long-term (chronic), other problems may include: Abdominal pain, Bloody diarrhea, Greasy or fatty stools, Weight loss , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003322-4" qtype="exams and tests">How to diagnose Radiation enteritis ?</Question>
+			<Answer>The health care provider will do a physical exam and ask about your medical history. Tests may include: Sigmoidoscopy  or  colonoscopy ,  Upper endoscopy , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003322-5" qtype="treatment">What are the treatments for Radiation enteritis ?</Question>
+			<Answer>Starting a low-fiber diet on the first day of radiation treatment may help you avoid problems. The best choice of foods depends on your symptoms.  Some things can make symptoms worse, and should be avoided. These include:  Alcohol and tobacco, Almost all milk products, Coffee, tea, chocolate, and sodas with caffeine, Foods containing whole bran, Fresh and dried fruits, Fried, greasy, or fatty foods, Nuts and seeds, Popcorn, potato chips, and pretzels, Raw vegetables, Rich pastries and baked goods, Some fruit juices, Strong spices ,  Foods and drinks that are better choices include: Apple or grape juice, Applesauce, peeled apples, and bananas, Eggs, buttermilk, and yogurt, Fish, poultry, and meat that has been broiled or roasted, Mild, cooked vegetables, such as asparagus tips, green or black beans, carrots, spinach, and squash, Potatoes that have been baked, boiled, or mashed, Processed cheeses, such as American cheese, Smooth peanut butter, White bread, macaroni, or noodles ,  Your provider may have you use certain medicines such as: Drugs that help decrease diarrhea, such as loperamide, Pain medicines, Steroid foam that coats the lining of the rectum, Special enzymes to replace enzymes from the pancreas, Oral 5-aminosalicylates or metronidazole, Rectal installation with hydrocortisone, sucralfate, 5-aminosalicylates,  Other things you can do include: Eat foods at room temperature., Eat small meals more often., Drink plenty of fluids, up to 12 8-ounce (240 milliliter) glasses every day when you have diarrhea. Some people will need fluids given through a vein (intravenous fluids).,  Your provider may choose to decrease your radiation for a short period of time. There often are no good treatments for chronic radiation enteritis that is more severe. Medicines such as cholestyramine, diphenoxylate-atropine, loperamide, or sucralfate may help., Thermal therapy (argon laser probe, plasma coagulation, heater probe)., You may need to consider surgery to either remove or go around (bypass) a section of damaged intestine., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003322-6" qtype="outlook">What is the outlook for Radiation enteritis ?</Question>
+			<Answer>When the abdomen receives radiation, there is always some nausea, vomiting, and diarrhea. In most cases, the symptoms get better within 2 to 3&#160;months after treatment ends. However, when this condition develops, symptoms may last for a long period of time. Long-term (chronic) enteritis is rarely curable.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003322-7" qtype="complications">What are the complications of Radiation enteritis ?</Question>
+			<Answer>Complications may include: Bleeding and  anemia ,  Dehydration , Iron deficiency,  Malabsorption ,  Malnutrition , Weight loss , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003322-8" qtype="when to contact a medical professional">Do I need to see a doctor for Radiation enteritis ?</Question>
+			<Answer>Contact your provider if you are having radiation therapy or have had it in the past and are having a lot of diarrhea or stomach pain and cramping.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

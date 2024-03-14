@@ -1,0 +1,62 @@
+<Document id="0004317" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000785.htm">
+ 
+<Focus>Wilson disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019202</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Wilson's disease</Synonym>
+		<Synonym>Hepatolenticular degeneration</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004317-1" qtype="information">What is (are) Wilson disease ?</Question>
+			<Answer>Wilson disease is an inherited disorder in which there is too much copper in the body's tissues. The excess copper damages the liver and nervous system. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004317-2" qtype="causes">What causes Wilson disease ?</Question>
+			<Answer>Wilson disease is a rare inherited disorder. If both parents carry a defective gene for Wilson disease, there is a 25% chance in each pregnancy that the child will have the disorder. Wilson disease causes the body to take in and keep too much copper. The copper deposits in the liver, brain, kidneys, and eyes. This causes tissue damage, tissue death, and scarring. The affected organs stop working normally. This condition is most common in eastern Europeans, Sicilians, and southern Italians, but it may occur in any group. Wilson disease symptoms typically appears in people under 40 years old. In children, the symptoms begin to show by age 4.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004317-3" qtype="symptoms">What are the symptoms of Wilson disease ?</Question>
+			<Answer>Symptoms may include: Abnormal posture of arms and legs, Arthritis,  Confusion  or  delirium ,  Dementia , Difficulty moving arms and legs, stiffness,  Difficulty walking  (ataxia), Emotional or behavioral changes, Enlargement of the abdomen due to accumulation of fluid (ascites), Personality changes,  Phobias ,  Slow movements , Slow or decreased movement and expressions of the face, Speech impairment,  Tremors of the arms or hands ,  Uncontrollable movement ,  Unpredictable and jerky movement ,  Vomiting blood ,  Weakness , Yellow skin (jaundice) or yellow color of the white of the eye (icterus), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004317-4" qtype="exams and tests">How to diagnose Wilson disease ?</Question>
+			<Answer>A slit-lamp eye exam may show: Limited eye movement, Rusty or brown-colored ring around the iris (Kayser-Fleischer rings),  A physical exam may show signs of: Damage to the central nervous system, including loss of coordination, loss of muscle control, muscle tremors, loss of thinking and IQ, loss of memory, and confusion (delirium or dementia), Liver or spleen disorders (including hepatomegaly and&#160; splenomegaly ),  Lab tests may include: Complete blood count ( CBC ),  Serum ceruloplasmin , Serum copper, Serum  uric acid , Urine copper,  If there are liver problems, lab tests may find: High  AST  and  ALT , High  bilirubin , High  PT  and  PTT , Low blood&#160; albumin ,  Other tests may include: 24-hour urine copper test ,  Abdominal x-ray ,  Abdominal MRI ,  CT scan of the abdomen ,  Head CT scan ,  Head MRI ,  Liver biopsy , Upper GI endoscopy,  The gene that causes Wilson disease has been found. It is called  ATP7B . DNA testing is available for this gene. Talk to your health care provider or a genetic counselor to learn if you should have gene testing performed.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004317-5" qtype="treatment">What are the treatments for Wilson disease ?</Question>
+			<Answer>The goal of treatment is to reduce the amount of copper in the tissues. This is done by a procedure called chelation. Certain medicines are given that bind to copper and help remove it through the kidneys or gut. Treatment must be lifelong. The following medicines may be used: Penicillamine (such as Cuprimine, Depen) binds to copper and leads to increased release of copper in the urine., Trientine (such as Syprine) binds (chelates) the copper and increases its release through the urine., Zinc acetate (such as Galzin) blocks copper from being absorbed in the intestinal tract.&#160;,  Vitamin E supplements may also be used. Sometimes, medicines that chelate copper (such as penicillamine) can affect the function of the brain and nervous system (neurological function). Other medicines under investigation may bind copper without affecting neurological function. A low-copper diet may also be recommended. Foods to avoid include: Chocolate, Dried fruit, Liver, Mushrooms, Nuts, Shellfish,  You may want to drink distilled water because some tap water flows through copper pipes. Avoid using copper cooking utensils. Symptoms may be managed with exercise or physical therapy. People who are confused or unable to care for themselves may need special protective measures. A liver transplant may be considered in cases where the liver is severely damaged by the disease.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004317-6" qtype="support groups">Where to find support for people with Wilson disease ?</Question>
+			<Answer>More information and support for people with Wilson disease and their families can be found at: Wilson Disease Association: -  wilsondisease.org , Genetic Alliance: -  geneticalliance.org , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004317-7" qtype="outlook">What is the outlook for Wilson disease ?</Question>
+			<Answer>Lifelong treatment is needed to control Wilson disease. The disorder may cause fatal effects, such as loss of liver function. Copper can have toxic effects on the nervous system. In cases where the disorder is not fatal, symptoms may be disabling.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004317-8" qtype="complications">What are the complications of Wilson disease ?</Question>
+			<Answer>Complications may include: Anemia  ( hemolytic anemia  is rare), Central nervous system complications, Cirrhosis, Death of liver tissues, Fatty liver,  Hepatitis , Increased chances of bone fractures, Increased number of infections, Injury caused by falls, Jaundice, Joint  contractures  or other deformity, Loss of ability to care for self, Loss of ability to function at work and home, Loss of ability to interact with other people, Loss of muscle mass (muscle atrophy), Psychological complications, Side effects of penicillamine and other medicines used to treat the disorder, Spleen problems ,  Liver failure and damage to the central nervous system (brain, spinal cord) are the most common and dangerous effects of the disorder. If the disease is not caught and treated early, it can be fatal.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0004317-9" qtype="when to contact a medical professional">Do I need to see a doctor for Wilson disease ?</Question>
+			<Answer>Contact your provider if you have symptoms of Wilson disease. Contact a genetic counselor if you have a history of Wilson disease in your family and you are planning to have children.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0004317-10" qtype="prevention">How to prevent Wilson disease ?</Question>
+			<Answer>Genetic counseling is recommended for people with a family history of Wilson disease.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

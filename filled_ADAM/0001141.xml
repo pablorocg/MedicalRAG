@@ -1,0 +1,16 @@
+<Document id="0001141" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000779.htm">
+ 
+<Focus>Dental sealants</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Pit and fissure sealants</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001141-1" qtype="information">Do you have information about Dental sealants</Question>
+			<Answer>Dental sealants are a thin resin coating that dentists apply to the grooves of the permanent back teeth, the molars and premolars. Sealants are applied to help prevent cavities.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

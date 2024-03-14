@@ -1,0 +1,56 @@
+<Document id="0002720" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007307.htm">
+ 
+<Focus>Myocarditis - pediatric</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027059</CUI>
+			<CUI>C1962971</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002720-1" qtype="information">What is (are) Myocarditis - pediatric ?</Question>
+			<Answer>Pediatric myocarditis is inflammation of the heart muscle in an infant or young child.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002720-2" qtype="causes">What causes Myocarditis - pediatric ?</Question>
+			<Answer>Myocarditis is rare in young children. It is slightly more common in older children and adults. It is often worse in newborns and young infants than in children over age 2. Most cases in children are caused by a virus that reaches the heart. These can include: Influenza (flu)  virus, Coxsackie virus, Parovirus, Adenovirus, SARS-CoV-2 virus (the virus that causes  COVID-19) ,   It may also be caused by bacterial infections such as  Lyme disease . Other causes of pediatric myocarditis include: Allergic reactions to certain medicines, Exposure to chemicals in the environment, Infections due to fungus or parasites, Radiation, Some diseases (autoimmune disorders) that cause inflammation throughout the body, Some drugs ,  Myocarditis following COVID-19 vaccination has been reported, but is very rare. The heart muscle may be directly damaged by the virus or the bacteria that infect it. The body's immune response can also damage the heart muscle (called the myocardium) in the process of fighting the infection. This can lead to symptoms of heart failure.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002720-3" qtype="symptoms">What are the symptoms of Myocarditis - pediatric ?</Question>
+			<Answer>Symptoms may be mild at first and hard to detect. Sometimes in newborns and infants, symptoms may appear suddenly. Symptoms may include: Anxiousness,  Failure to thrive  or poor weight gain, Feeding difficulties, Fever and other symptoms of infection, Listlessness, Low urine output (a sign of decreasing kidney function), Pale, cool hands and feet (a sign of poor circulation),  Rapid breathing , Rapid heart rate ,  Symptoms in children over age 2 may also include: Belly area pain and nausea, Chest pain, Cough, Fatigue, Shortness of breath, Swelling (edema) in the legs, feet, and face , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002720-4" qtype="exams and tests">How to diagnose Myocarditis - pediatric ?</Question>
+			<Answer>Pediatric myocarditis can be hard to diagnose because the signs and symptoms often mimic those of other heart and lung diseases, or a bad case of the flu. The health care provider may hear a rapid heartbeat or abnormal heart sounds while listening to the child's chest with a stethoscope. A physical exam may show: Fluid in the lungs and swelling in the legs in older children., Signs of infection, including fever and rashes.,  A chest x-ray can show enlargement (swelling) of the heart. If the provider suspects myocarditis based on the exam and chest x-ray, an electrocardiogram may also be done to help make the diagnosis. Other tests that may be needed include: Blood cultures to check for infection, Blood tests to look for antibodies against viruses or the heart muscle itself, Blood tests to check liver and kidney function,  Complete blood count , Heart biopsy (the most accurate way to confirm the diagnosis, but not always needed), Special tests to check for the presence of viruses in the blood (viral PCR) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002720-5" qtype="treatment">What are the treatments for Myocarditis - pediatric ?</Question>
+			<Answer>There is no cure for myocarditis. The heart muscle inflammation will often go away on its own.  The goal of treatment is to support heart function until the inflammation goes away. Many children with this condition are admitted to a hospital. Activity often needs to be limited while the heart is inflamed because it can strain the heart. Treatment may include: Antibiotics to fight bacterial infection, Anti-inflammatory medicines called steroids to control inflammation, Intravenous immunoglobulin (IVIG), a medicine made of substances (called antibodies) that the body produces to fight infection, to control the inflammatory process, Mechanical support using a machine to help the heart function (in extreme cases), Medicines to treat symptoms of heart failure, Medicines to treat abnormal heart rhythms , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002720-6" qtype="outlook">What is the outlook for Myocarditis - pediatric ?</Question>
+			<Answer>Recovery from myocarditis depends on the cause of the problem and the child's overall health. Most children recover completely with proper treatment. However, some may have permanent heart disease. Newborns have the highest risk for serious disease and complications (including death) due to myocarditis. In rare cases, severe damage to the heart muscle requires a heart transplant. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002720-7" qtype="complications">What are the complications of Myocarditis - pediatric ?</Question>
+			<Answer>Complications may include: Enlargement of the heart that leads to reduced heart function (dilated cardiomyopathy), Heart failure, Heart rhythm problems , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002720-8" qtype="when to contact a medical professional">Do I need to see a doctor for Myocarditis - pediatric ?</Question>
+			<Answer>Contact your child's pediatrician if signs or symptoms of this condition occur.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002720-9" qtype="prevention">How to prevent Myocarditis - pediatric ?</Question>
+			<Answer>There is no known prevention. However, prompt testing and treatment may&#160;reduce the disease risk. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

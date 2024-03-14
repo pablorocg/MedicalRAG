@@ -1,0 +1,25 @@
+<Document id="0002845" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002042.htm">
+ 
+<Focus>Oily hair</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0277961</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hair - oily</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002845-1" qtype="information">What is (are) Oily hair ?</Question>
+			<Answer>Here are some tips for preventing and treating oily hair: Shampoo your hair every day. Leaving the shampoo on your head for at least 5 minutes before rinsing may help., Avoid brushing your hair too often or too vigorously, since the brushing will carry oil from your scalp to the ends of your hair.,  Hormones affect oil production. Things that affect your hormone levels (such as stress or birth control pills) may also affect the oiliness of your hair.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

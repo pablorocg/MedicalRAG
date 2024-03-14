@@ -1,0 +1,55 @@
+<Document id="0003694" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001338.htm">
+ 
+<Focus>Sporotrichosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038034</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003694-1" qtype="information">What is (are) Sporotrichosis ?</Question>
+			<Answer>Sporotrichosis is a long-term ( chronic ) skin infection that is caused by a fungus called  Sporothrix schenckii .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003694-2" qtype="causes">What causes Sporotrichosis ?</Question>
+			<Answer>Sporothrix schenckii  is found in plants. Infection commonly occurs when the skin is broken while handling plant material such as rosebushes, briars, or dirt that contains a lot of mulch. Sporotrichosis can be a job-related disease for people who work with plants, such as farmers, horticulturists, rose gardeners, and plant nursery workers. Widespread (disseminated) sporotrichosis can develop in people with a weakened immune system when they inhale dust filled with spores of the fungus.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003694-3" qtype="symptoms">What are the symptoms of Sporotrichosis ?</Question>
+			<Answer>Symptoms include a small, painless, red lump that develops at the site of infection. As time passes, this lump will turn into an  ulcer  (sore). The lump may develop up to 3 months after an injury. Most sores are on the hands and forearms because these areas are commonly injured when handling plants. The fungus follows the channels in your body's lymph system. Small ulcers appear as lines on the skin as the infection moves up an arm or leg. These sores do not heal unless they are treated, and they may last for years. The ;sores may sometimes drain small amounts of pus. Body-wide (systemic) sporotrichosis can cause lung and breathing problems, bone infection, arthritis, and infection of the nervous system.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003694-4" qtype="exams and tests">How to diagnose Sporotrichosis ?</Question>
+			<Answer>The health care provider will examine you and ask about your symptoms. The examination will show the typical sores caused by the fungus. Sometimes, a small sample of affected tissue is removed, examined under a microscope, and tested in a lab to identify the fungus.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003694-5" qtype="treatment">What are the treatments for Sporotrichosis ?</Question>
+			<Answer>The skin infection is often treated with an antifungal medicine called itraconazole. It is taken by mouth and continued for 2 to 4 weeks after the skin sores have cleared. You may have to take the medicine for 3 to 6 months. A medicine called terbinafine may be used instead of itraconazole. Infections that have spread or affect the entire body are often treated with amphotericin B, or sometimes itraconazole. Therapy for systemic disease can last up to 12 months.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003694-6" qtype="outlook">What is the outlook for Sporotrichosis ?</Question>
+			<Answer>With treatment, full recovery is likely. Disseminated sporotrichosis is more difficult to treat and requires several months of therapy. Disseminated sporotrichosis can be life threatening for people with a&#160;weakened immune system.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003694-7" qtype="complications">What are the complications of Sporotrichosis ?</Question>
+			<Answer>People with a healthy immune system may have: Discomfort, Secondary skin infections (such as staph or strep),  People with a  weakened immune system  may develop: Arthritis, Bone infection, Complications from medicines -- amphotericin B can have serious side effects, including kidney damage, Lung and breathing problems (such as  pneumonia ), 
+ Brain infection ( meningitis ), Widespread (disseminated) disease, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003694-8" qtype="when to contact a medical professional">Do I need to see a doctor for Sporotrichosis ?</Question>
+			<Answer>Make an appointment with your provider if you develop persistent  skin lumps  or skin ulcers that do not go away. Tell your provider if you know that you were exposed to plants from gardening.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003694-9" qtype="prevention">How to prevent Sporotrichosis ?</Question>
+			<Answer>People with a weakened immune system should try to reduce risk for skin injury. Wearing thick gloves while gardening can help.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

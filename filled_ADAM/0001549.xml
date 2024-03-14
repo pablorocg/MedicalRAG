@@ -1,0 +1,53 @@
+<Document id="0001549" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001020.htm">
+ 
+<Focus>Farsightedness</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020490</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hyperopia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001549-1" qtype="information">What is (are) Farsightedness ?</Question>
+			<Answer>Farsightedness is having a harder time seeing objects that are close than things that are far away. The term is often used to describe the need for reading glasses as you get older. However, the correct term for that condition is presbyopia. Although related, presbyopia and hyperopia (farsightedness) are different conditions. People with hyperopia will also develop presbyopia with age.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001549-2" qtype="causes">What causes Farsightedness ?</Question>
+			<Answer>Farsightedness is the result of the visual image being focused behind the  retina  rather than directly on it. It may be caused by the eyeball being too small or the focusing power being too weak. It can also be a combination of both. Farsightedness is often present from birth. However, children have a very flexible eye lens, which helps make up for the problem. As aging occurs, glasses or contact lenses may be needed to correct the vision. If you have family members who are farsighted, you are also more likely to become farsighted.  Watch this video about: Seeing</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001549-3" qtype="symptoms">What are the symptoms of Farsightedness ?</Question>
+			<Answer>Symptoms include: Aching eyes ,  Blurred vision &#160;when looking at&#160;close objects, Crossed eyes (strabismus) in some children, Eye strain, Headache while reading ,  Mild farsightedness may not cause any problems. However, you may need reading glasses sooner than people who do not have this condition. </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001549-4" qtype="exams and tests">How to diagnose Farsightedness ?</Question>
+			<Answer>A general eye exam to diagnose farsightedness may include the following tests: Eye movement testing, Glaucoma testing, Refraction test, Retinal examination,  Slit-lamp examination ,  Visual acuity , Cycloplegic refraction, a refraction test done with the eyes dilated,  This list is not all-inclusive. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001549-5" qtype="treatment">What are the treatments for Farsightedness ?</Question>
+			<Answer>Farsightedness is easily corrected with glasses or contact lenses. Surgery is available for correcting farsightedness in adults. This is an option for those who do not wish to wear glasses or contacts.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001549-6" qtype="outlook">What is the outlook for Farsightedness ?</Question>
+			<Answer>The outcome is expected to be good.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001549-7" qtype="complications">What are the complications of Farsightedness ?</Question>
+			<Answer>Farsightedness can be a risk factor for  glaucoma  and&#160;crossed eyes.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001549-8" qtype="when to contact a medical professional">Do I need to see a doctor for Farsightedness ?</Question>
+			<Answer>Call your health care provider or eye doctor if you have symptoms of farsightedness and you have not had a recent eye exam. Also, call if vision begins to get worse after you have been diagnosed with farsightedness. See a provider right away if you think you have farsightedness and you suddenly develop the following symptoms: Severe eye pain, Eye redness, Decreased vision, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,25 @@
+<Document id="0003678" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002185.htm">
+ 
+<Focus>Spinal injury - resources</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037937</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Resources - spinal injury</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003678-1" qtype="information">What is (are) Spinal injury - resources ?</Question>
+			<Answer>The following organizations are good resources for information on  spinal injury : National Institute of Neurological Disorders and Stroke --  www.ninds.nih.gov/health-information/disorders/spinal-cord-injury , Paralyzed Veterans of America --  www.pva.org , The Christopher and Dana Reeve Foundation --  www.christopherreeve.org , United Spinal Association --  unitedspinal.org , US National Library of Medicine, MedlinePlus --  medlineplus.gov/spinalcordinjuries.html , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

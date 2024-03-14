@@ -1,0 +1,22 @@
+<Document id="0001881" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007369.htm">
+ 
+<Focus>Heart pacemaker</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Cardiac pacemaker implantation</Synonym>
+		<Synonym>Artificial pacemaker</Synonym>
+		<Synonym>Permanent pacemaker</Synonym>
+		<Synonym>Internal pacemaker</Synonym>
+		<Synonym>Cardiac resynchronization therapy</Synonym>
+		<Synonym>CRT</Synonym>
+		<Synonym>Biventricular pacemaker</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001881-1" qtype="information">Do you have information about Heart pacemaker</Question>
+			<Answer>A pacemaker is a small, battery-operated device. This device senses when your heart is beating  too slowly . It sends a signal to your heart that makes your heart beat at the correct pace.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

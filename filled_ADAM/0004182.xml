@@ -1,0 +1,43 @@
+<Document id="0004182" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003158.htm">
+ 
+<Focus>Vaginal itching and discharge - Adult and adolescent</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0042256</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pruritus vulvae</Synonym>
+		<Synonym>Itching - vaginal area</Synonym>
+		<Synonym>Vulvar itching</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004182-1" qtype="information">What is (are) Vaginal itching and discharge - Adult and adolescent ?</Question>
+			<Answer>Vaginal discharge refers to secretions from the  vagina . The discharge may be: Thick, pasty, or thin, Clear, cloudy, bloody, white, yellow, or green, Odorless or have a bad odor,  Itching of the skin of the vagina and the surrounding area (vulva) may be present along with vaginal discharge. It can also occur on its own.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004182-2" qtype="causes">What causes Vaginal itching and discharge - Adult and adolescent ?</Question>
+			<Answer>Glands in the cervix and the walls of the vagina normally produce clear mucus. This is very common among women of childbearing age.  These secretions may turn white or yellow when exposed to the air., The amount of mucus produced varies during the menstrual cycle. This happens due to the change in hormone levels in the body. ,  The following factors can increase the amount of normal vaginal discharge: Ovulation (the release of an egg from your ovary in the middle of menstrual cycle), Pregnancy, Sexual excitement ,  Different types of infections may cause itching or an abnormal discharge in the vagina. Abnormal discharge means abnormal color (brown, green), and odor. It is associated with itching or irritation. These include: Infections spread during sexual contact. These include chlamydia, gonorrhea (GC), and trichomoniasis., Vaginal yeast infection, caused by a fungus., Normal bacteria that live in the vagina overgrow and cause a gray discharge and fishy odor. This is called bacterial vaginosis (BV). BV is not spread through sexual contact. ,  Other causes of vaginal discharge and itching may be: Menopause and low estrogen levels. This may lead to vaginal dryness and other symptoms ( atrophic vaginitis )., Forgotten tampon or foreign body. This may cause a foul odor., Chemicals found in detergents, fabric softeners, feminine sprays, ointments, creams, douches, and contraceptive foams or jellies or creams. This may irritate the vagina or the skin around the vagina.,  Less common causes include: Cancer of the vulva, cervix, vagina, uterus, or fallopian tubes, Skin conditions, such as desquamative vaginitis and  lichen planus , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004182-3" qtype="considerations">What to do for Vaginal itching and discharge - Adult and adolescent ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004182-4" qtype="when to contact a medical professional">Do I need to see a doctor for Vaginal itching and discharge - Adult and adolescent ?</Question>
+			<Answer>Contact your provider right away if: You have vaginal discharge, You have fever or pain in your pelvis or belly area, You may have been exposed to STIs,  Changes that could indicate a problem such as infection include: You have a sudden change in the amount, color, odor, or consistency of discharge., You have itching, redness, and swelling in the genital area., You think that your symptoms may be related to a medicine you are taking., You are concerned that you may have a STI or you are unsure if you have been exposed., You have symptoms that get worse or last longer than 1 week despite home care measures., You have blisters or other sores on your vagina or vulva. , You have burning with urination or other urinary symptoms. This may mean that you have a urinary tract infection., </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004182-5" qtype="outlook">What is the outlook for Vaginal itching and discharge - Adult and adolescent ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

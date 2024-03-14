@@ -1,0 +1,17 @@
+<Document id="0002217" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003867.htm">
+ 
+<Focus>Intracardiac electrophysiology study (EPS)</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Electrophysiology study - intracardiac</Synonym>
+		<Synonym>EPS - intracardiac</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002217-1" qtype="information">Do you have information about Intracardiac electrophysiology study (EPS)</Question>
+			<Answer>Intracardiac electrophysiology study (EPS) is a test to look at how well the heart's electrical signals are working. It is used to evaluate abnormal heartbeats or  heart rhythms .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

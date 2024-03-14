@@ -1,0 +1,53 @@
+<Document id="0003458" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001040.htm">
+ 
+<Focus>Salivary gland tumors</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0036095</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Tumor - salivary duct</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003458-1" qtype="information">What is (are) Salivary gland tumors ?</Question>
+			<Answer>Salivary gland tumors are abnormal cells growing in the gland or in the tubes (ducts) that drain the salivary glands.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003458-2" qtype="causes">What causes Salivary gland tumors ?</Question>
+			<Answer>The salivary glands are located around the mouth. They produce saliva, which moistens food to help with chewing and swallowing. Saliva also helps to protect teeth from decay. There are 3 main pairs of salivary glands. The parotid glands are the largest. They are located in each cheek in front of the ears. Two submandibular glands are under the floor of the mouth on both sides of the back of the jaw. Two sublingual glands are under the floor of the mouth next to the jaw on each side. There are also hundreds of small salivary glands lining the rest of the mouth. These are called the minor salivary glands. Salivary glands empty saliva into the mouth through ducts that open at various places in the mouth. Salivary gland tumors are rare. Swelling of the salivary glands is mostly due to: Cirrhosis of the liver , Other  cancers ,  Salivary duct stones ,  Salivary gland infections , Dehydration,  Sarcoidosis ,  Sj&#246;gren syndrome ,  The most common type of salivary gland tumor is a slow-growing noncancerous (benign) tumor of the parotid gland. The tumor gradually increases the size of the gland. Some of these tumors can be cancerous (malignant).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003458-3" qtype="symptoms">What are the symptoms of Salivary gland tumors ?</Question>
+			<Answer>Symptoms may include any of the following:&#160; Firm, usually painless swelling in one of the salivary glands (in front of the ears, under the chin, or on the floor of the mouth). The swelling gradually increases., Difficulty moving one side of the face, known as  facial nerve palsy ., </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003458-4" qtype="exams and tests">How to diagnose Salivary gland tumors ?</Question>
+			<Answer>An examination by a health care provider or dentist shows a larger than normal salivary gland, usually one of the parotid glands. Tests may include: X-rays of the salivary gland (called a  sialogram ) to look for a tumor,  Ultrasound ,  CT scan  or  MRI  to confirm that there is a growth, and to see if the tumor has spread to lymph nodes in the neck, which usually means the tumor is cancerous,  Salivary gland biopsy  or fine needle aspiration to determine whether the tumor is benign (noncancerous) or malignant (cancerous), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003458-5" qtype="treatment">What are the treatments for Salivary gland tumors ?</Question>
+			<Answer>Surgery is most often done to remove the affected salivary gland. If the tumor is benign, no other treatment is needed. Radiation therapy  or extensive surgery may be needed if the tumor is cancerous.  Chemotherapy  may be used when the disease has spread beyond the salivary glands.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003458-6" qtype="outlook">What is the outlook for Salivary gland tumors ?</Question>
+			<Answer>Most salivary gland tumors are noncancerous and slow growing. Removing the tumor with surgery often cures the condition. In rare cases, the tumor is cancerous and further treatment is needed.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003458-7" qtype="complications">What are the complications of Salivary gland tumors ?</Question>
+			<Answer>Complications from the cancer or its treatment may include: Spread of the cancer to other organs ( metastasis )., In rare cases, injury during surgery to the nerve that controls movement of the face., </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003458-8" qtype="when to contact a medical professional">Do I need to see a doctor for Salivary gland tumors ?</Question>
+			<Answer>Contact your provider if you have any of the following: Pain when eating or chewing, You notice a lump in the mouth, under the jaw, or in the neck that does not go away in 2 to 3 weeks or is getting larger , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

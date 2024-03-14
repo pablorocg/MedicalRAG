@@ -1,0 +1,61 @@
+<Document id="0000435" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000474.htm">
+ 
+<Focus>Bilateral hydronephrosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0521622</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hydronephrosis - bilateral</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000435-1" qtype="information">What is (are) Bilateral hydronephrosis ?</Question>
+			<Answer>Bilateral hydronephrosis is the enlargement of the parts of the kidney that collect urine. Bilateral means both sides.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000435-2" qtype="causes">What causes Bilateral hydronephrosis ?</Question>
+			<Answer>Bilateral hydronephrosis occurs when urine is unable to drain from the kidney into the bladder. Hydronephrosis is not itself a disease. It occurs as a result of a problem that prevents urine from draining out of the kidneys, ureters, and bladder. Disorders linked with bilateral hydronephrosis include: Acute bilateral obstructive uropathy -- sudden blockage of the kidneys,  Bladder outlet obstruction  -- blockage of the bladder, which does not allow drainage, Chronic bilateral obstructive uropathy -- a gradual blockage of both kidneys is most often from a common singular obstruction,  Neurogenic bladder  -- poorly functional bladder, Posterior urethral valves -- flaps on the urethra that causes poor emptying of the bladder (in boys),  Prune belly syndrome  -- poorly emptying bladder that causes distention of the belly, Retroperitoneal fibrosis -- abnormal scar tissue that blocks the ureters, Ureteropelvic junction obstruction -- blockage of the kidney at the point where the ureter enters the kidney,  Vesicoureteric reflux  -- backup of the urine from the bladder up to the ureter or kidney, 
+   Uterine prolapse -- when the bladder drops down and presses into the vaginal area. This causes a kink in the urethra, which prevents the urine from emptying out of the bladder., </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000435-3" qtype="symptoms">What are the symptoms of Bilateral hydronephrosis ?</Question>
+			<Answer>In a baby, signs of a problem are often found before birth during a pregnancy ultrasound. A  urinary tract infection  in a newborn baby can signal a blockage in the kidney. An older child who gets repeat urinary tract infections should also be checked for blockage. A higher than normal number of urinary tract infections is often the only symptom of the problem. Common symptoms in adults may include: Back pain, Nausea, vomiting, Fever, Need to urinate often, Decreased urine output, Blood in the urine, Urinary incontinence, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000435-4" qtype="exams and tests">How to diagnose Bilateral hydronephrosis ?</Question>
+			<Answer>The following tests can show bilateral hydronephrosis: CT scan of the abdomen  or kidneys,  Intravenous pyelogram  (IVP), used less often,  Pregnancy (fetal) ultrasound ,  Renal scan ,  Ultrasound of the abdomen  or kidneys , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000435-5" qtype="treatment">What are the treatments for Bilateral hydronephrosis ?</Question>
+			<Answer>Placing a tube into the bladder (Foley catheter) may open the blockage. Other treatments include: Draining the bladder
+ , Relieving pressure by placing tubes in the kidney through the skin
+ , Placing a tube (stent) through the ureter to allow urine to flow from the kidney to bladder
+ ,  The underlying cause of the blockage needs to be found and treated once the buildup of urine is relieved.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000435-6" qtype="outlook">What is the outlook for Bilateral hydronephrosis ?</Question>
+			<Answer>Surgery performed while the baby is in the womb or shortly after birth can have good results in improving kidney function. Return of renal function can vary, depending on how long the blockage is present.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000435-7" qtype="complications">What are the complications of Bilateral hydronephrosis ?</Question>
+			<Answer>Irreversible kidney damage may result from conditions that cause hydronephrosis.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000435-8" qtype="when to contact a medical professional">Do I need to see a doctor for Bilateral hydronephrosis ?</Question>
+			<Answer>This problem is often found by the health care provider.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000435-9" qtype="prevention">How to prevent Bilateral hydronephrosis ?</Question>
+			<Answer>An ultrasound during pregnancy can show a blockage in the baby's urinary tract. This allows the problem to be treated with early surgery. Other causes of blockage, such as  kidney stones , can be detected early if people notice warning signs of kidney problems. It is important to pay attention to general problems with urination. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

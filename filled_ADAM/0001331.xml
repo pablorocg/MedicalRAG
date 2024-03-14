@@ -1,0 +1,22 @@
+<Document id="0001331" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000349.htm">
+ 
+<Focus>Eating habits and behaviors</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2242848</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001331-1" qtype="information">What is (are) Eating habits and behaviors ?</Question>
+			<Answer>Food gives our bodies the energy we need to function. Food is also a part of traditions and culture. This can mean that eating has an emotional component as well. For many people, changing eating habits is very hard. You may have had certain eating habits for so long that you do not realize they are unhealthy. Or, your habits have become part of your daily life, so you do not think much about them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

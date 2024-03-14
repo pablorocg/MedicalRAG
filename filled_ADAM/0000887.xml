@@ -1,0 +1,58 @@
+<Document id="0000887" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000947.htm">
+ 
+<Focus>Cocaine withdrawal</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0009178</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000887-1" qtype="information">What is (are) Cocaine withdrawal ?</Question>
+			<Answer>Cocaine withdrawal occurs when someone who has  used a lot of cocaine  cuts down or quits taking the drug. Symptoms of withdrawal can occur even if the user is not completely off cocaine and still has some of the drug in their blood. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000887-2" qtype="causes">What causes Cocaine withdrawal ?</Question>
+			<Answer>Cocaine produces a sense of euphoria (extreme mood elevation) by causing the brain to release higher than normal amounts of some chemicals. But, cocaine's effects on other parts of the body can be very serious, or even deadly. When cocaine use is stopped or when a binge ends, a crash follows almost right away. The cocaine user has a strong craving for more cocaine during a crash. Other symptoms include fatigue, lack of pleasure, anxiety, irritability, sleepiness, and sometimes agitation or extreme suspicion or paranoia. Cocaine withdrawal often has no visible physical symptoms, such as the vomiting and shaking that accompany withdrawal from heroin or alcohol.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000887-3" qtype="symptoms">What are the symptoms of Cocaine withdrawal ?</Question>
+			<Answer>Symptoms of cocaine withdrawal may include: Agitation and restless behavior, Depressed mood, Fatigue, General feeling of discomfort , Increased appetite, Vivid and unpleasant dreams, Slowing of activity (psychomotor retardation),  The craving and depression can last for months after stopping long-term heavy use. Withdrawal symptoms may also be associated with suicidal thoughts in some people. During withdrawal, there can be powerful, intense cravings for cocaine. The "high" associated with ongoing use may become less and less pleasant. It can produce fear and extreme suspicion rather than euphoria. Even so, the cravings may remain powerful.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000887-4" qtype="exams and tests">How to diagnose Cocaine withdrawal ?</Question>
+			<Answer>A physical examination and history of cocaine use are often all that is needed to diagnose this condition. However, medical testing will likely be done. It may include: Blood tests, Cardiac enzymes (to look for evidence of heart damage or heart attack), Chest x-ray, ECG (electrocardiogram, to measure electrical activity in the heart), Toxicology (poison and drug) screening, Urinalysis, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000887-5" qtype="treatment">What are the treatments for Cocaine withdrawal ?</Question>
+			<Answer>Symptoms of withdrawal usually disappear over time. If symptoms are severe, a live-in treatment program may be recommended. There, medicines may be used to treat the symptoms. Counseling may help end the addiction. And, the person's health and safety can be monitored during recovery.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000887-6" qtype="support groups">Where to find support for people with Cocaine withdrawal ?</Question>
+			<Answer>More information and support for people with cocaine withdrawal symptoms and their families can be found at: Partnership for Drug-Free-Kids --  drugfree.org , LifeRing --  lifering.org , SMART Recovery --  www.smartrecovery.org ,  A workplace employee assistance program (EAP) is also a good resource.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000887-7" qtype="outlook">What is the outlook for Cocaine withdrawal ?</Question>
+			<Answer> Cocaine addiction is difficult to treat, and relapse can occur. Treatment should start with the least restrictive option. Outpatient care is as effective as inpatient care for most people. Withdrawal from cocaine may not be as unstable as withdrawal from alcohol. However, the withdrawal from any chronic substance use can be very serious. There is a risk of suicide or overdose. People who have cocaine withdrawal will often use alcohol, sedatives, hypnotics, or anti-anxiety medicines to treat their symptoms. Long-term use of these drugs is not recommended because it simply shifts addiction from one substance to another. Under proper medical supervision, however, short-term use of these medicines may be helpful in recovery. Presently, there are no medicines to reduce craving, but research is ongoing.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000887-8" qtype="complications">What are the complications of Cocaine withdrawal ?</Question>
+			<Answer>Complications of cocaine withdrawal include: Depression, Craving and overdose, Suicide , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000887-9" qtype="when to contact a medical professional">Do I need to see a doctor for Cocaine withdrawal ?</Question>
+			<Answer>Contact your health care provider if you use cocaine and need help to stop using it. If you or someone you know is thinking about suicide, call or text 988 or chat  988lifeline.org . You can also call 1-800-273-8255 (1-800-273-TALK). The 988 Suicide and Crisis Lifeline provides free and confidential support 24/7, anytime day or night. You can also call 911 or the local emergency number or go to the hospital emergency room. DO NOT delay. If someone you know has attempted suicide, call 911 or the local emergency number right away. DO NOT leave the person alone, even after you have called for help.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0000887-10" qtype="prevention">How to prevent Cocaine withdrawal ?</Question>
+			<Answer>Avoid cocaine use. If you use cocaine and wish to stop, talk with a provider. Also try to avoid people, places, and things you associate with the drug. If you find yourself thinking about the euphoria produced by cocaine, force yourself to think of the negative outcomes that follow its use.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

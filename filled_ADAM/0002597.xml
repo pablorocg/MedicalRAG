@@ -1,0 +1,38 @@
+<Document id="0002597" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002475.htm">
+ 
+<Focus>Mercuric oxide poisoning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0568058</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002597-1" qtype="information">What is (are) Mercuric oxide poisoning ?</Question>
+			<Answer>Mercuric oxide is a form of mercury. It is a type of mercury salt. There are different types of  mercury poisonings . This article discusses poisoning from swallowing mercuric oxide. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or the local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002597-4" qtype="symptoms">What are the symptoms of Mercuric oxide poisoning ?</Question>
+			<Answer>Symptoms of mercuric oxide poisoning include: Abdominal pain  (severe),  Breathing difficulty  (severe), Bloody diarrhea,  Decreased urine output  (may stop completely), Drooling,  Metallic taste  in the mouth,  Mouth sores &#160;(ulcers), Throat swelling (swelling may cause throat to close),  Shock  (extremely low blood pressure), Vomiting, including blood , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002597-5" qtype="considerations">What to do for Mercuric oxide poisoning ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002597-8" qtype="outlook">What is the outlook for Mercuric oxide poisoning ?</Question>
+			<Answer>This substance is very poisonous. How well a person does depends on the amount of poison swallowed, what symptoms occur within the first 10 to 15 minutes after swallowing it, and how quickly treatment was received. The faster a person gets medical help, the better the chance for recovery. Kidney dialysis (filtration) through a machine may be needed if the kidneys do not recover after acute mercury poisoning. Kidney failure and death can occur, even from small doses. If the poisoning has occurred slowly over time, any brain damage may be permanent. Mercuric oxide poisoning can lead to multiple organ failure and death.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002597-9" qtype="outlook">What is the outlook for Mercuric oxide poisoning ?</Question>
+			<Answer>This substance is very poisonous. How well a person does depends on the amount of poison swallowed, what symptoms occur within the first 10 to 15 minutes after swallowing it, and how quickly treatment was received. The faster a person gets medical help, the better the chance for recovery. Kidney dialysis (filtration) through a machine may be needed if the kidneys do not recover after acute mercury poisoning. Kidney failure and death can occur, even from small doses. If the poisoning has occurred slowly over time, any brain damage may be permanent. Mercuric oxide poisoning can lead to multiple organ failure and death.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

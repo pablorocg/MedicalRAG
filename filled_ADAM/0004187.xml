@@ -1,0 +1,55 @@
+<Document id="0004187" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001511.htm">
+ 
+<Focus>Vaginal yeast infection</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0860029</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Yeast infection - vagina</Synonym>
+		<Synonym>Vaginal candidiasis</Synonym>
+		<Synonym>Monilial vaginitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004187-1" qtype="information">What is (are) Vaginal yeast infection ?</Question>
+			<Answer>Vaginal yeast infection is an infection of the vagina. It is most often due to the fungus  Candida albicans .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004187-2" qtype="causes">What causes Vaginal yeast infection ?</Question>
+			<Answer>Most women have a vaginal yeast infection at some time.  Candida albicans  is a common type of fungus. It is often found in small amounts in the  vagina , mouth, digestive tract, and on the skin. Most of the time, it does not cause infection or symptoms. Candida and the many other germs that normally live in the vagina keep each other in balance. Sometimes the number of candida increases. This leads to a yeast infection. This can happen if:  You are taking antibiotics used to treat another infection. Antibiotics change the normal balance between germs in the vagina., You are pregnant, You are obese, You have  diabetes , You are taking medicines or have an illness that suppresses your immune system.,  A yeast infection is not spread through sexual contact. However, some men may develop symptoms after having sexual contact with an infected partner. These symptoms may include  itching ,  rash  or irritation of the penis. Having many vaginal yeast infections may be a sign of other health problems. Other vaginal infections and discharges can be mistaken for a vaginal yeast infection.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004187-3" qtype="symptoms">What are the symptoms of Vaginal yeast infection ?</Question>
+			<Answer>Symptoms include: Abnormal vaginal discharge . Discharge can range from slightly watery, white discharge to thick, white, and chunky (like cottage cheese)., Itching and burning of the vagina and labia, Pain with intercourse,  Painful urination , Redness and swelling of the skin just outside of the vagina (vulva), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004187-4" qtype="exams and tests">How to diagnose Vaginal yeast infection ?</Question>
+			<Answer>Your health care provider will do a pelvic exam. It may show:  Swelling and redness of the skin of the  vulva , in the  vagina , and on the cervix , Dry, white spots on the vaginal wall, Cracks in the skin of the vulva,  A small amount of the  vaginal discharge &#160;may be examined using a microscope. This is called a  wet mount  and KOH test. Sometimes, a culture is taken if: The infection does not get better with treatment, The infection recurs,  Your provider may order other tests to check for other causes of your symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004187-5" qtype="treatment">What are the treatments for Vaginal yeast infection ?</Question>
+			<Answer>Medicines to treat vaginal yeast infections are available as creams, ointments, vaginal tablets or suppositories and oral tablets. Most can be bought without needing to see your provider. If you do need to see your provider, you may wish to ask them about the use of boric acid for yeast infections. Treating yourself at home is probably OK if: Your symptoms are mild and you do not have pelvic pain or a fever, This is not your first yeast infection and you have not had many yeast infections in the past, You are not pregnant, You are not worried about other sexually transmitted infections (STI) from recent sexual contact ,  Medicines you can buy yourself to treat a vaginal yeast infection are: Miconazole, Clotrimazole, Tioconazole, Butoconazole ,  When using these medicines: Read the package inserts carefully and use them as directed., You will need to take the medicine for 1 to 7 days, depending on which medicine you buy. (If you do not get repeated infections, a 1-day medicine might work for you.), Do not stop using these medicines early because your symptoms are better. ,  Your provider can also prescribe a pill that you only take by mouth once. If your symptoms are worse or you get vaginal yeast infections often, you may need: Medicine for up to 14 days, Azole vaginal cream or fluconazole pill every week to prevent new infections ,  To help prevent and treat vaginal discharge: Keep your genital area clean and dry. Avoid soap and rinse with water only. Sitting in a warm, but not hot, bath may help your symptoms., Avoid douching. Although many women feel cleaner if they douche after their period or intercourse, it may worsen vaginal discharge. Douching removes healthy bacteria lining the vagina that protect against infection., Eat yogurt with live cultures or take  Lactobacillus acidophilus  tablets when you are on antibiotics. This may help to prevent a yeast infection., Use condoms to avoid catching or spreading other infections., Avoid using feminine hygiene sprays, fragrances, or powders in the genital area., Avoid wearing tight-fitting pants or shorts. These may cause irritation and sweating., Wear cotton underwear or cotton-crotch pantyhose. Avoid underwear made of silk or nylon. These can increase sweating in the genital area, which leads to growth of more yeast., Keep your blood sugar level under good control if you have diabetes., Avoid wearing wet bathing suits or exercise clothing for long periods of time. Wash sweaty or wet clothes after each use. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004187-6" qtype="outlook">What is the outlook for Vaginal yeast infection ?</Question>
+			<Answer>Most of the time, symptoms go away completely with proper treatment. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004187-7" qtype="complications">What are the complications of Vaginal yeast infection ?</Question>
+			<Answer>A lot of scratching may cause the skin to crack, making you more likely to get a skin infection. A woman may have diabetes or weak immune system (such as in HIV) if: The infection recurs right after treatment, The yeast infection does not respond well to treatment, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004187-8" qtype="when to contact a medical professional">Do I need to see a doctor for Vaginal yeast infection ?</Question>
+			<Answer>Contact your provider if: This is the first time that you have had symptoms of a vaginal yeast infection., You are not sure if you have a yeast infection., Your symptoms don't go away after using over-the-counter medicines., Your symptoms get worse., You develop other symptoms., You may have been exposed to an STI., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

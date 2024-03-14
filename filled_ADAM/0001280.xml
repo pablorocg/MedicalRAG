@@ -1,0 +1,48 @@
+<Document id="0001280" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003048.htm">
+ 
+<Focus>Drooling</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013132</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Salivation</Synonym>
+		<Synonym>Excessive saliva</Synonym>
+		<Synonym>Too much saliva</Synonym>
+		<Synonym>Sialorrhea</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001280-1" qtype="information">What is (are) Drooling ?</Question>
+			<Answer>Drooling is saliva flowing outside the mouth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001280-2" qtype="considerations">What to do for Drooling ?</Question>
+			<Answer>Drooling is generally caused by: Problems keeping saliva in the mouth, Problems with swallowing, Too much saliva production ,  Some people with drooling problems are at increased risk of breathing saliva, food, or fluids into the lungs. This may cause harm if there is a problem with the body's normal reflexes (such as gagging and coughing).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001280-3" qtype="causes">What causes Drooling ?</Question>
+			<Answer>Some drooling in infants and toddlers is normal. It may occur with teething. Drooling in infants and young children may get worse with colds and allergies. Drooling may happen if your body makes too much saliva. Infections can cause this, including: Mononucleosis ,  Peritonsillar abscess ,  Strep throat , Sinus infections,  Tonsillitis ,  Other conditions that can cause too much saliva are: Allergies, Heartburn or GERD (gastroesophageal reflux disease), Poisoning (especially by pesticides), Pregnancy (may be due to pregnancy side effects, such as nausea or reflux), Reaction to snake or insect venom, Swollen adenoids, Use of certain medicines ,  Drooling may also be caused by nervous system disorders that make it hard to swallow. Examples are: Amyotrophic lateral sclerosis, or ALS, Autism, Cerebral palsy (CP), Down syndrome, Multiple sclerosis, Parkinson disease, Stroke , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001280-4" qtype="considerations">What to do for Drooling ?</Question>
+			<Answer>Drooling is generally caused by: Problems keeping saliva in the mouth, Problems with swallowing, Too much saliva production ,  Some people with drooling problems are at increased risk of breathing saliva, food, or fluids into the lungs. This may cause harm if there is a problem with the body's normal reflexes (such as gagging and coughing).</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001280-5" qtype="when to contact a medical professional">Do I need to see a doctor for Drooling ?</Question>
+			<Answer>Contact your health care provider if: The cause of the drooling has not been diagnosed., There is concern about gagging or choking., A child has a fever, difficulty breathing, or holds their head in a strange position., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001280-6" qtype="outlook">What is the outlook for Drooling ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

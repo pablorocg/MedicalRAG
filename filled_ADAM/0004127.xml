@@ -1,0 +1,47 @@
+<Document id="0004127" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003143.htm">
+ 
+<Focus>Urination - difficulty with flow</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1299586</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Delayed urination</Synonym>
+		<Synonym>Hesitancy</Synonym>
+		<Synonym>Difficulty initiating urination</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004127-1" qtype="information">What is (are) Urination - difficulty with flow ?</Question>
+			<Answer>Difficulty starting or maintaining a urine stream is called urinary hesitancy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004127-2" qtype="considerations">What to do for Urination - difficulty with flow ?</Question>
+			<Answer>Urinary hesitancy affects people of all ages and occurs in both sexes. However, it is most common in older men with an  enlarged prostate  gland. Urinary hesitancy most often develops slowly over time. You may not notice it until you are unable to urinate (called urinary retention). This causes swelling and discomfort in your bladder.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004127-3" qtype="causes">What causes Urination - difficulty with flow ?</Question>
+			<Answer>The most common cause of urinary hesitancy in older men is an enlarged prostate. Almost all older men have some trouble with dribbling, weak urine stream, and starting urination.  Another common cause is infection of the prostate or urinary tract. Symptoms of a possible infection include: Burning or pain with urination, Frequent urination, Cloudy urine, Sense of urgency (strong, sudden urge to urinate), Blood in the urine,  The problem can also be caused by: Some medicines (such as remedies for colds and allergies, tricyclic antidepressants, some medicines used for incontinence, and some vitamins and supplements), Nervous system disorders or problems with the spinal cord, Side effects of surgery, Scar tissue (stricture) in the tube leading from the bladder (urethra), Spastic muscles in the pelvis, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004127-4" qtype="considerations">What to do for Urination - difficulty with flow ?</Question>
+			<Answer>Urinary hesitancy affects people of all ages and occurs in both sexes. However, it is most common in older men with an  enlarged prostate  gland. Urinary hesitancy most often develops slowly over time. You may not notice it until you are unable to urinate (called urinary retention). This causes swelling and discomfort in your bladder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004127-5" qtype="when to contact a medical professional">Do I need to see a doctor for Urination - difficulty with flow ?</Question>
+			<Answer>Call your provider if you notice urinary hesitancy, dribbling, or a weak urine stream. Call your provider right away if: You have a  fever ,  vomiting , side or back pain, shaking chills, or are passing little urine for 1 to 2 days., You have blood in your urine, cloudy urine, a frequent or urgent need to urinate, or a discharge from the penis or vagina., You are unable to pass urine., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004127-6" qtype="outlook">What is the outlook for Urination - difficulty with flow ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

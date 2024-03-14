@@ -1,0 +1,59 @@
+<Document id="0001923" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007320.htm">
+ 
+<Focus>Hemorrhagic disease of the newborn</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019088</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Vitamin K deficiency bleeding</Synonym>
+		<Synonym>VKDB</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001923-1" qtype="information">What is (are) Hemorrhagic disease of the newborn ?</Question>
+			<Answer>Vitamin K  deficiency bleeding (VKDB) of the newborn is a bleeding disorder in babies. It most often develops in the first days and weeks of life.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001923-2" qtype="causes">What causes Hemorrhagic disease of the newborn ?</Question>
+			<Answer>A lack of vitamin K may cause severe bleeding in newborn babies. Vitamin K plays an important role in blood clotting. Babies often have a low level of vitamin K for a variety of reasons. Vitamin K does not move easily across the placenta from the mother to the baby. As a result, a newborn does not have much vitamin K stored up at birth. Also, the bacteria that help make vitamin K are not yet present in a newborn's gastrointestinal tract. Finally, there is not much vitamin K in mother's milk. Your baby may develop this condition if: A preventive vitamin K shot is not given at birth (if vitamin K is given by mouth instead of as a shot, it must be given more than once, and it does not appear to be as effective as the shot)., The mother takes certain anti-seizure or blood-thinning drugs.,  The condition is grouped into three categories: Immediate-onset VKDB is very rare. It occurs within the first 48 hours after birth and is usually a result of anti-seizure medicines or some other medicines, including a blood thinner called Coumadin, taken by mothers during pregnancy., Early-onset (formerly called &#8220;classic-onset&#8221;) disease is also rare. It occurs between 1 to 14 days after birth. It is usually seen in breastfed infants who did not receive a vitamin K shot., Late-onset VKDB is seen in infants between 2 weeks and 6 months old. It is also more likely to happen in those who did not receive a vitamin K shot.,  Anyone of any age with the following problems involving the gastrointestinal system is also at risk to develop this disorder: Alpha1-antitrypsin deficiency ,  Biliary atresia  or other cholestatic liver disease,  Celiac disease ,  Cystic fibrosis  or other causes of pancreatic insufficiency, Diarrhea (prolonged), Hepatitis, Inflammatory bowel disease, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001923-3" qtype="symptoms">What are the symptoms of Hemorrhagic disease of the newborn ?</Question>
+			<Answer>Vitamin K deficiency causes bleeding. The most common areas of bleeding include: At the site of circumcision, Belly button area, Gastrointestinal tract (resulting in blood in the baby's bowel movements), Mucous membranes (such as the lining of the nose and mouth), Places where there has been a needle stick,  There may also be: Blood in the urine , Bruising,  Seizures  (convulsions) or abnormal behavior due to bleeding inside the skull, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001923-4" qtype="exams and tests">How to diagnose Hemorrhagic disease of the newborn ?</Question>
+			<Answer>Blood clotting tests will be done. The diagnosis can be confirmed if a vitamin K shot stops the bleeding and blood clotting time (PT or prothrombin time) quickly becomes normal (within 6 to 24 hours). (If the deficiency is not severe, the PT may not be abnormal.)</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001923-5" qtype="treatment">What are the treatments for Hemorrhagic disease of the newborn ?</Question>
+			<Answer>Vitamin K is given if bleeding occurs.&#160;Babies with severe bleeding may need plasma or blood transfusions.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001923-6" qtype="outlook">What is the outlook for Hemorrhagic disease of the newborn ?</Question>
+			<Answer>The outlook tends to be worse for babies with late-onset hemorrhagic disease than other forms. There is a higher rate of bleeding inside the skull (intracranial hemorrhage) associated with the late-onset condition.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001923-7" qtype="complications">What are the complications of Hemorrhagic disease of the newborn ?</Question>
+			<Answer>Complications may include: Bleeding inside the skull (intracranial hemorrhage), with possible brain damage, Death, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001923-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hemorrhagic disease of the newborn ?</Question>
+			<Answer>Contact your health care provider if your baby has: Any unexplained bleeding, Seizures, Abdominal behavior,  Get emergency medical care right away if the symptoms are severe.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001923-9" qtype="prevention">How to prevent Hemorrhagic disease of the newborn ?</Question>
+			<Answer>The early onset form of the disease may be prevented by giving vitamin K shots to pregnant women who take anti-seizure medicines. To prevent the classic and late-onset forms, the American Academy of Pediatrics recommends giving every baby a shot of vitamin K immediately after birth. Because of this practice, vitamin K deficiency is now rare in the United States except for those babies who do not receive the vitamin K shot.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,16 @@
+<Document id="0000912" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000897.htm">
+ 
+<Focus>Colonoscopy discharge</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Lower endoscopy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000912-1" qtype="information">Do you have information about Colonoscopy discharge</Question>
+			<Answer>A colonoscopy is an exam that views the inside of the colon (large intestine) and rectum, using a tool called a colonoscope. The colonoscope has a small camera attached to a flexible tube that can reach the length of the colon.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

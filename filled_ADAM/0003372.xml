@@ -1,0 +1,18 @@
+<Document id="0003372" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003770.htm">
+ 
+<Focus>Renal venogram</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Venogram - renal</Synonym>
+		<Synonym>Venography</Synonym>
+		<Synonym>Venogram - kidney</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003372-1" qtype="information">Do you have information about Renal venogram</Question>
+			<Answer>A renal venogram is a test to look at the veins in the kidney. It uses  x-rays  and a special dye (called contrast). X-rays are a form of electromagnetic radiation like light, but of higher energy, so they can move through the body to form an image. Structures that are dense (such as bone) will appear white and air will be black. Other structures will be shades of gray. Veins are not normally seen in an x-ray. That is why the special dye is needed. The dye highlights the veins so they show up better on x-rays.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

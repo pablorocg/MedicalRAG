@@ -1,0 +1,13 @@
+<Document id="0000266" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002223.htm">
+ 
+<Focus>Antibody</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000266-1" qtype="information">Do you have information about Antibody</Question>
+			<Answer>An antibody is a protein produced by the body's immune system when it detects harmful substances, called antigens. Examples of antigens include microorganisms (bacteria, fungi, parasites, and viruses) and chemicals. Antibodies may be produced when the immune system mistakenly considers healthy tissue a harmful substance. This is called an  autoimmune disorder . Each type of antibody is unique and defends the body against one specific type of antigen.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

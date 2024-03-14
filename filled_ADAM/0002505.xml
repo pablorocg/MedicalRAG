@@ -1,0 +1,63 @@
+<Document id="0002505" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000621.htm">
+ 
+<Focus>Malaria</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024530</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Quartan malaria</Synonym>
+		<Synonym>Falciparum malaria</Synonym>
+		<Synonym>Biduoterian fever</Synonym>
+		<Synonym>Blackwater fever</Synonym>
+		<Synonym>Tertian malaria</Synonym>
+		<Synonym>Plasmodium</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002505-1" qtype="information">What is (are) Malaria ?</Question>
+			<Answer>Malaria is a parasitic disease that involves high fevers, shaking chills, flu-like symptoms, and  anemia .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002505-2" qtype="causes">What causes Malaria ?</Question>
+			<Answer>Malaria is caused by a parasite. It is passed to humans by the bite of infected Anopheles mosquitoes. After infection, the parasites (called sporozoites) travel through the bloodstream to the liver. There, they mature and release another form of parasites, called merozoites. The parasites enter the bloodstream and infect red blood cells (RBCs). The parasites multiply inside the red blood cells. The cells then break open within 48 to 72 hours and infect more red blood cells. The first symptoms usually occur 2 to 4 weeks after infection, though they can appear as early as 8 days or as long as a year after infection. The symptoms occur in cycles of 48 to 72 hours. Most symptoms are caused by: The release of merozoites into the bloodstream, Anemia resulting from the destruction of the red blood cells, Large amounts of free hemoglobin being released into circulation after red blood cells break open, which can damage other organs such as the kidneys,  Malaria can also be transmitted from a mother to her unborn baby (congenitally) and by blood transfusions. Malaria can be carried by mosquitoes in temperate climates, but the parasite disappears over the winter. The disease is a major health problem in much of the tropics and subtropics. The Centers for Disease Control and Prevention reported that in 2020 there were about 241 million cases of malaria. About 627,000 people died of it. Malaria is a major disease hazard for travelers to warm climates. In some areas of the world, mosquitoes that carry malaria have developed resistance to insecticides. In addition, the parasites have developed resistance to some antibiotics. These conditions have made it hard to control both the rate of infection and spread of this disease.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002505-3" qtype="symptoms">What are the symptoms of Malaria ?</Question>
+			<Answer>Symptoms include: Anemia  (condition in which the body doesn't have enough healthy red blood cells)
+   ,  Bloody stools , Chills, fever, sweating,  Coma ,  Convulsions , Headache,  Jaundice , Muscle pain, Nausea and vomiting, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002505-4" qtype="exams and tests">How to diagnose Malaria ?</Question>
+			<Answer>During a physical examination, the health care provider may find an  enlarged liver  or  enlarged spleen . Tests that are done include: Rapid diagnostic tests, which are becoming more common because they are easier to use and require less training by laboratory technicians, Malaria blood smears taken at 6 to 12 hour intervals to confirm the diagnosis, A  complete blood count  (CBC) will identify anemia if it is present, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002505-5" qtype="treatment">What are the treatments for Malaria ?</Question>
+			<Answer>Malaria, especially falciparum malaria, is a medical emergency that requires a hospital stay. Chloroquine is often used as an anti-malarial medicine. But chloroquine-resistant infections are common in some parts of the world. Possible treatments for chloroquine-resistant infections include: Artemisinin derivative combinations, including artemether and lumefantrine, Atovaquone-proguanil, Quinine-based regimen, in combination with doxycycline or clindamycin, Mefloquine, in combination with artesunate or doxycycline,  The choice of medicine depends, in part, on where you got the infection. Medical care, including fluids through a vein (IV) and other medicines and breathing (respiratory) support may be needed.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002505-6" qtype="outlook">What is the outlook for Malaria ?</Question>
+			<Answer>Outcome is expected to be good in most cases of malaria with treatment, but poor in falciparum infection with complications.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002505-7" qtype="complications">What are the complications of Malaria ?</Question>
+			<Answer>Health problems that may result from malaria include: Brain infection (cerebritis), Destruction of blood cells ( hemolytic anemia ),  Kidney failure , Liver failure,  Meningitis , Respiratory failure from fluid in the lungs ( pulmonary edema ), Rupture of the spleen leading to massive internal bleeding (hemorrhage), </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002505-8" qtype="when to contact a medical professional">Do I need to see a doctor for Malaria ?</Question>
+			<Answer>Contact your health care provider if you develop fever and headache after visiting any foreign country.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002505-9" qtype="prevention">How to prevent Malaria ?</Question>
+			<Answer>Most people who live in areas where malaria is common have developed some  immunity  to the disease. Visitors will not have immunity and should take preventive medicines. It is important to see your provider well before your trip. This is because treatment may need to begin as long as 2 weeks before travel to the area, and continue for a month after you leave the area. Most travelers from the United States who contract malaria fail to take the right precautions. The types of anti-malarial medicines prescribed depend on the area you visit. Travelers to South America, Africa, the Indian subcontinent, Asia, and the South Pacific should take one of the following medicines: Mefloquine, Doxycycline, Chloroquine, Hydroxychloroquine, Atovaquone-proguanil,   Even pregnant women should consider taking preventive medicines because the risk to the fetus from the medicine is less than the risk of catching this infection. Chloroquine has been the medicine of choice for protecting against malaria. But because of resistance, it is now only suggested for use in areas where  Plasmodium vivax ,  P oval , and  P malariae  are present.  Falciparum malaria is becoming increasingly resistant to anti-malarial medicines. Recommended medicines include mefloquine, atovaquone/proguanil (Malarone), and doxycycline. Prevent mosquito bites by: Wearing protective clothing over your arms and legs, Using mosquito netting while sleeping, Using insect repellent,  For information on malaria and preventive medicines, visit the CDC website:  www.cdc.gov/malaria/travelers/index.html .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

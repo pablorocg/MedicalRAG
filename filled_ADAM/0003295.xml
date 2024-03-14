@@ -1,0 +1,59 @@
+<Document id="0003295" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000112.htm">
+ 
+<Focus>Pulmonary hypertension</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020542</CUI>
+			<CUI>C1963220</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pulmonary arterial hypertension</Synonym>
+		<Synonym>Sporadic primary pulmonary hypertension</Synonym>
+		<Synonym>Familial primary pulmonary hypertension</Synonym>
+		<Synonym>Idiopathic pulmonary arterial hypertension</Synonym>
+		<Synonym>Primary pulmonary hypertension</Synonym>
+		<Synonym>PPH</Synonym>
+		<Synonym>Secondary pulmonary hypertension</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003295-1" qtype="information">What is (are) Pulmonary hypertension ?</Question>
+			<Answer>Pulmonary hypertension is high blood pressure in the arteries of the lungs. It makes the right side of the heart work harder than normal.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003295-2" qtype="causes">What causes Pulmonary hypertension ?</Question>
+			<Answer>The right side of the heart pumps blood through the lungs, where it picks up oxygen. Blood returns to the left side of the heart, where it is pumped to the rest of the body. When the small arteries (blood vessels) of the lungs become narrowed, they cannot carry as much blood. When this happens, pressure builds up. This is called pulmonary hypertension. The heart needs to work harder to force the blood through the vessels against this pressure. Over time, this causes the right side of the heart to become larger. This condition is called right-sided heart failure, or  cor pulmonale . Pulmonary hypertension may be caused by: Autoimmune diseases  that damage the lungs, such as  scleroderma  and  rheumatoid arthritis , Birth defects of the heart, Blood clots in the lung ( pulmonary embolism ),  Heart failure &#160;(of the left side of the heart), Heart valve disease, HIV infection, Low oxygen levels in the blood for a long time (chronic), Lung disease, such as  COPD  or  pulmonary fibrosis  or any other severe chronic lung condition, Medicines (for example, certain diet drugs),  Obstructive sleep apnea ,  In rare cases, the cause of pulmonary hypertension is unknown. In this case, the condition is called idiopathic pulmonary arterial hypertension (IPAH). Idiopathic means the cause of a disease is not known. IPAH affects more women than men. If pulmonary hypertension is caused by a known medicine or medical condition, it is called secondary pulmonary hypertension.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003295-3" qtype="symptoms">What are the symptoms of Pulmonary hypertension ?</Question>
+			<Answer>Shortness of breath or lightheadedness during activity is often the first symptom. Fast heart rate ( palpitations ) may be present. Over time, symptoms occur with lighter activity or even while at rest. Other symptoms include: Ankle and leg swelling, Bluish color of the lips or skin ( cyanosis ), 
+ Chest pain or pressure, most often in the front of the chest, 
+ Dizziness or fainting spells,  Fatigue , Increased abdominal size,  Weakness ,  People with pulmonary hypertension often have symptoms that come and go. They report good days and bad days.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003295-4" qtype="exams and tests">How to diagnose Pulmonary hypertension ?</Question>
+			<Answer>Your health care provider will perform a physical exam and ask about your symptoms. The exam may find: Abnormal heart sounds, Feeling of a pulse over the breastbone,  Heart murmur  on the right side of the heart, Larger-than-normal veins in the neck, Leg swelling, Liver and spleen swelling, Normal breath sounds&#160;if pulmonary hypertension is idiopathic or due to congenital heart disease, Abnormal breath sounds if pulmonary hypertension is from other lung disease ,  In the early stages of the disease, the exam may be normal or almost normal. The condition may take several months to diagnose. Asthma and other diseases may cause similar symptoms and must be ruled out. Tests that may be ordered include: Blood tests,  Cardiac catheterization ,  Chest x-ray ,  CT scan of the chest ,  Echocardiogram ,  ECG , Lung function tests, Nuclear  lung scan ,  Pulmonary arteriogram , 6-minute walk test, Sleep study, Tests to check for autoimmune problems , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003295-5" qtype="treatment">What are the treatments for Pulmonary hypertension ?</Question>
+			<Answer>There is no cure for pulmonary hypertension. The goal of treatment is to control symptoms and prevent more lung damage. It is important to treat medical disorders that cause pulmonary hypertension, such as obstructive sleep apnea, lung conditions, and heart valve problems. Many treatment options for pulmonary arterial hypertension are available. If you are prescribed medicines, they may be taken by mouth (oral), received through the vein (intravenous, or IV), or breathed in (inhaled). Your provider will decide which medicine is best for you. You will be closely monitored during treatment to watch for side effects and to see how well you are responding to the medicine. DO NOT stop taking your medicines without talking to your provider. Other treatments may include: Blood thinners to reduce the risk of blood clots, especially for some forms of pulmonary hypertension,  Oxygen therapy at home , Lung transplant, or in some cases, heart-lung transplant, if medicines do not work ,  Other important tips to follow: Avoid pregnancy., Avoid heavy physical activities and lifting., Avoid traveling to high altitudes., Get a yearly  flu vaccine , as well as other vaccines such as the  pneumonia vaccine , and the  COVID vaccine ., Stop smoking., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003295-6" qtype="outlook">What is the outlook for Pulmonary hypertension ?</Question>
+			<Answer>How well you do depends on what caused the condition. Medicines for IPAH may help slow the disease. As the illness gets worse, you will need to  make changes in your home  to help you get around the house. For patients with severe disease, lung transplant, or in some cases, heart-lung transplant can be considered.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003295-7" qtype="when to contact a medical professional">Do I need to see a doctor for Pulmonary hypertension ?</Question>
+			<Answer>Contact your provider if: You begin to develop shortness of breath when you are active, Shortness of breath gets worse, You develop chest pain, You develop other symptoms , You feel lightheaded or dizzy, You have persistent palpitations, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

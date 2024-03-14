@@ -1,0 +1,25 @@
+<Document id="0003603" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003976.htm">
+ 
+<Focus>Skin care and incontinence</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0021167</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Incontinence - skin care</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003603-1" qtype="information">What is (are) Skin care and incontinence ?</Question>
+			<Answer>People who have problems controlling their  urine  or  bowels  (called incontinence) are at risk for skin problems. The skin areas most affected are near the buttocks, hips, genitals, and between the pelvis and rectum (perineum). Excess moisture in these areas makes skin problems such as redness, peeling, irritation, and  yeast infections  likely. Bedsores ( pressure sores ) may also develop if a person: Has not been eating well (is  malnourished ), Received  radiation therapy  to the area, Spends most or all of the day in a wheelchair, regular chair, or bed without changing position ,  TAKING CARE OF THE SKIN Using diapers and other products can make skin problems worse. Although they may keep bedding and clothing cleaner, these products allow urine or stool to be in constant contact with the skin. Over time, the skin breaks down. Special care must be taken to keep the skin clean and dry. This can be done by: Cleaning and drying the area right away after urinating or having a bowel movement., Cleaning the skin with mild, dilute soap and water then rinsing well and gently patting dry. ,  Use soap-free skin cleansers that do not cause dryness or irritation. Follow the product's instructions. Some products do not require rinsing.  Moisturizing creams can help keep the skin moist. Avoid products that contain alcohol, which may irritate the skin. If you are receiving radiation therapy, ask your health care provider if it is OK to use any creams or lotions. Consider using a skin sealant or moisture barrier. Creams or ointments that contain zinc oxide, lanolin, or petrolatum form a protective barrier on the skin. Some skin care products, often in the form of a spray or a towelette, create a clear, protective film over the skin. A provider can recommend barrier creams to help protect the skin. Even if these products are used, the skin must still be cleaned each time after passing urine or stool. Reapply the cream or ointment after cleaning and drying the skin. Incontinence problems can cause a yeast infection on the skin. This is an itchy, red, pimple-like rash. The skin may feel raw. Products are available to treat a yeast infection:  If the skin is moist most of the time, use a powder with antifungal medicine, such as nystatin or miconazole. Do not use baby powder., A moisture barrier or skin sealant may be applied over the powder., If severe skin irritation develops, see your provider., If bacterial infection occurs, antibiotics applied to the skin or taken by mouth may help. ,  The National Association for Continence (NAFC) has helpful information at  www.nafc.org . IF YOU ARE BEDRIDDEN OR USING A WHEELCHAIR Check the skin for pressure sores every day. Look for reddened areas that do not turn white when pressed. Also look for blisters, sores, or open ulcers. Tell the provider if there is any foul-smelling drainage.  A healthy, well-balanced diet that contains enough calories and protein helps keep you and your skin healthy. For people who must stay in bed: Change your position often, at least every 2 hours, Change sheets and clothing right away after they are soiled, Use items that can help reduce pressure, such as pillows or foam padding ,  For people in a wheelchair: Make sure your chair fits properly, Shift your weight every 15 to 20 minutes, Use items that can help reduce pressure, such as pillows or foam padding ,  Smoking affects healing of the skin, so stopping smoking is important.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,53 @@
+<Document id="0002577" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000642.htm">
+ 
+<Focus>Meningitis - cryptococcal</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0025289</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cryptococcal meningitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002577-1" qtype="information">What is (are) Meningitis - cryptococcal ?</Question>
+			<Answer>Cryptococcal  meningitis  is a fungal infection of the tissues covering the brain and spinal cord. These tissues are called meninges.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002577-2" qtype="causes">What causes Meningitis - cryptococcal ?</Question>
+			<Answer>In most cases, cryptococcal meningitis is caused by the fungus  Cryptococcus neoformans . This fungus is found in soil around the world.  Cryptococcus gattii  can also cause meningitis, but this form can cause disease in patients with a normal immune system as well. This type of meningitis is not spread from person to person. Usually, it spreads through the bloodstream to the brain from another place in the body that has the infection.  Cryptococcus neoformans  meningitis most often affects people with a weakened immune system, including people with: AIDS , Cirrhosis (a type of liver disease),  Diabetes ,  Leukemia ,  Lymphoma ,  Sarcoidosis , An organ transplant ,  The disease is rare in people who have a normal immune system and no long-term health problems.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002577-3" qtype="symptoms">What are the symptoms of Meningitis - cryptococcal ?</Question>
+			<Answer>This form of meningitis starts slowly, over a few days to a few weeks. Symptoms may include: Fever,  Hallucinations , Headache,  Mental status change  (confusion), Nausea and vomiting,  Sensitivity to light , Stiff neck , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002577-4" qtype="exams and tests">How to diagnose Meningitis - cryptococcal ?</Question>
+			<Answer>Your health care provider will examine you and ask about your symptoms. A lumbar puncture ( spinal tap ) is used to diagnose meningitis. In this test, a sample of cerebrospinal fluid (CSF) is removed from your spine and tested. Other tests that may be done include: Blood culture ,  Chest x-ray , Cryptococcal antigen in CSF or blood, CSF examination for cell count, glucose, and protein,  CT scan of the head , Gram stain, other special stains, and  culture of CSF , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002577-5" qtype="treatment">What are the treatments for Meningitis - cryptococcal ?</Question>
+			<Answer>Antifungal medicines are used to treat this form of meningitis.  Intravenous  (IV, through a vein) therapy with amphotericin B is the most common treatment. It is often combined with an oral antifungal medicine called 5-flucytosine. Another oral drug, fluconazole, in high doses may also be effective. If needed, it will be prescribed later in the disease course.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002577-6" qtype="outlook">What is the outlook for Meningitis - cryptococcal ?</Question>
+			<Answer>People who recover from cryptococcal meningitis need long-term medicine to prevent the infection from coming back. People with weakened immune systems, such as those with HIV/AIDS, will also need long-term treatment to improve their immune system.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002577-7" qtype="complications">What are the complications of Meningitis - cryptococcal ?</Question>
+			<Answer>These complications may occur from this infection: Brain damage,  Hearing  or vision loss,  Hydrocephalus &#160;(excessive CSF in the brain),  Seizures , Death ,  Amphotericin B can have side effects such as: Nausea and vomiting, Fever and chills, Joint and muscles aches, Kidney damage , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002577-8" qtype="when to contact a medical professional">Do I need to see a doctor for Meningitis - cryptococcal ?</Question>
+			<Answer>Call 911 or the local emergency number if you develop any of the serious symptoms listed above. Meningitis can quickly become a life-threatening illness. Call your local emergency number or go to an emergency room if you suspect meningitis in a young child who has these symptoms: Feeding difficulties, High-pitched cry, Irritability, Persistent, unexplained fever , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

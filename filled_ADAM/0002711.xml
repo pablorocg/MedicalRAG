@@ -1,0 +1,25 @@
+<Document id="0002711" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002156.htm">
+ 
+<Focus>Myasthenia gravis - resources</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026896</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Resources - myasthenia gravis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002711-1" qtype="information">What is (are) Myasthenia gravis - resources ?</Question>
+			<Answer>The following organizations provide information on  myasthenia gravis : Genetic and Rare Diseases Information Center --  rarediseases.info.nih.gov/diseases/7122/myasthenia-gravis , Myasthenia Gravis Foundation of America --  myasthenia.org , National Institute of Neurological Disorders and Stroke --&#160; www.ninds.nih.gov/health-information/disorders/myasthenia-gravis , US National Library of Medicine, MedlinePlus --&#160; medlineplus.gov/ency/article/002156.htm , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

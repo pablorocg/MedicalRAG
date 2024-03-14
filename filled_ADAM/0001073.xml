@@ -1,0 +1,51 @@
+<Document id="0001073" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000043.htm">
+ 
+<Focus>Cuts and puncture wounds</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0000925</CUI>
+			<CUI>C0033119</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Wound - cut or puncture</Synonym>
+		<Synonym>Open wound</Synonym>
+		<Synonym>Laceration</Synonym>
+		<Synonym>Puncture wound</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001073-1" qtype="information">What is (are) Cuts and puncture wounds ?</Question>
+			<Answer>A cut is a break or opening in the skin. It is also called a laceration. A cut may be deep, smooth, or jagged. It may be near the surface of the skin, or deeper. A deep cut can affect tendons, muscles, ligaments, nerves, blood vessels, or bone. A puncture is a wound made by a pointed object such as a nail, knife, or sharp tooth. Puncture wounds often appear to be on the surface, but may extend into the deeper tissue layers. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001073-2" qtype="symptoms">What are the symptoms of Cuts and puncture wounds ?</Question>
+			<Answer>Symptoms include: 
+   Bleeding
+   , Problems with function (movement) or feeling (numbness, tingling) below the wound site, Pain,  Infection may occur with some cuts and puncture wounds. The following are more likely to become infected: Bites, Punctures, Crush injuries, Dirty wounds, Wounds on the feet, Wounds that are not promptly treated, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001073-3" qtype="considerations">What to do for Cuts and puncture wounds ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001073-4" qtype="considerations">What to do for Cuts and puncture wounds ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001073-5" qtype="when to contact a medical professional">Do I need to see a doctor for Cuts and puncture wounds ?</Question>
+			<Answer>Call 911 or the local emergency number if: The bleeding is severe or cannot be stopped (for example, after 10 minutes of pressure)., The person cannot feel the injured area, or it doesn't work right., The person is otherwise seriously injured. ,  Contact your health care provider right away if: The wound is large or deep, even if the bleeding is not severe., The wound is more than a quarter inch (0.64 centimeter) deep, on the face, or reaching the bone. Stitches may be needed., The person has been bitten by a human or animal., A cut or puncture is caused by a fishhook or rusty object., You step on a nail or other similar object., An object or debris is stuck. Do not remove it yourself., The wound shows signs of infection such as warmth and redness in the area, a painful or throbbing sensation, fever, swelling, a red streak extending from the wound, or pus-like drainage., You have not had a tetanus shot within the last 10 years. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001073-6" qtype="prevention">How to prevent Cuts and puncture wounds ?</Question>
+			<Answer>Keep knives, scissors, sharp objects, firearms, and fragile items out of the reach of children. When children are old enough, teach them to how to use knives, scissors, and other tools safely. Make sure you and your child are up to date on  vaccinations . A tetanus vaccine is generally recommended every 10 years.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

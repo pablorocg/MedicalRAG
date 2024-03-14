@@ -1,0 +1,54 @@
+<Document id="0000774" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001441.htm">
+ 
+<Focus>Cherry angioma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0343082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Angioma - cherry</Synonym>
+		<Synonym>Senile angioma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000774-1" qtype="information">What is (are) Cherry angioma ?</Question>
+			<Answer>A cherry angioma is a noncancerous (benign) skin growth made up of blood vessels.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000774-2" qtype="causes">What causes Cherry angioma ?</Question>
+			<Answer>Cherry angiomas are fairly common skin growths that vary in size. They can occur almost anywhere on the body, but usually develop on the trunk. They are most common after age 30. The cause is unknown, but they tend to be inherited (genetic).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000774-3" qtype="symptoms">What are the symptoms of Cherry angioma ?</Question>
+			<Answer>A cherry angioma is: Bright cherry-red, Small -- pinhead size to about one quarter inch (0.5 centimeter) in diameter, Smooth, or can stick out from the skin , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000774-4" qtype="exams and tests">How to diagnose Cherry angioma ?</Question>
+			<Answer>Your health care provider will look at the growth on your skin to diagnose a cherry angioma. No further tests are usually necessary. Sometimes a  skin biopsy  is used to confirm the diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000774-5" qtype="treatment">What are the treatments for Cherry angioma ?</Question>
+			<Answer>Cherry angiomas usually do not need to be treated. If they affect your appearance or bleed often, they may be removed by: Burning (electrosurgery or cautery), Freezing ( cryotherapy ), Laser,  Shave excision , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000774-6" qtype="outlook">What is the outlook for Cherry angioma ?</Question>
+			<Answer>Cherry angiomas are noncancerous. They usually do not harm your health. Removal usually does not cause scarring.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000774-7" qtype="complications">What are the complications of Cherry angioma ?</Question>
+			<Answer>A cherry angioma may cause: Bleeding if it is injured, Changes in appearance, Emotional distress , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000774-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cherry angioma ?</Question>
+			<Answer>Contact your provider if: You have symptoms of a cherry angioma and you would like to have it removed, The appearance of a cherry angioma (or any skin lesion) changes, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

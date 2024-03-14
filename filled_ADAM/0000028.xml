@@ -1,0 +1,40 @@
+<Document id="0000028" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007382.htm">
+ 
+<Focus>Abortion - medical</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0156543</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Therapeutic medical abortion</Synonym>
+		<Synonym>Elective medical abortion</Synonym>
+		<Synonym>Induced abortion</Synonym>
+		<Synonym>Nonsurgical abortion</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000028-1" qtype="information">What is (are) Abortion - medical ?</Question>
+			<Answer>Medical abortion is the use of medicine to end an undesired pregnancy. The medicine helps remove the fetus and placenta from the mother's womb (uterus). There are different types of medical abortions: Therapeutic medical abortion is done because the woman has a health condition., Elective abortion is done because a woman chooses (elects) to end the pregnancy.,  An elective abortion is not the same as a  miscarriage . Miscarriage is when a pregnancy ends on its own before the 20th week of pregnancy.&#160;Miscarriage is sometimes called a spontaneous abortion. Surgical abortion  uses surgery to end a pregnancy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000028-2" qtype="information">What is (are) Abortion - medical ?</Question>
+			<Answer>Medical abortion is the use of medicine to end an undesired pregnancy. The medicine helps remove the fetus and placenta from the mother's womb (uterus). There are different types of medical abortions: Therapeutic medical abortion is done because the woman has a health condition., Elective abortion is done because a woman chooses (elects) to end the pregnancy.,  An elective abortion is not the same as a  miscarriage . Miscarriage is when a pregnancy ends on its own before the 20th week of pregnancy.&#160;Miscarriage is sometimes called a spontaneous abortion. Surgical abortion  uses surgery to end a pregnancy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000028-4" qtype="susceptibility">Who is at risk for Abortion - medical? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000028-7" qtype="outlook">What is the outlook for Abortion - medical ?</Question>
+			<Answer>Medical and surgical abortions are safe and effective. They rarely have serious complications. It is rare for a medical abortion to affect a woman's fertility or her ability to bear children in the future.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,60 @@
+<Document id="0000472" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001304.htm">
+ 
+<Focus>Bleeding disorders</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1458140</CUI>
+			<CUI>C0005779</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Coagulopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000472-1" qtype="information">What is (are) Bleeding disorders ?</Question>
+			<Answer>Bleeding disorders are a group of conditions in which there is a problem with the body's blood clotting process. These disorders can lead to heavy and prolonged bleeding after an injury or surgery. Bleeding can also begin on its own and may be difficult to stop. Specific bleeding disorders include: Acquired platelet function defects ,  Congenital platelet function defects ,  Disseminated intravascular coagulation (DIC) ,  Prothrombin deficiency ,  Factor V deficiency ,  Factor VII deficiency ,  Factor X deficiency , Factor XI deficiency (hemophilia C),  Glanzmann disease ,  Hemophilia A ,  Hemophilia B ,  Idiopathic thrombocytopenic purpura (ITP) ,  Von Willebrand disease  (types I, II, and III) , </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000472-2" qtype="causes">What causes Bleeding disorders ?</Question>
+			<Answer>Watch this video about: Blood clotting Normal blood clotting involves blood particles, called platelets, and as many as 20 different plasma proteins that layer over the platelets. These proteins are known as blood clotting or coagulation factors. These factors interact with other chemicals to form a substance called fibrin that stops bleeding. Problems can occur when platelets are low in number or do not work properly or when certain coagulation factors are low or missing. Bleeding problems can range from mild to severe. Some bleeding disorders are present at birth and are passed down through families (inherited). Others develop from: Illnesses, such as vitamin K deficiency or severe liver disease, Treatments, such as the use of drugs to stop blood clots (anticoagulants) or the long-term use of antibiotics ,  Bleeding disorders can also result from a problem with the number or function of platelets. These disorders can also be either inherited or develop later (acquired). The side effects of certain drugs often lead to the acquired forms.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000472-3" qtype="symptoms">What are the symptoms of Bleeding disorders ?</Question>
+			<Answer>Symptoms may include any of the following:  Bleeding into joints or muscles, Bruising easily, Heavy bleeding, Heavy menstrual bleeding, Nosebleeds that do not stop easily, Excessive bleeding with surgical procedures, Umbilical cord bleeding after birth ,  The problems that occur depend on the specific bleeding disorder, and how severe it is.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000472-4" qtype="exams and tests">How to diagnose Bleeding disorders ?</Question>
+			<Answer>Tests that may be done include: Complete blood count  (CBC),  Partial thromboplastin time  (PTT),  Platelet aggregation test ,  Prothrombin time  (PT), Mixing study, a special PTT test to confirm the factor deficiency , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000472-5" qtype="treatment">What are the treatments for Bleeding disorders ?</Question>
+			<Answer>Treatment depends on the type of disorder. It may include: Clotting factor replacement, Fresh frozen plasma transfusion, Platelet transfusion, Other treatments, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000472-6" qtype="outlook">What is the outlook for Bleeding disorders ?</Question>
+			<Answer>Outcome also depends on the disorder. Most primary bleeding disorders can be managed. When the disorder is due to diseases, such as DIC, the outcome will depend on how well the underlying disease can be treated.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000472-7" qtype="complications">What are the complications of Bleeding disorders ?</Question>
+			<Answer>Complications may include: Bleeding in the brain , Severe bleeding (usually from the gastrointestinal tract or injuries) ,  Other complications can occur, depending on the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000472-8" qtype="when to contact a medical professional">Do I need to see a doctor for Bleeding disorders ?</Question>
+			<Answer>Contact your health care provider if you notice any unusual or severe bleeding.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000472-9" qtype="prevention">How to prevent Bleeding disorders ?</Question>
+			<Answer>Prevention depends on the specific disorder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

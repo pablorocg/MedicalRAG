@@ -1,0 +1,16 @@
+<Document id="0001975" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000193.htm">
+ 
+<Focus>High-fiber foods</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Dietary fiber - self-care</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001975-1" qtype="information">Do you have information about High-fiber foods</Question>
+			<Answer>Fiber is a substance found in plants. Dietary fiber, the kind you eat, is found in fruits, vegetables, and grains. Your body cannot digest fiber, so it passes through your intestines without being absorbed much. However, fiber still provides many health benefits.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

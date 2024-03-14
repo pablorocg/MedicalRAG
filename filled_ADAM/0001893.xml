@@ -1,0 +1,33 @@
+<Document id="0001893" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000836.htm">
+ 
+<Focus>Heel pain and Achilles tendonitis - aftercare</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0263933</CUI>
+			<CUI>C0231780</CUI>
+			<CUI>C0149846</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001893-1" qtype="information">What is (are) Heel pain and Achilles tendonitis - aftercare ?</Question>
+			<Answer>When you overuse the Achilles tendon, it can become swollen and painful near the bottom of the foot and cause heel pain. This is called  Achilles tendonitis  or Achilles tendinopathy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001893-2" qtype="information">What is (are) Heel pain and Achilles tendonitis - aftercare ?</Question>
+			<Answer>When you overuse the Achilles tendon, it can become swollen and painful near the bottom of the foot and cause heel pain. This is called  Achilles tendonitis  or Achilles tendinopathy.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001893-3" qtype="outlook">What is the outlook for Heel pain and Achilles tendonitis - aftercare ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

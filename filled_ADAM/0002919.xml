@@ -1,0 +1,47 @@
+<Document id="0002919" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003116.htm">
+ 
+<Focus>Painful swallowing</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221150</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Swallowing - pain or burning</Synonym>
+		<Synonym>Odynophagia</Synonym>
+		<Synonym>Burning feeling when swallowing</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002919-1" qtype="information">What is (are) Painful swallowing ?</Question>
+			<Answer>Painful swallowing is any pain or discomfort while swallowing. You may feel it high in the neck or lower down behind the breastbone. Most often, the pain feels like a strong sensation of squeezing or burning. Painful swallowing may be a symptom of a serious disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002919-2" qtype="considerations">What to do for Painful swallowing ?</Question>
+			<Answer>Swallowing involves many nerves and muscles in the mouth, throat area, and food pipe (esophagus). Part of swallowing is voluntary. This means you are aware of controlling the action. However, much of swallowing is involuntary once it starts. Watch this video about: Swallowing Problems at any point in the swallowing process (including chewing, moving food to the back of the mouth, or moving it to the stomach) can result in painful swallowing. Swallowing problems can cause symptoms such as: Chest pain , Feeling of food stuck in the throat, Heaviness or pressure in the neck or upper chest while eating , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002919-3" qtype="causes">What causes Painful swallowing ?</Question>
+			<Answer>Swallowing problems may be due to infections, such as: Cytomegalovirus, Gum disease ( gingivitis ), Herpes simplex virus, Human immunodeficiency virus (HIV),  Pharyngitis  (sore throat),  Thrush  (yeast infection of the mouth), Yeast infection of the esophagus,  Swallowing problems may be due to a problem with the esophagus, such as: Achalasia ,  Esophageal spasms ,  Gastroesophageal reflux disease  (GERD),  Inflammation of the esophagus ,  Nutcracker esophagus , Ulcer in the esophagus, especially due to tetracyclines (antibiotic), aspirin, and nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen or naproxen, Eosinophilic esophagitis,  Other causes of swallowing problems include: Mouth or throat ulcers, Something stuck in the throat (for example, fish or chicken bones), Tooth infection or abscess , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002919-4" qtype="considerations">What to do for Painful swallowing ?</Question>
+			<Answer>Swallowing involves many nerves and muscles in the mouth, throat area, and food pipe (esophagus). Part of swallowing is voluntary. This means you are aware of controlling the action. However, much of swallowing is involuntary once it starts. Watch this video about: Swallowing Problems at any point in the swallowing process (including chewing, moving food to the back of the mouth, or moving it to the stomach) can result in painful swallowing. Swallowing problems can cause symptoms such as: Chest pain , Feeling of food stuck in the throat, Heaviness or pressure in the neck or upper chest while eating , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002919-5" qtype="when to contact a medical professional">Do I need to see a doctor for Painful swallowing ?</Question>
+			<Answer>Contact your health care provider if you have painful swallowing and: Blood in your stools or your stools appear black or tarry, Shortness of breath or lightheadedness, Weight loss ,  Tell your provider about any other symptoms that occur with the painful swallowing, including: Abdominal pain, Chills, Cough, Fever, Heartburn, Nausea or vomiting, Sour taste in the mouth, Wheezing , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002919-6" qtype="outlook">What is the outlook for Painful swallowing ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

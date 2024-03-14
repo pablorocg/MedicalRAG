@@ -1,0 +1,36 @@
+<Document id="0000939" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000125.htm">
+ 
+<Focus>Concussion - child - discharge</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006107</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Mild brain injury - child - discharge</Synonym>
+		<Synonym>Brain injury - mild - discharge</Synonym>
+		<Synonym>Mild traumatic brain injury - child - discharge</Synonym>
+		<Synonym>Closed head injury - child - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000939-1" qtype="information">What is (are) Concussion - child - discharge ?</Question>
+			<Answer>Your child was treated for a  concussion . This is a mild brain injury that can result when the head hits an object or a moving object strikes the head. It can affect how your child's brain works for a while. It may also have made your child lose consciousness for a short time. Your child may have a bad headache. At home, follow the health care provider's instructions on how to care for your child. Use the information below as a reminder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000939-2" qtype="outlook">What is the outlook for Concussion - child - discharge ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000939-5" qtype="when to contact a medical professional">Do I need to see a doctor for Concussion - child - discharge ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

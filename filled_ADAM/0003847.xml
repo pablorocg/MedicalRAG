@@ -1,0 +1,25 @@
+<Document id="0003847" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000361.htm">
+ 
+<Focus>Talking to someone with hearing loss</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011053</CUI>
+			<CUI>C1384666</CUI>
+			<CUI>C2029884</CUI>
+			<CUI>C0018772</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003847-1" qtype="information">What is (are) Talking to someone with hearing loss ?</Question>
+			<Answer>It may be hard for a person with hearing loss to understand a conversation with another person. Being in a group, conversation can be even harder. The person with hearing loss can feel isolated or cut off. If you live or work with someone who does not hear well, follow the tips below to better communicate.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

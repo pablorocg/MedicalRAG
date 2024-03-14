@@ -1,0 +1,20 @@
+<Document id="0000179" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000508.htm">
+ 
+<Focus>Am I in labor?</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>False labor</Synonym>
+		<Synonym>Braxton Hicks contractions</Synonym>
+		<Synonym>Prodromal labor</Synonym>
+		<Synonym>Latent labor</Synonym>
+		<Synonym>Pregnancy - labor</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000179-1" qtype="information">Do you have information about Am I in labor?</Question>
+			<Answer>If you have never given birth before, you may think you will just know when the time comes. In reality, it is not always easy to know when you are going into labor. The steps leading up to labor can drag on for days. Keep in mind that your due date is just a general idea of when your labor may start. Normal term labor can start any time between 3 weeks before and 2 weeks after this date.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,50 @@
+<Document id="0001260" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003093.htm">
+ 
+<Focus>Dizziness</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1963093</CUI>
+			<CUI>C0012833</CUI>
+			<CUI>C0042571</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lightheadedness - dizzy</Synonym>
+		<Synonym>Loss of balance</Synonym>
+		<Synonym>Vertigo</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001260-1" qtype="information">What is (are) Dizziness ?</Question>
+			<Answer>Dizziness is a term that is often used to describe 2 different symptoms: lightheadedness and vertigo. Lightheadedness is a feeling that you might faint. Vertigo is a feeling that you are spinning or moving, or that the world is spinning around you.  Vertigo-associated disorders  is a related topic.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001260-2" qtype="considerations">What to do for Dizziness ?</Question>
+			<Answer>Most causes of dizziness are not serious, and they either quickly get better on their own or are easy to treat.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001260-3" qtype="causes">What causes Dizziness ?</Question>
+			<Answer>Lightheadedness occurs when your brain does not get enough blood. This may occur if: You have a sudden drop in blood pressure., Your body does not have enough water (is dehydrated) because of vomiting, diarrhea, fever, or other conditions., You get up too quickly after sitting or lying down (this is more common in older people). ,  Lightheadedness may also occur if you have the  flu ,  low blood sugar , a cold, allergies, or take medicines that may lower your blood pressure. More serious conditions that can lead to lightheadedness include: Heart problems, such as a heart attack or abnormal heart beat, Stroke, Bleeding inside the body, Shock (extreme drop in blood pressure) ,  If any of these serious disorders are present, you will usually also have symptoms like chest pain, a feeling of a racing heart, loss of speech, change in vision, or other symptoms. Vertigo may be due to: Benign positional vertigo , a spinning feeling that occurs when you move your head,  Labyrinthitis , a viral infection of the inner ear that usually follows a cold or flu,  Meniere disease , a common inner ear problem ,  Other causes of lightheadedness or vertigo may include: Use of certain medicines, Stroke, Multiple sclerosis, Seizures, Brain tumor, Bleeding in the brain , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001260-4" qtype="considerations">What to do for Dizziness ?</Question>
+			<Answer>Most causes of dizziness are not serious, and they either quickly get better on their own or are easy to treat.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001260-5" qtype="when to contact a medical professional">Do I need to see a doctor for Dizziness ?</Question>
+			<Answer>Call your local emergency number (such as 911) or go to an emergency room if you are dizzy and have: A head injury, Fever over 101&#176;F (38.3&#176;C), headache, or very stiff neck, Seizures, Trouble keeping fluids down, Chest pain, Irregular heart rate (heart is skipping beats), Shortness of breath, Weakness, Inability to move an arm or leg, Change in vision or speech, Fainting and loss of alertness for more than a few minutes ,  Contact your health care provider for an appointment if you have: Dizziness for the first time, New or worsening symptoms, Dizziness after taking medicine, Hearing loss , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001260-6" qtype="outlook">What is the outlook for Dizziness ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,53 @@
+<Document id="0000612" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001231.htm">
+ 
+<Focus>Bunions</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006386</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T020</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hallux valgus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000612-1" qtype="information">What is (are) Bunions ?</Question>
+			<Answer>A bunion forms when your big toe points outward toward your second toe. This causes a bump to appear on the inside edge of your toe.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000612-2" qtype="causes">What causes Bunions ?</Question>
+			<Answer>Bunions are more common in women than men. The problem can run in families. People born with abnormal alignment of the bones in their feet are more likely to form a bunion.  Wearing narrow-toed, high-heeled shoes may lead to the development of a bunion.  The condition may become painful as the bump gets worse. Extra bone and a fluid-filled sac can grow at the base of the big toe. Watch this video about: Bunion</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000612-3" qtype="symptoms">What are the symptoms of Bunions ?</Question>
+			<Answer>Symptoms may include: Red, thickened skin along the inside edge at the base of the big toe., A bony bump at the first toe joint, with decreased movement in the toe site., Pain over the joint, which pressure from shoes makes worse., Big toe turned outward toward the other toes and may cross over the second toe. As a result, corns and calluses often develop where the first and second toes overlap. , Difficulty wearing regular shoes.,  You may have problems finding shoes that fit or shoes that do not cause pain.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000612-4" qtype="exams and tests">How to diagnose Bunions ?</Question>
+			<Answer>A health care provider can very often diagnose a bunion by looking at it. A foot  x-ray  can show an abnormal angle between the big toe and the foot. In some cases, arthritis may also be seen.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000612-5" qtype="treatment">What are the treatments for Bunions ?</Question>
+			<Answer>When a bunion first begins to develop, you can do the following to care for your feet. Wear wide-toed shoes. This can often solve the problem and prevent you from needing more treatment., Wear felt or foam pads on your foot to protect the bunion, or devices called spacers to separate the first and second toes. These are available at drugstores., Try cutting a hole in a pair of old, comfortable shoes to wear around the house. , Talk to your provider about whether you need inserts to correct flat feet. , Stretch the calf muscle of your leg to have better alignment of your feet., If the bunion gets worse and more painful, surgery may help. The surgery called&#160; bunionectomy  realigns the toe and removes the bony bump. There are more than 100 different surgeries to treat this condition. Please discuss with your surgeon which type can help you and why., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000612-6" qtype="outlook">What is the outlook for Bunions ?</Question>
+			<Answer>You can keep a bunion from worsening by taking care of it. Try to wear different shoes when it first starts to develop.  Teenagers may have more trouble treating a bunion than adults. This may be the result of an underlying bone problem. Surgery reduces the pain in many, but not all people with bunions. After surgery, you may not be able to wear tight or fashionable shoes.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000612-7" qtype="when to contact a medical professional">Do I need to see a doctor for Bunions ?</Question>
+			<Answer>Contact your provider if the bunion: Continues to cause pain, even after self-care such as wearing wide-toed shoes, Prevents you from doing your usual activities, Has any signs of infection (such as redness or swelling), especially if you have diabetes, Worsening pain that is not relieved by rest, Prevents you from finding a shoe that fits, Causes stiffness and loss of movement in your big toe, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000612-8" qtype="prevention">How to prevent Bunions ?</Question>
+			<Answer>Avoid compressing the toes of your foot with narrow, poor-fitting shoes.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

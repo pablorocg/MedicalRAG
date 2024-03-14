@@ -1,0 +1,61 @@
+<Document id="0002267" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000451.htm">
+ 
+<Focus>Juvenile idiopathic arthritis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3495559</CUI>
+			<CUI>C3714757</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Juvenile rheumatoid arthritis (JRA)</Synonym>
+		<Synonym>Juvenile chronic polyarthritis</Synonym>
+		<Synonym>Still disease</Synonym>
+		<Synonym>Juvenile spondyloarthritis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002267-1" qtype="information">What is (are) Juvenile idiopathic arthritis ?</Question>
+			<Answer>Juvenile idiopathic arthritis (JIA) is a term used to describe a group of disorders in children that includes arthritis. They are long-term (chronic) diseases that cause joint pain and swelling. The names describing this group of conditions has changed over the past several decades as more is learned about the condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002267-2" qtype="causes">What causes Juvenile idiopathic arthritis ?</Question>
+			<Answer>The cause of JIA is not known. It is thought to be an  autoimmune illness . This means the body attacks and destroys healthy body tissue by mistake. JIA most often develops before age 16. Symptoms may start as early as 6 months old. The International League of Associations for Rheumatology (ILAR) has proposed the following way of grouping this type of childhood arthritis: Systemic-onset JIA. Involves joint swelling or pain, fevers, and rash. It is the least common type but it can be the most severe. It appears to be different than the other types of JIA and is similar to Adult Onset Stills Disease., Polyarthritis. Involves many joints. This form of JIA may turn into rheumatoid arthritis. It may involve 5 or more large and small joints of the legs and arms, as well as the jaw and neck. Rheumatoid factor may be present., Oligoarthritis (persistent and extended). Involves 1 to 4 joints, most often the wrists, or knees. It also affects the eyes., Enthesitis-related arthritis. Resembles spondyloarthritis in adults and often involves the sacroiliac joint., Psoriatic arthritis. Diagnosed in children who have arthritis and psoriasis or nail disease, or have a close family member with psoriasis., </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002267-3" qtype="symptoms">What are the symptoms of Juvenile idiopathic arthritis ?</Question>
+			<Answer>Symptoms of JIA may include: Swollen, red, or warm joint, Limping or problems using a limb, Sudden high fever, which may come back, Rash (on trunk and extremities) that comes and goes with fever, Stiffness, pain, and  limited movement  of a joint, Low back pain that does not go away, Bodywide symptoms such as pale skin, swollen lymph gland, and a sick appearance ,  JIA can also cause eye problems called  uveitis , iridocyclitis, or iritis. There may be no eye symptoms. When eye symptoms occur, they can include: Red eyes ,  Eye pain , which may get worse when looking at light ( photophobia ),  Vision changes , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002267-4" qtype="exams and tests">How to diagnose Juvenile idiopathic arthritis ?</Question>
+			<Answer>The physical exam may show swollen, warm, and tender joints that hurt to move. The child may have a rash. Other signs include: Swollen liver ,  Swollen spleen ,  Swollen lymph nodes ,  Blood tests may include: Rheumatoid factor , Anti-cyclic citrullinated peptide (CCP) antibody, Erythrocyte sedimentation rate ( ESR ), Antinuclear antibody ( ANA ), Complete blood count ( CBC ), HLA-B27,  Any or all of these blood tests may be normal in children with JIA. The health care provider may place a small needle into a swollen joint to remove fluid. This can help to find the cause of the arthritis. It can also help relieve pain. The provider may inject steroids into the joint to help reduce swelling. Other tests that may be done include: X-ray  of a joint,  Bone scan ,  X-ray of the chest ,  ECG , Regular eye exam by an ophthalmologist -- This should be done even if there are no eye symptoms., </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002267-5" qtype="treatment">What are the treatments for Juvenile idiopathic arthritis ?</Question>
+			<Answer>Nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen or naproxen may be enough to control symptoms when only a small number of joints are involved. Corticosteroids may be used for more severe flare-ups to help control symptoms. Because of their toxicity, long-term use of these medicines should be avoided in children. Children who have arthritis in many joints, or who have fever, rash, and swollen glands may need other medicines. These are called disease-modifying antirheumatic drugs (DMARDs). They can help reduce swelling in the joints or body. DMARDs include: Methotrexate, Biologic DMARDs such as anti-tumor necrosis factor (TNF) agents, IL-1 inhibitors and IL-6 inhibitors.,  Children with JIA need to stay active. Exercise will help keep their muscles and joints strong and mobile. Walking, bicycling, and swimming may be good activities., Children should learn to warm up before exercising., Talk to the doctor or physical therapist about exercises to do when your child is having pain.,  Children who have sadness or anger about their arthritis may need extra  support . Some children with JIA may need surgery, including joint replacement.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002267-6" qtype="outlook">What is the outlook for Juvenile idiopathic arthritis ?</Question>
+			<Answer>Children with only a few affected joints may have no symptoms for a long period. In many children, the disease will become inactive and cause very little joint damage. The severity of the disease depends on the number of affected joints. It is less likely that symptoms will go away in these cases. These children more often have long-term (chronic) pain, disability, and problems at school.&#160;Some children may continue to have arthritis as adults.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002267-7" qtype="complications">What are the complications of Juvenile idiopathic arthritis ?</Question>
+			<Answer>Complications may include: Wearing away or destruction of joints (can occur in people with more severe JIA), Slow rate of growth, Uneven growth of an arm or leg,  Loss of vision  or  decreased vision  from chronic uveitis (this problem may be severe, even when the arthritis is not very severe),  Anemia , Swelling around the heart ( pericarditis ), Long-term (chronic) pain, poor school attendance , Macrophage activation syndrome, a severe illness that may develop with systemic JIA, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002267-8" qtype="when to contact a medical professional">Do I need to see a doctor for Juvenile idiopathic arthritis ?</Question>
+			<Answer>Contact your provider if: You, or your child, notice symptoms of JIA, Symptoms get worse or do not improve with treatment, New symptoms develop, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002267-9" qtype="prevention">How to prevent Juvenile idiopathic arthritis ?</Question>
+			<Answer>There is no known prevention for JIA.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

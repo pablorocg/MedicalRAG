@@ -1,0 +1,63 @@
+<Document id="0001766" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000135.htm">
+ 
+<Focus>Granulomatosis with polyangiitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0043092</CUI>
+			<CUI>C3495801</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Formerly: Wegener's granulomatosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001766-1" qtype="information">What is (are) Granulomatosis with polyangiitis ?</Question>
+			<Answer>Granulomatosis with polyangiitis (GPA) is a rare disorder in which blood vessels become inflamed. This leads to damage in major organs of the body. It was formerly known as Wegener's granulomatosis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001766-2" qtype="causes">What causes Granulomatosis with polyangiitis ?</Question>
+			<Answer>GPA mainly causes inflammation of blood vessels in the lungs, kidneys, nose, sinuses, and ears. This is called vasculitis or angiitis. Other areas may also be affected in some cases. The disease can be fatal and prompt treatment is important. In most cases, the exact cause is not known, but it is an  autoimmune disorder . Rarely, vasculitis with positive antineutrophil cytoplasmic antibodies (ANCA) has been caused by several drugs including cocaine cut with levamisole, hydralazine, propylthiouracil, and minocycline. GPA is most common in middle-aged adults of northern European descent. It is rare in children.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001766-3" qtype="symptoms">What are the symptoms of Granulomatosis with polyangiitis ?</Question>
+			<Answer>Frequent sinusitis and bloody noses are the most common symptoms. Other early symptoms include a fever that has no clear cause, night sweats,  fatigue , and a general ill feeling ( malaise ). Other common symptoms may include: Chronic ear infections, Pain, and sores around the opening of the nose, Cough with or without blood in the sputum, Chest pain and shortness of breath as the disease progresses, Loss of appetite and weight loss, Skin changes such as bruises and ulcers of the skin, Kidney problems, Bloody urine, Eye problems ranging from mild  conjunctivitis  to severe swelling of the eye,  Less common symptoms include: Joint pain, Weakness, Abdominal pain, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001766-4" qtype="exams and tests">How to diagnose Granulomatosis with polyangiitis ?</Question>
+			<Answer>You may have a blood test that looks for ANCA proteins. These tests are done in most people with active GPA. However, this test is sometimes negative, even in people with the condition. A chest x-ray will be done to look for signs of lung disease. Urinalysis  is done to look for signs of kidney disease such as protein and blood in the urine. Sometimes urine is collected over 24 hours to check how the kidneys are working. Standard blood tests include: Complete blood count (CBC), Comprehensive metabolic panel, Erythrocyte sedimentation rate (ESR),  Blood tests may be done to exclude other illnesses. These may include:
+ Antinuclear antibodies, Anti-glomerular basement membrane (anti-GBM) antibodies, C3 and C4, cryoglobulins, hepatitis serologies, HIV, Liver function tests, Tuberculosis screen and blood cultures,  A  biopsy  is sometimes needed to confirm the diagnosis and check how severe the disease is. A kidney biopsy is most commonly done. You may also have one of the following: Nasal mucosal biopsy ,  Open lung biopsy , Skin biopsy,  Upper airway biopsy ,  Other tests that may be done include: Sinus CT scan , Chest CT scan, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001766-5" qtype="treatment">What are the treatments for Granulomatosis with polyangiitis ?</Question>
+			<Answer>Because of the potentially serious nature of GPA, you may be hospitalized. Once the diagnosis is made, you will probably be treated with high doses of glucocorticoids (such as prednisone). These are given through the vein for 3 to 5 days at the beginning of treatment. Prednisone is given along with other medicines that slow down the immune response. For milder disease other medicines that slow down the immune response such as methotrexate or azathioprine may be used. Common medicines for vasculitis include: Rituximab (Rituxan), Cyclophosphamide (Cytoxan), Methotrexate, Azathioprine (Imuran), Mycophenolate (Cellcept or Myfortic),  These medicines are effective in severe disease, but they may cause serious side effects. Most people with GPA are treated with ongoing medicines to prevent relapse for at least 12 to 24 months. Talk to your health care provider about your treatment plan. Other medicines used for GPA include: Medicines to prevent bone loss caused by prednisone, Folic acid or folinic acid, if you are taking methotrexate, Antibiotics to prevent lung infections, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001766-6" qtype="support groups">Where to find support for people with Granulomatosis with polyangiitis ?</Question>
+			<Answer>Support groups with others who suffer from similar diseases may help people with the condition and their families learn about the diseases and adjust to the changes associated with the treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001766-7" qtype="outlook">What is the outlook for Granulomatosis with polyangiitis ?</Question>
+			<Answer>Without treatment, people with severe forms of this disease can die within a few months. With treatment, the outlook for most patients is good. Most people who receive corticosteroids and other medicines that slow the immune response get much better. Most people with GPA are treated with ongoing medicines to prevent relapse for at least 12 to 24 months.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001766-8" qtype="complications">What are the complications of Granulomatosis with polyangiitis ?</Question>
+			<Answer>Complications most often occur when the disease is not treated. People with GPA develop tissue damage in the lungs, airways, and the kidneys. Kidney involvement may result in blood in the urine and kidney failure. Kidney disease can quickly get worse. Kidney function may not improve even when the condition is controlled by medicines. If untreated, kidney failure and possibly death occur in most cases. Other complications may include: Eye swelling, Lung failure, Coughing up blood, Nasal septum perforation (hole inside the nose), Side effects from medicines used to treat the disease, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001766-9" qtype="when to contact a medical professional">Do I need to see a doctor for Granulomatosis with polyangiitis ?</Question>
+			<Answer>Call your provider if: You develop chest pain and shortness of breath., You cough up blood., You have blood in your urine., You have other symptoms of this disorder., </Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0001766-10" qtype="prevention">How to prevent Granulomatosis with polyangiitis ?</Question>
+			<Answer>There is no known prevention.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

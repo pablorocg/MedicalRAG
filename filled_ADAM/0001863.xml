@@ -1,0 +1,23 @@
+<Document id="0001863" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007344.htm">
+ 
+<Focus>Heart CT scan</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>CAT scan - heart</Synonym>
+		<Synonym>Computed axial tomography scan - heart</Synonym>
+		<Synonym>Computed tomography scan - heart</Synonym>
+		<Synonym>Calcium scoring</Synonym>
+		<Synonym>Multi-detector CT scan - heart</Synonym>
+		<Synonym>Electron beam computed tomography - heart</Synonym>
+		<Synonym>Agaston score</Synonym>
+		<Synonym>Coronary calcium scan</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001863-1" qtype="information">Do you have information about Heart CT scan</Question>
+			<Answer>A computed tomography (CT) scan of the heart is an imaging method that uses x-rays to create detailed pictures of the heart and its blood vessels. This test is called a coronary calcium scan when it is done to see if you have a buildup of calcium in your heart arteries., It is called CT angiography if it is done to look at the arteries that bring blood to your heart. This test evaluates if there is narrowing or a blockage in those arteries., The test is sometimes done in combination with scans of the  aorta  or  pulmonary arteries  to look for problems with those structures., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,53 @@
+<Document id="0001082" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000148.htm">
+ 
+<Focus>Cystic hygroma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206620</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lymphangioma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001082-1" qtype="information">What is (are) Cystic hygroma ?</Question>
+			<Answer>A cystic hygroma is a growth that often occurs in the head and neck area. It is a birth defect.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001082-2" qtype="causes">What causes Cystic hygroma ?</Question>
+			<Answer>A cystic hygroma occurs as the baby grows in the womb. It forms from pieces of material that carry fluid and white blood cells. This material is called embryonic  lymphatic tissue . After birth, a cystic hygroma most often looks like a soft bulge under the skin. The cyst may not be found at birth. It typically grows as the child grows. Sometimes it is not noticed until the child is older.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001082-3" qtype="symptoms">What are the symptoms of Cystic hygroma ?</Question>
+			<Answer>A common symptom is a neck growth. It may be found at birth, or discovered later in an infant after an upper respiratory tract infection (such as a cold).</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001082-4" qtype="exams and tests">How to diagnose Cystic hygroma ?</Question>
+			<Answer>Sometimes, a cystic hygroma is seen using a  pregnancy ultrasound  when the baby is still in the womb. This can mean that the baby has a  chromosomal  problem or other birth defects. The following tests may be done: Chest x-ray, Ultrasound, CT scan, MRI scan,  If the condition is detected during a pregnancy ultrasound, other ultrasound tests or amniocentesis may be recommended.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001082-5" qtype="treatment">What are the treatments for Cystic hygroma ?</Question>
+			<Answer>Treatment involves removing all of the abnormal tissue. However, cystic hygromas can often grow, making it impossible to remove all of the tissue. Other treatments have been tried with only limited success. These include: Chemotherapy medicines, Injection of sclerosing medicines into the cystic hygroma, Radiation therapy, Steroids, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001082-6" qtype="outlook">What is the outlook for Cystic hygroma ?</Question>
+			<Answer>The outlook is good if surgery can totally remove the abnormal tissue. In cases where complete removal is not possible, the cystic hygroma commonly returns. The long-term outcome may also depend on what other chromosomal abnormalities or birth defects, if any, are present.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001082-7" qtype="complications">What are the complications of Cystic hygroma ?</Question>
+			<Answer>Complications may include: Bleeding ,  Damage to structures in the neck caused by surgery ,  Infection ,  Return of the cystic hygroma , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001082-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cystic hygroma ?</Question>
+			<Answer>If you notice a lump in your neck or your child's neck, contact your health care provider. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

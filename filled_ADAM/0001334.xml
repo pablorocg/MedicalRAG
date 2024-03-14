@@ -1,0 +1,50 @@
+<Document id="0001334" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001339.htm">
+ 
+<Focus>Ebola virus disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0282687</CUI>
+			<CUI>C0042769</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ebola hemorrhagic fever</Synonym>
+		<Synonym>Ebola virus infection</Synonym>
+		<Synonym>Viral hemorrhagic fever</Synonym>
+		<Synonym>Ebola</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001334-1" qtype="information">What is (are) Ebola virus disease ?</Question>
+			<Answer>Ebola is a severe and often deadly disease caused by a virus. Symptoms include fever, diarrhea, vomiting, bleeding, and often, death. Ebola can occur in humans and other primates (gorillas, monkeys, and chimpanzees). The Ebola outbreak in West Africa that began in March 2014 was the largest hemorrhagic viral epidemic in history. Almost 40% of the people who developed Ebola in this outbreak died. The virus poses a very low risk to people in the United States. For the most up-to-date information, please visit the Centers for Disease Control and Prevention's (CDC) website:  www.cdc.gov/vhf/ebola .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001334-2" qtype="causes">What causes Ebola virus disease ?</Question>
+			<Answer>WHERE EBOLA OCCURS Ebola was discovered in 1976 near the Ebola River in the Democratic Republic of the Congo. Since then, several small outbreaks have occurred in Africa. The 2014 outbreak was the largest. The countries most affected in this outbreak included: Guinea, Liberia, Sierra Leone ,  Ebola has been previously reported in: Nigeria, Senegal, Spain, United States, Mali, United Kingdom, Italy ,  There were four people diagnosed with Ebola in the United States. Two were imported cases, and two contracted the disease after caring for an Ebola patient in the United States. One man died from the disease. The other three recovered and do not have any symptoms of the disease. For the latest information on Ebola, visit the World Health Organization website at  www.who.int/health-topics/ebola#tab=tab_1 . HOW EBOLA CAN SPREAD Ebola does not spread as easily as more common illnesses such as colds, the flu, or measles. There is NO evidence that the virus that causes Ebola is spread through the air or water. A person who has Ebola CANNOT spread the disease until symptoms appear. 
+  Ebola can ONLY spread between humans by direct contact with infected body fluids including but not limited to urine, saliva, sweat, feces, vomit, breast milk, and semen. The virus can enter the body through a break in the skin or through mucous membranes, including the eyes, nose, and mouth. Ebola can also spread by contact with ANY surfaces, objects, and materials that have been in contact with body fluids from a sick person, such as: Bedclothes and bedding, Clothing, Bandages, Needles and syringes, Medical equipment ,  In Africa, Ebola may also be spread by: Handling infected wild animals hunted for food (bushmeat), Contact with blood or body fluids of infected animals, Contact with infected bats ,  Ebola does NOT spread through: Air, Water, Food, Insects (mosquitoes) ,  Health care workers and people caring for sick relatives are at high risk for developing Ebola because they are more likely to come in to direct contact with body fluids. The proper use of personal protective equipment ( PPE )&#160;greatly reduces this risk.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001334-3" qtype="symptoms">What are the symptoms of Ebola virus disease ?</Question>
+			<Answer>The time between exposure and when symptoms occur (incubation period) is 2 to 21 days. On average, symptoms develop in 8 to 10 days. Early symptoms of Ebola include: Fever greater than 101.5&#176;F (38.6&#176;C), Chills, Severe headache, Sore throat, Muscle pain, Weakness, Fatigue, Rash, Abdominal (stomach) pain, Diarrhea, Vomiting ,  Late symptoms include: Bleeding from the mouth and rectum, Bleeding from eyes, ears, and nose, Organ failure ,  A person who does not have symptoms 21 days after being exposed to Ebola will not develop the disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001334-4" qtype="treatment">What are the treatments for Ebola virus disease ?</Question>
+			<Answer>There is no known cure for Ebola. Experimental treatments have been used, but none have been fully tested to see if they work well and are safe. People with Ebola must be treated in a hospital. There, they can be isolated so the disease cannot spread. Health care providers will treat the symptoms of the disease. Treatment for Ebola is supportive and includes: Fluids given through a vein (IV), Oxygen, Blood pressure management, Treatment for other infections, Blood transfusions ,  Survival depends on how a person's immune system responds to the virus. A person also may be more likely to survive if they receive good medical care. People who survive Ebola are immune from the virus for 10 years or more. They can no longer spread Ebola. It is not known whether they can be infected with a different species of Ebola. However, men who survive can carry the Ebola virus in their sperm for as long as 3 to 9 months. They should abstain from sex or use condoms for 12 months or until their semen has twice tested negative. Long-term complications can include joint and vision problems.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001334-5" qtype="when to contact a medical professional">Do I need to see a doctor for Ebola virus disease ?</Question>
+			<Answer>Contact your provider if you have traveled to West Africa and: Know you have been exposed to Ebola, You develop symptoms of the disorder, including fever ,  Getting treatment right away may improve the chances of survival.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001334-6" qtype="prevention">How to prevent Ebola virus disease ?</Question>
+			<Answer>A vaccine (Ervebo) is available to prevent Ebola virus disease in people who live in the most at-risk countries during an outbreak. If you plan to travel to one of the countries where Ebola is present, the CDC recommends taking the following steps to prevent illness: Practice careful hygiene. Wash your hands with soap and water or an alcohol-based hand sanitizer. Avoid contact with blood and body fluids., Avoid contact with people who have a fever, are vomiting, or appear ill., Do not handle items that may have come in contact with an infected person's blood or body fluids. This includes clothes, bedding, needles, and medical equipment., Avoid funeral or burial rituals that require handling the body of someone who has died from Ebola., Avoid contact with bats and nonhuman primates or blood, fluids, and raw meat prepared from these animals., Avoid hospitals in West Africa where Ebola patients are being treated. If you need medical care, the United States embassy or consulate is often able to provide advice about facilities., After you return, pay attention to your health for 21 days. Seek medical care right away if you develop symptoms of Ebola, such as a fever. Tell the provider that you have been to a country where Ebola is present.,  Health care workers who may be exposed to people with Ebola should follow these steps: Wear PPE, including protective clothing, including masks, gloves, gowns, and eye protection., Practice proper infection control and sterilization measures., Isolate patients with Ebola from other patients., Avoid direct contact with the bodies of people who have died from Ebola., Notify health officials if you have had direct contact with the blood or body fluids of a person who is sick with Ebola. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

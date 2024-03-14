@@ -1,0 +1,53 @@
+<Document id="0004039" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002489.htm">
+ 
+<Focus>Trisodium phosphate poisoning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0700359</CUI>
+			<CUI>C0274968</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sodium orthophosphate poisoning</Synonym>
+		<Synonym>Trisodium orthophosphate poisoning</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004039-1" qtype="information">What is (are) Trisodium phosphate poisoning ?</Question>
+			<Answer>Trisodium phosphate is a strong chemical. Poisoning occurs if you swallow, breathe in, or spill large amounts of this substance on your skin. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004039-4" qtype="symptoms">What are the symptoms of Trisodium phosphate poisoning ?</Question>
+			<Answer>Below are symptoms of trisodium phosphate poisoning or exposure in different parts of the body. 
+AIRWAYS AND LUNGS
+ Breathing difficulty (from inhaling trisodium phosphate), Coughing, Throat swelling (which may also cause breathing difficulty) ,  
+ESOPHAGUS, STOMACH AND INTESTINES
+ Blood in the stool, Burns of the esophagus (food pipe) and stomach, Diarrhea, Severe abdominal pain, Vomiting, possibly bloody ,  
+EYES, EARS, NOSE, AND THROAT
+ Drooling, Severe pain in the throat, Severe pain or burning in the nose, eyes, ears, lips, or tongue, Vision loss ,  
+HEART AND BLOOD
+ Low blood pressure (develops rapidly), Collapse, Severe change in blood acid level, Shock ,  
+SKIN
+ Burns, Hives, Holes in the skin or tissue under the skin, Skin irritation , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004039-5" qtype="considerations">What to do for Trisodium phosphate poisoning ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004039-8" qtype="outlook">What is the outlook for Trisodium phosphate poisoning ?</Question>
+			<Answer>How well a person does depends on the amount of poison exposure (swallowed, inhaled, on the skin, or in the eyes) and how quickly treatment was received. The faster a person gets medical help, the better the chance for recovery. Severe damage to the mouth, throat, eyes, lungs, esophagus, nose, and stomach are possible. The long-term outcome depends on the extent of this damage. Damage to the esophagus and stomach continues to occur for several weeks after the poison was swallowed. Death may occur as long as a month later. Keep all poisons in their original or childproof container, with labels visible, and out of the reach of children.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0004039-9" qtype="outlook">What is the outlook for Trisodium phosphate poisoning ?</Question>
+			<Answer>How well a person does depends on the amount of poison exposure (swallowed, inhaled, on the skin, or in the eyes) and how quickly treatment was received. The faster a person gets medical help, the better the chance for recovery. Severe damage to the mouth, throat, eyes, lungs, esophagus, nose, and stomach are possible. The long-term outcome depends on the extent of this damage. Damage to the esophagus and stomach continues to occur for several weeks after the poison was swallowed. Death may occur as long as a month later. Keep all poisons in their original or childproof container, with labels visible, and out of the reach of children.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

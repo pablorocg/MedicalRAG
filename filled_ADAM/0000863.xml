@@ -1,0 +1,54 @@
+<Document id="0000863" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001051.htm">
+ 
+<Focus>Cleft lip and palate</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0008924</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cleft palate</Synonym>
+		<Synonym>Craniofacial defect</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000863-1" qtype="information">What is (are) Cleft lip and palate ?</Question>
+			<Answer>Cleft lip and palate are birth defects that affect the upper lip and the roof of the mouth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000863-2" qtype="causes">What causes Cleft lip and palate ?</Question>
+			<Answer>There are many causes of cleft lip and palate. Problems with genes passed down from 1 or both parents, drugs, viruses, or other toxins can all cause these birth defects. Cleft lip and palate may occur along with other syndromes or birth defects. A cleft lip and palate can: Affect the appearance of the face, Lead to problems with feeding and speech, Lead to ear infections ,  Babies are more likely to be born with a cleft lip and palate if they have a family history of these conditions or other birth defects. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000863-3" qtype="symptoms">What are the symptoms of Cleft lip and palate ?</Question>
+			<Answer>A child may have one or more birth defects and the severity can vary significantly. A cleft lip may be just a small notch in the lip. It may also be a complete split in the lip that goes all the way to the base of the nose. A cleft palate can be on one or both sides of the roof of the mouth. It may go the full length of the palate. Other symptoms include: Change in nose shape (how much the shape changes varies), Poorly aligned teeth ,  Problems that may be present because of a cleft lip or palate are: Failure to gain weight, Feeding problems, Flow of milk through nasal passages during feeding, Poor growth, Repeated ear infections, Speech difficulties , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000863-4" qtype="exams and tests">How to diagnose Cleft lip and palate ?</Question>
+			<Answer>A physical exam of the mouth, nose, and palate confirms a cleft lip or cleft palate. Medical tests may be done to rule out other possible health conditions.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000863-5" qtype="treatment">What are the treatments for Cleft lip and palate ?</Question>
+			<Answer>Surgery to close the cleft lip  is often done when the child is between 2 to 9 months old. Surgery may be needed later in life if the problem has a major effect on the nose area. Some patients may receive tympanostomy tubes during the surgery also. A cleft palate is most often closed within the first year of life so that the child's speech develops normally. Sometimes, a prosthetic device is temporarily used to close the palate so the baby can feed and grow until surgery can be done. Continued follow-up may be needed with speech therapists and orthodontists.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000863-6" qtype="support groups">Where to find support for people with Cleft lip and palate ?</Question>
+			<Answer>For more resources and information, see  cleft palate support groups .</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000863-7" qtype="outlook">What is the outlook for Cleft lip and palate ?</Question>
+			<Answer>Most babies will heal without problems. How your child will look after healing depends on the severity of their condition. Your child might need another surgery to fix the scar from the surgery wound. Children who had a cleft palate repair may need to see a dentist or orthodontist. Their teeth may need to be corrected as they come in. Hearing problems are common in children with cleft lip or palate. Your child should have a hearing test at an early age, and it should be repeated over time. Your child may still have problems with speech after the surgery. This is caused by muscle problems in the palate. Speech therapy will help your child. </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000863-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cleft lip and palate ?</Question>
+			<Answer>Cleft lip and palate is most often diagnosed at birth. Follow your health care provider's recommendations for follow-up visits. Contact your provider if problems develop between visits.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

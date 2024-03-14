@@ -1,0 +1,22 @@
+<Document id="0002558" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000374.htm">
+ 
+<Focus>Medications, injections, and supplements for arthritis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003864</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002558-1" qtype="information">What is (are) Medications, injections, and supplements for arthritis ?</Question>
+			<Answer>The  pain, swelling, and stiffness of arthritis  can limit your movement. Medicines can help manage your symptoms so that you can continue to lead an active life. Talk to your health care provider about medicines that are right for you. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

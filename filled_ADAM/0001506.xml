@@ -1,0 +1,48 @@
+<Document id="0001506" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003031.htm">
+ 
+<Focus>Eye redness</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0235267</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bloodshot eyes</Synonym>
+		<Synonym>Red eyes</Synonym>
+		<Synonym>Scleral infection</Synonym>
+		<Synonym>Conjunctival infection</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001506-1" qtype="information">What is (are) Eye redness ?</Question>
+			<Answer>Eye redness is most often due to swollen or dilated blood vessels. This makes the surface of the eye look red or bloodshot.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001506-2" qtype="considerations">What to do for Eye redness ?</Question>
+			<Answer>There are many causes of a red eye or eyes. Some are medical emergencies. Others are a cause for concern, but not an emergency. Many are nothing to worry about. Eye redness is often less of a concern than eye pain or vision problems.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001506-3" qtype="causes">What causes Eye redness ?</Question>
+			<Answer>Bloodshot eyes appear red because the vessels at the surface of the white portion of the eye ( sclera ) become swollen. Vessels may swell due to: Eye dryness, Too much sun exposure, Dust or other particles in the eye, Allergies, Infection, Injury ,  Eye infections or inflammation can cause redness as well as possible itching, discharge, pain, or vision problems. These may be due to: Blepharitis : Swelling along the edge of the eyelid.,  Conjunctivitis : Swelling or infection of the clear tissue that lines the eyelids and covers the surface of the eye (the conjunctiva). This is often referred to as "pink eye.",  Corneal ulcers : Sores on the cornea most often caused by a serious bacterial or viral infection.,  Uveitis : Inflammation of the uvea, which includes the iris, ciliary body, and choroid. The cause is most often not known. It may be related to an autoimmune disorder, infection, or exposure to toxins. The type of uveitis that causes the worst red eye is called iritis, in which only the iris is inflamed. ,  Other potential causes of eye redness include: Colds or allergies., Acute  glaucoma : A sudden increase in eye pressure that is extremely painful and causes serious visual problems. This is a medical emergency. The more common form of glaucoma comes on gradually and is long-term (chronic)., Corneal scratches: Injuries caused by sand, dust, or overuse of contact lenses. ,  Sometimes, a bright red spot, called a subconjunctival hemorrhage, will appear on the white of the eye. This often happens after straining or coughing, which causes a broken blood vessel on the surface of the eye. Most often, there is no pain and your vision is normal. It is almost never a serious problem. It may be more common in people who are taking aspirin or blood thinners. Because the blood leaks into the conjunctiva, which is clear, you cannot wipe or rinse the blood away. Like a bruise, the red spot will change colors (usually yellow) and then go away within a week or two.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001506-4" qtype="considerations">What to do for Eye redness ?</Question>
+			<Answer>There are many causes of a red eye or eyes. Some are medical emergencies. Others are a cause for concern, but not an emergency. Many are nothing to worry about. Eye redness is often less of a concern than eye pain or vision problems.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001506-5" qtype="when to contact a medical professional">Do I need to see a doctor for Eye redness ?</Question>
+			<Answer>Go to the hospital or call 911 or the local emergency number if: Your eye is red after a penetrating injury. ,  You have a headache with blurred vision or confusion. ,  You are seeing halos around lights. ,  You have nausea and vomiting. ,  Contact your health care provider if: Your eyes are red longer than 1 to 2 days., You have  eye pain  or vision changes., You take blood-thinning medicine,&#160;such as&#160;warfarin., You may have an object in your eye., You are very sensitive to light., You have a yellow or greenish discharge from one or both eyes., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001506-6" qtype="outlook">What is the outlook for Eye redness ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

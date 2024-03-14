@@ -1,0 +1,20 @@
+<Document id="0000402" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003462.htm">
+ 
+<Focus>Basic metabolic panel</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>SMAC7</Synonym>
+		<Synonym>Sequential multi-channel analysis with computer-7</Synonym>
+		<Synonym>SMA7</Synonym>
+		<Synonym>Metabolic panel 7</Synonym>
+		<Synonym>CHEM-7</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000402-1" qtype="information">Do you have information about Basic metabolic panel</Question>
+			<Answer>The basic metabolic panel is a group of blood tests that provides information about your body's  metabolism .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

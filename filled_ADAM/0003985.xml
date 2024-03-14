@@ -1,0 +1,58 @@
+<Document id="0003985" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000248.htm">
+ 
+<Focus>Toxic megacolon</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0025162</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Toxic dilation of the colon</Synonym>
+		<Synonym>Megarectum</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003985-1" qtype="information">What is (are) Toxic megacolon ?</Question>
+			<Answer>Toxic megacolon occurs when swelling and inflammation spread into the deeper layers of your colon. As a result, the colon stops working and widens. In severe cases, the colon may rupture.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003985-2" qtype="causes">What causes Toxic megacolon ?</Question>
+			<Answer>The term "toxic" means that this problem is very dangerous. Toxic megacolon may occur in people with an inflamed colon due to:  Ulcerative colitis , or  Crohn disease  that is not well controlled , Infections of the colon such as  Clostridioides &#160; difficile , Ischemic bowel disease,  Other forms of megacolon include pseudo-obstruction, acute colonic ileus, or congenital colonic dilation. These conditions do not involve an infected or inflamed colon.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003985-3" qtype="symptoms">What are the symptoms of Toxic megacolon ?</Question>
+			<Answer>The rapid widening of the colon may cause the following symptoms to occur over a short period of time: Painful,  distended abdomen , Fever (sepsis), Diarrhea (usually bloody), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003985-4" qtype="exams and tests">How to diagnose Toxic megacolon ?</Question>
+			<Answer>The health care provider will perform a physical exam. Findings may include: Tenderness in the abdomen, Reduced or absent  bowel sounds ,  The exam may reveal signs of  septic shock , such as: Increased heart rate, Mental status changes, Rapid heart rate, Low blood pressure,  The provider may order any of the following tests: Abdominal x-ray , ultrasound, CT scan, or MRI scan&#160;, Blood electrolytes,  Complete blood count , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003985-5" qtype="treatment">What are the treatments for Toxic megacolon ?</Question>
+			<Answer>Treatment of the disorder that led to toxic megacolon includes: Steroids and other medicines that suppress the immune system, Antibiotics,  If you have septic shock, you will be admitted to the intensive care unit (ICU) of the hospital. Treatment may include: Breathing machine (mechanical ventilation), Dialysis for kidney failure, Drugs to treat low blood pressure, infection, or poor blood clotting, Fluids given directly into a vein, Oxygen,  If rapid widening is not treated, an opening or rupture can form in the colon. If the condition doesn't improve with medical treatment, surgery will be needed to remove part or all of the colon. You may receive antibiotics to prevent  sepsis  (a severe infection).</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003985-6" qtype="outlook">What is the outlook for Toxic megacolon ?</Question>
+			<Answer>If the condition does not improve, it can be fatal. Colon surgery is usually needed in such cases.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003985-7" qtype="complications">What are the complications of Toxic megacolon ?</Question>
+			<Answer>Complications may include: Perforation of the colon, Sepsis, Shock , Death, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003985-8" qtype="when to contact a medical professional">Do I need to see a doctor for Toxic megacolon ?</Question>
+			<Answer>Go to the emergency room or call the local emergency number (such as 911) if you develop severe abdominal pain, especially if you also have: Bloody diarrhea, Fever, Frequent diarrhea, Rapid heart rate, Tenderness when the abdomen is pressed, Abdominal distention, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003985-9" qtype="prevention">How to prevent Toxic megacolon ?</Question>
+			<Answer>Treating diseases that cause toxic megacolon, such as ulcerative colitis or Crohn disease, can prevent this condition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

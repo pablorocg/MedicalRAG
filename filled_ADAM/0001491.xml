@@ -1,0 +1,57 @@
+<Document id="0001491" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001544.htm">
+ 
+<Focus>Expressive language disorder - developmental</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0236826</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Language disorder - expressive</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001491-1" qtype="information">What is (are) Expressive language disorder - developmental ?</Question>
+			<Answer>Developmental expressive language disorder is a condition in which a child has lower than normal ability in vocabulary, saying complex sentences, and remembering words. However, a child with this disorder may have the normal language skills needed to understand verbal or written communication.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001491-2" qtype="causes">What causes Expressive language disorder - developmental ?</Question>
+			<Answer>Developmental expressive language disorder is common in school-age children. The causes are not well understood. Damage to the cerebrum of the brain and  malnutrition  may cause some cases. Genetic factors may also be involved.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001491-3" qtype="symptoms">What are the symptoms of Expressive language disorder - developmental ?</Question>
+			<Answer>Children with an expressive language disorder have a hard time getting their meaning or message across to others. Symptoms of this disorder may include any of the following: Below-average vocabulary skills, Improper use of tenses (past, present, future), Problems making complex sentences, Problems remembering words , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001491-4" qtype="exams and tests">How to diagnose Expressive language disorder - developmental ?</Question>
+			<Answer>Standardized expressive language and nonverbal intellectual tests should be conducted if an expressive language disorder is suspected. Testing for other learning disabilities may also be needed.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001491-5" qtype="treatment">What are the treatments for Expressive language disorder - developmental ?</Question>
+			<Answer>Language therapy is the best method to treat this type of disorder. The goal is to increase the number of phrases a child can use. This is done by using block-building techniques and speech therapy.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001491-6" qtype="outlook">What is the outlook for Expressive language disorder - developmental ?</Question>
+			<Answer>How much the child recovers depends on the severity of the disorder. With reversible factors, such as vitamin deficiencies, there may be nearly full recovery. Children who do not have any other developmental or motor coordination problems have the best outlook (prognosis). Often, such children have a family history of delays in language milestones, but eventually catch up.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001491-7" qtype="complications">What are the complications of Expressive language disorder - developmental ?</Question>
+			<Answer>This disorder may lead to: Learning problems, Low self-esteem, Social problems, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001491-8" qtype="when to contact a medical professional">Do I need to see a doctor for Expressive language disorder - developmental ?</Question>
+			<Answer>If you are concerned about a child's language development, have the child tested.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001491-9" qtype="prevention">How to prevent Expressive language disorder - developmental ?</Question>
+			<Answer>Good nutrition during pregnancy, and early childhood and prenatal care may help. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

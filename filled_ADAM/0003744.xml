@@ -1,0 +1,30 @@
+<Document id="0003744" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000768.htm">
+ 
+<Focus>Stress and your heart</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038435</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Coronary heart disease - stress</Synonym>
+		<Synonym>Coronary artery disease - stress</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003744-1" qtype="information">What is (are) Stress and your heart ?</Question>
+			<Answer>Stress  is the way your mind and body react to a threat or a challenge. Simple things, like a crying child, can cause stress. You also feel stress when you're in danger, like during a robbery or car crash. Even positive things, like getting married, can be stressful. Stress is a fact of life. But when it adds up, it can affect your mental and physical health. Too much stress can also be bad for your heart.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003744-7" qtype="when to contact a medical professional">Do I need to see a doctor for Stress and your heart ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

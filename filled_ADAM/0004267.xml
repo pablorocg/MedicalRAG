@@ -1,0 +1,17 @@
+<Document id="0004267" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002471.htm">
+ 
+<Focus>Water in diet</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Diet - water</Synonym>
+		<Synonym>H2O</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004267-1" qtype="information">Do you have information about Water in diet</Question>
+			<Answer>Water is a combination of hydrogen and oxygen. It is the basis for the fluids of the body.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

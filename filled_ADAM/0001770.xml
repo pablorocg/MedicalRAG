@@ -1,0 +1,18 @@
+<Document id="0001770" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001530.htm">
+ 
+<Focus>Grief</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Mourning</Synonym>
+		<Synonym>Grieving</Synonym>
+		<Synonym>Bereavement</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001770-1" qtype="information">Do you have information about Grief</Question>
+			<Answer>Grief is a reaction to a major loss of someone or something. It is most often an unhappy and painful emotion.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

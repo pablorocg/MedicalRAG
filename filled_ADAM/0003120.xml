@@ -1,0 +1,13 @@
+<Document id="0003120" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003721.htm">
+ 
+<Focus>Pleural fluid smear</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003120-1" qtype="information">Do you have information about Pleural fluid smear</Question>
+			<Answer>Pleural fluid smear is a laboratory test to check for bacteria, fungi, mycobacteria, or abnormal cells in a sample of the fluid that has collected in the pleural space. This is the space between the lining of the outside of the lungs (pleura) and the wall of the chest. When fluid collects in the pleural space, the condition is called  pleural effusion .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,48 @@
+<Document id="0001883" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003081.htm">
+ 
+<Focus>Heart palpitations</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1822022</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Heartbeat sensations</Synonym>
+		<Synonym>Irregular heartbeat</Synonym>
+		<Synonym>Palpitations</Synonym>
+		<Synonym>Heart pounding or racing</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001883-1" qtype="information">What is (are) Heart palpitations ?</Question>
+			<Answer>Palpitations are feelings or sensations that your heart is pounding or racing. They can be felt in your chest, throat, or neck. You may: Have an unpleasant awareness of your own heartbeat, Feel like your heart skipped or stopped beats ,  The heart's rhythm may be normal or abnormal when you have palpitations.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001883-2" qtype="considerations">What to do for Heart palpitations ?</Question>
+			<Answer>Normally the heart beats 60 to 100 times per minute. The rate may drop below 60 beats per minute in people who exercise routinely or take medicines that slow the heart.  If your heart rate is fast (over 100 beats per minute), this is called tachycardia. A heart rate slower than 60 is called bradycardia. An occasional extra heartbeat out of rhythm is known as  extrasystole . Palpitations are not serious most of the time. Sensations representing an abnormal heart rhythm ( arrhythmia ) may be more serious. The following conditions make you more likely to have an abnormal heart rhythm:  Known heart disease at the time the palpitations begin, Significant risk factors for  heart disease , An abnormal heart valve, An electrolyte abnormality in your blood -- for example, a low potassium level , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001883-3" qtype="causes">What causes Heart palpitations ?</Question>
+			<Answer>Heart palpitations can be due to: Anxiety, stress, panic attack, or fear, Caffeine intake, Cocaine, methamphetamine or other stimulant drugs, Decongestant medications, such as phenylephrine or pseudoephedrine, Diet pills, Exercise, Fever, Nicotine intake,  However, some palpitations are due to an abnormal heart rhythm, which may be caused by: Heart disease, Abnormal heart valve, such as mitral valve prolapse, Abnormal blood level of potassium, Certain medicines, including those used to treat asthma, high blood pressure, or heart problems, Overactive thyroid, Low level of oxygen in your blood , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001883-4" qtype="considerations">What to do for Heart palpitations ?</Question>
+			<Answer>Normally the heart beats 60 to 100 times per minute. The rate may drop below 60 beats per minute in people who exercise routinely or take medicines that slow the heart.  If your heart rate is fast (over 100 beats per minute), this is called tachycardia. A heart rate slower than 60 is called bradycardia. An occasional extra heartbeat out of rhythm is known as  extrasystole . Palpitations are not serious most of the time. Sensations representing an abnormal heart rhythm ( arrhythmia ) may be more serious. The following conditions make you more likely to have an abnormal heart rhythm:  Known heart disease at the time the palpitations begin, Significant risk factors for  heart disease , An abnormal heart valve, An electrolyte abnormality in your blood -- for example, a low potassium level , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001883-5" qtype="when to contact a medical professional">Do I need to see a doctor for Heart palpitations ?</Question>
+			<Answer>If you have never had heart palpitations before, see your provider. Call 911 or the local emergency number if you have: Loss of alertness (consciousness), Chest pain,  Shortness of breath , Unusual sweating,  Dizziness  or lightheadedness ,  Call your provider right away if: You often feel extra heartbeats (more than 6 per minute or coming in groups of 3 or more)., You have heart disease or risk factors for heart disease, such as high cholesterol, diabetes, or high blood pressure., You have new or different heart palpitations., Your  pulse  is more than 100 beats per minute (without exercise, anxiety, or fever). , You have related symptoms, such as chest pain, shortness of breath, feeling faint, or loss of consciousness. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001883-6" qtype="outlook">What is the outlook for Heart palpitations ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

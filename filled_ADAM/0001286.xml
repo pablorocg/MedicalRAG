@@ -1,0 +1,58 @@
+<Document id="0001286" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000226.htm">
+ 
+<Focus>Drug-induced hepatitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1262760</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Toxic hepatitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001286-1" qtype="information">What is (are) Drug-induced hepatitis ?</Question>
+			<Answer>Drug-induced liver injury (DILI) is an injury of the liver that may occur when you take certain medicines. Other types of liver injury include: Viral hepatitis, Alcoholic hepatitis, Autoimmune hepatitis, Iron overload&#160;, Fatty liver, </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001286-2" qtype="causes">What causes Drug-induced hepatitis ?</Question>
+			<Answer>The liver helps the body break down certain medicines. These include some drugs that you buy over-the-counter or your health care provider prescribes for you. However, the process is slower in some people. This can make you more likely to get liver damage. Some drugs can cause hepatitis with small doses, even if the liver breakdown system is normal. Large doses of many medicines can damage a normal liver. Many different drugs can cause drug-induced hepatitis. Painkillers and fever reducers that contain acetaminophen are a common cause of liver injury, particularly when taken in doses greater than those recommended. People who drink alcohol to excess are more likely to have this problem. Nonsteroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen, diclofenac, and naproxen, may also cause drug-induced hepatitis. Other drugs that can lead to liver injury include: 
+   Amiodarone, Anabolic steroids, Birth control pills, Chlorpromazine, Erythromycin, Halothane (a type of anesthesia), Methyldopa, Isoniazid, Methotrexate, Statins, Sulfa drugs, Tetracyclines, Amoxicillin-clavulanate, Some anti-seizure medicines, Disulfiram, Niacin, Azathoaprine, Ketoconazole, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001286-3" qtype="symptoms">What are the symptoms of Drug-induced hepatitis ?</Question>
+			<Answer>Symptoms may include: Abdominal pain ,  Dark urine ,  Diarrhea ,  Fatigue , Fever, Headache, Jaundice,  Loss of appetite , Nausea and vomiting, Rash, White or clay-colored stools , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001286-4" qtype="exams and tests">How to diagnose Drug-induced hepatitis ?</Question>
+			<Answer>You will have blood tests to check liver function.  Liver enzymes  will be higher if you have the condition. Your provider will do a physical exam to check for an  enlarged liver  and  abdominal tenderness  in the right upper part of the belly area. A rash or fever may be part of some drug reactions that affect the liver.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001286-5" qtype="treatment">What are the treatments for Drug-induced hepatitis ?</Question>
+			<Answer>The only specific treatment for most cases of liver damage caused by taking a drug is to stop taking the drug that caused the problem. However, if you took  high doses of acetaminophen , you should get treated for liver injury in the emergency department or other acute treatment setting as soon as possible as there is a specific antidote for acetaminophen poisoning. If symptoms are severe, you should rest and avoid heavy exercise, alcohol, acetaminophen, and any other substances that might harm the liver. You may need to get fluids through a vein if nausea and vomiting are severe.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001286-6" qtype="outlook">What is the outlook for Drug-induced hepatitis ?</Question>
+			<Answer>Drug-induced liver injury most often goes away within days or weeks after you stop taking the drug that caused it.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001286-7" qtype="complications">What are the complications of Drug-induced hepatitis ?</Question>
+			<Answer>Rarely, drug-induced liver injury can lead to liver failure.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001286-8" qtype="when to contact a medical professional">Do I need to see a doctor for Drug-induced hepatitis ?</Question>
+			<Answer>Contact your provider if: You develop symptoms of liver injury after you start taking a new medicine., You have been diagnosed with drug-induced liver injury and your symptoms do not get better after you stop taking the medicine., You develop any new symptoms. , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001286-9" qtype="prevention">How to prevent Drug-induced hepatitis ?</Question>
+			<Answer>Never use more than the recommended dose of over-the-counter medicines containing acetaminophen (Tylenol). Do not take these medicines if you drink heavily or regularly. Talk to your provider about safe doses. Always tell your provider about all the medicines you take, including over-the-counter drugs and herbal or supplemental preparations. This is very important if you have liver disease.  Talk to your provider about other medicines you may need to avoid. Your provider can tell you which medicines are safe for you.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

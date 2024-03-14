@@ -1,0 +1,38 @@
+<Document id="0000859" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003169.htm">
+ 
+<Focus>Claw hand</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221373</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000859-1" qtype="information">What is (are) Claw hand ?</Question>
+			<Answer>Claw hand is a condition that causes curved or bent fingers. This makes the hand appear like the claw of an animal.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000859-2" qtype="considerations">What to do for Claw hand ?</Question>
+			<Answer>Someone can be born with claw hand (congenital), or they can develop it because of certain disorders, such as a nerve injury.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000859-3" qtype="causes">What causes Claw hand ?</Question>
+			<Answer>Causes may include: Congenital abnormality, Genetic diseases, such as from  Charcot-Marie-Tooth disease ,  Nerve damage  in the arm, Scarring after a severe burn of the hand or forearm , Rare infections, such as  leprosy , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000859-4" qtype="when to contact a medical professional">Do I need to see a doctor for Claw hand ?</Question>
+			<Answer>If the condition is congenital, it is usually diagnosed at birth.  If you notice claw hand developing, contact your health care provider.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000859-5" qtype="outlook">What is the outlook for Claw hand ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

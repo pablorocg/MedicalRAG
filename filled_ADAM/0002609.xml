@@ -1,0 +1,13 @@
+<Document id="0002609" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002258.htm">
+ 
+<Focus>Metabolite</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002609-1" qtype="information">Do you have information about Metabolite</Question>
+			<Answer>A metabolite is any substance produced during  metabolism  (digestion or other bodily chemical processes). The term metabolite may also refer to the product that remains after a medicine is broken down (metabolized) by the body.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

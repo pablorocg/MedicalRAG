@@ -1,0 +1,17 @@
+<Document id="0003302" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003399.htm">
+ 
+<Focus>Pulse</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Heart rate</Synonym>
+		<Synonym>Heart beat</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003302-1" qtype="information">Do you have information about Pulse</Question>
+			<Answer>The pulse is the number of heartbeats per minute.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

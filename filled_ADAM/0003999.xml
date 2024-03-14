@@ -1,0 +1,13 @@
+<Document id="0003999" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000076.htm">
+ 
+<Focus>Tracheostomy care</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003999-1" qtype="information">Do you have information about Tracheostomy care</Question>
+			<Answer>A  tracheostomy  is surgery to create a hole in your neck that goes into your windpipe. If you need it for just a short time, it will be closed later. Some people need the hole for the rest of their life. The hole is needed when your airway is blocked, or for some conditions that make it hard for you to breathe. You may need a tracheostomy if you are on a breathing machine (ventilator) for a long time; a breathing tube from your mouth is too uncomfortable for a long-term solution. The tracheostomy provides a way for your health care providers to gradually remove the ventilator if possible. After the hole is made, a plastic tube is placed in the hole to keep it open. A ribbon is tied around the neck to keep the tube in place.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

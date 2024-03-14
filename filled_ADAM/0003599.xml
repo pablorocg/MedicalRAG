@@ -1,0 +1,47 @@
+<Document id="0003599" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003216.htm">
+ 
+<Focus>Skin - clammy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0392162</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sweat - cold</Synonym>
+		<Synonym>Clammy skin</Synonym>
+		<Synonym>Cold sweat</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003599-1" qtype="information">What is (are) Skin - clammy ?</Question>
+			<Answer>Clammy skin is cool, moist, and usually  pale .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003599-2" qtype="considerations">What to do for Skin - clammy ?</Question>
+			<Answer>Clammy skin may be an emergency. Call your health care provider or 911 or the local emergency number.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003599-3" qtype="causes">What causes Skin - clammy ?</Question>
+			<Answer>Causes of clammy skin include: Anxiety  attack,  Heart attack ,  Heat exhaustion , Internal bleeding, Low blood oxygen levels, Medicine reaction, Sepsis (body-wide infection), Severe allergic reaction (anaphylaxis), Severe pain,  Shock  (low blood pressure), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003599-4" qtype="considerations">What to do for Skin - clammy ?</Question>
+			<Answer>Clammy skin may be an emergency. Call your health care provider or 911 or the local emergency number.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003599-5" qtype="when to contact a medical professional">Do I need to see a doctor for Skin - clammy ?</Question>
+			<Answer>Seek immediate medical help if the person has any of the following signs or symptoms: Altered medical status or thinking ability, Chest, abdominal, or back pain or discomfort, Headache, Passage of blood in the stool: black stool, bright red or maroon blood, Recurrent or persistent vomiting, especially of blood, Possible drug abuse, Shortness of breath, Signs of shock (such as confusion, lower level of alertness, or weak pulse) ,  Always contact your provider or go to the emergency department if the symptoms do not go away quickly.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003599-6" qtype="outlook">What is the outlook for Skin - clammy ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

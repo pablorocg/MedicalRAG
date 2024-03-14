@@ -1,0 +1,63 @@
+<Document id="0000004" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001654.htm">
+ 
+<Focus>Aarskog syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0175701</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Facial-digital-genital syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000004-1" qtype="information">What is (are) Aarskog syndrome ?</Question>
+			<Answer>Aarskog syndrome is a very rare disease that affects a person's height, muscles, skeleton, genitals, and appearance. It can be passed down through families (inherited).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000004-2" qtype="causes">What causes Aarskog syndrome ?</Question>
+			<Answer>Aarskog syndrome is a genetic disorder that is linked to the X chromosome. It affects mainly males, but females may have a milder form. The condition is caused by changes (mutations) in a gene called "faciogenital dysplasia" ( FGD1 ).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000004-3" qtype="symptoms">What are the symptoms of Aarskog syndrome ?</Question>
+			<Answer>Symptoms of this condition include: Belly button that sticks out, Bulge in the groin or scrotum, Delayed sexual maturity, Delayed teeth, Downward  palpebral slant  to eyes (palpebral slant is the direction of the slant from the inner to outer corner of the eye), Hairline with a "widow's peak", Mildly sunken chest (pectus excavatum), Mild to moderate cognitive problems, Mild to moderate short height which may not be obvious until the child is 1 to 3 years old, Poorly developed middle section of the face, Rounded face, Scrotum surrounds the penis (shawl scrotum), Short fingers and toes with mild webbing, Single crease in the palm of the hand, Small, broad hands and feet with short fingers and curved-in fifth finger, Small nose with nostrils tipped forward, Testicles that have not come down (undescended), Top portion of the ear folded over slightly, Wide groove above the upper lip, crease below the lower lip, Wide-set eyes with droopy eyelids , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000004-4" qtype="exams and tests">How to diagnose Aarskog syndrome ?</Question>
+			<Answer>These tests may be done: Genetic testing for mutations in the  FGD1  gene, X-rays , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000004-5" qtype="treatment">What are the treatments for Aarskog syndrome ?</Question>
+			<Answer>Moving the teeth may be done to treat some of the abnormal dental features a person with Aarskog syndrome may have.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000004-6" qtype="support groups">Where to find support for people with Aarskog syndrome ?</Question>
+			<Answer>More information and support for people with Aarskog syndrome and their families can be found at: National Organization for Rare Disorders --  rarediseases.org/rare-diseases/aarskog-syndrome , NIH Genetic and Rare Diseases Information Center --  rarediseases.info.nih.gov/diseases/4775/aarskog-syndrome , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000004-7" qtype="outlook">What is the outlook for Aarskog syndrome ?</Question>
+			<Answer>Some people may have some mental slowness, but children with this condition often have good social skills. Some males may have problems with fertility.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000004-8" qtype="complications">What are the complications of Aarskog syndrome ?</Question>
+			<Answer>These complications can occur: Changes in the brain, Difficulty growing in the first year of life, Poorly aligned teeth, Seizures, Undescended testicles, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000004-9" qtype="when to contact a medical professional">Do I need to see a doctor for Aarskog syndrome ?</Question>
+			<Answer>Call your health care provider if your child has delayed growth or if you notice any symptoms of Aarskog syndrome. Seek genetic counseling if you have a family history of Aarskog syndrome. Contact a genetic specialist if your provider thinks you or your child may have Aarskog syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0000004-10" qtype="prevention">How to prevent Aarskog syndrome ?</Question>
+			<Answer>Genetic testing may be available for people with a family history of the condition or a known mutation of the gene that causes it.
+</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

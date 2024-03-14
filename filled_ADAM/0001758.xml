@@ -1,0 +1,66 @@
+<Document id="0001758" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000422.htm">
+ 
+<Focus>Gout</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018099</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Gouty arthritis - acute</Synonym>
+		<Synonym>Gout - acute</Synonym>
+		<Synonym>Hyperuricemia</Synonym>
+		<Synonym>Tophaceous gout</Synonym>
+		<Synonym>Tophi</Synonym>
+		<Synonym>Podagra</Synonym>
+		<Synonym>Gout - chronic</Synonym>
+		<Synonym>Chronic gout</Synonym>
+		<Synonym>Acute gout</Synonym>
+		<Synonym>Acute gouty arthritis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001758-1" qtype="information">What is (are) Gout ?</Question>
+			<Answer>Gout is a type of arthritis. It occurs when  uric acid  builds up in the blood and causes inflammation in the joints. Acute gout is a painful condition that often affects only one joint. Chronic gout is the repeated episodes of pain and inflammation. More than one joint may be affected. Watch this video about: Gout</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001758-2" qtype="causes">What causes Gout ?</Question>
+			<Answer>Gout is caused by having higher-than-normal level of uric acid in your body. This may occur if: Your body makes too much uric acid, Your body has a hard time getting rid of uric acid,  When uric acid builds up in the fluid around the joints (synovial fluid), uric acid crystals form. These crystals cause the joint to become inflamed, causing pain, swelling and warmth. The exact cause is unknown. Gout may run in families. The problem is more common in men, in women after menopause, and people who drink alcohol. As people become older, gout becomes more common. The condition may also develop in people with: Diabetes , Kidney disease,  Obesity ,  Sickle cell anemia  and other  anemias ,  Leukemia  and other blood cancers,  Gout may occur after taking medicines that interfere with the removal of uric acid from the body. People who take certain medicines, such as hydrochlorothiazide and other water pills, may have a higher level of uric acid in the blood.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001758-3" qtype="symptoms">What are the symptoms of Gout ?</Question>
+			<Answer>Symptoms of acute gout: In most cases, only one or a few joints are affected. The big toe, knee, or ankle joints are most often affected. Sometimes many joints become swollen and painful., The pain starts suddenly, often during the night. Pain is often severe, described as throbbing, crushing, or excruciating., The joint appears warm and red. It is most often very tender and swollen (it hurts to put a sheet or blanket over it)., There may be a  fever ., The attack may go away in a few days, but may return from time to time. Additional attacks often last longer.,  The pain and swelling most often go away after the first attack. Many people will have another attack in the next 6 to 12 months. Some people may develop chronic gout. This is also called gouty arthritis. This condition can lead to joint damage and loss of motion in the joints. People with chronic gout will have joint pain and other symptoms most of the time. Deposits of uric acid can form lumps below the skin around joints or other places such as the elbows, fingertips, and ears. The lump is called a tophus, from Latin, meaning a type of stone. Tophi (multiple lumps) can develop after a person has had gout for many years. These lumps may drain chalky material.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001758-4" qtype="exams and tests">How to diagnose Gout ?</Question>
+			<Answer>Tests that may be done include: Synovial fluid analysis  (shows uric acid crystals),  Uric acid -- blood ,  Joint x-rays  (may be normal),  Synovial biopsy ,  Uric acid -- urine ,  A uric acid level in the blood over 7.2 mg/dL (milligrams per deciliter) is high. But, not everyone with a high uric acid level has gout.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001758-5" qtype="treatment">What are the treatments for Gout ?</Question>
+			<Answer>Take medicines for gout as soon as you can if you have a new attack. Take nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen or indomethacin when symptoms begin. Talk to your health care provider about the correct dose. You may need stronger doses for a few days. A prescription medicine called colchicine helps reduce pain, swelling, and inflammation., Corticosteroids (such as prednisone) can also be very effective. Corticosteroids can be injected into the joint or taken as a pill. Your provider may inject the inflamed joint with steroids to relieve the pain., With attacks of gout in multiple joints an injectable medicine called anakinra (Kineret) may be used., The pain often goes away within 12 hours of starting treatment. Most of the time, all pain is gone within 48 hours.,  You may need to take daily medicines such as allopurinol (Zyloprim), febuxostat (Uloric) or probenecid (Benemid) to decrease the uric acid level in your blood. Additionally, an intravenous medicine called pegloticase (Kystexxa) is available for severe cases. Lowering the uric acid to less than 6 mg/dL is needed to prevent deposits of uric acid. If you have visible tophi, the uric acid should be lower than 5 mg/dL. You may need these medicines if: You have several attacks during the same year or your attacks are quite severe., You have damage to joints., You have tophi., You have kidney disease or  kidney stones .,  Diet and lifestyle changes may help prevent gouty attacks: Decrease alcohol, especially beer (some wine may be helpful)., Lose weight., Exercise daily., Limit your intake of red meat and sugary beverages., Choose healthy foods, such as dairy products, vegetables, nuts, legumes, fruits (less sugary ones), and whole grains., Coffee and vitamin C supplements (may help some people)., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001758-6" qtype="outlook">What is the outlook for Gout ?</Question>
+			<Answer>Proper treatment of acute attacks and lowering uric acid to a level less than 6 mg/dL allows people to live a normal life. However, the acute form of the disease may progress to chronic gout if the high uric acid is not treated adequately.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001758-7" qtype="complications">What are the complications of Gout ?</Question>
+			<Answer>Complications may include: Chronic gouty arthritis., Kidney stones., Deposits in the kidneys, leading to  chronic kidney failure .,  High levels of uric acid in the blood are associated with increased risk for kidney disease. Studies are being done to find out whether lowering uric acid reduces the risk for kidney disease.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001758-8" qtype="when to contact a medical professional">Do I need to see a doctor for Gout ?</Question>
+			<Answer>Contact your provider if you have symptoms of acute gouty arthritis or if you develop tophi.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001758-9" qtype="prevention">How to prevent Gout ?</Question>
+			<Answer>You may not be able to prevent gout, but you may be able to avoid things that trigger symptoms. Taking medicines to lower uric acid can prevent progression of gout. Over time, your deposits of uric acid will disappear.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

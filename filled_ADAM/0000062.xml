@@ -1,0 +1,59 @@
+<Document id="0000062" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000546.htm">
+ 
+<Focus>Acquired platelet function defect</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1855853</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Acquired qualitative platelet disorders</Synonym>
+		<Synonym>Acquired disorders of platelet function</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000062-1" qtype="information">What is (are) Acquired platelet function defect ?</Question>
+			<Answer>Acquired platelet function defects are conditions that prevent clotting elements in the blood called platelets from working as they should. The term acquired means these conditions are not present at birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000062-2" qtype="causes">What causes Acquired platelet function defect ?</Question>
+			<Answer>Platelet disorders can affect the number of platelets, how well they function, or both. A platelet disorder affects normal blood clotting. Disorders that can have problems with platelet function include: Idiopathic thrombocytopenic purpura  (bleeding disorder in which the immune system destroys platelets),  Chronic myelogenous leukemia  (blood cancer that starts inside bone marrow),  Multiple myeloma  (blood cancer that starts in the plasma cells in the bone marrow), Primary  myelofibrosis  (bone marrow disorder in which the marrow is replaced by fibrous scar tissue),  Polycythemia vera  (bone marrow disease that leads to an abnormal increase in the number of blood cells),  Primary thrombocythemia  (bone marrow disorder in which the marrow produces too many platelets),  Thrombotic thrombocytopenic purpura  (blood disorder that causes blood clots to form in small blood vessels),  Other causes include: Kidney (renal) failure , Medicines such as aspirin, ibuprofen, other anti-inflammatory drugs, penicillin, phenothiazines, and prednisone (after long-term use), </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000062-3" qtype="symptoms">What are the symptoms of Acquired platelet function defect ?</Question>
+			<Answer>Symptoms may include any of the following:  Heavy menstrual periods or prolonged bleeding (more than 5 days each period),  Abnormal vaginal bleeding , Blood in the urine, Bleeding under the skin,  Bruising  easily or pinpoint red spots on the skin,  Gastrointestinal bleeding  resulting in  bloody, dark black, or tarry bowel movements ; or  vomiting blood  or material that looks like coffee grounds,  Nosebleeds , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000062-4" qtype="exams and tests">How to diagnose Acquired platelet function defect ?</Question>
+			<Answer>Tests that may be done include: Platelet function ,  Platelet count , 
+  Prothrombin time ( PT ) and partial thromboplastin time ( PTT ), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000062-5" qtype="treatment">What are the treatments for Acquired platelet function defect ?</Question>
+			<Answer>Treatment is aimed at fixing the cause of the problem: Bone marrow disorders are often treated with platelet transfusions or removing platelets from the blood (platelet pheresis). , Chemotherapy may be used to treat an underlying condition that is causing the problem., Platelet function defects caused by kidney failure are treated with dialysis or medicines., Platelet problems caused by a certain medicine are treated by stopping the drug., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000062-6" qtype="outlook">What is the outlook for Acquired platelet function defect ?</Question>
+			<Answer>Most of the time, treating the cause of the problem corrects the defect.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000062-7" qtype="complications">What are the complications of Acquired platelet function defect ?</Question>
+			<Answer>Complications may include: Bleeding that does not stop easily,  Anemia  (due to excessive bleeding) , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000062-8" qtype="when to contact a medical professional">Do I need to see a doctor for Acquired platelet function defect ?</Question>
+			<Answer>Contact your health care provider if: You have bleeding and do not know the cause, Your symptoms get worse, Your symptoms do not improve after you are treated for an acquired platelet function defect , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000062-9" qtype="prevention">How to prevent Acquired platelet function defect ?</Question>
+			<Answer>Using medicines as directed can reduce the risk for drug-related acquired platelet function defects. Treating other disorders may also reduce the risk. Some cases cannot be prevented.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

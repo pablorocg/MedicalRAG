@@ -1,0 +1,66 @@
+<Document id="0003581" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000134.htm">
+ 
+<Focus>Silicosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037116</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Acute silicosis</Synonym>
+		<Synonym>Chronic silicosis</Synonym>
+		<Synonym>Accelerated silicosis</Synonym>
+		<Synonym>Progressive massive fibrosis</Synonym>
+		<Synonym>Conglomerate silicosis</Synonym>
+		<Synonym>Silicoproteinosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003581-1" qtype="information">What is (are) Silicosis ?</Question>
+			<Answer>Silicosis is a lung disease caused by breathing in (inhaling) silica dust.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003581-2" qtype="causes">What causes Silicosis ?</Question>
+			<Answer>Silica is a common, naturally-occurring crystal. It is found in most rock beds. Silica dust forms during mining, quarrying, tunneling, and working with certain metal ores. Silica is a main part of sand, so glass workers and sand-blasters are also exposed to silica. Three types of silicosis occur: Chronic silicosis results from long-term exposure (more than 20 years) to low amounts of silica dust. The silica dust causes swelling in the lungs and chest lymph nodes. This disease may cause people to have trouble breathing. This is the most common form of silicosis., Accelerated silicosis occurs after exposure to larger amounts of silica over a shorter period of time (3 to 10 years). Swelling in the lungs and symptoms occur faster than in simple silicosis., Acute silicosis results from short-term exposure to very large amounts of silica. The lungs become very inflamed and can fill with fluid, causing severe shortness of breath and a low blood oxygen level.,  People who work in jobs where they are exposed to silica dust are at risk. These jobs include: Abrasives manufacturing, Glass manufacturing, Mining, Quarrying, Road and building construction, Sand blasting, Stone cutting,  Intense exposure to silica can cause disease within a year. But&#160;it usually takes at least 10 years of exposure before symptoms occur. Silicosis has become less common since the Occupational Safety and Health Administration (OSHA) created regulations requiring the use of protective equipment, which limits the amount of silica dust workers inhale.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003581-3" qtype="symptoms">What are the symptoms of Silicosis ?</Question>
+			<Answer>Symptoms include: Cough , Shortness of breath, Weight loss, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003581-4" qtype="exams and tests">How to diagnose Silicosis ?</Question>
+			<Answer>Your health care provider will take a medical history. You'll be asked about your jobs (past and present), hobbies, and other activities that may have exposed you to silica. Your provider will also do a physical exam. Tests to confirm the diagnosis and rule out similar diseases include: Chest x-ray ,  Chest CT scan ,  Lung function tests ,  Tuberculosis (TB) tests , Blood tests for connective tissue diseases, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003581-5" qtype="treatment">What are the treatments for Silicosis ?</Question>
+			<Answer>There is no specific treatment for silicosis. Removing the source of silica exposure is important to prevent the disease from getting worse. Supportive treatment includes cough medicine, bronchodilators, and oxygen if needed. Antibiotics are prescribed for respiratory infections as needed. Treatment also includes limiting exposure to irritants and quitting smoking. People with silicosis are at high risk for developing TB. Silica is believed to interfere with the body's immune response to the bacteria that cause TB. Skin tests to check for exposure to TB should be done regularly. Those with a positive skin test should be treated with anti-TB medicines. Any change in the appearance of the chest x-ray may be a sign of TB. People with severe silicosis may need to have a lung transplant in rare cases.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003581-6" qtype="support groups">Where to find support for people with Silicosis ?</Question>
+			<Answer>Joining a support group where you can meet other people with silicosis or related diseases can help you understand your disease and adapt to its treatments.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003581-7" qtype="outlook">What is the outlook for Silicosis ?</Question>
+			<Answer>Outcome varies, depending on the amount of damage to the lungs.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003581-8" qtype="complications">What are the complications of Silicosis ?</Question>
+			<Answer>Silicosis can lead to the following health problems: Connective tissue disease, including  rheumatoid arthritis ,  scleroderma  (also called progressive systemic sclerosis), and  systemic lupus erythematosus , Lung cancer, Progressive massive fibrosis,  Respiratory failure , Tuberculosis, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003581-9" qtype="when to contact a medical professional">Do I need to see a doctor for Silicosis ?</Question>
+			<Answer>Contact your provider if you suspect that you have been exposed to silica at work and you have breathing problems. Having silicosis makes it easier for you to develop lung infections. Talk to your provider about getting the flu, pneumonia, and other recommended vaccines. If you've been diagnosed with silicosis, call your provider right away if you develop a cough, shortness of breath, fever, or other signs of a lung infection, especially if you think you have the flu. Since your lungs are already damaged, it's very important to have the infection treated promptly. This will prevent breathing problems from becoming severe, as well as further damage to your lungs.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0003581-10" qtype="prevention">How to prevent Silicosis ?</Question>
+			<Answer>If you work in a high-risk occupation or have a high-risk hobby, always wear a dust mask and do not smoke. You might also want to use other protection recommended by OSHA, such as a respirator.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

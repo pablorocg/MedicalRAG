@@ -1,0 +1,18 @@
+<Document id="0003428" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007339.htm">
+ 
+<Focus>Robotic surgery</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Robot-assisted surgery</Synonym>
+		<Synonym>Robotic-assisted laparoscopic surgery</Synonym>
+		<Synonym>Laparoscopic surgery with robotic assistance</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003428-1" qtype="information">Do you have information about Robotic surgery</Question>
+			<Answer>Robotic surgery is a method to perform surgery using very small tools attached to a robotic arm. The surgeon controls the robotic arm with a computer.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,18 @@
+<Document id="0002924" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000531.htm">
+ 
+<Focus>Palliative care - fluid, food, and digestion</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Constipation - palliative care</Synonym>
+		<Synonym>End of life - digestion</Synonym>
+		<Synonym>Hospice - digestion</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002924-1" qtype="information">Do you have information about Palliative care - fluid, food, and digestion</Question>
+			<Answer>People who have a very serious illness or who are dying often don't feel like eating. Body systems that manage fluids and food may change at this time. They can slow and fail. Also, some medicines that treat pain can cause dry, hard stools that are difficult to pass.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

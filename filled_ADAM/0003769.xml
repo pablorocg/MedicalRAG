@@ -1,0 +1,59 @@
+<Document id="0003769" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000713.htm">
+ 
+<Focus>Subdural hematoma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018946</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Subdural hemorrhage</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003769-1" qtype="information">What is (are) Subdural hematoma ?</Question>
+			<Answer>A subdural hematoma is a collection of blood between the covering of the brain (dura) and the surface of the brain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003769-2" qtype="causes">What causes Subdural hematoma ?</Question>
+			<Answer>A subdural hematoma is most often the result of a severe head injury. This type of subdural hematoma is among the deadliest of all head injuries. The bleeding fills the brain area very rapidly, compressing brain tissue. This often results in brain injury and may lead to death. Subdural hematomas can also occur after a minor head injury. The amount of bleeding is smaller and occurs more slowly. This type of subdural hematoma is often seen in older adults. These may go unnoticed for many days to weeks and are called  chronic subdural hematomas . With any subdural hematoma, tiny veins between the surface of the brain and its outer covering (the dura) stretch and tear, allowing blood to collect. In older adults, the veins are often already stretched because of brain shrinkage (atrophy) and are more easily injured. Some subdural hematomas occur without cause (spontaneously). The following increase the risk for a subdural hematoma: Medicines that thin the blood (such as warfarin or aspirin), Long-term alcohol use, Medical conditions that make your blood clot poorly, Repeated head injury, such as from falls, Very young or very old age,  In infants and young children, a subdural hematoma may occur after child abuse and are commonly seen in a condition called  shaken baby syndrome .</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003769-3" qtype="symptoms">What are the symptoms of Subdural hematoma ?</Question>
+			<Answer>Depending on the size of the hematoma and where it presses on the brain, any of the following symptoms may occur: Confused or slurred speech, Problems with balance or walking, 
+   Headache
+   , Lack of energy or confusion, Seizures or loss of consciousness, Nausea and vomiting, Weakness or numbness, Vision problems, Behavioral changes or psychosis,  In infants, symptoms may include: Bulging fontanelles  (the soft spots of the baby's skull), Separated sutures (the areas where growing skull bones join), Feeding problems,  Seizures , High-pitched cry, irritability, Increased head size (circumference), Increased sleepiness or lethargy, Persistent vomiting, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003769-4" qtype="exams and tests">How to diagnose Subdural hematoma ?</Question>
+			<Answer>Get medical help right away after a head injury. Do not delay. Older adults should receive medical care if they show signs of memory problems or mental decline, even if they don't seem to have an injury. The health care provider will likely order a brain imaging test, such as a  CT  or  MRI scan ,&#160;if there are any of the symptoms listed above.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003769-5" qtype="treatment">What are the treatments for Subdural hematoma ?</Question>
+			<Answer>A subdural hematoma is an emergency condition. Emergency surgery may be needed to reduce pressure within the brain. This may involve drilling a small hole in the skull to drain any blood and relieve pressure on the brain. Large hematomas or solid blood clots may need to be removed through a procedure called a  craniotomy , which creates a larger opening in the skull. Medicines that may be used depend on the type of subdural hematoma, how severe the symptoms are, and how much brain damage has occurred. Medicines may include: Diuretics (often given intravenously) and corticosteroids to reduce swelling, Anti-seizure medicines to control or prevent seizures, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003769-6" qtype="outlook">What is the outlook for Subdural hematoma ?</Question>
+			<Answer>Outlook depends on the type and location of head injury, the size of the blood collection, and how soon treatment is started. Acute subdural hematomas have high rates of death and brain injury. Chronic subdural hematomas have better outcomes in most cases. Symptoms often go away after the blood collection is drained. Physical therapy is sometimes needed to help the person get back to their usual level of functioning. Seizures often occur at the time the hematoma forms, or up to months or years after treatment. But medicines can help control the seizures.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003769-7" qtype="complications">What are the complications of Subdural hematoma ?</Question>
+			<Answer>Complications that may result include: Brain herniation  (pressure on the brain severe enough to cause coma and death), Persistent symptoms such as memory loss, dizziness, headache,  anxiety , and difficulty concentrating, Seizures, Short-term or permanent weakness, numbness, difficulty speaking, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003769-8" qtype="when to contact a medical professional">Do I need to see a doctor for Subdural hematoma ?</Question>
+			<Answer>A subdural hematoma is a medical emergency. Call 911 or the local emergency number, or go to an emergency room after a head injury. Do not delay. Spinal injuries often occur with head injuries, so try to keep the person's neck still if you must move them before help arrives.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003769-9" qtype="prevention">How to prevent Subdural hematoma ?</Question>
+			<Answer>Always use safety equipment at work and play to reduce your risk for a head injury. For example, use hard hats, bicycle or motorcycle helmets, and seat belts. Older individuals should be particularly careful to avoid falls.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

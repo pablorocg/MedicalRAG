@@ -1,0 +1,22 @@
+<Document id="0003508" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002300.htm">
+ 
+<Focus>Secondary infections</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0442886</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003508-1" qtype="information">What is (are) Secondary infections ?</Question>
+			<Answer>A secondary infection is an infection that occurs during or after treatment for another infection. It may be caused by the first treatment or by changes in the body or immune system that allow a second infection. Two examples of a secondary infection are: A vaginal yeast infection after taking antibiotics to treat an infection caused by bacteria, Pneumonia caused by bacteria or fungi after having an upper respiratory infection (like a cold) that was caused by a virus , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

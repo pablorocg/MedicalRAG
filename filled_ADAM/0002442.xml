@@ -1,0 +1,66 @@
+<Document id="0002442" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000394.htm">
+ 
+<Focus>Low sodium level</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0860871</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hyponatremia</Synonym>
+		<Synonym>Dilutional hyponatremia</Synonym>
+		<Synonym>Euvolemic hyponatremia</Synonym>
+		<Synonym>Hypervolemic hyponatremia</Synonym>
+		<Synonym>Hypovolemic hyponatremia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002442-1" qtype="information">What is (are) Low sodium level ?</Question>
+			<Answer>Low blood sodium is a condition in which the sodium level in the blood is lower than normal. The medical name of this condition is hyponatremia.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002442-2" qtype="causes">What causes Low sodium level ?</Question>
+			<Answer>Sodium is found mostly in the body fluids outside the cells. Sodium is an  electrolyte  (mineral). It is very important for maintaining blood pressure. Sodium is also needed for nerves, muscles, and other body tissues to work properly. When the amount of sodium in fluids outside cells drops below normal, water moves into the cells. This causes the cells to swell with too much water. Brain cells are especially sensitive to swelling, and this causes many of the symptoms of low blood sodium. With hyponatremia,  the imbalance of water to sodium  is caused by one of three conditions: Euvolemic hyponatremia -- total body water increases, but the body's sodium content stays the same, Hypervolemic hyponatremia -- both sodium and water content in the body increase, but the water gain is greater, Hypovolemic hyponatremia -- water and sodium are both lost from the body, but the sodium loss is greater,  Low blood sodium can be caused by: 
+   Burns that affect a large area of the body, Diarrhea, Diuretic medicines (water pills), which increase urine output and loss of sodium through the urine,  Heart failure , Kidney diseases,  Cirrhosis  (advanced liver disease),  Syndrome of inappropriate antidiuretic hormone secretion  (SIADH), Sweating, 
+   Vomiting
+   , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002442-3" qtype="symptoms">What are the symptoms of Low sodium level ?</Question>
+			<Answer>Common symptoms include: Confusion , irritability, restlessness
+   ,  Convulsions ,  Fatigue , Headache,  Loss of appetite ,  Muscle weakness , spasms, or cramps, Nausea, vomiting, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002442-4" qtype="exams and tests">How to diagnose Low sodium level ?</Question>
+			<Answer>Your health care provider will perform a complete physical examination and ask about your symptoms. Blood and urine tests will be done. Lab tests that can confirm and help diagnose low sodium include: Comprehensive metabolic panel  (includes blood sodium, normal range is 135 to 145 mEq/L, or 135 to 145 mmol/L) ,  Blood osmolality ,  Urine osmolality ,  Urine sodium  (normal level is 20 mEq/L in a random urine sample, and 40 to 220 mEq per day for a 24-hour urine test)
+   , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002442-5" qtype="treatment">What are the treatments for Low sodium level ?</Question>
+			<Answer>The cause of low blood sodium must be diagnosed and treated. If cancer is the cause of the condition, then radiation,  chemotherapy , or surgery to remove the tumor may correct the sodium imbalance. Other treatments depend on the specific type of hyponatremia. Treatments may include: Fluids through a vein (IV), Medicines to relieve symptoms, Limiting water intake, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002442-6" qtype="outlook">What is the outlook for Low sodium level ?</Question>
+			<Answer>Outcome depends on the condition that is causing the problem. Hyponatremia that occurs in less than 48 hours (acute hyponatremia), is more dangerous than hyponatremia that develops slowly over time. When blood sodium level falls slowly over days or weeks (chronic hyponatremia), the brain cells have time to adjust and swelling may be minimal.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002442-7" qtype="complications">What are the complications of Low sodium level ?</Question>
+			<Answer>In severe cases, low blood sodium can lead to: Decreased consciousness, hallucinations or coma,  Brain herniation , Death, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002442-8" qtype="when to contact a medical professional">Do I need to see a doctor for Low sodium level ?</Question>
+			<Answer>When your body's sodium level drops too much, it can be a life-threatening emergency. Call your provider right away if you have symptoms of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002442-9" qtype="prevention">How to prevent Low sodium level ?</Question>
+			<Answer>Treating the condition that is causing hyponatremia can help.  If you play sports or do other vigorous activity, drink fluids such as sports drinks that contain  electrolytes  to keep your body's sodium level in a healthy range.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

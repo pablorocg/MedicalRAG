@@ -1,0 +1,31 @@
+<Document id="0001149" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002177.htm">
+ 
+<Focus>Depression - resources</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0349217</CUI>
+			<CUI>C0011570</CUI>
+			<CUI>C0011581</CUI>
+			<CUI>C0344315</CUI>
+			<CUI>C1579931</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Resources - depression</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001149-1" qtype="information">What is (are) Depression - resources ?</Question>
+			<Answer>Depression is a medical condition. If you think you may be depressed, see a health care provider. The following organizations are good sources of information on  depression : American Psychiatric Association --  www.psychiatry.org/patients-families/depression/what-is-depression , National Alliance on Mental Illness --  www.nami.org/About-Mental-Illness/Mental-Health-Conditions/Depression , National Institute of Mental Health --  www.nimh.nih.gov/health/topics/depression &#160;, US Dept of Health and Human Services, Office on Women's Health --  www.womenshealth.gov/mental-health/mental-health-conditions/depression , US National Library of Medicine, MedlinePlus --  medlineplus.gov/depression.html , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

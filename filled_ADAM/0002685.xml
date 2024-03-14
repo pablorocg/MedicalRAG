@@ -1,0 +1,17 @@
+<Document id="0002685" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007261.htm">
+ 
+<Focus>MRSA</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Methicillin-resistant Staphylococcus aureus</Synonym>
+		<Synonym>Hospital-acquired MRSA (HA-MRSA)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002685-1" qtype="information">Do you have information about MRSA</Question>
+			<Answer>MRSA stands for methicillin-resistant  Staphylococcus aureus . MRSA is a "staph" germ (bacteria) that does not get better with the type of antibiotics that usually cure staph infections. When this occurs, the germ is said to be resistant to certain antibiotics.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

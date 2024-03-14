@@ -1,0 +1,56 @@
+<Document id="0004321" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000151.htm">
+ 
+<Focus>Wolff-Parkinson-White syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1963282</CUI>
+			<CUI>C0043202</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Preexcitation syndrome</Synonym>
+		<Synonym>WPW</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004321-1" qtype="information">What is (are) Wolff-Parkinson-White syndrome ?</Question>
+			<Answer>Wolff-Parkinson-White (WPW) syndrome is a condition in which there is an extra electrical pathway in the heart that leads to periods of rapid heart rate ( tachycardia ). WPW syndrome is one of the most common causes of fast heart rate problems in infants and children.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004321-2" qtype="causes">What causes Wolff-Parkinson-White syndrome ?</Question>
+			<Answer>Normally, electrical signals follow a certain pathway through the heart. This helps the heart beat regularly. This prevents the heart from having extra beats or beats happening too soon. In people with WPW syndrome, some of the heart's electrical signals go down an extra pathway. This may cause a very rapid heart rate called supraventricular tachycardia. Most people with WPW syndrome do not have any other heart problems. However, this condition has been linked with other cardiac conditions, such as  Ebstein anomaly . A form of the condition also runs in families.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004321-3" qtype="symptoms">What are the symptoms of Wolff-Parkinson-White syndrome ?</Question>
+			<Answer>How often a rapid heart rate occurs varies depending on the person. Some people with WPW syndrome have only a few episodes of rapid heart rate. Others may have the rapid heart rate once or twice a week or more. Also, there may be no symptoms at all, so that condition is found when a heart test is done for another reason. A person with this syndrome may have: Chest pain  or chest tightness,  Dizziness , Lightheadedness,  Fainting ,  Palpitations  (a sensation of feeling your heart beating, usually quickly or irregularly),  Shortness of breath , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004321-4" qtype="exams and tests">How to diagnose Wolff-Parkinson-White syndrome ?</Question>
+			<Answer>A physical exam done during a tachycardia episode will show a heart rate faster than 100 beats per minute. A normal heart rate is 60 to 100 beats per minute in adults, and under 150 beats per minute in newborns, infants, and small children. Blood pressure will be normal or low in most cases. If the person is not having tachycardia at the time of the exam, the results may be normal. The condition may be diagnosed with an ECG or with ambulatory ECG monitoring, such as a  Holter monitor . A test called an electrophysiologic study ( EPS ) is done using catheters that are placed in the heart. This test may help identify the location of the extra electrical pathway.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004321-5" qtype="treatment">What are the treatments for Wolff-Parkinson-White syndrome ?</Question>
+			<Answer>Medicines, particularly antiarrhythmic drugs such as procainamide or amiodarone, may be used to control or prevent a rapid heartbeat.  If the heart rate does not return to normal with medical treatment, doctors may use a type of therapy called electrical  cardioversion  (shock). The long-term treatment for WPW syndrome is very often  catheter ablation . This procedure involves inserting a tube (catheter) into a vein through a small cut near the groin up to the heart area. When the tip reaches the heart, the small area that is causing the fast heart rate is destroyed using a special type of energy called radiofrequency or by freezing it (cryoablation). This is done as part of an electrophysiologic study (EPS). Before ablation is considered, you may be asked to undergo an exercise stress test to help decide if you need ablation. Open heart surgery  to burn or freeze the extra pathway may also provide a permanent cure for WPW syndrome. In most cases, this procedure is done only if you need heart surgery for other reasons.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004321-6" qtype="outlook">What is the outlook for Wolff-Parkinson-White syndrome ?</Question>
+			<Answer>Catheter ablation cures this disorder in most people. The success rate for the procedure ranges between 85% to 95%. Success rates will vary depending on the location and number of extra pathways.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004321-7" qtype="complications">What are the complications of Wolff-Parkinson-White syndrome ?</Question>
+			<Answer>Complications may include: Complications of surgery,  Heart failure , Reduced blood pressure (caused by  rapid heart rate ), Side effects of medicines,  The most severe form of a rapid heartbeat is  ventricular fibrillation  (VF), which may rapidly lead to shock or death. It can sometimes occur in people with WPW, particularly if they also have  atrial fibrillation  (AF), which is another type of abnormal heart rhythm. This type of rapid heartbeat requires emergency treatment and a procedure called cardioversion.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004321-8" qtype="when to contact a medical professional">Do I need to see a doctor for Wolff-Parkinson-White syndrome ?</Question>
+			<Answer>Contact your health care provider if:  You have symptoms of WPW syndrome., You have this disorder and symptoms get worse or do not improve with treatment.,  Talk to your provider about whether your family members should be screened for inherited forms of this condition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

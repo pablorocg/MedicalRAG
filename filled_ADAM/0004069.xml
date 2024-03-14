@@ -1,0 +1,19 @@
+<Document id="0004069" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000695.htm">
+ 
+<Focus>Types of hormone therapy</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>HRT</Synonym>
+		<Synonym>Estrogen replacement therapy</Synonym>
+		<Synonym>ERT</Synonym>
+		<Synonym>Hormone replacement therapy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004069-1" qtype="information">Do you have information about Types of hormone therapy</Question>
+			<Answer>Hormone therapy (HT) uses one or more hormones to treat  symptoms of menopause . HT uses estrogen, progestin (a type of progesterone), or both. Sometimes testosterone is also added. </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

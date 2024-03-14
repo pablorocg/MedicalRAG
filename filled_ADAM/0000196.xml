@@ -1,0 +1,52 @@
+<Document id="0000196" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001579.htm">
+ 
+<Focus>Amniotic constriction bands</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1261287</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pseudo-ainhum</Synonym>
+		<Synonym>Streeter's dysplasia</Synonym>
+		<Synonym>Amniotic band sequence</Synonym>
+		<Synonym>Amniotic band syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000196-1" qtype="information">What is (are) Amniotic constriction bands ?</Question>
+			<Answer>Amniotic band sequence (ABS) is a group of rare birth defects that are thought to occur when strands of the amniotic sac detach and wrap around parts of the baby in the womb. The defects may affect the abdomen or chest as well as the face, arms, legs, fingers, or toes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000196-2" qtype="causes">What causes Amniotic constriction bands ?</Question>
+			<Answer>Amniotic bands are thought to be caused by damage to a part of the placenta called the amnion (or amniotic membrane). The placenta carries blood to a baby still growing in the womb. Damage to the placenta can prevent normal growth and development. Damage to the amnion may produce fiber-like bands that can trap or compress parts of the developing baby. These bands reduce blood supply to the areas and cause them to develop abnormally. However, some cases of ABS deformity may be caused by reduced blood supply without any signs of bands or damage to the amnion. There have also been rare cases that seem to be due to genetic defects.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000196-3" qtype="symptoms">What are the symptoms of Amniotic constriction bands ?</Question>
+			<Answer>The severity of the deformity can vary widely, from a small dent in a toe or finger to an entire body part missing or being severely underdeveloped. Symptoms may include: Abnormal gap in the head or face (if it goes across the face, it is called a cleft), All or part of a finger, toe, arm or leg missing (congenital amputation), Defect (cleft or hole) of the abdomen or chest wall (if band is located in those areas), Permanent band or indentation around an arm, leg, finger, or toe, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000196-4" qtype="exams and tests">How to diagnose Amniotic constriction bands ?</Question>
+			<Answer>The health care provider can diagnose this condition during prenatal ultrasound, if it is severe enough, or during a newborn physical exam.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000196-5" qtype="treatment">What are the treatments for Amniotic constriction bands ?</Question>
+			<Answer>Treatment varies widely. Often, the deformity is not severe and no treatment is needed. Surgery while the baby is in the womb may help improve outcomes in some cases, but it is not yet clear which babies will benefit. Some cases improve or resolve prior to birth. In more serious cases, major surgery may be needed to reconstruct all or some of a body part. Some cases are so severe that they cannot be repaired. Plans should be made for careful delivery and management of the problem after birth. The baby should be delivered in a medical center that has specialists experienced in caring for babies with this condition.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000196-6" qtype="outlook">What is the outlook for Amniotic constriction bands ?</Question>
+			<Answer>How well the infant does depends on the severity of the condition. Most cases are mild and the outlook for normal function is excellent. More severe cases have more guarded outcomes.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000196-7" qtype="complications">What are the complications of Amniotic constriction bands ?</Question>
+			<Answer>Complications can include complete or partial loss of function of a body part. Congenital bands affecting large parts of the body cause the most problems. Some cases are so severe that they cannot be repaired.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

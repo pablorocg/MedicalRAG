@@ -1,0 +1,47 @@
+<Document id="0000236" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003314.htm">
+ 
+<Focus>Anisocoria</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003079</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Enlargement of one pupil</Synonym>
+		<Synonym>Pupils of different size</Synonym>
+		<Synonym>Eyes/pupils different size</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000236-1" qtype="information">What is (are) Anisocoria ?</Question>
+			<Answer>Anisocoria is unequal pupil size. The pupil is the black part in the center of the eye. It gets larger in dim light and smaller in bright light.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000236-2" qtype="considerations">What to do for Anisocoria ?</Question>
+			<Answer>Slight differences in pupil sizes are found in up to 1 in 5 healthy people. Most often, the diameter difference is less than 0.5 mm, but it can be up to 1 mm. Babies born with different sized pupils may not have any underlying disorder. If other family members also have similar pupils, then the pupil size difference could be genetic and is nothing to worry about. Also, for unknown reasons, pupils may temporarily differ in size. If there are no other symptoms and if the pupils return to normal, then it is nothing to worry about. Unequal pupil sizes of more than 1 mm that develop later in life and do not return to equal size may be a sign of an eye, brain, blood vessel, or nerve disease.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000236-3" qtype="causes">What causes Anisocoria ?</Question>
+			<Answer>The use of eye drops is a common cause of a harmless change in pupil size. Other medicines that get in the eyes, including medicine from asthma inhalers, can change pupil size. Other causes of unequal pupil sizes may include: Aneurysm in the brain, Bleeding inside the skull caused by head injury,  Brain tumor  or  abscess  (such as pontine lesions), Excess pressure in one eye caused by  glaucoma , Increased intracranial pressure, because of brain swelling, intracranial hemorrhage, acute stroke, or intracranial tumor, Infection of membranes around the brain ( meningitis  or  encephalitis ), Migraine headache, Seizure (pupil size difference may remain long after seizure is over), Tumor, mass, or lymph node in the upper chest or lymph node causing pressure on a nerve may cause  decreased sweating , a small pupil, or  drooping eyelid  all on the affected side (Horner syndrome), Stroke, Injury to the carotid or vertebral artery, Diabetic oculomotor nerve palsy, Prior eye trauma, including surgery for cataracts, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000236-4" qtype="considerations">What to do for Anisocoria ?</Question>
+			<Answer>Slight differences in pupil sizes are found in up to 1 in 5 healthy people. Most often, the diameter difference is less than 0.5 mm, but it can be up to 1 mm. Babies born with different sized pupils may not have any underlying disorder. If other family members also have similar pupils, then the pupil size difference could be genetic and is nothing to worry about. Also, for unknown reasons, pupils may temporarily differ in size. If there are no other symptoms and if the pupils return to normal, then it is nothing to worry about. Unequal pupil sizes of more than 1 mm that develop later in life and do not return to equal size may be a sign of an eye, brain, blood vessel, or nerve disease.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000236-5" qtype="when to contact a medical professional">Do I need to see a doctor for Anisocoria ?</Question>
+			<Answer>Contact a provider if you have persistent, unexplained, or sudden changes in pupil size. If there is any recent change in pupil size, it may be a sign of a very serious condition. If you have differing pupil size after an eye or head injury, get medical help immediately. Always seek immediate medical attention if differing pupil size occurs along with: Blurred vision,  Double vision , Droopy eyelid, Eye sensitivity to light, Fever, Headache,  Loss of vision , Nausea or vomiting,  Eye pain , Stiff neck , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000236-6" qtype="outlook">What is the outlook for Anisocoria ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

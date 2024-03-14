@@ -1,0 +1,47 @@
+<Document id="0003874" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003131.htm">
+ 
+<Focus>Tenesmus</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0232726</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pain - passing stool</Synonym>
+		<Synonym>Painful stools</Synonym>
+		<Synonym>Difficulty passing stool</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003874-1" qtype="information">What is (are) Tenesmus ?</Question>
+			<Answer>Tenesmus is the feeling that you need to pass stools, even though your bowels are already empty. It may involve straining, pain, and cramping.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003874-2" qtype="considerations">What to do for Tenesmus ?</Question>
+			<Answer>Tenesmus most often occurs with inflammatory diseases of the bowels. These diseases may be caused by an infection or other conditions. It can also occur with diseases that affect the normal movements of the intestines. These diseases are known as motility disorders. People with tenesmus may push very hard (strain) to try to empty their bowels. However, they will only pass a small amount of stool. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003874-3" qtype="causes">What causes Tenesmus ?</Question>
+			<Answer>The condition may be caused by: Anorectal abscess ,  Colorectal cancer  or tumors,  Crohn disease , Infection of the colon (infectious colitis), Inflammation of the colon or rectum from radiation (radiation proctitis or colitis), Inflammatory bowel disease (IBD), Movement (motility) disorder of the intestines,  Ulcerative colitis  or ulcerative proctitis, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003874-4" qtype="considerations">What to do for Tenesmus ?</Question>
+			<Answer>Tenesmus most often occurs with inflammatory diseases of the bowels. These diseases may be caused by an infection or other conditions. It can also occur with diseases that affect the normal movements of the intestines. These diseases are known as motility disorders. People with tenesmus may push very hard (strain) to try to empty their bowels. However, they will only pass a small amount of stool. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003874-5" qtype="when to contact a medical professional">Do I need to see a doctor for Tenesmus ?</Question>
+			<Answer>Contact your health care provider if you continue to have tenesmus. Also contact your provider if you have: Abdominal pain ,  Blood in the stool ,  Chills ,  Fever ,  Nausea ,  Vomiting ,  These symptoms could be a sign of a disease that might be causing the problem.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003874-6" qtype="outlook">What is the outlook for Tenesmus ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

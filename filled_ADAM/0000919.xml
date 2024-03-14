@@ -1,0 +1,26 @@
+<Document id="0000919" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003236.htm">
+ 
+<Focus>Comedones</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221228</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Skin bumps - acne-like</Synonym>
+		<Synonym>Acne-like skin bumps</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000919-1" qtype="information">What is (are) Comedones ?</Question>
+			<Answer>Comedones are small, flesh-colored, white, or dark bumps that give skin a rough texture. The bumps are one type of  acne . They are found at the opening of skin pores. A solid core can often be seen in the middle of the small bump. Comedones are called open or closed based on whether the surface is disrupted (open) or intact (closed). Open comedones are  blackheads  and closed comedones are  whiteheads .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

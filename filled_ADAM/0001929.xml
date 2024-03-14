@@ -1,0 +1,58 @@
+<Document id="0001929" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000425.htm">
+ 
+<Focus>Henoch-Schnlein purpura</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0034150</CUI>
+			<CUI>C1404889</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Leukocytoclastic vasculitis</Synonym>
+		<Synonym>Anaphylactoid purpura</Synonym>
+		<Synonym>Vascular purpura</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001929-1" qtype="information">What is (are) Henoch-Schnlein purpura ?</Question>
+			<Answer>IgA vasculitis is a disease that involves purple spots on the skin, joint pain, gastrointestinal problems, and  glomerulonephritis  (a type of kidney disorder).&#160;It is also known as Henoch-Sch&#246;nlein purpura (HSP).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001929-2" qtype="causes">What causes Henoch-Schnlein purpura ?</Question>
+			<Answer>IgA vasculitis is caused by an abnormal response of the immune system. The result is inflammation in the microscopic blood vessels in the skin. Blood vessels in the joints, kidneys, or the intestines may also be affected. It is unclear why this occurs. The syndrome is mostly seen in children between ages 3 and 15 years, but it may be seen in adults. It is more common in boys than in girls. Many people who develop this disease had an upper respiratory infection in the weeks before.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001929-3" qtype="symptoms">What are the symptoms of Henoch-Schnlein purpura ?</Question>
+			<Answer>Symptoms and features of IgA vasculitis may include: Purple spots on the skin ( purpura ). This occurs in nearly all children with the condition. This most often occurs over the buttocks, lower legs, and elbows.,  Abdominal pain .,  Joint pain ., Abnormal urine (may have no symptoms).,  Diarrhea, sometimes bloody .,  Hives  or  angioedema ., Nausea and vomiting., Swelling and pain in the scrotum of boys., Headache., </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001929-4" qtype="exams and tests">How to diagnose Henoch-Schnlein purpura ?</Question>
+			<Answer>The health care provider will look at your body and look at your skin. The physical exam will show skin sores (purpura, lesions) and joint tenderness. Tests may include: Urinalysis  should be done in all cases., Complete blood count. The platelet should be normal., Coagulation tests: these should be normal.,  Skin biopsy , especially in adults.
+  , Blood tests to look for other causes of blood vessel inflammation, such as systemic lupus erythematosus, ANCA-associated vasculitis or hepatitis., In adults, a kidney biopsy should be done., Imaging tests of the abdomen if pain is present., </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001929-5" qtype="treatment">What are the treatments for Henoch-Schnlein purpura ?</Question>
+			<Answer>There is no specific treatment. Most cases go away on their own. Joint pain may improve with NSAIDs such as naproxen. If symptoms do not go away, you may be prescribed a corticosteroid medicine such as prednisone.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001929-6" qtype="outlook">What is the outlook for Henoch-Schnlein purpura ?</Question>
+			<Answer>The disease most often gets better on its own. Two thirds of children with IgA vasculitis have only one episode. One third of children have more episodes. People should have close medical follow-up for 6 months after episodes to look for signs of kidney disease. Adults have a greater risk of developing chronic kidney disease.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001929-7" qtype="complications">What are the complications of Henoch-Schnlein purpura ?</Question>
+			<Answer>Complications may include: Bleeding inside the body, Blocking of the intestine (in children) , Kidney problems (in rare cases) , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001929-8" qtype="when to contact a medical professional">Do I need to see a doctor for Henoch-Schnlein purpura ?</Question>
+			<Answer>Contact your provider if: You develop symptoms of IgA vasculitis, and they last for more than a few days., You have colored urine or  low urine output  after an episode., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

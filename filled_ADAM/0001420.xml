@@ -1,0 +1,41 @@
+<Document id="0001420" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007485.htm">
+ 
+<Focus>Epidural injections for back pain</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0004604</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ESI</Synonym>
+		<Synonym>Spinal injection for back pain</Synonym>
+		<Synonym>Back pain injection</Synonym>
+		<Synonym>Steroid injection - epidural</Synonym>
+		<Synonym>Steroid injection - back</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001420-1" qtype="information">What is (are) Epidural injections for back pain ?</Question>
+			<Answer>An epidural steroid injection (ESI) is the delivery of powerful anti-inflammatory medicine directly into the space outside of the sac of fluid around your spinal cord. This area is called the epidural space. ESI is not the same as  epidural anesthesia  given just before childbirth or certain types of surgery.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001420-2" qtype="information">What is (are) Epidural injections for back pain ?</Question>
+			<Answer>An epidural steroid injection (ESI) is the delivery of powerful anti-inflammatory medicine directly into the space outside of the sac of fluid around your spinal cord. This area is called the epidural space. ESI is not the same as  epidural anesthesia  given just before childbirth or certain types of surgery.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001420-4" qtype="susceptibility">Who is at risk for Epidural injections for back pain? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001420-7" qtype="outlook">What is the outlook for Epidural injections for back pain ?</Question>
+			<Answer>ESI provides short-term pain relief in at least one half of the people who receive it. Symptoms may remain better for weeks to months, but rarely up to a year. The procedure does not cure the cause of your back pain. You will need to continue back exercises and other treatments.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

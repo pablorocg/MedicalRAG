@@ -1,0 +1,55 @@
+<Document id="0000216" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000565.htm">
+ 
+<Focus>Anemia of chronic disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002873</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Anemia of inflammation</Synonym>
+		<Synonym>AOCD</Synonym>
+		<Synonym>ACD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000216-1" qtype="information">What is (are) Anemia of chronic disease ?</Question>
+			<Answer>Anemia  is a condition in which the body does not have enough healthy red blood cells. Red blood cells provide oxygen to body tissues. There are many types of anemia. Anemia of chronic disease (ACD) is anemia that is found in people with certain long-term (chronic) medical conditions that involve inflammation.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000216-2" qtype="causes">What causes Anemia of chronic disease ?</Question>
+			<Answer>Anemia is a lower-than-normal number of red blood cells in the blood. ACD is a common cause of anemia. Some conditions that can lead to ACD include: Autoimmune disorders , such as  Crohn disease ,  systemic lupus erythematosus ,  rheumatoid arthritis , and  ulcerative colitis ,  Cancer , including lymphoma and  Hodgkin disease , Long-term infections, such as bacterial endocarditis,  osteomyelitis  (bone infection),  HIV/AIDS , lung abscess,&#160; hepatitis B  or  hepatitis C , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000216-3" qtype="symptoms">What are the symptoms of Anemia of chronic disease ?</Question>
+			<Answer>Anemia of chronic disease is often mild. You may not notice any symptoms. When symptoms occur, they may include: Feeling weak or tired, Headache, Paleness, Shortness of breath , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000216-4" qtype="exams and tests">How to diagnose Anemia of chronic disease ?</Question>
+			<Answer>The health care provider will perform a physical exam.  Anemia may be the first symptom of a serious illness, so finding its cause is very important.  Tests that may be done to diagnose anemia or rule out other causes include: Complete blood count,  Reticulocyte count ,  Serum ferritin level ,  Serum iron level , C-reactive protein level, Erythrocyte sedimentation rate,  Bone marrow examination  (in rare cases to rule out cancer), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000216-5" qtype="treatment">What are the treatments for Anemia of chronic disease ?</Question>
+			<Answer>Anemia is often mild enough that it does not need treatment. It may get better when the disease that is causing it is treated. More severe anemia, such as that caused by cancer or HIV/AIDS may require: Blood transfusion, Erythropoietin, a hormone produced by the kidneys, given as a shot, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000216-6" qtype="outlook">What is the outlook for Anemia of chronic disease ?</Question>
+			<Answer>The anemia will improve when the disease that is causing it is treated.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000216-7" qtype="complications">What are the complications of Anemia of chronic disease ?</Question>
+			<Answer>Discomfort from symptoms is the main complication in most cases. Anemia may lead to a higher risk for death in people with heart failure.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000216-8" qtype="when to contact a medical professional">Do I need to see a doctor for Anemia of chronic disease ?</Question>
+			<Answer>Contact your provider if you have a long-term (chronic) disorder and you develop symptoms of anemia.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

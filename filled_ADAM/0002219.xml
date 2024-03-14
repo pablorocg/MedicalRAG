@@ -1,0 +1,58 @@
+<Document id="0002219" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001238.htm">
+ 
+<Focus>Intraductal papilloma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206713</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002219-1" qtype="information">What is (are) Intraductal papilloma ?</Question>
+			<Answer>Intraductal papilloma is a small, noncancerous (benign)  tumor  that grows in a milk duct of the breast.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002219-2" qtype="causes">What causes Intraductal papilloma ?</Question>
+			<Answer>Intraductal papilloma occurs most often in women ages 35 to 55. The causes and risk factors are unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002219-3" qtype="symptoms">What are the symptoms of Intraductal papilloma ?</Question>
+			<Answer>Symptoms include: Breast lump , Nipple discharge, which may be clear or bloodstained,  These findings may be in just one breast or in both breasts. For the most part, these papillomas do not cause pain.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002219-4" qtype="exams and tests">How to diagnose Intraductal papilloma ?</Question>
+			<Answer>The health care provider might feel a small lump under the nipple, but this lump cannot always be felt. There may be discharge from the nipple. Sometimes, an intraductal papilloma is found on a mammogram or ultrasound, and then diagnosed by a needle biopsy. If there is a mass or nipple discharge, both mammogram and ultrasound should be performed.  If these are normal, then breast MRI is sometimes recommended. If the MRI is normal, a needle or surgical biopsy may be performed to rule out cancer. An intraductal papilloma is diagnosed on needle or surgical biopsy.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002219-5" qtype="treatment">What are the treatments for Intraductal papilloma ?</Question>
+			<Answer>If there is nipple discharge, the duct is removed with surgery if imaging did not show a lump that can be checked with a needle biopsy. If a needle biopsy shows an intraductal papilloma, the papilloma may be removed with surgery, or watched over time with exams and imaging.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002219-6" qtype="support groups">Where to find support for people with Intraductal papilloma ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002219-7" qtype="outlook">What is the outlook for Intraductal papilloma ?</Question>
+			<Answer>For the most part, intraductal papillomas do not appear to increase the risk of developing breast cancer. The outcome is excellent for people with one papilloma. The risk for cancer may be higher for: Women with many papillomas, Women who get them at an early age, Women with a family history of cancer, Women who have abnormal cells in the biopsy, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002219-8" qtype="complications">What are the complications of Intraductal papilloma ?</Question>
+			<Answer>Complications of surgery can include bleeding, infection, scarring, and anesthesia risks. If the biopsy shows cancer, you may need further surgery and treatment.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002219-9" qtype="when to contact a medical professional">Do I need to see a doctor for Intraductal papilloma ?</Question>
+			<Answer>Call your provider if you notice any breast discharge or a breast lump.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0002219-10" qtype="prevention">How to prevent Intraductal papilloma ?</Question>
+			<Answer>There is no known way to prevent intraductal papilloma.  Breast self-exams  and screening  mammograms  can help detect the disease early.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

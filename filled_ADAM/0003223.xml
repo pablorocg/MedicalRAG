@@ -1,0 +1,54 @@
+<Document id="0003223" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000533.htm">
+ 
+<Focus>Primary amyloidosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2939462</CUI>
+			<CUI>C0268381</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Amyloid - primary</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003223-1" qtype="information">What is (are) Primary amyloidosis ?</Question>
+			<Answer>Primary amyloidosis is a rare disorder in which abnormal proteins build up in tissues and organs. Clumps of the abnormal proteins are called amyloid deposits.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003223-2" qtype="causes">What causes Primary amyloidosis ?</Question>
+			<Answer>The cause of primary amyloidosis is not well understood. Genes may play a role. The condition is related to abnormal and excess production of specific proteins. The proteins build up in certain organs. This makes it harder for the organs to work correctly. Primary amyloidosis can lead to conditions that include: Carpal tunnel syndrome &#160;(due to protein deposits in the nerve), Heart muscle damage ( cardiomyopathy ) leading to  congestive heart failure , Intestinal  malabsorption , Liver swelling and malfunction,  Kidney failure ,  Nephrotic syndrome  (group of symptoms that includes protein in the urine, low protein levels in the blood, high cholesterol levels, high triglyceride levels, and swelling throughout the body), Nerve problems (neuropathy), Orthostatic hypotension (drop in blood pressure when you stand up) , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003223-3" qtype="symptoms">What are the symptoms of Primary amyloidosis ?</Question>
+			<Answer>Symptoms depend on the organs affected. This disease can affect many organs and tissues, including the tongue, intestines, skeletal and smooth muscles, nerves, skin, ligaments, heart, liver, spleen, kidneys, and bladder. Symptoms may include any of the following: Abnormal heart rhythm, Fatigue, Numbness of hands or feet, Shortness of breath, Skin changes, Swallowing problems, Swelling in the arms and legs, Swollen tongue, Weak hand grip, Weight loss or weight gain ,  Other symptoms that may occur with this disease: Decreased urine output , Diarrhea,  Hoarseness or changing voice ,  Joint pain , Weakness , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003223-4" qtype="exams and tests">How to diagnose Primary amyloidosis ?</Question>
+			<Answer>The health care provider will examine you. You will be asked about your medical history and symptoms. A physical exam may show that you have a  swollen liver  or spleen, or signs of heart or nerve damage. The first step in diagnosing amyloidosis should be blood and urine tests to look for abnormal proteins. Other tests depend on your symptoms and the organ that may be affected. Some tests include: Abdominal ultrasound  to check the liver and spleen, Heart tests, such as an  ECG ,  ECHO , or MRI, Kidney function tests to check for signs of kidney damage (nephrotic syndrome or renal insufficiency) ,  Tests that can help confirm the diagnosis include: Abdominal fat pad aspiration, Bone marrow biopsy, Heart muscle biopsy, Rectal  mucosa  biopsy , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003223-5" qtype="treatment">What are the treatments for Primary amyloidosis ?</Question>
+			<Answer>Treatment may include: Chemotherapy, Stem cell transplant, Organ transplant,  If the condition is caused by another disease, that disease should be aggressively treated. This may improve symptoms or slow the disease from getting worse. Complications such as heart failure, kidney failure, and other problems can sometimes be treated, when needed.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003223-6" qtype="outlook">What is the outlook for Primary amyloidosis ?</Question>
+			<Answer>How well you do depends on which organs are affected. Heart and kidney involvement may lead to organ failure and death. Body-wide ( systemic ) amyloidosis can lead to death within 2 years. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003223-7" qtype="when to contact a medical professional">Do I need to see a doctor for Primary amyloidosis ?</Question>
+			<Answer>Contact your provider if you have symptoms of this disease. Also call if you have been diagnosed with this disease and have: Decreased urination, Difficulty breathing, Swelling of the ankles or other body parts that does not go away, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003223-8" qtype="prevention">How to prevent Primary amyloidosis ?</Question>
+			<Answer>There is no known prevention for primary amyloidosis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

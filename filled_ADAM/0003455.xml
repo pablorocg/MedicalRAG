@@ -1,0 +1,49 @@
+<Document id="0003455" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001039.htm">
+ 
+<Focus>Salivary duct stones</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0036089</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sialolithiasis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003455-1" qtype="information">What is (are) Salivary duct stones ?</Question>
+			<Answer>Salivary duct stones are deposits of minerals in the ducts that drain the salivary glands. Salivary duct stones are a type of  salivary gland disorder . </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003455-2" qtype="causes">What causes Salivary duct stones ?</Question>
+			<Answer>Spit (saliva) is produced by the salivary glands in the mouth. The chemicals in saliva can form a hard crystal that can block the salivary ducts.  When saliva cannot exit a blocked duct, it backs up into the gland. This may cause pain, swelling, or an infection of the gland.  There are three pairs of major salivary glands: Parotid glands -- These are the two largest glands. One is located in each cheek over the jaw in front of the ears. Inflammation of one or more of these glands is called parotitis, or parotiditis. , Submandibular glands -- These two glands are located just under both sides of the jaw and carry saliva up to the floor of mouth under the tongue., Sublingual glands -- These two glands are located just under the front area of the floor of the mouth.,  Salivary stones most often affect the submandibular glands. They can also affect the parotid glands. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003455-3" qtype="symptoms">What are the symptoms of Salivary duct stones ?</Question>
+			<Answer>Symptoms include: Problems opening the mouth or swallowing, Dry mouth,  Pain in the face  or mouth,  Swelling of the face  or neck (can be severe when eating or drinking) ,  The symptoms occur most often when eating or drinking.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003455-4" qtype="exams and tests">How to diagnose Salivary duct stones ?</Question>
+			<Answer>The health care provider or dentist will do an exam of your head and neck to look for one or more enlarged, tender salivary glands. The provider may be able to find the stone during the exam by feeling under your tongue. Tests such as x-rays, ultrasound, MRI scan, or CT scan of the face are used to confirm the diagnosis. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003455-5" qtype="treatment">What are the treatments for Salivary duct stones ?</Question>
+			<Answer>The goal is to remove the stone.  Steps you can take at home include:  Drinking lots of water, Using sugar-free lemon drops to increase the amount of saliva,  Other ways to remove the stone are: Massaging the gland with heat -- The provider or dentist may be able to push the stone out of the duct. , In some cases, you may need surgery to cut out the stone. , A newer treatment that uses shock waves to break the stone into small pieces is another option., A technique called sialendoscopy, can diagnose and treat stones in the salivary gland duct using very small cameras and instruments., If stones become infected or come back often, you may need surgery to remove the salivary gland. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003455-6" qtype="outlook">What is the outlook for Salivary duct stones ?</Question>
+			<Answer>Most of the time, salivary duct stones cause only pain or discomfort, but at times become infected. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003455-7" qtype="when to contact a medical professional">Do I need to see a doctor for Salivary duct stones ?</Question>
+			<Answer>Contact your provider if you have symptoms of salivary duct stones.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

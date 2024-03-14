@@ -1,0 +1,59 @@
+<Document id="0000557" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000995.htm">
+ 
+<Focus>Breast milk jaundice</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270215</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hyperbilirubinemia - breastfeeding</Synonym>
+		<Synonym>Breast-non-feeding jaundice</Synonym>
+		<Synonym>Breastfeeding failure jaundice</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000557-1" qtype="information">What is (are) Breast milk jaundice ?</Question>
+			<Answer>Jaundice is a condition that causes the skin and whites of the eyes to turn yellow. There are two common problems that may occur in newborns receiving breast milk. If jaundice is seen after the first week of life in a breastfed baby who is otherwise healthy, the condition may be called "breast milk jaundice.", At times, jaundice occurs when your baby does not get enough breast milk, instead of from the breast milk itself. This is called "breastfeeding failure jaundice.", </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000557-2" qtype="causes">What causes Breast milk jaundice ?</Question>
+			<Answer>Bilirubin is a yellow pigment that is produced as the body recycles old red blood cells. The liver helps break down bilirubin so that it can be removed from the body in the stool. It can be normal for newborn babies to be a little yellow between days 1 and 5 of life. The color most often peaks around day 3 or 4. Breast milk jaundice is seen after the first week of life. It is likely caused by: Factors in a mother's milk that help a baby absorb bilirubin from the intestine, Factors that keep certain proteins in the baby's liver from breaking down bilirubin ,  Sometimes, jaundice occurs when your baby does not get enough breast milk, instead of from the breast milk itself. This kind of jaundice is different because it starts in the first few days of life. It is called "breastfeeding failure jaundice," "breast-non-feeding jaundice," or even "starvation jaundice." Babies who are born early (before 37 or 38 weeks) are not always able to feed well., Breastfeeding failure or breast-non-feeding jaundice may also occur when feedings are scheduled by the clock (such as, every 3 hours for 10 minutes) or when babies who show signs of hunger are given pacifiers. ,  Breast milk jaundice may run in families. It occurs just as often in males and females and affects about a third of all newborns who get only their mother's milk.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000557-3" qtype="symptoms">What are the symptoms of Breast milk jaundice ?</Question>
+			<Answer>Your child's skin, and possibly the whites of the eyes (sclerae), will look yellow.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000557-4" qtype="exams and tests">How to diagnose Breast milk jaundice ?</Question>
+			<Answer>Laboratory tests that may be done include: Bilirubin level (total and direct), Blood smear to look at blood cell shapes and sizes, Blood type, Complete blood count, Reticulocyte count (number of slightly immature red blood cells) ,  In some cases, a blood test to check for glucose-6-phosphate dehydrogenase (G6PD) deficiency may be done. G6PD is a protein that helps red blood cells work properly. These tests are done to be sure that there are no other, more dangerous causes of the jaundice. Another test that may be considered consists of stopping breastfeeding and giving formula for 12 to 24 hours. This is done to see if the bilirubin level goes down. This test is not always necessary.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000557-5" qtype="treatment">What are the treatments for Breast milk jaundice ?</Question>
+			<Answer>Treatment will depend on: Your baby's bilirubin level, which naturally rises during the first week of life, How fast the bilirubin level has been going up, Whether your baby was born early, How your baby has been feeding, How old your baby is now,  Often, the bilirubin level is normal for the baby's age. Newborns normally have higher levels than older children and adults. In this case, no treatment is needed, other than close follow-up. You can prevent the kind of jaundice that is caused by too little breastfeeding by making sure your baby is getting enough milk. Feed about 10 to 12 times each day, starting on the first day. Feed whenever your baby is alert, sucking on the hands, and smacking the lips. This is how babies let you know they are hungry., If you wait until your baby cries, feeding will not go as well., Give babies unlimited time at each breast, as long as they are sucking and swallowing steadily. Full babies will relax, unclench their hands, and drift off to sleep.,  If breastfeeding is not going well, get help from a lactation consultant or your doctor as soon as possible. Babies born before 37 or 38 weeks most often need extra help. Their moms often need to express or pump to make enough milk while they are learning to breastfeed. Nursing or pumping more often (up to 12 times a day) will increase the amount of milk the baby gets. They can cause the bilirubin level to drop. Ask your doctor before deciding to give your newborn formula. It is best to keep breastfeeding. Babies need their mothers' milk. Although a baby full of formula can be less demanding, formula feeding may cause you to make less milk., If the milk supply is low because your baby's demand has been low (for example, if your baby was born early), you may have to use formula for a brief time. You should also use a pump to help make more breast milk until your baby is better able to nurse., Spending "skin to skin" time can also help babies feed better and help moms make more milk. ,  In some cases, if babies aren't able to feed well, fluids are given through a vein to help increase their fluid levels and lower bilirubin levels. To help break down the bilirubin if it is too high, your baby may be placed under special blue lights (phototherapy). You may be able to do  phototherapy at home .</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000557-6" qtype="outlook">What is the outlook for Breast milk jaundice ?</Question>
+			<Answer>The baby should recover fully with the right monitoring and treatment. The jaundice should go away by 12 weeks of life.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000557-7" qtype="complications">What are the complications of Breast milk jaundice ?</Question>
+			<Answer>In true breast milk jaundice, there are no complications in most cases. However,  babies with very high bilirubin levels  who do not get the right medical care can have severe effects.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000557-8" qtype="when to contact a medical professional">Do I need to see a doctor for Breast milk jaundice ?</Question>
+			<Answer>Contact your health care provider right away if you are breastfeeding and your baby's skin or eyes become yellow (jaundiced).</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000557-9" qtype="prevention">How to prevent Breast milk jaundice ?</Question>
+			<Answer>Breast milk jaundice cannot be prevented, and it is not harmful. But when a baby's color is yellow, you must have the baby's bilirubin level checked right away. If the bilirubin level is high, it is important to make sure there are no other medical problems.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

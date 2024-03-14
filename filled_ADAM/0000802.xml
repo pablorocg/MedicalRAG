@@ -1,0 +1,16 @@
+<Document id="0000802" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003485.htm">
+ 
+<Focus>Chloride test - blood</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Serum chloride test</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000802-1" qtype="information">Do you have information about Chloride test - blood</Question>
+			<Answer>Chloride is a type of  electrolyte . It works with other electrolytes such as potassium, sodium, and carbon dioxide (CO2). These substances help keep the proper balance of body fluids and maintain the body's acid-base balance. This article is about the laboratory test used to measure the amount of chloride in the fluid portion (serum) of the blood.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

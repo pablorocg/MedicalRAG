@@ -1,0 +1,61 @@
+<Document id="0000363" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001526.htm">
+ 
+<Focus>Autism spectrum disorder</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1510586</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Autism</Synonym>
+		<Synonym>Autistic disorder</Synonym>
+		<Synonym>Asperger syndrome</Synonym>
+		<Synonym>Childhood disintegrative disorder</Synonym>
+		<Synonym>Pervasive developmental disorder</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000363-1" qtype="information">What is (are) Autism spectrum disorder ?</Question>
+			<Answer>Autism spectrum disorder (ASD) is a developmental disorder. It often appears in the first 2 to 3 years of life. ASD affects the brain's ability to develop normal social and communication skills.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000363-2" qtype="causes">What causes Autism spectrum disorder ?</Question>
+			<Answer>The exact cause of ASD isn't known. It's likely that a number of factors may lead to ASD. Research shows that genes may be involved, since ASD runs in some families. Certain medicines taken during pregnancy may also lead to ASD in the child. Other causes have been suspected, but not proven. Some scientists believe that damage to a part of the brain, called the amygdala, may be involved. Others are looking at whether a virus may trigger symptoms. Some parents have heard that vaccines may cause ASD. But studies have found no link between vaccines and ASD. All expert medical and government groups state that there is no link between vaccines and ASD. The increase in children with ASD may be due to better diagnosis and newer definitions of ASD. Autism spectrum disorder now includes syndromes that used to be regarded as separate disorders: Autistic disorder,  Asperger syndrome ,  Childhood disintegrative disorder , Pervasive developmental disorder , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000363-3" qtype="symptoms">What are the symptoms of Autism spectrum disorder ?</Question>
+			<Answer>Most parents of children with ASD suspect that something is wrong by the time the child is 18 months old. Children with ASD often have problems with: Pretend play, Social interactions, Verbal and nonverbal communication,  Some children seem normal before age 1 or 2. They then suddenly lose language or social skills they already had. Symptoms can vary from moderate to severe. A person with ASD may: Be very sensitive to sight, hearing, touch, smell, or taste (for example, they refuse to wear "itchy" clothes and get upset if they're forced to wear the clothes), Be very upset when routines are changed, Repeat body movements over and over , Be unusually attached to things,  Communication problems may include: Can't start or maintain a conversation, Uses gestures instead of words, Develops language slowly or not at all, Doesn't adjust gaze to look at objects that others are looking at, Doesn't refer to self the right way (for example, says "you want water" when the child means "I want water"), Doesn't point to show other people objects (normally occurs in the first 14 months of life), Repeats words or memorized passages, such as commercials,  Social interaction problems may include: Doesn't make friends, Doesn't play interactive games, Is withdrawn, May not respond to eye contact or smiles, or may avoid eye contact, May treat others as objects, Prefers to be alone rather than with others, Isn't able to show empathy,  Response to sensory information problems may include: Doesn't startle at loud noises, Has very high or very low senses of sight, hearing, touch, smell, or taste, May find normal noises painful and hold their hands over their ears, May withdraw from physical contact because it's too stimulating or overwhelming, Rubs surfaces, mouths or licks objects, May have a very high or very low response to pain,  Problems with play may include: Doesn't imitate the actions of others, Prefers solitary or ritualistic play, Shows little pretend or imaginative play,  Behaviors may include: Acts out with intense tantrums, Gets stuck on a single topic or task, Has a short attention span, Has very narrow interests, Is overactive or very passive, Is aggressive toward others or self, Shows a strong need for things being the same, Repeats body movements, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000363-4" qtype="exams and tests">How to diagnose Autism spectrum disorder ?</Question>
+			<Answer>All children should have routine exams done by their health care provider. More tests may be needed if the provider or parents are concerned. This is true if a child doesn't meet any one of these language milestones: Babbling by 12 months, Gesturing (pointing, waving bye-bye) by 12 months, Saying single words by 16 months, Saying two-word spontaneous phrases by 24 months (not just echoing), Losing any language or social skills at any age,  These children might need a hearing test, blood lead test, and screening test for ASD. A provider experienced in diagnosing and treating ASD should see the child to make the actual diagnosis. Because there isn't a definitive test for ASD, diagnosis is often based on guidelines from a medical book titled  Diagnostic and Statistical Manual of Mental Disorders (DSM-V) . An evaluation for ASD often includes a complete physical and nervous system (neurologic) exam. Tests may be done to see if there is a problem with genes or the body's  metabolism . Metabolism is the body's physical and chemical processes. ASD includes a broad spectrum of symptoms. So, a single, brief evaluation can't tell a child's true abilities. It's best to have a team of specialists to evaluate the child. They might evaluate: Communication, Language, Motor skills, Speech, Success at school, Thinking abilities,  Some parents don't want to have their child diagnosed because they're afraid the child will be labeled. But without a diagnosis, their child may not get the needed treatment and services.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000363-5" qtype="treatment">What are the treatments for Autism spectrum disorder ?</Question>
+			<Answer>At this time, there is no cure for ASD. A treatment program will greatly improve the outlook for most young children. Most programs build on the interests of the child in a highly structured schedule of constructive activities. Treatment plans may combine techniques, including: Applied behavior analysis (ABA), Medicines, if needed, Occupational therapy, Physical therapy, Speech-language therapy,  APPLIED BEHAVIORAL ANALYSIS (ABA) This program is for younger children. It&#160;helps in some cases. ABA uses one-on-one teaching that reinforces various skills. The goal is to get the child close to normal functioning for their age. An ABA program is often done in a child's home. A behavioral psychologist oversees the program. ABA programs can be very expensive and aren't widely used by school systems. Parents often have to find funding and staffing from other sources, which aren't available in many communities. TEACCH Another program is called the Treatment and Education of Autistic and Related Communication Handicapped Children (TEACCH). It uses picture schedules and other visual cues. These help&#160;children work on their own and organize and structure their environments. Though TEACCH tries to improve a child's skills and ability to adapt, it also accepts the problems associated with ASD. Unlike ABA programs, TEACCH doesn't expect children to achieve typical development with treatment. MEDICINES There is no medicine that treats ASD itself. But medicines are often used to treat behavior or emotional problems that people with ASD may have. These include: Aggression, Anxiety, Attention problems, Extreme compulsions that the child cannot stop, Hyperactivity, Impulsiveness, Irritability, Mood swings, Outbursts, Sleep difficulty, Tantrums,  The drug risperidone is FDA approved to treat children ages 5 through 16 for the irritability and aggression that can occur with ASD. The drug aripriprazole is FDA approved to treat children ages 6 through 17 for the same symptoms. Other medicines that may also be used are mood stabilizers and stimulants. DIET Some children with ASD seem to do well on a gluten-free or casein-free diet. Gluten is in foods containing wheat, rye, and barley. Casein is in milk, cheese, and other dairy products. Not all experts agree that changes in diet make a difference. And not all studies have shown positive results. If&#160;you're thinking about these or other diet changes, talk to both a provider and a registered dietitian. You want to be sure that&#160;your child is still getting enough calories and the right nutrients. OTHER APPROACHES Beware of widely publicized treatments for ASD that don't have scientific support, and reports of miracle cures. If your child has ASD, talk with other parents. Also discuss your concerns with ASD specialists. Follow the progress of ASD research, which is rapidly developing.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000363-6" qtype="support groups">Where to find support for people with Autism spectrum disorder ?</Question>
+			<Answer>Many  organizations  provide additional information and help on ASD.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000363-7" qtype="outlook">What is the outlook for Autism spectrum disorder ?</Question>
+			<Answer>With the right treatment, many ASD symptoms can be improved. Most people with ASD have some symptoms throughout their lives. But, they're able to live with their families or in the community.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000363-8" qtype="complications">What are the complications of Autism spectrum disorder ?</Question>
+			<Answer>ASD can be&#160;linked with other brain disorders, such as: Fragile X syndrome ,  Intellectual disability ,  Tuberous sclerosis ,  Some people with autism develop seizures. The stress of dealing with autism can lead to social and emotional&#160;problems for families and caregivers, and for the person with autism.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000363-9" qtype="when to contact a medical professional">Do I need to see a doctor for Autism spectrum disorder ?</Question>
+			<Answer>Parents usually suspect that there is a developmental problem long before a diagnosis is made. Call your provider if you think that your child is not developing normally.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

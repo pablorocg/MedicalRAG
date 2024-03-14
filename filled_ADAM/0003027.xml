@@ -1,0 +1,21 @@
+<Document id="0003027" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000239.htm">
+ 
+<Focus>Peripheral artery bypass - leg - discharge</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Aortobifemoral bypass - discharge</Synonym>
+		<Synonym>Femoropopliteal - discharge</Synonym>
+		<Synonym>Femoral popliteal - discharge</Synonym>
+		<Synonym>Aorta-bifemoral bypass - discharge</Synonym>
+		<Synonym>Axillo-bifemoral bypass - discharge</Synonym>
+		<Synonym>Ilio-bifemoral bypass - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003027-1" qtype="information">Do you have information about Peripheral artery bypass - leg - discharge</Question>
+			<Answer>Peripheral artery bypass surgery is done to re-route the blood supply around a blocked artery in the leg. You had this surgery because fatty deposits in your arteries were blocking blood flow. This caused symptoms of pain and heaviness in your leg that made walking difficult. This article tells you how to take care of yourself after leaving the hospital.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,22 @@
+<Document id="0001154" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001481.htm">
+ 
+<Focus>Dermatoses - systemic</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037274</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001154-1" qtype="information">What is (are) Dermatoses - systemic ?</Question>
+			<Answer>Dermatoses is a general term used to describe any skin defect or lesion on the skin.  Systemic  means it affects the whole body, rather than just one part. Systemic dermatoses may be linked to problems in other organs. Examples of the most common dermatoses include: Dermatomyositis , Erythema nodosum,  Pemphigus vulgaris ,  Psoriasis , Scleroderma, Sweet syndrome,  Systemic lupus erythematosus , Vitiligo, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

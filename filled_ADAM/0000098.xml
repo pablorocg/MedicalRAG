@@ -1,0 +1,71 @@
+<Document id="0000098" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007654.htm">
+ 
+<Focus>Adult soft tissue sarcoma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220613</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Leiomyosarcoma</Synonym>
+		<Synonym>Hemangiosarcoma</Synonym>
+		<Synonym>Kaposi's sarcoma</Synonym>
+		<Synonym>Lymphangiosarcoma</Synonym>
+		<Synonym>Synovial sarcoma</Synonym>
+		<Synonym>Neurofibrosarcoma</Synonym>
+		<Synonym>Liposarcoma</Synonym>
+		<Synonym>Fibrosarcoma</Synonym>
+		<Synonym>Malignant fibrous histiocytoma</Synonym>
+		<Synonym>Dermatofibrosarcoma</Synonym>
+		<Synonym>Angiosarcoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000098-1" qtype="information">What is (are) Adult soft tissue sarcoma ?</Question>
+			<Answer>Soft tissue sarcoma (STS) is cancer that forms in the soft tissue of the body. Soft tissue connects, supports, or surrounds other body parts. In adults, STS is rare. There are many different types of soft tissue cancers. The type of sarcoma depends on the tissue it forms in: Muscles, Tendons, Fat, Blood vessels, Lymph vessels, Nerves, Tissues in and around joints,  The cancer can form almost anywhere, but is most common in the: Head, Neck, Arms, Legs, Trunk, Abdomen, </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000098-2" qtype="causes">What causes Adult soft tissue sarcoma ?</Question>
+			<Answer>It is not known what causes most sarcomas. But there are certain risk factors: Some inherited diseases, such as Li-Fraumeni syndrome,  Radiation therapy  for other cancers, Exposure to certain chemicals, such as vinyl chloride or certain herbicides, Having swelling in the arms or legs for a long time ( lymphedema ) , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000098-3" qtype="symptoms">What are the symptoms of Adult soft tissue sarcoma ?</Question>
+			<Answer>In early stages, there are often no symptoms. As the cancer grows, it may cause a lump or swelling that keeps growing over time. Most lumps are not due to cancer. Other symptoms include: Pain, if it presses on a nerve, organ, blood vessel, or muscle, Blockage or bleeding in the stomach or intestines, Breathing problems, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000098-4" qtype="exams and tests">How to diagnose Adult soft tissue sarcoma ?</Question>
+			<Answer>Your health care provider will ask you about your medical history and do a physical exam. Other tests may include: X-rays,  CT scan ,  MRI ,  PET scan ,  If your provider suspects cancer, you might have a  biopsy  to check for cancer. In a biopsy, your provider collects a tissue sample to examine in the lab. The biopsy will show if cancer is present and help show how quickly it is growing. Your provider may ask for more tests to  stage the cancer . Staging can tell how much cancer is present and whether it has spread.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000098-5" qtype="treatment">What are the treatments for Adult soft tissue sarcoma ?</Question>
+			<Answer>Surgery is the most common treatment for STS. In early stages, the tumor and some healthy tissue around it is removed., Sometimes, just a small amount of tissue needs to be removed. Other times, a wider area of tissue must be removed., With advanced cancers that form in an arm or leg, surgery may be followed by radiation or chemotherapy. Rarely, the limb may need to be amputated.,  You also may have  radiation  or  chemotherapy : Used before surgery to help shrink the tumor to make it easier to remove the cancer, Used after surgery to kill any remaining cancer cells,  Chemotherapy may be used to help kill cancer that has  metastasized . This means it has spread to different areas of the body.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000098-6" qtype="support groups">Where to find support for people with Adult soft tissue sarcoma ?</Question>
+			<Answer>Cancer affects how you feel about yourself and your life. You can ease the stress of illness by joining a  cancer support group . Sharing with others who have had the same experiences and problems can help you feel less alone. Ask your provider to help you find a support group for people who have been diagnosed with STS.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000098-7" qtype="outlook">What is the outlook for Adult soft tissue sarcoma ?</Question>
+			<Answer>The outlook for people whose cancer is treated early is very good. Most people who survive 5 years can expect to be cancer-free at 10 years.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000098-8" qtype="complications">What are the complications of Adult soft tissue sarcoma ?</Question>
+			<Answer>Complications include side effects from surgery, chemotherapy, or radiation.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000098-9" qtype="when to contact a medical professional">Do I need to see a doctor for Adult soft tissue sarcoma ?</Question>
+			<Answer>See your provider about any lump that grows in size or is painful.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0000098-10" qtype="prevention">How to prevent Adult soft tissue sarcoma ?</Question>
+			<Answer>The cause of most STSs isn't known and there is no way to prevent it. Knowing your risk factors and telling your provider when you first notice symptoms can increase your chance of surviving this type of cancer.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

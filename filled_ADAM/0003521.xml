@@ -1,0 +1,57 @@
+<Document id="0003521" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000750.htm">
+ 
+<Focus>Sensorimotor polyneuropathy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0271682</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Polyneuropathy - sensorimotor</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003521-1" qtype="information">What is (are) Sensorimotor polyneuropathy ?</Question>
+			<Answer>Sensorimotor polyneuropathy is a condition that&#160;causes a decreased ability to move and feel (sensation) because of nerve damage.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003521-2" qtype="causes">What causes Sensorimotor polyneuropathy ?</Question>
+			<Answer>Neuropathy means a disease of, or damage to nerves. When it occurs outside of the central nervous system (CNS), that is, the brain and spinal cord, it is called a peripheral neuropathy. Mononeuropathy means one nerve is involved. Polyneuropathy means that many nerves in different parts of the body are involved. Neuropathy can affect nerves that provide feeling (sensory neuropathy) or cause movement (motor neuropathy). It can also affect both, in&#160;which case it is called a sensorimotor neuropathy. Sensorimotor polyneuropathy is a bodywide (systemic) process that damages nerve cells, nerve fibers (axons), and nerve coverings ( myelin  sheath). Damage to the covering of the nerve cell causes nerve signals to slow or stop. Damage to the nerve fiber or entire nerve cell can make the nerve stop working. Some neuropathies develop over years, while others can start and get severe within hours to days. Nerve damage can be caused by: Autoimmune (when the body attacks itself) disorders, Conditions that put pressure on nerves, Decreased blood flow to the nerve, Diseases that destroy the glue (connective tissue) that holds cells and tissues together, Swelling (inflammation) of the nerves,  Some diseases lead to polyneuropathy that is mainly sensory or mainly motor. Possible causes of sensorimotor polyneuropathy include: Alcoholic neuropathy , Amyloid polyneuropathy, Autoimmune disorders, such as Sj&#246;gren syndrome, Cancer (called a paraneoplastic neuropathy), Long-term (chronic) inflammatory neuropathy,  Diabetic neuropathy ,  Drug-related neuropathy , including chemotherapy,  Guillain-Barr&#233; syndrome , Hereditary neuropathy, HIV/AIDS , Low thyroid , Parkinson disease , Vitamin deficiency ( vitamins B12 ,  B1 , and E), Zika virus infection, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003521-3" qtype="symptoms">What are the symptoms of Sensorimotor polyneuropathy ?</Question>
+			<Answer>Symptoms may include any of the following: Decreased feeling in any area of the body, Difficulty swallowing or breathing, Difficulty using the arms or hands, Difficulty using the legs or feet,  Difficulty walking , Pain, burning, tingling, or abnormal feeling in any area of the body (called  neuralgia ), Weakness of the face, arms, or legs, or any area of the body , Occasional falls due to lack of balance and not feeling the ground under your feet,  Symptoms may develop quickly (as in Guillain-Barr&#233; syndrome) or slowly over weeks to years. Symptoms usually occur on both sides of the body. Most often, they start at the ends of the toes first.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003521-4" qtype="exams and tests">How to diagnose Sensorimotor polyneuropathy ?</Question>
+			<Answer>The health care provider will examine you and ask about your symptoms. An exam may show: Decreased feeling (may affect touch, pain, vibration, or position sensation), Diminished reflexes (most commonly the ankle),  Muscle atrophy ,  Muscle twitches , Muscle weakness,  Paralysis ,  Tests may include: Biopsy &#160;of the affected nerves ,  Blood tests ,  Electrical test of the muscles ( EMG ) ,  Electrical test of  nerve conduction ,  X-rays or other imaging tests, such as MRI , Genetic testing, Spinal fluid testing (lumbar puncture/spinal tap), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003521-5" qtype="treatment">What are the treatments for Sensorimotor polyneuropathy ?</Question>
+			<Answer>Goals of treatment include: Finding the cause, Controlling the symptoms, Promoting a person's self-care and independence,  Depending on the cause, treatment may include: Changing medicines, if they are causing the problem, Controlling blood sugar level, when the neuropathy is from diabetes, Not drinking alcohol, Taking daily nutritional supplements, Medicines to treat the underlying cause of the polyneuropathy,  PROMOTING SELF-CARE AND INDEPENDENCE Exercises and retraining to maximize function of the damaged nerves, Job (vocational) therapy, Occupational therapy, Orthopedic treatments, Physical therapy, Wheelchairs, braces, or splints,  CONTROL OF SYMPTOMS Safety is important for people with neuropathy. Lack of muscle control and decreased sensation can increase the risk of falls or other injuries. If you have movement difficulties, these measures can help keep you safe: Leave lights on., Remove obstacles (such as loose rugs that may slip on the floor)., Test water temperature before bathing., Use railings., Wear protective shoes (such as those with closed toes and low heels)., Wear shoes that have non-slippery soles., Have a therapist assess your need for an assistive device such as a cane or walker.,  Other tips include: Check your feet (or other affected area) daily for bruises, open skin areas, or other injuries,which you may not notice that can become infected., Check the inside of shoes often for grit or rough spots that may injure your feet., Visit a foot doctor (podiatrist) to assess and reduce the risk of injury to your feet., Avoid leaning on your elbows, crossing your knees, or being in other positions that put prolonged pressure on certain body areas.,  Medicines used to treat the symptoms of this condition: Over-the-counter and prescription pain relievers to reduce stabbing pain ( neuralgia ), Anticonvulsants or antidepressants, Lotions, creams, or medicated patches,  Other treatments may be directed against your immune system to stop an autoimmune attack: Steroids and other immunosuppressants, Plasma pheresis (plasma exchange), Intravenous immunoglobulin (IVIg),  Use pain medicine only when necessary. Keeping your body in the proper position or keeping bed linens off a tender body part may help control pain.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003521-6" qtype="support groups">Where to find support for people with Sensorimotor polyneuropathy ?</Question>
+			<Answer>These groups can provide more information about neuropathy. Neuropathy Action Foundation --  www.neuropathyaction.org , The Foundation for Peripheral Neuropathy --  www.foundationforpn.org , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003521-7" qtype="outlook">What is the outlook for Sensorimotor polyneuropathy ?</Question>
+			<Answer>In some cases, you can fully recover from peripheral neuropathy if your provider can find the cause and successfully treat it, and if the damage does not affect the entire nerve cell. The amount of disability varies. Some people have no disability. Others have partial or complete loss of movement, function, or feeling. Nerve pain may be uncomfortable and may last for a long time. In some cases, sensorimotor polyneuropathy causes severe, life-threatening symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003521-8" qtype="complications">What are the complications of Sensorimotor polyneuropathy ?</Question>
+			<Answer>Problems that may result include: Deformity, Injury to feet (caused by bad shoes or hot water when stepping into the bathtub), Numbness, Pain, Trouble walking, Weakness, Difficulty breathing or swallowing (in severe cases), Falls due to lack of balance, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003521-9" qtype="when to contact a medical professional">Do I need to see a doctor for Sensorimotor polyneuropathy ?</Question>
+			<Answer>Contact your provider if you have loss of movement or feeling in a part of your body. Early diagnosis and treatment increase the chance of controlling the symptoms.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,53 @@
+<Document id="0002237" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000584.htm">
+ 
+<Focus>Iron deficiency anemia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162316</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Anemia - iron deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002237-1" qtype="information">What is (are) Iron deficiency anemia ?</Question>
+			<Answer>Anemia is a condition in which the body does not have enough healthy red blood cells. Red blood cells provide oxygen to body tissues. There are many types and causes of anemia. Iron deficiency anemia occurs when your body does not have enough iron. Iron helps make red blood cells. Iron deficiency anemia is the most common form of anemia.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002237-2" qtype="causes">What causes Iron deficiency anemia ?</Question>
+			<Answer>Red blood cells bring oxygen to the body's tissues. Red blood cells are made in your bone marrow. Red blood cells circulate through your body for 3 to 4 months. Parts of your body, such as your spleen, remove old blood cells. Iron is a key part of red blood cells. Without iron to make hemoglobin, your blood cannot carry oxygen effectively. Your body normally gets iron through your diet. It also reuses iron from old red blood cells. Iron deficiency anemia develops when your body's iron stores run low. This can occur because: You lose more blood cells and iron than your body can replace, Your body does not absorb iron well, Your body is able to absorb iron, but you are not eating enough foods that contain iron, Your body needs more iron than normal (such as if you are pregnant or breastfeeding) ,  Bleeding can cause iron loss. Common causes of bleeding are: Heavy, long, or frequent menstrual periods, Cancer in the esophagus, stomach, small bowel, or  colon ,  Esophageal varices , often from cirrhosis, The use of aspirin, ibuprofen, or  arthritis  medicines for a long time, which can cause gastrointestinal bleeding,  Peptic ulcer disease ,  Your body may not absorb enough iron in your diet due to: Celiac disease ,  Crohn disease ,  Gastric bypass surgery , Taking too many antacids or too much of the antibiotic tetracycline ,  You may not get enough iron in your diet if: You are a strict vegetarian, You do not eat enough foods that contain iron , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002237-3" qtype="symptoms">What are the symptoms of Iron deficiency anemia ?</Question>
+			<Answer>You may have no symptoms if the anemia is mild. Most of the time, symptoms are mild at first and develop slowly. Symptoms may include: Feeling weak or tired more often than usual, or with exercise, Headaches, Dizziness, Palpitations, Problems concentrating or thinking ,  As the anemia gets worse, symptoms may include: Brittle nails , Blue color to the whites of the eye, Desire to eat ice or other non-food things ( pica ), Feeling lightheaded when you stand up,  Pale skin color ,  Shortness of breath , Sore or inflamed tongue, Mouth ulcers, Uncontrolled movement of legs (during sleep), Hair loss,  Symptoms of the conditions associated with bleeding that cause iron deficiency anemia include: Dark, tar-colored stools or blood in the stool, Heavy menstrual bleeding, Pain in the upper belly (from ulcers), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002237-4" qtype="exams and tests">How to diagnose Iron deficiency anemia ?</Question>
+			<Answer>To diagnose anemia, your health care provider may order these blood tests: Complete blood count (CBC), Reticulocyte count ,  To check iron levels, your provider may order: Serum iron &#160;level,  Iron binding capacity  (TIBC) in the blood,  Serum ferritin ,  Bone marrow biopsy &#160;(if the diagnosis is not clear),  To check for causes of blood loss, your provider may order: Colonoscopy ,  Fecal occult blood test ,  Upper endoscopy , Tests to detect sources of blood loss in the urinary tract or uterus , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002237-5" qtype="treatment">What are the treatments for Iron deficiency anemia ?</Question>
+			<Answer>Treatment may include  taking iron supplements  and eating  iron-rich foods . Iron supplements (most often ferrous sulfate) build up the iron stores in your body. Most of the time, your provider will measure your iron level before you start supplements. If you cannot take iron by mouth, you may need to take it through a vein ( intravenous ) or by an injection into the muscle. Pregnant and breastfeeding women will need to take extra iron because they often cannot get enough iron from their normal diet. Often your anemia will improve or resolve with 6 weeks of iron therapy. You will need to keep taking iron for another 6 months to replace your body's iron stores in your bone marrow. Iron supplements are mostly well tolerated, but may cause: Nausea, Vomiting, Constipation ,  Iron-rich foods include: Chicken and turkey, Dried lentils, peas, and beans, Fish, Meats (liver is the highest source), Soybeans, baked beans, chickpeas, Whole-grain bread ,  Other sources include: Oatmeal, Raisins, prunes, apricots, and peanuts, Spinach, kale, and other greens ,  Vitamin C helps your body to absorb iron. Good sources of vitamin C are: Oranges, Grapefruits, Kiwi, Strawberries, Broccoli, Tomatoes, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002237-6" qtype="outlook">What is the outlook for Iron deficiency anemia ?</Question>
+			<Answer>With treatment, the outcome is likely to be good, but it does depend on the cause.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002237-7" qtype="when to contact a medical professional">Do I need to see a doctor for Iron deficiency anemia ?</Question>
+			<Answer>Contact your provider if: You have symptoms of iron deficiency, You notice blood or a black tar-appearance in your stool, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002237-8" qtype="prevention">How to prevent Iron deficiency anemia ?</Question>
+			<Answer>A balanced diet should include enough iron. Food sources of iron are listed above. If advised by your provider, take iron supplements.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

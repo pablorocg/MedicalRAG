@@ -1,0 +1,56 @@
+<Document id="0002689" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001639.htm">
+ 
+<Focus>Mucous cyst</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026683</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Mucocele</Synonym>
+		<Synonym>Mucous retention cyst</Synonym>
+		<Synonym>Ranula</Synonym>
+		<Synonym>Epulis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002689-1" qtype="information">What is (are) Mucous cyst ?</Question>
+			<Answer>An oral mucous  cyst  is a painless, thin sac on the inner surface of the mouth. It contains clear fluid.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002689-2" qtype="causes">What causes Mucous cyst ?</Question>
+			<Answer>Mucous cysts most often appear near salivary gland openings (ducts). Common sites and causes of cysts include: Inner surface of the upper or lower lip, inside the cheeks, bottom surface of the tongue. These are called mucoceles. They are often caused by lip biting, lip sucking, or other trauma., Floor of the mouth. These are called ranula. They are caused by blockage of the salivary glands under the tongue., </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002689-3" qtype="symptoms">What are the symptoms of Mucous cyst ?</Question>
+			<Answer>Symptoms of mucoceles include: Usually painless, but can be bothersome because you're aware of the bumps in your mouth., Often appears clear, bluish or pink, soft, smooth, round and dome-shaped., Vary in size up to 1 cm in diameter., May break open on their own, but may recur.,  Symptoms of ranula include: Usually painless swelling on the floor of the mouth below the tongue., Often appears bluish and dome-shaped., If the cyst is large, chewing, swallowing, talking may be affected., If the cyst grows into the neck muscle, breathing can stop. This is a medical emergency., </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002689-4" qtype="exams and tests">How to diagnose Mucous cyst ?</Question>
+			<Answer>Your health care provider can usually diagnose a mucocele or ranula simply by looking at it. Other tests that may be done include: Biopsy , Ultrasound, CT scan, usually for ranula that has grown into the neck, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002689-5" qtype="treatment">What are the treatments for Mucous cyst ?</Question>
+			<Answer>A mucous cyst often can be left alone. It usually will rupture on its own. If the cyst returns, it may need to be removed. To remove a mucocele, the provider may perform any of the following: Freezing the cyst (cryotherapy), Laser treatment, Surgery to cut out the cyst,  A ranula is usually removed using laser or surgery. The best outcome is removing both the cyst and the gland that caused the cyst. To prevent infection and damage to the tissue, do not try to open the sac yourself. Treatment should only be done by your provider. Oral surgeons and some dentists can remove the sac.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002689-6" qtype="complications">What are the complications of Mucous cyst ?</Question>
+			<Answer>Complications may include: Return of the cyst, Injury of nearby tissues during removal of a cyst, </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002689-7" qtype="when to contact a medical professional">Do I need to see a doctor for Mucous cyst ?</Question>
+			<Answer>Contact your provider if you: Notice a cyst or mass in your mouth, Have difficulty swallowing or talking,  These may be a sign of more serious problem, such as mouth cancer.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002689-8" qtype="prevention">How to prevent Mucous cyst ?</Question>
+			<Answer>Avoiding intentionally sucking the cheeks or biting the lips may help prevent some mucoceles.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

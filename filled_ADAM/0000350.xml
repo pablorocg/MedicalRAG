@@ -1,0 +1,54 @@
+<Document id="0000350" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000875.htm">
+ 
+<Focus>Athlete's foot</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0040259</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Tinea pedis</Synonym>
+		<Synonym>Fungal infection - feet</Synonym>
+		<Synonym>Tinea of the foot</Synonym>
+		<Synonym>Infection - fungal - feet</Synonym>
+		<Synonym>Ringworm - foot</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000350-1" qtype="information">What is (are) Athlete's foot ?</Question>
+			<Answer>Athlete's foot is an infection of the feet caused by fungus. The medical term is tinea pedis or ringworm of the foot. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000350-2" qtype="causes">What causes Athlete's foot ?</Question>
+			<Answer>Athlete's foot occurs when a certain fungus grows on the skin of your feet. The same fungus may also grow on other parts of the body. However, the feet are most commonly affected, especially between the toes. Athlete's foot is the most common type of  tinea  infection. The fungus thrives in warm, moist areas. Your risk for getting athlete's foot increases if you: Wear closed shoes, especially if they are plastic-lined, Keep your feet wet for long periods, Sweat a lot, Develop a minor skin or nail injury ,  Athlete's foot is easily spread. It can be passed through direct contact or contact with items such as shoes, stockings, and shower or pool surfaces.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000350-3" qtype="symptoms">What are the symptoms of Athlete's foot ?</Question>
+			<Answer>The most common symptom is cracked, flaking, peeling skin between the toes or on the side of the foot. Other symptoms can include: Red and itchy skin, Burning or stinging pain, Blisters that ooze or get crusty,  If the fungus spreads to your nails, they can become discolored, thick, and even crumble. Athlete's foot may occur at the same time as other fungal or yeast skin infections such as  jock itch .</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000350-4" qtype="exams and tests">How to diagnose Athlete's foot ?</Question>
+			<Answer>Your health care provider can diagnose athlete's foot simply by looking at your skin. If tests are needed, they may include: A simple office test called a  KOH exam  to check for fungus,  Skin culture , A  skin biopsy  may also be performed with a special stain called PAS to identify fungus
+ , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000350-5" qtype="treatment">What are the treatments for Athlete's foot ?</Question>
+			<Answer>Over-the-counter antifungal powders or creams can help control the infection:  These contain medicine such as miconazole, clotrimazole, terbinafine, or tolnaftate., Keep using the medicine for 1 to 2 weeks after the infection has cleared to prevent it from returning. ,  In addition: Keep your feet clean and dry, especially between your toes., Wash your feet thoroughly with soap and water and dry the area carefully and completely. Try to do this at least twice a day., To widen and keep the web space (area between the toes) dry, use lamb's wool. This can be bought at a drugstore., Wear clean cotton socks. Change your socks and shoes as often as needed to keep your feet dry., Wear sandals or flip-flops at a public shower or pool., Use antifungal or drying powders to prevent athlete's foot if you tend to get it often, or you frequent places where athlete's foot fungus is common (like public showers)., Wear shoes that are well-ventilated and made of natural material such as leather. It may help to alternate shoes each day, so they can completely dry between wearings. Do not wear plastic-lined shoes. ,  If athlete's foot does not get better in 2 to 4 weeks with self-care, or frequently returns, see your provider. Your provider may prescribe: Antifungal medicines to take by mouth, Antibiotics to treat bacterial infections that occur from scratching, Topical creams that kill the fungus , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000350-6" qtype="outlook">What is the outlook for Athlete's foot ?</Question>
+			<Answer>Athlete's foot almost always responds well to self-care, although it may come back. Long-term medicine and preventive measures may be needed. The infection can spread to the toenails.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000350-7" qtype="when to contact a medical professional">Do I need to see a doctor for Athlete's foot ?</Question>
+			<Answer>Call your provider right away if: Your foot is swollen and warm to the touch, especially if there are red streaks or pain. These are signs of a possible bacterial infection. Other signs include pus, drainage, and fever., Athlete's foot symptoms do not go away within 2 to 4 weeks of self-care treatments. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

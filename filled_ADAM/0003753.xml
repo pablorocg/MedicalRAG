@@ -1,0 +1,38 @@
+<Document id="0003753" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000341.htm">
+ 
+<Focus>Stroke - risk factors</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038454</CUI>
+			<CUI>C0455624</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Preventing stroke</Synonym>
+		<Synonym>Stroke - prevention</Synonym>
+		<Synonym>CVA - prevention</Synonym>
+		<Synonym>TIA - prevention</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003753-1" qtype="information">What is (are) Stroke - risk factors ?</Question>
+			<Answer>A  stroke  occurs when blood flow to a part of the brain suddenly stops. A stroke is sometimes called a "brain attack or cerebrovascular accident." If blood flow is cut off for longer than a few seconds, the brain cannot get nutrients and oxygen. Brain cells can die, causing lasting damage. Risk factors are things that increase your chance of getting a disease or condition. This article discusses the risk factors for stroke and things you can do to lessen your risk.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003753-2" qtype="susceptibility">Who is at risk for Stroke - risk factors? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003753-3" qtype="susceptibility">Who is at risk for Stroke - risk factors? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

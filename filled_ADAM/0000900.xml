@@ -1,0 +1,52 @@
+<Document id="0000900" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001125.htm">
+ 
+<Focus>Colitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1963084</CUI>
+			<CUI>C0009319</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000900-1" qtype="information">What is (are) Colitis ?</Question>
+			<Answer>Colitis is swelling (inflammation) of the large intestine (colon).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000900-2" qtype="causes">What causes Colitis ?</Question>
+			<Answer>Most of the time, the cause of colitis is not known. Causes of colitis include: Infections caused by a virus or a parasite,  Food poisoning  due to bacteria,  Crohn disease ,  Ulcerative colitis , Lack of blood flow to the colon (ischemic colitis), Past radiation to the colon (radiation colitis and strictures),  Necrotizing enterocolitis  in newborns,  Pseudomembranous colitis  caused by  Clostridium difficile  infection&#160;(now called  Clostridiodes difficile ), </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000900-3" qtype="symptoms">What are the symptoms of Colitis ?</Question>
+			<Answer>Symptoms can include: Abdominal pain  and  bloating &#160;that&#160;may be constant or come and go,  Bloody stools &#160;, Constant urge to have a bowel movement (tenesmus),  Dehydration ,  Diarrhea , Fever , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000900-4" qtype="exams and tests">How to diagnose Colitis ?</Question>
+			<Answer>The health care provider will perform a physical exam. You will also be asked questions about your symptoms, such as:  How long have you had the symptoms?, How severe is your pain?, How often do you have pain and how long does it last?, How often do you have diarrhea?, Have you traveled recently?, Have you taken antibiotics recently? ,  Your provider may recommend a flexible  sigmoidoscopy  or  colonoscopy . During this test, a flexible tube is inserted through your rectum to examine your colon. You may have biopsies taken during this exam. Biopsies may show changes related to inflammation. This can help determine the cause of colitis. Other studies that can identify colitis include: CT scan of the abdomen ,  MRI of the abdomen ,  Barium enema ,  Stool culture ,  Stool examination for ova and parasites , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000900-5" qtype="treatment">What are the treatments for Colitis ?</Question>
+			<Answer>Your treatment will depend on the cause of the disease. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000900-6" qtype="outlook">What is the outlook for Colitis ?</Question>
+			<Answer>The outlook depends on the cause of the problem. Crohn disease is a chronic condition which has no cure but can be controlled. Biologic agents are very effective in controlling symptoms of Crohn colitis., Ulcerative colitis can usually be controlled with medicines. If not controlled, it can be cured by surgically removing the colon., Viral, bacterial, and parasitic colitis can be cured with appropriate medicines., Pseudomembranous colitis can usually be cured with appropriate antibiotics., </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000900-7" qtype="complications">What are the complications of Colitis ?</Question>
+			<Answer>Complications may include: Bleeding with bowel movements,  Perforation of the colon ,  Toxic megacolon , Sore (ulceration), </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000900-8" qtype="when to contact a medical professional">Do I need to see a doctor for Colitis ?</Question>
+			<Answer>Contact your provider if you have symptoms such as: Abdominal pain that does not get better ,  Blood in the stool or stools that look black ,  Diarrhea or vomiting that does not go away ,  Swollen abdomen , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

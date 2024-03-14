@@ -1,0 +1,61 @@
+<Document id="0001268" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000636.htm">
+ 
+<Focus>Donovanosis (granuloma inguinale)</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018190</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Granuloma inguinale</Synonym>
+		<Synonym>Sexually transmitted disease  donovanosis</Synonym>
+		<Synonym>STD - donovanosis</Synonym>
+		<Synonym>Sexually transmitted infection  donovanosis</Synonym>
+		<Synonym>STI - donovanosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001268-1" qtype="information">What is (are) Donovanosis (granuloma inguinale) ?</Question>
+			<Answer>Donovanosis (granuloma inguinale) is a sexually transmitted disease (STD) that is rarely seen in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001268-2" qtype="causes">What causes Donovanosis (granuloma inguinale) ?</Question>
+			<Answer>Donovanosis is caused by the bacterium  Klebsiella granulomatis . The disease is commonly found in tropical and subtropical areas such as southeast India, Guyana, and New Guinea. There are about 100 cases reported per year in the United States. Most of these cases occur in people who have traveled to or are from places where the disease is common. The disease spreads mostly through vaginal or anal intercourse. Very rarely, it spreads during oral sex. Most infections occur in people ages 20 to 40.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001268-3" qtype="symptoms">What are the symptoms of Donovanosis (granuloma inguinale) ?</Question>
+			<Answer>Symptoms can occur 1 to 12 weeks after coming in contact with the bacteria. Symptoms may include: Sores in the anal area (in about half of cases), Small, beefy-red bumps on the genitals or around the anus,  The skin gradually wears away, and the bumps turn into raised, beefy-red, velvety  nodules  called granulation tissue. They are often painless, but they bleed easily if injured. The disease slowly spreads and destroys genital tissue. Tissue damage may spread to the groin. The genitals and the skin around them lose skin color. In its early stages, it may be hard to tell the difference between donovanosis and  chancroid .</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001268-4" qtype="exams and tests">How to diagnose Donovanosis (granuloma inguinale) ?</Question>
+			<Answer>Tests may include: Culture of tissue sample  (hard to do and not routinely available), Scrapings or  biopsy of lesion ,  Laboratory tests for diagnosing donovanosis are available only on a research basis.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001268-5" qtype="treatment">What are the treatments for Donovanosis (granuloma inguinale) ?</Question>
+			<Answer>Antibiotics are used to treat donovanosis. These may include: Azithromycin, Doxycycline, Ciprofloxacin, Erythromycin, Trimethoprim-sulfamethoxazole,  To cure the condition, long-term treatment is needed. Most treatment courses require 3 weeks or until the sores have completely healed. A follow-up exam is needed because the disease can reappear after it seems to be cured.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001268-6" qtype="outlook">What is the outlook for Donovanosis (granuloma inguinale) ?</Question>
+			<Answer>Early treatment helps prevent tissue damage or scarring. Untreated, the disease leads to damage of the genital tissue.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001268-7" qtype="complications">What are the complications of Donovanosis (granuloma inguinale) ?</Question>
+			<Answer>Health problems that may result from this disease include: Genital damage and scarring, Loss of skin color in the genital area, Permanent genital swelling due to scarring, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001268-8" qtype="when to contact a medical professional">Do I need to see a doctor for Donovanosis (granuloma inguinale) ?</Question>
+			<Answer>Contact your health care provider for an appointment if: You have had sexual contact with a person who is known to have donovanosis ,  You develop symptoms of donovanosis ,  You develop an ulcer in the genital area , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001268-9" qtype="prevention">How to prevent Donovanosis (granuloma inguinale) ?</Question>
+			<Answer>Avoiding all sexual activity is the only absolute way to prevent an STD such as donovanosis. However,  safer sex  behaviors may reduce your risk. The proper use of condoms, either the  male  or  female  type, greatly decreases the risk of catching an STD. You need to wear the condom from the beginning to the end of each sexual activity.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

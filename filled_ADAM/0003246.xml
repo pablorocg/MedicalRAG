@@ -1,0 +1,13 @@
+<Document id="0003246" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000846.htm">
+ 
+<Focus>Prostate cancer screenings</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003246-1" qtype="information">Do you have information about Prostate cancer screenings</Question>
+			<Answer>Cancer screenings can help find signs of cancer early, before you notice any symptoms. In many cases, finding cancer early makes it easier to treat or cure. However, at present it is not clear if screening for  prostate cancer  is helpful for most men. For this reason, you should speak with your health care provider before having a prostate cancer screening.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

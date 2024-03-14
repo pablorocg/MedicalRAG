@@ -1,0 +1,30 @@
+<Document id="0002189" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000274.htm">
+ 
+<Focus>Inguinal hernia - discharge</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019294</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hernioraphy - discharge</Synonym>
+		<Synonym>Hernioplasty - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002189-1" qtype="information">What is (are) Inguinal hernia - discharge ?</Question>
+			<Answer>You or your child had surgery to  repair an inguinal hernia  caused by a weakness in the abdominal wall in your groin area. Now that you or your child is going home, follow the surgeon's instructions on self-care at home.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002189-2" qtype="outlook">What is the outlook for Inguinal hernia - discharge ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

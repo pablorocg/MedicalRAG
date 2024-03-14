@@ -1,0 +1,62 @@
+<Document id="0003148" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000589.htm">
+ 
+<Focus>Polycythemia vera</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032463</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Primary polycythemia</Synonym>
+		<Synonym>Polycythemia rubra vera</Synonym>
+		<Synonym>Myeloproliferative disorder</Synonym>
+		<Synonym>Erythremia</Synonym>
+		<Synonym>Splenomegalic polycythemia</Synonym>
+		<Synonym>Vaquez's disease</Synonym>
+		<Synonym>Osler's disease</Synonym>
+		<Synonym>Polycythemia with chronic cyanosis - Myelopathic polycythemia</Synonym>
+		<Synonym>Erythrocytosis megalosplenica</Synonym>
+		<Synonym>Cryptogenic polycythemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003148-1" qtype="information">What is (are) Polycythemia vera ?</Question>
+			<Answer>Polycythemia vera (PV) is a bone marrow disease that leads to an abnormal increase in the number of blood cells. The red blood cells are the most affected blood cell type.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003148-2" qtype="causes">What causes Polycythemia vera ?</Question>
+			<Answer>PV is a disorder of the bone marrow. It mainly causes too many red blood cells to be produced. The numbers of white blood cells and platelets may also be higher than normal. PV is a rare disorder that occurs more often in men than in women. It is not usually seen in people under age 40. The problem is often linked to a gene defect called JAK2V617F. The cause of this gene defect is unknown. This gene defect is not an inherited disorder.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003148-3" qtype="symptoms">What are the symptoms of Polycythemia vera ?</Question>
+			<Answer>In people with PV, there are too many red blood cells in the blood. This results in thicker blood, which can't flow through small blood vessels normally, leading to symptoms such as: Trouble breathing when lying down ,  Dizziness , Feeling tired all the time, Full feeling in the left upper abdomen (due to enlarged spleen),  Headache ,  Itchiness , especially after a warm bath, Red skin coloring, especially of the face,  Shortness of breath , Symptoms of  blood clots  in veins near the skin surface (phlebitis) ,  Vision problems , Ringing in the ears (tinnitus), Joint pain, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003148-4" qtype="exams and tests">How to diagnose Polycythemia vera ?</Question>
+			<Answer>The health care provider will perform a physical exam. You may also have the following tests: Bone marrow biopsy ,  Complete blood count with differential ,  Comprehensive metabolic panel ,  Erythropoietin level , Genetic test for the JAK2V617F mutation,  Oxygen saturation of the blood ,  Vitamin B12 level ,  PV may also affect the results of the following tests: Erythrocyte sedimentation rate  (ESR),  Lactate dehydrogenase (LDH) , Leukocyte alkaline phosphatase,  Platelet aggregation test ,  Serum uric acid ,  PV must be distinguished from other causes of increased red cells.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003148-5" qtype="treatment">What are the treatments for Polycythemia vera ?</Question>
+			<Answer>The goal of treatment is to reduce the thickness of the blood and prevent bleeding and clotting problems. A method called phlebotomy is used to decrease blood thickness. One unit of blood (about 1 pint, or 1/2 liter) is removed each week until the number of red blood cells drops. The treatment is continued as needed. Medicines that may be used include: Hydroxyurea to reduce the number of red blood cells made by the bone marrow. This drug may be used when the numbers of other blood cell types are also high., Interferon to lower blood counts., Anagrelide to lower platelet counts., Ruxolitinib (Jakafi) to reduce the number of red blood cells and reduce an enlarged spleen. This drug is prescribed when hydroxyurea and other treatments have failed.,  Taking aspirin to reduce the risk of blood clots may be an option for some people, but aspirin increases the risk for stomach bleeding. Ultraviolet-B light therapy can reduce the severe itching some people experience.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003148-6" qtype="outlook">What is the outlook for Polycythemia vera ?</Question>
+			<Answer>PV usually develops slowly. Most people do not have symptoms related to the disease at the time of diagnosis. The condition is often diagnosed before severe symptoms occur.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003148-7" qtype="complications">What are the complications of Polycythemia vera ?</Question>
+			<Answer>Complications of PV may include: Acute myelogenous leukemia  (AML), Bleeding from the stomach or other parts of the intestinal tract,  Gout  (painful swelling of a joint),  Heart failure ,  Myelofibrosis  (disorder of the bone marrow in which the marrow is replaced by fibrous scar tissue), Thrombosis (blood clotting, which can cause a  stroke ,  heart attack , or other body damage), </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003148-8" qtype="when to contact a medical professional">Do I need to see a doctor for Polycythemia vera ?</Question>
+			<Answer>Contact your provider if symptoms of PV&#160;develop.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

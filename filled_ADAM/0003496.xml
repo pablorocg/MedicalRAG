@@ -1,0 +1,17 @@
+<Document id="0003496" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001283.htm">
+ 
+<Focus>Scrotal masses</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Testicular mass</Synonym>
+		<Synonym>Scrotal growth</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003496-1" qtype="information">Do you have information about Scrotal masses</Question>
+			<Answer>A scrotal mass is a lump or bulge that can be felt in the scrotum. The scrotum is the sac that contains the testicles.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

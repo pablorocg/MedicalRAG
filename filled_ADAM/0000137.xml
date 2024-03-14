@@ -1,0 +1,63 @@
+<Document id="0000137" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001479.htm">
+ 
+<Focus>Albinism</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0001916</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Oculocutaneous albinism</Synonym>
+		<Synonym>Ocular albinism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000137-1" qtype="information">What is (are) Albinism ?</Question>
+			<Answer>Albinism is a defect of melanin production. Melanin is a natural substance in the body that gives color to your hair, skin, and iris of the eye. 
+</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000137-2" qtype="causes">What causes Albinism ?</Question>
+			<Answer>Albinism occurs when one of several genetic defects makes the body unable to produce or distribute  melanin . These defects may be passed down (inherited) through families. The most severe form of albinism is called oculocutaneous albinism. People with this type of albinism have white or pink hair, skin, and iris color. They also have vision problems. Another type of albinism, called ocular albinism type 1 (OA1), affects only the eyes. The person's skin and eye color are usually in the normal range. However, an eye exam will show that there is no coloring in the back of the eye (retina). Hermansky-Pudlak syndrome (HPS) is a form of albinism caused by a change to a&#160;single gene. It can occur with a bleeding disorder, as well as with lung, kidney, and bowel diseases.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000137-3" qtype="symptoms">What are the symptoms of Albinism ?</Question>
+			<Answer>A person with albinism may have one of these symptoms: No color in the hair, skin, or iris of the eye, Lighter than normal skin and hair, Patches of missing skin color ,  Many forms of albinism are associated with the following symptoms: Crossed eyes, Light sensitivity, Rapid eye movements, Vision problems, or functional  blindness , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000137-4" qtype="exams and tests">How to diagnose Albinism ?</Question>
+			<Answer>Genetic testing offers the most accurate way to diagnose the specific type of albinism. Such testing is helpful if you have a family history of albinism. It is also useful for certain groups of people who are known to get the disease. Your health care provider may also diagnose the condition based on the appearance of your skin, hair, and eyes. An eye doctor called an ophthalmologist may perform an  electroretinogram  This is a test that can reveal vision problems related to albinism. A test called a visual evoked potentials test can be very useful when the diagnosis is uncertain.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000137-5" qtype="treatment">What are the treatments for Albinism ?</Question>
+			<Answer>The goal of treatment is to relieve symptoms. It will depend on how severe the disorder is. Treatment involves protecting the skin and eyes from the sun. To do this: Reduce sunburn risk by avoiding the sun, using sunscreen, and covering up completely with clothing when exposed to the sun., Use sunscreen with&#160;a high sun protection factor (SPF)., Wear sunglasses (UV protected)&#160;to help&#160;relieve light sensitivity. ,  Glasses are often prescribed to correct vision problems and eye position. Eye muscle surgery is sometimes recommended to correct abnormal eye movements.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000137-6" qtype="support groups">Where to find support for people with Albinism ?</Question>
+			<Answer>More information and support for people with albinism and their families can be found at: National Organization for Albinism and Hypopigmentation --  www.albinism.org , NIH Genetic and Rare Diseases Information Center --  rarediseases.info.nih.gov/diseases/5768/albinism , National Library of Medicine - MedlinePlus website. Ocular albinism. --&#160; medlineplus.gov/genetics/condition/ocular-albinism/ , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000137-7" qtype="outlook">What is the outlook for Albinism ?</Question>
+			<Answer>Albinism does not usually affect lifespan. However, HPS can shorten a person's lifespan due to lung disease or bleeding problems. People with albinism may be limited in their activities because they can't tolerate the sun.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000137-8" qtype="complications">What are the complications of Albinism ?</Question>
+			<Answer>These complications can occur: Decreased vision, blindness, Skin cancer, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000137-9" qtype="when to contact a medical professional">Do I need to see a doctor for Albinism ?</Question>
+			<Answer>Contact your provider if you have albinism or symptoms such as light sensitivity that cause discomfort. Also call if you notice any skin changes that might be an early sign of skin cancer.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0000137-10" qtype="prevention">How to prevent Albinism ?</Question>
+			<Answer>Because albinism is inherited, genetic counseling is important. People with a family history of albinism or  very light coloring  should consider genetic counseling.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

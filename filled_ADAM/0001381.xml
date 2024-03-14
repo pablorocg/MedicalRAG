@@ -1,0 +1,62 @@
+<Document id="0001381" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007324.htm">
+ 
+<Focus>Endocardial cushion defect</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1389018</CUI>
+			<CUI>C1389016</CUI>
+			<CUI>C0014116</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Atrioventricular (AV) canal defect</Synonym>
+		<Synonym>Atrioventricular septal defect</Synonym>
+		<Synonym>AVSD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001381-1" qtype="information">What is (are) Endocardial cushion defect ?</Question>
+			<Answer>Endocardial cushion defect (ECD) is an abnormal heart condition. The walls separating all four chambers of the heart are poorly formed or absent. Also, the valves separating the upper and lower chambers of the heart have defects during formation. ECD is a  congenital heart disease , which means it is present from birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001381-2" qtype="causes">What causes Endocardial cushion defect ?</Question>
+			<Answer>ECD occurs while a baby is still growing in the womb. The endocardial cushions are two thicker areas that develop into the walls (septum) that divide the four chambers of the heart. They also form the mitral and tricuspid valves. These are the valves that separate the atria (top collecting chambers) from the ventricles (bottom pumping chambers). The lack of separation between the two sides of the heart causes several problems: Increased blood flow to the lungs. This results in increased pressure in the lungs. In ECD, blood flows through the abnormal openings from the left to the right side of the heart, then to the lungs. More blood flow into the lungs makes the blood pressure in the lungs rise.,  Heart failure . The extra effort needed to pump makes the heart work harder than normal. The heart muscle may enlarge and weaken. This can cause swelling in the baby, problems in breathing, and difficulty in feeding and growing.,  Cyanosis . As the blood pressure increases in the lungs, blood starts to flow from the right side of the heart to the left. The oxygen-poor blood mixes with the oxygen-rich blood. As a result, blood with less oxygen than usual is pumped out to the body. This causes cyanosis, or bluish skin. ,  There are two types of ECD: Complete ECD. This condition involves an atrial septal defect (ASD) and a ventricular septal defect (VSD). People with a complete ECD have only one large heart valve (common AV valve) instead of two distinct valves (mitral and tricuspid)., Partial (or incomplete) ECD. In this condition, only an ASD, or an ASD and VSD are present. There are two distinct valves, but one of them (the mitral valve) is often abnormal with an opening ("cleft") in it. This defect can leak blood back through the valve. ,  ECD is strongly linked to  Down syndrome . Several gene changes are also linked to ECD. However, the exact cause of ECD is unknown. ECD may be associated with other congenital heart defects, such as: Double outlet right ventricle , Single ventricle,  Transposition of the great vessels ,  Tetralogy of Fallot , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001381-3" qtype="symptoms">What are the symptoms of Endocardial cushion defect ?</Question>
+			<Answer>Symptoms of ECD may include: Baby tires easily, Bluish skin color, also known as cyanosis (the lips may also be blue), Feeding difficulties, Failure to gain weight and grow, Frequent pneumonia
+or infections&#160;  , Pale skin (pallor),  Rapid breathing , Rapid heartbeat, Sweating, Swollen legs or abdomen (rare in children), Trouble breathing, especially during feeding, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001381-4" qtype="exams and tests">How to diagnose Endocardial cushion defect ?</Question>
+			<Answer>During an exam, the health care provider will likely find signs of ECD, including: An abnormal electrocardiogram (ECG), An enlarged heart, Heart murmur,  Children with partial ECD may not have signs or symptoms of the disorder during childhood. Tests to diagnose ECD include: Echocardiogram , which is an ultrasound that views the heart structures and blood flow inside the heart,  ECG , which measures the electrical activity of the heart,  Chest x-ray ,  MRI , which provides a detailed image of the heart,  Cardiac catheterization , a procedure in which a thin tube (catheter) is placed into the heart to see blood flow and take accurate measurements of blood pressure and oxygen levels, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001381-5" qtype="treatment">What are the treatments for Endocardial cushion defect ?</Question>
+			<Answer>Surgery is needed to close the holes between the heart chambers, and to create distinct tricuspid and mitral valves. The timing of the surgery depends on the child's condition and the severity of the ECD. It can often be done when the baby is 3 to 6 months old. Correcting an ECD may require more than one surgery. Your child&#8217;s doctor may prescribe medicine: To treat the symptoms of heart failure, Before surgery if ECD has made your baby very sick,  The medicines will help your child gain weight and strength before surgery. Medicines often used include: Diuretics (water pills), Drugs that make the heart contract more forcefully (inotropic agents),  Surgery for a complete ECD should be done in the baby's first year of life. Otherwise, lung damage that may not be able to be reversed can occur. Babies with Down syndrome tend to develop lung disease earlier. Therefore, early surgery is very important for these babies.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001381-6" qtype="outlook">What is the outlook for Endocardial cushion defect ?</Question>
+			<Answer>How well your baby does depends on: The severity of the ECD, The child's overall health, Whether lung disease has already developed,  Many children live normal, active lives after ECD is corrected.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001381-7" qtype="complications">What are the complications of Endocardial cushion defect ?</Question>
+			<Answer>Complications from ECD may include: Congestive heart failure , Death,  Eisenmenger syndrome , High blood pressure in the lungs, Irreversible damage to the lungs ,  Certain complications of ECD surgery may not appear until the child is an adult. These include heart rhythm problems and a leaky mitral valve. Children with ECD may be at risk for infection of the heart ( endocarditis ) before and after surgery. Ask your child's doctor whether your child needs to take antibiotics before certain dental procedures.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001381-8" qtype="when to contact a medical professional">Do I need to see a doctor for Endocardial cushion defect ?</Question>
+			<Answer>Contact your child's provider if your child: Tires easily, Has trouble breathing, Has bluish skin or lips ,  Also talk to the provider if your baby is not growing or gaining weight.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001381-9" qtype="prevention">How to prevent Endocardial cushion defect ?</Question>
+			<Answer>ECD is linked to several genetic abnormalities. Couples with a family history of ECD may wish to seek genetic counseling before becoming pregnant.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

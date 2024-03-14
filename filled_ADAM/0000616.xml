@@ -1,0 +1,50 @@
+<Document id="0000616" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000419.htm">
+ 
+<Focus>Bursitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006444</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000616-1" qtype="information">What is (are) Bursitis ?</Question>
+			<Answer>Bursitis is the swelling and irritation of a bursa. A bursa is a fluid-filled sac that acts as a cushion between muscles, tendons, and bones.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000616-2" qtype="causes">What causes Bursitis ?</Question>
+			<Answer>Bursitis is often a result of overuse. It can also be caused by a change in activity level, such as training for a marathon, or by being  overweight . Other causes include trauma,  rheumatoid arthritis ,  gout , or infection. Sometimes, the cause can't be found. Bursitis commonly occurs in the shoulder, knee, elbow, and hip. Other areas that may be affected include the area around the Achilles tendon and the foot.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000616-3" qtype="symptoms">What are the symptoms of Bursitis ?</Question>
+			<Answer>Symptoms of bursitis may include any of the following: Joint pain  and tenderness when you press around the joint, Stiffness and aching when you move the affected joint,  Swelling , warmth or redness over the joint, Pain during movement and rest, Pain may spread to the nearby areas, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000616-4" qtype="treatment">What are the treatments for Bursitis ?</Question>
+			<Answer>Your provider will talk to you about a treatment plan to help you resume your normal activities, including some of the following tips. Tips to relieve bursitis pain: Use ice 3 to 4 times a day for the first 2 or 3 days., Cover the painful area with a towel, and place the ice on it for 15 minutes. Do not fall asleep while applying the ice. You can get frostbite if you leave it on too long., Rest the joint., When sleeping, do not lie on the side that has bursitis. ,  For bursitis around the hips, knees, or ankle: Try not to stand for long periods., Stand on a soft, cushioned surface, with equal weight on each leg., Placing a pillow between your knees when lying on your side can help decrease pain., Flat shoes that are cushioned and comfortable often help., If you are overweight, losing weight may also be helpful. ,  You should avoid activities that involve repetitive movements of any body part when possible. Other treatments include: Medicines such as NSAIDs (ibuprofen, naproxen), Physical therapy, Wearing a brace or splint to support the joint and help reduce inflammation, Exercises you do at home to build strength and keep the joint mobile as pain goes away, Removing fluid from the bursa and getting a corticosteroid shot&#160;,  As the pain goes away, your provider may suggest exercises to build strength and keep movement in the painful area. In rare cases, surgery is done.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000616-5" qtype="outlook">What is the outlook for Bursitis ?</Question>
+			<Answer>Some people do well with treatment. When the cause cannot be corrected, you may have long-term pain. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000616-6" qtype="complications">What are the complications of Bursitis ?</Question>
+			<Answer>If the bursa is infected, it becomes more inflamed and painful. This often requires antibiotics or surgery.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000616-7" qtype="when to contact a medical professional">Do I need to see a doctor for Bursitis ?</Question>
+			<Answer>Contact your provider if symptoms&#160;recur&#160;or do not improve after 3 to 4 weeks of treatment, or if the pain is getting worse.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000616-8" qtype="prevention">How to prevent Bursitis ?</Question>
+			<Answer>When possible, avoid activities that include repetitive movements of any body parts. Be aware of your posture when doing the activities. Strengthening your muscles and working on your balance may help decrease the risk of bursitis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,16 @@
+<Document id="0000038" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000087.htm">
+ 
+<Focus>ACE inhibitors</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Angiotensin-converting enzyme inhibitors</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000038-1" qtype="information">Do you have information about ACE inhibitors</Question>
+			<Answer>Angiotensin-converting enzyme (ACE) inhibitors are medicines. They treat heart, blood vessel, and kidney problems.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

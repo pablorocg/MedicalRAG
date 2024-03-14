@@ -1,0 +1,61 @@
+<Document id="0000077" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000501.htm">
+ 
+<Focus>Acute kidney failure</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022660</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Kidney failure</Synonym>
+		<Synonym>Renal failure</Synonym>
+		<Synonym>Renal failure - acute</Synonym>
+		<Synonym>ARF</Synonym>
+		<Synonym>Kidney injury - acute</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000077-1" qtype="information">What is (are) Acute kidney failure ?</Question>
+			<Answer>Acute kidney failure is the rapid (less than 2 days) loss of your kidneys' ability to remove waste and help balance fluids and  electrolytes  in your body. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000077-2" qtype="causes">What causes Acute kidney failure ?</Question>
+			<Answer>There are many possible causes of kidney damage. They include: Acute tubular necrosis ( ATN ; damage to the tubule cells of the kidneys), Autoimmune kidney disease, Blood clot from cholesterol (cholesterol emboli), Decreased blood flow due to very low blood pressure, which can result from  burns ,  dehydration , hemorrhage, injury,  septic shock , serious illness, or surgery, Disorders that cause clotting within the kidney blood vessels, Infections that directly injure the kidney, such as acute pyelonephritis or  septicemia , Pregnancy complications, including  placental abruption  or  placenta previa ,  Urinary tract blockage , Illicit drugs such as cocaine and heroin, Medicines including non-steroidal anti-inflammatory drugs (NSAIDs), certain antibiotics and blood pressure medicines, intravenous contrast (dye), some cancer and HIV drugs , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000077-3" qtype="symptoms">What are the symptoms of Acute kidney failure ?</Question>
+			<Answer>Symptoms of acute kidney failure may include any of the following: Bloody stools,  Breath odor  and metallic taste in the mouth, Bruising easily,  Changes in mental status  or mood, Decreased appetite,  Decreased sensation , especially in the hands or feet,  Fatigue &#160;or slow sluggish movements,  Flank pain  (between the ribs and hips),  Hand tremor ,  Heart murmur , High blood pressure&#160;&#160;, Nausea or vomiting, may last for days, Nosebleeds, Persistent hiccups, Prolonged bleeding, Seizures, Shortness of breath,  Swelling  due to the body keeping in fluid (may be seen in the legs, ankles, and feet), Urination changes, such as little or no urine,  excessive urination at night , or urination that stops completely , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000077-4" qtype="exams and tests">How to diagnose Acute kidney failure ?</Question>
+			<Answer>The health care provider will examine you. Tests to check how well your kidneys are working include: BUN ,  Creatinine clearance ,  Serum creatinine ,  Serum potassium ,  Urinalysis ,  Other blood tests may be done to find the underlying cause of kidney failure. A kidney or abdominal ultrasound is the preferred test for diagnosing a blockage in the urinary tract. X-ray, CT scan, or MRI of the abdomen can also tell if there is a blockage.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000077-5" qtype="treatment">What are the treatments for Acute kidney failure ?</Question>
+			<Answer>Once the cause is found, the goal of treatment is to help your kidneys work again and prevent fluid and waste from building up in your body while they heal. Usually, you will&#160;have to stay overnight in the hospital for treatment. The amount of liquid you drink will be limited to the amount of urine you can produce. You will be told what you may and may not eat to reduce the buildup of toxins that the kidneys would normally remove. Your diet may need to be high in  carbohydrates  and low in  protein , salt, and potassium. You may need antibiotics to treat or prevent infection. Water pills (diuretics) may be used to help remove fluid from your body. Medicines will be given through a vein to help control your blood potassium level. You may need  dialysis . This is a treatment that does what healthy kidneys normally do -- rid the body of harmful wastes, extra salt, and water. Dialysis can save your life if your potassium levels are dangerously high. Dialysis will also be used if:  
+  Your mental status changes
+  , 
+  You develop pericarditis
+  , 
+  You retain too much fluid
+  , 
+  You cannot remove nitrogen waste products from your body
+  ,  Dialysis will most often be short term. In some cases, the kidney damage is so great that dialysis is needed permanently.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000077-6" qtype="when to contact a medical professional">Do I need to see a doctor for Acute kidney failure ?</Question>
+			<Answer>Contact your provider if your urine output slows or stops or you have other symptoms of acute kidney failure.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000077-7" qtype="prevention">How to prevent Acute kidney failure ?</Question>
+			<Answer>To prevent acute kidney failure: Health problems such as high blood pressure or diabetes should be well controlled., Avoid drugs and medicines that can cause kidney injury., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

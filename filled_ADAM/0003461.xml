@@ -1,0 +1,54 @@
+<Document id="0003461" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000076.htm">
+ 
+<Focus>Sarcoidosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2697310</CUI>
+			<CUI>C0036202</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003461-1" qtype="information">What is (are) Sarcoidosis ?</Question>
+			<Answer>Sarcoidosis is a disease in which inflammation occurs in the lymph nodes, lungs, liver, eyes, skin, and/or other tissues.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003461-2" qtype="causes">What causes Sarcoidosis ?</Question>
+			<Answer>The exact cause of sarcoidosis is unknown. What is known is that when a person has the disease, tiny clumps of abnormal tissue (granulomas) form in certain organs of the body. Granulomas are clusters of immune cells. The disease can affect almost any organ. It most commonly affects the lungs. Health experts think that having certain genes makes it more likely for a person to develop sarcoidosis. Things that may trigger the disease include infections with bacteria or viruses. Contact with dust or chemicals may also be triggers. The disease is more common in African Americans and White people of Scandinavian heritage. More women than men have the disease. The disease often begins between ages 20 and 40. Sarcoidosis is rare in young children. A person with a close blood relative who has sarcoidosis is nearly 5 times as likely to develop the condition.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003461-3" qtype="symptoms">What are the symptoms of Sarcoidosis ?</Question>
+			<Answer>There may be no symptoms. When symptoms do occur, they can involve almost any body part or organ system. Almost all people affected by sarcoidosis have lung or chest symptoms: Chest pain  (most often behind the breast bone), Dry  cough ,  Shortness of breath ,  Coughing up blood  (rare, but serious),  Symptoms of general discomfort may include: Fatigue ,  Fever ,  Joint ache or pain  (arthralgia),  Weight loss ,  Skin symptoms may include: Hair loss , Raised, red, firm skin sores ( erythema nodosum ), almost always on the front part of the lower legs,  Rash , Scars that become raised or inflamed,  Nervous system symptoms may include: Headache ,  Seizures ,  Weakness  on one side of the face,  Eye symptoms may include: Burning, itching, discharge from the eye ,  Dry eyes ,  Pain , Vision loss,  Other symptoms of this disease may include: Dry mouth ,  Fainting spells , if the heart is involved,  Nosebleed , Swelling in the upper part of the abdomen,  Liver disease , Swelling of the legs if heart and lungs are involved, Abnormal heart rhythm if the heart is involved, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003461-4" qtype="exams and tests">How to diagnose Sarcoidosis ?</Question>
+			<Answer>The health care provider will perform a physical examination and ask about the symptoms. Different imaging tests may help diagnose sarcoidosis: Chest x-ray  to see if the lungs are involved or lymph nodes are enlarged,  CT scan  of the chest,  Lung gallium scan  (rarely done now), Imaging tests of the  brain  and  liver , PET scan of the whole body (or specific body parts),  Echocardiogram  or  MRI  of the heart
+   ,  To diagnose this condition, a biopsy is needed. A  biopsy  of the lung using  bronchoscopy  is usually done. Biopsies of other body tissues may also be done. The following lab tests may be done: Calcium levels ( urine ,  ionized ,  blood ) ,  CBC ,  Immunoelectrophoresis ,  Liver function tests ,  Quantitative immunoglobulins ,  Phosphorus ,  Angiotensin converting enzyme (ACE) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003461-5" qtype="treatment">What are the treatments for Sarcoidosis ?</Question>
+			<Answer>Sarcoidosis symptoms will often get better without treatment, especially if there are only small lung abnormalities. If the eyes, heart, nervous system, or lungs are affected, corticosteroids are usually prescribed. This medicine may need to be taken for 1 to 2 years. Medicines that suppress the immune system are sometimes also needed. In rare cases, people with very severe heart or lung damage (end-stage disease) may need an organ transplant. With sarcoidosis that affects the heart, an implantable cardioverter-defibrillator ( ICD ) may be needed to treat heart rhythm problems. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003461-6" qtype="outlook">What is the outlook for Sarcoidosis ?</Question>
+			<Answer>Many people with sarcoidosis are not seriously ill, and get better without treatment. Up to half of all people with the disease get better in 3 years without treatment. People whose lungs are affected may develop lung damage. Overall the death rate from sarcoidosis is less than 5%. Causes of death include: Bleeding from the lung tissue ,  Heart damage, leading to heart failure and abnormal heart rhythms ,  Lung scarring (pulmonary fibrosis) , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003461-7" qtype="complications">What are the complications of Sarcoidosis ?</Question>
+			<Answer>Sarcoidosis may lead to these health problems: Fungal lung infections ( aspergillosis ),  Glaucoma  and blindness from  uveitis  (rare),  Kidney stones  from high calcium levels in blood or urine,  Osteoporosis  and other complications of taking corticosteroids for long periods of time, 
+   High blood pressure in the arteries of the lungs ( pulmonary hypertension ), </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003461-8" qtype="when to contact a medical professional">Do I need to see a doctor for Sarcoidosis ?</Question>
+			<Answer>Contact your provider promptly if you have: Difficulty breathing ,  Irregular heartbeat ,  Vision changes  ,  Other symptoms of this disorder , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

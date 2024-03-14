@@ -1,0 +1,57 @@
+<Document id="0003374" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000204.htm">
+ 
+<Focus>Renovascular hypertension</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020545</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Renal hypertension</Synonym>
+		<Synonym>Hypertension - renovascular</Synonym>
+		<Synonym>Renal artery occlusion</Synonym>
+		<Synonym>Stenosis - renal artery</Synonym>
+		<Synonym>Renal artery stenosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003374-1" qtype="information">What is (are) Renovascular hypertension ?</Question>
+			<Answer>Renovascular hypertension is  high blood pressure  due to narrowing of the arteries that carry blood to the kidneys. This condition is also called renal artery stenosis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003374-2" qtype="causes">What causes Renovascular hypertension ?</Question>
+			<Answer>Renal artery stenosis is a narrowing or blockage of the arteries that supply blood to the kidneys. The most common cause of renal artery stenosis is a blockage in the arteries. This problem most often occurs when a sticky, fatty substance called plaque builds up on the inner lining of the arteries, causing a condition known as atherosclerosis. When the arteries that carry blood to your kidneys become narrow, less blood flows to the kidneys. The kidneys mistakenly respond as if your blood pressure is low. As a result, they release hormones that tell the body to hold on to more salt and water. This causes your blood pressure to rise. Risk factors for atherosclerosis: High blood pressure, Smoking, Diabetes, High cholesterol, Heavy alcohol use, Cocaine abuse, Increasing age ,  Fibromuscular dysplasia is another cause of renal artery stenosis. It is typically seen in women under age 50. It tends to run in families. The condition is caused by abnormal growth of cells in the walls of the arteries leading to the kidneys. This also leads to narrowing or blockage of these arteries.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003374-3" qtype="symptoms">What are the symptoms of Renovascular hypertension ?</Question>
+			<Answer>People with renovascular hypertension may have a history of very high blood pressure that is hard to bring down with medicines.  Symptoms of renovascular hypertension include: High blood pressure at a young age, High blood pressure that suddenly gets worse or is hard to control, Kidneys that are not working well (this can start suddenly), Narrowing of other arteries in the body, such as to the legs, the brain, the eyes and elsewhere, Sudden buildup of fluid in the air sacs of the lungs ( pulmonary edema ),  If you have a dangerous form of high blood pressure called malignant hypertension, symptoms&#160;can&#160;include: Bad headache, Nausea or vomiting, Confusion, Changes in vision, Nosebleeds, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003374-4" qtype="exams and tests">How to diagnose Renovascular hypertension ?</Question>
+			<Answer>The health care provider may hear a "whooshing" noise, called a bruit, when placing a stethoscope over your belly area. The following blood tests may be done: Cholesterol levels,  Renin  and  aldosterone  levels,  BUN (blood urea nitrogen) ,  Creatinine  ,  Potassium ,  Creatinine clearance ,  Imaging tests may be done to see if the kidney arteries have narrowed. They include: Angiotensin converting enzyme (ACE) inhibition renography, Doppler ultrasound of the renal arteries, Magnetic resonance angiography (MRA),  Renal artery angiography , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003374-5" qtype="treatment">What are the treatments for Renovascular hypertension ?</Question>
+			<Answer>High blood pressure caused by narrowing of the arteries that lead to the kidneys is often hard to control. One or more medicines are needed to help control blood pressure. There are many types available. Everyone responds to medicine differently. Your blood pressure should be checked often. The amount and type of medicine you take may need to be changed from time to time., Ask your provider what blood pressure reading is right for you., Take all medicines the way your provider prescribed them.,  Have your cholesterol levels checked, and treated if it is needed. Your provider will help determine the right cholesterol levels for you based on your heart disease risk and other health conditions.  Lifestyle changes  are important: Eat a heart-healthy diet., Exercise regularly, at least 30 minutes a day (check with your doctor before starting)., If you smoke, quit. Find a program that will help you stop., Limit how much alcohol you drink: 1 drink a day for women, 2 a day for men., Limit the amount of sodium (salt) you eat. Aim for less than 1,500 mg per day. Check with your doctor about how much potassium you should be eating., Reduce stress. Try to avoid things that cause stress for you. You can also try meditation or yoga., Stay at a healthy body weight. Find a weight-loss program to help you if you need it.,  Further treatment depends on what causes the narrowing of the kidney arteries. Your provider may recommend a procedure called angioplasty with stenting. These procedures may be an option if you have: Severe narrowing of the renal artery, Blood pressure that cannot be controlled with medicines, Kidneys that are not working well and are becoming worse,  However, the decision about which people should have these procedures is complex, and depends on many of the factors listed above.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003374-6" qtype="complications">What are the complications of Renovascular hypertension ?</Question>
+			<Answer>If your blood pressure is not well controlled, you are at risk for the following complications: Aortic aneurysm ,  Heart attack ,  Heart failure ,  Chronic kidney disease ,  Stroke ,  Vision problems ,  Poor blood supply to the legs , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003374-7" qtype="when to contact a medical professional">Do I need to see a doctor for Renovascular hypertension ?</Question>
+			<Answer>Contact your provider if you think you have high blood pressure. Contact your provider if you have renovascular hypertension and symptoms get worse or do not improve with treatment. Also call if new symptoms develop.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003374-8" qtype="prevention">How to prevent Renovascular hypertension ?</Question>
+			<Answer>Preventing atherosclerosis may prevent renal artery stenosis. Taking the following steps can help:  Lose weight if you are overweight., Ask your provider about your smoking and alcohol use., Control your blood sugar if you have diabetes., Make sure your provider is monitoring your blood cholesterol levels., Eat a  heart-healthy diet ., Get regular exercise., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

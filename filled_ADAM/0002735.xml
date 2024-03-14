@@ -1,0 +1,50 @@
+<Document id="0002735" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000934.htm">
+ 
+<Focus>Narcissistic personality disorder</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027402</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Personality disorder - borderline</Synonym>
+		<Synonym>Narcissism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002735-1" qtype="information">What is (are) Narcissistic personality disorder ?</Question>
+			<Answer>Narcissistic personality disorder is a mental condition in which a person has:  An excessive sense of self-importance, An extreme preoccupation with themselves, A lack of empathy for others, </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002735-2" qtype="causes">What causes Narcissistic personality disorder ?</Question>
+			<Answer>The cause of this disorder is unknown. Early life experiences, such as insensitive parenting, are thought to play a role in developing this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002735-3" qtype="symptoms">What are the symptoms of Narcissistic personality disorder ?</Question>
+			<Answer>A person with this disorder may: React to criticism with rage, shame, or humiliation, Take advantage of other people to achieve his or her own goals, Have excessive feelings of self-importance, Exaggerate achievements and talents, Be preoccupied with fantasies of success, power, beauty, intelligence, or ideal love, Have unreasonable expectations of favorable treatment, Need constant attention and admiration, Disregard the feelings of others, and have little ability to feel empathy, Have obsessive self-interest, Pursue mainly selfish goals, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002735-4" qtype="exams and tests">How to diagnose Narcissistic personality disorder ?</Question>
+			<Answer>Narcissistic personality disorder is diagnosed based on a psychological evaluation. The health care provider will consider how long and how severe the person's symptoms are.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002735-5" qtype="treatment">What are the treatments for Narcissistic personality disorder ?</Question>
+			<Answer>Talk therapy may help the person relate to other people in a more positive and compassionate way.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002735-6" qtype="outlook">What is the outlook for Narcissistic personality disorder ?</Question>
+			<Answer>Outcome of treatment depends on the severity of the disorder and how willing the person is to change.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002735-7" qtype="complications">What are the complications of Narcissistic personality disorder ?</Question>
+			<Answer>Complications may include: Alcohol or other drug use, Mood and anxiety disorders, Relationship, work, and family problems , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

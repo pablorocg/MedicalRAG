@@ -1,0 +1,54 @@
+<Document id="0002772" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000492.htm">
+ 
+<Focus>Nephrocalcinosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027709</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002772-1" qtype="information">What is (are) Nephrocalcinosis ?</Question>
+			<Answer>Nephrocalcinosis is a disorder in which there is too much calcium deposited in the kidneys. It is common in premature babies.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002772-2" qtype="causes">What causes Nephrocalcinosis ?</Question>
+			<Answer>Any disorder that leads to high levels of calcium in the blood or urine may lead to nephrocalcinosis. In this disorder, calcium deposits in the kidney tissue itself. Most of the time, both kidneys are affected. Nephrocalcinosis is related to, but not the same as,  kidney stones  (nephrolithiasis). Conditions that can cause nephrocalcinosis include: Alport syndrome ,  Bartter syndrome , Chronic  glomerulonephritis , Familial hypomagnesemia, Medullary sponge kidney, Primary hyperoxaluria, Renal transplant rejection,  Renal tubular acidosis  (RTA),  Renal  cortical  necrosis ,  Other possible causes of nephrocalcinosis include: Ethylene glycol toxicity,  Hypercalcemia  (excess calcium in the blood) due to  hyperparathyroidism  or other medical conditions, Hypercalciuria (excess calcium in the urine), Use of certain medicines, such as acetazolamide, amphotericin B, and triamterene,  Sarcoidosis ,  Tuberculosis  of the kidney and infections related to AIDS,  Vitamin D toxicity , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002772-3" qtype="symptoms">What are the symptoms of Nephrocalcinosis ?</Question>
+			<Answer>Most of the time, there are no early symptoms of nephrocalcinosis beyond those of the condition causing the problem. People who also have kidney stones may have: Blood in the urine , Fever and chills, Nausea and vomiting, Severe pain in the belly area, sides of the back (flank), groin, or testicles,  Later symptoms related to nephrocalcinosis may be associated with  long-term (chronic) kidney failure .</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002772-4" qtype="exams and tests">How to diagnose Nephrocalcinosis ?</Question>
+			<Answer>Nephrocalcinosis may be discovered when symptoms of  renal insufficiency ,  kidney failure , obstructive uropathy, or  urinary tract stones  develop. Imaging tests can help diagnose this condition. Tests that may be done include: Abdominal CT scan ,  Ultrasound  of the kidney ,  Other tests that may be done to diagnose and determine the severity of associated disorders include: Blood tests to check levels of calcium, phosphate, uric acid, and parathyroid hormone ,  Urinalysis  to see crystals and check for red blood cells ,  24-hour urine collection to measure acidity and levels of calcium, sodium, uric acid, oxalate, and citrate , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002772-5" qtype="treatment">What are the treatments for Nephrocalcinosis ?</Question>
+			<Answer>The goal of treatment is to reduce symptoms, prevent more calcium from building up in the kidneys, and reduce kidney damage. Treatment will involve methods to reduce abnormal levels of calcium, phosphate, and oxalate in the blood and urine. Options include making changes in your diet and taking medicines and supplements. If you take medicine that causes calcium loss, your health care provider will tell you to stop taking it. Never stop taking any medicine before talking to your provider. Other symptoms, including kidney stones, should be treated as appropriate.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002772-6" qtype="outlook">What is the outlook for Nephrocalcinosis ?</Question>
+			<Answer>What to expect depends on the complications and cause of the disorder. Proper treatment may help prevent further deposits in the kidneys. In most cases, there is no way to remove deposits that have already formed. Many deposits of calcium in the kidneys do not always mean severe damage to the kidneys.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002772-7" qtype="complications">What are the complications of Nephrocalcinosis ?</Question>
+			<Answer>Complications may include: Acute kidney failure ,  Long-term (chronic) kidney failure ,  Kidney stones ,  Obstructive uropathy  (acute or chronic, unilateral or bilateral), </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002772-8" qtype="when to contact a medical professional">Do I need to see a doctor for Nephrocalcinosis ?</Question>
+			<Answer>Contact your provider if you know you have a disorder that causes high levels of calcium in your blood and urine. Also call if you develop symptoms of nephrocalcinosis.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002772-9" qtype="prevention">How to prevent Nephrocalcinosis ?</Question>
+			<Answer>Prompt treatment of disorders that lead to nephrocalcinosis, including RTA, may help prevent it from developing. Drinking plenty of water to keep the kidneys flushed and draining will help prevent or decrease stone formation as well.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

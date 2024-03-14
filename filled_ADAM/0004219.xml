@@ -1,0 +1,54 @@
+<Document id="0004219" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001390.htm">
+ 
+<Focus>Vernal conjunctivitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0009773</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004219-1" qtype="information">What is (are) Vernal conjunctivitis ?</Question>
+			<Answer>Vernal conjunctivitis is long-term (chronic) swelling (inflammation) of the outer lining of the eyes. It is due to an  allergic reaction .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004219-2" qtype="causes">What causes Vernal conjunctivitis ?</Question>
+			<Answer>Vernal conjunctivitis often occurs in people with a strong family history of allergies. These may include  allergic rhinitis ,  asthma , and eczema. It is most common in young males, and most often occurs during the spring and summer.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004219-3" qtype="symptoms">What are the symptoms of Vernal conjunctivitis ?</Question>
+			<Answer>Symptoms include: Burning eyes ., Discomfort in bright light ( photophobia ).,  Itching eyes ., The area around the cornea where the white of the eye and the cornea meet (limbus) may become rough and swollen., The inside of the eyelids (most often the upper ones) may become rough and covered with bumps and a white mucus., Watering eyes., </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004219-4" qtype="exams and tests">How to diagnose Vernal conjunctivitis ?</Question>
+			<Answer>The health care provider will perform an eye exam.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004219-5" qtype="treatment">What are the treatments for Vernal conjunctivitis ?</Question>
+			<Answer>Avoid rubbing the eyes because this can irritate them more. Cold compresses (a clean cloth soaked in cold water and then placed over the closed eyes) may be soothing. Lubricating drops may also help soothe the eye. If home-care measures do not help, you may need to be treated by your provider. Treatment may include: Antihistamine or anti-inflammatory drops that are placed into the eye, Eye drops that prevent a type of white blood cell called mast cells from releasing histamine (may help prevent future attacks), Mild steroids that are applied directly to the surface of the eye (for severe reactions),  The FDA has recently approved cyclosporine A 0.1%, a mild form of the anti-cancer drug for acute episodes of vernal conjunctivitis. It may also help prevent recurrences.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004219-6" qtype="outlook">What is the outlook for Vernal conjunctivitis ?</Question>
+			<Answer>The condition continues over time (is chronic). It gets worse during certain seasons of the year, most often in the spring and summer. Treatment may provide relief.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004219-7" qtype="complications">What are the complications of Vernal conjunctivitis ?</Question>
+			<Answer>Complications may include: Continuing discomfort, Reduced vision, Scarring of cornea , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004219-8" qtype="when to contact a medical professional">Do I need to see a doctor for Vernal conjunctivitis ?</Question>
+			<Answer>Contact your provider if your symptoms continue or get worse.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0004219-9" qtype="prevention">How to prevent Vernal conjunctivitis ?</Question>
+			<Answer>Using air conditioning or moving to a cooler climate may help prevent the problem from getting worse in the future.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

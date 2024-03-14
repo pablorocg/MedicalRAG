@@ -1,0 +1,58 @@
+<Document id="0003286" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000074.htm">
+ 
+<Focus>Pulmonary actinomycosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0275566</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Actinomycosis - pulmonary</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003286-1" qtype="information">What is (are) Pulmonary actinomycosis ?</Question>
+			<Answer>Pulmonary actinomycosis is a rare lung infection caused by bacteria.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003286-2" qtype="causes">What causes Pulmonary actinomycosis ?</Question>
+			<Answer>Pulmonary actinomycosis is caused by certain bacteria normally found in the mouth and gastrointestinal tract. The bacteria often do not cause harm. But poor  dental hygiene  and  tooth abscess  can increase your risk for lung infections caused by these bacteria. People with the following health problems also have a higher chance of developing the infection: Alcohol use , Scars on the lungs ( bronchiectasis ),  Chronic obstructive pulmonary disease (COPD) ,  The disease is rare in the United States. It may occur at any age but is most common in people 30 to 60 years old. Men get this infection more often than women.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003286-3" qtype="symptoms">What are the symptoms of Pulmonary actinomycosis ?</Question>
+			<Answer>The infection often comes on slowly. It may be weeks or months before diagnosis is confirmed. Symptoms may include any of the following: Chest pain when taking a deep breath, Cough with phlegm (sputum), Fever, Shortness of breath, Unintentional weight loss,  Lethargy , Night sweats (uncommon), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003286-4" qtype="exams and tests">How to diagnose Pulmonary actinomycosis ?</Question>
+			<Answer>The health care provider will perform a physical exam and ask about your medical history and symptoms. Tests that may be done include: Bronchoscopy  with culture,  Complete blood count  (CBC) with differential,  Chest x-ray ,  Chest CT scan ,  Lung biopsy , Modified  AFB smear of sputum ,  Sputum culture , 
+ Tissue and  sputum Gram stain ,  Thoracentesis  with culture, Tissue culture, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003286-5" qtype="treatment">What are the treatments for Pulmonary actinomycosis ?</Question>
+			<Answer>The goal of treatment is to cure the infection. It may take a long time to get better. To be cured, you may need to receive the antibiotic penicillin through a vein (intravenously) for 2 to 6 weeks. Then you need to take&#160;penicillin by mouth for a long period. Some people need up to 18 months of antibiotic treatment. If you cannot take penicillin, your provider will prescribe other antibiotics. Surgery may be needed to drain fluid from the lungs and control the infection.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003286-6" qtype="outlook">What is the outlook for Pulmonary actinomycosis ?</Question>
+			<Answer>Most people get better after treatment with antibiotics.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003286-7" qtype="complications">What are the complications of Pulmonary actinomycosis ?</Question>
+			<Answer>Complications may include: Brain abscess , Destruction of parts of the lungs,  COPD ,  Meningitis ,  Osteomyelitis  (bone infection), </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003286-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pulmonary actinomycosis ?</Question>
+			<Answer>Contact your provider if: You have symptoms of pulmonary actinomycosis, Your symptoms get worse or do not improve with treatment, You develop new symptoms, You have a fever of 101&#176;F (38.3&#176;C) or higher, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003286-9" qtype="prevention">How to prevent Pulmonary actinomycosis ?</Question>
+			<Answer>Good dental hygiene may help reduce your risk for actinomycosis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

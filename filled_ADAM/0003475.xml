@@ -1,0 +1,45 @@
+<Document id="0003475" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000920.htm">
+ 
+<Focus>Schizoid personality disorder</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0036339</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Personality disorder - schizoid</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003475-1" qtype="information">What is (are) Schizoid personality disorder ?</Question>
+			<Answer>Schizoid personality disorder is a mental condition in which a person has a lifelong pattern of indifference to others and social isolation.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003475-2" qtype="causes">What causes Schizoid personality disorder ?</Question>
+			<Answer>The cause of this disorder is unknown. It may be related to  schizophrenia  and shares many of the same risk factors. Schizoid personality disorder is not as disabling as schizophrenia. It doesn't cause the disconnection from reality (in the form of  hallucinations  or delusions) that occurs in schizophrenia.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003475-3" qtype="symptoms">What are the symptoms of Schizoid personality disorder ?</Question>
+			<Answer>A person with schizoid personality disorder often: Appears distant and detached, Avoids social activities that involve emotional closeness with other people, Does not want or enjoy close relationships, even with family members , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003475-4" qtype="exams and tests">How to diagnose Schizoid personality disorder ?</Question>
+			<Answer>This disorder is diagnosed based on a psychological evaluation. The health care provider will consider how long and how severe the person's symptoms are.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003475-5" qtype="treatment">What are the treatments for Schizoid personality disorder ?</Question>
+			<Answer>People with this disorder often won't seek treatment. For this reason, little is known about which treatments work. Talk therapy may not be effective. This is because people with this disorder may have a hard time forming a good working relationship with a therapist. One approach that seems to help is to put fewer demands for emotional closeness or intimacy on the person. People with schizoid personality disorder often do well in relationships that don't focus on emotional closeness. They tend to be better at handling relationships that focus on:  Work, Intellectual activities, Expectations , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003475-6" qtype="outlook">What is the outlook for Schizoid personality disorder ?</Question>
+			<Answer>Schizoid personality disorder is a long-term (chronic) illness that usually does not improve much over time. Social isolation often prevents the person from asking for help or support. Limiting expectations of emotional intimacy may help people with this condition make and keep connections with other people.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

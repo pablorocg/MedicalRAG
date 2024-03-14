@@ -1,0 +1,59 @@
+<Document id="0003183" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000898.htm">
+ 
+<Focus>Preeclampsia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032914</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Toxemia</Synonym>
+		<Synonym>Pregnancy-induced hypertension (PIH)</Synonym>
+		<Synonym>Gestational hypertension</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003183-1" qtype="information">What is (are) Preeclampsia ?</Question>
+			<Answer>Preeclampsia is  high blood pressure  and signs of liver or kidney damage that occur in women after the 20th week of pregnancy. While it is rare, preeclampsia also may occur in a woman after delivering her baby, most often within 48 hours. This is called postpartum preeclampsia. Watch this video about: Preeclampsia</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003183-2" qtype="causes">What causes Preeclampsia ?</Question>
+			<Answer>The exact cause of preeclampsia is unknown. It occurs in 3% to 7% of all pregnancies. The condition is thought to start in the placenta. Factors that may lead to preeclampsia developing include: Autoimmune disorders , Blood vessel problems, Your diet, Your genes ,  Risk factors for the condition include: First pregnancy, Past history of preeclampsia, Multiple pregnancy (twins or more), Family history of preeclampsia, Obesity, Being older than age 35, Being African American , History of  diabetes , high blood pressure, or kidney disease , History of thyroid disease, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003183-3" qtype="symptoms">What are the symptoms of Preeclampsia ?</Question>
+			<Answer>Often, women who have preeclampsia do not feel sick. Symptoms of preeclampsia can include: Swelling of the hands and face or areas around the eyes (periorbital&#160; edema ), Sudden weight gain over 1 to 2 days or more than 2 pounds (0.9 kg) a week ,  Note: Some swelling of the feet and ankles is considered normal during pregnancy. Symptoms of severe preeclampsia include: Headache that does not go away or becomes worse., Trouble breathing., Belly pain on the right side, below the ribs. Pain may also be felt in the right shoulder, and can be confused with  heartburn , gallbladder pain, a stomach virus, or kicking by the baby., Not urinating very often., Nausea and vomiting (a worrisome sign)., Vision changes, including temporary blindness, seeing flashing lights or spots, sensitivity to light, and blurry vision., Feeling lightheaded or faint., </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003183-4" qtype="exams and tests">How to diagnose Preeclampsia ?</Question>
+			<Answer>The health care provider will do a physical exam. This may show: High blood pressure, often 140/90 mm Hg or higher, Swelling in the hands and face, Weight gain ,  Blood and urine tests will be done. This may show: Protein in the urine (proteinuria), Higher-than-normal liver enzymes, Platelet count that is low, Higher-than-normal creatinine levels in your blood , Elevated uric acid levels,  Tests will also be done to: See how well your blood clots, Monitor the baby's health ,  The results of a  pregnancy ultrasound ,  non-stress test , and other tests will help your provider decide whether your baby needs to be delivered right away. Women who had low blood pressure at the start of their pregnancy, followed by a significant rise in blood pressure need to be watched closely for other signs of preeclampsia.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003183-5" qtype="treatment">What are the treatments for Preeclampsia ?</Question>
+			<Answer>Preeclampsia usually resolves within 6 weeks after the baby is born and the placenta is delivered. However, it may persist longer or even begin after delivery. Most often, at 37 weeks, your baby is developed enough to be healthy outside of the womb. As a result, your provider will likely want your baby to be delivered so the preeclampsia does not get worse. You may get  medicines to help trigger labor , or you may need a  C-section . If your baby is not fully developed and you have mild preeclampsia, the disease can often  be managed at home  until your baby has matured. The provider will recommend: Frequent doctor visits to make sure you and your baby are doing well., Medicines to lower your blood pressure (sometimes)., The severity of preeclampsia may change quickly, so you'll need very careful follow-up.&#160;,  Complete bed rest is no longer recommended. Sometimes, a pregnant woman with preeclampsia is admitted to the hospital. This allows the health care team to monitor the baby and mother more closely. Treatment in the hospital may include: Close monitoring of the mother and baby, Medicines to control blood pressure and prevent seizures and other complications, Steroid injections for pregnancies under 34 weeks gestation to help speed up the development of the baby's lungs ,  You and your provider will continue to discuss the safest time to deliver your baby, considering: How close you are to your due date., The severity of the preeclampsia. Severe preeclampsia is diagnosed by the level of blood pressure elevation as well as abnormal blood test results as discussed below., How well the baby is doing in the womb.&#160;,  The baby must be delivered if there are signs of severe preeclampsia. These include:  Tests that show your baby is not growing well or is not getting enough blood and oxygen., The bottom number of your blood pressure (diastolic blood pressure) is over 110 mm Hg or is greater than 100 mm Hg consistently over a 24-hour period., Abnormal  liver function test  results., Severe headaches., Pain in the belly area (abdomen)., Seizures or changes in mental function ( eclampsia ).,  Fluid buildup in the mother's lungs .&#160;,  HELLP syndrome  (rare)., Low platelet count or bleeding., Low urine output, a lot of protein in the urine, and other signs that your kidneys are not working properly.&#160;, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003183-6" qtype="outlook">What is the outlook for Preeclampsia ?</Question>
+			<Answer>Signs and symptoms of preeclampsia most often go away within 6 weeks after delivery. However, the high blood pressure sometimes gets worse the first few days after delivery. You are still at risk for preeclampsia for up to 6 weeks after delivery. This postpartum preeclampsia carries a higher risk of death. If you notice any symptoms of preeclampsia, contact your health care provider right away.  If you have had preeclampsia, you are more likely to develop it again during another pregnancy. In most cases, it is not as severe as the first time. If you have high blood pressure during more than one pregnancy, you are more likely to have high blood pressure when you get older.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003183-7" qtype="complications">What are the complications of Preeclampsia ?</Question>
+			<Answer>Rare but severe immediate complications for the mother can include: Bleeding problems, Seizure (eclampsia), Fetal growth retardation, Premature separation of the placenta from the uterus before the baby is born, Rupture of the liver,  Stroke , Death (rarely) ,  Having a history of preeclampsia makes a woman a higher risk for future problems such as: Heart disease, Diabetes, Kidney disease , Chronic high blood pressure, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003183-8" qtype="when to contact a medical professional">Do I need to see a doctor for Preeclampsia ?</Question>
+			<Answer>Contact your provider if you have symptoms of preeclampsia during your pregnancy or after delivery.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003183-9" qtype="prevention">How to prevent Preeclampsia ?</Question>
+			<Answer>There is no sure way to prevent preeclampsia. If your doctor thinks you are at high risk of developing preeclampsia, they may suggest that you start baby aspirin (81 mg) daily late in the first trimester or early in the second trimester of your pregnancy. However, DO NOT start baby aspirin unless you have consulted with your doctor first., If your doctor thinks your calcium intake is low, they may suggest that you take a calcium supplement daily., There are no other specific preventive measures for preeclampsia. ,  It is important for all pregnant women to start prenatal care early and continue it through the pregnancy and after delivery.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

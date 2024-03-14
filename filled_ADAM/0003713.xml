@@ -1,0 +1,22 @@
+<Document id="0003713" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000513.htm">
+ 
+<Focus>Steps to take before you get pregnant</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0549206</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003713-1" qtype="information">What is (are) Steps to take before you get pregnant ?</Question>
+			<Answer>Most women know they need to see a doctor or midwife and make lifestyle changes while pregnant. But, it is just as important to start making changes before you get pregnant. These steps will help you prepare yourself and your body for pregnancy and give you a better chance of having a healthy baby.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

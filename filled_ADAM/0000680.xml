@@ -1,0 +1,61 @@
+<Document id="0000680" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000825.htm">
+ 
+<Focus>Carbuncle</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007078</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Skin infection - staphylococcal</Synonym>
+		<Synonym>Infection - skin - staph</Synonym>
+		<Synonym>Staph skin infection</Synonym>
+		<Synonym>Carbunculosis</Synonym>
+		<Synonym>Boil</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000680-1" qtype="information">What is (are) Carbuncle ?</Question>
+			<Answer>A carbuncle is a skin infection that often involves a group of hair follicles. The infected material forms a lump, which occurs deep in the skin and often contains pus. When a person has many carbuncles, the condition is called carbunculosis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000680-2" qtype="causes">What causes Carbuncle ?</Question>
+			<Answer>Most carbuncles are caused by the bacteria  Staphylococcus aureus  ( S aureus ).  A carbuncle is a cluster of several skin boils ( furuncles ). The infected mass is filled with fluid, pus, and dead tissue. Fluid may drain out of the carbuncle, but sometimes the mass is so deep that it cannot drain on its own. Carbuncles can develop anywhere. But they are most common on the back and the nape of the neck. Men get carbuncles more often than women. The bacteria that cause this condition spread easily. So, family members may develop carbuncles at the same time. Often, the cause of a carbuncle cannot be determined. You are more likely to get a carbuncle if you have: Friction from clothing or shaving, Poor hygiene, Poor overall health ,  People with diabetes, dermatitis, and a weakened immune system are more likely to develop staph infections that can cause carbuncles. Staph bacteria are sometimes found in the nose or around the genitals. Carbuncles can recur when antibiotics are not able to treat the bacteria in those areas.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000680-3" qtype="symptoms">What are the symptoms of Carbuncle ?</Question>
+			<Answer>A carbuncle is a swollen lump or mass under the skin. It may be the size of a pea or as large as a golf ball. The carbuncle may be red and irritated and might hurt when you touch it. A carbuncle usually: Develops over several days, Have a white or yellow center (contains pus), Weep, ooze, or crust, Spread to other skin areas ,  Sometimes, other symptoms may occur. These may include: Fatigue ,  Fever , General discomfort or sick feeling, Skin itching before the carbuncle develops , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000680-4" qtype="exams and tests">How to diagnose Carbuncle ?</Question>
+			<Answer>Your health care provider will look at your skin. The diagnosis is based on what the skin looks like. A sample of the pus may be sent to a lab to determine the bacteria causing the infection (bacterial culture). The test result helps your provider determine the appropriate treatment.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000680-5" qtype="treatment">What are the treatments for Carbuncle ?</Question>
+			<Answer>Carbuncles usually must drain before they will heal. This most often occurs on its own in less than 2 weeks. Placing a warm moist cloth on the carbuncle helps it to drain, which speeds healing. Apply a clean, warm moist cloth several times each day. Never squeeze a boil or try to cut it open at home, because this can spread the infection and make it worse. You need to seek treatment if the carbuncle: Lasts longer than 2 weeks, Returns frequently, Is located on the spine or the middle of the face, Occurs with a fever or other systemic symptoms ,  Treatment helps reduce complications related to an infection. Your provider may prescribe: Antibacterial soaps, Antibiotics applied to the skin or taken by mouth, Antibiotic ointment to treat the inside of the nose or around the anus,  Deep or large carbuncles may need to be drained by your provider. Proper hygiene is very important to prevent the spread of infection.  Wash your hands thoroughly with soap and warm water after touching a carbuncle., Do not re-use or share washcloths or towels. This can cause the infection to spread., Clothing, washcloths, towels, and sheets or other items that contact infected areas should be washed often., Bandages should be changed often and thrown away in a bag that can be tightly closed., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000680-6" qtype="outlook">What is the outlook for Carbuncle ?</Question>
+			<Answer>Carbuncles may heal on their own. Others usually respond well to treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000680-7" qtype="complications">What are the complications of Carbuncle ?</Question>
+			<Answer>Rare complications of carbuncles include: Abscess  of the  brain , skin,  spinal cord , or organs such as the kidneys,  Endocarditis ,  Osteomyelitis , Permanent scarring of the skin,  Sepsis , Spread of infection to other areas , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000680-8" qtype="when to contact a medical professional">Do I need to see a doctor for Carbuncle ?</Question>
+			<Answer>Call your provider if: A carbuncle does not heal with home treatment within 2 weeks, Carbuncles come back often, A carbuncle is located on the face or on the skin over the spine, You have a fever, red streaks running from the sore, a lot of swelling around the carbuncle, or worsening pain , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000680-9" qtype="prevention">How to prevent Carbuncle ?</Question>
+			<Answer>Good general health and hygiene may help prevent some staph skin infections.&#160;These infections are contagious, so care must be taken to avoid spreading the bacteria to other people. If you get carbuncles often, your provider may give you antibiotics to prevent them. If you are a carrier of  S aureus , your provider may give you antibiotics to prevent future infection.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

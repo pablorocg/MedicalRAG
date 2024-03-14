@@ -1,0 +1,17 @@
+<Document id="0003598" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003242.htm">
+ 
+<Focus>Skin - abnormally dark or light</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Hyperpigmentation</Synonym>
+		<Synonym>Hypopigmentation</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003598-1" qtype="information">Do you have information about Skin - abnormally dark or light</Question>
+			<Answer>Abnormally dark or light skin is skin that has turned darker or lighter than normal.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

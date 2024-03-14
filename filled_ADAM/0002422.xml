@@ -1,0 +1,30 @@
+<Document id="0002422" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000715.htm">
+ 
+<Focus>Living with uterine fibroids</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0042133</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002422-1" qtype="information">What is (are) Living with uterine fibroids ?</Question>
+			<Answer>Uterine fibroids  are tumors that grow in a woman's womb (uterus). These growths are not cancerous. No one knows exactly what causes fibroids. You may have seen your health care provider for uterine fibroids. They can cause: Heavy menstrual bleeding and long periods, Bleeding between periods, Painful periods, An urge to urinate more often, Feeling fullness or pressure in your lower belly, Pain during intercourse ,  Many women with fibroids have no symptoms. If you have symptoms, you may receive medicines or sometimes surgery. There are also certain things you can do to help relieve fibroid pain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002422-2" qtype="treatment">What are the treatments for Living with uterine fibroids ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002422-4" qtype="when to contact a medical professional">Do I need to see a doctor for Living with uterine fibroids ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

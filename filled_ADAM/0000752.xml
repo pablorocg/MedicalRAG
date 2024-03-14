@@ -1,0 +1,58 @@
+<Document id="0000752" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001495.htm">
+ 
+<Focus>Cervicitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007860</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cervical inflammation</Synonym>
+		<Synonym>Inflammation - cervix</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000752-1" qtype="information">What is (are) Cervicitis ?</Question>
+			<Answer>Cervicitis is swelling or inflamed tissue of the end of the uterus ( cervix ).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000752-2" qtype="causes">What causes Cervicitis ?</Question>
+			<Answer>Cervicitis is most often caused by an infection that is caught during sexual activity. Sexually transmitted infections (STIs) that can cause cervicitis include: Chlamydia ,  Gonorrhea , Herpes virus ( genital herpes ), Human papilloma virus ( genital warts ),  Trichomoniasis ,  Other things that can cause cervicitis include: A device inserted into the pelvic area such as a cervical cap, diaphragm, IUD, or pessary, Allergy to spermicides used for birth control, Allergy to latex in condoms, Exposure to a chemical , Reaction to douches or vaginal deodorants,  Cervicitis is very common. It affects more than one half of all women at some point during their adult life. Causes include: High-risk sexual behavior, History of STIs, Many sexual partners, Sex (intercourse) at an early age, Sexual partners who have engaged in high-risk sexual behavior or have had an STI ,  Too much growth of some bacteria that normally are present in the vagina ( bacterial vaginosis ) can also lead to cervical infection.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000752-3" qtype="symptoms">What are the symptoms of Cervicitis ?</Question>
+			<Answer>There may be no symptoms. If symptoms are present, these may include: Abnormal vaginal bleeding  that occurs after intercourse, or between periods, Unusual  vaginal discharge  that does not go away: discharge may be gray, white or yellow in color, Painful sexual intercourse, Pain in the vagina, Pressure or heaviness in the pelvis, Painful urination, Vaginal itching,  Women who may be at risk for chlamydia should be tested for this infection, even if they do not have symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000752-4" qtype="exams and tests">How to diagnose Cervicitis ?</Question>
+			<Answer>A pelvic exam is done to look for: Discharge from the cervix, Redness of the cervix, Swelling (inflammation) of the walls of the vagina ,  Tests that may be done include: Inspection  of the discharge under a microscope (may show  candidiasis ,  trichomoniasis , or bacterial vaginosis),  Pap test , Tests for gonorrhea or chlamydia ,  Rarely,  colposcopy and biopsy of the cervix  is necessary.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000752-5" qtype="treatment">What are the treatments for Cervicitis ?</Question>
+			<Answer>Antibiotics are used to treat chlamydia or gonorrhea. Medicines called antivirals may be used to treat herpes infections. Hormonal therapy (with estrogen or progesterone) may be used in women who have reached menopause.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000752-6" qtype="outlook">What is the outlook for Cervicitis ?</Question>
+			<Answer>Most of the time, simple cervicitis usually heals with treatment if the cause is found and there is a treatment for that cause. Most of the time, cervicitis does not cause any symptoms. It doesn't need treatment as long as tests for bacterial and viral causes are negative.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000752-7" qtype="complications">What are the complications of Cervicitis ?</Question>
+			<Answer>Cervicitis may last for months to years. Cervicitis may lead to pain with intercourse. Untreated cervicitis may lead to inflammation involving the female pelvic organs, causing a condition called  pelvic inflammatory disease (PID) .</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000752-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cervicitis ?</Question>
+			<Answer>Contact your health care provider if you have symptoms of cervicitis.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000752-9" qtype="prevention">How to prevent Cervicitis ?</Question>
+			<Answer>Things you can do to reduce your risk of developing cervicitis include: Avoid  irritants  such as douches and deodorant tampons., Make sure that any foreign objects you insert into your vagina (such as tampons) are properly placed. Be sure to follow instructions on how long to leave it inside, how often to change it, or how often to clean it., Make sure your partner is free of any STI. You and your partner should not have sex with any other people., Use a  condom  every time you have sex to lower your risk of getting an STI. Condoms are available for both men and women, but are most commonly worn by the man. A condom must be used properly every time., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

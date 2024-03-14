@@ -1,0 +1,59 @@
+<Document id="0001515" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001425.htm">
+ 
+<Focus>Facial nerve palsy due to birth trauma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270104</CUI>
+			<CUI>C0262576</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Seventh cranial nerve palsy due to birth trauma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001515-1" qtype="information">What is (are) Facial nerve palsy due to birth trauma ?</Question>
+			<Answer>Facial nerve palsy due to birth trauma is the loss of controllable (voluntary) muscle movement in an infant's face due to pressure on the facial nerve just before or at the time of birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001515-2" qtype="causes">What causes Facial nerve palsy due to birth trauma ?</Question>
+			<Answer>An infant's facial nerve is also called the seventh cranial nerve. It can be damaged just before or at the time of delivery. Most of the time the cause is unknown. But a difficult delivery, with or without the use of an instrument called forceps, may lead to this condition. Some factors that can cause birth trauma (injury) include: Large baby size (may be seen if the mother has  diabetes ), Long pregnancy or labor, Use of epidural anesthesia, Use of a medicine to cause labor and stronger contractions ,  Most of the time, these factors do not lead to facial nerve palsy or birth trauma.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001515-3" qtype="symptoms">What are the symptoms of Facial nerve palsy due to birth trauma ?</Question>
+			<Answer>The most common form of facial nerve palsy due to birth trauma involves only the lower part of the facial nerve. This part controls the muscles around the lips. The muscle weakness is mainly noticeable when the infant cries. The newborn infant may have the following symptoms: Eyelid may not close on affected side, Lower face (below eyes) appears uneven during crying, Mouth does not move down the same way on both sides while crying, No movement (paralysis) on the affected side of the face (from the forehead to the chin in severe cases), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001515-4" qtype="exams and tests">How to diagnose Facial nerve palsy due to birth trauma ?</Question>
+			<Answer>A physical exam is usually all that is needed to diagnose this condition. In rare cases, a  nerve conduction test  is needed. This test can pinpoint the exact location of the nerve injury. Brain imaging tests are not needed unless your infant's health care provider thinks there is another problem (such as a tumor or stroke).</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001515-5" qtype="treatment">What are the treatments for Facial nerve palsy due to birth trauma ?</Question>
+			<Answer>In most cases, the infant will be closely monitored to see if the paralysis goes away on its own. If the baby's eye does not close all the way, an eyepad and eyedrops will be used to protect the eye. Surgery may be needed to relieve pressure on the nerve. Infants with permanent paralysis need special therapy.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001515-6" qtype="outlook">What is the outlook for Facial nerve palsy due to birth trauma ?</Question>
+			<Answer>The condition usually goes away on its own in a few months.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001515-7" qtype="complications">What are the complications of Facial nerve palsy due to birth trauma ?</Question>
+			<Answer>In some cases, the muscles on the affected side of the face become permanently paralyzed.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001515-8" qtype="when to contact a medical professional">Do I need to see a doctor for Facial nerve palsy due to birth trauma ?</Question>
+			<Answer>The provider will usually diagnose this condition while the infant is in the hospital. Mild cases involving just the lower lip may not be noticed at birth. A parent, grandparent, or other person may notice the problem later. If the movement of your infant's mouth looks different on each side when they cry, you should make an appointment with your child's provider.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001515-9" qtype="prevention">How to prevent Facial nerve palsy due to birth trauma ?</Question>
+			<Answer>There is no guaranteed way to prevent pressure injuries in the unborn child. The proper use of forceps and improved childbirth methods have reduced the rate of facial nerve palsy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

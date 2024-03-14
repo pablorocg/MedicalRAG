@@ -1,0 +1,60 @@
+<Document id="0000949" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001343.htm">
+ 
+<Focus>Congenital cytomegalovirus</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0158945</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CMV - congenital</Synonym>
+		<Synonym>Congenital CMV</Synonym>
+		<Synonym>Cytomegalovirus - congenital</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000949-1" qtype="information">What is (are) Congenital cytomegalovirus ?</Question>
+			<Answer>Congenital cytomegalovirus is a condition that can occur when an infant is infected with a virus called cytomegalovirus (CMV) before birth. Congenital means the condition is present at birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000949-2" qtype="causes">What causes Congenital cytomegalovirus ?</Question>
+			<Answer>Congenital CMV occurs when an infected mother passes CMV to the fetus through the placenta. The mother may not have symptoms, so she may be unaware that she has CMV.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000949-3" qtype="symptoms">What are the symptoms of Congenital cytomegalovirus ?</Question>
+			<Answer>Most children with congenital CMV do not have symptoms. Those who do have symptoms may have: 
+   Inflammation of the  retina , Yellow skin and whites of the eyes (jaundice), Large spleen and liver,  Low birth weight , Mineral deposits in the brain, Rash at birth, Seizures, Small head size, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000949-4" qtype="exams and tests">How to diagnose Congenital cytomegalovirus ?</Question>
+			<Answer>During the exam, the health care provider may find: Abnormal breath sounds indicating  pneumonia ,  Enlarged liver ,  Enlarged spleen , Delayed physical movements (psychomotor retardation) ,  Tests include: Antibody titer  against CMV for both the mother and infant,  Bilirubin  level and blood tests for liver function,  CBC ,  CT scan  or  ultrasound  of the head,  Fundoscopy ,  TORCH screen ,  Urine  culture for CMV virus in the first 2 to 3 weeks of life,  X-ray of the chest , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000949-5" qtype="treatment">What are the treatments for Congenital cytomegalovirus ?</Question>
+			<Answer>There is no specific treatment for congenital CMV. Treatments focus on specific problems, such as physical therapy and appropriate education for children with delayed physical movements. Treatment with antiviral medicines is often used for infants with neurologic (nervous system) symptoms. This treatment may reduce hearing loss later in the child's life.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000949-6" qtype="outlook">What is the outlook for Congenital cytomegalovirus ?</Question>
+			<Answer>Most infants who have symptoms of their infection at birth will have neurologic abnormalities later in life. Most infants without symptoms at birth will NOT have these problems. Some children may die while they are still an infant.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000949-7" qtype="complications">What are the complications of Congenital cytomegalovirus ?</Question>
+			<Answer>Complications may include: Difficulty with physical activities and movement, Vision problems or blindness,  Deafness , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000949-8" qtype="when to contact a medical professional">Do I need to see a doctor for Congenital cytomegalovirus ?</Question>
+			<Answer>Have your baby checked right away if a provider did not examine your baby shortly after birth, and you suspect your baby has: A small head, Other symptoms of congenital CMV,  If your baby has congenital CMV, it is important to follow your provider's recommendations for well-baby examinations. That way, any growth and development problems can be identified early and treated promptly.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000949-9" qtype="prevention">How to prevent Congenital cytomegalovirus ?</Question>
+			<Answer>Cytomegalovirus is almost everywhere in the environment. The US Centers for Disease Control and Prevention (CDC) recommend the following steps to reduce the spread of CMV: Wash hands with soap and water after touching diapers or saliva., Avoid kissing children under the age of 6 on the mouth or cheek., Do not share food, drinks, or eating utensils with young children., Pregnant women working in a day care center should work with children older than age 2&#189;., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

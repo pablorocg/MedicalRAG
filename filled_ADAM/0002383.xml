@@ -1,0 +1,22 @@
+<Document id="0002383" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000575.htm">
+ 
+<Focus>Leukemoid reaction</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023501</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002383-1" qtype="information">What is (are) Leukemoid reaction ?</Question>
+			<Answer>A leukemoid reaction is an increase in the white blood cell count, which can mimic  leukemia . The reaction is actually due to an infection or another disease and is not a sign of cancer. Blood counts often return to normal when the underlying condition is treated.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

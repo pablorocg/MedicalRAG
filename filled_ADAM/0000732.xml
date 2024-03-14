@@ -1,0 +1,29 @@
+<Document id="0000732" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000157.htm">
+ 
+<Focus>Central venous catheter - flushing</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0016382</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CVAD - flushing</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000732-1" qtype="information">What is (are) Central venous catheter - flushing ?</Question>
+			<Answer>You have a central venous catheter. This is a tube that goes into a vein in your chest or neck and ends at your heart. It helps carry nutrients or medicine into your body. It is also used to take blood when you need to have blood tests. You need to rinse out the catheter after every use. This is called flushing. Flushing helps keep the catheter clean. It also prevents blood clots from blocking the catheter.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000732-5" qtype="when to contact a medical professional">Do I need to see a doctor for Central venous catheter - flushing ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

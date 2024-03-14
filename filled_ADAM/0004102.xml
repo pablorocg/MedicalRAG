@@ -1,0 +1,31 @@
+<Document id="0004102" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003750.htm">
+ 
+<Focus>Urethral discharge culture</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0152447</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Culture of urethral discharge</Synonym>
+		<Synonym>Genital exudate culture</Synonym>
+		<Synonym>Culture - genital discharge or exudate</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004102-1" qtype="information">What is (are) Urethral discharge culture ?</Question>
+			<Answer>Urethral discharge culture is a laboratory test done on men and boys. This test is used to identify germs in the urethra that may be causing inflammation of the urethra ( urethritis ). The urethra is the tube that drains urine from the bladder.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004102-8" qtype="susceptibility">Who is at risk for Urethral discharge culture? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,63 @@
+<Document id="0001191" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000693.htm">
+ 
+<Focus>Diabetes and nerve damage</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0161479</CUI>
+			<CUI>C0011860</CUI>
+			<CUI>C0011849</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Diabetic neuropathy</Synonym>
+		<Synonym>Diabetes - neuropathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001191-1" qtype="information">What is (are) Diabetes and nerve damage ?</Question>
+			<Answer>Nerve damage that occurs in people with diabetes is called diabetic neuropathy. This condition is a complication of  diabetes .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001191-2" qtype="causes">What causes Diabetes and nerve damage ?</Question>
+			<Answer>In people with diabetes, the body's nerves can be damaged by decreased blood flow and a high blood sugar (glucose) level. This condition is more likely when the blood sugar level is not well controlled over time. About one half of people with diabetes develop nerve damage. Symptoms often do not begin until many years after diabetes has been diagnosed. Some people who have diabetes that develops slowly already have nerve damage when they are first diagnosed. People with diabetes are also at higher risk for other nerve problems not caused by their diabetes. These other nerve problems won't have the same symptoms and will progress in a different manner than nerve damage caused by diabetes.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001191-3" qtype="symptoms">What are the symptoms of Diabetes and nerve damage ?</Question>
+			<Answer>Symptoms often develop slowly over many years. The types of symptoms you have depend on the nerves that are affected. Nerves in the feet and legs are most often affected. Symptoms often start in the toes and feet, and include tingling or burning, or deep pain. Over time, nerve damage can also occur in the fingers and hands. As the damage gets worse, you may lose feeling in your toes, feet, and legs. Your skin may become numb. Because of this, you may: Not notice when you step on something sharp, Not know that you have a blister or small cut, Not notice when your feet or hands touch something that is too hot or cold, Have feet that are very dry and cracked ,  When the nerves that control digestion are affected, you may have trouble digesting food due to reduced movement of the stomach (gastroparesis). This can make your diabetes harder to control. Damage to nerves that control digestion almost always occurs in people with severe nerve damage in their feet and legs. Symptoms of digestion problems include: Feeling full after eating only a small amount of food,  Heartburn  and bloating, Nausea, constipation, or diarrhea, Swallowing problems, Throwing up undigested food a few hours after a meal ,  When nerves in your heart and blood vessels are damaged, you may: Feel lightheaded when you stand up (orthostatic  hypotension ), Have a fast heart rate, Not notice  angina , the chest pain that warns of heart disease and heart attack ,  Other symptoms of nerve damage are: Sexual problems, which cause trouble getting an erection in men and vaginal dryness or orgasm problems in women., Not being able to tell when your blood sugar gets too low., Bladder problems, which cause urine leakage or not being able to empty the bladder., Sweating too much, even when the temperature is cool, when you're at rest, or at other unusual times., Feet that are very sweaty (early nerve damage). , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001191-4" qtype="exams and tests">How to diagnose Diabetes and nerve damage ?</Question>
+			<Answer>The health care provider will do a physical exam. The exam may find that you have the following: No reflexes or weak reflexes in the ankle, Loss of feeling in the feet (this is checked with a brush-like instrument called a monofilament), Changes in the skin, including dry skin, hair loss, and thick or discolored nails, Loss of the ability to sense movement of your joints (proprioception), Loss of the ability to sense vibration of a tuning fork, Loss of the ability to sense heat or cold, Drop in blood pressure when you stand up after sitting or lying down ,  Tests that may be ordered include: Electromyogram  (EMG), a recording of electrical activity in muscles,  Nerve conduction velocity tests (NCV) , a recording of the speed at which signals travel along nerves, Gastric emptying study to check how fast food leaves the stomach and enters the small intestine, Tilt table study to check if the nervous system is properly controlling blood pressure ,  Your provider should check to see if your blood vitamin B12 level is normal, as low levels can contribute to neuropathy symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001191-5" qtype="treatment">What are the treatments for Diabetes and nerve damage ?</Question>
+			<Answer>Follow your provider's advice on how to slow diabetic nerve damage.  Control your blood sugar (glucose) level by: Eating healthy foods, Getting regular exercise, Checking your blood sugar as often as instructed and keeping a record of your numbers so that you know the types of foods and activities that affect your blood sugar level, Taking oral or injected medicines as instructed by your provider ,  To  treat the symptoms of nerve damage , your provider may prescribe medicines to treat: Pain in your feet, legs, or arms, Nausea, vomiting, or other digestion problems, Bladder problems, Erection problems or vaginal dryness ,  If you're prescribed medicines for symptoms of nerve damage, be aware of the following: The medicines are often less effective if your blood sugar is usually high., After you start the medicine, tell your provider if the nerve pain doesn't improve.,  When you have nerve damage in your feet, the feeling in your feet can be reduced. You can even have no feeling at all. As a result, your feet may not heal well if they are injured.  Caring for your feet  can prevent minor problems from becoming so serious that you end up in the hospital. Caring for your feet includes: 
+  Checking your feet every day
+  , 
+  Getting a foot exam each time you see your provider
+  , 
+  Wearing the right kind of socks and shoes (ask your provider about this)
+  , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001191-6" qtype="support groups">Where to find support for people with Diabetes and nerve damage ?</Question>
+			<Answer>Many resources can help you understand more about  diabetes . You can also learn ways to manage your diabetic nerve disease</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001191-7" qtype="outlook">What is the outlook for Diabetes and nerve damage ?</Question>
+			<Answer>Treatment relieves pain and controls some symptoms. Other problems that may develop include: Bladder or kidney infection,  Diabetes foot ulcers , Nerve damage that hides the symptoms of the chest pain (angina) that warns of heart disease and a heart attack, Loss of a toe, foot, or leg through amputation, often because of a bone infection that does not heal , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001191-8" qtype="when to contact a medical professional">Do I need to see a doctor for Diabetes and nerve damage ?</Question>
+			<Answer>Contact your provider if you develop any symptoms of diabetic neuropathy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

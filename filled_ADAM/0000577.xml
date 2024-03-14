@@ -1,0 +1,55 @@
+<Document id="0000577" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000007.htm">
+ 
+<Focus>Breathing difficulties - first aid</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1299586</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Difficulty breathing - first aid</Synonym>
+		<Synonym>Dyspnea - first aid</Synonym>
+		<Synonym>Shortness of breath - first aid</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000577-1" qtype="information">What is (are) Breathing difficulties - first aid ?</Question>
+			<Answer>Most people take breathing for granted. People with certain illnesses may have breathing problems that they deal with on a regular basis.  This article discusses first aid for someone who is having unexpected or sudden breathing problems. Breathing difficulties can range from:  Being short of breath, Being unable to take a deep breath and gasping for air, Feeling like you are not getting enough air , </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000577-2" qtype="considerations">What to do for Breathing difficulties - first aid ?</Question>
+			<Answer>Breathing difficulty is often a medical emergency. An exception is feeling slightly winded from normal activity, such as exercise.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000577-3" qtype="causes">What causes Breathing difficulties - first aid ?</Question>
+			<Answer>There are many different causes for breathing problems. Common causes include some health conditions and sudden medical emergencies. Some health conditions that may cause breathing problems are: Anemia  (low red blood cell count),  Asthma ,  Chronic obstructive pulmonary disease (COPD) , sometimes called emphysema or chronic bronchitis,  Heart disease  or  heart failure ,  Lung cancer , or cancer that has spread to the lungs, Respiratory infections, including  pneumonia , acute bronchitis,  whooping cough ,  croup , and others, Conditions which restrict the movement of the chest wall or diaphragm, Certain neurologic conditions,  Some medical emergencies that can cause breathing problems are: Blood clot in the lung ,  Collapsed lung (pneumothorax) ,  Heart attack , High altitude pulmonary edema (HAPE), Injury to the neck, chest wall, or lungs, Pericardial effusion (fluid surrounding the heart that can stop it from filling properly with blood),  Pleural effusion  (fluid surrounding the lungs that can compress them),  Life-threatening allergic reaction , Near drowning, which causes fluid buildup in the lungs , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000577-4" qtype="symptoms">What are the symptoms of Breathing difficulties - first aid ?</Question>
+			<Answer>People having breathing difficulty will often look uncomfortable. They may be: Breathing rapidly, Unable to breathe lying down and need to sit up to breathe, Very anxious and agitated , Sleepy or  confused ,  They might have other symptoms, including: Dizziness  or lightheadedness, Pain,  Fever ,  Cough ,  Nausea , Vomiting,  Bluish lips, fingers, and fingernails , Chest moving in an unusual way, Gurgling,  wheezing , or making whistling sounds, Muffled voice or difficulty speaking, Coughing up blood, Rapid or  irregular heartbeat ,  Sweating ,  If an allergy is causing the breathing problem, they might have a rash or swelling of the face, tongue, or throat.  If an injury is causing breathing difficulty, they might be bleeding or have a visible wound. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000577-5" qtype="considerations">What to do for Breathing difficulties - first aid ?</Question>
+			<Answer>Breathing difficulty is often a medical emergency. An exception is feeling slightly winded from normal activity, such as exercise.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000577-6" qtype="considerations">What to do for Breathing difficulties - first aid ?</Question>
+			<Answer>Breathing difficulty is often a medical emergency. An exception is feeling slightly winded from normal activity, such as exercise.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000577-7" qtype="when to contact a medical professional">Do I need to see a doctor for Breathing difficulties - first aid ?</Question>
+			<Answer>Call 911 or your local emergency number if you or someone else has any of the symptoms of difficult breathing, in the  Symptoms  section above.  Also call your health care provider right away if you: Have a  cold  or other respiratory infection and are having difficulty breathing, Have a  cough  that does not go away after 2 or 3 weeks, Are coughing up blood, Are  losing weight  without meaning to or having night sweats, Cannot get to sleep or wake up at night because of breathing difficulty, Notice it is hard to breathe when doing things that you normally do without breathing difficulty, for example, climbing stairs ,  Also call your provider if your child has a cough and is making a barking sound or wheezing.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000577-8" qtype="prevention">How to prevent Breathing difficulties - first aid ?</Question>
+			<Answer>Some things you can do to help prevent breathing problems: If you have a history of severe allergic reactions, carry an epinephrine pen and wear a medical alert tag. Your provider will teach you how to use the epinephrine pen., If you have  asthma  or allergies, eliminate household allergy triggers like dust mites and mold., DO NOT smoke, and keep away from secondhand smoke. DO NOT allow smoking in your home., If you have asthma, see the article on asthma to learn ways to manage it., Make sure your child gets the whooping cough (pertussis)  vaccine ., Make sure your tetanus booster, influenza, and COVID-19 vaccines are up to date., When traveling by airplane, get up and walk around every few hours to avoid forming blood clots in your legs. Once formed, clots can break off and lodge in your lungs. While seated, do ankle circles and raise and lower your heels, toes, and knees to increase blood flow in your legs. If traveling by car, stop and get out and walk around regularly., If you are  overweight , lose weight. You are more likely to feel winded if you are overweight. You are also at greater risk for heart disease and heart attack.,  Wear a medical alert tag if you have a pre-existing breathing condition, such as asthma.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,58 @@
+<Document id="0000915" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000675.htm">
+ 
+<Focus>Colorado tick fever</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0424755</CUI>
+			<CUI>C0009400</CUI>
+			<CUI>C0015967</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Mountain tick fever</Synonym>
+		<Synonym>Mountain fever</Synonym>
+		<Synonym>American mountain fever</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000915-1" qtype="information">What is (are) Colorado tick fever ?</Question>
+			<Answer>Colorado tick fever (CTF) is a viral infection. It is spread by the bite of the Rocky Mountain wood tick ( Dermacentor andersoni ).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000915-2" qtype="causes">What causes Colorado tick fever ?</Question>
+			<Answer>This disease is usually seen between March and September. Most cases occur in April, May, and June. CTF is seen most often in the western United States and Canada at elevations higher than 4,000 feet (1,219 meters). The CTF virus is transmitted by a  tick bite  or, in very rare cases, by a blood transfusion.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000915-3" qtype="symptoms">What are the symptoms of Colorado tick fever ?</Question>
+			<Answer>Symptoms of CTF most often start 1 to 14 days after the tick bite. A sudden fever continues for 3 days, goes away, then comes back 1 to 3 days later for another few days. Other symptoms include: Feeling weak all over and muscle aches, Headache behind the eyes (typically during fever), Lethargy (sleepiness) or confusion, Nausea and vomiting, Rash (may be light colored), Sensitivity to light ( photophobia ), Skin pain, Sweating, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000915-4" qtype="exams and tests">How to diagnose Colorado tick fever ?</Question>
+			<Answer>The health care provider will examine you and ask about your signs and symptoms. If the provider suspects you have the disease, you will also be asked about your outdoor activity. Blood tests will usually be ordered. Antibody tests can be done to confirm the infection. Other blood tests may include: Complete blood count ( CBC ),  Liver function tests , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000915-5" qtype="treatment">What are the treatments for Colorado tick fever ?</Question>
+			<Answer>There are no specific treatments for this viral infection. The provider will make sure the tick is fully removed from the skin.  You may be told to take a  pain reliever  if you need it. DO NOT give aspirin to a child who has the disease. Aspirin has been linked with  Reye syndrome  in children. It may also cause other problems in CTF. If complications develop, treatment will be aimed at controlling the symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000915-6" qtype="outlook">What is the outlook for Colorado tick fever ?</Question>
+			<Answer>CTF usually goes away by itself and is not dangerous.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000915-7" qtype="complications">What are the complications of Colorado tick fever ?</Question>
+			<Answer>Complications may include: Infection of the membranes covering the brain and spinal cord ( meningitis ), Irritation and swelling of the brain ( encephalitis ), Repeated bleeding episodes for no apparent cause,  Contact your provider if you or your child develops symptoms of this disease, if symptoms worsen or&#160;do not&#160;improve with treatment, or if new symptoms develop.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000915-9" qtype="prevention">How to prevent Colorado tick fever ?</Question>
+			<Answer>When walking or hiking in tick-infested areas: Wear closed shoes, Wear&#160;long sleeves, Tuck long pants into socks to protect the legs,  Wear light-colored clothing, which shows ticks more easily than darker colors. This makes them  easier to remove . Check yourself and your pets frequently. If you find ticks, remove them&#160;right away&#160;by using tweezers, pulling carefully and steadily. Insect repellent may be helpful.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

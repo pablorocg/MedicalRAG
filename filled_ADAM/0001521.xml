@@ -1,0 +1,60 @@
+<Document id="0001521" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000309.htm">
+ 
+<Focus>Factitious hyperthyroidism</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0238460</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Factitious thyrotoxicosis</Synonym>
+		<Synonym>thyrotoxicosis factitia</Synonym>
+		<Synonym>thyrotoxicosis medicamentosa</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001521-1" qtype="information">What is (are) Factitious hyperthyroidism ?</Question>
+			<Answer>Factitious hyperthyroidism is higher-than-normal thyroid hormone levels in the blood and symptoms that suggest hyperthyroidism. It occurs from taking too much thyroid hormone medicine. Hyperthyroidism is also known as overactive thyroid.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001521-2" qtype="causes">What causes Factitious hyperthyroidism ?</Question>
+			<Answer>The thyroid gland produces the hormones thyroxine (T4) and triiodothyronine (T3). In most cases of  hyperthyroidism , the thyroid gland itself produces too much of these hormones. Hyperthyroidism can also be caused by taking too much thyroid hormone medicine for  hypothyroidism . This is called factitious hyperthyroidism. When this occurs because the prescribed dosage of hormone medicine is too high, it is called iatrogenic, or doctor-induced, hyperthyroidism.&#160;This is common. Sometimes this is intentional (for some patients with depression or thyroid cancer), but often this happens because the dose is not adjusted based on follow up blood tests. Factitious hyperthyroidism can also occur when someone takes too much thyroid hormone on purpose. This is very uncommon. These may be people: Who have mental disorders such as  Munchausen syndrome , Who are trying to lose weight, Who are being treated for depression or infertility,  Children may take thyroid hormone pills accidentally.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001521-3" qtype="symptoms">What are the symptoms of Factitious hyperthyroidism ?</Question>
+			<Answer>The symptoms of factitious hyperthyroidism are the same as those of hyperthyroidism caused by a thyroid gland disorder, except that: There is no  goiter . The thyroid gland is often small., The eyes do not bulge, as they do in  Graves disease  (the most common type of hyperthyroidism)., The skin over the shins does not thicken, as it sometimes does in people who have Graves disease., </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001521-4" qtype="exams and tests">How to diagnose Factitious hyperthyroidism ?</Question>
+			<Answer>Blood tests used to diagnose&#160;factitious hyperthyroidism include: Free T4, Thyroglobulin, Total  T3 , Total  T4 ,  TSH ,  Other tests that may be done include  radioactive iodine uptake  or thyroid ultrasound.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001521-5" qtype="treatment">What are the treatments for Factitious hyperthyroidism ?</Question>
+			<Answer>Your health care provider will tell you to stop taking thyroid hormone. If you need to take it, your provider will reduce the dosage. You should be re-checked in 2 to 4 weeks to be sure that the signs and symptoms are gone. This also helps to confirm the diagnosis. People with Munchausen syndrome will need mental health treatment and follow-up.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001521-6" qtype="outlook">What is the outlook for Factitious hyperthyroidism ?</Question>
+			<Answer>Factitious hyperthyroidism will resolve on its own when you stop taking or lower the dosage of thyroid hormone.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001521-7" qtype="complications">What are the complications of Factitious hyperthyroidism ?</Question>
+			<Answer>When factitious hyperthyroidism lasts a long time, the same complications as untreated or poorly treated hyperthyroidism may develop: 
+   Abnormal heartbeat ( atrial fibrillation ), Anxiety,  Chest pain  ( angina ),  Heart attack , Loss of bone mass (if severe,  osteoporosis ),  Weight loss , Infertility, Problems sleeping, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001521-8" qtype="when to contact a medical professional">Do I need to see a doctor for Factitious hyperthyroidism ?</Question>
+			<Answer>Contact your provider if you have symptoms of hyperthyroidism.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001521-9" qtype="prevention">How to prevent Factitious hyperthyroidism ?</Question>
+			<Answer>Thyroid hormone should be taken only by prescription and under the supervision of a provider. Regular blood tests are often needed to help your provider adjust the dose you are taking.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

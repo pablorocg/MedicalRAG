@@ -1,0 +1,17 @@
+<Document id="0004358" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003713.htm">
+ 
+<Focus>17-OH progesterone</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>17-hydroxyprogesterone</Synonym>
+		<Synonym>Progesterone - 17-OH</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004358-1" qtype="information">Do you have information about 17-OH progesterone</Question>
+			<Answer>17-OH progesterone is a blood test that measures the amount of 17-OH progesterone in the blood. This is a hormone produced by the  adrenal glands  and sex glands.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,18 @@
+<Document id="0001885" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003003.htm">
+ 
+<Focus>Heart transplant</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Cardiac transplant</Synonym>
+		<Synonym>Transplant - heart</Synonym>
+		<Synonym>Transplantation - heart</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001885-1" qtype="information">Do you have information about Heart transplant</Question>
+			<Answer>A heart transplant is surgery to remove a damaged or diseased heart and replace it with a healthy donor heart.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

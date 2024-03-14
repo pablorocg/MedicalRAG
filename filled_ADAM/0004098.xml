@@ -1,0 +1,16 @@
+<Document id="0004098" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003605.htm">
+ 
+<Focus>Urea nitrogen urine test</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Urine urea nitrogen</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004098-1" qtype="information">Do you have information about Urea nitrogen urine test</Question>
+			<Answer>Urine urea nitrogen is a test that measures the amount of urea in the urine. Urea is a waste product resulting from the breakdown of protein in the body.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

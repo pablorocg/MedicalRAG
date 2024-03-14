@@ -1,0 +1,22 @@
+<Document id="0000538" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000124.htm">
+ 
+<Focus>Brain surgery - discharge</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Craniotomy - discharge</Synonym>
+		<Synonym>Surgery - brain - discharge</Synonym>
+		<Synonym>Neurosurgery - discharge</Synonym>
+		<Synonym>Craniectomy - discharge</Synonym>
+		<Synonym>Stereotactic craniotomy - discharge</Synonym>
+		<Synonym>Stereotactic brain biopsy - discharge</Synonym>
+		<Synonym>Endoscopic craniotomy - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000538-1" qtype="information">Do you have information about Brain surgery - discharge</Question>
+			<Answer>You had  surgery on your brain . During surgery, your surgeon made a surgical cut (incision) on your scalp. A small hole was then drilled into your skull bone, or a piece of your skull bone was removed. This was done so that the surgeon could operate on your brain. If a piece of skull bone was removed at the end of the surgery, it was likely put back in place and attached with small metal plates and screws. After you go home, follow your health care provider's instructions on how to care for yourself. Use the information below as a reminder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

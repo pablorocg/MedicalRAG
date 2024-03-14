@@ -1,0 +1,49 @@
+<Document id="0001689" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003133.htm">
+ 
+<Focus>Gastrointestinal bleeding</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017181</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lower GI bleeding</Synonym>
+		<Synonym>GI bleeding</Synonym>
+		<Synonym>Upper GI bleeding</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001689-1" qtype="information">What is (are) Gastrointestinal bleeding ?</Question>
+			<Answer>Gastrointestinal (GI) bleeding refers to any bleeding that starts in the gastrointestinal tract. Bleeding may come from any site along the GI tract, but is often divided into: Upper GI bleeding: The upper GI tract includes the esophagus (the tube from the mouth to the stomach), stomach, and first part of the small intestine (duodenum)., Lower GI bleeding: The lower GI tract includes most of the small intestine, large intestine, rectum, and anus., </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001689-2" qtype="considerations">What to do for Gastrointestinal bleeding ?</Question>
+			<Answer>The amount of GI bleeding may be so small that it can only be detected on a lab test, such as the fecal occult blood test. Other signs of GI bleeding include: Dark, tarry stools, Larger amounts of blood passed from the rectum
+ , Small amounts of blood in the toilet bowl, on toilet paper, or in streaks on stool (feces), Vomiting blood ,  Massive bleeding from the GI tract can be dangerous. However, even very small amounts of bleeding that occur over a long period of time can lead to problems such as  anemia  or low blood counts. Once a bleeding site is found, many therapies are available to stop the bleeding or treat the cause.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001689-3" qtype="causes">What causes Gastrointestinal bleeding ?</Question>
+			<Answer>GI bleeding may be due to conditions that are not serious, including: Anal fissure ,  Hemorrhoids ,  GI bleeding may also be a sign of more serious diseases and conditions. These may include cancers of the GI tract, such as: Cancer of the colon, Cancer of the small intestine, Cancer of the stomach, Intestinal polyps (a pre-cancerous condition),  Other causes of GI bleeding may include: Abnormal blood vessels in the lining of the intestines (also called angiodysplasia), Bleeding diverticulum, or  diverticulosis , Crohn disease or  ulcerative colitis , Esophageal varices,  Esophagitis , Gastric (stomach) ulcer, Intussusception (bowel telescoped on itself),  Mallory-Weiss tear ,  Meckel diverticulum , Radiation injury to the bowel , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001689-4" qtype="considerations">What to do for Gastrointestinal bleeding ?</Question>
+			<Answer>The amount of GI bleeding may be so small that it can only be detected on a lab test, such as the fecal occult blood test. Other signs of GI bleeding include: Dark, tarry stools, Larger amounts of blood passed from the rectum
+ , Small amounts of blood in the toilet bowl, on toilet paper, or in streaks on stool (feces), Vomiting blood ,  Massive bleeding from the GI tract can be dangerous. However, even very small amounts of bleeding that occur over a long period of time can lead to problems such as  anemia  or low blood counts. Once a bleeding site is found, many therapies are available to stop the bleeding or treat the cause.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001689-5" qtype="when to contact a medical professional">Do I need to see a doctor for Gastrointestinal bleeding ?</Question>
+			<Answer>Contact your health care provider if: You have  black, tarry stools  (this may be a sign of GI bleeding), You have blood in your stool, You  vomit blood  or you vomit material that looks like coffee grounds , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001689-6" qtype="outlook">What is the outlook for Gastrointestinal bleeding ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

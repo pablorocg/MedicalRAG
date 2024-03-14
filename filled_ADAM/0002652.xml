@@ -1,0 +1,55 @@
+<Document id="0002652" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000180.htm">
+ 
+<Focus>Mitral valve prolapse</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026267</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Barlow syndrome</Synonym>
+		<Synonym>Floppy mitral valve</Synonym>
+		<Synonym>Myxomatous mitral valve</Synonym>
+		<Synonym>Billowing mitral valve</Synonym>
+		<Synonym>Systolic click-murmur syndrome</Synonym>
+		<Synonym>Prolapsing mitral leaflet syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002652-1" qtype="information">What is (are) Mitral valve prolapse ?</Question>
+			<Answer>Mitral valve prolapse is a heart problem involving the mitral valve, which separates the upper and lower chambers of the left side of the heart. In this condition, the valve does not close normally.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002652-2" qtype="causes">What causes Mitral valve prolapse ?</Question>
+			<Answer>The mitral valve helps blood on the left side of the heart flow in one direction. It closes to keep blood from moving backwards when the heart beats (contracts). Mitral valve prolapse is the term used when the valve does not close properly. It can be caused by many different things. In most cases, it is harmless. The problem generally does not affect health and most people with the condition are not aware of it. In a small number of cases, the prolapse can cause blood to leak backwards. This is called mitral regurgitation. Mitral valve prolapse often affects thin women who may have minor chest wall deformities, scoliosis, or other disorders. Some forms of mitral valve prolapse seem to be passed down through families (inherited). Mitral valve prolapse is also seen with some connective tissue disorders such as  Marfan syndrome  and other rare genetic disorders. It is also sometimes seen in isolation in people who are otherwise normal.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002652-3" qtype="symptoms">What are the symptoms of Mitral valve prolapse ?</Question>
+			<Answer>Many people with mitral valve prolapse DO NOT have symptoms. A group of symptoms sometimes found in people with mitral valve prolapse has been called "mitral valve prolapse syndrome," and includes: Chest pain (not caused by coronary artery disease or a heart attack), Dizziness, Fatigue, Panic attacks, Sensation of feeling the heart beat ( palpitations ), Shortness of breath with activity or when lying flat (orthopnea),  The exact relationship is between these symptoms and the valve problem is not clear. Some of the findings may be coincidental. When mitral regurgitation occurs, symptoms may be related to the leaking, particularly when severe.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002652-4" qtype="exams and tests">How to diagnose Mitral valve prolapse ?</Question>
+			<Answer>The health care provider will perform a physical exam and use a stethoscope to listen to your heart and lungs. The provider may feel a thrill (vibration) over the heart and hear a  heart murmur  and an extra sound (midsystolic click). The murmur usually gets longer and louder when you stand up. Blood pressure is most often normal. Echocardiogram is the most common test used to diagnose mitral valve prolapse. The following tests may also be used to diagnose mitral valve prolapse or a  leaky mitral valve  or complications from those conditions: Cardiac catheterization, Chest x-ray,  Heart CT scan , ECG (may show arrhythmias such as atrial fibrillation), MRI scan of the heart, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002652-5" qtype="treatment">What are the treatments for Mitral valve prolapse ?</Question>
+			<Answer>Most of the time, there are few or no symptoms and treatment is not needed. In the past, most people with heart valve problems were given antibiotics before dental work or procedures such as colonoscopy to prevent an infection in the heart. However, antibiotics are now used much less often. Check with your provider to see if you need antibiotics. There are many heart medicines that may be used to treat aspects of this condition. However, most people will not need any treatment. You may need surgery to repair or replace your mitral valve if it becomes very leaky (regurgitation), and if the leakiness also causes symptoms. However, this may not occur. You may need  mitral valve repair  or replacement if: Your symptoms get worse., The left ventricle of your heart is enlarged., Your heart function gets worse., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002652-6" qtype="outlook">What is the outlook for Mitral valve prolapse ?</Question>
+			<Answer>Most of the time, mitral valve prolapse is harmless and does not cause symptoms. Symptoms that do occur can be treated and controlled with medicine or surgery. Some abnormal heartbeats (arrhythmias) in people with mitral valve prolapse can be life threatening. If the valve leakage becomes severe, your outlook may be similar to that of people who have mitral regurgitation from any other cause.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002652-7" qtype="when to contact a medical professional">Do I need to see a doctor for Mitral valve prolapse ?</Question>
+			<Answer>Contact your provider if you have: Chest discomfort, palpitations, or fainting spells that get worse, Long-term illnesses with fevers
+, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

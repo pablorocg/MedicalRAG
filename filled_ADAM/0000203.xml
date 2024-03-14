@@ -1,0 +1,25 @@
+<Document id="0000203" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003439.htm">
+ 
+<Focus>Anaerobic bacteria</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0004613</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T007</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Anaerobe</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000203-1" qtype="information">What is (are) Anaerobic bacteria ?</Question>
+			<Answer>Anaerobic bacteria are bacteria that do not live or grow when oxygen is present. In humans, these bacteria are most commonly found in the gastrointestinal tract. They play a role in conditions such as  appendicitis ,  diverticulitis , and  perforation of the bowel .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

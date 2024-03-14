@@ -1,0 +1,22 @@
+<Document id="0002533" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002919.htm">
+ 
+<Focus>Mastectomy</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Breast removal surgery</Synonym>
+		<Synonym>Subcutaneous mastectomy</Synonym>
+		<Synonym>Nipple sparing mastectomy</Synonym>
+		<Synonym>Total mastectomy</Synonym>
+		<Synonym>Skin sparing mastectomy, Simple mastectomy</Synonym>
+		<Synonym>Modified radical mastectomy</Synonym>
+		<Synonym>Breast cancer - mastectomy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002533-1" qtype="information">Do you have information about Mastectomy</Question>
+			<Answer>A mastectomy is surgery to remove the breast tissue. Some of the skin and the nipple may also be removed. The surgery is most often done to treat  breast cancer .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

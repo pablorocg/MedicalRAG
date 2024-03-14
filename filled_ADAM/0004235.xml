@@ -1,0 +1,48 @@
+<Document id="0004235" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003029.htm">
+ 
+<Focus>Vision problems</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3665347</CUI>
+			<CUI>C0728984</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Vision impairment</Synonym>
+		<Synonym>Impaired vision</Synonym>
+		<Synonym>Blurred vision</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004235-1" qtype="information">What is (are) Vision problems ?</Question>
+			<Answer>There are many types of eye problems and vision disturbances, such as:  Halos&#160;, Blurred vision (the loss of sharpness of vision and the inability to see fine details), Blind spots or scotomas (dark "holes" in the vision in which nothing can be seen) ,  Vision loss and blindness are the most severe vision problems. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004235-2" qtype="causes">What causes Vision problems ?</Question>
+			<Answer>Vision changes and problems can be caused by many different conditions. Some include: Presbyopia &#160;--&#160;Difficulty focusing on objects that are close. This problem often becomes noticeable in your early to mid-40s and is very common.,  Cataracts &#160;--&#160;Cloudiness of the eye lens, causing poor nighttime vision, halos around lights, and sensitivity to glare. Cataracts are common in older people.,  Glaucoma &#160;--&#160;Increased pressure in the eye, which is most often painless. Vision will be normal at first, but over time you can develop poor night vision, blind spots, and a loss of vision to either side. Some types of glaucoma can also happen suddenly, which is a medical emergency.,  Diabetic eye disease .,  Macular degeneration &#160;--&#160;Loss of central vision, blurred vision (particularly while reading), distorted vision (straight lines will appear to be wavy), and colors that look faded. The most common cause of blindness in people over age 60 years., Eye infection, inflammation, or injury.,  Floaters &#160;--&#160;Tiny particles drifting inside the eye, which may be a sign of retinal detachment.,  Night blindness .,  Retinal detachment &#160;--&#160;Symptoms include floaters, sparks, or flashes of light in your vision, or a sensation of a shade or curtain hanging across part of your visual field.,  Optic neuritis &#160;--&#160;Inflammation of the optic nerve from infection or  multiple sclerosis . You may have pain when you move your eye or touch it through the eyelid.,  Stroke  or  TIA .,  Brain tumor ., Bleeding into the eye.,  Temporal arteritis &#160;--&#160;Inflammation of an artery in the brain that supplies blood to the optic nerve.,  Migraine headaches &#160;--&#160;Spots of light, halos, or zigzag patterns that appear before the start of the headache.,  Medicines may also affect vision.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004235-3" qtype="considerations">What to do for Vision problems ?</Question>
+			<Answer>Regular eye checkups from an ophthalmologist or optometrist are important. They should be done once a year if you are over age 65 years or older. Some experts recommend annual eye exams starting at an earlier age. How long you go between exams is based on how long you can wait before detecting an eye problem that has no symptoms. Your provider will recommend earlier and more frequent exams if you have known eye problems or conditions that are known to cause eye problems. These include diabetes or high blood pressure. These important steps can prevent eye and vision problems: Wear sunglasses to protect your eyes., Wear safety glasses when hammering, grinding, or using power tools., If you need glasses or contact lenses, keep the prescription up to date., Do not smoke., Limit how much alcohol you drink., Stay at a healthy weight., Keep your blood pressure and cholesterol under control., Keep your blood sugar under control if you have diabetes., Eat foods rich in antioxidants, like green leafy vegetables. , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004235-4" qtype="when to contact a medical professional">Do I need to see a doctor for Vision problems ?</Question>
+			<Answer>Seek emergency care from a provider who is experienced in dealing with eye emergencies if: You experience partial or complete  blindness  in one or both eyes, even if it is only temporary., You experience double vision, even if it is temporary., You have a sensation of a shade being pulled over your eyes or a curtain being drawn from the side, above, or below., Blind spots, halos around lights, or areas of distorted vision appear suddenly., You have sudden blurred vision with eye pain, particularly if the eye is also red. A red, painful eye with blurred vision is a medical emergency. ,  Get a complete eye exam if you have: Trouble seeing objects on either side., Difficulty seeing at night or when reading., Gradual loss of the sharpness of your vision., Difficulty telling colors apart., Blurred vision when trying to view objects near or far., Diabetes or a family history of diabetes., Eye itching or discharge., Vision changes that seem related to medicine. (Do not stop or change a medicine without talking to your doctor.) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004235-5" qtype="outlook">What is the outlook for Vision problems ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004235-6" qtype="prevention">How to prevent Vision problems ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

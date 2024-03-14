@@ -1,0 +1,41 @@
+<Document id="0002406" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002667.htm">
+ 
+<Focus>Lithium toxicity</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0238242</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Eskalith toxicity</Synonym>
+		<Synonym>Lithane toxicity</Synonym>
+		<Synonym>Lithobid toxicity</Synonym>
+		<Synonym>Lithonate toxicity</Synonym>
+		<Synonym>Lithotabs toxicity</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002406-1" qtype="information">What is (are) Lithium toxicity ?</Question>
+			<Answer>Lithium is a prescription medicine used to treat  bipolar disorder . This article focuses on lithium overdose, or toxicity. Acute toxicity occurs when you swallow too much of a lithium prescription at one time., Chronic toxicity occurs when you slowly take a little too much of a lithium prescription every day for a while. This is actually quite easy to do, because dehydration, other medicines, and other conditions can easily affect how your body handles lithium. These factors can make the lithium build up to harmful levels in your body., Acute-on-chronic toxicity occurs when you normally take lithium every day, but one day you take an extra amount. This can be as little as a couple of pills or as much as a whole bottle.,  Lithium is a medicine with a narrow range of safety. Significant poisoning can result when the amount of lithium taken is more than this range. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002406-4" qtype="symptoms">What are the symptoms of Lithium toxicity ?</Question>
+			<Answer>Symptoms of the three types of lithium toxicity are described below. ACUTE TOXICITY Common symptoms of taking too much lithium at one time include the following symptom groups. Stomach and intestinal symptoms: Nausea, Vomiting,  Diarrhea , Stomach pains,  Neurologic symptoms (develop after the intestinal symptoms) Dizziness, Weakness,  Coma  (decreased level of consciousness, lack of responsiveness), Hand tremors, Lack of coordination of arms and legs, Muscle twitches, Seizures, Slurred speech, Uncontrollable eye movement, Changes in mental status or altered thinking,  Heart problems may occur in rare cases: Slow heart rate,  CHRONIC TOXICITY There will likely not be any stomach or intestinal symptoms. Symptoms that can occur include: Increased reflexes, Slurred speech, Uncontrolled shaking (tremors),  In severe cases of chronic toxicity, there may also be nervous system and kidney problems, such as: Kidney failure, Drinking a lot of fluids, Urinating more or less than normal, Memory problems, Movement disorders, muscle twitches, hand tremors, Problems keeping salts in your body, Psychosis (disturbed thought processes, unpredictable behavior), Coma (decreased level of consciousness, lack of responsiveness), Lack of coordination of arms and legs, Seizures, Slurred speech,  ACUTE-ON-CHRONIC TOXICITY There will often be a combination of the acute and chronic symptoms listed above, including both nervous system and intestinal symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002406-7" qtype="outlook">What is the outlook for Lithium toxicity ?</Question>
+			<Answer>If someone has acute lithium toxicity, how well they do depends on how much lithium they took and how quickly they get help. People who do not develop nervous system symptoms usually do not have long-term complications. If serious nervous system symptoms occur, these problems may be permanent. Chronic toxicity is sometimes hard to diagnose at first. This delay can lead to long-term problems. If dialysis is done quickly, the person may feel much better. But symptoms such as memory and mood problems may be permanent. Acute-on-chronic overdose often has a poor outlook. Nervous system symptoms may not go away, even after treatment with dialysis.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002406-8" qtype="outlook">What is the outlook for Lithium toxicity ?</Question>
+			<Answer>If someone has acute lithium toxicity, how well they do depends on how much lithium they took and how quickly they get help. People who do not develop nervous system symptoms usually do not have long-term complications. If serious nervous system symptoms occur, these problems may be permanent. Chronic toxicity is sometimes hard to diagnose at first. This delay can lead to long-term problems. If dialysis is done quickly, the person may feel much better. But symptoms such as memory and mood problems may be permanent. Acute-on-chronic overdose often has a poor outlook. Nervous system symptoms may not go away, even after treatment with dialysis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

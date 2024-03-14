@@ -1,0 +1,53 @@
+<Document id="0000375" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000940.htm">
+ 
+<Focus>Avoidant personality disorder</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0004444</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Personality disorder - avoidant</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000375-1" qtype="information">What is (are) Avoidant personality disorder ?</Question>
+			<Answer>Avoidant personality disorder is a mental condition in which a person has a lifelong pattern of feeling very:  Shy, Inadequate, Sensitive to rejection, </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000375-2" qtype="causes">What causes Avoidant personality disorder ?</Question>
+			<Answer>Causes of avoidant personality disorder are unknown. Genes or a physical illness that changed the person's appearance may play a role.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000375-3" qtype="symptoms">What are the symptoms of Avoidant personality disorder ?</Question>
+			<Answer>People with this disorder cannot stop thinking about their own shortcomings. They form relationships with other people only if they believe they will not be rejected. Loss and rejection are so painful that these people choose to be lonely rather than risk trying to connect with others. A person with avoidant personality disorder may: Be easily hurt when people criticize or disapprove of them, Hold back too much in intimate relationships, Be reluctant to become involved with people, Avoid activities or jobs that involve contact with others, Be shy in social situations out of fear of doing something wrong, Make potential difficulties seem worse than they are, Hold the view they are not good socially, not as good as other people, or unappealing , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000375-4" qtype="exams and tests">How to diagnose Avoidant personality disorder ?</Question>
+			<Answer>Avoidant personality disorder is diagnosed based on a psychological evaluation. The health care provider will consider how long and how severe the person's symptoms have been. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000375-5" qtype="treatment">What are the treatments for Avoidant personality disorder ?</Question>
+			<Answer>Talk therapy is considered to be the most effective treatment for this condition. It helps people with this disorder be less sensitive to rejection. Antidepressant medicines may be used in addition.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000375-6" qtype="outlook">What is the outlook for Avoidant personality disorder ?</Question>
+			<Answer>People with this disorder may develop some ability to relate to others. With treatment this can be improved.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000375-7" qtype="complications">What are the complications of Avoidant personality disorder ?</Question>
+			<Answer>Without treatment, a person with avoidant personality disorder may lead a life of near or total isolation. They may go on to develop a second mental health disorder, such as  substance use  or  depression  and may be at higher risk for suicide.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000375-8" qtype="when to contact a medical professional">Do I need to see a doctor for Avoidant personality disorder ?</Question>
+			<Answer>See your provider or a mental health professional if shyness or fear of rejection overwhelms your ability to function in life and have relationships. If you or someone you know is thinking about suicide, call or text 988 or chat  988lifeline.org . You can also call 1-800-273-8255 (1-800-273-TALK). The 988 Suicide and Crisis Lifeline provides free and confidential support 24/7, anytime day or night. You can also call 911 or the local emergency number or go to the hospital emergency room. DO NOT delay. If someone you know has attempted suicide, call 911 or the local emergency number right away. DO NOT leave the person alone, even after you have called for help.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

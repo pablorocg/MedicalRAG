@@ -1,0 +1,17 @@
+<Document id="0001851" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000495.htm">
+ 
+<Focus>Hearing loss and music</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Noise induced hearing loss - music</Synonym>
+		<Synonym>Sensory hearing loss - music</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001851-1" qtype="information">Do you have information about Hearing loss and music</Question>
+			<Answer>Adults and children are commonly exposed to loud music. Listening to loud music through ear buds connected to devices like iPods or MP3 players or at music concerts can cause hearing loss. The inner part of the ear contains tiny hair cells (nerve endings). The hair cells change sound into electric signals., Nerves then carry these signals to the brain, which recognizes them as sound., These tiny hair cells are easily damaged by loud sounds.,  The human ear is like any other body part -- too much use can damage it. Over time,  repeated exposure to loud noise  and music can cause hearing loss.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

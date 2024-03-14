@@ -1,0 +1,38 @@
+<Document id="0001446" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001300.htm">
+ 
+<Focus>Erythroplasia of Queyrat</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0154089</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001446-1" qtype="information">What is (are) Erythroplasia of Queyrat ?</Question>
+			<Answer>Erythroplasia of Queyrat is an early form of skin cancer found on the  penis . The cancer is called squamous cell carcinoma in situ. Squamous cell cancer in situ can occur on any part of the body. This term is used only when the cancer occurs on the penis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001446-2" qtype="causes">What causes Erythroplasia of Queyrat ?</Question>
+			<Answer>The condition is most often seen in men who have not been  circumcised . It is linked to the human papillomavirus (HPV). </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001446-3" qtype="symptoms">What are the symptoms of Erythroplasia of Queyrat ?</Question>
+			<Answer>The main symptoms are a rash and irritation on the tip or shaft of the penis that persists. The area is most often red and does not respond to topical creams.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001446-4" qtype="exams and tests">How to diagnose Erythroplasia of Queyrat ?</Question>
+			<Answer>The health care provider will examine the penis to diagnose the condition and will perform a biopsy to make the diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001446-5" qtype="treatment">What are the treatments for Erythroplasia of Queyrat ?</Question>
+			<Answer>Treatment may include: Skin creams such as imiquimod or 5-fluorouracil. These creams are used for several weeks to months., Anti-inflammatory (steroid) creams.,  If skin creams do not work, your provider may recommend other treatments such as: Mohs micrographic surgery or other surgical procedures to remove the area, Laser surgery, Freezing the cancer cells ( cryotherapy ), Scraping away cancer cells and using electricity to kill any that remain (curettage and electrodesiccation), </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

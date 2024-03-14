@@ -1,0 +1,50 @@
+<Document id="0003670" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001095.htm">
+ 
+<Focus>Spider angioma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085666</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T020</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Nevus araneus</Synonym>
+		<Synonym>Spider veins</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003670-1" qtype="information">What is (are) Spider angioma ?</Question>
+			<Answer>Spider angioma is an abnormal collection of blood vessels near the surface of the skin.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003670-2" qtype="causes">What causes Spider angioma ?</Question>
+			<Answer>Spider angiomas are very common. They often occur in pregnant women and in people with liver disease. They can appear in both children and adults. They get their name because the mark looks similar to a red spider. They appear most often on the face, neck, upper part of the trunk, arms, and fingers.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003670-3" qtype="symptoms">What are the symptoms of Spider angioma ?</Question>
+			<Answer>The main symptom is a blood vessel spot that: May have a red dot in the center, Has reddish extensions that reach out from the center, Disappears when pressed on and comes back when pressure is released ,  In rare cases, bleeding occurs in a spider angioma. </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003670-4" qtype="exams and tests">How to diagnose Spider angioma ?</Question>
+			<Answer>The health care provider will examine the spider angioma on your skin. You may be asked if you have any other symptoms. Most of the time, you do not need tests to diagnose the condition. But sometimes, a  skin biopsy  is needed to confirm the diagnosis. Blood tests may be done if a liver problem is suspected.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003670-5" qtype="treatment">What are the treatments for Spider angioma ?</Question>
+			<Answer>Spider angiomas usually do not need treatment, but burning ( electrocautery ) or laser treatment is sometimes done.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003670-6" qtype="outlook">What is the outlook for Spider angioma ?</Question>
+			<Answer>Spider angiomas in children may disappear after puberty, and often disappear after a woman gives birth. Untreated, spider angiomas tend to last in adults. Treatment is often successful.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003670-7" qtype="when to contact a medical professional">Do I need to see a doctor for Spider angioma ?</Question>
+			<Answer>Let your provider know if you have a new spider angioma so that other related medical conditions can be ruled out.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

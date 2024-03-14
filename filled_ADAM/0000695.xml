@@ -1,0 +1,59 @@
+<Document id="0000695" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007427.htm">
+ 
+<Focus>Carotid artery disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007273</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Carotid stenosis</Synonym>
+		<Synonym>Stenosis - carotid</Synonym>
+		<Synonym>Stroke - carotid artery</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000695-1" qtype="information">What is (are) Carotid artery disease ?</Question>
+			<Answer>Carotid artery disease causes the carotid arteries to become narrowed or blocked. The carotid arteries provide part of the main blood supply to your brain. They are located on each side of your neck. You can feel their pulse under your jawline.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000695-2" qtype="causes">What causes Carotid artery disease ?</Question>
+			<Answer>Carotid artery disease occurs when fatty material called plaque builds up inside the arteries. This buildup of plaque is called hardening of the arteries ( atherosclerosis ). The plaque may slowly block or narrow the carotid artery. Or it may cause a clot to form suddenly. A clot that blocks the artery enough to reduce blood flow can lead to  stroke .  Risk factors for blockage or narrowing of the arteries include: Smoking (people who smoke one pack a day double their risk for stroke), Diabetes,  High blood pressure , High cholesterol and triglycerides, Older age, Family history of stroke or blood vessel disorder, Alcohol use, Recreational drug use, Trauma to the neck area, which may cause a tear in the carotid artery , Radiation therapy to the neck, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000695-3" qtype="symptoms">What are the symptoms of Carotid artery disease ?</Question>
+			<Answer>At early stages, you may not have any symptoms. After plaque builds up, the first symptoms of carotid artery disease may be a stroke or a  transient ischemic attack  (TIA). A TIA is temporary reduction in blood flow to the brain that doesn't cause any lasting damage. Symptoms of stroke and TIA include: Blurred vision, Confusion, Loss of memory, Loss of sensation in one part of your body, Problems with speech and language, including loss of speech, Vision loss (partial or complete blindness), Weakness in one part of your body, Problems with thinking, reasoning, and memory , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000695-4" qtype="exams and tests">How to diagnose Carotid artery disease ?</Question>
+			<Answer>Your health care provider will perform a physical exam. Your provider may use a stethoscope to listen to the blood flow in your neck for an unusual sound called a bruit. This sound may be a sign of carotid artery disease. Your provider also may find clots in the blood vessels of your eye. If you have had a stroke or TIA, a nervous system (neurological) exam will show other problems. You may also have the following tests: Blood cholesterol and triglycerides test,  Blood sugar (glucose) test , Ultrasound of the carotid arteries ( carotid duplex ultrasound ) to see how well blood is flowing through the carotid artery ,  The following imaging tests may be used to examine the blood vessels in the neck and brain: Cerebral angiography ,  CT angiography ,  MR angiography ,  Transcranial Doppler ultrasound , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000695-5" qtype="treatment">What are the treatments for Carotid artery disease ?</Question>
+			<Answer>Treatment options include: Blood-thinning medicines such as aspirin, clopidogrel (Plavix), ticagrelor (Brilinta), warfarin (Coumadin), dabigatran (Pradaxa), or others to lower your risk for stroke, Medicine and diet changes to lower your cholesterol or blood pressure, No treatment, other than checking your carotid artery every year ,  You may have certain procedures to treat a narrowed or blocked carotid artery: Carotid endarterectomy  -- This surgery removes the plaque buildup in the carotid arteries.,  Carotid angioplasty and stenting  -- This procedure opens a blocked artery and places a tiny wire mesh (stent) in the artery to keep it open. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000695-6" qtype="outlook">What is the outlook for Carotid artery disease ?</Question>
+			<Answer>Because there are no symptoms, you may not know you have carotid artery disease until you have a stroke or TIA. Stroke is a leading cause of death in the United States., Some people who have a stroke recover most or all of their functions., Others die of the stroke itself or from complications., About one half of people who have a stroke have long-term problems. , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000695-7" qtype="complications">What are the complications of Carotid artery disease ?</Question>
+			<Answer>Major complications of carotid artery disease are: Transient ischemic attack. This occurs when a blot clot briefly blocks a blood vessel to the brain. It causes the same symptoms as stroke. Symptoms last only a few minutes to an hour or two, but no longer than 24 hours. A TIA does not cause lasting damage. TIAs are a warning sign that a stroke may happen in the future if nothing is done to prevent it., Stroke. When the blood supply to the brain is partly or completely blocked, it causes a stroke. Most often, this happens when a blood clot blocks a blood vessel to the brain. A stroke can also occur when a blood vessel breaks open or leaks. Strokes can cause long-term brain damage or death. , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000695-8" qtype="when to contact a medical professional">Do I need to see a doctor for Carotid artery disease ?</Question>
+			<Answer>Go to the emergency room or call the local emergency number (such as 911) as soon as symptoms occur. The sooner you receive treatment, the better your chance for recovery. With a stroke, every second of delay can cause more brain injury.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000695-9" qtype="prevention">How to prevent Carotid artery disease ?</Question>
+			<Answer>Here's what you can do to help prevent carotid artery disease and stroke: Quit smoking., Follow a healthy, low-fat diet with plenty of fresh vegetables and fruits., Do not drink more than 1 to 2 alcoholic drinks a day., Do not use recreational drugs., Exercise at least 30 minutes a day, most days of the week., Get your cholesterol checked every 5 years. If you are being treated for high cholesterol, you need to have it checked more often., Get your blood pressure checked every 1 to 2 years. If you have high blood pressure, heart disease, diabetes, or you have had a stroke, you need to have it checked more often. Ask your provider what is best for you., Follow your provider's treatment recommendations if you have high blood pressure, diabetes, high cholesterol, or heart disease. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

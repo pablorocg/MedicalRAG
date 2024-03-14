@@ -1,0 +1,13 @@
+<Document id="0000817" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000314.htm">
+ 
+<Focus>Cholesterol - drug treatment</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000817-1" qtype="information">Do you have information about Cholesterol - drug treatment</Question>
+			<Answer>Your body needs cholesterol to work properly. But  extra cholesterol in your blood  causes deposits to build up on the inside walls of your blood vessels. This buildup is called plaque. It narrows your arteries and can reduce or stop blood flow. This can lead to heart attack, stroke, and narrowing of the arteries elsewhere in your body. Statins are thought to be the best drugs to use for people who need medicines to lower their cholesterol.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,20 @@
+<Document id="0003571" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000179.htm">
+ 
+<Focus>Shoulder surgery - discharge</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>SLAP repair - discharge</Synonym>
+		<Synonym>Acromioplasty - discharge</Synonym>
+		<Synonym>Bankart - discharge</Synonym>
+		<Synonym>Shoulder repair - discharge</Synonym>
+		<Synonym>Shoulder arthroscopy - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003571-1" qtype="information">Do you have information about Shoulder surgery - discharge</Question>
+			<Answer>You had shoulder surgery to repair the tissues inside or around your shoulder joint. The surgeon may have used a tiny camera called an  arthroscope  to see inside your shoulder. You may have needed open surgery if your surgeon could not repair your shoulder with the arthroscope. If you had open surgery, you have a large cut (incision). Now that you're going home, be sure to follow your surgeon's instructions on how to take care of your shoulder. Use the information below as a reminder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

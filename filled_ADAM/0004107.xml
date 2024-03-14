@@ -1,0 +1,26 @@
+<Document id="0004107" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003616.htm">
+ 
+<Focus>Uric acid urine test</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0854059</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004107-1" qtype="information">What is (are) Uric acid urine test ?</Question>
+			<Answer>The uric acid urine test measures the level of uric acid in the urine. The uric acid blood level can be checked using a blood test.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004107-8" qtype="susceptibility">Who is at risk for Uric acid urine test? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

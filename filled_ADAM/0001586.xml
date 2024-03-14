@@ -1,0 +1,52 @@
+<Document id="0001586" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007216.htm">
+ 
+<Focus>Fibroadenoma - breast</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0178421</CUI>
+			<CUI>C0206650</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Breast lump - fibroadenoma</Synonym>
+		<Synonym>Breast lump - noncancerous</Synonym>
+		<Synonym>Breast lump - benign</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001586-1" qtype="information">What is (are) Fibroadenoma - breast ?</Question>
+			<Answer>Fibroadenoma of the breast is a benign tumor. Benign tumor means it is not a cancer.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001586-2" qtype="causes">What causes Fibroadenoma - breast ?</Question>
+			<Answer>The cause of fibroadenomas is not known. They may be related to hormones. Girls who are going through puberty and women who are pregnant are most often affected. Fibroadenomas are found much less often in older women who have gone through menopause. Fibroadenoma is the most common benign tumor of the breast. It is the most common breast tumor in women under age 30. A fibroadenoma is made up of breast gland tissue and tissue that helps support the breast gland tissue.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001586-3" qtype="symptoms">What are the symptoms of Fibroadenoma - breast ?</Question>
+			<Answer>Fibroadenomas are usually single lumps. Some women have several lumps that may affect both breasts. The lumps may be any of the following: Easily moveable under the skin, Firm, Painless, Rubbery ,  The lumps have smooth, well-defined borders. They may grow in size, especially during pregnancy. Fibroadenomas often get smaller after menopause (if a woman is not taking hormone therapy).</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001586-4" qtype="exams and tests">How to diagnose Fibroadenoma - breast ?</Question>
+			<Answer>After a physical exam, one or both of the following tests are usually done: Breast ultrasound ,  Mammogram ,  A biopsy may be done to get a definite diagnosis. Different types of biopsies include: Excisional (removal of the lump by a surgeon),  Stereotactic  (needle biopsy using a machine like a mammogram),  Ultrasound-guided  (needle biopsy using ultrasound) ,  Women in their teens or early 20s may not need a biopsy if the lump goes away on its own or if the lump does not change over a long period.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001586-5" qtype="treatment">What are the treatments for Fibroadenoma - breast ?</Question>
+			<Answer>If a needle biopsy shows that the lump is a fibroadenoma, the lump may be left in place or removed. You and your health care provider can discuss whether or not to  remove the lump . Reasons to have it removed include: Results of needle biopsy are not clear, Pain or other symptom, Concern about cancer, The lump gets larger over time,  If the lump is not removed, your provider will watch to see if it changes or grows. This may be done using: Mammogram, Physical examination, Ultrasound ,  Sometimes, the lump is destroyed without removing it: Cryoablation destroys the lump by freezing it. A probe is inserted through the skin, and ultrasound helps the provider guide it to the lump. Gas is used to freeze and destroy the lump., Radiofrequency ablation destroys the lump using high-frequency energy. The provider uses ultrasound to help focus the energy beam on the lump. These waves heat the lump and destroy it without affecting nearby tissues. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001586-6" qtype="outlook">What is the outlook for Fibroadenoma - breast ?</Question>
+			<Answer>If the lump is left in place and watched carefully, it may need to be removed at a later time if it changes or grows. In very rare cases, the lump is cancer and will need further treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001586-7" qtype="when to contact a medical professional">Do I need to see a doctor for Fibroadenoma - breast ?</Question>
+			<Answer>Contact your provider if you notice: Any new breast lumps, A breast lump that your provider has checked before that grows or changes, Bruising on your breast for no reason, An area of redness of the skin of the breast, Breast skin that looks like an orange peel with thickening of the skin or enlargement of the pores, Dimpling or pulling in of the breast skin, New inversion of the nipple (nipple going inward instead of outward),  Nipple discharge  that is clear (like water) or bloody, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

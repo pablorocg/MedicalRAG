@@ -1,0 +1,65 @@
+<Document id="0003290" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000127.htm">
+ 
+<Focus>Pulmonary aspergilloma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0276651</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Fungus ball</Synonym>
+		<Synonym>Mycetoma</Synonym>
+		<Synonym>Aspergilloma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003290-1" qtype="information">What is (are) Pulmonary aspergilloma ?</Question>
+			<Answer>Pulmonary aspergilloma is a mass caused by a fungal infection. It usually grows in lung cavities. The infection can also appear in the brain, kidney, or other organs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003290-2" qtype="causes">What causes Pulmonary aspergilloma ?</Question>
+			<Answer>Aspergillosis  is an infection caused by the fungus aspergillus. Aspergillomas are formed when the fungus grows in a clump in a lung cavity. The cavity is often created by a previous condition. Cavities in the lung may be caused by diseases such as: Tuberculosis ,  Coccidioidomycosis ,  Cystic fibrosis ,  Histoplasmosis ,  
+ Lung abscess 
+ ,  
+ Lung cancer 
+ ,  Sarcoidosis ,  The most common species of fungus that causes disease in humans is  Aspergillus fumigatus .  
+ Aspergillus is a common fungus. It grows on dead leaves, stored grain, bird droppings, compost piles, and other decaying vegetation.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003290-3" qtype="symptoms">What are the symptoms of Pulmonary aspergilloma ?</Question>
+			<Answer>You may not have symptoms. When symptoms do develop, they can include: Chest pain , Cough,  Coughing up blood , which can be a life-threatening sign, Fatigue, Fever,  Unintentional weight loss , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003290-4" qtype="exams and tests">How to diagnose Pulmonary aspergilloma ?</Question>
+			<Answer>Your health care provider may suspect you have a fungal infection after x-rays of your lungs show the ball of fungus. Other tests that may be done include: Biopsy of lung tissue, Blood test for presence of aspergillus in the body (galactomannan), Blood test to detect immune response to aspergillus (specific antibodies for aspergillus),  Bronchoscopy  or bronchoscopy with lavage,  Chest CT ,  Sputum culture , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003290-5" qtype="treatment">What are the treatments for Pulmonary aspergilloma ?</Question>
+			<Answer>Many people never develop symptoms. Often, no treatment is needed, unless you are coughing up blood. Sometimes, antifungal medicines may be used. If you have bleeding in the lungs, your provider may recommend a test to inject dye into the blood vessels (angiography) to find the site of bleeding. The bleeding is stopped by either: Surgery to remove the aspergilloma, Procedure that inserts material into the blood vessels to stop the bleeding ( embolization )
+   , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003290-6" qtype="outlook">What is the outlook for Pulmonary aspergilloma ?</Question>
+			<Answer>The outcome can be good in many people. However, it depends on the severity of the condition and your overall health. Surgery may be very successful in some cases, but it is complex and can have a high risk of serious complications.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003290-7" qtype="complications">What are the complications of Pulmonary aspergilloma ?</Question>
+			<Answer>Complications of pulmonary aspergilloma may include: Difficulty breathing  that gets worse, Massive bleeding from the lung, Spread of the infection, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003290-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pulmonary aspergilloma ?</Question>
+			<Answer>See your provider if you cough up blood, and be sure to mention any other symptoms that have developed.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003290-9" qtype="prevention">How to prevent Pulmonary aspergilloma ?</Question>
+			<Answer>People who have had related lung infections or who have weakened immune systems should try to avoid environments where the aspergillus fungus is found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

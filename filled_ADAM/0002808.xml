@@ -1,0 +1,38 @@
+<Document id="0002808" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003285.htm">
+ 
+<Focus>Nikolsky sign</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0241128</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002808-1" qtype="information">What is (are) Nikolsky sign ?</Question>
+			<Answer>Nikolsky sign is a skin finding in which the top layers of the skin slip away from the lower layers when rubbed.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002808-2" qtype="considerations">What to do for Nikolsky sign ?</Question>
+			<Answer>The disease is more common is newborn babies and in young children under 5 years of age. It often begins in mouth and on neck, shoulder, arm pit, and in genital area. A child may be lethargic, irritable, and feverish. They may develop red painful blisters on the skin, which break easily. Adults with disturbed kidney functions or with a weak immune system may have this sign. Your health care provider may use a pencil eraser or finger to test for Nikolsky sign. The skin is pulled to the side with a shearing pressure on the surface, or by rotating the eraser back and forth. If the test result is positive, the very thin top layer of skin will shear off, leaving skin pink and moist, and usually very tender. A positive result is usually a sign of a blistering skin condition. People with a positive sign have loose skin that slips free from the underlying layers when rubbed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002808-3" qtype="causes">What causes Nikolsky sign ?</Question>
+			<Answer>The Nikolsky sign can be often found in people with: Autoimmune blistering conditions such as  pemphigus vulgaris , Bacterial infections such as  scalded skin syndrome , Drug reactions such as  erythema multiforme , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002808-4" qtype="when to contact a medical professional">Do I need to see a doctor for Nikolsky sign ?</Question>
+			<Answer>Contact your provider if you or your child develops painful loosening, redness, and blistering of the skin, which you do not know the cause of (for example, a skin burn).</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002808-5" qtype="outlook">What is the outlook for Nikolsky sign ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

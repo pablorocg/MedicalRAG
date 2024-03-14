@@ -1,0 +1,58 @@
+<Document id="0003222" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000078.htm">
+ 
+<Focus>Primary alveolar hypoventilation</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020681</CUI>
+			<CUI>C1275808</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ondine's curse</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003222-1" qtype="information">What is (are) Primary alveolar hypoventilation ?</Question>
+			<Answer>Primary alveolar hypoventilation is a rare disorder in which a person does not take enough breaths per minute. The lungs and airways are normal.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003222-2" qtype="causes">What causes Primary alveolar hypoventilation ?</Question>
+			<Answer>Normally, when the oxygen level in the blood is low or the carbon dioxide level is high, there is a signal from the brain to breathe more deeply or quickly. In people with primary alveolar hypoventilation, this change in breathing does not happen. The cause of this condition is unknown. Some people have a specific genetic defect. The disease mainly affects men 20 to 50 years old. It may also occur in children.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003222-3" qtype="symptoms">What are the symptoms of Primary alveolar hypoventilation ?</Question>
+			<Answer>Symptoms are usually worse during sleep. Episodes of stopped breathing ( apnea ) often occur while sleeping. Often there is no shortness of breath during the day. Symptoms include: Bluish coloration of the skin  caused by lack of oxygen ( cyanosis ), Daytime drowsiness,  Fatigue , Morning headaches, Swelling of the ankles, Waking up from sleep unrested, Waking up many times at night ,  People with this disease are very sensitive to even small doses of sedatives or narcotics. These drugs can make their breathing problem much worse.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003222-4" qtype="exams and tests">How to diagnose Primary alveolar hypoventilation ?</Question>
+			<Answer>The health care provider will perform a physical exam and ask about symptoms. Tests will be done to rule out other causes. For example, muscular dystrophy can make the rib muscles weak, and chronic obstructive pulmonary disease (COPD) damages the lung tissue itself. A small stroke can affect the breathing center in the brain. Tests that may be done include: Measuring levels of oxygen and carbon dioxide in the blood ( arterial blood gases ) ,  Chest x-ray  or CT scan,  Hematocrit  and  hemoglobin  blood tests to check oxygen carrying ability of red blood cells,  Lung function tests , Overnight oxygen level measurements (oximetry), Sleep study ( polysomnography ) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003222-5" qtype="treatment">What are the treatments for Primary alveolar hypoventilation ?</Question>
+			<Answer>Medicines that stimulate the  respiratory  system may be used but do not always work. Mechanical devices that assist breathing, particularly at night, may be helpful in some people. Oxygen therapy may help in a few people, but may worsen night symptoms in others.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003222-6" qtype="outlook">What is the outlook for Primary alveolar hypoventilation ?</Question>
+			<Answer>Response to treatment varies.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003222-7" qtype="complications">What are the complications of Primary alveolar hypoventilation ?</Question>
+			<Answer>Low blood oxygen level can cause high blood pressure in the lung blood vessels. This can lead to  cor pulmonale  (right-sided heart failure).</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003222-8" qtype="when to contact a medical professional">Do I need to see a doctor for Primary alveolar hypoventilation ?</Question>
+			<Answer>Contact your provider if you have symptoms of this disorder. Seek medical care right away if bluish skin&#160;occurs.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003222-9" qtype="prevention">How to prevent Primary alveolar hypoventilation ?</Question>
+			<Answer>There is no known prevention. You should avoid using sleep medicines or other drugs that can cause drowsiness.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

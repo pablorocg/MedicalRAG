@@ -1,0 +1,52 @@
+<Document id="0002374" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001473.htm">
+ 
+<Focus>LEOPARD syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0175704</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002374-1" qtype="information">What is (are) LEOPARD syndrome ?</Question>
+			<Answer>Noonan syndrome with multiple lentigines (NSML) is a rare inherited disorder. People with this condition have problems with the skin, head and face, inner ear, and heart. The genitals may also be affected. Noonan syndrome with multiple lentigines was formerly known as LEOPARD syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002374-2" qtype="causes">What causes LEOPARD syndrome ?</Question>
+			<Answer>NSML is inherited as an autosomal dominant trait. This means the person only needs an abnormal gene from one parent in order to inherit the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002374-3" qtype="symptoms">What are the symptoms of LEOPARD syndrome ?</Question>
+			<Answer>The former name of NSML of LEOPARD stands for the different problems (signs and symptoms) of this disorder: L entigines -- large number of brown or black freckle-like skin markings that mainly affect the neck and upper chest but can appear all over the body,  Electrocardiograph  conduction abnormalities -- problems with the electrical and pumping functions of the heart,  O cular hypertelorism -- eyes that are spaced wide apart,  Pulmonary valve stenosis  -- narrowing of the pulmonary heart valve, resulting in less blood flow to the lungs and causing shortness of breath,  A bnormalities of the genitals -- such as  undescended testicles ,  R etardation of growth ( delayed growth ) -- including bone growth problems of the chest and spine,  D eafness -- hearing loss may vary between mild and severe,  NSML is similar to  Noonan syndrome . However, the main symptom that tells apart the two conditions is that people with NSML have lentigines.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002374-4" qtype="exams and tests">How to diagnose LEOPARD syndrome ?</Question>
+			<Answer>Your health care provider will perform a physical exam and listen to the heart with a stethoscope.&#160; Tests that may be done include: Electrocardiogram (ECG) and  echocardiogram  to check the heart
+  , Hearing test, CT scan of the brain, Skull x-ray, EEG to check the brain's function, Blood tests to check certain hormone levels, Removing a small amount of skin for examination ( skin biopsy ), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002374-5" qtype="treatment">What are the treatments for LEOPARD syndrome ?</Question>
+			<Answer>Symptoms are treated as appropriate. A hearing aid may be needed. Hormone treatment may be necessary at the expected time of puberty to cause the normal changes to occur. Laser, cryosurgery (freezing), or bleaching creams may help lighten some of the brown spots on the skin.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002374-6" qtype="complications">What are the complications of LEOPARD syndrome ?</Question>
+			<Answer>Complications vary and include: Deafness, Delayed puberty, Heart problems,  Infertility , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002374-7" qtype="when to contact a medical professional">Do I need to see a doctor for LEOPARD syndrome ?</Question>
+			<Answer>Contact your provider if there are symptoms of this disorder. Contact your provider for an appointment if you have a family history of this disorder and plan to have children.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002374-8" qtype="prevention">How to prevent LEOPARD syndrome ?</Question>
+			<Answer>Genetic counseling  is recommended for people with a family history of NSLM who want to have children.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

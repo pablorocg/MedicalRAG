@@ -1,0 +1,46 @@
+<Document id="0000345" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000520.htm">
+ 
+<Focus>Asymptomatic bacteriuria</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0262380</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000345-1" qtype="information">What is (are) Asymptomatic bacteriuria ?</Question>
+			<Answer>Most of the time, your urine is sterile. This means there are no bacteria growing. On the other hand, if you have symptoms of a  bladder or kidney infection , bacteria will often be present and growing in your urine. Sometimes, your health care provider may check your urine for bacteria, even when you do not have any symptoms. If enough bacteria are found in your urine, you have asymptomatic bacteriuria.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000345-2" qtype="causes">What causes Asymptomatic bacteriuria ?</Question>
+			<Answer>Asymptomatic bacteriuria occurs in a small number of healthy people. It affects women more often than men. The reasons for the lack of symptoms are not well understood. You are more likely to have this problem if you: Have a  urinary catheter  in place, Are female, Are pregnant, Are sexually active (in females), Have long-term diabetes and are female, Are an older adult, Have recently had a surgical procedure in your urinary tract, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000345-3" qtype="symptoms">What are the symptoms of Asymptomatic bacteriuria ?</Question>
+			<Answer>There are no symptoms of this problem. If you have these symptoms, you may have a urinary tract infection, but you do not have asymptomatic bacteriuria. Burning during urination, Increased  urgency to urinate , Increased frequency of urination, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000345-4" qtype="exams and tests">How to diagnose Asymptomatic bacteriuria ?</Question>
+			<Answer>To diagnose asymptomatic bacteriuria, a urine sample must be sent for a  urine culture . Most people with no urinary tract symptoms do not need this test. You may need a urine culture done as a screening test, even without symptoms, if: You are pregnant, You have a surgery or procedure planned that involves the bladder, prostate, or other parts of the urinary tract,  To make the diagnosis of asymptomatic bacteriuria, the culture must show a large growth of bacteria. In men, only one culture needs to show growth of bacteria, In women, two different cultures must show growth of bacteria, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000345-5" qtype="treatment">What are the treatments for Asymptomatic bacteriuria ?</Question>
+			<Answer>Most people who have bacteria growing in their urine, but no symptoms, do not need treatment. This is because the bacteria are not causing any harm. In fact, treating most people with this problem may make it harder to treat infections in the future. However, for some people getting a urinary tract infection is more likely or may cause more severe problems. As a result, treatment with antibiotics may be needed if: You are pregnant., You recently had a kidney transplant., You are scheduled for surgery involving the prostate gland or the bladder., You have kidney stones that have caused an infection. , Your young child has  reflux  (backward movement of urine from the bladder into ureters or kidneys).,  Without symptoms being present, even people who are older adults, have diabetes, or have a catheter in place do not need treatment.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000345-6" qtype="complications">What are the complications of Asymptomatic bacteriuria ?</Question>
+			<Answer>If it is not treated, you may have a kidney infection if you are at high risk.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000345-7" qtype="when to contact a medical professional">Do I need to see a doctor for Asymptomatic bacteriuria ?</Question>
+			<Answer>Contact your provider if you have: Difficulty emptying your bladder, Fever, Flank or back pain, Pain with urination,  You will need to be checked for a bladder or kidney infection.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,54 @@
+<Document id="0003395" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001618.htm">
+ 
+<Focus>Retinopathy of prematurity</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0035344</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Retrolental fibroplasia</Synonym>
+		<Synonym>ROP</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003395-1" qtype="information">What is (are) Retinopathy of prematurity ?</Question>
+			<Answer>Retinopathy of prematurity (ROP) is abnormal blood vessel development in the retina of the eye in infants that are born too early ( premature ).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003395-2" qtype="causes">What causes Retinopathy of prematurity ?</Question>
+			<Answer>The blood vessels of the retina (in the back of the eye) begin to develop about 3 months into pregnancy. In most cases, they are fully developed at the time of normal birth. The eyes may not develop properly if a baby is born very early. The vessels may stop growing or grow abnormally from the retina into the back of the eye. Because the vessels are fragile, they can leak and cause bleeding in the eye. Scar tissue may develop and pull the retina loose from the inner surface of the eye (retinal detachment). In severe cases, this can result in vision loss. In the past, the use of too much oxygen in treating premature babies caused vessels to grow abnormally. Better methods are now available for monitoring oxygen. As a result, the problem has become less common, especially in developed countries. However, there is still uncertainty about the right level of oxygen for premature babies at different ages. Researchers are studying other factors besides oxygen which appear to influence the risk of ROP. Today, the risk of developing ROP depends on the degree of prematurity. Smaller babies with more medical problems are at higher risk.  Almost all babies who are born before 30 weeks or weigh less than 3 pounds (1500 grams or 1.5 kilograms) at birth are screened for the condition. Some high-risk babies who weigh 3 to 4.5 pounds (1.5 to 2 kilograms) or who are born after 30 weeks should also be screened. In addition to prematurity, other risk factors may include: Brief stop in breathing (apnea), Heart disease, High carbon dioxide (CO2) level in the blood, Infection, Low blood acidity (pH), Low blood oxygen, Respiratory distress, Slow heart rate (bradycardia), Transfusions ,  The rate of ROP in most premature infants has gone down greatly in developed countries over the past few decades due to better care in the neonatal intensive care unit (NICU). However, more babies born very early are now able to survive, and these very premature infants are at the highest risk for ROP. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003395-3" qtype="symptoms">What are the symptoms of Retinopathy of prematurity ?</Question>
+			<Answer>The blood vessel changes cannot be seen with the naked eye. An eye exam by an ophthalmologist is needed to reveal such problems. There are five stages of ROP: Stage I: There is mildly abnormal blood vessel growth., Stage II: Blood vessel growth is moderately abnormal., Stage III: Blood vessel growth is severely abnormal., Stage IV: Blood vessel growth is severely abnormal and there is a partially detached retina., Stage V: There is a total retinal detachment. ,  An infant with ROP may also be classified as having "plus disease" if the abnormal blood vessels match pictures used to diagnose the condition. Symptoms of severe ROP include: Abnormal eye movements, Crossed eyes, Severe nearsightedness, White-looking pupils (leukocoria) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003395-4" qtype="exams and tests">How to diagnose Retinopathy of prematurity ?</Question>
+			<Answer>Babies who are born before 30 weeks, weigh less than 1,500 grams (1.5 kilograms or about 3 pounds) at birth, or are high risk for other reasons should have retinal exams. In most cases, the first exam should be within 4 to 9 weeks after birth, depending on the baby's gestational age.  Babies born at 27 weeks or later most often have their exam at 4 weeks of age. , Those born earlier most often have exams later. ,  Follow-up exams are based on the results of the first exam. Babies do not need another exam if the blood vessels in both retinas have completed normal development. Parents should know what follow-up eye exams are needed before the baby leaves the nursery.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003395-5" qtype="treatment">What are the treatments for Retinopathy of prematurity ?</Question>
+			<Answer>Early treatment has been shown to improve a baby's chances for normal vision. Treatment should start within 72 hours of the eye exam. Some babies with "plus disease" need immediate treatment. Laser therapy (photocoagulation) may be used to prevent complications of advanced ROP. , The laser stops the abnormal blood vessels from growing. , The treatment can be done in the nursery using portable equipment. To work well, it must be done before the retina develops scarring or detaches from the rest of the eye. , Other treatments, such as injecting an antibody that blocks VEG-F (a blood vessel growth factor) into the eye, are still being studied.,  Surgery is needed if the retina detaches. Surgery does not always result in good vision. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003395-6" qtype="outlook">What is the outlook for Retinopathy of prematurity ?</Question>
+			<Answer>Most infants with severe vision loss related to ROP have other problems related to early birth. They will need many different treatments. About 1 out of 10 infants with early changes will develop more severe retinal disease. Severe ROP may lead to major vision problems or blindness. The key factor in the outcome is early detection and treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003395-7" qtype="complications">What are the complications of Retinopathy of prematurity ?</Question>
+			<Answer>Complications may include severe nearsightedness or blindness.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003395-8" qtype="prevention">How to prevent Retinopathy of prematurity ?</Question>
+			<Answer>The best way to prevent this condition is to take steps to avoid premature birth. Preventing other problems of prematurity may also help prevent ROP.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

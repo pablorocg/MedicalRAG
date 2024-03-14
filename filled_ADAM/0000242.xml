@@ -1,0 +1,43 @@
+<Document id="0000242" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000574.htm">
+ 
+<Focus>Ankle sprain - aftercare</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0160087</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lateral ankle sprain - aftercare</Synonym>
+		<Synonym>Medial ankle sprain - aftercare</Synonym>
+		<Synonym>Medial ankle injury - aftercare</Synonym>
+		<Synonym>Ankle syndesmosis sprain -aftercare</Synonym>
+		<Synonym>Syndesmosis injury - aftercare</Synonym>
+		<Synonym>ATFL injury - aftercare</Synonym>
+		<Synonym>CFL injury- aftercare</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000242-1" qtype="information">What is (are) Ankle sprain - aftercare ?</Question>
+			<Answer>Ligaments are strong, flexible tissues that attach your bones to one another. They keep your joints stable and help them move in the right ways. An ankle  sprain  occurs when the ligaments in your ankle are stretched or torn.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000242-2" qtype="information">What is (are) Ankle sprain - aftercare ?</Question>
+			<Answer>Ligaments are strong, flexible tissues that attach your bones to one another. They keep your joints stable and help them move in the right ways. An ankle  sprain  occurs when the ligaments in your ankle are stretched or torn.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000242-3" qtype="outlook">What is the outlook for Ankle sprain - aftercare ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000242-6" qtype="when to contact a medical professional">Do I need to see a doctor for Ankle sprain - aftercare ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

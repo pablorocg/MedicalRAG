@@ -1,0 +1,13 @@
+<Document id="0003343" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003835.htm">
+ 
+<Focus>RBC nuclear scan</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003343-1" qtype="information">Do you have information about RBC nuclear scan</Question>
+			<Answer>An RBC nuclear scan uses small amounts of radioactive material to mark (tag) red blood cells (RBCs). Your body is then scanned to see the cells and track how they move through the body.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

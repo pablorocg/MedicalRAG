@@ -1,0 +1,41 @@
+<Document id="0001915" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003270.htm">
+ 
+<Focus>Hemolytic crisis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0302110</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T049</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hemolysis - acute</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001915-1" qtype="information">What is (are) Hemolytic crisis ?</Question>
+			<Answer>Hemolytic crisis occurs when large numbers of red blood cells are destroyed over a short time. The loss of red blood cells occurs much faster than the body can produce new red blood cells.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001915-2" qtype="considerations">What to do for Hemolytic crisis ?</Question>
+			<Answer>During a hemolytic crisis, the body cannot make enough red blood cells to replace those that are destroyed. This causes  acute  and often severe  anemia . The part of red blood cells that carries oxygen (hemoglobin) is released into the bloodstream. This can lead to kidney damage.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001915-3" qtype="causes">What causes Hemolytic crisis ?</Question>
+			<Answer>Causes of hemolysis include: A lack of certain proteins inside red blood cells,  Autoimmune diseases , Certain infections, Defects in the hemoglobin molecules inside red blood cells, Defects of the proteins that make up the internal framework of red blood cells, Side effects of certain medicines, Reactions to blood transfusions , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001915-4" qtype="when to contact a medical professional">Do I need to see a doctor for Hemolytic crisis ?</Question>
+			<Answer>Call your health care provider if you have: Symptoms of anemia, including pale skin or fatigue, especially if these symptoms get worse, Urine that is red, red-brown, or brown (tea-colored), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001915-5" qtype="outlook">What is the outlook for Hemolytic crisis ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,57 @@
+<Document id="0001727" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001453.htm">
+ 
+<Focus>Giant congenital nevus</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1842036</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Congenital giant pigmented nevus</Synonym>
+		<Synonym>Giant hairy nevus</Synonym>
+		<Synonym>Giant pigmented nevus</Synonym>
+		<Synonym>Bathing trunk nevus</Synonym>
+		<Synonym>Congenital melanocytic nevus - large</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001727-1" qtype="information">What is (are) Giant congenital nevus ?</Question>
+			<Answer>A congenital pigmented or melanocytic nevus is a dark-colored, often hairy, patch of skin. It is present at birth or appears in the first year of life. A giant congenital nevus is smaller in infants and children, but it usually continues to grow as the child grows. A giant pigmented nevus is larger than 15 inches (40 centimeters) once it stops growing.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001727-2" qtype="causes">What causes Giant congenital nevus ?</Question>
+			<Answer>These marks are thought to be caused by a localized increase in melanocytes as a baby grows in the womb. Melanocytes are the skin cells that produce melanin, which gives skin its color. A nevus has an increased amount of melanocytes. The condition is thought to be caused by a gene defect. The condition may occur with: Other nevi (moles), Involvement of the membranes of the brain and spinal cord when the nevus affects a very large area,  Smaller congenital pigmented or melanocytic nevi are common in children and do not cause problems most of the time. Larger or giant nevi are rare.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001727-3" qtype="symptoms">What are the symptoms of Giant congenital nevus ?</Question>
+			<Answer>A nevus will appear as a dark-colored patch with any of the following: Brown to bluish-black color, Hair, Regular or uneven borders, Smaller affected&#160;areas near the larger nevus (maybe), Smooth, irregular, or wart-like skin surface ,  Nevi are commonly found on the upper or lower parts of the back or the abdomen. They may also be found on the: Arms, Legs, Mucus membranes, Palms or soles , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001727-4" qtype="exams and tests">How to diagnose Giant congenital nevus ?</Question>
+			<Answer>You should have all birthmarks looked at by a health care provider. A  skin biopsy  may be needed to confirm the diagnosis or check for cancer cells. An  MRI of the brain or spine  might be done if the nevus is over the spine. A giant nevus on the spine may be linked to brain or spinal cord problems. Your provider will measure the dark skin area every year and may take pictures to check if the spot is getting larger.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001727-5" qtype="treatment">What are the treatments for Giant congenital nevus ?</Question>
+			<Answer>You will need to have regular exams to check for skin cancer. Surgery to remove the nevus can be done for cosmetic reasons or if your provider thinks it may become skin cancer.  Skin grafting  is also done when needed. Larger nevi may need to be removed in several stages. Lasers and  dermabrasion  (rubbing them off) can also be used to improve appearance. These treatments may not remove the whole birthmark, so it may be harder to detect skin cancer (melanoma). Talk to your doctor about the pros and cons of surgery for you. Treatment may be helpful if the birthmark causes emotional problems because of how it looks.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001727-6" qtype="outlook">What is the outlook for Giant congenital nevus ?</Question>
+			<Answer>Skin cancer may develop in some people with large or giant nevi. The cancer risk is higher for nevi that are larger in size. However, it isn't known if removing the nevus reduces that risk.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001727-7" qtype="complications">What are the complications of Giant congenital nevus ?</Question>
+			<Answer>Having a giant nevus may lead to: Depression and other emotional problems if the nevi affect appearance, Skin cancer ( melanoma ) , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001727-8" qtype="when to contact a medical professional">Do I need to see a doctor for Giant congenital nevus ?</Question>
+			<Answer>This condition is usually diagnosed at birth. Talk to your child's provider if your child has a large, pigmented area anywhere on their skin.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

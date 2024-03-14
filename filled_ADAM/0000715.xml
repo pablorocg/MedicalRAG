@@ -1,0 +1,46 @@
+<Document id="0000715" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001628.htm">
+ 
+<Focus>Cavernous sinus thrombosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0238454</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000715-1" qtype="information">What is (are) Cavernous sinus thrombosis ?</Question>
+			<Answer>Cavernous sinus thrombosis is a  blood clot  in an area at the base of the brain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000715-2" qtype="causes">What causes Cavernous sinus thrombosis ?</Question>
+			<Answer>The cavernous sinus receives blood from veins of the face and brain. The blood drains it into other blood vessels that carry it back to the heart. This area also contains nerves that control vision and eye movements. Cavernous sinus thrombosis is most often caused by a bacterial infection that has spread from the sinuses, teeth, ears, eyes, nose, or skin of the face. You are more likely to develop this condition if you have an increased risk of blood clots.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000715-3" qtype="symptoms">What are the symptoms of Cavernous sinus thrombosis ?</Question>
+			<Answer>Symptoms include: Bulging eyeball, usually on one side of face ,  Cannot move the eye in a particular direction ,  Drooping eyelids ,  Headaches ,  Vision loss , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000715-4" qtype="exams and tests">How to diagnose Cavernous sinus thrombosis ?</Question>
+			<Answer>Tests that may be ordered include: CT scan of the head ,  Magnetic resonance imaging (MRI) of the brain ,  Magnetic resonance venogram ,  Sinus x-ray , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000715-5" qtype="treatment">What are the treatments for Cavernous sinus thrombosis ?</Question>
+			<Answer>Cavernous sinus thrombosis is treated with high-dose antibiotics given through a vein (IV) if an infection is the cause. Blood thinners help dissolve the blood clot and prevent it from getting worse or recurring. Surgery is sometimes needed to drain the infection.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000715-6" qtype="outlook">What is the outlook for Cavernous sinus thrombosis ?</Question>
+			<Answer>Cavernous sinus thrombosis can lead to death if left untreated. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000715-7" qtype="when to contact a medical professional">Do I need to see a doctor for Cavernous sinus thrombosis ?</Question>
+			<Answer>Call your&#160;health care provider&#160;right away if you have: Bulging of your eyes ,  Drooping eyelids ,  Eye pain ,  Inability to move your eye in any particular direction , Vision loss, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

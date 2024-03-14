@@ -1,0 +1,59 @@
+<Document id="0003206" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000508.htm">
+ 
+<Focus>Prerenal azotemia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0554309</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Azotemia - prerenal</Synonym>
+		<Synonym>Uremia</Synonym>
+		<Synonym>Renal underperfusion</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003206-1" qtype="information">What is (are) Prerenal azotemia ?</Question>
+			<Answer>Prerenal azotemia is an abnormally high level of nitrogen waste products in the blood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003206-2" qtype="causes">What causes Prerenal azotemia ?</Question>
+			<Answer>Prerenal azotemia is common, especially in older adults and in people who are in the hospital. The kidneys filter the blood. They also make urine to remove waste products. When the amount, or pressure, of blood flow through the kidney drops, filtering of the blood also drops. Or it may not occur at all. Waste products stay in the blood. Little or no urine is made, even though the kidney itself is working. When nitrogen waste products, such as creatinine and urea, build up in the body, the condition is called azotemia. These waste products act as poisons when they build up. They damage tissues and reduce the ability of the organs to function. Prerenal azotemia is the most common form of  kidney failure  in hospitalized people. Any condition that reduces blood flow to the kidney may cause it, including: Burns, Conditions that allow fluid to escape from the bloodstream, Long-term vomiting, diarrhea, or bleeding, Heat exposure, Decreased fluid intake ( dehydration ), Loss of blood volume, Certain medicines, such as ACE inhibitors (drugs that treat heart failure or high blood pressure) and NSAIDs,  Conditions in which the heart cannot pump enough blood or pumps blood at a low volume also increase the risk for prerenal azotemia. These conditions include: Heart failure , Shock ( septic shock ) ,  It can also be caused by conditions that interrupt blood flow to the kidney, such as: Certain types of surgery, Injury to the kidney, Blockage of the artery that supplies blood to the kidney ( renal artery occlusion ) , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003206-3" qtype="symptoms">What are the symptoms of Prerenal azotemia ?</Question>
+			<Answer>Prerenal azotemia may have no symptoms. Or, symptoms of the causes of prerenal azotemia may be present. Symptoms of dehydration may be present and include any of the following: Confusion ,  Decreased or no urine production , Dry mouth due to thirst,  Fast pulse , Fatigue, Pale skin color, Swelling, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003206-4" qtype="exams and tests">How to diagnose Prerenal azotemia ?</Question>
+			<Answer>An examination may show: Collapsed neck veins, Dry mucous membranes, Little or no urine in the bladder,  Low blood pressure , Low heart function or  hypovolemia , Poor skin elasticity ( turgor ), Rapid  heart rate , Reduced pulse pressure, Signs of  acute kidney failure ,  The following tests may be done: Blood creatinine ,  BUN ,  Urine osmolality  and specific gravity, Urine tests to check  sodium  and  creatinine  levels and to monitor kidney function , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003206-5" qtype="treatment">What are the treatments for Prerenal azotemia ?</Question>
+			<Answer>The main goal of treatment is to quickly correct the cause before the kidney becomes damaged. People&#160;often need to stay in the hospital.  Intravenous  (IV) fluids, including blood or blood products, may be used to increase blood volume. After blood volume has been restored, medicines may be used to:  Increase blood pressure, Improve the pumping of the heart ,  If the person has symptoms of acute kidney failure, treatment will likely include: Dialysis , Diet changes, Medicines , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003206-6" qtype="outlook">What is the outlook for Prerenal azotemia ?</Question>
+			<Answer>Prerenal azotemia can be reversed if the cause can be found and corrected within 24 hours. If the cause is not fixed quickly, damage may occur to the kidney ( acute tubular necrosis ).</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003206-7" qtype="complications">What are the complications of Prerenal azotemia ?</Question>
+			<Answer>Complications may include: Acute kidney failure, Acute tubular necrosis (tissue death) , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003206-8" qtype="when to contact a medical professional">Do I need to see a doctor for Prerenal azotemia ?</Question>
+			<Answer>Go to the emergency room or call 911 or the local emergency number if you have symptoms of prerenal azotemia.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003206-9" qtype="prevention">How to prevent Prerenal azotemia ?</Question>
+			<Answer>Quickly treating any condition that reduces the volume or force of blood flow through the kidneys may help prevent prerenal azotemia.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

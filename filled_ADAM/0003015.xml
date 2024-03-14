@@ -1,0 +1,52 @@
+<Document id="0003015" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000182.htm">
+ 
+<Focus>Pericarditis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0031046</CUI>
+			<CUI>C1963211</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003015-1" qtype="information">What is (are) Pericarditis ?</Question>
+			<Answer>Pericarditis is a condition in which the sac-like covering around the heart (pericardium) becomes inflamed.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003015-2" qtype="causes">What causes Pericarditis ?</Question>
+			<Answer>The cause of pericarditis is unknown or unproven in many cases. It mostly affects men ages 20 to 50 years.  Pericarditis is often the result of an infection such as:  Viral infections that cause a chest cold or pneumonia, Infections with bacteria (less common), Some fungal infections (rare) ,  The condition may be seen with diseases such as: Cancer  (including  leukemia ),  Disorders in which the immune system attacks healthy body tissue by mistake , HIV infection and  AIDS ,  Underactive thyroid gland ,  Kidney failure ,  Rheumatic fever ,  Tuberculosis  (TB) ,  Other causes include: Heart attack , Heart surgery or trauma to the chest, esophagus, or heart, Certain medicines, such as procainamide, hydralazine, phenytoin, isoniazid, and some drugs used to treat cancer or suppress the immune system, Swelling or inflammation of the heart muscle, Radiation therapy to the chest , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003015-3" qtype="symptoms">What are the symptoms of Pericarditis ?</Question>
+			<Answer>Chest pain  is almost always present. The pain: May be felt in the neck, shoulder, back, or abdomen, Often increases with deep breathing and lying flat, and may increase with coughing and swallowing, Can feel sharp and stabbing, Is often relieved by sitting up and leaning or bending forward ,  You may have  fever ,  chills , or  sweating  if the condition is caused by an infection. Other symptoms may include: Ankle, feet, and leg swelling ,  Anxiety ,  Breathing difficulty when lying down , Dry  cough ,  Fatigue , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003015-4" qtype="exams and tests">How to diagnose Pericarditis ?</Question>
+			<Answer>When listening to the heart with a stethoscope, the health care provider can hear a sound called a pericardial rub. The  heart sounds  may be muffled or distant. There may be other signs of excess fluid in the pericardium (pericardial effusion). If the disorder is severe, there may be: Crackles in the lungs, Decreased breath sounds, Other signs of fluid in the space around the lungs,  The following imaging tests may be done to check the heart and the tissue layer around it (pericardium): Chest MRI scan ,  Chest x-ray ,  Echocardiogram ,  Electrocardiogram ,  Heart MRI  or heart  CT  scan, Radionuclide scanning ,  To look for heart muscle damage, the provider may order a troponin I test. Other laboratory tests may include: Antinuclear antibody  (ANA),  Blood culture ,  CBC ,  C-reactive protein , Erythrocyte sedimentation rate ( ESR ), HIV test, Rheumatoid factor,  Tuberculin skin test , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003015-5" qtype="treatment">What are the treatments for Pericarditis ?</Question>
+			<Answer>The cause of pericarditis should be identified, if possible. High doses of nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen are often given with a medicine called colchicine. These medicines will decrease your pain and reduce the swelling or inflammation in the sac around your heart. You will be asked to take them for days to weeks or longer in some cases. If the cause of pericarditis is an infection: Antibiotics will be used for bacterial infections, Antifungal medicines will be used for fungal pericarditis ,  Other medicines that may be used are: Corticosteroids such as prednisone (in some people), "Water pills" (diuretics) to remove excess fluid ,  If the buildup of fluid makes the heart function poorly, treatment may include: Draining the fluid from the sac. This procedure, called  pericardiocentesis , may be done using a needle, which is guided by ultrasound (echocardiography) in most cases., Cutting a small hole (window) in the pericardium (subxiphoid pericardiotomy) to allow the infected fluid to drain into the abdominal cavity. This is done by a surgeon.,  Surgery called pericardiectomy may be needed if the pericarditis is long-lasting, comes back after treatment, or causes scarring or tightening of the tissue around the heart. The operation involves cutting or removing part of the pericardium. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003015-6" qtype="outlook">What is the outlook for Pericarditis ?</Question>
+			<Answer>Pericarditis can range from mild illness that gets better on its own, to a life-threatening condition. Fluid buildup around the heart and poor heart function can complicate the disorder. The outcome is good if pericarditis is treated right away. Most people recover in 2 weeks to 3 months. However, pericarditis may come back. This is called recurrent, or chronic, if symptoms or episodes continue. Scarring and thickening of the sac-like covering and the heart muscle may occur when the problem is severe. This is called  constrictive pericarditis . It can cause long-term problems similar to those of heart failure.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003015-7" qtype="when to contact a medical professional">Do I need to see a doctor for Pericarditis ?</Question>
+			<Answer>Contact your provider if you have symptoms of pericarditis. This disorder is not life threatening most of the time. However, it can be very dangerous if not treated.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003015-8" qtype="prevention">How to prevent Pericarditis ?</Question>
+			<Answer>Many cases cannot be prevented.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,48 @@
+<Document id="0001551" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003088.htm">
+ 
+<Focus>Fatigue</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0015672</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Tiredness</Synonym>
+		<Synonym>Weariness</Synonym>
+		<Synonym>Exhaustion</Synonym>
+		<Synonym>Lethargy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001551-1" qtype="information">What is (are) Fatigue ?</Question>
+			<Answer>Fatigue is a feeling of weariness, tiredness, or lack of energy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001551-2" qtype="considerations">What to do for Fatigue ?</Question>
+			<Answer>Fatigue is different from  drowsiness . Drowsiness is feeling the need to sleep. Fatigue is a lack of energy and motivation. Drowsiness and apathy (a feeling of not caring about what happens) can be symptoms that go along with fatigue. Fatigue can be a normal and important response to physical activity, emotional stress, boredom, or lack of sleep. Fatigue is a common symptom, and it is usually not due to a serious disease. But it can be a sign of a more serious mental or physical condition. When fatigue is not relieved by enough sleep, good nutrition, or a low-stress environment, it should be evaluated by your health care provider.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001551-3" qtype="causes">What causes Fatigue ?</Question>
+			<Answer>There are many possible causes of fatigue, including: Anemia  (including  iron deficiency anemia ),  Depression  or  grief , Iron deficiency (without anemia), Medicines, such as sedatives or antidepressants, Persistent pain,  Sleep disorders  such as  insomnia ,  obstructive sleep apnea , or  narcolepsy , Thyroid gland that is  underactive  or  overactive , Use of alcohol or drugs, such as cocaine or narcotics, especially with regular use ,  Fatigue can also occur with the following illnesses: Addison disease &#160;(a disorder that occurs when the adrenal glands don't produce enough hormones),  Anorexia  or other eating disorders, Arthritis, mainly adult or&#160; juvenile rheumatoid arthritis , Autoimmune diseases such as systemic  lupus  erythematosus,  Cancer ,  COVID-19 ,  Diabetes ,  Fibromyalgia ,  Heart failure , Infection, especially one that takes a long time to recover from or treat, such as bacterial endocarditis (infection of the heart muscle or valves), parasitic infections, hepatitis,  HIV/AIDS ,  tuberculosis , and  mononucleosis , Kidney disease, Liver disease,  Malnutrition ,  Certain medicines may also cause drowsiness or fatigue, including antihistamines for allergies, blood pressure medicines, sleeping pills, steroids, and diuretics (water pills). Chronic fatigue syndrome  (CFS) is a condition in which symptoms of fatigue persist for at least 6 months and do not resolve with rest. The fatigue may be worsened with physical activity or mental stress. It is diagnosed based on the presence of a specific group of symptoms and after all other possible causes of fatigue are ruled out.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001551-4" qtype="considerations">What to do for Fatigue ?</Question>
+			<Answer>Fatigue is different from  drowsiness . Drowsiness is feeling the need to sleep. Fatigue is a lack of energy and motivation. Drowsiness and apathy (a feeling of not caring about what happens) can be symptoms that go along with fatigue. Fatigue can be a normal and important response to physical activity, emotional stress, boredom, or lack of sleep. Fatigue is a common symptom, and it is usually not due to a serious disease. But it can be a sign of a more serious mental or physical condition. When fatigue is not relieved by enough sleep, good nutrition, or a low-stress environment, it should be evaluated by your health care provider.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001551-5" qtype="when to contact a medical professional">Do I need to see a doctor for Fatigue ?</Question>
+			<Answer>Contact your provider right away if you have any of the following: Confusion or dizziness, Blurred vision, Little or no urine output, Recent swelling and weight gain, Thoughts of harming yourself or of suicide ,  Contact your provider for an appointment if you have any of the following: Unexplained weakness or fatigue, especially if you also have a fever, unintentional weight loss, or regular sweats, Constipation, dry skin, weight gain, or you cannot tolerate cold, Wake up and fall back to sleep many times during the night, Frequent headaches, Are taking medicines, prescribed or non-prescribed, or using drugs that may cause fatigue or drowsiness, Feel sad or depressed, Insomnia , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001551-6" qtype="outlook">What is the outlook for Fatigue ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

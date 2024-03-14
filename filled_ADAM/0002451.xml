@@ -1,0 +1,17 @@
+<Document id="0002451" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003787.htm">
+ 
+<Focus>Lumbosacral spine CT</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Spinal CT</Synonym>
+		<Synonym>CT - lumbosacral spine</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002451-1" qtype="information">Do you have information about Lumbosacral spine CT</Question>
+			<Answer>A lumbosacral spine CT is a  computed tomography  scan of the lower spine and surrounding tissues.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

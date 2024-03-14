@@ -1,0 +1,14 @@
+<Document id="0003927" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003444.htm">
+ 
+<Focus>Thyroid function tests</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003927-1" qtype="information">Do you have information about Thyroid function tests</Question>
+			<Answer>Thyroid function tests are used to check whether your thyroid is working normally. The most common thyroid function tests are: Free  T4  (the main thyroid hormone in your blood -- a precursor for T3),  TSH  (the hormone from the pituitary gland that stimulates the thyroid to produce T4), 
+   Total  T3  (the active form of the hormone -- T4 is converted to T3) ,  If you are being screened for thyroid disease, often only the thyroid stimulating hormone (TSH) test may be needed. Other thyroid tests include: Total T4 (the free hormone and the hormone bound to carrier proteins), Free T3 (the free active hormone),  T3 resin uptake  (an older test that is rarely used now), Thyroid uptake and  scan , Thyroid hormone binding globulin, Thyroglobulin , Anti-thyroid antibody tests,  The vitamin biotin (B7) can affect the results of many thyroid hormone tests. If you take biotin, talk to your provider before you have any thyroid function tests.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

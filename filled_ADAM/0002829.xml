@@ -1,0 +1,59 @@
+<Document id="0002829" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000870.htm">
+ 
+<Focus>Nummular eczema</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085656</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Eczema - discoid</Synonym>
+		<Synonym>Nummular dermatitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002829-1" qtype="information">What is (are) Nummular eczema ?</Question>
+			<Answer>Nummular eczema is a dermatitis (skin inflammation) in which itchy, coin-shaped spots or patches appear on the skin. The word nummular is Latin for "resembling coins."</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002829-2" qtype="causes">What causes Nummular eczema ?</Question>
+			<Answer>The cause of nummular eczema is unknown. But there usually is a personal or family history of: Allergies ,  Asthma ,  Atopic dermatitis ,  Things that can make the condition worse include: Dry skin, Environmental irritants, Temperature changes,  Stress , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002829-3" qtype="symptoms">What are the symptoms of Nummular eczema ?</Question>
+			<Answer> Symptoms may include any of the following: Coin-shaped areas of the skin (lesions) that are red, dry, itchy, and scaly, and appear on the arms and legs
+   , Lesions may spread to the middle of the body, Lesions may ooze and become crusty, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002829-4" qtype="exams and tests">How to diagnose Nummular eczema ?</Question>
+			<Answer>Your health care provider can usually diagnose this condition by looking at your skin and asking about your family's medical history. A  skin biopsy  may be needed to check for other similar conditions. Allergy testing may be done.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002829-5" qtype="treatment">What are the treatments for Nummular eczema ?</Question>
+			<Answer> Eczema is often treated with medicines applied to the skin. These are called topical medicines, and may include: A mild cortisone (steroid) cream or ointment at first. You may need a stronger medicine if this does not work., Other ointments or creams that help quiet the immune response may be prescribed for anyone over 2 years old, often for use on the face or other sensitive areas., Creams or ointments that contain coal tar may be used for thickened areas.,  You may also be asked to try a wet wrap treatment. This involves the following steps: Apply petroleum jelly (such as Vaseline) or corticosteroid ointment to the lesions., Wrap the affected area with wet bandages to keep the skin moist. This also helps the medicine work. If larger areas of the body are affected, you can wear damp pajamas or a sauna suit., Apply a warm towel or wear dry clothes over the wet bandage or wet pajamas., Follow your provider's instructions for how long to keep the area covered, and how many times a day to do the wet wrap treatment.,  The following measures may help improve your symptoms or prevent them from returning if your skin has cleared: Use lukewarm water when bathing and showering. Hot water can dry and irritate the skin. Take shorter or fewer baths or showers., Don't use soap. It can dry the skin. Use a gentle, mild cleanser instead., Ask your provider about adding bath oil to bath water., After bathing or showering, pat the lesions dry and apply lotion before the skin is all dry., Wear loose clothing. Tight clothing can rub and irritate the skin. Avoid wearing rough fabrics, such as wool, next to the skin., Use a humidifier in your home to help moisten the air., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002829-6" qtype="outlook">What is the outlook for Nummular eczema ?</Question>
+			<Answer>Nummular eczema is a long-term (chronic) condition. Medical treatment and avoiding irritants can help reduce symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002829-7" qtype="complications">What are the complications of Nummular eczema ?</Question>
+			<Answer>A  secondary infection  of the skin may develop.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002829-8" qtype="when to contact a medical professional">Do I need to see a doctor for Nummular eczema ?</Question>
+			<Answer>Contact your provider if you have symptoms of this condition. Also contact your provider if: Symptoms continue despite treatment, You have signs of infection (such as  fever , redness, or pain) , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002829-9" qtype="prevention">How to prevent Nummular eczema ?</Question>
+			<Answer>There is no known way to prevent the disorder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

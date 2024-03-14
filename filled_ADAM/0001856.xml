@@ -1,0 +1,25 @@
+<Document id="0001856" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000231.htm">
+ 
+<Focus>Heart attack - what to ask your doctor</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027051</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>What to ask your doctor about your heart attack</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001856-1" qtype="information">What is (are) Heart attack - what to ask your doctor ?</Question>
+			<Answer>A  heart attack  occurs when blood flow to a part of your heart muscle is blocked for a period of time and an area of the heart muscle is damaged. It is also called a myocardial infarction (MI). Angina  is pain or pressure in the chest. It occurs when your heart muscle is not getting enough blood or oxygen. You may feel angina in your neck or jaw. Sometimes you may notice that you are short of breath. Below are some questions you may want to ask your health care provider to help you take care of yourself after a heart attack.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

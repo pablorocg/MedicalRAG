@@ -1,0 +1,57 @@
+<Document id="0002915" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000414.htm">
+ 
+<Focus>Pagets disease of the bone</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Osteitis deformans</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002915-1" qtype="information">What is (are) Pagets disease of the bone ?</Question>
+			<Answer>Paget disease is a disorder that involves abnormal bone destruction and regrowth. This results in deformity of the affected bones.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002915-2" qtype="causes">What causes Pagets disease of the bone ?</Question>
+			<Answer>The cause of Paget disease is unknown. It may be due to genetic factors, but also could be due to a viral infection early in life or hypersensitivity to vitamin D. The disease occurs worldwide, but is more common in Europe, Australia, and New Zealand. The disease has become much less common over the last 50 years. In people with Paget disease, there is an abnormal breakdown of bone tissue in specific areas. This is followed by abnormal bone formation. The new area of bone is larger, but weaker. The new bone is also filled with new blood vessels. The affected bone may only be in one or two areas of the skeleton, or in many different bones in the body. It more often involves bones of the arms, collarbones, legs, pelvis, spine, and skull.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002915-3" qtype="symptoms">What are the symptoms of Pagets disease of the bone ?</Question>
+			<Answer>Most people with the condition have no symptoms. Paget disease is often diagnosed when an x-ray is done for another reason. It may also be discovered when trying to find the cause of high blood calcium levels. If they do occur, symptoms may include: Bone pain , joint pain or stiffness, and neck pain (the pain may be severe and be present most of the time), Bowing of the legs and other visible deformities, Enlarged head and skull deformities,  Fracture ,  Headache ,  Hearing loss , Reduced height, Warm skin over the affected bone , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002915-4" qtype="exams and tests">How to diagnose Pagets disease of the bone ?</Question>
+			<Answer>Tests that may indicate Paget disease include: Bone scan ,  Bone x-ray , Elevated markers of bone breakdown (for example, N-telopeptide or procollagen type I N-terminal propeptide (PINP)),  This disease may also affect the results of the following tests: Alkaline phosphatase (ALP) , bone specific isoenzyme,  Serum calcium , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002915-5" qtype="treatment">What are the treatments for Pagets disease of the bone ?</Question>
+			<Answer>Not all people with Paget disease need to be treated. People who may not need treatment include those who: Only have mildly abnormal blood tests or x-ray or bone scan findings, Have no symptoms and no evidence of active disease,  Paget disease is commonly treated when: Certain bones, such as weight-bearing bones, are involved and the risk of fracture is higher., Bony changes are getting worse quickly (treatment can reduce the risk of fractures)., Bony deformities are present., A person has pain or other symptoms., The skull is affected. (This is to prevent hearing loss.), The serum calcium levels are elevated and causing symptoms.,  Drug therapy helps prevent further bone breakdown and formation. Currently, there are several classes of drugs used to treat Paget disease. These include: Bisphosphonates: These drugs are the first treatment, and they help decrease bone remodeling. Medicines are commonly taken by mouth, or given through a vein (intravenously)., Calcitonin: This hormone is involved in bone metabolism. It may be given as a nasal spray (Miacalcin), or as an injection under the skin (Calcimar or Mithracin)., Denosumab: This monoclonal antibody (commonly used for treatment of osteoporosis) may be used.,  Acetaminophen (Tylenol) or nonsteroidal anti-inflammatory drugs (NSAIDs) may also be given for pain. In severe cases, orthopedic surgery may be needed to correct a deformity or fracture.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002915-6" qtype="support groups">Where to find support for people with Pagets disease of the bone ?</Question>
+			<Answer>People with this condition may benefit from taking part in support groups for people with similar experiences. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002915-7" qtype="outlook">What is the outlook for Pagets disease of the bone ?</Question>
+			<Answer>Most of the time, the condition can be controlled with medicines. A small number of people may develop a cancer of the bone called osteosarcoma. Some people will need joint replacement surgery.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002915-8" qtype="complications">What are the complications of Pagets disease of the bone ?</Question>
+			<Answer>Complications may include: Bone fractures, Deafness, Deformities, Heart failure, Hypercalcemia,  Paraplegia ,  Spinal stenosis , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002915-9" qtype="when to contact a medical professional">Do I need to see a doctor for Pagets disease of the bone ?</Question>
+			<Answer>Contact your health care provider if you develop symptoms of Paget disease.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

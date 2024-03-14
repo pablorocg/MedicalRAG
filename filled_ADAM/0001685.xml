@@ -1,0 +1,56 @@
+<Document id="0001685" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001150.htm">
+ 
+<Focus>Gastritis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017152</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001685-1" qtype="information">What is (are) Gastritis ?</Question>
+			<Answer>Gastritis occurs when the lining of the stomach becomes inflamed or swollen. Gastritis may last for only a short time (acute gastritis) or it may linger for months to years (chronic gastritis).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001685-2" qtype="causes">What causes Gastritis ?</Question>
+			<Answer>The most common causes of gastritis are: Certain medicines, such as aspirin, ibuprofen, or naproxen and other similar drugs, Heavy alcohol drinking, Infection of the stomach with a bacteria called  Helicobacter pylori ,  Less common causes are: Autoimmune disorders (such as pernicious anemia), Backflow of bile into the stomach (bile reflux), Cocaine use, Eating or drinking caustic or corrosive substances (such as poisons), Extreme stress, Viral infection, such as cytomegalovirus and herpes simplex virus (more often occurs in people with a weak immune system)
+   ,  Trauma or a severe, sudden illness such as major surgery, kidney failure, or being placed on a breathing machine may cause gastritis.
+</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001685-3" qtype="symptoms">What are the symptoms of Gastritis ?</Question>
+			<Answer>Many people with gastritis do not have any symptoms. Symptoms you may notice are: Loss of appetite , Nausea and vomiting, Pain in the upper part of the belly or abdomen ,  If gastritis is causing bleeding from the lining of the stomach, symptoms may include: Black stools,  Vomiting blood  or coffee-ground-like material , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001685-4" qtype="exams and tests">How to diagnose Gastritis ?</Question>
+			<Answer>Tests that may be needed are: Complete blood count  (CBC) to check for  anemia  or low blood count, Examination of the stomach with an endoscope (esophagogastroduodenoscopy or  EGD ) with biopsy of stomach lining,  H pylori  tests (breath test or stool test), Stool test to check for small amounts of blood in the stools, which may be a sign of bleeding in the stomach, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001685-5" qtype="treatment">What are the treatments for Gastritis ?</Question>
+			<Answer>Treatment depends on what is causing the problem. Some of the causes will go away over time.  You may need to stop taking aspirin, ibuprofen, naproxen, or other medicines that may be causing gastritis. Always talk to your health care provider before stopping any medicine.  You may use other over-the-counter and prescription drugs that decrease the amount of acid in the stomach, such as: Antacids, H2 antagonists: famotidine (Pepcid), cimetidine (Tagamet), and nizatidine (Axid), Proton pump inhibitors (PPIs): omeprazole (Prilosec), esomeprazole (Nexium), Iansoprazole (Prevacid), rabeprazole (AcipHex), and pantoprazole (Protonix) ,  Antibiotics may be used to treat gastritis caused by infection with  Helicobacter pylori  bacteria.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001685-6" qtype="outlook">What is the outlook for Gastritis ?</Question>
+			<Answer>The outlook depends on the cause, but is often very good.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001685-7" qtype="complications">What are the complications of Gastritis ?</Question>
+			<Answer>Blood loss and increased risk for gastric cancer can occur.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001685-8" qtype="when to contact a medical professional">Do I need to see a doctor for Gastritis ?</Question>
+			<Answer>Contact your provider if you develop: Pain in the upper part of the belly or abdomen that does not go away, Black or tarry stools, Vomiting blood or coffee-ground-like material, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001685-9" qtype="prevention">How to prevent Gastritis ?</Question>
+			<Answer>Avoid long-term use of substances that can irritate your stomach such as aspirin, anti-inflammatory drugs, or alcohol.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,57 @@
+<Document id="0000884" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000191.htm">
+ 
+<Focus>Coarctation of the aorta</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003492</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Aortic coarctation</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000884-1" qtype="information">What is (are) Coarctation of the aorta ?</Question>
+			<Answer>The aorta is a larger artery that carries blood from the heart to the vessels that supply the rest of the body with blood. If part of the aorta is narrowed, it is hard for blood to pass through the artery. This is called coarctation of the aorta. It is a type of birth defect. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000884-2" qtype="causes">What causes Coarctation of the aorta ?</Question>
+			<Answer>The exact cause of coarctation of the aorta is unknown. It results from abnormalities in development of the aorta prior to birth. Aortic coarctation is more common in people with certain genetic disorders, such as  Turner syndrome . Aortic coarctation is one of the more common heart conditions that are present at birth (congenital heart defects). This abnormality accounts for about 5% of all congenital heart defects. It is most often diagnosed in children or adults under age 40. People who have this problem with their aorta may also have a weak area in the wall of blood vessels in their brain. This weakness causes the blood vessel to bulge or balloon out. This is known as a berry aneurysm. These may rupture causing a certain type of stroke (due to bleeding). Coarctation of the aorta may be seen with other congenital heart defects, such as: Bicuspid aortic valve, Aortic stenosis, Ventricular septal defect, Patent ductus arteriosus , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000884-3" qtype="symptoms">What are the symptoms of Coarctation of the aorta ?</Question>
+			<Answer>Symptoms depend on how much blood can flow through the artery. Other heart defects may also play a role. About half of newborns with this problem will have symptoms in the first few days of life. These can include breathing fast, problems eating, increased irritability, and increased sleepiness or becoming poorly responsive. In severe cases, the infant may develop heart failure and shock. In milder cases, symptoms may not develop until the child has reached adolescence. Symptoms can include: Chest pain, Cold feet or legs,  Dizziness  or  fainting , Decreased ability to exercise, Failure to thrive,  Leg cramps  with exercise,  Nosebleed , Poor growth, Pounding headache, Shortness of breath,  There may also be no symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000884-4" qtype="exams and tests">How to diagnose Coarctation of the aorta ?</Question>
+			<Answer>The health care provider will perform a physical exam and check the blood pressure and pulse in the arms and legs. The pulse in the groin (femoral) area or feet will be weaker than the pulse in the arms or neck (carotid). Sometimes, the femoral pulse may not be able to be felt at all., The blood pressure in the legs is usually less than in the arms. Blood pressure is usually higher in the arms after infancy.,  The provider will use a stethoscope to listen to the heart and check for murmurs. People with aortic coarctation often have a harsh-sounding murmur that can be heard underneath the left collar bone or from the back. Other types of murmurs may also be present. Coarctation is often discovered during a newborn's first exam or a well-baby exam. Taking the pulse in an infant is an important part of the exam, because there may not be any other symptoms until the child is older. Tests to diagnose this condition may include: Cardiac catheterization  and  aortography ,  Chest x-ray ,  Echocardiography  is the most common test to diagnose this condition, and it may also be used to monitor the person after surgery,  Heart CT  may be needed in older children,  MRI  or  MR angiography  of the chest may be needed in older children,  Both Doppler ultrasound and catheterization can be used to see if there are any differences in blood pressure in different areas of the aorta.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000884-5" qtype="treatment">What are the treatments for Coarctation of the aorta ?</Question>
+			<Answer>Most newborns with symptoms will have surgery either right after birth or soon afterward. They will first&#160;receive medicines to stabilize them. Children who are diagnosed when they are older will also need surgery. In most cases, the symptoms are not as severe, so more time can be taken to plan for surgery. During surgery, the narrowed part of the aorta will be removed or opened. If the problem area is small, the two free ends of the aorta may be reconnected. This is called an end-to-end  anastomosis ., If a large part of the aorta is removed, a graft or one of the patient's own arteries may be used to fill the gap. The  graft  may be man-made or be taken from a cadaver. ,  Sometimes, doctors will try to stretch open the narrowed part of the aorta by using a balloon that is widened inside the blood vessel. This type of procedure is called a  balloon angioplasty . It may be done instead of surgery, but it has a higher rate of failure. Older children usually need medicines to treat high blood pressure after surgery. Some will need lifelong treatment for this problem.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000884-6" qtype="outlook">What is the outlook for Coarctation of the aorta ?</Question>
+			<Answer>Coarctation of the aorta can be cured with surgery. Symptoms quickly get better after surgery. However, there is an increased risk for death due to heart problems among those who have had their aorta repaired. Lifelong follow-up with a cardiologist is recommended. Without treatment, most people die before age 40. For this reason, doctors most often recommend that the person has surgery before age 10. Most of the time, surgery to fix the coarctation is done during infancy. Narrowing or coarctation of the artery can return after surgery. This is more likely in people who had surgery as a newborn.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000884-7" qtype="complications">What are the complications of Coarctation of the aorta ?</Question>
+			<Answer>Complications that may occur before, during, or soon after surgery include: An area of the aorta becomes very large or balloons out ,  Tear in the wall of the aorta , Rupture of the aorta, Bleeding in the brain, Early development of  coronary artery disease  (CAD),  Endocarditis  (infection in the heart),  Heart failure , Hoarseness, Kidney problems, Paralysis of the lower half of the body (a rare complication of surgery to repair coarctation), Severe high blood pressure,  Stroke ,  Long-term complications include: Continued or repeated narrowing of the aorta, Endocarditis, High blood pressure , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000884-8" qtype="when to contact a medical professional">Do I need to see a doctor for Coarctation of the aorta ?</Question>
+			<Answer>Contact your provider if: You or your child has symptoms of coarctation of the aorta, You develop fainting or  chest pain  (these may be signs of a serious problem), </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000884-9" qtype="prevention">How to prevent Coarctation of the aorta ?</Question>
+			<Answer>There is no known way to prevent this disorder. However, being aware of your risk may lead to early&#160;diagnosis and treatment.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

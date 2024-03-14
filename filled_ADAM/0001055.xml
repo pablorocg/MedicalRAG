@@ -1,0 +1,16 @@
+<Document id="0001055" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001068.htm">
+ 
+<Focus>CSF leak</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Intracranial hypotension</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001055-1" qtype="information">Do you have information about CSF leak</Question>
+			<Answer>A CSF leak is an escape of the fluid that surrounds the brain and spinal cord. This fluid is called the cerebrospinal fluid (CSF).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

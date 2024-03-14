@@ -1,0 +1,48 @@
+<Document id="0003149" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003176.htm">
+ 
+<Focus>Polydactyly</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0152427</CUI>
+			<CUI>C2117329</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Extra digits</Synonym>
+		<Synonym>Supernumerary digits</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003149-1" qtype="information">What is (are) Polydactyly ?</Question>
+			<Answer>Polydactyly is a condition in which a person has more than 5 fingers per hand or 5 toes per foot.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003149-2" qtype="considerations">What to do for Polydactyly ?</Question>
+			<Answer>Having extra fingers or toes (6 or more) can occur on its own. There may not be any other symptoms or disease present. Polydactyly may be passed down in families. This trait involves only one&#160;gene that can cause several variations. African Americans, more than other ethnic groups, can inherit a 6th finger. In most cases, this is not caused by a genetic disease. Polydactyly can also occur with some genetic diseases. Extra digits may be poorly developed and attached by a small stalk. This most often occurs on the little finger side of the hand. Poorly formed digits are usually removed. Simply tying a tight string around the stalk can cause it to fall off in time if there are no bones in the digit. In some cases, the extra digits may be well-formed and can even function.  Larger digits may need surgery to be removed. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003149-3" qtype="causes">What causes Polydactyly ?</Question>
+			<Answer>Causes may include: Asphyxiating thoracic dystrophy, Carpenter syndrome,  Ellis-van Creveld syndrome  (chondroectodermal dysplasia), Familial polydactyly, Laurence-Moon-Biedl syndrome,  Rubinstein-Taybi syndrome , Smith-Lemli-Opitz syndrome,  Trisomy 13 , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003149-4" qtype="considerations">What to do for Polydactyly ?</Question>
+			<Answer>Having extra fingers or toes (6 or more) can occur on its own. There may not be any other symptoms or disease present. Polydactyly may be passed down in families. This trait involves only one&#160;gene that can cause several variations. African Americans, more than other ethnic groups, can inherit a 6th finger. In most cases, this is not caused by a genetic disease. Polydactyly can also occur with some genetic diseases. Extra digits may be poorly developed and attached by a small stalk. This most often occurs on the little finger side of the hand. Poorly formed digits are usually removed. Simply tying a tight string around the stalk can cause it to fall off in time if there are no bones in the digit. In some cases, the extra digits may be well-formed and can even function.  Larger digits may need surgery to be removed. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003149-5" qtype="when to contact a medical professional">Do I need to see a doctor for Polydactyly ?</Question>
+			<Answer>Most of the time, this condition is discovered at birth when the baby is still in the hospital.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003149-6" qtype="outlook">What is the outlook for Polydactyly ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,67 @@
+<Document id="0000958" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001360.htm">
+ 
+<Focus>Congenital toxoplasmosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0040560</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000958-1" qtype="information">What is (are) Congenital toxoplasmosis ?</Question>
+			<Answer>Congenital toxoplasmosis is a group of symptoms that occur when an unborn baby (fetus) is infected with the parasite  Toxoplasma gondii .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000958-2" qtype="causes">What causes Congenital toxoplasmosis ?</Question>
+			<Answer>Toxoplasmosis infection can be passed to a developing baby if the mother becomes infected while pregnant. The infection spreads to the developing baby across the placenta. Most of the time, the infection is mild in the mother. The woman may not be aware she has the parasite. However, infection of the developing baby can cause serious problems. Problems are worse if the infection occurs in early pregnancy.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000958-3" qtype="symptoms">What are the symptoms of Congenital toxoplasmosis ?</Question>
+			<Answer>Up to half babies who become infected with toxoplasmosis during the pregnancy are born early (prematurely). The infection can damage the baby's eyes, nervous system, skin, and ears.
+ Often, there are signs of infection at birth. However, babies with mild infections may not have symptoms for months or years after birth. If not treated, most children with this infection develop problems in their teens. Eye problems are common. Symptoms may include:
+ Enlarged liver and spleen
+ , Vomiting
+ , Eye damage from inflammation of the retina or other parts of the eye
+ , Feeding problems
+ , Hearing loss
+ , Jaundice (yellow skin)
+ , Low birth weight (intrauterine growth restriction)
+ , Skin rash (tiny red spots or bruising) at birth
+ , Vision problems
+ ,  Brain and nervous system damage ranges from very mild to severe, and may include: Seizures , Intellectual disability
+ , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000958-4" qtype="exams and tests">How to diagnose Congenital toxoplasmosis ?</Question>
+			<Answer>The health care provider will examine the baby. The baby may have: Swollen spleen and liver, Yellow skin (jaundice), Inflammation of the eyes, Fluid on the brain ( hydrocephalus ), Swollen lymph nodes ( lymphadenopathy ), Large head size ( macrocephaly ) or smaller-than-normal head size ( microcephaly ) ,  Tests that may be done during pregnancy include: Amniotic fluid  testing and  fetal blood testing ,  Antibody titer ,  Ultrasound of the abdomen ,  After birth, the following tests may be done on the baby: Antibody studies on  cord blood  and cerebrospinal fluid ,  CT scan  of the brain,  MRI scan  of the brain, Neurological exams, Standard eye exam, Toxoplasmosis test , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000958-5" qtype="treatment">What are the treatments for Congenital toxoplasmosis ?</Question>
+			<Answer>Spiramycin can treat infection in the pregnant mother. Pyrimethamine and sulfadiazine can treat a fetal infection (diagnosed during the pregnancy). Treatment of infants with congenital toxoplasmosis most often includes pyrimethamine, sulfadiazine, and leucovorin for one year. Infants are also sometimes given steroids if their vision is threatened or if the protein level in the spinal fluid is high.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000958-6" qtype="outlook">What is the outlook for Congenital toxoplasmosis ?</Question>
+			<Answer>The outcome depends on the extent of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000958-7" qtype="complications">What are the complications of Congenital toxoplasmosis ?</Question>
+			<Answer>Complications may include: Hydrocephalus,  Blindness  or severe visual disability, Severe intellectual disability or other neurological problems , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000958-8" qtype="when to contact a medical professional">Do I need to see a doctor for Congenital toxoplasmosis ?</Question>
+			<Answer>Contact your provider if you are pregnant and think you are at risk for the infection. (For example, toxoplasmosis infection can be passed from cats if you clean the cat's litter&#160;box.) Contact your provider if you are pregnant and have not had prenatal care.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000958-9" qtype="prevention">How to prevent Congenital toxoplasmosis ?</Question>
+			<Answer>Women who are pregnant or planning to become pregnant can be tested to find out if they are at risk for the infection. Pregnant women who have cats as house pets may be at higher risk. They should avoid contact with cat feces, or things that could be contaminated by insects exposed to cat feces (such as cockroaches and flies).
+ Also, cook meat until it is well done, and wash your hands after handling raw meat to avoid getting the parasite.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

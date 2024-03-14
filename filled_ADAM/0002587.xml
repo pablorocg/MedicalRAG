@@ -1,0 +1,19 @@
+<Document id="0002587" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007209.htm">
+ 
+<Focus>Meniscal allograft transplantation</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Meniscus transplant</Synonym>
+		<Synonym>Surgery - knee - meniscus transplant</Synonym>
+		<Synonym>Surgery - knee - cartilage</Synonym>
+		<Synonym>Arthroscopy - knee - meniscus transplant</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002587-1" qtype="information">Do you have information about Meniscal allograft transplantation</Question>
+			<Answer>Meniscal allograft transplantation is surgery in which a meniscus -- a c-shaped cartilage in the knee -- is placed into your knee. The new meniscus is taken from a person who has died (cadaver) and donated their tissue.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

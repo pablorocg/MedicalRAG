@@ -1,0 +1,61 @@
+<Document id="0003589" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000647.htm">
+ 
+<Focus>Sinusitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037199</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Acute sinusitis</Synonym>
+		<Synonym>Sinus infection</Synonym>
+		<Synonym>Sinusitis - acute</Synonym>
+		<Synonym>Sinusitis - chronic</Synonym>
+		<Synonym>Rhinosinusitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003589-1" qtype="information">What is (are) Sinusitis ?</Question>
+			<Answer>Sinusitis is present when the tissue lining the sinuses become swollen or inflamed. It occurs as the result of an inflammatory reaction or an infection from a virus, bacteria, or fungus.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003589-2" qtype="causes">What causes Sinusitis ?</Question>
+			<Answer>The sinuses are air-filled spaces in the skull. They are located behind the forehead, nasal bones, cheeks, and eyes. Healthy sinuses contain no bacteria or other germs. Most of the time, mucus is able to drain out and air is able to flow through the sinuses. When the sinus openings become blocked or too much mucus builds up, bacteria and other germs can grow more easily. Sinusitis can occur from one of these conditions: Small hairs (cilia) in the sinuses fail to properly move mucus out. This may be due to some medical conditions., Colds and allergies may cause too much mucus to be made or block the opening of the sinuses., A deviated nasal septum, nasal bone spur, or  nasal polyps  may block the opening of the sinuses. , Chronic infection can cause mucosal swelling and inflammation.,  There are three types of sinusitis: Acute sinusitis is when symptoms are present for 4 weeks or less. It is caused by bacteria growing in the sinuses., Chronic sinusitis is when the symptoms and swelling of the sinuses is present for longer than 3 months. It may be caused by bacteria or a fungus. , Subacute sinusitis is when the symptoms and swelling is present from 1 to 3 months.,  The following may increase the risk that an adult or child will develop sinusitis: Allergic rhinitis  or hay fever,  Cystic fibrosis , Going to day care, Diseases that prevent the cilia from working properly, Changes in altitude (flying or scuba diving),  Large adenoids , Smoking, Weakened immune system from HIV or  chemotherapy , Abnormal sinus structures , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003589-3" qtype="symptoms">What are the symptoms of Sinusitis ?</Question>
+			<Answer>The symptoms of acute sinusitis in adults very often follow a cold that does not get better or that gets worse after 7 to 10 days. Symptoms include: Bad breath or loss of smell, Cough, often worse at night, Fatigue and general feeling of being ill,  Fever ,  Headache , Pressure-like pain, pain behind the eyes,  toothache , or tenderness of the face, Nasal stuffiness and discharge, Sore throat and postnasal drip ,  Symptoms of chronic sinusitis are the same as those of acute sinusitis. However, the symptoms tend to be milder and last longer than 12 weeks. Symptoms of sinusitis in children include: Cold or respiratory illness that has been getting better and then begins to get worse, High fever, along with a darkened nasal discharge, that lasts for at least 3 days, Nasal discharge, with or without a cough, that has been present for more than 10 days and is not improving , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003589-4" qtype="exams and tests">How to diagnose Sinusitis ?</Question>
+			<Answer>The health care provider will examine you or your child for sinusitis by: Looking in the nose for signs of polyps, Shining a light against the sinus (transillumination) for signs of inflammation, Tapping over a sinus area to find infection ,  The provider may view the sinuses through a fiberoptic scope (called nasal  endoscopy  or rhinoscopy)&#160;to diagnose sinusitis. This is often done by doctors who specialize in ear, nose, and throat problems (ENTs). Imaging tests that may be used to decide on treatment are: A  CT scan  of the sinuses to help diagnose sinusitis or view the bones and tissues of the sinuses more closely, An  MRI  of the sinuses if there might be a tumor or fungal infection ,  Most of the time, regular x-rays of the sinuses do not diagnose sinusitis well. If you or your child has sinusitis that does not go away or keeps returning, other tests may include: Allergy testing , Blood tests for HIV or other tests for poor immune function, Ciliary function test, Nasal culture, Nasal  cytology ,  Sweat chloride tests  for cystic fibrosis , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003589-5" qtype="treatment">What are the treatments for Sinusitis ?</Question>
+			<Answer>SELF-CARE Try the  following steps to reduce stuffiness  in your sinuses: Apply a warm, moist washcloth to your face several times a day., Drink plenty of fluids to thin the mucus., Inhale steam 2 to 4 times per day (for example, while sitting in the bathroom with the shower running)., Spray with nasal saline several times per day., Use a humidifier., Use a Neti pot or saline squeeze bottle to flush the sinuses. ,  Be careful with use of over-the-counter spray nasal decongestants such as oxymetazoline (Afrin) or neosynephrine. They may help at first, but using them for more than 3 to 5 days can make nasal stuffiness worse and lead to dependence. To help ease sinus pain or pressure: Avoid flying when you are congested., Avoid temperature extremes, sudden changes in temperature, and bending forward with your head down., Try acetaminophen or ibuprofen. ,  MEDICINE AND OTHER TREATMENTS Most of the time, antibiotics are not needed for acute sinusitis. Most of these infections go away on their own. Even when antibiotics do help, they may only slightly reduce the time it takes for the infection to go away. Antibiotics are more likely to be prescribed sooner for: Children with nasal discharge, possibly with a cough, that is not getting better after 2 to 3 weeks, Fever higher than 102.2&#176;F (39&#176;C), Headache or pain in the face, Severe swelling around the eyes ,  Acute sinusitis should be treated for 5 to 10 days. Chronic sinusitis should be treated for 3 to 4 weeks. At some point, your provider will consider:  Other prescription medicines, More testing, Referral to an ear, nose, and throat or allergy specialist ,  Other treatments for sinusitis include: Allergy shots (immunotherapy) to help prevent the disease from returning, Avoiding allergy triggers, Nasal corticosteroid sprays and antihistamines to decrease swelling, especially if there are nasal polyps or allergies , Oral corticosteroids,  Surgery to enlarge the sinus opening and drain the sinuses may also be needed. You may consider this procedure if: Your symptoms do not go away after 3 months of treatment., You have more than 2 or 3 episodes of acute sinusitis each year. ,  Most fungal sinus infections need surgery. Surgery to repair a deviated septum or nasal polyps may prevent the condition from returning.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003589-6" qtype="outlook">What is the outlook for Sinusitis ?</Question>
+			<Answer>Most sinus infections can be cured with self-care measures and medical treatment. If you are having repeated attacks, you should be checked for causes such as nasal polyps or other problems, such as allergies.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003589-7" qtype="complications">What are the complications of Sinusitis ?</Question>
+			<Answer>Although very rare, complications may include: Abscess , Bone infection ( osteomyelitis ),  Meningitis , Skin infection around the eye ( orbital cellulitis ) , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003589-8" qtype="when to contact a medical professional">Do I need to see a doctor for Sinusitis ?</Question>
+			<Answer>Contact your provider if: Your symptoms last longer than 10 to 14 days or you have a cold that gets worse after 7 days., You have a severe headache that is not relieved by over-the-counter pain medicine., You have a fever., You still have symptoms after taking all of your antibiotics properly., You have any changes in your vision during a sinus infection.,  A green or yellow discharge does not mean that you definitely have a sinus infection or need antibiotics. Many people with this symptom recover fully without taking antibiotics.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003589-9" qtype="prevention">How to prevent Sinusitis ?</Question>
+			<Answer>The best way to prevent sinusitis is to avoid colds and flu or treat problems quickly. Control your allergies if you have them., Get an influenza vaccine each year., Reduce stress., Wash your hands often, particularly after shaking hands with others. ,  Other tips for preventing sinusitis: Avoid smoke and pollutants., Drink plenty of fluids to increase moisture in your body., Take decongestants during an upper respiratory infection., Treat allergies quickly and appropriately., Use a humidifier to increase moisture in your nose and sinuses. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

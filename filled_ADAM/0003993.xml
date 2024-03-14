@@ -1,0 +1,57 @@
+<Document id="0003993" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001092.htm">
+ 
+<Focus>Tracheal rupture</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0340222</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Torn tracheal mucosa</Synonym>
+		<Synonym>Bronchial rupture</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003993-1" qtype="information">What is (are) Tracheal rupture ?</Question>
+			<Answer>A tracheal or bronchial rupture is a tear or break in the windpipe (trachea) or bronchial tubes, the major airways leading to the lungs. A tear can also occur in the tissue lining the windpipe.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003993-2" qtype="causes">What causes Tracheal rupture ?</Question>
+			<Answer>The injury may be caused by: Infections ,  Sores (ulcerations) due to foreign objects ,  Trauma, such as a gunshot wound or automobile accident ,  Injuries to the trachea or bronchi also may occur during medical procedures (for example,&#160; bronchoscopy  and placement of a breathing tube). However, this is very uncommon.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003993-3" qtype="symptoms">What are the symptoms of Tracheal rupture ?</Question>
+			<Answer>People with trauma who develop a tracheal or bronchial rupture often have other injuries.  Symptoms may include: Coughing up blood , Bubbles of air that can be felt underneath the skin of the chest, neck, arms, and trunk ( subcutaneous emphysema )
+   , 
+Difficulty breathing
+   , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003993-4" qtype="exams and tests">How to diagnose Tracheal rupture ?</Question>
+			<Answer>The health care provider will perform a physical exam. Close attention will be paid to the symptoms of the rupture. Tests that may be done include: Neck and chest CT scan,  Chest x-ray ,  Bronchoscopy ,  CT angiography , Laryngoscopy, Contrast  esophagography  and  esophagoscopy , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003993-5" qtype="treatment">What are the treatments for Tracheal rupture ?</Question>
+			<Answer>People who have had a trauma will need to have their injuries treated. Injuries to the trachea often need to be repaired during surgery. Injuries to the smaller bronchi can sometimes be treated without surgery. A  collapsed lung  is treated with a chest tube connected to suction, which re-expands the lung. For people who have breathed a foreign body into the airways, bronchoscopy may be used to take out the object. Antibiotics are used in people with an infection in the part of the lung around the injury.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003993-6" qtype="outlook">What is the outlook for Tracheal rupture ?</Question>
+			<Answer>The outlook of injury due to trauma depends on the severity of other injuries. Operations to repair these injuries often have good results. The outlook is always better if the person does not have many chronic medical conditions. The outlook is good for people whose tracheal or bronchial disruption is due to causes such as a foreign object, which tend to have a good outcome. In the months or years after the injury, scarring at the injury site may cause problems, such as narrowing, which require other tests or procedures.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003993-7" qtype="complications">What are the complications of Tracheal rupture ?</Question>
+			<Answer>Major complications after surgery for this condition include: Infection ,  Long-term need of a ventilator ,  Narrowing of the airways ,  Scarring , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003993-8" qtype="when to contact a medical professional">Do I need to see a doctor for Tracheal rupture ?</Question>
+			<Answer>Contact your provider if you have:  Had a major injury to the chest ,  Inhaled a foreign body ,  Symptoms of a chest infection ,  The feeling of air bubbles underneath your skin and trouble breathing , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

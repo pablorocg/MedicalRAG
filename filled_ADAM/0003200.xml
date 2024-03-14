@@ -1,0 +1,35 @@
+<Document id="0003200" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000556.htm">
+ 
+<Focus>Premenstrual syndrome - self-care</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0033046</CUI>
+			<CUI>C0376356</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PMS - self-care</Synonym>
+		<Synonym>Premenstrual dysphoric disorder - self-care</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003200-1" qtype="information">What is (are) Premenstrual syndrome - self-care ?</Question>
+			<Answer>Premenstrual syndrome, or PMS , refers to a set of symptoms that most often:  Start during the second half of a woman's menstrual cycle (14 or more days after the first day of your last menstrual period), Go away within 1 to 2 days after your menstrual period starts , </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003200-2" qtype="symptoms">What are the symptoms of Premenstrual syndrome - self-care ?</Question>
+			<Answer>Keeping a calendar or diary of your symptoms can help you identify the symptoms that are causing you the most trouble. Writing down your symptoms on a calendar can help you understand possible triggers for your symptoms. It can also help your health care provider choose an approach that is most helpful for you. In your diary or calendar, be sure to record:  The type of symptoms you are having, How severe your symptoms are, How long your symptoms last, Whether your symptoms respond to a treatment you tried , At what point during your cycle your symptoms occur,  You may need to try different things to treat PMS. Some things you try may work, and others may not. Keeping track of your symptoms may help you find the treatments that work best for you.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003200-6" qtype="when to contact a medical professional">Do I need to see a doctor for Premenstrual syndrome - self-care ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,57 @@
+<Document id="0002820" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000752.htm">
+ 
+<Focus>Normal pressure hydrocephalus</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0460139</CUI>
+			<CUI>C0020258</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hydrocephalus - idiopathic</Synonym>
+		<Synonym>Hydrocephalus - adult</Synonym>
+		<Synonym>Hydrocephalus - communicating</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002820-1" qtype="information">What is (are) Normal pressure hydrocephalus ?</Question>
+			<Answer>Hydrocephalus is a buildup of spinal fluid inside the fluid chambers of the brain. Hydrocephalus means "water on the brain." Normal pressure  hydrocephalus  (NPH) is a rise in the amount of cerebrospinal fluid (CSF) in the brain that affects brain function. However, the pressure of the fluid is usually normal.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002820-2" qtype="causes">What causes Normal pressure hydrocephalus ?</Question>
+			<Answer>There is no known cause for NPH. But the chance of developing NPH is high in someone who has had any of the following: Bleeding from a blood vessel or  aneurysm  in the brain ( subarachnoid hemorrhage ), Certain head injuries,  Meningitis  or similar infections, Surgery on the brain ( craniotomy ),  As CSF builds up in the brain, the fluid-filled chambers (ventricles) of the brain swell. This causes pressure on brain tissue. This can damage or destroy parts of the brain.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002820-3" qtype="symptoms">What are the symptoms of Normal pressure hydrocephalus ?</Question>
+			<Answer>Symptoms of NPH often begin slowly. There are three main symptoms of NPH: Changes in the way a person walks: difficulty when beginning to walk (gait apraxia), feeling as if your feet are stuck to the ground (magnetic gait), Slowing of mental function: forgetfulness, difficulty paying attention, apathy or no mood, Problems controlling urine ( urinary incontinence ), and sometimes controlling stools ( bowel incontinence ) ,  Diagnosis of NPH can be made if any of the above symptoms occur and NPH is suspected and testing is done.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002820-4" qtype="exams and tests">How to diagnose Normal pressure hydrocephalus ?</Question>
+			<Answer>The health care provider will perform a physical examination and ask about the symptoms. If you have NPH, the provider will likely find that your walking (gait) is not normal. You may also have memory problems.  Tests that may be done include: Head CT scan  or  MRI of the head ,  Lumbar puncture  (spinal tap) with careful testing of walking before and right after the spinal tap, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002820-5" qtype="treatment">What are the treatments for Normal pressure hydrocephalus ?</Question>
+			<Answer>Treatment for NPH usually requires surgery to place a tube called a shunt that routes the excess CSF out of the brain ventricles and into the abdomen. This is called a  ventriculoperitoneal shunt .</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002820-6" qtype="outlook">What is the outlook for Normal pressure hydrocephalus ?</Question>
+			<Answer>Without treatment, symptoms often get worse and could lead to death. Surgery improves symptoms in some people. Those with mild symptoms have the best outcome. Walking is the symptom most likely to improve.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002820-7" qtype="complications">What are the complications of Normal pressure hydrocephalus ?</Question>
+			<Answer>Problems that may result from NPH or its treatment include: Complications of surgery (infection, bleeding, shunt that does not work well), Loss of brain function ( dementia ) that becomes worse over time, Injury from falls, Shortened life span , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002820-8" qtype="when to contact a medical professional">Do I need to see a doctor for Normal pressure hydrocephalus ?</Question>
+			<Answer>Call your provider if: You or a loved one is having increasing problems with memory, walking, or urine incontinence., A person with NPH worsens to the point where you are unable to care for the person yourself. ,  Go to the emergency room or call 911 or the local emergency number if a sudden  change in mental status  occurs. This may mean that another disorder has developed.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

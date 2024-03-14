@@ -1,0 +1,48 @@
+<Document id="0000017" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007504.htm">
+ 
+<Focus>Abdominal pain - children under age 12</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0000737</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Stomach pain in children</Synonym>
+		<Synonym>Pain - abdomen - children</Synonym>
+		<Synonym>Abdominal cramps inchildren</Synonym>
+		<Synonym>Belly ache in children</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000017-1" qtype="information">What is (are) Abdominal pain - children under age 12 ?</Question>
+			<Answer>Almost all children have abdominal pain at one time or another. Abdominal pain is pain in the stomach or belly area. It can be anywhere between the chest and groin.  Most of the time, it is not caused by a serious medical problem. But sometimes abdominal pain can be a sign of something serious. Learn when you should seek medical care right away for your child with abdominal pain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000017-2" qtype="considerations">What to do for Abdominal pain - children under age 12 ?</Question>
+			<Answer>When your child complains of abdominal pain, see if they can describe it to you. Here are different kinds of pain: Generalized pain or pain over more than half of the belly. Your child can have this kind of pain when they have a stomach virus, indigestion, gas, or when they become constipated., Cramp-like pain is likely to be due to gas and bloating. It is often followed by diarrhea. It is usually not serious., Colicky pain is pain that comes in waves, usually starts and ends suddenly, and is often severe., Localized pain is pain in only one area of the belly. Your child may be having problems with their appendix, gallbladder, a hernia (twisted bowel), ovary, testicles, or stomach (ulcers). ,  If you have an infant or toddler, your child depends on you seeing that they are in pain. Suspect abdominal pain if your child is: More fussy than usual, Drawing their legs up toward the belly, Eating poorly , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000017-3" qtype="causes">What causes Abdominal pain - children under age 12 ?</Question>
+			<Answer>Your child could have abdominal pain for many reasons. It can be hard to know what is going on when your child has abdominal pain. Most of the time, there is nothing seriously wrong. But sometimes, it can be a sign that there is something serious and your child needs medical care. Your child most likely is having abdominal pain from something that is not life threatening. For example, your child may have: Air swallowing, Abdominal migraine, Colic,  Constipation , Gas, Food allergy or  intolerance , Food poisoning, Heartburn or acid reflux, Ingesting grass or plants, Mononucleosis ("mono"), Stomach flu, Strep throat, Pain caused by anxiety or depression ,  Your child may have something more serious if the pain does not get better in 24 hours, gets worse or gets more frequent. Abdominal pain can be a sign of: Accidental poisoning ,  Appendicitis , Gallstones, Hernia or other  bowel twisting, blockage, or obstruction , Inflammatory bowel disease (Crohn disease or ulcerative colitis), Intussusception, caused by part of the intestine being pulled inward into itself, Pregnancy, Sickle cell disease crisis, Stomach ulcer, Swallowed foreign bodies, especially coins or other solid objects, Torsion (twisting) of the ovary, Torsion (twisting) of the testicle, Tumor or cancer, Unusual inherited metabolic disorders (such as abnormal accumulation of protein and sugar breakdown products), Urinary tract infection , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000017-4" qtype="considerations">What to do for Abdominal pain - children under age 12 ?</Question>
+			<Answer>When your child complains of abdominal pain, see if they can describe it to you. Here are different kinds of pain: Generalized pain or pain over more than half of the belly. Your child can have this kind of pain when they have a stomach virus, indigestion, gas, or when they become constipated., Cramp-like pain is likely to be due to gas and bloating. It is often followed by diarrhea. It is usually not serious., Colicky pain is pain that comes in waves, usually starts and ends suddenly, and is often severe., Localized pain is pain in only one area of the belly. Your child may be having problems with their appendix, gallbladder, a hernia (twisted bowel), ovary, testicles, or stomach (ulcers). ,  If you have an infant or toddler, your child depends on you seeing that they are in pain. Suspect abdominal pain if your child is: More fussy than usual, Drawing their legs up toward the belly, Eating poorly , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000017-5" qtype="when to contact a medical professional">Do I need to see a doctor for Abdominal pain - children under age 12 ?</Question>
+			<Answer>Contact your provider if the abdominal pain does not go away in 24 hours. Seek medical help right away or call your local emergency number (such as 911) if your child: Is a baby younger than 3 months and has diarrhea or vomiting, Is currently being treated for cancer, Is unable to pass stool, especially if your child is also vomiting, Is vomiting blood or has blood in the stool (especially if the blood is maroon or a dark, tarry black color), Has sudden, sharp abdominal pain, Has a rigid, hard belly, Has had a recent injury to the abdomen, Is having trouble breathing,  Contact your provider if your child has: Abdominal pain that lasts 1 week or longer, even if it comes and goes., Abdominal pain that does not improve in 24 hours. Contact your provider if it is getting more severe and frequent, or if your child is nauseous and vomiting with it., A burning sensation during urination., Diarrhea for more than 2 days., Vomiting for more than 12 hours., Fever over 100.4&#176;F (38&#176;C)., Poor appetite for more than 2 days., Unexplained weight loss., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000017-6" qtype="outlook">What is the outlook for Abdominal pain - children under age 12 ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,65 @@
+<Document id="0001030" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001593.htm">
+ 
+<Focus>Cri du chat syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010314</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Chromosome 5p deletion syndrome</Synonym>
+		<Synonym>5p minus syndrome</Synonym>
+		<Synonym>Cat cry syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001030-1" qtype="information">What is (are) Cri du chat syndrome ?</Question>
+			<Answer>Cri du chat syndrome is a group of symptoms that result from missing a piece of  chromosome  number 5. The syndrome's name is based on the infant's cry, which is high-pitched and sounds like a cat.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001030-2" qtype="causes">What causes Cri du chat syndrome ?</Question>
+			<Answer>Cri du chat syndrome is rare. It is caused by a missing piece of chromosome 5. Most cases are believed to occur during the development of the egg or sperm. A small number of cases occur when a parent passes a different, rearranged form of the chromosome to their child.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001030-3" qtype="symptoms">What are the symptoms of Cri du chat syndrome ?</Question>
+			<Answer>Symptoms include: Cry that is high-pitched and may sound like a cat, Downward slant to the eyes,  Epicanthal folds , an extra fold of skin over the inner corner of the eye, 
+   Low birth weight and slow growth,  Low-set or abnormally shaped ears , Hearing loss, Heart defects,  Intellectual disability , Partial webbing or fusing of fingers or toes, Curvature of the spine (scoliosis), Single line in the palm of the hand, Skin tags just in front of the ear, Slow or incomplete development of motor skills, Small head ( microcephaly ), Small jaw ( micrognathia ), Wide-set eyes, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001030-4" qtype="exams and tests">How to diagnose Cri du chat syndrome ?</Question>
+			<Answer>Your health care provider will perform a physical exam. This may show: Inguinal hernia ,  Diastasis recti  (separation of the muscles in the belly area), Low muscle tone, Characteristic facial features,  Genetic tests can show a missing part of chromosome 5. Skull x-ray may reveal any problems with the shape of the base of the skull.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001030-5" qtype="treatment">What are the treatments for Cri du chat syndrome ?</Question>
+			<Answer>There is no specific treatment. Your provider will suggest ways to treat or manage the symptoms. Parents of a child with this syndrome should have genetic counseling and testing to determine if one parent has a change in chromosome 5.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001030-6" qtype="support groups">Where to find support for people with Cri du chat syndrome ?</Question>
+			<Answer>More information and support for people with Cri du chat syndrome and their families can be found at: 5P- Society --  fivepminus.org , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001030-7" qtype="outlook">What is the outlook for Cri du chat syndrome ?</Question>
+			<Answer>Intellectual disability is common. One half of children with this syndrome learn enough verbal skills to communicate. The cat-like cry becomes less noticeable over time.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001030-8" qtype="complications">What are the complications of Cri du chat syndrome ?</Question>
+			<Answer>Complications depend on the amount of intellectual disability and physical problems. Symptoms may affect the person's ability to care for themselves.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001030-9" qtype="when to contact a medical professional">Do I need to see a doctor for Cri du chat syndrome ?</Question>
+			<Answer>This syndrome is most often diagnosed at birth. Your provider will discuss your baby's symptoms with you. It is important to continue regular visits with the child's providers after leaving the hospital. Genetic counseling and testing is recommended for all people with a family history of this syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0001030-10" qtype="prevention">How to prevent Cri du chat syndrome ?</Question>
+			<Answer>There is no known prevention. Couples with a family history of this syndrome who wish to become pregnant may consider genetic counseling.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

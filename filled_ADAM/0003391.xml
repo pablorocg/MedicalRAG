@@ -1,0 +1,40 @@
+<Document id="0003391" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002960.htm">
+ 
+<Focus>Retinal detachment repair</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0595950</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Scleral buckling</Synonym>
+		<Synonym>Vitrectomy</Synonym>
+		<Synonym>Pneumatic retinopexy</Synonym>
+		<Synonym>Laser retinopexy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003391-1" qtype="information">What is (are) Retinal detachment repair ?</Question>
+			<Answer>Retinal detachment repair is eye surgery to place a  retina  back into its normal position. The retina is the light-sensitive tissue in the back of the eye. Detachment means that it has pulled away from the layers of tissue around it.  This article describes the repair of rhegmatogenous retinal detachments. These occur due to a hole or tear in the retina.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003391-2" qtype="information">What is (are) Retinal detachment repair ?</Question>
+			<Answer>Retinal detachment repair is eye surgery to place a  retina  back into its normal position. The retina is the light-sensitive tissue in the back of the eye. Detachment means that it has pulled away from the layers of tissue around it.  This article describes the repair of rhegmatogenous retinal detachments. These occur due to a hole or tear in the retina.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003391-4" qtype="susceptibility">Who is at risk for Retinal detachment repair? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003391-6" qtype="outlook">What is the outlook for Retinal detachment repair ?</Question>
+			<Answer>Most of the time, the retina can be reattached with one operation. However, some people will need several surgeries. More than 9 out of 10 detachments can be repaired. Failure to repair the retina always results in loss of vision to some degree. When a detachment occurs, the photoreceptors (rods and cones) start to degenerate. The sooner the detachment is repaired, the sooner the retina will begin to recover. However, once the retina has detached, its rods and cones that detect light (the photoreceptors) may never recover completely. After surgery, the quality of vision depends on where the detachment occurred, and the cause: If the central area of vision (macula) was not involved, vision will usually be very good., If the macula was involved for less than 1 week, vision will usually be improved, but not to 20/20 (normal)., If the macula was detached for a long time, some vision will return, but it will be very impaired. Often, it will be less than 20/200, the limit for legal blindness. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

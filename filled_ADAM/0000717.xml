@@ -1,0 +1,16 @@
+<Document id="0000717" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003574.htm">
+ 
+<Focus>CEA blood test</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Carcinoembryonic antigen blood test</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000717-1" qtype="information">Do you have information about CEA blood test</Question>
+			<Answer>The carcinoembryonic antigen (CEA) test measures the level of CEA in the blood. CEA is a protein normally found in the tissue of a developing baby in the womb. The blood level of this protein disappears or becomes very low after birth. In adults, an abnormal level of CEA may be a sign of cancer.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

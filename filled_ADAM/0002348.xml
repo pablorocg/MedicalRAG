@@ -1,0 +1,41 @@
+<Document id="0002348" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002586.htm">
+ 
+<Focus>Laxative overdose</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0572322</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Laxative abuse</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002348-1" qtype="information">What is (are) Laxative overdose ?</Question>
+			<Answer>A laxative is a medicine used to produce bowel movements. Laxative overdose occurs when someone takes more than the normal or recommended amount of this medicine. This can be by accident or on purpose. Most laxative overdoses in children are accidental. However, some people regularly take overdoses of laxatives to try to lose weight. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with overdoses, call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002348-4" qtype="symptoms">What are the symptoms of Laxative overdose ?</Question>
+			<Answer>Nausea, vomiting, abdominal cramping, and diarrhea are the most common symptoms of a laxative overdose. Dehydration and electrolyte (body chemicals and minerals) imbalance are more common in children than adults. Below are symptoms specific to the actual product. Bisacodyl: Cramps, Diarrhea ,  Senna; Cascara sagrada: Abdominal pain, Bloody stools, Collapse, Diarrhea ,  Phenolphthalein: Abdominal pain, Collapse, Diarrhea, Dizziness, Drop in blood pressure,  Low blood sugar , Rash ,  Sodium phosphate: Abdominal pain, Collapse, Diarrhea, Muscle weakness, Vomiting ,  Magnesium-containing products: Abdominal pain, Collapse,  Coma , Death, Diarrhea (watery), Drop in blood pressure, Flushing, Gastrointestinal irritation, Muscle weakness, Painful bowel movements,  Painful urination , Slowed breathing, Thirst, Vomiting ,  Castor oil can cause gastrointestinal irritation. Mineral oil can cause aspiration pneumonia, a condition where vomited stomach contents are inhaled into the lungs. Products containing methylcellulose, carboxymethylcellulose, polycarbophil, or psyllium may cause choking or  intestinal blockage  if they are not taken with plenty of fluids.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002348-5" qtype="considerations">What to do for Laxative overdose ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002348-8" qtype="outlook">What is the outlook for Laxative overdose ?</Question>
+			<Answer>How well a person does depends on the type of laxative swallowed, how much was swallowed, and how much time passed before treatment was received. First-time laxative overdoses are rarely serious. Severe symptoms are most likely in people who abuse laxatives by taking large amounts to lose weight. Fluid and electrolyte imbalances may occur. Inability to control bowel movements may also develop. Laxatives containing magnesium can cause serious electrolyte and heart rhythm disturbances in people with impaired kidney function. These people may require the extra breathing support noted above.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002348-9" qtype="outlook">What is the outlook for Laxative overdose ?</Question>
+			<Answer>How well a person does depends on the type of laxative swallowed, how much was swallowed, and how much time passed before treatment was received. First-time laxative overdoses are rarely serious. Severe symptoms are most likely in people who abuse laxatives by taking large amounts to lose weight. Fluid and electrolyte imbalances may occur. Inability to control bowel movements may also develop. Laxatives containing magnesium can cause serious electrolyte and heart rhythm disturbances in people with impaired kidney function. These people may require the extra breathing support noted above.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

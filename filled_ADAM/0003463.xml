@@ -1,0 +1,16 @@
+<Document id="0003463" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003127.htm">
+ 
+<Focus>Satiety - early</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Abdominal fullness prematurely after meals</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003463-1" qtype="information">Do you have information about Satiety - early</Question>
+			<Answer>Satiety is the satisfied feeling of being full after eating. Early satiety is feeling full sooner than normal or after eating less than usual.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

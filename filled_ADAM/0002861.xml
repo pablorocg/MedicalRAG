@@ -1,0 +1,63 @@
+<Document id="0002861" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001024.htm">
+ 
+<Focus>Optic glioma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0346326</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Glioma - optic</Synonym>
+		<Synonym>Optic nerve glioma</Synonym>
+		<Synonym>Juvenile pilocytic astrocytoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002861-1" qtype="information">What is (are) Optic glioma ?</Question>
+			<Answer>Gliomas are tumors that grow in various parts of the brain. Optic gliomas can affect: One or both of the optic nerves that carry visual information to the brain from each eye, The optic chiasm, the area where the optic nerves cross each other in front of the hypothalamus of the brain ,  An optic glioma may also grow along with a  hypothalamic glioma .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002861-2" qtype="causes">What causes Optic glioma ?</Question>
+			<Answer>Optic gliomas are rare. The cause of optic gliomas is unknown. Most optic gliomas are slow-growing and noncancerous ( benign ) and occur in children, almost always before age 20. Most cases are diagnosed by 5 years of age. There is a strong association between optic glioma and neurofibromatosis type 1 ( NF1 ).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002861-3" qtype="symptoms">What are the symptoms of Optic glioma ?</Question>
+			<Answer>The symptoms are due to the tumor growing and pressing on the optic nerve and nearby structures. Symptoms may include: Involuntary eyeball movement, Outward bulging of one or both eyes, Squinting, Vision loss in one or both eyes that starts with the loss of  peripheral  vision and eventually leads to  blindness ,  The child may show symptoms of diencephalic syndrome, which includes:  Daytime sleeping, Decreased memory and brain function, Headaches, Delayed growth, Loss of body fat, Vomiting , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002861-4" qtype="exams and tests">How to diagnose Optic glioma ?</Question>
+			<Answer>A brain and nervous system (neurologic) examination reveals a loss of vision in one or both eyes. There may be changes in the optic nerve, including swelling or scarring of the nerve, or paleness and damage to the optic disc. The tumor may extend into deeper parts of the brain. There may be signs of increased pressure in the brain (intracranial pressure). There may be signs of  neurofibromatosis type 1  (NF1). The following tests may be performed: Cerebral angiography , Examination of tissue removed from the tumor during surgery or  CT  scan-guided  biopsy  to confirm the tumor type,  Head CT scan  or  MRI of the head , Visual field tests , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002861-5" qtype="treatment">What are the treatments for Optic glioma ?</Question>
+			<Answer>Treatment varies with the size of the tumor and the general health of the person. The goal may be to cure the disorder, relieve symptoms, or improve vision and comfort. Surgery to remove the tumor may cure some optic gliomas. Partial removal to reduce the size of the tumor can be done in many cases. This will keep the tumor from damaging normal brain tissue around it. Chemotherapy may be used in some children. Chemotherapy may be especially useful when the tumor extends into the hypothalamus or if vision has been worsened by the tumor's growth. Radiation therapy may be recommended in some cases when the tumor is growing despite chemotherapy, and surgery is not possible. In some cases, radiation therapy may be delayed because the tumor is slow growing. Children with NF1 usually won't receive radiation due to the side effects. Corticosteroids may be prescribed to reduce swelling and inflammation during radiation therapy, or if symptoms return.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002861-6" qtype="support groups">Where to find support for people with Optic glioma ?</Question>
+			<Answer>Organizations that provide support and additional information include: Children's Oncology Group --  www.childrensoncologygroup.org , Neurofibromatosis Network --  www.nfnetwork.org , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002861-7" qtype="outlook">What is the outlook for Optic glioma ?</Question>
+			<Answer>The outlook is very different for each person. Early treatment improves the chance of a good outcome. Careful follow-up with a care team experienced with this type of tumor is important. Once vision is lost from the growth of an optic tumor, it may not return. Normally, the growth of the tumor is very slow, and the condition remains stable for long periods. However, the tumor can continue to grow, so it must be monitored closely.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002861-8" qtype="complications">What are the complications of Optic glioma ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002861-9" qtype="when to contact a medical professional">Do I need to see a doctor for Optic glioma ?</Question>
+			<Answer>Contact your health care provider for any vision loss, painless bulging of the eye, or other symptoms of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0002861-10" qtype="prevention">How to prevent Optic glioma ?</Question>
+			<Answer>Genetic counseling may be advised for people with NF1. Regular eye exams may allow early diagnosis of these tumors before they cause symptoms.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

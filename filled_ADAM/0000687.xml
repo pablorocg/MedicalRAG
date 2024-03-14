@@ -1,0 +1,22 @@
+<Document id="0000687" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002581.htm">
+ 
+<Focus>Cardiac glycoside overdose</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Digoxin overdose</Synonym>
+		<Synonym>Digitoxin overdose</Synonym>
+		<Synonym>Lanoxin overdose</Synonym>
+		<Synonym>Purgoxin overdose</Synonym>
+		<Synonym>Allocar overdose</Synonym>
+		<Synonym>Corramedan overdose</Synonym>
+		<Synonym>Crystodigin overdose</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000687-1" qtype="information">Do you have information about Cardiac glycoside overdose</Question>
+			<Answer>Cardiac glycosides are medicines for treating heart failure and certain irregular heartbeats. They are one of several classes of drugs used to treat the heart and related conditions. These medicines are a common cause of poisoning. Cardiac glycoside overdose occurs when someone takes more than the normal or recommended amount of this medicine. This can be by accident or on purpose. Cardiac glycosides are found in several plants, including the leaves of the foxglove plant. This plant is the original source of the medicine digitalis. People who eat a large amount of these leaves may develop symptoms of an  overdose . Long-term (chronic) poisoning can occur in people who take cardiac glycosides every day. This can happen if someone develops kidney problems or becomes dehydrated (especially in the hot summer months). This problem usually occurs in older people. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with overdoses, call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

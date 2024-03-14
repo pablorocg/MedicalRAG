@@ -1,0 +1,52 @@
+<Document id="0000166" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001450.htm">
+ 
+<Focus>Alopecia areata</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002171</CUI>
+			<CUI>C0002170</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Alopecia totalis</Synonym>
+		<Synonym>Alopecia universalis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000166-1" qtype="information">What is (are) Alopecia areata ?</Question>
+			<Answer>Alopecia areata is a condition that causes round patches of hair loss. It can lead to total hair loss.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000166-2" qtype="causes">What causes Alopecia areata ?</Question>
+			<Answer>Alopecia areata is thought to be an  autoimmune condition . This occurs when the immune system mistakenly attacks and destroys healthy hair follicles. Some people with this condition have a family history of  alopecia . Alopecia areata is seen in men, women, and children. In a few people, hair loss may occur after a major life event such as an illness, pregnancy, or trauma.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000166-3" qtype="symptoms">What are the symptoms of Alopecia areata ?</Question>
+			<Answer>Hair loss is usually the only symptom. A few people may also feel a burning sensation or itching. Alopecia areata usually begins as one to several (1 cm to 4 cm) patches of hair loss. Hair loss is most often seen on the scalp. It may also occur in the beard, eyebrows, pubic hair, and arms or legs in some people. Nail pitting may also occur. Patches where hair has fallen out are smooth and round in shape. They may be peach-colored. Hairs that look like exclamation points are sometimes seen at the edges of a bald patch with a magnifying tool. If alopecia areata leads to total hair loss, it often occurs within 6 months after symptoms first start. This is called alopecia totalis when the entire scalp is involved, and alopecia universalis when the entire body is affected.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000166-4" qtype="exams and tests">How to diagnose Alopecia areata ?</Question>
+			<Answer>The health care provider will examine you and ask about your symptoms, focusing on areas where you have hair loss. A scalp  biopsy  may be done. Blood tests may also be done to check for autoimmune conditions and thyroid problems.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000166-5" qtype="treatment">What are the treatments for Alopecia areata ?</Question>
+			<Answer>If hair loss is not widespread, the hair will often regrow in a few months without treatment. For more severe hair loss, it is not clear how much treatment can help change the course of the condition. Common treatments may include: Steroid injection under the skin surface, Medicines applied to the skin, Ultraviolet light therapy ,  A wig may be used to hide areas of hair loss.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000166-6" qtype="outlook">What is the outlook for Alopecia areata ?</Question>
+			<Answer>Full recovery of hair is common. However, some people may have a poorer outcome, including those with: Alopecia areata that starts at a young age ,  Eczema ,  Long-term alopecia ,  Widespread or complete loss of scalp or body hair , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000166-7" qtype="when to contact a medical professional">Do I need to see a doctor for Alopecia areata ?</Question>
+			<Answer>Contact your provider if you are concerned about hair loss.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

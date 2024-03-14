@@ -1,0 +1,16 @@
+<Document id="0001925" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002939.htm">
+ 
+<Focus>Hemorrhoid surgery</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Hemorrhoidectomy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001925-1" qtype="information">Do you have information about Hemorrhoid surgery</Question>
+			<Answer>Hemorrhoids  are swollen veins around the anus. They may be inside the anus (internal hemorrhoids) or outside the anus (external hemorrhoids). Often hemorrhoids do not cause problems. But if hemorrhoids bleed a lot, cause pain, or become swollen, hard, and painful, surgery can remove them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

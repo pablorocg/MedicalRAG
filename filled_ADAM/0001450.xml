@@ -1,0 +1,66 @@
+<Document id="0001450" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000283.htm">
+ 
+<Focus>Esophageal cancer</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0546837</CUI>
+			<CUI>C0014859</CUI>
+			<CUI>C0152018</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cancer - esophagus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001450-1" qtype="information">What is (are) Esophageal cancer ?</Question>
+			<Answer>Esophageal cancer is cancer that starts in the esophagus. This is the tube through which food moves from the mouth to the stomach.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001450-2" qtype="causes">What causes Esophageal cancer ?</Question>
+			<Answer>Esophageal cancer is not common in the United States. It occurs most often in men over age 50 years. There are two main types of esophageal cancer, squamous cell carcinoma and adenocarcinoma. These two types look different from each other under the microscope. Squamous cell esophageal cancer is linked to smoking and  drinking too much alcohol. Adenocarcinoma is the more common type of esophageal cancer. Having  Barrett esophagus  increases the risk for this type of cancer. Acid reflux disease ( gastroesophageal reflux disease , or GERD) can develop into Barrett esophagus. Other risk factors include smoking, being male, or being obese.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001450-3" qtype="symptoms">What are the symptoms of Esophageal cancer ?</Question>
+			<Answer>Symptoms may include any of the following: Backward movement of food through the esophagus and possibly mouth (regurgitation), Chest pain not related to eating, Difficulty swallowing solids or liquids,  Heartburn ,  Vomiting blood , Weight loss , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001450-4" qtype="exams and tests">How to diagnose Esophageal cancer ?</Question>
+			<Answer>Tests used to help diagnose esophageal cancer may include: 
+   Series of x-rays taken to examine the esophagus ( barium swallow ),  Chest MRI  or  thoracic CT  (usually used to help determine the stage of the disease),  Endoscopic  ultrasound (also sometimes used to determine the stage of disease), 
+   Test to examine and remove a sample of the lining of the esophagus ( esophagogastroduodenoscopy , EGD),  PET scan  (sometimes useful for determining the stage of disease, and whether surgery is possible) ,  Stool testing may show small amounts of blood in the stool.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001450-5" qtype="treatment">What are the treatments for Esophageal cancer ?</Question>
+			<Answer> 
+ EGD will be used to obtain a tissue sample from the esophagus to diagnose cancer. When the cancer is only in the esophagus and has not spread, surgery may be done. The cancer and part, or all, of the esophagus is removed. The surgery may be done using: Open surgery , during which 1 or 2 larger incisions are made.,  Minimally invasive surgery , during which 2 to 4 small incisions are made in the belly. A laparoscope with a tiny camera is inserted into the belly through one of the incisions.,  Radiation therapy may also be used instead of surgery in some cases when the cancer has not spread outside the esophagus. Either chemotherapy, radiation, or both may be used to shrink the tumor and make surgery easier to perform. If the person is too ill to have major surgery or the cancer has spread to other organs, chemotherapy or radiation may be used to help reduce symptoms. This is called palliative therapy. In such cases, the disease is usually not curable. Besides a change in diet, other treatments that may be used to help the patient swallow include: Dilating (widening) the esophagus using an endoscope. Sometimes a  stent  is placed to keep the esophagus open., A feeding tube into the stomach., Photodynamic therapy, in which a special drug is injected into the tumor and is then exposed to light. The light activates the medicine that attacks the tumor., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001450-6" qtype="support groups">Where to find support for people with Esophageal cancer ?</Question>
+			<Answer>You can ease the stress of illness by joining a  cancer support group . Sharing with others who have common experiences and problems can help you not feel alone</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001450-7" qtype="outlook">What is the outlook for Esophageal cancer ?</Question>
+			<Answer>When the cancer has not spread outside the esophagus, surgery may improve the chance of survival. When the cancer has spread to other areas of the body, a cure is generally not possible. Treatment is directed toward relieving symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001450-8" qtype="complications">What are the complications of Esophageal cancer ?</Question>
+			<Answer>Complications may include: Pneumonia, Severe weight loss from not eating enough , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001450-9" qtype="when to contact a medical professional">Do I need to see a doctor for Esophageal cancer ?</Question>
+			<Answer>Contact your health care provider if you have difficulty swallowing with no known cause and it does not get better. Also contact your provider if you have other symptoms of esophageal cancer.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0001450-10" qtype="prevention">How to prevent Esophageal cancer ?</Question>
+			<Answer>To reduce your risk of cancer of the esophagus: Do not smoke., Limit or do not drink alcoholic beverages., Get checked by your doctor if you have severe GERD., Get regular checkups if you have Barrett esophagus., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

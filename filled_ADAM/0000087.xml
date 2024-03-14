@@ -1,0 +1,17 @@
+<Document id="0000087" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003011.htm">
+ 
+<Focus>Adenoid removal</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Adenoidectomy</Synonym>
+		<Synonym>Removal of adenoid glands</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000087-1" qtype="information">Do you have information about Adenoid removal</Question>
+			<Answer>Adenoid removal is surgery to take out the adenoid glands. The adenoid glands sit behind your nose above the roof of your mouth in the nasopharynx. Air passes over these glands when you take a breath. The adenoids are often taken out at the same time as the tonsils ( tonsillectomy ). Adenoid removal is also called adenoidectomy. The procedure is most often done in children.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,59 @@
+<Document id="0002001" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000580.htm">
+ 
+<Focus>Hodgkin lymphoma</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019829</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lymphoma - Hodgkin</Synonym>
+		<Synonym>Hodgkin disease</Synonym>
+		<Synonym>Cancer - Hodgkin lymphoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002001-1" qtype="information">What is (are) Hodgkin lymphoma ?</Question>
+			<Answer>Hodgkin lymphoma is a cancer of lymph tissue. Lymph tissue is found in the lymph nodes, spleen, liver, bone marrow, and other sites.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002001-2" qtype="causes">What causes Hodgkin lymphoma ?</Question>
+			<Answer>The cause of Hodgkin lymphoma is not known. Hodgkin lymphoma is most common among people 15 to 35 years old and 50 to 70 years old. Past infection with the Epstein-Barr virus (EBV) is thought to contribute to some cases. People with HIV infection are at increased risk compared to the general population.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002001-3" qtype="symptoms">What are the symptoms of Hodgkin lymphoma ?</Question>
+			<Answer>The first sign of Hodgkin lymphoma is often a painless swollen lymph node that appears without a known cause. The disease can spread to nearby lymph nodes. Later it may spread to the spleen, liver, bone marrow, or other organs. Symptoms may include any of the following: Feeling very tired all the time, Fever and chills that come and go, Itching all over the body that cannot be explained, Loss of appetite, Drenching night sweats, Painless swelling of the lymph nodes in the neck, armpits, or groin ( swollen glands ), Weight loss that cannot be explained ,  Other symptoms that may occur with this disease: Coughing, chest pains, or breathing problems if there are swollen lymph nodes in the chest, Excessive sweating, Pain or feeling of fullness below the ribs due to swollen spleen or liver, Pain in lymph nodes after drinking alcohol, Skin blushing or flushing ,  Symptoms caused by Hodgkin lymphoma may occur with other conditions. Talk to your health care provider about the meaning of your specific symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002001-4" qtype="exams and tests">How to diagnose Hodgkin lymphoma ?</Question>
+			<Answer>The provider will perform a physical exam and check body areas with lymph nodes to feel if they are swollen. The disease is often diagnosed after a biopsy of suspected tissue, usually a lymph node. The following procedures will usually be done: Blood chemistry tests  including liver function tests, kidney function tests, and lactate dehydrogenase (LDH), Erythrocyte sedimentation rate (ESR), Sed rate or ESR,  Bone marrow biopsy ,  CT scans  of the chest, abdomen, and pelvis,  Complete blood count  (CBC) to check for anemia and white blood count,  PET scan ,  If tests show that you have Hodgkin lymphoma, more tests may be done to see how far the cancer has spread. This is called staging. Staging helps guide treatment and follow-up.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002001-5" qtype="treatment">What are the treatments for Hodgkin lymphoma ?</Question>
+			<Answer>Treatment depends on the following: The type of Hodgkin lymphoma, The  stage  (where the disease has spread), Your age and other medical issues, Other factors, including weight loss, night sweats, and fever,  You may receive  chemotherapy ,  radiation therapy , or both, or  immunotherapy . Your provider can tell you more about your specific treatment. High-dose chemotherapy may be given when Hodgkin lymphoma returns after treatment or does not respond to the first treatment. This is followed by a  stem cell transplant  that uses your own stem cells.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002001-6" qtype="support groups">Where to find support for people with Hodgkin lymphoma ?</Question>
+			<Answer>You can ease the stress of illness by joining a  cancer support group . Sharing with others who have common experiences can help you not feel alone.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002001-7" qtype="outlook">What is the outlook for Hodgkin lymphoma ?</Question>
+			<Answer>Hodgkin lymphoma is one of the most curable cancers. Cure is even more likely if it is diagnosed and treated early. Unlike other cancers, Hodgkin lymphoma is also very curable in its late stages. You will need to have regular exams for years after your treatment. This helps your provider check for signs of the cancer returning and for any long-term treatment effects.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002001-8" qtype="complications">What are the complications of Hodgkin lymphoma ?</Question>
+			<Answer>Treatments for Hodgkin lymphoma can have complications. Long-term complications of chemotherapy or radiation therapy include: Bone marrow diseases (such as leukemia), Heart disease, Inability to have children ( infertility ), Lung problems, Other cancers, Thyroid problems ,  Keep following up with a provider who knows about monitoring and preventing these complications. </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002001-9" qtype="when to contact a medical professional">Do I need to see a doctor for Hodgkin lymphoma ?</Question>
+			<Answer>Contact your provider if: You have symptoms of Hodgkin lymphoma, You have Hodgkin lymphoma and you have side effects from the treatment , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,60 @@
+<Document id="0003044" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000569.htm">
+ 
+<Focus>Pernicious anemia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002892</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Macrocytic achylic anemia</Synonym>
+		<Synonym>Congenital pernicious anemia</Synonym>
+		<Synonym>Juvenile pernicious anemia</Synonym>
+		<Synonym>Vitamin B12 deficiency (malabsorption)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003044-1" qtype="information">What is (are) Pernicious anemia ?</Question>
+			<Answer>Anemia is a condition in which the body does not have enough healthy red blood cells. Red blood cells provide oxygen to body tissues. There are many types of anemia. Pernicious anemia is a decrease in red blood cells that occurs when the intestines cannot properly absorb vitamin B12.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003044-2" qtype="causes">What causes Pernicious anemia ?</Question>
+			<Answer>Pernicious anemia is a type of vitamin B12 anemia. The body needs vitamin B12 to make red blood cells. You get this vitamin from eating foods such as meat, poultry, shellfish, eggs, and dairy products.  A special protein, called intrinsic factor (IF), binds vitamin B12 so that it can be absorbed in the intestines. This protein is released by cells in the stomach. When the stomach does not make enough intrinsic factor, the intestine cannot properly absorb vitamin B12. Common causes of pernicious anemia include: Weakened stomach lining (atrophic gastritis), An autoimmune condition in which the body's immune system attacks the actual intrinsic factor protein or the cells in the lining of your stomach that make it. ,  In rare cases, pernicious anemia is passed down through families. This is called congenital pernicious anemia. Babies with this type of anemia do not make enough intrinsic factor. Or they cannot properly absorb vitamin B12 in the small intestine.  In adults, symptoms of pernicious anemia are usually not seen until after age 30. The average age of diagnosis is age 60.  You are more likely to develop this disease if you: Are Scandinavian or Northern European, Have a family history of the condition ,  Certain diseases can also raise your risk. They include: Addison disease ,  Graves disease ,  Hypoparathyroidism ,  Hypothyroidism ,  Myasthenia gravis , Loss of normal function of ovaries before 40 years of age (primary ovarian failure),  Type 1 diabetes , Testicular dysfunction,  Vitiligo ,  Sj&#246;gren syndrome ,  Hashimoto disease ,  Celiac disease ,  Pernicious anemia can also occur after gastric bypass surgery.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003044-3" qtype="symptoms">What are the symptoms of Pernicious anemia ?</Question>
+			<Answer>Some people do not have symptoms. Symptoms may be mild.  They can include: Diarrhea  or constipation, Nausea, Vomiting,  Fatigue , lack of energy, or lightheadedness when standing up or with exertion,  Loss of appetite , Pale skin (mild jaundice),  Shortness of breath , mostly during exercise, Heartburn, Swollen, red tongue or bleeding gums ,  If you have a low vitamin B12 level for a long time, you can have nervous system damage. Symptoms can include: Confusion , Short-term memory loss, Depression, Loss of balance, Numbness and tingling in the hands and feet , Problems concentrating, Irritability,  Hallucinations , Delusions,  Optic nerve atrophy , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003044-4" qtype="exams and tests">How to diagnose Pernicious anemia ?</Question>
+			<Answer>The health care provider will perform a physical exam. Tests that may be done include:  Complete blood count (CBC) ,  Reticulocyte count ,  Lactate dehydrogenase (LDH)  level,  Serum bilirubin ,  Methylmalonic acid (MMA ) level,  Homocysteine level (amino acid found in blood) ,  Vitamin B12 level , Levels of antibodies against IF or the cells that make IF , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003044-5" qtype="treatment">What are the treatments for Pernicious anemia ?</Question>
+			<Answer>The goal of treatment is to increase your vitamin B12 level:  Treatment involves a shot of vitamin B12 once a month. People with severely low levels of B12 may need more shots in the beginning., Some people may be adequately treated by taking large doses of vitamin B12 supplements by mouth., A certain type of vitamin B12 may be given through the nose. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003044-6" qtype="outlook">What is the outlook for Pernicious anemia ?</Question>
+			<Answer>Most people often do well with treatment. It is important to start treatment early. Nerve damage can be permanent if treatment does not start within 6 months of symptoms. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003044-7" qtype="complications">What are the complications of Pernicious anemia ?</Question>
+			<Answer>People with pernicious anemia may have gastric polyps. They are also more likely to develop  gastric cancer  and gastric carcinoid tumors. People with pernicious anemia are more likely to have fractures of the back, upper leg, and upper forearm. Brain and nervous system problems may continue or be permanent if treatment is delayed. A woman with a low B12 level may have a false positive Pap smear. This is because vitamin B12 deficiency affects the way certain cells (epithelial cells) in the cervix look.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003044-8" qtype="when to contact a medical professional">Do I need to see a doctor for Pernicious anemia ?</Question>
+			<Answer>Contact your provider if you have symptoms of vitamin B12 deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003044-9" qtype="prevention">How to prevent Pernicious anemia ?</Question>
+			<Answer>There is no known way to prevent this type of vitamin B12 anemia. However, early detection and treatment can help reduce complications.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

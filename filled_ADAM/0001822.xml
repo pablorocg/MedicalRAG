@@ -1,0 +1,29 @@
+<Document id="0001822" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002379.htm">
+ 
+<Focus>Head circumference</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2145637</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Occipital-frontal circumference</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001822-1" qtype="information">What is (are) Head circumference ?</Question>
+			<Answer>During routine checkups, the distance is measured in centimeters or inches and compared with: Past measurements of a child's head circumference., Normal ranges for a child's sex and age (weeks, months), based on values that experts have obtained for normal growth rates of infants' and children's heads. ,  Measurement of the head circumference is an important part of routine well-baby care. During the well-baby exam, a change from the expected normal head growth may alert the health care provider of a possible problem. For example, a head that is larger than normal or that is increasing in size faster than normal may be a sign of several problems, including water on the brain (hydrocephalus). A very small head size (called  microcephaly ) or very slow growth rate may be a sign that the brain is not developing properly.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001822-2" qtype="information">What is (are) Head circumference ?</Question>
+			<Answer>During routine checkups, the distance is measured in centimeters or inches and compared with: Past measurements of a child's head circumference., Normal ranges for a child's sex and age (weeks, months), based on values that experts have obtained for normal growth rates of infants' and children's heads. ,  Measurement of the head circumference is an important part of routine well-baby care. During the well-baby exam, a change from the expected normal head growth may alert the health care provider of a possible problem. For example, a head that is larger than normal or that is increasing in size faster than normal may be a sign of several problems, including water on the brain (hydrocephalus). A very small head size (called  microcephaly ) or very slow growth rate may be a sign that the brain is not developing properly.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

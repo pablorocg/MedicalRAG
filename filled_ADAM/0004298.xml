@@ -1,0 +1,27 @@
+<Document id="0004298" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000503.htm">
+ 
+<Focus>When you are drinking too much - tips for cutting back</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3843660</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Alcohol - drinking too much</Synonym>
+		<Synonym>Alcohol use disorder - drinking too much</Synonym>
+		<Synonym>Alcohol abuse - drinking too much</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004298-1" qtype="information">What is (are) When you are drinking too much - tips for cutting back ?</Question>
+			<Answer>Health care providers consider you to be drinking more than is medically safe when you: Are a healthy man up to age 65 and drink: 5 or more drinks on one occasion monthly, or even weekly, More than 14 drinks in a week,  Are a healthy woman of all ages or a healthy man over age 65 and drink: 4 or more drinks on one occasion monthly, or even weekly, More than 7 drinks in a week, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

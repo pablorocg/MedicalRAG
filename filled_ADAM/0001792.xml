@@ -1,0 +1,49 @@
+<Document id="0001792" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003246.htm">
+ 
+<Focus>Hair loss</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002170</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Loss of hair</Synonym>
+		<Synonym>Alopecia</Synonym>
+		<Synonym>Baldness</Synonym>
+		<Synonym>Scarring alopecia</Synonym>
+		<Synonym>Non-scarring alopecia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001792-1" qtype="information">What is (are) Hair loss ?</Question>
+			<Answer>Partial or complete loss of hair is called alopecia.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001792-2" qtype="considerations">What to do for Hair loss ?</Question>
+			<Answer>Hair loss usually develops gradually. It may be patchy or all over (diffuse). Normally, you lose roughly 100 hairs from your head every day. The scalp contains about 100,000 hairs.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001792-3" qtype="causes">What causes Hair loss ?</Question>
+			<Answer>HEREDITY  Both men and women tend to lose hair thickness and amount as they age. This type of baldness is not usually caused by a disease. It is related to aging, heredity, and changes in the hormone testosterone. Inherited, or pattern baldness, affects many more  men  than  women . Male pattern baldness can occur at any time after puberty. About 80% of men show signs of male pattern baldness by age 70 years. PHYSICAL OR EMOTIONAL STRESS  Physical or emotional stress may cause one half to three quarters of scalp hair to shed. This kind of hair loss is called telogen effluvium. Hair tends to come out in handfuls when you shampoo, comb, or run your hands through your hair. You may not notice this for weeks to months after the episode of stress. Hair shedding decreases over 6 to 8 months. Telogen effluvium is usually temporary. But it can become long-term (chronic). Causes of this type of hair loss are: High fever or severe infection, Childbirth, Major surgery, major illness, sudden blood loss, Severe emotional stress, Crash diets, especially those that do not contain enough protein, Drugs, including retinoids, birth control pills, beta-blockers, calcium channel blockers, certain antidepressants, NSAIDs (including ibuprofen) ,  Some women ages 30 to 60 years may notice a thinning of the hair that affects the entire scalp. The hair loss may be heavier at first, and then gradually slow or stop. There is no known cause for this type of telogen effluvium. OTHER CAUSES Other causes of hair loss, especially if it is in an unusual pattern, include: Alopecia areata  (bald patches on the scalp, beard, and, possibly, eyebrows; eyelashes may fall out), Anemia, Autoimmune conditions such as  lupus , Burns, Certain infectious diseases such as  syphilis , Excessive shampooing and blow-drying, Hormone changes, Thyroid diseases, Nervous habits such as continual  hair pulling  or scalp rubbing,  Radiation therapy ,  Tinea capitis  (ringworm of the scalp), Tumor of the  ovary  or  adrenal glands , Hair styles that put too much tension on the hair follicles, Bacterial infections of the scalp , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001792-4" qtype="considerations">What to do for Hair loss ?</Question>
+			<Answer>Hair loss usually develops gradually. It may be patchy or all over (diffuse). Normally, you lose roughly 100 hairs from your head every day. The scalp contains about 100,000 hairs.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001792-5" qtype="when to contact a medical professional">Do I need to see a doctor for Hair loss ?</Question>
+			<Answer>Call your health care provider if you have any of the following: Losing hair in an unusual pattern, Losing hair rapidly or at an early age (for example, in your teens or twenties), Pain or itching with the hair loss, The skin on your scalp under the involved area is red, scaly, or otherwise abnormal, Acne, facial hair, or an abnormal menstrual cycle, You are a woman and have male pattern baldness, Bald spots on your beard or eyebrows, Weight gain or muscle weakness, intolerance to cold temperatures, or fatigue, Areas of infection on your scalp, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001792-6" qtype="outlook">What is the outlook for Hair loss ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

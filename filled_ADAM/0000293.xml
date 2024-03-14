@@ -1,0 +1,16 @@
+<Document id="0000293" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003402.htm">
+ 
+<Focus>Apgar score</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Newborn scoring</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000293-1" qtype="information">Do you have information about Apgar score</Question>
+			<Answer>Apgar is a quick test performed on a baby at 1 and 5 minutes after birth. The 1-minute score determines how well the baby tolerated the birthing process. The 5-minute score tells the health care provider how well the baby is doing outside the mother's womb.&#160;It also helps measure how well the baby responds if resuscitation is needed right after birth. In rare cases, the test will be done 10 minutes after birth.  Virginia Apgar, MD (1909-1974) introduced the Apgar score in 1952.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,44 @@
+<Document id="0001772" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003111.htm">
+ 
+<Focus>Groin pain</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0239783</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pain - groin</Synonym>
+		<Synonym>Lower abdominal pain</Synonym>
+		<Synonym>Genital pain</Synonym>
+		<Synonym>Perineal pain</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001772-1" qtype="information">What is (are) Groin pain ?</Question>
+			<Answer>Groin pain refers to discomfort in the area where the abdomen ends and the legs begin. This article focuses on groin pain in men. The terms "groin" and "testicle" are sometimes used interchangeably. But what causes pain in one area does not always cause pain in the other.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001772-2" qtype="causes">What causes Groin pain ?</Question>
+			<Answer>Common causes of groin pain include: Pulled muscle, tendon, or ligaments in the leg -- This problem often occurs in people who play sports such as hockey, soccer, and football. This condition is sometimes called "sports hernia" although the name is misleading since it is not an actual hernia. It may also involve pain in the testicles. Pain most often improves with rest and medicines.,  Hernia  -- This problem occurs when there is a weak spot in the wall of the abdominal muscle that allows internal organs to press through. Surgery is needed to correct the weak spot., Disease or injury to the hip joint. ,  Less common causes include: Inflammation of the  testicle  or  epididymitis  and related structures, Twisting of the spermatic cord that attaches to the testicle ( testicular torsion ),  Tumor of the testicle ,  Kidney stone , Inflammation of the small or large intestine, Skin infection,  Enlarged lymph glands ,  Urinary tract infection , Problem with the artery or vein in the groin (femoral artery or vein), </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001772-3" qtype="considerations">What to do for Groin pain ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001772-4" qtype="when to contact a medical professional">Do I need to see a doctor for Groin pain ?</Question>
+			<Answer>Contact your provider if: You have ongoing groin pain for no reason. , You have burning pain. , You have pain with  swelling of the scrotum ., Pain affects only one testicle for more than 1 hour, especially if it started suddenly., You have noticed changes such as a testicular growth or change in skin color., There is  blood in your urine ., </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001772-5" qtype="outlook">What is the outlook for Groin pain ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

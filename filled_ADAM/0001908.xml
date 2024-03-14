@@ -1,0 +1,27 @@
+<Document id="0001908" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003371.htm">
+ 
+<Focus>Hemoglobin derivatives</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1561562</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Methemoglobin</Synonym>
+		<Synonym>Carboxyhemoglobin</Synonym>
+		<Synonym>Sulfhemoglobin</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001908-1" qtype="information">What is (are) Hemoglobin derivatives ?</Question>
+			<Answer>Hemoglobin is a protein in red blood cells that moves oxygen and carbon dioxide between the lungs and body tissues. Hemoglobin derivatives are forms of  hemoglobin  altered by attachment of carbon monoxide or certain drugs. High levels of hemoglobin derivatives prevent adequate transport of oxygen and carbon dioxide and cause illness. This article discusses the test used to detect and measure the amount of hemoglobin derivatives in your blood.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

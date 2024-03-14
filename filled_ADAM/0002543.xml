@@ -1,0 +1,57 @@
+<Document id="0002543" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001599.htm">
+ 
+<Focus>Meatal stenosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0431750</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Urethral meatal stenosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002543-1" qtype="information">What is (are) Meatal stenosis ?</Question>
+			<Answer>Meatal stenosis is a narrowing of the opening of the urethra, the tube through which urine leaves the body.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002543-2" qtype="causes">What causes Meatal stenosis ?</Question>
+			<Answer>Meatal stenosis can affect both males and females. It is more common in males. In males, it is often caused by swelling and irritation (inflammation). In most cases, this problem occurs in newborns after  circumcision . Abnormal scar tissue can grow across the opening of the urethra, causing it to narrow. The problem may not be detected until the child is toilet trained. In adult men, the condition can result from surgery on the urethra, ongoing use of an  indwelling catheter , or a procedure to treat an enlarged prostate gland ( BPH ). In females, this condition is present at birth (congenital). Less commonly, meatal stenosis may also affect adult women.  Risks include: Having many endoscopic procedures ( cystoscopy ), Severe, long-term  atrophic vaginitis , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002543-3" qtype="symptoms">What are the symptoms of Meatal stenosis ?</Question>
+			<Answer>Symptoms include: Abnormal strength and direction of urine stream,  Bed wetting , Bleeding ( hematuria ) at end of urination,  Discomfort with urination  or straining with urination,  Incontinence  (day or night), Visible narrowing of the urethral opening in boys , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002543-4" qtype="exams and tests">How to diagnose Meatal stenosis ?</Question>
+			<Answer>In men and boys, a history and physical exam are enough to make the diagnosis. In girls, a  voiding cystourethrogram  may be done. The narrowing may also be found during a physical exam or when a health care provider tries to place a  Foley catheter . Other tests may include: Kidney and bladder  ultrasound ,  Urine analysis , Urine culture, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002543-5" qtype="treatment">What are the treatments for Meatal stenosis ?</Question>
+			<Answer>In females, meatal stenosis is most often treated in the provider's office. This is done using local anesthesia to numb the area. Then the opening of the urethra is widened (dilated) with special instruments. In boys, a minor outpatient surgery called meatoplasty is the treatment of choice. Dilation of the meatus may also be appropriate in some cases.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002543-6" qtype="outlook">What is the outlook for Meatal stenosis ?</Question>
+			<Answer>Most people will urinate normally after treatment.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002543-7" qtype="complications">What are the complications of Meatal stenosis ?</Question>
+			<Answer>Complications may include: Abnormal urine stream, Blood in the urine, Frequent urination, Painful urination, Urinary incontinence,  Urinary tract infections , Damage to bladder or kidney function in severe cases, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002543-8" qtype="when to contact a medical professional">Do I need to see a doctor for Meatal stenosis ?</Question>
+			<Answer>Contact your provider if your child has symptoms of this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002543-9" qtype="prevention">How to prevent Meatal stenosis ?</Question>
+			<Answer>If your baby boy has recently been circumcised, try to keep the diaper clean and dry. Avoid exposing the newly circumcised penis to any irritants. They may cause inflammation and narrowing of the opening.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

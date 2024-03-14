@@ -1,0 +1,41 @@
+<Document id="0002063" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002499.htm">
+ 
+<Focus>Hydrofluoric acid poisoning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0161695</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Fluorhydric acid</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002063-1" qtype="information">What is (are) Hydrofluoric acid poisoning ?</Question>
+			<Answer>Hydrofluoric acid is a chemical that is a very strong acid. It is usually in liquid form. Hydrofluoric acid is a caustic chemical that is highly corrosive, which means it immediately causes severe damage to tissues, such as burning or ulcers, on contact. This article discusses poisoning from swallowing, breathing in, or touching hydrofluoric acid. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or the local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002063-4" qtype="symptoms">What are the symptoms of Hydrofluoric acid poisoning ?</Question>
+			<Answer>From swallowing: Burns to the mouth and throat causing severe pain, Drooling, Breathing difficulty from throat and mouth swelling and burning, Abdominal pain, Vomiting blood , Chest pain, Collapse (from low blood pressure or shock), Irregular heartbeat,  From breathing in (inhaling) the acid: Bluish lips and fingernails (cyanosis), Chills, Chest tightness, Choking, Coughing blood, Rapid pulse, Dizziness, Fever, Weakness ,  If the poison touched your skin or eyes, you may have: Blisters, Burns, Pain, Vision loss ,  Hydrofluoric acid poisoning can have direct effects on the heart. It can lead to irregular, and sometimes life-threatening, heartbeats. People who come into contact with this poison are likely to have a combination of the listed symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002063-5" qtype="considerations">What to do for Hydrofluoric acid poisoning ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002063-8" qtype="outlook">What is the outlook for Hydrofluoric acid poisoning ?</Question>
+			<Answer>How well a person does depends on the amount of poison swallowed and how quickly treatment was received. The faster a person gets medical help, the better the chance for recovery. Hydrofluoric acid is especially dangerous. The most common accidents involving hydrofluoric acid cause severe burns on the skin and hands. The burns may be extremely painful. People will have a lot of scarring and some loss of function in the affected area. The person may need to be admitted to a hospital to continue treatment. Swallowing this poison can have severe effects on many parts of the body. Extensive damage to the mouth, throat, and stomach are possible. Holes (perforations) in the esophagus and stomach may cause serious infections in the chest and abdominal cavities, which may result in death. Surgery may be needed to repair the perforations. Cancer of the esophagus is a high risk in people who live after ingesting hydrofluoric acid.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002063-9" qtype="outlook">What is the outlook for Hydrofluoric acid poisoning ?</Question>
+			<Answer>How well a person does depends on the amount of poison swallowed and how quickly treatment was received. The faster a person gets medical help, the better the chance for recovery. Hydrofluoric acid is especially dangerous. The most common accidents involving hydrofluoric acid cause severe burns on the skin and hands. The burns may be extremely painful. People will have a lot of scarring and some loss of function in the affected area. The person may need to be admitted to a hospital to continue treatment. Swallowing this poison can have severe effects on many parts of the body. Extensive damage to the mouth, throat, and stomach are possible. Holes (perforations) in the esophagus and stomach may cause serious infections in the chest and abdominal cavities, which may result in death. Surgery may be needed to repair the perforations. Cancer of the esophagus is a high risk in people who live after ingesting hydrofluoric acid.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

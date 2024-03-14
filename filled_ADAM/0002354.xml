@@ -1,0 +1,13 @@
+<Document id="0002354" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000813.htm">
+ 
+<Focus>Learn about gluten-free diets</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002354-1" qtype="information">Do you have information about Learn about gluten-free diets</Question>
+			<Answer>On a gluten-free diet, you do not eat wheat, rye, and barley. These foods contain gluten, a type of protein. A gluten-free diet is the main treatment for  celiac disease . Some people believe a gluten-free diet can also help improve other health problems, but there is little research to support this idea.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,25 @@
+<Document id="0002696" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002153.htm">
+ 
+<Focus>Multiple sclerosis - resources</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026769</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Resources - multiple sclerosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002696-1" qtype="information">What is (are) Multiple sclerosis - resources ?</Question>
+			<Answer>The following organizations provide information on  multiple sclerosis : Multiple Sclerosis Association of America --  mymsaa.org , Multiple Sclerosis Foundation --  www.msfocus.org , National Institute of Neurological Disorders and Stroke --&#160; www.ninds.nih.gov/health-information/disorders/multiple-sclerosis , National Multiple Sclerosis Society --  www.nationalmssociety.org , US National Library of Medicine, MedlinePlus --  medlineplus.gov/multiplesclerosis.html , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

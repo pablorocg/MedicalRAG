@@ -1,0 +1,16 @@
+<Document id="0002892" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002191.htm">
+ 
+<Focus>Ostomy - resources</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Resources - ostomy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002892-1" qtype="information">Do you have information about Ostomy - resources</Question>
+			<Answer>The following organizations are good resources for information on ostomies: American Cancer Society --  www.cancer.org/treatment/treatments-and-side-effects/treatment-types/surgery/ostomies.html , American Society of Colon and Rectal Surgeons --  fascrs.org/patients/diseases-and-conditions/a-z/ostomy-expanded-version , National Institute of Diabetes and Digestive and Kidney Diseases --  www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel , United Ostomy Associations of America, Inc. --  www.ostomy.org/ , US National Library of Medicine, MedlinePlus --  medlineplus.gov/ostomy.html , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,50 @@
+<Document id="0000391" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001222.htm">
+ 
+<Focus>Bakers cyst</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010709</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Popliteal cyst</Synonym>
+		<Synonym>Bulge-knee</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000391-1" qtype="information">What is (are) Bakers cyst ?</Question>
+			<Answer>Baker cyst is a buildup of joint fluid (synovial fluid) that forms a swelling behind the knee.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000391-2" qtype="causes">What causes Bakers cyst ?</Question>
+			<Answer>A Baker cyst is caused by swelling in the knee. The swelling occurs due to an increase in synovial fluid. This fluid lubricates the knee joint. When pressure builds up, fluid squeezes into the back of the knee. Baker cyst commonly occurs with: A tear in the meniscal cartilage of the knee, Cartilage injuries, Knee arthritis (in older adults),  Rheumatoid arthritis , Other knee problems that cause knee swelling and synovitis, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000391-3" qtype="symptoms">What are the symptoms of Bakers cyst ?</Question>
+			<Answer>In most cases, a person may have no symptoms. A large cyst may cause some discomfort or stiffness. There may be a painless or painful  swelling  behind the knee. The cyst may feel like a water-filled balloon. Sometimes, the cyst may break open (rupture), causing pain, swelling, and bruising on the back of the knee and calf. It is important to know whether pain or swelling is caused by a Baker cyst or a blood clot. A  blood clot (deep venous thrombosis) &#160;can also cause pain, swelling, and bruising on the back of the knee and calf. A blood clot may be dangerous and requires medical attention right away.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000391-4" qtype="exams and tests">How to diagnose Bakers cyst ?</Question>
+			<Answer>During a physical exam, the health care provider will look for a soft lump in the back of the knee. If the cyst is small, comparing the affected knee to the normal knee can be helpful. There may be a decrease in range of motion caused by pain or by the size of the cyst. In some cases, there will be catching, locking, pain, or other signs and symptoms of a meniscal tear. Shining a light through the cyst (transillumination) can show that the growth is fluid filled. X-rays will not show the cyst or a  meniscal tear , but they will show other problems that may be present, including arthritis. MRIs can help the provider see the cyst and look for any meniscal injury or other problems that caused the cyst.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000391-5" qtype="treatment">What are the treatments for Bakers cyst ?</Question>
+			<Answer>Often, no treatment is needed. The provider can watch the cyst over time. If the cyst is painful, the goal of treatment is to correct the problem that is causing the cyst. Sometimes, a steroid injection to the knee can help reduce the swelling. Sometimes, a cyst can be drained ( aspirated ), however, the cyst often returns. In rare cases, it is removed with surgery if it becomes very large or causes symptoms. The cyst has a high chance of returning if the underlying cause is not addressed. The surgery may also damage nearby blood vessels and nerves.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000391-6" qtype="outlook">What is the outlook for Bakers cyst ?</Question>
+			<Answer>A Baker cyst will not cause any long-term harm, but it can be annoying and painful. The symptoms of Baker cysts often come and go. Long-term disability is rare. Most people improve with time or with surgery.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000391-7" qtype="when to contact a medical professional">Do I need to see a doctor for Bakers cyst ?</Question>
+			<Answer>Contact your provider if you have swelling behind the knee that becomes large or painful. Pain could be a sign of infection. Also call your provider when you have increased swelling in your calf and leg and shortness of breath. This can be a sign of blood clots. If the lump grows quickly, or you have night pain, severe pain, or fever, you will need more tests to make sure you do not have other types of tumors.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

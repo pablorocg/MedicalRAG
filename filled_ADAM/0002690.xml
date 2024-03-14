@@ -1,0 +1,61 @@
+<Document id="0002690" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000186.htm">
+ 
+<Focus>Multifocal atrial tachycardia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221158</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Chaotic atrial tachycardia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002690-1" qtype="information">What is (are) Multifocal atrial tachycardia ?</Question>
+			<Answer>Multifocal atrial tachycardia (MAT) is a  rapid heart rate . It occurs when too many signals (electrical impulses) are sent from the upper heart (atria) to the lower heart (ventricles).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002690-2" qtype="causes">What causes Multifocal atrial tachycardia ?</Question>
+			<Answer>The human heart gives off electrical impulses, or signals, which tell it to beat. Normally, these signals begin in an area of the upper right chamber called the sinoatrial node (sinus node or SA node). This node is considered the heart's "natural pacemaker." It helps control the heartbeat. When the heart detects a signal, it contracts (or beats).  The normal heart rate in adults is about 60 to 100 beats per minute. The normal heart rate is faster in children. In MAT, many locations in the atria fire signals at the same time. Too many signals lead to a rapid heart rate. It most often ranges from 100 to 130 beats per minute or more in adults. The rapid heart rate may cause the heart to work too hard and not move blood efficiently. If the heartbeat is very fast, there is less time for the heart chamber to fill with blood between beats. Therefore, not enough blood is pumped to the brain and the rest of the body with each contraction. MAT is most common in people age 50 and over. It is often seen in people with conditions that lower the amount of oxygen in the blood. These conditions include: Chronic obstructive pulmonary disease  (COPD),  Congestive heart failure ,  Lung cancer , Lung failure, Pneumonia,  Pulmonary embolism ,  You may be at higher risk for MAT if you have: Coronary heart disease ,  Diabetes , Had surgery within the last 6 weeks, Overdosed on the drug theophylline, Sepsis ,  When the heart rate is less than 100 beats per minute, the arrhythmia is called "wandering atrial pacemaker."</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002690-3" qtype="symptoms">What are the symptoms of Multifocal atrial tachycardia ?</Question>
+			<Answer>Some people may have no symptoms. When symptoms occur, they can include: Chest tightness,  Fainting ,  Lightheadedness , Sensation of feeling the heart is beating irregularly or too fast ( palpitations ),  Shortness of breath , Weight loss and  failure to thrive  in infants,  Other symptoms that can occur with this disease: Breathing difficulty when lying down ,  Dizziness , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002690-4" qtype="exams and tests">How to diagnose Multifocal atrial tachycardia ?</Question>
+			<Answer>A physical exam shows a fast irregular heartbeat of over 100 beats per minute. Blood pressure is normal or low. There may be signs of poor circulation. Tests to diagnose MAT include: ECG ,  Electrophysiologic study  (EPS) ,  Heart monitors may be used to record the rapid heartbeat. These include: 24-hour  Holter monitor , Portable, long-term loop recorders that&#160;allow you to start recording if symptoms occur ,  If you are in the hospital, your heart rhythm will be monitored 24 hours a day, at least at first. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002690-5" qtype="treatment">What are the treatments for Multifocal atrial tachycardia ?</Question>
+			<Answer>If you have a condition that can lead to MAT, that condition should be treated first. Treatment for MAT includes: 
+  Improving blood oxygen levels
+  , 
+  Giving magnesium or potassium through a vein
+  , 
+  Stopping medicines, such as theophylline, which can increase heart rate
+  , 
+  Taking medicines to slow the heart rate (if the heart rate is too fast), such as calcium channel blockers (verapamil, diltiazem) or beta-blockers
+  , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002690-6" qtype="outlook">What is the outlook for Multifocal atrial tachycardia ?</Question>
+			<Answer>MAT can be controlled if the condition that causes the rapid heartbeat is treated and controlled.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002690-7" qtype="complications">What are the complications of Multifocal atrial tachycardia ?</Question>
+			<Answer>Complications may include: Cardiomyopathy ,  Congestive heart failure , Reduced pumping action of the heart, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002690-9" qtype="prevention">How to prevent Multifocal atrial tachycardia ?</Question>
+			<Answer>To reduce the risk for developing MAT, treat the disorders that cause it right away.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

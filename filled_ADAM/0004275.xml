@@ -1,0 +1,42 @@
+<Document id="0004275" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003174.htm">
+ 
+<Focus>Weakness</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3714552</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lack of strength</Synonym>
+		<Synonym>Muscle weakness</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004275-1" qtype="information">What is (are) Weakness ?</Question>
+			<Answer>Weakness is reduced strength in one or more muscles.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004275-2" qtype="causes">What causes Weakness ?</Question>
+			<Answer>Weakness may be all over the body or in only one area. Weakness is more noticeable when it is in one area. Weakness in one area may occur: After a stroke, After injury to a nerve, During a flare-up of  multiple sclerosis (MS) ,  You may feel weak but have no real loss of strength. This is called subjective weakness. It may be due to an infection such as the flu. Or, you may have a loss of strength that can be noted on a physical exam. This is called objective weakness. Weakness may be caused by diseases or conditions affecting many different body systems, such as the following: METABOLIC Adrenal glands not producing enough hormones ( Addison disease ), Parathyroid glands producing too much parathyroid hormone ( hyperparathyroidism ), Low blood level of sodium or potassium, Overactive thyroid ( thyrotoxicosis ) ,  BRAIN/NERVOUS SYSTEM (NEUROLOGIC) Disease of the nerve cells in the brain and spinal cord ( amyotrophic lateral sclerosis ; ALS), Weakness of the muscles of the face ( Bell palsy ), Group of disorders involving brain and nervous system functions ( cerebral palsy ), Nerve inflammation causing muscle weakness ( Guillain-Barr&#233; syndrome ), Multiple sclerosis, Pinched nerve (for example, caused by a slipped disk in the spine), Stroke ,  MUSCLE DISEASES Inherited disorder that involves slowly worsening muscle weakness of the legs and pelvis ( Becker muscular dystrophy ), Muscle disease that involves inflammation and a skin rash ( dermatomyositis ), Group of inherited disorders that cause muscle weakness and loss of muscle tissue ( muscular dystrophy ) ,  POISONING Botulism , Poisoning ( insecticides , nerve gas),  Shellfish  poisoning ,  OTHER Not enough healthy red blood cells ( anemia ), Disorder of the muscles and nerves that control them ( myasthenia gravis ),  Polio , Cancer, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004275-3" qtype="considerations">What to do for Weakness ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004275-4" qtype="when to contact a medical professional">Do I need to see a doctor for Weakness ?</Question>
+			<Answer>Contact your provider if you have: Sudden weakness, especially if it is in one area and does not occur with other symptoms, such as fever, Sudden weakness after being ill with a virus, Weakness that does not go away and has no cause you can explain, Weakness in one area of the body, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004275-5" qtype="outlook">What is the outlook for Weakness ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

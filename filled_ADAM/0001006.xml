@@ -1,0 +1,18 @@
+<Document id="0001006" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000321.htm">
+ 
+<Focus>Counting carbohydrates</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Carb counting</Synonym>
+		<Synonym>Carbohydrate-controlled diet</Synonym>
+		<Synonym>Diabetic diet</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001006-1" qtype="information">Do you have information about Counting carbohydrates</Question>
+			<Answer>Many foods contain carbohydrates (carbs), including: Fruit and fruit juice, Cereal, bread, pasta, and rice, Milk and milk products, soy milk, Beans, legumes, and lentils, Starchy vegetables like potatoes and corn, Sweets like cookies, candy, cake, jam and jelly, honey, and other foods that contain added sugar, Snack foods like chips and crackers ,  Your body quickly turns carbohydrates into a sugar called glucose, which is your body's main source of energy. This raises your blood sugar, or blood glucose level. Most foods that contain  carbohydrates  are nutritious and are an important part of a healthy diet. For diabetes, the goal is not to avoid carbohydrates in the diet completely, but to make sure that you are not eating too many. Eating a regular amount of carbohydrates throughout the day can help keep your blood sugar level steady. People with diabetes can better control their blood sugar if they count how many carbohydrates they eat. People with diabetes who take insulin can use carb counting to help them determine the exact dose of insulin they need at meals. Your dietitian or diabetes educator will teach you a technique called "carb counting."</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

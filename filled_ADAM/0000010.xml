@@ -1,0 +1,40 @@
+<Document id="0000010" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003123.htm">
+ 
+<Focus>Abdominal bloating</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1291077</CUI>
+			<CUI>C0000731</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bloating</Synonym>
+		<Synonym>Meteorism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000010-1" qtype="information">What is (are) Abdominal bloating ?</Question>
+			<Answer>Abdominal bloating is a condition in which the belly (abdomen) feels full and tight. Your belly may look swollen (distended).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000010-2" qtype="causes">What causes Abdominal bloating ?</Question>
+			<Answer>Common causes include: Swallowing air, Constipation,  Gastroesophageal reflux disease  (GERD),  Irritable bowel syndrome ,  Lactose intolerance  and problems digesting other foods, Overeating,  Small bowel bacterial overgrowth , Weight gain,  You may have bloating if you take the oral diabetes medicine acarbose. Some other medicines or foods containing lactulose or sorbitol, may cause bloating. More serious disorders that may cause bloating are: Ascites  and abdominal tumors,  Celiac disease , Dumping syndrome,  Ovarian cancer , Problems with the pancreas not producing enough digestive enzymes (pancreatic insufficiency), </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000010-3" qtype="considerations">What to do for Abdominal bloating ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000010-4" qtype="when to contact a medical professional">Do I need to see a doctor for Abdominal bloating ?</Question>
+			<Answer>Contact your health care provider if you have: Abdominal pain, Blood in the stools or dark, tarry looking stools, Diarrhea, Heartburn that is getting worse, Vomiting, Weight loss, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

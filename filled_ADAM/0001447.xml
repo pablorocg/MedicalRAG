@@ -1,0 +1,17 @@
+<Document id="0001447" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003683.htm">
+ 
+<Focus>Erythropoietin test</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Serum erythropoietin</Synonym>
+		<Synonym>EPO</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001447-1" qtype="information">Do you have information about Erythropoietin test</Question>
+			<Answer>The erythropoietin test measures the amount of a hormone called erythropoietin (EPO) in blood. The hormone tells stem cells in the bone marrow to make more red blood cells. EPO is made by cells in the kidney. These cells release more EPO when the blood oxygen level is low.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

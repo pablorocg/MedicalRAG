@@ -1,0 +1,53 @@
+<Document id="0003057" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000655.htm">
+ 
+<Focus>Pharyngitis - sore throat</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0031350</CUI>
+			<CUI>C0242429</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pharyngitis - bacterial</Synonym>
+		<Synonym>Sore throat</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003057-1" qtype="information">What is (are) Pharyngitis - sore throat ?</Question>
+			<Answer>Pharyngitis, or sore throat, is discomfort, pain, or scratchiness in the throat. It often makes it painful to swallow. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003057-2" qtype="causes">What causes Pharyngitis - sore throat ?</Question>
+			<Answer>Pharyngitis is caused by swelling in the back of the throat (pharynx) between the tonsils and the voice box (larynx). Most sore throats are caused by colds, the flu, coxsackie virus or mono (mononucleosis). Bacteria that can cause pharyngitis in some cases: Strep throat  is caused by group A streptococcus., Less commonly, bacterial diseases&#160;such as gonorrhea and chlamydia can cause sore throat. ,  Most cases of pharyngitis occur during the colder months. The illness often spreads among family members and close contacts.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003057-3" qtype="symptoms">What are the symptoms of Pharyngitis - sore throat ?</Question>
+			<Answer>The main symptom is a sore throat. Other symptoms may include: Fever ,  Headache ,  Joint pain  and  muscle aches ,  Skin rashes ,  Swollen lymph nodes  (glands) in the neck
+ , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003057-4" qtype="exams and tests">How to diagnose Pharyngitis - sore throat ?</Question>
+			<Answer>Your health care provider will perform a physical exam and look at your throat. A rapid test or  throat culture  to test for strep throat may be done. Other laboratory tests may be done, depending on the suspected cause. It is important to test for HIV (human immunodeficiency virus) if you have been exposed to HIV and have a sore throat.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003057-5" qtype="treatment">What are the treatments for Pharyngitis - sore throat ?</Question>
+			<Answer>Most sore throats are caused by viruses. Antibiotics do not help viral sore throats. Using these medicines when they are not needed may lead to antibiotics not working as well when they are needed. Sore throat is treated with antibiotics if:  A strep test or culture is positive. Your provider cannot diagnose strep throat by symptoms or a physical exam alone., A culture for chlamydia or gonorrhea is positive.,  Sore throat caused by the flu (influenza) may be helped by antiviral medicines. The following tips may help your sore throat feel better: Drink soothing liquids. You can either drink warm liquids, such as lemon tea with honey, or cold liquids, such as ice water. You could also suck on a fruit-flavored ice pop., Gargle several times a day with warm salt water (1/2 tsp or 3 grams of salt in 1 cup or 240 milliliters of water)., Suck on hard candies or throat lozenges. Young children should not be given these products because they can choke on them., Use of a cool-mist vaporizer or humidifier can moisten the air and soothe a dry and painful throat., Try over-the-counter pain medicines, such as acetaminophen (Tylenol) or ibuprofen (Advil, Motrin). , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003057-6" qtype="complications">What are the complications of Pharyngitis - sore throat ?</Question>
+			<Answer>Complications may include: Ear infection ,  Sinusitis , Abscess near the tonsils, </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003057-7" qtype="when to contact a medical professional">Do I need to see a doctor for Pharyngitis - sore throat ?</Question>
+			<Answer>Contact your provider if: You develop a sore throat that does not go away after several days ,  You have a high fever, swollen lymph nodes in your neck, or a rash ,  Seek medical care right away if you have a sore throat and trouble breathing.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

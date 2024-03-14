@@ -1,0 +1,43 @@
+<Document id="0001294" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002805.htm">
+ 
+<Focus>Dry cell battery poisoning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0542351</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Batteries - dry cell</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001294-1" qtype="information">What is (are) Dry cell battery poisoning ?</Question>
+			<Answer>Dry cell batteries are a common type of power source. Tiny dry cell batteries are sometimes called button batteries. This article discusses the harmful effects from swallowing a dry cell battery (including button batteries) or breathing in large amounts of dust or smoke from burning batteries. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001294-4" qtype="symptoms">What are the symptoms of Dry cell battery poisoning ?</Question>
+			<Answer>Symptoms depend on what type of battery is swallowed. Symptoms of acidic dry cell battery poisoning include: Decreased mental ability, Irritation or burns in the mouth, Muscle cramps, Slurred speech,  Swelling of the lower legs , ankles, or feet, Spastic walk, Tremor,  Weakness ,  Symptoms that can result from breathing in large amounts of the acidic battery fumes, or contents, dust, and smoke from burning batteries include: Bronchial irritation and cough, Decreased mental ability, 
+   Difficulty sleeping
+   , Headache, Muscle cramps,  Numbness &#160;of the fingers or toes, Itching skin,  Pneumonia &#160;(from irritation and blockage of the airways), Slurred speech, Spastic walk, Weakness in the legs,  Symptoms of alkaline battery poisoning may include: Abdominal pain, Breathing difficulty from throat swelling, Diarrhea, Drooling, Rapid drop in blood pressure ( shock ), Throat pain, Vomiting, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001294-5" qtype="considerations">What to do for Dry cell battery poisoning ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001294-8" qtype="outlook">What is the outlook for Dry cell battery poisoning ?</Question>
+			<Answer>How well a person does depends on the amount of poison swallowed and how quickly treatment was received. The faster a person gets medical help, the better the chance for recovery. Full recovery is often possible if treated quickly. Serious problems are most often seen following industrial accidents. Most household exposures (such as licking some liquid from a leaking battery or swallowing a button battery) are minor. If a large battery does not pass through the intestinal tract within a limited period of time and is causing bowel blockage or threatens to leak, a surgical procedure with general anesthesia may be needed.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001294-9" qtype="outlook">What is the outlook for Dry cell battery poisoning ?</Question>
+			<Answer>How well a person does depends on the amount of poison swallowed and how quickly treatment was received. The faster a person gets medical help, the better the chance for recovery. Full recovery is often possible if treated quickly. Serious problems are most often seen following industrial accidents. Most household exposures (such as licking some liquid from a leaking battery or swallowing a button battery) are minor. If a large battery does not pass through the intestinal tract within a limited period of time and is causing bowel blockage or threatens to leak, a surgical procedure with general anesthesia may be needed.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

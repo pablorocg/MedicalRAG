@@ -1,0 +1,58 @@
+<Document id="0002204" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001669.htm">
+ 
+<Focus>Intersex</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019269</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Disorders of sex development</Synonym>
+		<Synonym>DSDs</Synonym>
+		<Synonym>Pseudohermaphroditism</Synonym>
+		<Synonym>Hermaphroditism</Synonym>
+		<Synonym>Hermaphrodite</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002204-1" qtype="information">What is (are) Intersex ?</Question>
+			<Answer>Differences of sex development (DSD) is a group of conditions in which there is a discrepancy between the external (outside) genitals (penis, scrotum, vulva, labia) and the internal (inside) genitals (testes, vagina, ovaries). Intersex is an older term for DSD.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002204-2" qtype="causes">What causes Intersex ?</Question>
+			<Answer>There are many causes of DSD. They can be divided into several categories, discussed in more detail below: 46, XX DSD, 46, XY DSD, Ovotesticular DSD, Complex or undetermined DSD,  Note: The cause of DSD may remain undetermined, even with modern diagnostic techniques. 46, XX DSD The person has the chromosomes of a female, the ovaries of a female, but external genitals that appear male. This most often is the result of a female fetus having been exposed to excess male hormones before birth. The labia ("lips" or folds of skin of the external female genitals) fuse (grow together), and the clitoris enlarges to appear like a penis. In most cases, this person has a normal uterus and fallopian tubes. This condition is also called 46, XX with virilization. There are several possible causes: Congenital adrenal hyperplasia.&#160; This is the most common cause of 46, XX DSD. Male hormones  (such as testosterone) taken or encountered by the mother during pregnancy. Male hormone-producing tumors in the mother.  These are most often ovarian tumors. Mothers who have children with 46, XX DSD should be checked for this unless there is another clear cause. Aromatase deficiency.  This may not be noticeable until puberty. Aromatase is an enzyme that normally converts male hormones to female hormones. Too much aromatase activity can lead to excess estrogen (female hormone); too little can lead to 46, XX DSD. At puberty, these XX children, who had been raised as girls, may begin to take on male characteristics. 46, XY DSD The person has the chromosomes of a man, but the external genitals are incompletely formed, ambiguous ( ambiguous genitalia ), or clearly female. Internally, testes may be normal, malformed, or absent. This condition is also called 46, XY with undervirilization. Formation of normal male external genitals depends on the appropriate balance between male and female hormones. Therefore, it requires the adequate production and function of male hormones. 46, XY DSD has many possible causes: Problems with the testes.  The testes normally produce male hormones. If the testes do not form properly, it will lead to undervirilization. There are a number of possible causes for this, including XY pure  gonadal dysgenesis . Problems with testosterone formation.  Testosterone is made through a series of chemical steps. Each of these steps requires a different enzyme. Deficiencies in any of these enzymes can result in inadequate testosterone and produce a different syndrome of 46, XY DSD. Different types of congenital adrenal hyperplasia can also fall in this category. Problems with using testosterone.  Some people have normal testes and make adequate amounts of testosterone, but still have 46, XY DSD due to conditions such as 5-alpha-reductase deficiency or  androgen insensitivity syndrome  (AIS). People with 5-alpha-reductase deficiency lack the enzyme needed to convert testosterone to dihydrotestosterone (DHT). There are at least 5 different types of 5-alpha-reductase deficiency. Some of the babies have normal male genitalia, some have normal female genitalia, and many have something in between. Most change to external male genitalia around the time of puberty. AIS is the most common cause of 46, XY DSD. In this situation, the hormones are all normal, but the receptors to male hormones don't function properly. Over 150 different defects have been identified so far, and each causes a different type of AIS.  OVOTESTICULAR DSD The person has both ovarian and testicular tissue. This may be in the same gonad (an ovotestis), or the person might have 1 ovary and 1 testis. The person may have XX chromosomes, XY chromosomes, or both. The external genitals may be ambiguous or may appear to be female or male. In most people with ovotesticular DSD, the underlying cause is unknown. COMPLEX OR UNDETERMINED DSD Many chromosome configurations other than simple 46, XX or 46, XY can result in disorders of sex development. These include 45, XO (only one X chromosome), and 47, XXY or 47, XXX - both cases have an extra sex chromosome, either an X or a Y. These disorders do not result in a condition in which there is a discrepancy between internal and external genitalia. However, there may be problems with sex hormone levels and overall sexual development, due to the altered numbers of sex chromosomes.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002204-3" qtype="symptoms">What are the symptoms of Intersex ?</Question>
+			<Answer>The symptoms associated with intersex will depend on the underlying cause. They may include: Ambiguous genitalia at birth, A very small penis (micropenis), Enlarged clitoris (clitoromegaly), Partly fused labia, Undescended testes (which may turn out to be ovaries) in boys, Labial or groin (inguinal) masses (which may turn out to be testes) in girls, The opening of the penis is somewhere other than at the tip ( hypospadias ); in females, the urethra (urine canal) opens into the vagina, Otherwise unusual-appearing genitalia at birth, Electrolyte abnormalities, Delayed or absent puberty, Unexpected changes at puberty , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002204-4" qtype="exams and tests">How to diagnose Intersex ?</Question>
+			<Answer>The following tests and exams may be done: Chromosome analysis  (karyotyping) to determine the person's genetic makeup, Blood tests to check levels of  testosterone ,  luteinizing hormone (LH) , and  follicle-stimulating hormone (FSH) , Electrolyte tests, Specific molecular testing,  Endoscopic  exam (to verify the absence or presence of a  vagina  or  cervix ), Ultrasound or  MRI  to evaluate whether internal sex organs are present (for example, a uterus), </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002204-5" qtype="treatment">What are the treatments for Intersex ?</Question>
+			<Answer>A team of health care professionals with expertise in DSD will work together to understand and treat a child with DSD and support the family. This team may include neonatologists, geneticists, endocrinologists, and psychiatrists or social workers. The specific treatment will depend on the specific cause of the DSD. Depending on the cause, surgery, hormone replacement, or other treatments are used to treat DSD. There have been significant changes in treating DSD in recent years. In the past, it was thought that it was best to assign a gender as quickly as possible. This was often based on the external genitals rather than the chromosomal gender. Expert opinion has shifted to understanding that chromosomal, neural, hormonal, psychological, and behavioral factors can all influence gender identity. Many experts now urge delaying definitive surgery for as long as is healthy, and ideally involving the child in the decision, unless surgery is needed for the health of the infant. Clearly, DSD is a complex issue, and its treatment has short- and long-term consequences. The best answer will depend on many factors, including the specific cause of the DSD. It is best to take the time to understand the issues before rushing into a decision. A DSD support group may help acquaint families with the latest research, and may provide a community of other families, children, and adult individuals who have faced the same issues.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002204-6" qtype="support groups">Where to find support for people with Intersex ?</Question>
+			<Answer>More information and support for people with DSD and their families can be found at: Association for X and Y Chromosome Variations (AXYS) --  genetic.org/ , InterACT --  interactadvocates.org/ , Turner Syndrome Society of the United States --  www.turnersyndrome.org , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002204-7" qtype="outlook">What is the outlook for Intersex ?</Question>
+			<Answer>Please see information on the individual conditions. The prognosis depends on the specific cause of DSD. With understanding, support, and appropriate treatment, the overall outlook is excellent.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002204-8" qtype="when to contact a medical professional">Do I need to see a doctor for Intersex ?</Question>
+			<Answer>If you notice that your child has unusual genitalia or sexual development, discuss this with your health care provider.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

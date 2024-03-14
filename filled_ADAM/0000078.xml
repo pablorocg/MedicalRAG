@@ -1,0 +1,67 @@
+<Document id="0000078" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000541.htm">
+ 
+<Focus>Acute lymphoblastic leukemia (ALL)</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1961102</CUI>
+			<CUI>C0023449</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ALL</Synonym>
+		<Synonym>Acute lymphoblastic leukemia</Synonym>
+		<Synonym>Acute lymphoid leukemia</Synonym>
+		<Synonym>Acute childhood leukemia</Synonym>
+		<Synonym>Cancer - acute childhood leukemia (ALL)</Synonym>
+		<Synonym>Leukemia - acute childhood (ALL)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000078-1" qtype="information">What is (are) Acute lymphoblastic leukemia (ALL) ?</Question>
+			<Answer>Acute lymphoblastic leukemia (ALL) is a fast-growing cancer of a type of white blood cells called lymphocytes.  ALL occurs when the bone marrow produces a large number of immature lymphoblasts, a cancerous form of lymphocytes. Bone marrow is the soft tissue in the center of bones that helps form all blood cells. The abnormal lymphoblasts grow quickly and replace normal cells in the bone marrow. ALL prevents healthy blood cells from being made. Life-threatening symptoms can occur as normal blood counts drop.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000078-2" qtype="causes">What causes Acute lymphoblastic leukemia (ALL) ?</Question>
+			<Answer>Most of the time, no clear cause can be found for ALL.  The following factors may play a role in the development of all types of leukemia: Certain chromosome problems, Exposure to radiation, Past treatment with  chemotherapy  drugs, Receiving a bone marrow transplant,  Toxins , such as benzene ,  The following factors are known to increase the risk for ALL: Down syndrome  or other genetic disorders, A brother or sister with leukemia ,  This type of leukemia usually affects children ages 3 to 7. ALL is the most common childhood cancer, but it can also occur in adults.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000078-3" qtype="symptoms">What are the symptoms of Acute lymphoblastic leukemia (ALL) ?</Question>
+			<Answer>ALL makes a person more likely to bleed and develop infections. Symptoms include: Bone and joint pain, Easy bruising and bleeding (such as bleeding gums, skin bleeding, nosebleeds, abnormal periods), Feeling weak or tired, Fever, Loss of appetite and weight loss,  Paleness , Pain or feeling of fullness below the ribs from an enlarged liver or spleen,  Pinpoint red spots  on the skin (petechiae),  Swollen lymph nodes  in the neck, under arms, and groin, Night sweats ,  These symptoms can occur with other conditions. Talk to a health care provider about the meaning of specific symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000078-4" qtype="exams and tests">How to diagnose Acute lymphoblastic leukemia (ALL) ?</Question>
+			<Answer>The provider will perform a physical exam and ask about your symptoms.  Blood tests may include: Complete blood count (CBC), including  white blood cell (WBC) count , Platelet count,  Bone marrow biopsy , Lumbar puncture ( spinal tap ) to check for leukemia cells in the spinal fluid ,  Tests are also done to look for changes in the DNA inside the abnormal white cells. Certain DNA changes may determine how well a person does (prognosis), and what kind of treatment is recommended.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000078-5" qtype="treatment">What are the treatments for Acute lymphoblastic leukemia (ALL) ?</Question>
+			<Answer>The first goal of treatment is to get blood counts back to normal. If this occurs and the bone marrow looks healthy under the microscope, the cancer is said to be in remission.  Chemotherapy is the first treatment tried with the goal of achieving a remission. The person may need to stay in the hospital for chemotherapy. Or it can be given at a clinic and the person goes home afterward., Chemotherapy is given into the veins (by IV) and sometimes into the fluid around the brain (the spinal fluid).&#160;Oral chemotherapy may be given after a remission to maintain it.,  After a remission is achieved, more treatment is given to achieve a cure. This treatment can include more IV chemotherapy or  radiation to the brain .  Stem cell &#160;or bone marrow transplant from another person may also be done. Further treatment depends on: Age and health of the person, Genetic changes in the leukemia cells, How many courses of chemotherapy it took to achieve remission, If abnormal cell DNA is detected in the bone marrow after remission, Availability of donors for stem cell transplant ,  You and your provider may need to manage other concerns during your leukemia treatment, including: Having chemotherapy at home ,  Managing your pets  during chemotherapy,  Bleeding problems ,  Dry mouth ,  Eating enough calories ,  Safe eating  during cancer treatment , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000078-6" qtype="support groups">Where to find support for people with Acute lymphoblastic leukemia (ALL) ?</Question>
+			<Answer>You can ease the stress of illness by joining a  cancer support group . Sharing with others who have common experiences and problems can help you not feel alone.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000078-7" qtype="outlook">What is the outlook for Acute lymphoblastic leukemia (ALL) ?</Question>
+			<Answer>Those who respond to treatment right away tend to do better. Most children with ALL can be cured. Children often have a better outcome than adults.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000078-8" qtype="complications">What are the complications of Acute lymphoblastic leukemia (ALL) ?</Question>
+			<Answer>Both leukemia itself and the treatment can lead to many problems such as bleeding, weight loss, and infections.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000078-9" qtype="when to contact a medical professional">Do I need to see a doctor for Acute lymphoblastic leukemia (ALL) ?</Question>
+			<Answer>Contact your provider if you or your child develops symptoms of ALL.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0000078-10" qtype="prevention">How to prevent Acute lymphoblastic leukemia (ALL) ?</Question>
+			<Answer>The risk for developing ALL may be reduced by avoiding contact with certain toxins, radiation, and chemicals.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

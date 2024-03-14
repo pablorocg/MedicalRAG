@@ -1,0 +1,59 @@
+<Document id="0002764" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007313.htm">
+ 
+<Focus>Neonatal abstinence syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027609</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>NAS</Synonym>
+		<Synonym>Neonatal abstinence symptoms</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002764-1" qtype="information">What is (are) Neonatal abstinence syndrome ?</Question>
+			<Answer>Neonatal abstinence syndrome (NAS) is a group of problems that can happen when a baby is exposed to opioid drugs for a length of time while in their mother's womb.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002764-2" qtype="causes">What causes Neonatal abstinence syndrome ?</Question>
+			<Answer>NAS may occur when a pregnant woman takes drugs such as heroin, codeine, oxycodone (Oxycontin), methadone, or buprenorphine. These and other substances pass through the placenta that connects the baby to its mother in the womb. The baby becomes dependent on the drug along with the mother. If the mother continues to use the drugs within the week or so before delivery, the baby will be dependent on the drug at birth. Because the baby is no longer getting the drug after birth, withdrawal symptoms may occur as the drug is slowly cleared from the baby's system. Withdrawal symptoms also may occur in babies exposed to  alcohol , benzodiazepines, barbiturates, and certain antidepressants (SSRIs) while in the womb. Babies of mothers who use opioids and other addictive drugs (nicotine, amphetamines, cocaine, marijuana, alcohol) may have long-term problems. While there is no clear evidence of a NAS for other drugs, they may contribute to the severity of a baby's NAS symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002764-3" qtype="symptoms">What are the symptoms of Neonatal abstinence syndrome ?</Question>
+			<Answer>The symptoms of NAS depend on: The type of drug the mother used, How the body breaks down and clears the drug (influenced by genetic factors), How much of the drug she was taking, How long she used the drug, Whether the baby was born full-term or early (premature) ,  Symptoms often begin within 1 to 3 days after birth, but may take up to a week to appear. Because of this, the baby will most often need to stay in the hospital for observation and monitoring for up to a week. Symptoms may include: Blotchy skin coloring (mottling), Diarrhea,  Excessive crying  or high-pitched crying, Excessive sucking, Fever, Hyperactive reflexes, Increased muscle tone, Irritability, Poor feeding, Rapid breathing, Seizures, Sleep problems, Slow weight gain, Stuffy nose, sneezing, Sweating, Trembling (tremors), Vomiting , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002764-4" qtype="exams and tests">How to diagnose Neonatal abstinence syndrome ?</Question>
+			<Answer>Many other conditions can produce the same symptoms as NAS. To help make a diagnosis, the health care provider will ask questions about the mother's drug use. The mother may be asked about which drugs she took during pregnancy, and when she last took them. The mother's urine may be screened for drugs as well. Tests that may be done to help diagnose NAS in a newborn include: NAS scoring system, which assigns points based on each symptom and its severity. The infant's score can help determine treatment., ESC (eat, sleep, console) evaluation, Drug screen of urine and of first bowel movements (meconium). A small piece of the umbilical cord may also be used for drug screening. , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002764-5" qtype="treatment">What are the treatments for Neonatal abstinence syndrome ?</Question>
+			<Answer>Treatment depends on: The drug involved, The infant's overall health and abstinence scores, Whether the baby was born full-term or premature ,  The health care team will watch the newborn carefully for up to a week (or longer, depending on how the baby is doing) after birth for signs of withdrawal, feeding problems, and weight gain. Babies who vomit or who are very dehydrated may need to get fluids through a vein (IV). Infants with NAS are often fussy and hard to calm. Tips to calm them include measures often referred to as "TLC" (tender loving care): 
+  Gently rocking the child, Reducing noise and lights, Skin to skin care with mom, or swaddling the baby in a blanket, Breastfeeding (if the mother is in a methadone or buprenorphine treatment program without other illicit drug use),  Some babies with severe symptoms need medicines such as methadone or morphine to treat withdrawal symptoms and help them be able to eat, sleep and relax. These babies may need to stay in the hospital for weeks or months after birth. The goal of treatment is to prescribe the infant a drug similar to the one the mother used during pregnancy and slowly decrease the dose over time. This helps wean the baby off the drug and relieves some withdrawal symptoms. If the symptoms are severe, such as if other drugs were used, a second medicine such as phenobarbital or clonidine may be added. Babies with this condition often have severe diaper rash or other areas of skin breakdown. This requires treatment with special ointment or cream. Babies may also have problems with feeding or slow growth. These babies may require: Higher-calorie feedings that provide greater nutrition, Smaller feedings given more often , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002764-6" qtype="outlook">What is the outlook for Neonatal abstinence syndrome ?</Question>
+			<Answer>Treatment helps relieve symptoms of withdrawal. Even after treatment for NAS is over and babies leave the hospital, they may need extra "TLC" for weeks or months.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002764-7" qtype="complications">What are the complications of Neonatal abstinence syndrome ?</Question>
+			<Answer>Drug and alcohol use during pregnancy can lead to many health problems in the baby besides NAS. These may include: Birth defects, Low birth weight,  Premature  birth, Small  head circumference ,  Sudden infant death syndrome  (SIDS), Problems with development and behavior,  NAS treatment can last from 1 week to 6 months.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002764-8" qtype="when to contact a medical professional">Do I need to see a doctor for Neonatal abstinence syndrome ?</Question>
+			<Answer>Make sure your provider knows about all the medicines, supplements, and drugs you take during pregnancy. Contact your provider if your baby has symptoms of NAS.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002764-9" qtype="prevention">How to prevent Neonatal abstinence syndrome ?</Question>
+			<Answer>Discuss all medicines, supplements, drugs, alcohol and tobacco use with your provider. Ask your provider for help as soon as possible if you are: Using drugs non-medically, Using drugs not prescribed to you, Using alcohol or tobacco ,  If you are already pregnant and take medicines, supplements, or drugs not prescribed to you, talk to your provider about the best way to keep you and the baby safe. Some medicines should not be stopped without medical supervision, or complications may develop. Your provider will know how best to manage the risks.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,64 @@
+<Document id="0004216" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000187.htm">
+ 
+<Focus>Ventricular tachycardia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0042514</CUI>
+			<CUI>C1963247</CUI>
+			<CUI>C2108113</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T034</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Wide-complex tachycardia</Synonym>
+		<Synonym>V tach</Synonym>
+		<Synonym>Tachycardia - ventricular</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004216-1" qtype="information">What is (are) Ventricular tachycardia ?</Question>
+			<Answer>Ventricular tachycardia (VT) is a rapid heartbeat that starts in the lower chambers of the heart (ventricles).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004216-2" qtype="causes">What causes Ventricular tachycardia ?</Question>
+			<Answer>VT is a pulse rate of more than 100 beats per minute, with at least 3 abnormal rapid heartbeats in a row. The condition can develop as an early or late complication of a  heart attack . It may also occur in people with: Cardiomyopathy , Heart failure, Heart surgery,  Myocarditis , Valvular heart disease ,  VT can occur without heart disease. Scar tissue may form in the muscle of the ventricles days, months, or years after a heart attack. This can lead to ventricular tachycardia. VT can also be caused by: Anti-arrhythmic drugs (used to treat an abnormal heart rhythm), Changes in blood chemistry (such as a low potassium level), Changes in pH (acid-base), Lack of enough oxygen ,  "Torsade de pointes" is a specific form of VT. It is often due to  congenital heart disease  or the use of certain medicines.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004216-3" qtype="symptoms">What are the symptoms of Ventricular tachycardia ?</Question>
+			<Answer>You may have symptoms if the heart rate during a VT episode is very fast or lasts longer than a few seconds. Symptoms may include: Chest discomfort  ( angina ),  Fainting  (syncope), 
+   Lightheadedness or  dizziness , Sensation of feeling the heart beat ( palpitations ),  Shortness of breath ,  Symptoms may start and stop suddenly. In some cases, there are no symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004216-4" qtype="exams and tests">How to diagnose Ventricular tachycardia ?</Question>
+			<Answer>The health care provider will look for: Absent pulse, Loss of consciousness, Normal or low blood pressure,  Rapid pulse ,  Tests that may be used to detect ventricular tachycardia include: Electrocardiogram (ECG) ,  Holter monitor , Intracardiac  electrophysiology study  (EPS), Rhythm monitoring with a loop recorder or device ,  You may also have  blood chemistries  and other tests. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004216-5" qtype="treatment">What are the treatments for Ventricular tachycardia ?</Question>
+			<Answer>Treatment depends on the symptoms, and the type of heart disorder. If someone with VT is in distress, they may require: CPR , Cardioversion (electric shock), Medicines (such as lidocaine, procainamide, sotalol, or amiodarone) given through a vein ,  After an episode of VT, steps are taken to prevent further episodes. Medicines taken by mouth may be needed for long-term treatment. However, these drugs may have severe side effects. They are being used less often as other treatments are developed., A procedure to destroy the heart tissue that is causing the abnormal heartbeat (called  ablation ) may be done., An  implantable cardioverter defibrillator  (ICD) may be recommended. It is an implanted device that detects any life-threatening, rapid heartbeat. This abnormal heartbeat is called an arrhythmia. If it occurs, the ICD quickly sends an electrical shock to the heart to change the rhythm back to normal. This is called defibrillation. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004216-6" qtype="outlook">What is the outlook for Ventricular tachycardia ?</Question>
+			<Answer>The outcome depends on the heart condition and symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004216-7" qtype="complications">What are the complications of Ventricular tachycardia ?</Question>
+			<Answer>Ventricular tachycardia may not cause symptoms in some people. However, it can be deadly. It is a major cause of sudden cardiac death.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004216-8" qtype="when to contact a medical professional">Do I need to see a doctor for Ventricular tachycardia ?</Question>
+			<Answer>Go to the emergency room or call the local emergency number (such as 911) if you have a rapid, irregular pulse, faint, or have  chest pain . All of these may be signs of ventricular tachycardia.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0004216-9" qtype="prevention">How to prevent Ventricular tachycardia ?</Question>
+			<Answer>In some cases, the disorder cannot be prevented. In other cases, it can be prevented by treating heart problems and avoiding certain medicines.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

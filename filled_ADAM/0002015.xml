@@ -1,0 +1,17 @@
+<Document id="0002015" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000467.htm">
+ 
+<Focus>Hospice care</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Palliative care</Synonym>
+		<Synonym>End-of-life care</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002015-1" qtype="information">Do you have information about Hospice care</Question>
+			<Answer>Hospice care helps people with illnesses that cannot be cured and who are nearing death. The goal is to give comfort and peace instead of a cure. Hospice care provides: Support for the patient and the family, Relief to the patient from pain and symptoms, Help for family members and loved ones who want to stay close to the dying patient ,  Most hospice patients are in their last 6 months of life.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

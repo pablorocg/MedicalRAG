@@ -1,0 +1,56 @@
+<Document id="0004180" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000892.htm">
+ 
+<Focus>Vaginal dryness</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0241633</CUI>
+			<CUI>C1963268</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Vaginitis - atrophic</Synonym>
+		<Synonym>Vaginitis due to reduced estrogen</Synonym>
+		<Synonym>Atrophic vaginitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004180-1" qtype="information">What is (are) Vaginal dryness ?</Question>
+			<Answer>Vaginal dryness is present when the tissues of the vagina are not well-lubricated and healthy. </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004180-2" qtype="causes">What causes Vaginal dryness ?</Question>
+			<Answer>Atrophic vaginitis is caused by a decrease in estrogen.  Estrogen keeps the tissues of the vagina lubricated and healthy. Normally, the lining of the vagina makes a clear, lubricating fluid. This fluid makes sexual intercourse more comfortable. It also helps decrease vaginal dryness. If estrogen levels drop off, the tissues of the vagina shrink and become thinner. This causes dryness and inflammation. Estrogen levels normally drop after menopause. The following may also cause estrogen levels to drop: Medicines or hormones used in the treatment of breast cancer, endometriosis, fibroids, or infertility, Surgery to remove the ovaries, Radiation treatment to the pelvic area, Chemotherapy, Severe stress, depression, Smoking ,  Some women develop this problem right after childbirth or while breastfeeding. Estrogen levels are lower at these times. The  vagina can also become further irritated  from soaps, laundry detergents, lotions, perfumes, or douches. Certain medicines, smoking, tampons, and condoms may also cause or worsen vaginal dryness. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004180-3" qtype="symptoms">What are the symptoms of Vaginal dryness ?</Question>
+			<Answer>Symptoms include: Burning on urination, Light  bleeding  after intercourse, Painful sexual intercourse, Slight  vaginal discharge , Vaginal soreness,  itching  or burning , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004180-4" qtype="exams and tests">How to diagnose Vaginal dryness ?</Question>
+			<Answer>A pelvic exam shows that the walls of the vagina are thin, pale or red.  Your vaginal discharge may be tested to check for other causes for the condition. You may also have hormone level tests to find out if you are in menopause.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004180-5" qtype="treatment">What are the treatments for Vaginal dryness ?</Question>
+			<Answer>There are many treatments for vaginal dryness. Before treating your symptoms on your own, a health care provider must find out the cause of the problem. Try using lubricants and  vaginal moisturizing creams . They will often moisten the area for several hours, up to a day. These can be bought without prescription., Use of a water-soluble vaginal lubricant during intercourse may help. Products with petroleum jelly, mineral oil, or other oils may damage latex condoms or diaphragms., Avoid scented soaps, lotions, perfumes, or douches. ,  Prescription estrogen can work well to treat atrophic vaginitis. It is available as a cream, tablet, suppository, or ring. All of these are placed directly into the vagina. These medicines deliver estrogen directly to the vaginal area. Only a little estrogen is absorbed into the bloodstream. The use of topical vaginal estrogen may also reduce your chances of developing a urinary tract infection. That is particularly true if you have a history of recurrent urinary tract infections. You may take estrogen ( hormone therapy ) in the form of a skin patch, or in a pill that you take by mouth if you have hot flashes or other symptoms of menopause. The pill or patch may not provide adequate estrogen to treat your vaginal dryness. In such cases, you may need to add a vaginal hormone medicine as well. If so, talk to your provider about this. You should discuss the risks and benefits of estrogen replacement therapy with your provider.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004180-6" qtype="outlook">What is the outlook for Vaginal dryness ?</Question>
+			<Answer>Proper treatment will ease symptoms most of the time.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004180-7" qtype="complications">What are the complications of Vaginal dryness ?</Question>
+			<Answer>Vaginal dryness can: Make you more likely to get yeast or bacterial infections of the vagina., Cause sores or cracks in the walls of the vagina., Cause pain with sexual intercourse, which may affect your relationship with your partner or spouse. (Talking openly with your partner may help.), Increase your risk of developing urinary tract infections (UTI)., </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004180-8" qtype="when to contact a medical professional">Do I need to see a doctor for Vaginal dryness ?</Question>
+			<Answer>Contact your provider if you have vaginal dryness or soreness, burning, itching, or painful sexual intercourse that does not go away when you use a water-soluble lubricant.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

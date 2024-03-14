@@ -1,0 +1,17 @@
+<Document id="0000488" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003855.htm">
+ 
+<Focus>Blood gases</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Arterial blood gas analysis</Synonym>
+		<Synonym>ABG</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000488-1" qtype="information">Do you have information about Blood gases</Question>
+			<Answer>Blood gases are a measurement of how much oxygen and carbon dioxide are in your blood. They also determine the acidity (pH) of your blood.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,62 @@
+<Document id="0002455" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007194.htm">
+ 
+<Focus>Lung cancer - non-small cell</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242379</CUI>
+			<CUI>C0684249</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cancer - lung - non-small cell</Synonym>
+		<Synonym>Non-small cell lung cancer</Synonym>
+		<Synonym>NSCLC</Synonym>
+		<Synonym>Adenocarcinoma - lung</Synonym>
+		<Synonym>Squamous cell carcinoma - lung</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002455-1" qtype="information">What is (are) Lung cancer - non-small cell ?</Question>
+			<Answer>Non-small cell lung cancer is the most common type of  lung cancer . It usually grows and spreads more slowly than  small cell lung cancer . There are three common types of non-small cell lung cancer (NSCLC): Adenocarcinomas are often found in an outer area of the lung., Squamous cell carcinomas are usually found in the center of the lung next to an air tube (bronchus)., Large cell carcinomas can occur in any part of the lung., There are other, more uncommon types of lung cancer that are also called non-small., </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002455-2" qtype="causes">What causes Lung cancer - non-small cell ?</Question>
+			<Answer>Lung cancer is the deadliest type of cancer for both men and women. Each year, more people die of lung cancer than of breast, colon, and prostate cancers combined. Lung cancer is more common in older adults. It is rare in people under age 45. Smoking causes most cases (around 80%) of non-small cell lung cancer. The risk depends on the number of cigarettes you smoke each day and for how long you have smoked. Being around the smoke from other people (secondhand smoke) also raises your risk of lung cancer. But some people who have never smoked do develop lung cancer. The risk does decrease with time after you stop smoking. There is no evidence that low tar cigarettes lowers the risk. Research shows that smoking marijuana may help cancer cells grow. But there is no direct link between smoking marijuana and developing lung cancer. Constant exposure to high levels of air pollution and drinking water that has a high level of arsenic can increase your risk of lung cancer. A history of radiation therapy to the lungs can also increase risk. Working with or living near cancer-causing chemicals or materials can also increase the risk of developing lung cancer. Such chemicals include: Arsenic, Asbestos, Radon, Chemicals such as uranium, beryllium, vinyl chloride, nickel chromates, coal products, mustard gas, chloromethyl ethers, gasoline, and diesel exhaust, Certain alloys, paints, pigments, and preservatives, Products using chloride and formaldehyde , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002455-3" qtype="symptoms">What are the symptoms of Lung cancer - non-small cell ?</Question>
+			<Answer>Symptoms may include: Chest pain ,  Cough  that does not go away,  Coughing up blood , Fatigue,  Loss of appetite ,  Losing weight without trying ,  Shortness of breath ,  Wheezing , Pain when it spreads to other areas of the body&#160;,  Early lung cancer may not cause any symptoms. Other symptoms that may be due to NSCLC, often in the late stages: Bone pain or tenderness ,  Eyelid drooping ,  Hoarseness or changing voice ,  Joint pain ,  Nail problems ,  Swallowing difficulty ,  Swelling of the face ,  Weakness , Shoulder pain or weakness ,  These symptoms can be due to other, less serious conditions. It is important to talk to your health care provider if you have symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002455-4" qtype="exams and tests">How to diagnose Lung cancer - non-small cell ?</Question>
+			<Answer>Your provider will perform a physical exam and ask about your medical history. You will be asked if you smoke, and if so, how much you smoke and for how long you have smoked. You will also be asked about other things that may have put you at risk of lung cancer, such as exposure to certain chemicals. Tests that may be done to diagnose lung cancer or see if it has spread include: Bone scan ,  Chest x-ray ,  Complete blood count  (CBC),  CT scan of the chest ,  MRI of the chest ,  Positron emission tomography  (PET) scan,  Sputum test  to look for cancer cells,  Thoracentesis  (sampling of fluid buildup around the lung),  In most cases, a piece of tissue is removed from your lungs for examination under a microscope. This is called a biopsy. There are several ways to do this: Bronchoscopy  combined with  biopsy ,  CT-scan-directed needle biopsy , Endoscopic bronchoscopy ultrasound (EBUS) with biopsy,  Mediastinoscopy with biopsy ,  Open lung biopsy ,  Pleural biopsy ,  If the biopsy shows cancer, more imaging tests are done to find out the stage of the cancer. Stage means how big the tumor is and how far it has spread. NSCLC is divided into 5 stages: Stage 0 -- The cancer has not spread beyond the inner lining of the lung., Stage I -- The cancer is small and has not spread to the lymph nodes., Stage II -- The cancer has spread to some lymph nodes near the original tumor., Stage III -- The cancer has spread to nearby tissue or to far away lymph nodes., Stage IV -- The cancer has spread to other organs of the body, such as the other lung, brain, or liver., </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002455-5" qtype="treatment">What are the treatments for Lung cancer - non-small cell ?</Question>
+			<Answer>There are many different types of treatment for NSCLC. Treatment depends on the stage of the cancer. Surgery is the common treatment for NSCLC that has not spread beyond nearby lymph nodes. The surgeon may remove: One of the lobes of the lung (lobectomy), Only a small part of the lung (wedge or segment removal), The entire lung (pneumonectomy) ,  Some people need  chemotherapy . Chemotherapy uses medicines to kill cancer cells and stop new cells from growing. Treatment may be done in the following ways: Chemotherapy alone is often used when the cancer has spread outside the lung (stage IV)., It may also be given before surgery to make those treatments more effective. This is called neoadjuvant therapy., It may be given after surgery to kill any remaining cancer. This is called adjuvant therapy., Chemotherapy is usually given through a vein (by IV). ,  Controlling symptoms and preventing complications  during and after chemotherapy  is an important part of care. Immunotherapy  is the newest kind of treatment that can be given by itself or with chemotherapy. Targeted therapy  may be used to treat NSCLC. Targeted therapy uses medicines to zero in on specific targets (molecules) in or on cancer cells. These targets play a role in how cancer cells grow and survive. Using these targets, the medicine disables the cancer cells so they cannot spread. Radiation therapy  can be used with chemotherapy if surgery is not possible. Radiation therapy uses powerful x-rays or other forms of radiation to kill cancer cells. Radiation may be used to: Treat the cancer, sometimes along with chemotherapy, if surgery is not possible, Help relieve symptoms caused by the cancer, such as breathing problems and swelling, Help relieve cancer pain when the cancer has spread to the bones ,  Controlling symptoms  during and after radiation to the chest  is an important part of care. The following treatments are mostly used to relieve symptoms caused by NSCLC: Laser therapy -- A small beam of light burns and kills cancer cells., Photodynamic therapy -- Uses a light to activate a medicine in the body, which kills cancer cells. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002455-6" qtype="support groups">Where to find support for people with Lung cancer - non-small cell ?</Question>
+			<Answer>You can ease the stress of illness by joining a  support group . Sharing with others who have common experiences and problems can help you not feel alone.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002455-7" qtype="outlook">What is the outlook for Lung cancer - non-small cell ?</Question>
+			<Answer>The outlook varies. Most often, NSCLC grows slowly. In some cases, it can grow and spread quickly and cause rapid death. The cancer may spread to other parts of the body, including the bone, liver, small intestine, and brain. Chemotherapy has been shown to prolong life and improve the quality of life in some people with stage IV NSCLC. Cure rates are related to the stage of disease and whether you are able to have surgery. Stage I and II cancers have the highest survival and cure rates., Stage III cancer can be cured in some cases., Stage IV cancer is almost never cured. The goals of therapy are to extend and improve quality of life., </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002455-8" qtype="when to contact a medical professional">Do I need to see a doctor for Lung cancer - non-small cell ?</Question>
+			<Answer>Contact your provider if you have symptoms of lung cancer, particularly if you smoke.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002455-9" qtype="prevention">How to prevent Lung cancer - non-small cell ?</Question>
+			<Answer>If you smoke, now is the time to quit. If you are having trouble quitting, talk with your provider. There are many methods to  help you quit , from  support groups  to  prescription medicines . Also, try to avoid secondhand smoke. If you are age 50 to 80 years old, have a 20 pack-year smoking history, and either currently smoke or used to smoke within the last 15 years, talk with your provider about getting screened for lung cancer. To get screened, you need to have a CT scan of the chest.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

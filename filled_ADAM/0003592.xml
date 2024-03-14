@@ -1,0 +1,58 @@
+<Document id="0003592" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000456.htm">
+ 
+<Focus>Sjgren syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Xerostomia-Sjgren syndrome</Synonym>
+		<Synonym>Keratoconjunctivitis sicca - Sjgren</Synonym>
+		<Synonym>Sicca syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003592-1" qtype="information">What is (are) Sjgren syndrome ?</Question>
+			<Answer>Sj&#246;gren syndrome is an  autoimmune disorder  in which the glands that produce tears and saliva are destroyed. This causes dry mouth and dry eyes. The condition may affect other parts of the body, including the kidneys and lungs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003592-2" qtype="causes">What causes Sjgren syndrome ?</Question>
+			<Answer>The cause of Sj&#246;gren syndrome is unknown. It is an autoimmune disorder. This means the body attacks healthy tissue by mistake. The syndrome occurs most often in women ages 40 to 50. It is rare in children. Primary Sj&#246;gren syndrome is defined as dry eyes and dry mouth without another autoimmune disorder. Secondary Sj&#246;gren syndrome occurs along with another autoimmune disorder, such as: Rheumatoid arthritis  (RA),  Systemic lupus erythematosus ,  Scleroderma ,  Polymyositis , Hepatitis C can affect the salivary glands and looks like Sj&#246;gren syndrome, IgG4 disease can look like&#160;Sj&#246;gren syndrome and should be considered, </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003592-3" qtype="symptoms">What are the symptoms of Sjgren syndrome ?</Question>
+			<Answer>Dry eyes and dry mouth are the most common symptoms of this syndrome. Eye symptoms: Itching eyes , Burning sensation in eyes, Feeling that something is in the eye,  Mouth and throat symptoms: Difficulty swallowing or eating dry foods,  Loss of sense of taste , Problems speaking, Thick or stringy saliva, Mouth sores or pain, Teeth decay and gum inflammation,  Hoarseness ,  Other symptoms may include: Fatigue , Fever, Change in the color of hands or feet&#160;with cold exposure (Raynaud phenomenon),  Joint pain  or  joint swelling ,  Swollen glands , Skin rash
+    
+ , Numbness and pain due to neuropathy, Cough and shortness of breath due to lung disease, Irregular heartbeat&#160;, Nausea and heartburn, Vaginal dryness or painful urination, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003592-4" qtype="exams and tests">How to diagnose Sjgren syndrome ?</Question>
+			<Answer>A complete physical exam will be done. The exam reveals dry eyes and dry mouth. There may be  mouth sores , decayed teeth or gum inflammation. This occurs because of the mouth dryness. Your health care provider will look in your mouth for fungus infection (candida). Skin may show a rash, the lung exam may be abnormal, the abdomen will be palpated for liver enlargement. The joints will be examined for arthritis. The neurologic exam will look for deficits due to nerve damage. You may have the following tests done: Complete blood chemistry with liver enzymes
+   , Complete blood count with differential, Urinalysis, Antinuclear  antibodies  ( ANA ) test, Anti-Ro/SSA and anti-La/SSB antibodies,  Rheumatoid factor , Anti-cyclic citrullinated peptide (CCP) antibody, Test for cryoglobulins, Complement levels, Protein electrophoresis, Test for hepatitis C and HIV (if at risk), Thyroid tests,  Schirmer test  of tear production, Imaging of the salivary gland: by ultrasound or by MRI,  Salivary gland biopsy , Skin biopsy if a rash is present, Examination of the eyes by an ophthalmologist, Chest x-ray, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003592-5" qtype="treatment">What are the treatments for Sjgren syndrome ?</Question>
+			<Answer>The goal is to relieve symptoms. Dry eyes may be treated with artificial tears, eye-lubricating ointments, or cyclosporine liquid., If Candida is present, it may be treated with sugar-free miconazole or nystatin preparations., Tiny plugs can be placed in the tear drainage ducts to help the tears stay on the surface of the eye.,  Oral medicines such as pilocarpine or cevimeline that cause increased saliva production can be useful in dryness when local therapy is not helping. Disease-modifying antirheumatic drugs (DMARDs) similar to those used for RA may improve the symptoms of Sj&#246;gren syndrome. These include Rituximab and tumor necrosis factor (TNF) inhibiting drugs such as etanercept (Enbrel), adalimumab (Humira) or infliximab (Remicade). Some things you can do to ease symptoms include: Sip water throughout the day, Chew sugarless gum, Avoid medicines that can cause mouth dryness, such as antihistamines and decongestants, Avoid alcohol,  Talk with your dentist about: Mouth rinses to replace minerals in your teeth, Saliva substitutes, Drugs that help your salivary glands make more saliva,  To prevent dental decay caused by mouth dryness: Brush and floss your teeth often, Visit the dentist for regular checkups and cleanings, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003592-6" qtype="outlook">What is the outlook for Sjgren syndrome ?</Question>
+			<Answer>The disease is most often not life threatening. The outcome depends on what other diseases you have. There is a higher risk for  lymphoma  and early death when Sj&#246;gren syndrome has been very active for a long time, as well as in people with vasculitis, low complements, and cryoglobulins.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003592-7" qtype="complications">What are the complications of Sjgren syndrome ?</Question>
+			<Answer>Complications may include: Damage to the eye, Dental cavities,  Kidney failure  (rare), Lymphoma, Pulmonary disease, Vasculitis (rare), Neuropathy, Bladder inflammation, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003592-8" qtype="when to contact a medical professional">Do I need to see a doctor for Sjgren syndrome ?</Question>
+			<Answer>Contact your provider if you develop symptoms of Sj&#246;gren syndrome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

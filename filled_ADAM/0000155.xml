@@ -1,0 +1,56 @@
+<Document id="0000155" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000813.htm">
+ 
+<Focus>Allergic rhinitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2607914</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hay fever</Synonym>
+		<Synonym>Nasal allergies</Synonym>
+		<Synonym>Seasonal allergy</Synonym>
+		<Synonym>Seasonal allergic rhinitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000155-1" qtype="information">What is (are) Allergic rhinitis ?</Question>
+			<Answer>Allergic rhinitis is a diagnosis associated with a group of symptoms affecting the nose. These symptoms occur when you breathe in something you are allergic to, such as dust, animal dander, or pollen. Symptoms can also occur when you eat a food that you are allergic to. This article focuses on allergic rhinitis due to plant pollens. This type of allergic rhinitis is commonly called hay fever or seasonal allergy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000155-2" qtype="causes">What causes Allergic rhinitis ?</Question>
+			<Answer>An allergen is something that triggers an allergy. When a person with allergic rhinitis breathes in an  allergen  such as pollen, mold, animal dander, or dust, the body releases chemicals that cause allergy symptoms. Hay fever involves an  allergic reaction  to pollen. Plants that cause hay fever are trees, grasses, and ragweed. Their pollen is carried by the wind. (Flower pollen is carried by insects and does not cause hay fever.) Types of plants that cause hay fever vary from person to person and from area to area. The amount of pollen in the air can affect whether hay fever symptoms develop or not.  Hot, dry, windy days are more likely to have a lot of pollen in the air., On cool, damp, rainy days, most pollen is washed to the ground. ,  Hay fever and allergies often run in families. If both of your parents have hay fever or other allergies, you are likely to have hay fever and allergies, too. The chance is higher if your mother has allergies.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000155-3" qtype="symptoms">What are the symptoms of Allergic rhinitis ?</Question>
+			<Answer>Symptoms that occur shortly after you come into contact with the substance you are allergic to may include: Itchy nose, mouth, eyes, throat, skin, or any area,  Problems with smell , Runny nose, Sneezing, Watery eyes ,  Symptoms that may develop later include: Stuffy nose (nasal congestion),  Coughing , Clogged ears and decreased sense of smell,  Sore throat , Dark circles under the eyes, Puffiness under the eyes,  Fatigue  and irritability,  Headache , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000155-4" qtype="exams and tests">How to diagnose Allergic rhinitis ?</Question>
+			<Answer>The health care provider will perform a physical exam and ask about your symptoms. You will be asked whether your symptoms vary by time of day or season, and exposure to pets or other allergens. Allergy testing may reveal the pollen or other substances that trigger your symptoms.  Skin testing  is the most common method of allergy testing. If your doctor determines you cannot have skin testing, special blood tests may help with the diagnosis. These tests, known as IgE RAST tests, can measure the levels of allergy-related substances. A complete blood count (CBC) test, called the  eosinophil  count, may also help diagnose allergies.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000155-5" qtype="treatment">What are the treatments for Allergic rhinitis ?</Question>
+			<Answer>LIFESTYLE AND AVOIDING ALLERGENS The best treatment is to avoid the pollens that cause your symptoms. It may be impossible to avoid all pollen. But you can often  take steps to reduce your exposure . You may be prescribed medicine to treat allergic rhinitis. The medicine your doctor prescribes depends on your symptoms and how severe they are. Your age and whether you have other medical conditions, such as asthma, will also be considered. For mild allergic rhinitis, a nasal wash can help remove mucus from the nose. You can buy a saline solution at a drug store or make one at home using 1 cup (240 milliliters) of warm water, half a teaspoon (3 grams) of salt, and pinch of baking soda. Treatments for allergic rhinitis include: ANTIHISTAMINES Medicines called  antihistamines  work well for treating allergy symptoms. They may be used when symptoms do not happen often or do not last long. Be aware of the following: Many antihistamines taken by mouth can be bought without a prescription., Some can cause sleepiness. You should not drive or operate machines after taking this type of medicine., Others cause little or no sleepiness., Antihistamine nasal sprays work well for treating allergic rhinitis. Ask your doctor if you should try these medicines first. ,  CORTICOSTEROIDS Nasal corticosteroid sprays  are the most effective treatment for allergic rhinitis. They work best when used nonstop, but they can also be helpful when used for shorter periods of time. They can even help when used intermittently., Corticosteroid sprays are generally safe for children and adults., Many brands are available. You can buy four brands without a prescription. For all other brands, you will need a prescription from your doctor. ,  DECONGESTANTS Decongestants may also be helpful for reducing symptoms such as nasal stuffiness., Do not use nasal spray decongestants for more than 3 days. ,  OTHER MEDICINES Leukotriene inhibitors are prescription medicines that block leukotrienes. These are the chemicals the body releases in response to an allergen that also trigger symptoms. ,  ALLERGY SHOTS Allergy shots (immunotherapy)  are sometimes recommended if you cannot avoid the pollen and your symptoms are hard to control. This includes regular shots of the pollen you are allergic to. Each dose is slightly larger than the dose before it, until you reach the dose that helps control your symptoms. Allergy shots may help your body adjust to the pollen that is causing the reaction. SUBLINGUAL IMMUNOTHERAPY TREATMENT (SLIT) Instead of shots, medicine put under the tongue may help for grass and ragweed allergies. </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000155-6" qtype="outlook">What is the outlook for Allergic rhinitis ?</Question>
+			<Answer>Most symptoms of allergic rhinitis can be treated. More severe cases need allergy shots. Some people, especially children, may outgrow an allergy as the immune system becomes less sensitive to the trigger. But once a substance such as pollen causes allergies, it often continues to have a long-term effect on the person.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000155-7" qtype="when to contact a medical professional">Do I need to see a doctor for Allergic rhinitis ?</Question>
+			<Answer>Contact your provider for an appointment if: You have severe hay fever symptoms ,  Treatment that once worked for you no longer works ,  Your symptoms do not respond to treatment , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000155-8" qtype="prevention">How to prevent Allergic rhinitis ?</Question>
+			<Answer>You can sometimes prevent symptoms by avoiding the pollen you are allergic to. During pollen season, you should stay indoors where it is air-conditioned, if possible. Sleep with the windows closed, and drive with the windows rolled up.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

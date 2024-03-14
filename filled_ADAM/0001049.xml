@@ -1,0 +1,65 @@
+<Document id="0001049" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000617.htm">
+ 
+<Focus>Cryptosporidium enteritis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014335</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cryptosporidiosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001049-1" qtype="information">What is (are) Cryptosporidium enteritis ?</Question>
+			<Answer>Cryptosporidium enteritis is an infection of the small intestine that causes diarrhea. The parasite cryptosporidium causes this infection.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001049-2" qtype="causes">What causes Cryptosporidium enteritis ?</Question>
+			<Answer>
+Cryptosporidium has recently been recognized as a cause of diarrhea worldwide in all age groups. It has a greater effect on people with a weakened immune system, including: 
+   People who take medicines to suppress their immune system
+   , 
+   People with  HIV/AIDS , 
+   Transplant recipients
+   ,  In these groups, this infection is not just bothersome, but can lead to severe and life-threatening loss of muscle and body mass (wasting) and malnutrition. The major risk factor is drinking water that is contaminated with feces (stool). People at higher risk include: Animal handlers, People who are in close contact with infected people, Young children,  Outbreaks have been linked to: Drinking from contaminated public water supplies, Drinking unpasteurized cider, Swimming in contaminated pools and lakes,  Some outbreaks have been very large.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001049-3" qtype="symptoms">What are the symptoms of Cryptosporidium enteritis ?</Question>
+			<Answer>Symptoms of infection include: Abdominal cramping, Diarrhea, which is often watery, non-bloody, large-volume, and occurs many times a day, 
+  General sick feeling ( malaise )
+  , Malnutrition and weight loss (in severe cases), Nausea, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001049-4" qtype="exams and tests">How to diagnose Cryptosporidium enteritis ?</Question>
+			<Answer>These tests may be done: Antibody test to see if cryptosporidium is in the stool, Intestinal biopsy (rare), Stool exam with special techniques (AFB staining),  Stool exam  using a microscope to look for the parasites and their eggs, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001049-5" qtype="treatment">What are the treatments for Cryptosporidium enteritis ?</Question>
+			<Answer>There are several treatments for cryptosporidium enteritis. Medicines such as nitazoxanide have been used in children and adults. Other medicines that are sometimes used include: Atovaquone, Paromomycin,  These medicines often help only for a little while. It is common for the infection to return. The best approach is to improve immune function in people who have a weakened immune system. In people with HIV/AIDS, this can be done by using HIV-antiviral drugs. Using this type of treatment can lead to a complete remission of cryptosporidium enteritis.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001049-6" qtype="outlook">What is the outlook for Cryptosporidium enteritis ?</Question>
+			<Answer>In healthy people, the infection will clear up, but it can last up to a month. In people with a  weakened immune system , long-term diarrhea may cause weight loss and malnutrition.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001049-7" qtype="complications">What are the complications of Cryptosporidium enteritis ?</Question>
+			<Answer>These complications can occur: Inflammation of a bile duct, Inflammation of the gallbladder, Inflammation of the liver (hepatitis),  Malabsorption  (not enough nutrients being absorbed from the intestinal tract), Inflammation of the pancreas (pancreatitis), Loss of body mass that causes extreme thinness and weakness (wasting syndrome), </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001049-8" qtype="when to contact a medical professional">Do I need to see a doctor for Cryptosporidium enteritis ?</Question>
+			<Answer>Contact your health care provider if you develop watery diarrhea that does not go away within a few days, especially if you have a weakened immune system.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001049-9" qtype="prevention">How to prevent Cryptosporidium enteritis ?</Question>
+			<Answer>Proper sanitation and hygiene, including handwashing, are important measures for preventing this illness. Certain water filters can also reduce risk by filtering out the cryptosporidium eggs. However, the pores of the filter must be smaller than 1 micron to be effective. If you have a weakened immune system, ask your provider if you need to boil your water.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

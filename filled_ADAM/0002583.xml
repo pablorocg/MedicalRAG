@@ -1,0 +1,58 @@
+<Document id="0002583" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000650.htm">
+ 
+<Focus>Meningitis - tuberculous</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0025289</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Tubercular meningitis</Synonym>
+		<Synonym>TB meningitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002583-1" qtype="information">What is (are) Meningitis - tuberculous ?</Question>
+			<Answer>Tuberculous meningitis is an infection of the tissues covering the brain and spinal cord (meninges).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002583-2" qtype="causes">What causes Meningitis - tuberculous ?</Question>
+			<Answer>Tuberculous meningitis is caused by  Mycobacterium tuberculosis . This is the bacterium that causes tuberculosis ( TB ). The bacteria spread to the brain and spine from another place in the body, usually the lung. Tuberculous meningitis is very rare in the United States. Most cases are in people who traveled to the United States from other countries where TB is common. People who have the following have a higher chance of developing tuberculous meningitis: HIV/AIDS ,  Drink alcohol in excess ,  TB of the lung , Weakened immune system , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002583-3" qtype="symptoms">What are the symptoms of Meningitis - tuberculous ?</Question>
+			<Answer>The symptoms often start slowly, and may include: Fever and chills,  Mental status changes , Nausea and vomiting, Sensitivity to light ( photophobia ), Severe headache, Stiff neck (meningismus),  Other symptoms that can occur with this disease may include: Agitation,  Bulging fontanelles  (soft spots) in babies, Decreased consciousness, Poor feeding or irritability in children, Unusual posture, with the head and neck arched backward ( opisthotonos ). This is usually found in infants (less than 3 months old), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002583-4" qtype="exams and tests">How to diagnose Meningitis - tuberculous ?</Question>
+			<Answer>The health care provider will examine you. This will usually show that you have the following: Fast heart rate, Fever, Mental status changes, Stiff neck ,  A lumbar puncture ( spinal tap ) is an important test in diagnosing meningitis. It is done to collect a sample of spinal fluid for examination. More than one sample may be needed to make the diagnosis. Other tests that may be done include: Biopsy  of the brain or meninges (rare),  Blood culture ,  Chest x-ray ,  Cerebrospinal fluid (CSF) examination  for cell count, glucose, and protein,  CT scan of the head , Gram stain, other special stains, and  culture of CSF , Polymerase chain reaction (PCR) of CSF, Skin test for TB ( PPD ), Other tests to look for TB , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002583-5" qtype="treatment">What are the treatments for Meningitis - tuberculous ?</Question>
+			<Answer>You will be given several medicines to fight the TB bacteria. Sometimes, treatment is started even if your provider thinks you have the disease, but testing has not confirmed it yet. Treatment usually lasts for at least 12 months. Medicines called corticosteroids may also be used.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002583-6" qtype="outlook">What is the outlook for Meningitis - tuberculous ?</Question>
+			<Answer>Tuberculous meningitis is life threatening if untreated. Long-term follow-up is needed to detect recurring infections.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002583-7" qtype="complications">What are the complications of Meningitis - tuberculous ?</Question>
+			<Answer>Untreated, the disease can cause any of the following: Brain damage, Build-up of fluid between the skull and brain ( subdural effusion ), Hearing loss,  Hydrocephalus &#160;(buildup of fluid inside the skull that leads to brain swelling),  Seizures , Death, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002583-8" qtype="when to contact a medical professional">Do I need to see a doctor for Meningitis - tuberculous ?</Question>
+			<Answer>Call 911 or the local emergency number or go to an emergency room if you suspect meningitis in a young child who has the following symptoms: Feeding problems, High-pitched cry, Irritability, Persistent unexplained fever ,  Call the local emergency number if you develop any of the serious symptoms listed above. Meningitis can quickly become a life-threatening illness.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002583-9" qtype="prevention">How to prevent Meningitis - tuberculous ?</Question>
+			<Answer>Treating people who have signs of a non-active (dormant) TB infection can prevent its spread. A PPD test and other TB tests can be done to tell if you have this type of infection. Some countries with a high incidence of TB give people a vaccine called BCG to prevent TB. But, the effectiveness of this vaccine is limited, and it is not usually used in the United States. The BCG vaccine may help prevent severe forms of TB, such as meningitis, in very young children who live in areas where the disease is common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

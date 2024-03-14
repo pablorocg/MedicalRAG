@@ -1,0 +1,39 @@
+<Document id="0002239" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002659.htm">
+ 
+<Focus>Iron overdose</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0745404</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ferrous sulfate overdose</Synonym>
+		<Synonym>Ferrous gluconate overdose</Synonym>
+		<Synonym>Ferrous fumarate overdose</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002239-1" qtype="information">What is (are) Iron overdose ?</Question>
+			<Answer>Iron is a mineral found in many over-the-counter supplements. Iron overdose occurs when someone takes more than the normal or recommended amount of this mineral. This can be by accident or on purpose. Iron overdose is particularly dangerous for children. A severe overdose can happen if a child eats adult multivitamins, such as prenatal vitamins. If the child eats too many pediatric multivitamins, the effect is usually minor. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with has an  overdose , call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002239-4" qtype="symptoms">What are the symptoms of Iron overdose ?</Question>
+			<Answer>Below are symptoms of an iron overdose in different parts of the body.&#160; AIRWAYS AND LUNGS Buildup of fluids in the lungs ,  STOMACH AND INTESTINES These are the most common symptoms in the first 6 hours after ingestion. Black, and possibly bloody stools ,  Diarrhea , Liver damage (may occur several days after the ingestion), Metallic taste in mouth,  Nausea ,  Vomiting blood ,  HEART AND BLOOD Dehydration , Low blood pressure, Fast and weak pulse,  Shock  (may occur early from blood loss from the stomach or intestines, or later from the toxic effects of iron),  NERVOUS SYSTEM Chills,  Coma  (decreased level of consciousness and lack of responsiveness, may occur within 1/2 hour to 1 hour after overdose), Convulsions, Dizziness,  Drowsiness , Fever, Headache, Lack of desire to do anything,  SKIN Bluish-colored lips and fingernails , Flushing,  Pale skin color , Yellowing of the skin (jaundice),  Note: Symptoms may go away in a few hours, then return again after 1 day or later.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002239-7" qtype="outlook">What is the outlook for Iron overdose ?</Question>
+			<Answer>There is a good chance of recovery if the person's symptoms are gone 48 hours after the iron overdose. But, severe liver damage can occur 2 to 5 days after the overdose. Some people have died up to a week after an iron overdose. The more quickly the person receives treatment, the better the chance for survival. Iron overdose can be very severe in children. Children may sometimes eat large amounts of iron pills because they look like candy. Many manufacturers have changed their pills so they no longer look like candy.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002239-8" qtype="outlook">What is the outlook for Iron overdose ?</Question>
+			<Answer>There is a good chance of recovery if the person's symptoms are gone 48 hours after the iron overdose. But, severe liver damage can occur 2 to 5 days after the overdose. Some people have died up to a week after an iron overdose. The more quickly the person receives treatment, the better the chance for survival. Iron overdose can be very severe in children. Children may sometimes eat large amounts of iron pills because they look like candy. Many manufacturers have changed their pills so they no longer look like candy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

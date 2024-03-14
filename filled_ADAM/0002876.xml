@@ -1,0 +1,62 @@
+<Document id="0002876" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000837.htm">
+ 
+<Focus>Osler-Weber-Rendu syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039445</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hereditary hemorrhagic telangiectasia</Synonym>
+		<Synonym>HHT</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002876-1" qtype="information">What is (are) Osler-Weber-Rendu syndrome ?</Question>
+			<Answer>Hereditary hemorrhagic telangiectasia (HHT) is an inherited disorder of the blood vessels that can cause excessive bleeding.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002876-2" qtype="causes">What causes Osler-Weber-Rendu syndrome ?</Question>
+			<Answer>HHT is passed down through families in an  autosomal dominant pattern . This means the abnormal gene is needed from only one parent in order to inherit the disease. Scientists have identified four genes involved in this condition. All of these genes appear to be important for blood vessels to develop properly. A mutation in any one of these genes is responsible for HHT.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002876-3" qtype="symptoms">What are the symptoms of Osler-Weber-Rendu syndrome ?</Question>
+			<Answer>People with HHT can develop abnormal blood vessels in several areas of the body. These vessels are called arteriovenous malformations (AVMs). If they are on the skin, they are called  telangiectasias . The most common sites include the lips, tongue, ears, and fingers. The abnormal blood vessels can also develop in the brain, lungs, liver, intestines, or other areas. Symptoms of this syndrome include: Frequent  nosebleeds  in children,  Bleeding in the gastrointestinal tract (GI) , including loss of blood in the stool, or dark or black stools,  Seizures  or unexplained, small  strokes  (from bleeding into the brain), Shortness of breath,  Enlarged liver ,  Heart failure ,  Anemia  caused by low iron, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002876-4" qtype="exams and tests">How to diagnose Osler-Weber-Rendu syndrome ?</Question>
+			<Answer>Your health care provider will perform a physical examination and ask about your symptoms. An experienced provider can detect telangiectases during a physical examination. There is often a family history of this condition. Tests include: Blood gas tests , Blood tests, Imaging test of the heart called an  echocardiogram ,  Endoscopy , which uses a tiny camera attached to a thin tube to look inside your body,  MRI  to detect AVMs in the brain,  CT  or  ultrasound  scans to detect AVMs in the liver ,  Genetic testing is available to look for changes in genes associated with this syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002876-5" qtype="treatment">What are the treatments for Osler-Weber-Rendu syndrome ?</Question>
+			<Answer>Treatments may include: Surgery to treat bleeding in some areas,  Electrocautery  (heating tissue with electricity) or laser surgery to treat frequent or heavy nosebleeds,  Endovascular embolization  (injecting a substance through a thin tube) to treat abnormal blood vessels in the brain and other parts of the body ,  Some people respond to estrogen therapy, which can reduce bleeding episodes. Iron may also be given if there is a lot of blood loss, leading to anemia. Avoid taking blood-thinning medicines. Some medicines that affect blood vessel development are being studied as possible future treatments.  Some people may need to take antibiotics before having dental work or surgery. People with lung AVMs should avoid scuba diving to prevent decompression sickness (the bends). Ask your provider what other precautions you should take.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002876-6" qtype="support groups">Where to find support for people with Osler-Weber-Rendu syndrome ?</Question>
+			<Answer>More information and support for people with HHT disorder and their families can be found at: Cure HHT --  curehht.org/ , National Organization for Rare Disorders --  rarediseases.org/rare-diseases/hereditary-hemorrhagic-telangiectasia/ , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002876-7" qtype="outlook">What is the outlook for Osler-Weber-Rendu syndrome ?</Question>
+			<Answer>People with this syndrome can live a completely normal lifespan, depending on where in the body the AVMs are located.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002876-8" qtype="complications">What are the complications of Osler-Weber-Rendu syndrome ?</Question>
+			<Answer>These complications can occur: Heart failure, High blood pressure in the lungs ( pulmonary hypertension ), Internal bleeding, Shortness of breath ,  Stroke , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002876-9" qtype="when to contact a medical professional">Do I need to see a doctor for Osler-Weber-Rendu syndrome ?</Question>
+			<Answer>Contact your provider if you or your child has frequent nose bleeds or other signs of this disease.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0002876-10" qtype="prevention">How to prevent Osler-Weber-Rendu syndrome ?</Question>
+			<Answer>Genetic counseling  is recommended for couples who want to have children and who have a family history of HHT. If you have this condition, medical treatments can prevent certain types of strokes and heart failure.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

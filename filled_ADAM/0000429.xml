@@ -1,0 +1,16 @@
+<Document id="0000429" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003897.htm">
+ 
+<Focus>Bernstein test</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Acid perfusion test</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000429-1" qtype="information">Do you have information about Bernstein test</Question>
+			<Answer>The Bernstein test is a method to reproduce symptoms of  heartburn . It is most often done with other tests to measure  esophageal function.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

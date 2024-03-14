@@ -1,0 +1,26 @@
+<Document id="0001101" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000770.htm">
+ 
+<Focus>DASH diet to lower high blood pressure</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020538</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001101-1" qtype="information">What is (are) DASH diet to lower high blood pressure ?</Question>
+			<Answer>DASH stands for Dietary Approaches to Stop Hypertension and is recommended by the US National Heart, Lung and Blood Institute. The DASH diet can help lower high blood pressure, cholesterol and other fats in your blood. It can help lower your risk for heart attack and stroke and help you lose weight. This diet is  low in sodium  (salt) and rich in nutrients.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001101-7" qtype="information">What is (are) DASH diet to lower high blood pressure ?</Question>
+			<Answer>DASH stands for Dietary Approaches to Stop Hypertension and is recommended by the US National Heart, Lung and Blood Institute. The DASH diet can help lower high blood pressure, cholesterol and other fats in your blood. It can help lower your risk for heart attack and stroke and help you lose weight. This diet is  low in sodium  (salt) and rich in nutrients.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

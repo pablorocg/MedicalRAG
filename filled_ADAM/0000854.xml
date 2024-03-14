@@ -1,0 +1,17 @@
+<Document id="0000854" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002998.htm">
+ 
+<Focus>Circumcision</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Foreskin removal</Synonym>
+		<Synonym>Removal of foreskin</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000854-1" qtype="information">Do you have information about Circumcision</Question>
+			<Answer>Circumcision is the surgical removal of the foreskin of the  penis .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

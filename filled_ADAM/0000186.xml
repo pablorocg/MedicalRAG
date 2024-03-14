@@ -1,0 +1,55 @@
+<Document id="0000186" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001218.htm">
+ 
+<Focus>Amenorrhea - primary</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002453</CUI>
+			<CUI>C2219717</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Primary amenorrhea</Synonym>
+		<Synonym>No periods - primary</Synonym>
+		<Synonym>Absent periods - primary</Synonym>
+		<Synonym>Absent menses - primary</Synonym>
+		<Synonym>Absence of periods - primary</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000186-1" qtype="information">What is (are) Amenorrhea - primary ?</Question>
+			<Answer>Absence of a woman's monthly menstrual period is called amenorrhea. Primary amenorrhea is when a girl has not yet started her monthly periods, and she: Has gone through other normal changes that occur during puberty, Is older than 15, </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000186-2" qtype="causes">What causes Amenorrhea - primary ?</Question>
+			<Answer>Most girls begin their periods between ages 9 and 18. The average is around 12 years old. If no periods have occurred when a girl is older than 15, further testing may be needed. The need is more urgent if she has gone through other normal changes that occur during puberty. Being born with incompletely formed genital or pelvic organs can lead to a lack of menstrual periods. Some of these defects include: Blockages or narrowing of the cervix,  Hymen  that has no opening, Missing uterus or vagina, Vaginal septum (a wall that divides the vagina into 2 sections),  Hormones play a big role in a woman's menstrual cycle. Hormone problems can occur when: Changes occur to the parts of the brain where hormones that help manage the menstrual cycle are produced., The ovaries are not working correctly.,  Either of these problems may be due to: Anorexia  (loss of appetite) with low body mass index (BMI), Chronic or long-term illnesses, such as  cystic fibrosis  or heart disease, Genetic defects or disorders, Infections that occurred before or after the woman's birth, Other birth defects, Poor nutrition, Tumors ,  In many cases, the cause of primary amenorrhea is not known.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000186-3" qtype="symptoms">What are the symptoms of Amenorrhea - primary ?</Question>
+			<Answer>A female with amenorrhea will have no menstrual flow. She may have&#160;other signs of puberty.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000186-4" qtype="exams and tests">How to diagnose Amenorrhea - primary ?</Question>
+			<Answer>The health care provider will perform a physical exam to check for birth defects of the vagina or uterus. The provider will ask questions about: Your medical history, Medicines and supplements you may be taking, How much exercise you do, Your eating habits ,  A pregnancy test will be done. Blood tests to measure different hormone levels may include: Estradiol ,  FSH ,  LH ,  Prolactin ,  17 hydroxyprogesterone ,  Serum progesterone , Serum testosterone level,  TSH ,  T3  and  T4 ,  Other tests that may be done include: Chromosome or genetic testing ,  Head CT scan  or  head MRI scan  to look for brain tumors, Pelvic ultrasound to look for birth defects , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000186-5" qtype="treatment">What are the treatments for Amenorrhea - primary ?</Question>
+			<Answer>Treatment depends on the cause of the missing period. Lack of periods that is caused by birth defects may require hormone medicines, surgery, or both. If the amenorrhea is caused by a tumor in the brain: Medicines may shrink certain types of tumors., Surgery to remove the tumor may also be needed.,  Radiation therapy  is usually only done when other treatments have not worked. ,  If the problem is caused by a systemic disease, treatment of the disease may allow menstruation to begin. If the cause is the  bulimia , anorexia or too much exercise, periods will often begin when the weight returns to normal or the exercise level is decreased. If the amenorrhea cannot be corrected, hormone medicines can sometimes be used. Medicines can help the woman feel more like her friends and female family members. They can also protect the bones from becoming too thin ( osteoporosis ).</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000186-6" qtype="outlook">What is the outlook for Amenorrhea - primary ?</Question>
+			<Answer>The outlook depends on the cause of the amenorrhea and whether it can be corrected with treatment or lifestyle changes.  Periods are not likely to start on their own if the amenorrhea was caused by&#160;one of the following conditions: Birth defects of the female organs,  Craniopharyngioma  (a tumor near the pituitary gland at the base of the brain), Cystic fibrosis, Genetic disorders ,  You may have emotional distress because you feel different from friends or family. Or, you may worry that you might not be able to have children.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000186-7" qtype="when to contact a medical professional">Do I need to see a doctor for Amenorrhea - primary ?</Question>
+			<Answer>Contact your provider if your daughter is older than 15 and has not yet begun menstruating, or if she is 14 or older and shows no other signs of puberty.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

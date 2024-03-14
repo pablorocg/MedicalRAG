@@ -1,0 +1,22 @@
+<Document id="0000346" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000682.htm">
+ 
+<Focus>Asymptomatic HIV infection</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0343751</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000346-1" qtype="information">What is (are) Asymptomatic HIV infection ?</Question>
+			<Answer>Asymptomatic HIV infection is the second stage of  HIV/AIDS . During this stage, there are no symptoms of HIV infection. This stage is also called chronic HIV infection or clinical latency. During this stage, the virus keeps multiplying in the body and the immune system slowly weakens, but the person has no symptoms. How long this stage lasts depends on how quickly the HIV virus copies itself, and how the person's genes affect the way the body handles the virus. Some people may have symptoms and worsening immune function within a few years after the original infection. Others can go 10 years or longer without symptoms.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,38 @@
+<Document id="0004352" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002570.htm">
+ 
+<Focus>Zinc poisoning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0274986</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004352-1" qtype="information">What is (are) Zinc poisoning ?</Question>
+			<Answer>Zinc is a metal as well as an essential mineral. Your body needs zinc to function properly. If you take a multivitamin, chances are it has zinc in it. In this form, zinc is both necessary and relatively safe.  Zinc can also be obtained in your diet .  Zinc, however, can be mixed with other materials to make industrial items such as paint, dyes, and more. These combination substances can be particularly toxic. This article discusses poisoning from zinc. This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004352-4" qtype="symptoms">What are the symptoms of Zinc poisoning ?</Question>
+			<Answer>Symptoms may include: Body pain, Burning sensations,  Convulsions , Cough, Fever and chills, Low blood pressure, Metallic taste in mouth,  No urine output , Rash,  Shock ,  collapse , Shortness of breath, Vomiting, Watery or bloody diarrhea, Yellow eyes or yellow skin , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004352-5" qtype="considerations">What to do for Zinc poisoning ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004352-8" qtype="outlook">What is the outlook for Zinc poisoning ?</Question>
+			<Answer>How well a person does depends on the amount of poison swallowed and how quickly treatment was received. The faster a person gets medical help, the better the chance for recovery. If symptoms are mild, the person will usually make a full recovery. If the poisoning is severe, death may occur up to a week after swallowing the poison.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0004352-9" qtype="outlook">What is the outlook for Zinc poisoning ?</Question>
+			<Answer>How well a person does depends on the amount of poison swallowed and how quickly treatment was received. The faster a person gets medical help, the better the chance for recovery. If symptoms are mild, the person will usually make a full recovery. If the poisoning is severe, death may occur up to a week after swallowing the poison.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

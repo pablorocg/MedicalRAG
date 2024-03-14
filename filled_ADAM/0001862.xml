@@ -1,0 +1,20 @@
+<Document id="0001862" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000103.htm">
+ 
+<Focus>Heart bypass surgery - minimally invasive - discharge</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Minimally invasive direct coronary artery bypass - discharge</Synonym>
+		<Synonym>MIDCAB - discharge</Synonym>
+		<Synonym>Robot assisted coronary artery bypass - discharge</Synonym>
+		<Synonym>RACAB - discharge</Synonym>
+		<Synonym>Keyhole heart surgery - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001862-1" qtype="information">Do you have information about Heart bypass surgery - minimally invasive - discharge</Question>
+			<Answer>Heart bypass surgery creates a new route, called a bypass, for blood and oxygen to reach your heart muscle. Minimally invasive coronary (heart) artery bypass can be done without stopping the heart. Therefore, you do not need to be put on a heart-lung machine for this procedure. This article discusses what you need to do to care for yourself after you leave the hospital.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

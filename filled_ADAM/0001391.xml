@@ -1,0 +1,54 @@
+<Document id="0001391" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001484.htm">
+ 
+<Focus>Endometritis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014179</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001391-1" qtype="information">What is (are) Endometritis ?</Question>
+			<Answer>Endometritis is an inflammation or irritation of the lining of the uterus (the endometrium). It is not the same as  endometriosis .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001391-2" qtype="causes">What causes Endometritis ?</Question>
+			<Answer>Endometritis is caused by an infection in the uterus. It can be due to chlamydia, gonorrhea, tuberculosis, or a mix of normal vaginal bacteria. It is more likely to occur after miscarriage or childbirth. It is also more common after a long labor or C-section. The risk for endometritis is higher after having a pelvic procedure that is done through the cervix. Such procedures include: D and C  (dilation and curettage), Endometrial biopsy, Hysteroscopy, Placement of an intrauterine device (IUD) , Childbirth (more common after  C-section  than vaginal birth),  Endometritis can occur at the same time as other pelvic infections.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001391-3" qtype="symptoms">What are the symptoms of Endometritis ?</Question>
+			<Answer>Symptoms may include: Swelling of the abdomen,  Abnormal vaginal bleeding  or  discharge , Discomfort with bowel movement (including constipation), Fever, General discomfort, uneasiness, or ill feeling, Pain in lower abdomen or pelvic region (uterine pain) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001391-4" qtype="exams and tests">How to diagnose Endometritis ?</Question>
+			<Answer>Your health care provider will perform a physical exam with a pelvic exam. Your uterus and  cervix  may be tender and your provider may not hear  bowel sounds . You may have cervical discharge. The following tests may be performed: Cultures from the cervix for  chlamydia ,  gonorrhea , and other organisms,  Endometrial biopsy , ESR ( erythrocyte sedimentation rate ),  Laparoscopy , WBC ( white blood count ),  Wet prep  (microscopic exam of any discharge) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001391-5" qtype="treatment">What are the treatments for Endometritis ?</Question>
+			<Answer>You will need to take antibiotics to treat the infection and prevent complications. Finish all your medicine if you have been given antibiotics after a pelvic procedure. Also, go to all recommended follow-up visits with your provider.  You may need to be treated in the hospital if your symptoms are severe or occur after childbirth.  Other treatments may involve: Fluids through a vein (by IV), Rest ,  Sexual partners may need to be treated if the condition is caused by a sexually transmitted infection (STI).</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001391-6" qtype="outlook">What is the outlook for Endometritis ?</Question>
+			<Answer>In most cases, the condition goes away with antibiotics. Untreated endometritis can lead to more serious infections and complications. Rarely, it may be associated with a diagnosis of endometrial cancer.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001391-7" qtype="complications">What are the complications of Endometritis ?</Question>
+			<Answer>Complications may include: Infertility , Pelvic  peritonitis  (generalized pelvic infection), Pelvic or uterine  abscess  formation,  Septicemia ,  Septic shock , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001391-8" qtype="when to contact a medical professional">Do I need to see a doctor for Endometritis ?</Question>
+			<Answer>Contact your provider if you have symptoms of endometritis. Call right away if symptoms occur after:  Childbirth, Miscarriage, Abortion, IUD placement, Surgery involving the uterus, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001391-9" qtype="prevention">How to prevent Endometritis ?</Question>
+			<Answer>Endometritis may be caused by STIs. To help prevent endometritis from STIs:  Treat STIs early., Make sure sexual partners are treated in the case of a STI., Follow safer sex practices, such as using condoms. ,  Women having a C-section may have antibiotics before the procedure to prevent infections.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,61 @@
+<Document id="0001939" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007671.htm">
+ 
+<Focus>Hepatitis B - children</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019163</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Silent infection - HBV children</Synonym>
+		<Synonym>Antivirals - hepatitis B children</Synonym>
+		<Synonym>HBV children</Synonym>
+		<Synonym>Pregnancy - hepatitis B children</Synonym>
+		<Synonym>Maternal transmission - hepatitis B children</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001939-1" qtype="information">What is (are) Hepatitis B - children ?</Question>
+			<Answer>Hepatitis B in children is swelling and inflamed tissue of the liver due to infection with the hepatitis B virus (HBV). Other common hepatitis virus infections include  hepatitis A  and  hepatitis C .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001939-2" qtype="causes">What causes Hepatitis B - children ?</Question>
+			<Answer>HBV is found in the blood or body fluids (semen, tears, or saliva) of an infected person. The virus is not present in the stool (feces). A child can get HBV through contact with the blood or body fluids of a person who has the virus. Exposure can occur from: A mother with HBV at the time of birth. It does not appear that HBV is passed to the fetus while still in the mother's womb., A bite from an infected person that breaks the skin., Blood, saliva, or any other body fluid from an infected person that may touch a break or opening in a child's skin, eyes, or mouth., Sharing personal items, such as a toothbrush, with someone who has the virus., Being stuck with a needle after use by an HBV-infected person.,  A child cannot get hepatitis B from hugging, kissing, coughing, or sneezing. Breastfeeding by a mother with hepatitis B is safe if the child is treated properly at the time of birth. Teenagers who are not vaccinated can get HBV during unprotected sex or drug use.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001939-3" qtype="symptoms">What are the symptoms of Hepatitis B - children ?</Question>
+			<Answer>Most children with hepatitis B have none or only a few symptoms. Children younger than 5 years rarely have symptoms of hepatitis B. Older children may develop symptoms 3 to 4 months after the virus enters the body. The main symptoms of a new or recent infection are: Appetite loss, Fatigue, Low fever, Muscle and joint pain, Nausea and vomiting, Yellow skin and eyes ( jaundice ), Dark urine,  If the body is able to fight HBV, the symptoms end in a few weeks to 6 months. This is called acute hepatitis B. Acute hepatitis B does not cause any lasting problems.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001939-4" qtype="exams and tests">How to diagnose Hepatitis B - children ?</Question>
+			<Answer>Your child's health care provider will perform blood tests called the  hepatitis viral panel . These tests can help diagnose: A new infection (acute hepatitis B), A chronic or long-term infection (chronic hepatitis B), An infection that occurred in the past, but is no longer present,  The following tests detect liver damage and the risk for liver cancer from chronic hepatitis B: Albumin level ,  Liver function tests ,  Prothrombin time ,  Liver biopsy , Abdominal ultrasound, Liver cancer tumor markers such as  alpha fetoprotein ,  The provider will also check the viral load of HBV in the blood. This test shows how well your child's treatment is working.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001939-5" qtype="treatment">What are the treatments for Hepatitis B - children ?</Question>
+			<Answer>Acute hepatitis B does not need any special treatment. Your child's immune system will fight the disease. If there is no sign of the HBV infection after 6 months, then your child has recovered fully. However, while the virus is present, your child can pass the virus to others. You should take steps to help prevent the disease from spreading. Chronic hepatitis B needs treatment. The goal of treatment is to relieve any symptoms, prevent the disease from spreading, and help prevent liver disease. Make sure that your child: Gets plenty of rest, Drinks lots of fluids, Eats healthy foods ,  Your child's provider also may recommend antiviral medicines. The medicines decrease or remove HBV from the blood: Interferon alpha-2b (Intron A) can be given to children age 1 year and older., Lamivudine (Epivir) and entecavir (Baraclude) are used in children age 2 years and older., Tenofovir (Viread) is given to children age 12 years and older. ,  It is not always clear what medicines should be given. Children with chronic hepatitis B may get these medicines when: Liver function quickly gets worse, The liver shows signs of long-term damage, HBV level is high in the blood , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001939-6" qtype="outlook">What is the outlook for Hepatitis B - children ?</Question>
+			<Answer>Many children are able to rid their body of the HBV and do not have a long-term infection. However, some children never get rid of HBV. This is called chronic hepatitis B infection. Younger children are more prone to chronic hepatitis B., These children do not feel sick, and lead a relatively healthy life. However, over time, they may develop symptoms of  long-term (chronic) liver damage .,  Almost all newborns and about half of children who get hepatitis B develop the long-term (chronic) condition. A positive blood test after 6 months confirms chronic hepatitis B. The disease will not affect your child's growth and development. Regular monitoring plays an important role in managing the disease in children. You should also help your child learn how to avoid  spreading the disease  now and into adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001939-7" qtype="complications">What are the complications of Hepatitis B - children ?</Question>
+			<Answer>The possible complications of hepatitis B include: Liver damage, Liver cirrhosis,  Liver cancer ,  These complications generally occur during adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001939-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hepatitis B - children ?</Question>
+			<Answer>Contact your child's provider if: Your child has symptoms of hepatitis B , Hepatitis B symptoms do not go away, New symptoms develop, The child belongs to a high-risk group for hepatitis B and has not had the HBV vaccine, </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001939-9" qtype="prevention">How to prevent Hepatitis B - children ?</Question>
+			<Answer>If a pregnant woman has acute or chronic hepatitis B, these steps are taken to prevent the virus from being transmitted to a baby at birth: Newborn babies should receive their first hepatitis B vaccine and one dose of immunoglobulins (IG) within 12 hours., The baby should complete all  hepatitis B vaccines  as recommended during the first 6 months., Some pregnant women may receive drugs to lower the level of HBV in their blood.,  To prevent hepatitis B infection: Children should get the first dose of hepatitis B vaccine at birth. They should have all 3 shots in the series by age 6 months., Children who have not had the vaccine should get "catch-up" doses., Children should avoid contact with blood and body fluids., Children should not share toothbrushes or any other items that may be infected., All women should be screened for HBV during pregnancy., Mothers with an HBV infection can breastfeed their child after immunization., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

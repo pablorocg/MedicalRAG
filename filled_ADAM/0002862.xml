@@ -1,0 +1,54 @@
+<Document id="0002862" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001622.htm">
+ 
+<Focus>Optic nerve atrophy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0029124</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Optic atrophy</Synonym>
+		<Synonym>Optic neuropathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002862-1" qtype="information">What is (are) Optic nerve atrophy ?</Question>
+			<Answer>Optic nerve atrophy is damage to the optic nerve. The optic nerve carries images of what the eye sees to the brain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002862-2" qtype="causes">What causes Optic nerve atrophy ?</Question>
+			<Answer>There are many causes of optic atrophy. The most common is poor blood flow. This is called ischemic optic neuropathy. The problem most often affects older adults. The optic nerve can also be damaged by shock, toxins, radiation, and trauma. Eye diseases, such as  glaucoma , can also cause a form of optic nerve atrophy. The condition can also be caused by diseases of the brain and central nervous system. These may include:  Brain tumor, Cranial arteritis (sometimes called temporal arteritis or giant cell arteritis),  Multiple sclerosis ,  Stroke ,  There are also rare forms of hereditary optic nerve atrophy that affect children and young adults. Sometimes injuries to the face or head may result in optic nerve atrophy.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002862-3" qtype="symptoms">What are the symptoms of Optic nerve atrophy ?</Question>
+			<Answer>Optic nerve atrophy causes vision to dim and reduces the field of vision. The ability to see fine detail will also be lost. Colors will seem faded. Over time, the pupil will be less able to react to light, and eventually,&#160;its ability to react to light may be lost. </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002862-4" qtype="exams and tests">How to diagnose Optic nerve atrophy ?</Question>
+			<Answer>The health care provider will do a complete eye exam to look for the condition. The exam will include tests of: Color vision, Pupil light reflex,  Tonometry , Visual acuity , Visual field (side vision) test,  You may also need a complete  physical exam  and other tests.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002862-5" qtype="treatment">What are the treatments for Optic nerve atrophy ?</Question>
+			<Answer>Damage from optic nerve atrophy cannot be reversed. The underlying disease must be found and treated. Otherwise, vision loss will continue. Rarely, conditions that lead to optic atrophy may be treatable. Stem cells may prove helpful for people with optic atrophy.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002862-6" qtype="outlook">What is the outlook for Optic nerve atrophy ?</Question>
+			<Answer>Vision lost to optic nerve atrophy cannot be recovered. It is very important to protect the other eye.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002862-7" qtype="when to contact a medical professional">Do I need to see a doctor for Optic nerve atrophy ?</Question>
+			<Answer>People with this condition need to be checked regularly by an eye doctor with experience in nerve-related conditions. Tell your doctor right away about any change in vision.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002862-8" qtype="prevention">How to prevent Optic nerve atrophy ?</Question>
+			<Answer>Many causes of optic nerve atrophy cannot be prevented. Prevention steps include: Older adults should have their provider carefully manage their blood pressure., Use standard safety precautions to prevent injuries to the face. Most facial injuries are the result of car accidents. Wearing seat belts may help prevent these injuries., Schedule a routine annual eye exam to check for glaucoma., Never drink home-brewed alcohol and forms of alcohol that are not intended for drinking. Methanol, which may be found in home-brewed alcohol, can cause optic nerve atrophy in both eyes., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

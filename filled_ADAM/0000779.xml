@@ -1,0 +1,18 @@
+<Document id="0000779" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003804.htm">
+ 
+<Focus>Chest x-ray</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Chest radiography</Synonym>
+		<Synonym>Serial chest x-ray</Synonym>
+		<Synonym>X-ray - chest</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000779-1" qtype="information">Do you have information about Chest x-ray</Question>
+			<Answer>A chest x-ray is an  x-ray  of the chest, lungs, heart, large arteries, ribs, and diaphragm.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

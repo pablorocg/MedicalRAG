@@ -1,0 +1,47 @@
+<Document id="0000260" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002925.htm">
+ 
+<Focus>Anti-reflux surgery</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017168</CUI>
+			<CUI>C0232483</CUI>
+			<CUI>C0940159</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Fundoplication</Synonym>
+		<Synonym>Nissen fundoplication</Synonym>
+		<Synonym>Belsey (Mark IV) fundoplication</Synonym>
+		<Synonym>Toupet fundoplication</Synonym>
+		<Synonym>Thal fundoplication</Synonym>
+		<Synonym>Hiatal hernia repair</Synonym>
+		<Synonym>Endoluminal fundoplication</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000260-1" qtype="information">What is (are) Anti-reflux surgery ?</Question>
+			<Answer>Anti-reflux surgery is a treatment for acid reflux, also known as  GERD  (gastroesophageal reflux disease). GERD is a condition in which food or stomach acid comes back up from your stomach into the esophagus. The esophagus is the tube from your mouth to the stomach. Reflux often occurs if the muscles where the esophagus meets the stomach do not close tightly enough. A  hiatal hernia  can make GERD symptoms worse. It occurs when the stomach bulges through this opening into your chest. Symptoms of reflux or heartburn are burning in the stomach that you may also feel in your throat or chest, burping or gas bubbles, or trouble swallowing food or fluids.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000260-2" qtype="information">What is (are) Anti-reflux surgery ?</Question>
+			<Answer>Anti-reflux surgery is a treatment for acid reflux, also known as  GERD  (gastroesophageal reflux disease). GERD is a condition in which food or stomach acid comes back up from your stomach into the esophagus. The esophagus is the tube from your mouth to the stomach. Reflux often occurs if the muscles where the esophagus meets the stomach do not close tightly enough. A  hiatal hernia  can make GERD symptoms worse. It occurs when the stomach bulges through this opening into your chest. Symptoms of reflux or heartburn are burning in the stomach that you may also feel in your throat or chest, burping or gas bubbles, or trouble swallowing food or fluids.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000260-4" qtype="susceptibility">Who is at risk for Anti-reflux surgery? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000260-7" qtype="outlook">What is the outlook for Anti-reflux surgery ?</Question>
+			<Answer>Heartburn and other symptoms should improve after surgery. Some people still need to take drugs for heartburn after surgery. You may need another surgery in the future if you develop new reflux symptoms or swallowing problems. This may happen if the stomach was wrapped around the esophagus too tightly, the wrap loosens, or a new hiatal hernia develops.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

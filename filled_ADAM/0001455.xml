@@ -1,0 +1,59 @@
+<Document id="0001455" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000289.htm">
+ 
+<Focus>Esophageal spasm</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014863</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Diffuse esophageal spasm</Synonym>
+		<Synonym>Spasm of the esophagus</Synonym>
+		<Synonym>Distal esophageal spasm</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001455-1" qtype="information">What is (are) Esophageal spasm ?</Question>
+			<Answer>Esophageal spasms are abnormal contractions of the muscles in the esophagus, the tube that carries food from the mouth to the stomach. These  spasms  do not move food effectively to the stomach.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001455-2" qtype="causes">What causes Esophageal spasm ?</Question>
+			<Answer>The cause of esophageal spasm is unknown. Very hot or very cold foods may trigger spasms in some people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001455-3" qtype="symptoms">What are the symptoms of Esophageal spasm ?</Question>
+			<Answer>Symptoms may include: Problems swallowing  or pain with swallowing,  Pain in the chest  or upper abdomen ,  It can be hard to tell a spasm from  angina  pectoris, a symptom of heart disease. The pain may spread to the neck, jaw, arms, or back</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001455-4" qtype="exams and tests">How to diagnose Esophageal spasm ?</Question>
+			<Answer>Tests you may need to look for the condition include: Esophagogastroduodenoscopy  (EGD),  Esophageal manometry , Esophagogram (barium swallow x-ray) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001455-5" qtype="treatment">What are the treatments for Esophageal spasm ?</Question>
+			<Answer>Nitroglycerin given under the tongue (sublingual) may help a sudden episode of esophageal spasm. Long-acting nitroglycerin and calcium channel blockers are also used for the problem. Long-term (chronic) cases are sometimes treated with low-dose antidepressants such as trazodone or nortriptyline to reduce symptoms. Rarely, severe cases may need dilation (widening) of the esophagus or surgery to control symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001455-6" qtype="outlook">What is the outlook for Esophageal spasm ?</Question>
+			<Answer>An esophageal spasm may come and go (intermittent) or last for a long time ( chronic) . Medicine can help relieve symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001455-7" qtype="complications">What are the complications of Esophageal spasm ?</Question>
+			<Answer>The condition may not respond to treatment.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001455-8" qtype="when to contact a medical professional">Do I need to see a doctor for Esophageal spasm ?</Question>
+			<Answer>Contact your health care provider if you have symptoms of esophageal spasm that don't go away. The symptoms may actually be due to heart problems. Your provider can help decide if you need heart tests.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001455-9" qtype="prevention">How to prevent Esophageal spasm ?</Question>
+			<Answer>Avoid very hot or very cold foods if you get esophageal spasms.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

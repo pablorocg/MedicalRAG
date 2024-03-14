@@ -1,0 +1,17 @@
+<Document id="0000278" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003522.htm">
+ 
+<Focus>Antistreptolysin O titer</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>ASO titer</Synonym>
+		<Synonym>ASLO</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000278-1" qtype="information">Do you have information about Antistreptolysin O titer</Question>
+			<Answer>Antistreptolysin O (ASO) titer is a blood test to measure  antibodies  against streptolysin O, a substance produced by group A streptococcus bacteria. Antibodies are proteins our bodies produce when they detect harmful substances, such as bacteria.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

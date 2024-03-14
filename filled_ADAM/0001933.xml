@@ -1,0 +1,61 @@
+<Document id="0001933" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000239.htm">
+ 
+<Focus>Hepatic vein obstruction (Budd-Chiari)</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019154</CUI>
+			<CUI>C0856761</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Budd-Chiari syndrome</Synonym>
+		<Synonym>Hepatic veno-occlusive disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001933-1" qtype="information">What is (are) Hepatic vein obstruction (Budd-Chiari) ?</Question>
+			<Answer>Hepatic vein obstruction is a blockage of the  hepatic  vein, which carries blood away from the liver.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001933-2" qtype="causes">What causes Hepatic vein obstruction (Budd-Chiari) ?</Question>
+			<Answer>Hepatic vein obstruction prevents blood from flowing out of the liver and back to the heart. This blockage can cause liver damage. Obstruction of this vein can be caused by a  tumor  or growth pressing on the vessel, or by a clot in the vessel (hepatic vein thrombosis). Most often, it is caused by conditions that make blood clots more likely to form, including: Abnormal growth of cells in the bone marrow (myeloproliferative disorders), Cancers, Chronic inflammatory or  autoimmune  diseases, Infections, Inherited (hereditary) or acquired problems with blood clotting, Oral contraceptives, Pregnancy,  Hepatic vein blockage is the most common cause of Budd-Chiari syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001933-3" qtype="symptoms">What are the symptoms of Hepatic vein obstruction (Budd-Chiari) ?</Question>
+			<Answer>Symptoms include: Abdominal swelling or stretching due to fluid in the abdomen, Pain in the right upper abdomen, Vomiting blood, Yellowing of the skin (jaundice) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001933-4" qtype="exams and tests">How to diagnose Hepatic vein obstruction (Budd-Chiari) ?</Question>
+			<Answer>One of the signs is swelling of the abdomen from fluid buildup ( ascites ). The liver is often swollen and tender. Tests include: CT scan  or  MRI of the abdomen ,  Doppler ultrasound of the liver veins ,  Liver biopsy ,  Liver function tests ,  Ultrasound  of the liver, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001933-5" qtype="treatment">What are the treatments for Hepatic vein obstruction (Budd-Chiari) ?</Question>
+			<Answer>Treatment varies, depending on the cause of the blockage. Your health care provider may recommend the following medicines: 
+   Blood thinners (anticoagulants)
+   , 
+   Clot-busting drugs (thrombolytic treatment)
+   , 
+   Medicines to treat the liver disease, including ascites
+   ,  Surgery may be recommended. This may involve: Angioplasty  and  stent  placement, Transjugular intrahepatic portosystemic shunt ( TIPS ), Venous shunt surgery , Liver transplant, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001933-6" qtype="complications">What are the complications of Hepatic vein obstruction (Budd-Chiari) ?</Question>
+			<Answer>Hepatic vein obstruction can get worse and lead to  cirrhosis  and liver failure. This can be life threatening.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001933-7" qtype="when to contact a medical professional">Do I need to see a doctor for Hepatic vein obstruction (Budd-Chiari) ?</Question>
+			<Answer>Contact your provider if: 
+   You have symptoms of hepatic vein obstruction
+   , 
+   You are being treated for this condition and you develop new symptoms
+   , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

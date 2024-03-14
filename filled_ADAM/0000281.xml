@@ -1,0 +1,20 @@
+<Document id="0000281" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003556.htm">
+ 
+<Focus>Antithyroid microsomal antibody</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Thyroid antimicrosomal antibody</Synonym>
+		<Synonym>Antimicrosomal antibody</Synonym>
+		<Synonym>Microsomal antibody</Synonym>
+		<Synonym>Thyroid peroxidase antibody</Synonym>
+		<Synonym>TPOAb</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000281-1" qtype="information">Do you have information about Antithyroid microsomal antibody</Question>
+			<Answer>Thyroid peroxidase is a type of protein (called an enzyme) that cells in the thyroid gland use to make thyroid hormone. If these enzymes leak out into the bloodstream (as when thyroid cells are damaged) the immune system makes  antibodies  against these proteins. The thyroid peroxidase antibody test measures these antibodies in the blood.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,58 @@
+<Document id="0000348" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000065.htm">
+ 
+<Focus>Atelectasis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1962948</CUI>
+			<CUI>C0004144</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Partial lung collapse</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000348-1" qtype="information">What is (are) Atelectasis ?</Question>
+			<Answer>Atelectasis is the collapse of part or, much less commonly, all of a lung.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000348-2" qtype="causes">What causes Atelectasis ?</Question>
+			<Answer>Atelectasis is caused by a blockage of the air passages (bronchus or bronchioles) or by pressure on the outside of the lung. Atelectasis is not the same as another type of collapsed lung called  pneumothorax , which occurs when air escapes from the lung. The air then fills the space outside of the lung, between the lung and chest wall. In atelectasis, there is usually fluid between the lung and the chest wall and the air sacs within the lung fill with fluid. Atelectasis is common after surgery or in people who are or were in the hospital. Risk factors for developing atelectasis include: Anesthesia, Use of a  breathing tube , Foreign object in the airway (most common in children),  Lung disease , Mucus that plugs the airway, Pressure on the lung caused by a buildup of fluid between the ribs and the lungs (called a  pleural effusion ), Prolonged bed rest with few changes in position, Shallow breathing (may be caused by painful breathing or muscle weakness),  Tumors  that block an airway , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000348-3" qtype="symptoms">What are the symptoms of Atelectasis ?</Question>
+			<Answer>Symptoms may include any of the following: Breathing difficulty ,  Chest pain ,  Cough ,  There are no symptoms if atelectasis is mild.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000348-4" qtype="exams and tests">How to diagnose Atelectasis ?</Question>
+			<Answer>To confirm if you have atelectasis and determine its cause, the following tests will likely be done to view the lungs and airways: Physical exam by auscultating (listening) or percussing (tapping) the chest,  Bronchoscopy ,  Chest CT  or MRI scan,  Chest x-ray ,  Ultrasound  of chest, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000348-5" qtype="treatment">What are the treatments for Atelectasis ?</Question>
+			<Answer>The goal of treatment is to treat the underlying cause and re-expand the collapsed lung tissue. If fluid is putting pressure on the lung, removing the fluid may allow the lung to expand. Treatments include one or more of the following: Clap ( percussion ) on the chest to loosen mucus plugs in the airway., Deep breathing exercises (with the help of  incentive spirometry devices )., Remove or relieve any blockage in the airways by  bronchoscopy ., Tilt the person so the head is lower than the chest (called postural drainage). This allows mucus to drain more easily., Treat a tumor or other condition., Turn the person to lie on the healthy side, allowing the collapsed area of lung to re-expand., Use inhaled medicines to open the airway., Use other devices that help increase positive pressure in the airways and clear fluids. , Be physically active if possible, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000348-6" qtype="outlook">What is the outlook for Atelectasis ?</Question>
+			<Answer>In an adult, atelectasis in a small area of the lung is usually not life threatening. The rest of the lung can make up for the collapsed area, bringing in enough oxygen for the body to function. Large areas of atelectasis may be life threatening, often in a baby or small child, or in someone who has another lung disease or illness. The collapsed lung usually reinflates slowly if the airway blockage has been removed. Scarring or damage may remain. The outlook depends on the underlying disease. For example, people with extensive cancer often don't do well, while those with simple atelectasis after surgery have a very good outcome.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000348-7" qtype="complications">What are the complications of Atelectasis ?</Question>
+			<Answer>Pneumonia  may develop quickly after atelectasis in the affected part of the lung.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000348-8" qtype="when to contact a medical professional">Do I need to see a doctor for Atelectasis ?</Question>
+			<Answer>Contact your health care provider right away if you develop symptoms of atelectasis.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000348-9" qtype="prevention">How to prevent Atelectasis ?</Question>
+			<Answer>To prevent atelectasis: Encourage movement and deep breathing in anyone who is bedridden for long periods., Keep small objects out of the reach of young children., Maintain deep breathing after anesthesia., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

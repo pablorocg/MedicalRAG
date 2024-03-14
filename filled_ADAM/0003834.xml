@@ -1,0 +1,28 @@
+<Document id="0003834" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002119.htm">
+ 
+<Focus>Taking care of your back at home</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0580931</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Back strain treatment</Synonym>
+		<Synonym>Back pain - home care</Synonym>
+		<Synonym>Low back pain - home care</Synonym>
+		<Synonym>Lumbar pain - home care</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003834-1" qtype="information">What is (are) Taking care of your back at home ?</Question>
+			<Answer>A common myth about back pain is that you need to rest and avoid activity for a long time. In fact, doctors do not recommend bed rest. If you have no sign of a serious cause for your back pain (such as loss of bowel or bladder control, weakness, weight loss, or fever), stay as active as possible.  Here are tips for how to handle back pain and activity: Stop normal physical activity for only the first few days. This helps calm your symptoms and reduce swelling (inflammation) in the area of the pain., Apply heat or ice to the painful area. Use ice for the first 48 to 72 hours, and then use heat., Take over-the-counter pain relievers such as ibuprofen (Advil, Motrin IB) or acetaminophen (Tylenol)., Sleep in a curled-up, fetal position with a pillow between your legs. If you usually sleep on your back, place a pillow or rolled towel under your knees to relieve pressure., Do not do activities that involve heavy lifting or twisting of your back for the first 6 weeks after the pain begins., Do not exercise in the days right after the pain begins. After 2 to 3 weeks, slowly begin to exercise again. A physical therapist can teach you which exercises are right for you. ,  EXERCISE TO PREVENT FUTURE BACK PAIN Through exercise you can: Improve your posture, Strengthen your back and abdomen, and improve flexibility, Lose weight,  Avoid falls ,  A complete exercise program should include aerobic activity such as walking, swimming, or riding a stationary bicycle. It should also include stretching and strength training. Follow the instructions of your health care provider or physical therapist.  Begin with light cardiovascular training. Walking, riding an upright stationary bicycle (not the recumbent kind), and swimming are great examples. These types of aerobic activities can help improve blood flow to your back and promote healing. They also strengthen muscles in your stomach and back. Stretching and strengthening exercises are important in the long run. Keep in mind that starting these exercises too soon after an injury can make your pain worse. Strengthening your abdominal muscles can ease the stress on your back. A physical therapist can help you determine when to begin stretching and strengthening exercises and how to do them. Avoid these exercises during recovery, unless your provider or physical therapist says it is OK: Jogging, Contact sports, Racquet sports, Golf, Dancing, Weight lifting, Leg lifts when lying on your stomach, Sit-ups ,  TAKING MEASURES TO PREVENT FUTURE BACK PAIN To prevent back pain, learn to lift and bend properly. Follow these tips: If an object is too heavy or awkward, get help., Spread your feet apart to give you a wide base of support., Stand as close as possible to the object you are lifting., Bend at your knees, not at your waist., Tighten your stomach muscles as you lift or lower the object., Hold the object as close to your body as you can., Lift using your leg muscles., As you stand up while holding the object, do not bend forward. Try to keep your back straight., Do not twist while you are bending to reach for the object, lifting it up, or carrying it. ,  Other measures to prevent back pain include: Avoid standing for long periods. If you must stand for your work, place a stool by your feet. Alternate resting each foot on the stool., Do not wear high heels. Wear shoes that have cushioned soles when walking., When sitting, especially if using a computer, make sure that your chair has a straight back with an adjustable seat and back, armrests, and a swivel seat., Use a stool under your feet while sitting so that your knees are higher than your hips., Place a small pillow or rolled towel behind your lower back while sitting or driving for long periods., If you drive long-distance, stop and walk around every hour. Do not lift heavy objects just after a long ride., Quit smoking., Lose weight., Do exercises to strengthen your abdominal muscles. This will strengthen your core to decrease the risk of further injuries., Learn to relax. Try methods such as yoga, tai chi, or massage. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

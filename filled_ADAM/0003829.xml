@@ -1,0 +1,30 @@
+<Document id="0003829" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003517.htm">
+ 
+<Focus>T4 test</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0456984</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Thyroxine test</Synonym>
+		<Synonym>Total T4 test</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003829-1" qtype="information">What is (are) T4 test ?</Question>
+			<Answer>T4 (thyroxine) is the main hormone produced by the thyroid gland. A laboratory test can be done to measure the amount of free T4 in your blood. Free T4 is the thyroxine that is not attached to a protein in the blood.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003829-8" qtype="susceptibility">Who is at risk for T4 test? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

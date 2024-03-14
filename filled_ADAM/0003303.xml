@@ -1,0 +1,16 @@
+<Document id="0003303" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003077.htm">
+ 
+<Focus>Pulse - bounding</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Bounding pulse</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003303-1" qtype="information">Do you have information about Pulse - bounding</Question>
+			<Answer>A bounding  pulse  is a strong throbbing felt over one of the arteries in the body. It is due to a forceful heartbeat.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

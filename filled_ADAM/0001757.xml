@@ -1,0 +1,61 @@
+<Document id="0001757" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000142.htm">
+ 
+<Focus>Goodpasture syndrome</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0403529</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Antiglomerular basement membrane antibody disease</Synonym>
+		<Synonym>Rapidly progressive glomerulonephritis with pulmonary hemorrhage</Synonym>
+		<Synonym>Pulmonary renal syndrome</Synonym>
+		<Synonym>Glomerulonephritis - pulmonary hemorrhage</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001757-1" qtype="information">What is (are) Goodpasture syndrome ?</Question>
+			<Answer>Anti-glomerular basement membrane disease (anti-GBM disease) is a rare disorder that can involve  quickly worsening kidney failure  and lung disease. Some forms of the disease involve just the lungs or the kidneys. Anti-GBM disease used to be known as Goodpasture syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001757-2" qtype="causes">What causes Goodpasture syndrome ?</Question>
+			<Answer>Anti-GBM disease is an  autoimmune disorder . It occurs when the immune system mistakenly attacks and destroys healthy body tissue. People with this syndrome develop substances that attack a protein called collagen in the tiny air sacs in the lungs and the filtering units (glomeruli) of the kidneys. These substances are called antiglomerular basement membrane antibodies. The glomerular basement membrane is a part of the kidneys that helps filter waste and extra fluid from the blood. Antiglomerular basement membrane antibodies are  antibodies  against this membrane. They can damage the basement membrane, which can lead to kidney damage. Sometimes, this disorder is triggered by a viral respiratory infection or by breathing in hydrocarbon solvents. In such cases, the immune system may attack organs or tissues because it mistakes them for these viruses or foreign chemicals. The immune system's faulty response causes bleeding in the air sacs of the lungs and inflammation in the kidney's filtering units.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001757-3" qtype="symptoms">What are the symptoms of Goodpasture syndrome ?</Question>
+			<Answer>Symptoms may occur very slowly over months or even years, but they often develop very quickly over days to weeks. Loss of appetite, fatigue, and  weakness  are common early symptoms. Lung symptoms may include: Coughing up blood, Dry  cough , Shortness of breath,  Kidney and other symptoms include: Bloody urine , Burning sensation when urinating,  Nausea and vomiting ,  Pale skin , Swelling (edema) in any area of the body, especially in the legs, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001757-4" qtype="exams and tests">How to diagnose Goodpasture syndrome ?</Question>
+			<Answer>A physical exam may reveal  high blood pressure  and signs of fluid overload. Your health care provider may hear abnormal heart and lung sounds when listening to the chest with a stethoscope. Urinalysis results are often abnormal and show blood and protein in the urine. Abnormal red blood cells may be seen. The following tests may also be done: Antiglomerular basement membrane test ,  Arterial blood gas ,  BUN
+    ,  Chest x-ray ,  Creatinine  (serum),  Lung biopsy ,  Kidney biopsy , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001757-5" qtype="treatment">What are the treatments for Goodpasture syndrome ?</Question>
+			<Answer>The main goal is to remove the harmful antibodies from the blood. Treatment may include: Plasmapheresis, which removes harmful antibodies to help reduce inflammation in the kidneys and lungs., Corticosteroid medicines (such as prednisone) and other drugs, which suppress or quiet the immune system., Medicines such as angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs), which help control blood pressure.,  Dialysis , which may be done if kidney failure is severe and can no longer be treated by other means., A  kidney transplant , which may be done when your kidneys no longer function.,  You may be told to limit your intake of salt and fluids to control swelling. In some cases, a low-to-moderate protein diet may be recommended.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001757-6" qtype="outlook">What is the outlook for Goodpasture syndrome ?</Question>
+			<Answer>An early diagnosis is very important. The outlook is much worse if the kidneys are already severely damaged when treatment begins. Lung damage can range from mild to severe. Many people will need dialysis or a kidney transplant.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001757-7" qtype="complications">What are the complications of Goodpasture syndrome ?</Question>
+			<Answer>Untreated, this condition can lead to any of the following: Chronic kidney disease ,  End-stage kidney disease , Lung failure,  Rapidly progressive glomerulonephritis , Severe pulmonary hemorrhage (lung bleeding), </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001757-8" qtype="when to contact a medical professional">Do I need to see a doctor for Goodpasture syndrome ?</Question>
+			<Answer>Contact your provider for an appointment if you are producing less urine, or you have any other symptoms of anti-GBM disease.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001757-9" qtype="prevention">How to prevent Goodpasture syndrome ?</Question>
+			<Answer>Never sniff glue or siphon gasoline with your mouth, which exposes the lungs to hydrocarbon solvents and can cause the disease.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,56 @@
+<Document id="0002112" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000038.htm">
+ 
+<Focus>Hypothermia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0413252</CUI>
+			<CUI>C0020672</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Low body temperature</Synonym>
+		<Synonym>Cold exposure</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002112-1" qtype="information">What is (are) Hypothermia ?</Question>
+			<Answer>Hypothermia is dangerously low body temperature, below 95&#176;F (35&#176;C).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002112-2" qtype="considerations">What to do for Hypothermia ?</Question>
+			<Answer>Other types of cold injuries that affect the limbs are called peripheral cold injuries. Of these,  frostbite  is the most common freezing injury. Nonfreezing injuries that occur from exposure to cold wet conditions include trench foot and immersion foot conditions. Chilblains (also known as pernio) are small, itchy or painful lumps on the skin that often occur on the fingers, ears, or toes. They are a type of nonfreezing injury that develops in cold, dry conditions. You are more likely to develop hypothermia if you are: Very old or very young, Chronically ill, especially people who have heart or blood flow problems, Malnourished, Overly tired, Taking certain prescription medicines, Under the influence of alcohol or drugs , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002112-3" qtype="causes">What causes Hypothermia ?</Question>
+			<Answer>Hypothermia occurs when more heat is lost than the body can make. In most cases, it occurs after long periods in the cold.  Common causes include: Being outside without enough protective clothing, especially in winter, Falling into cold water of a lake, river, or other body of water, Wearing wet clothing in windy or cold weather, Heavy exertion, not drinking enough fluids, or not eating enough in cold weather , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002112-4" qtype="symptoms">What are the symptoms of Hypothermia ?</Question>
+			<Answer>As a person develops hypothermia, they slowly lose the ability to think and move. In fact, they may even be unaware that they need emergency treatment. Someone with hypothermia also is likely to have frostbite. The symptoms include: Confusion, Drowsiness, Pale and cold skin, Slowed breathing or heart rate, Shivering that cannot be controlled (although at extremely low body temperatures, shivering may stop), Weakness and loss of coordination,  Lethargy (weakness and sleepiness),  cardiac arrest ,  shock , and coma can set in without prompt treatment. Hypothermia can be fatal.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002112-5" qtype="considerations">What to do for Hypothermia ?</Question>
+			<Answer>Other types of cold injuries that affect the limbs are called peripheral cold injuries. Of these,  frostbite  is the most common freezing injury. Nonfreezing injuries that occur from exposure to cold wet conditions include trench foot and immersion foot conditions. Chilblains (also known as pernio) are small, itchy or painful lumps on the skin that often occur on the fingers, ears, or toes. They are a type of nonfreezing injury that develops in cold, dry conditions. You are more likely to develop hypothermia if you are: Very old or very young, Chronically ill, especially people who have heart or blood flow problems, Malnourished, Overly tired, Taking certain prescription medicines, Under the influence of alcohol or drugs , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002112-6" qtype="considerations">What to do for Hypothermia ?</Question>
+			<Answer>Other types of cold injuries that affect the limbs are called peripheral cold injuries. Of these,  frostbite  is the most common freezing injury. Nonfreezing injuries that occur from exposure to cold wet conditions include trench foot and immersion foot conditions. Chilblains (also known as pernio) are small, itchy or painful lumps on the skin that often occur on the fingers, ears, or toes. They are a type of nonfreezing injury that develops in cold, dry conditions. You are more likely to develop hypothermia if you are: Very old or very young, Chronically ill, especially people who have heart or blood flow problems, Malnourished, Overly tired, Taking certain prescription medicines, Under the influence of alcohol or drugs , </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002112-7" qtype="when to contact a medical professional">Do I need to see a doctor for Hypothermia ?</Question>
+			<Answer>Call 911 or the local emergency number anytime you suspect someone has hypothermia. Give first aid while waiting for emergency help.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002112-8" qtype="prevention">How to prevent Hypothermia ?</Question>
+			<Answer>Before you spend time outside in the cold, do not drink alcohol or smoke. Drink plenty of fluids and get enough food and rest. Wear proper clothing in cold temperatures to protect your body. These include: Mittens (not gloves), Wind-proof, water-resistant, many-layered clothing, Two pairs of socks (avoid cotton), Scarf and hat that cover the ears (to avoid major heat loss through the top of your head) ,  Avoid: Extremely cold temperatures, especially with high winds, Wet clothes, Poor circulation, which is more likely from age, tight clothing or boots, cramped positions, fatigue, certain medicines, smoking, and alcohol, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

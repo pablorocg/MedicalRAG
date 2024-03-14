@@ -1,0 +1,43 @@
+<Document id="0002847" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002884.htm">
+ 
+<Focus>Oleander poisoning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0275375</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Rosebay poisoning</Synonym>
+		<Synonym>Yellow oleander poisoning</Synonym>
+		<Synonym>Thevetia peruviana poisoning</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002847-1" qtype="information">What is (are) Oleander poisoning ?</Question>
+			<Answer>Oleander poisoning occurs when someone eats the flowers or chews the leaves or stems of the oleander plant&#160;( Nerium oleander ), or its relative, the yellow oleander ( Cascabela thevetia ). This article is for information only. DO NOT use it to treat or manage an actual poison exposure. If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002847-4" qtype="symptoms">What are the symptoms of Oleander poisoning ?</Question>
+			<Answer>Oleander poisoning can affect many parts of the body. HEART AND BLOOD Irregular or slow heartbeat ,  Low blood pressure , Weakness ,  EYES, EARS, NOSE, MOUTH, AND THROAT Blurred vision ,  Vision disturbances, including halos  around objects,  STOMACH AND INTESTINES Diarrhea, Loss of appetite, Nausea and vomiting, Stomach pain ,  NERVOUS SYSTEM Confusion, Death, Depression, Disorientation, Dizziness, Drowsiness,  Fainting , Headache,  Lethargy ,  SKIN Hives , Rash ,  Note:  Depression, loss of appetite, and halos are most often seen in  chronic  overdose cases.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002847-5" qtype="considerations">What to do for Oleander poisoning ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002847-8" qtype="outlook">What is the outlook for Oleander poisoning ?</Question>
+			<Answer>How well you do depends on the amount of poison swallowed and how quickly treatment is received. The faster you get medical help, the better the chance for recovery. Symptoms last for 1 to 3 days and may require a hospital stay. Death is unlikely. DO NOT touch or eat any plant with which you are not familiar. Wash your hands after working in the garden or walking in the woods.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002847-9" qtype="outlook">What is the outlook for Oleander poisoning ?</Question>
+			<Answer>How well you do depends on the amount of poison swallowed and how quickly treatment is received. The faster you get medical help, the better the chance for recovery. Symptoms last for 1 to 3 days and may require a hospital stay. Death is unlikely. DO NOT touch or eat any plant with which you are not familiar. Wash your hands after working in the garden or walking in the woods.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

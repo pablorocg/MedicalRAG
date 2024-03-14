@@ -1,0 +1,41 @@
+<Document id="0003806" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003218.htm">
+ 
+<Focus>Sweating</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038990</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Perspiration</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003806-1" qtype="information">What is (are) Sweating ?</Question>
+			<Answer>Sweating is the release of liquid from the body's sweat glands. This liquid contains salt. This process is also called perspiration. Sweating helps your body stay cool. Sweat is commonly found under the arms, on the feet, and on the palms of the hands. Watch this video about: Sweating</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003806-2" qtype="considerations">What to do for Sweating ?</Question>
+			<Answer>The amount you sweat depends on how many sweat glands you have.  A person is born with about 2 to 4 million sweat glands, which begin to become fully active during puberty. Men's sweat glands tend to be more active. Sweating is controlled by the autonomic nervous system. This is the part of the nervous system that is not under your control. Sweating is the body's natural way of regulating temperature. Things that can make you sweat more include: Hot weather, Exercise, Situations that make you nervous, angry, embarrassed, or afraid ,  Heavy sweating may also be a symptom of  menopause &#160;(also called a "hot flash").</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003806-3" qtype="causes">What causes Sweating ?</Question>
+			<Answer>Causes may include: Alcohol, Caffeine, Cancer, Complex regional pain syndrome, Emotional or stressful situations (anxiety), Essential hyperhidrosis, Exercise, Fever, Infection, Low blood sugar (hypoglycemia), Medicines, such as thyroid hormone, morphine, drugs to reduce fever, and medicines to treat mental disorders, Menopause, Spicy foods (known as "gustatory sweating"), Warm temperatures, Withdrawal from alcohol, sedatives, or narcotic painkillers , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003806-4" qtype="considerations">What to do for Sweating ?</Question>
+			<Answer>The amount you sweat depends on how many sweat glands you have.  A person is born with about 2 to 4 million sweat glands, which begin to become fully active during puberty. Men's sweat glands tend to be more active. Sweating is controlled by the autonomic nervous system. This is the part of the nervous system that is not under your control. Sweating is the body's natural way of regulating temperature. Things that can make you sweat more include: Hot weather, Exercise, Situations that make you nervous, angry, embarrassed, or afraid ,  Heavy sweating may also be a symptom of  menopause &#160;(also called a "hot flash").</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003806-5" qtype="when to contact a medical professional">Do I need to see a doctor for Sweating ?</Question>
+			<Answer>Contact your health care provider if sweating occurs with: Chest pain, Fever, Rapid, pounding heartbeat, Shortness of breath, Weight loss ,  These symptoms may indicate a problem, such as  overactive thyroid  or an infection. Also contact your provider if: You sweat a lot or sweating lasts for a long time or cannot be explained, Sweating occurs with or is followed by  chest pain  or pressure, You lose weight from sweating or often sweat during sleep, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

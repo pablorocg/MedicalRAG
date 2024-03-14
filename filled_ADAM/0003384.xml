@@ -1,0 +1,18 @@
+<Document id="0003384" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000527.htm">
+ 
+<Focus>Responsible drinking</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Alcohol use disorder - responsible drinking</Synonym>
+		<Synonym>Drinking alcohol responsibly</Synonym>
+		<Synonym>Drinking in moderation</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003384-1" qtype="information">Do you have information about Responsible drinking</Question>
+			<Answer>If you drink alcohol, health care providers advise limiting how much you drink. This is called drinking in moderation, or responsible drinking.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

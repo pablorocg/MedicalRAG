@@ -1,0 +1,38 @@
+<Document id="0002619" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002679.htm">
+ 
+<Focus>Methadone overdose</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0572058</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002619-1" qtype="information">What is (are) Methadone overdose ?</Question>
+			<Answer>Methadone is a very strong painkiller. It is also used to treat  heroin  addiction. Methadone overdose occurs when someone accidentally or intentionally takes more than the normal or recommended amount of this medicine. This can be by accident or on purpose. Methadone overdose can also occur if a person takes methadone with certain painkillers. These painkillers include oxycontin, hydrocodone (Vicodin), or morphine. This article is for information only. DO NOT use it to treat or manage an actual  overdose . If you or someone you are with has an overdose, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002619-4" qtype="symptoms">What are the symptoms of Methadone overdose ?</Question>
+			<Answer>Below are symptoms of a methadone overdose in different parts of the body. EYES, EARS, NOSE, AND THROAT Tiny pupils ,  STOMACH AND INTESTINES Constipation , Nausea and vomiting,  Spasms  of the stomach or intestines ,  HEART AND BLOOD Low blood pressure , Weak pulse ,  LUNGS Breathing problems , including slow, labored, or shallow breathing, No breathing ,  NERVOUS SYSTEM Coma  (decreased level of consciousness and lack of responsiveness), Confusion, Disorientation, Dizziness,  Drowsiness , Fatigue,  Muscle twitches , Weakness ,  SKIN Blue fingernails and lips , Cold, clammy skin , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002619-5" qtype="considerations">What to do for Methadone overdose ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002619-8" qtype="outlook">What is the outlook for Methadone overdose ?</Question>
+			<Answer>How well someone does depends on the amount of poison swallowed and how quickly treatment is received. The faster medical help is given, the better the chance for recovery. If an antidote can be given, recovery from an overdose begins right away. However, since methadone's effects can last for about a day, the person often stays in the hospital overnight. They may receive several doses of the antidote. People who take a large overdose may stop breathing. They may have seizures if they do not get the antidote quickly. Complications such as pneumonia, muscle damage from lying on a hard surface for a long time, or brain damage from lack of oxygen may cause permanent disability. Death can occur in severe cases.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002619-9" qtype="outlook">What is the outlook for Methadone overdose ?</Question>
+			<Answer>How well someone does depends on the amount of poison swallowed and how quickly treatment is received. The faster medical help is given, the better the chance for recovery. If an antidote can be given, recovery from an overdose begins right away. However, since methadone's effects can last for about a day, the person often stays in the hospital overnight. They may receive several doses of the antidote. People who take a large overdose may stop breathing. They may have seizures if they do not get the antidote quickly. Complications such as pneumonia, muscle damage from lying on a hard surface for a long time, or brain damage from lack of oxygen may cause permanent disability. Death can occur in severe cases.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

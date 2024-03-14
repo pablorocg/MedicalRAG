@@ -1,0 +1,76 @@
+<Document id="0004019" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001063.htm">
+ 
+<Focus>Traumatic injury of the bladder and urethra</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3714660</CUI>
+			<CUI>C3263723</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Injury - bladder and urethra</Synonym>
+		<Synonym>Bruised bladder</Synonym>
+		<Synonym>Urethral injury</Synonym>
+		<Synonym>Bladder injury</Synonym>
+		<Synonym>Pelvic fracture</Synonym>
+		<Synonym>Urethral disruption</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004019-1" qtype="information">What is (are) Traumatic injury of the bladder and urethra ?</Question>
+			<Answer>Traumatic injury of the bladder and urethra involves damage caused by an outside force.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004019-2" qtype="causes">What causes Traumatic injury of the bladder and urethra ?</Question>
+			<Answer>Types of bladder injuries include:  Blunt trauma (such as a blow to the body), Penetrating wounds (such as bullet or stab wounds),  The amount of injury to the bladder depends on: How full the bladder was at the time of injury, What caused the injury,  Injury to the bladder due to trauma is not very common. The bladder is located within the bones of the pelvis. This protects it from most outside forces. Injury may occur if there is a blow to the pelvis severe enough to break the bones. In this case, bone fragments may pierce the bladder wall. Less than 1 in 10 pelvic fractures lead to bladder injury. Other causes of bladder or urethra injury include: Surgeries of the pelvis or groin (such as hernia repair and  removal of the uterus )., Tears, cuts, bruises, and other injuries to the urethra. The urethra is the tube that carries urine out of the body. This is most common in men., Straddle injuries. This injury may occur if there is direct force that injures the area behind the scrotum., Deceleration injury. This injury may occur during a motor vehicle accident. Your bladder can get injured if it is full and you are wearing a seatbelt.,  Injury to the bladder or urethra may cause urine to leak into the abdomen. This may  lead to infection .</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004019-3" qtype="symptoms">What are the symptoms of Traumatic injury of the bladder and urethra ?</Question>
+			<Answer>Some common symptoms are: Lower  abdominal pain , Abdominal tenderness, Bruising at the site of injury,  Blood in the urine , Bloody urethral discharge,  Difficulty beginning to urinate  or inability to empty the bladder, Leakage of urine,  Painful urination , Pelvic pain, Small, weak urine stream, Abdominal distention or bloating ,  Shock  or internal bleeding may occur after a bladder injury. This is a medical emergency. Symptoms include:  Decreased alertness ,  drowsiness , coma, Increased  heart rate , Decrease in blood pressure, Pale skin, Sweating, Skin that is cool to the touch ,  If there is no or little urine released, there may be an increased risk for  urinary tract infections  (UTI) or kidney damage.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004019-4" qtype="exams and tests">How to diagnose Traumatic injury of the bladder and urethra ?</Question>
+			<Answer>An exam of the genitals may show injury to the urethra. If the health care provider suspects an injury, you may have the following tests: Retrograde urethrogram (an x-ray of the urethra using dye) for injury of urethra, Retrograde cystogram (imaging of bladder) for injury of bladder,  The exam may also show: 
+   Bladder injury or swollen (distended) bladder
+   , 
+   Other signs of pelvic injury, such as bruising over the penis, scrotum, and perineum
+   , 
+   Signs of hemorrhage or shock, including decreased blood pressure -- especially in cases of pelvic fracture
+   , 
+   Tenderness and bladder fullness when touched (caused by urine retention)
+   , 
+   Tender and unstable pelvic bones
+   , 
+   Urine in the abdominal cavity
+   ,  A urinary catheter may be inserted once an injury of the urethra has been ruled out. This is a tube that drains urine from the bladder. An x-ray of the bladder using dye to highlight any damage can then be done.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004019-5" qtype="treatment">What are the treatments for Traumatic injury of the bladder and urethra ?</Question>
+			<Answer>The goals of treatment are to: Control symptoms, Drain the urine, Repair the injury, Prevent complications ,  Emergency treatment of bleeding or shock may include: Blood transfusions, Intravenous (IV) fluids, Monitoring in the hospital ,  Emergency surgery may be done to repair the injury and drain the urine from the abdominal cavity in case of extensive injury or peritonitis (inflammation of the abdominal cavity). The injury can be repaired with surgery in most cases. The bladder may be drained by a catheter through the urethra or the abdominal wall (called a suprapubic tube) over a period of days to weeks. This will prevent urine from building up in the bladder. It will also allow the injured bladder or urethra to heal and prevent swelling in the urethra from blocking urine flow. If the urethra has been cut, a urological specialist can try to put a catheter in place. If this cannot be done, a tube will be inserted through the abdominal wall directly into the bladder. This is called a suprapubic tube. It will be left in place until the swelling goes away and the urethra can be repaired with surgery. This takes 3 to 6 months.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004019-6" qtype="outlook">What is the outlook for Traumatic injury of the bladder and urethra ?</Question>
+			<Answer>Injury of the bladder and urethra due to trauma can be minor or fatal. Short- or long-term serious complications can occur.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004019-7" qtype="complications">What are the complications of Traumatic injury of the bladder and urethra ?</Question>
+			<Answer>Some of the possible complications of injury of the bladder and urethra are: Bleeding, shock.,  Blockage to the flow of urine . This causes the urine to back up and injure one or both kidneys., Scarring leading to blockage of the urethra., Problems completely emptying the bladder., </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004019-8" qtype="when to contact a medical professional">Do I need to see a doctor for Traumatic injury of the bladder and urethra ?</Question>
+			<Answer>Call the local emergency number (911) or go to the emergency room if you have an injury to the bladder or urethra. Contact your provider if symptoms get worse or new symptoms develop, including: Decrease in urine production, Fever, Blood in urine, Severe abdominal pain, Severe flank or back pain, Shock or hemorrhage , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0004019-9" qtype="prevention">How to prevent Traumatic injury of the bladder and urethra ?</Question>
+			<Answer>Prevent outside injury to the bladder and urethra by following these safety tips: Do not insert objects into the urethra., If you need self-catheterization, follow the instructions of your provider., Use safety equipment during work and play. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

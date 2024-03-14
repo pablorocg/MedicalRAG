@@ -1,0 +1,38 @@
+<Document id="0003973" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002745.htm">
+ 
+<Focus>Toothpaste overdose</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0029944</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003973-1" qtype="information">What is (are) Toothpaste overdose ?</Question>
+			<Answer>Toothpaste is a product used to clean teeth. This article discusses the effects of swallowing a lot of toothpaste. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with has an overdose, call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003973-4" qtype="symptoms">What are the symptoms of Toothpaste overdose ?</Question>
+			<Answer>Swallowing a large amount of regular toothpaste may cause stomach pain and possible intestinal blockage. These additional symptoms may occur when swallowing a large amount of toothpaste containing fluoride: Convulsions , Diarrhea, Difficulty breathing, Drooling, Heart attack, Salty or soapy taste in the mouth, Slow heart rate, Shock, Tremors, Vomiting,  Weakness , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003973-5" qtype="considerations">What to do for Toothpaste overdose ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003973-8" qtype="outlook">What is the outlook for Toothpaste overdose ?</Question>
+			<Answer>People who swallow a  very large amount of fluoride toothpaste  and survive 48 hours usually recover.  Most nonfluoride toothpastes are nontoxic (nonpoisonous). People are very likely to recover.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003973-9" qtype="outlook">What is the outlook for Toothpaste overdose ?</Question>
+			<Answer>People who swallow a  very large amount of fluoride toothpaste  and survive 48 hours usually recover.  Most nonfluoride toothpastes are nontoxic (nonpoisonous). People are very likely to recover.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

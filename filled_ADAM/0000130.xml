@@ -1,0 +1,26 @@
+<Document id="0000130" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002086.htm">
+ 
+<Focus>Aging spots -- should you be concerned?</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0848332</CUI>
+			<CUI>C0015230</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Age spot concerns</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000130-1" qtype="information">What is (are) Aging spots -- should you be concerned? ?</Question>
+			<Answer>Aging spots, also called  liver spots  or solar lentigos, are very common. They are most often not a cause for worry. They typically develop in people with fair complexions, but people with darker skin can also get them.  Aging spots are flat and oval and tan, brown, or black marks. They appear on skin that has been the most exposed to sun over the years, such as the backs of hands, tops of feet, face, shoulders, and upper back.  Always let your health care provider know if you have any new or unusual spots, and have them checked. Skin cancers may have many different appearances. Spots or sores related to skin cancers can be: Small, shiny, or waxy, Scaly and rough, Firm and red, Crusty or bleeding ,  Skin cancers can also have other features.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

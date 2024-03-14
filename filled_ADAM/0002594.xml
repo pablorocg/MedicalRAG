@@ -1,0 +1,41 @@
+<Document id="0002594" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002677.htm">
+ 
+<Focus>Meprobamate overdose</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0573008</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Equanil overdose</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002594-1" qtype="information">What is (are) Meprobamate overdose ?</Question>
+			<Answer>Meprobamate is a drug used to treat anxiety. Meprobamate overdose occurs when someone takes more than the normal or recommended amount of this medicine. This can be by accident or on purpose. This article is for information only. DO NOT use it to treat or manage an actual overdose. If you or someone you are with has an  overdose , call the local emergency number (such as 911), or the local poison control center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002594-4" qtype="symptoms">What are the symptoms of Meprobamate overdose ?</Question>
+			<Answer>Below are symptoms of a meprobamate overdose in different parts of the body. EYES, EARS, NOSE, AND THROAT Blurred vision ,  Double vision , Rapid side-to-side movement of the eyes ,  STOMACH AND INTESTINES Vomiting ,  HEART AND BLOOD Low blood pressure ,  Pounding heartbeat (palpitations) , Rapid heart rate, Slow heart rate ,  LUNGS Labored breathing , Slowed breathing, Wheezing ,  NERVOUS SYSTEM Coma  (decreased level of consciousness and lack of responsiveness),  Confusion ,  Convulsions ,  Dizziness , Excitability,  Drowsiness , Lack of alertness ( stupor ), Slurred speech, Tremor,  Uncoordinated movement ,  Weakness ,  SKIN Blue lips and fingernails ,  Tiny red spots on skin , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002594-5" qtype="considerations">What to do for Meprobamate overdose ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002594-8" qtype="outlook">What is the outlook for Meprobamate overdose ?</Question>
+			<Answer>How well someone does depends on the amount of meprobamate swallowed and how quickly treatment is received. The sooner medical help is given, the better the chance for recovery.  With proper care, most people recover. But, recovery may be more difficult in people with  aplastic anemia . This is because their bone marrow does not produce enough red blood cells.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002594-9" qtype="outlook">What is the outlook for Meprobamate overdose ?</Question>
+			<Answer>How well someone does depends on the amount of meprobamate swallowed and how quickly treatment is received. The sooner medical help is given, the better the chance for recovery.  With proper care, most people recover. But, recovery may be more difficult in people with  aplastic anemia . This is because their bone marrow does not produce enough red blood cells.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

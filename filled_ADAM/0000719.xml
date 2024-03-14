@@ -1,0 +1,29 @@
+<Document id="0000719" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002443.htm">
+ 
+<Focus>Celiac disease - nutritional considerations</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007570</CUI>
+			<CUI>C0518609</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Gluten-free diet</Synonym>
+		<Synonym>Gluten sensitive enteropathy - diet</Synonym>
+		<Synonym>Celiac sprue - diet</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000719-1" qtype="information">What is (are) Celiac disease - nutritional considerations ?</Question>
+			<Answer>Celiac disease is an immune disorder passed down through families. Gluten is a protein found in wheat, barley, rye, or sometimes oats. It may also be found in some medicines. When a person with  celiac disease  eats or drinks anything containing gluten, the immune system responds by damaging the lining of the small intestine. This affects the body's ability to absorb nutrients. Carefully following a gluten-free diet helps prevent symptoms of the disease.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

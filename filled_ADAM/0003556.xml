@@ -1,0 +1,57 @@
+<Document id="0003556" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000858.htm">
+ 
+<Focus>Shingles</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019360</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Herpes zoster</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003556-1" qtype="information">What is (are) Shingles ?</Question>
+			<Answer>Shingles is a painful, blistering skin rash. It is caused by the varicella-zoster virus, a member of the herpes family of viruses. This is the virus that also causes  chickenpox .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003556-2" qtype="causes">What causes Shingles ?</Question>
+			<Answer>After you get chickenpox, your body does not get rid of the virus. Instead, the virus remains in the body but is inactive (becomes dormant) in certain nerves in the body. Shingles occurs after the virus becomes active again in these nerves after many years. Many people had such a mild case of chickenpox that they do not realize they have had the infection. The reason the virus suddenly becomes active again is not clear. Often only one attack occurs. Shingles can develop in any age group. You are more likely to develop the condition if: You are older than age 60, You had chickenpox before age 1, Your immune system is weakened by medicines or disease ,  If an adult or child has direct contact with the shingles rash and did not have chickenpox as a child or get the  chickenpox vaccine , they can develop chickenpox, not shingles.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003556-3" qtype="symptoms">What are the symptoms of Shingles ?</Question>
+			<Answer>The first symptom is usually pain, tingling, or burning that occurs on one side of the body. The pain and burning may be severe and are usually present before any rash appears. Red patches on the skin, followed by small blisters, form in most people: The blisters break, forming small sores that begin to dry and form crusts. The crusts fall off in 2 to 3 weeks. Scarring is rare., The rash usually involves a narrow area from the spine around to the front of the abdomen or chest., The rash may instead involve the face, eyes, mouth, and ears. ,  Other symptoms may include: Fever and chills, General ill feeling, Headache, Joint pain, Swollen glands (lymph nodes) ,  You may also have pain, muscle weakness, and a rash involving different parts of your face if shingles affects a nerve in your face. The symptoms may include: Difficulty moving some of the muscles in the face, Drooping eyelid (ptosis), Hearing loss, Loss of eye motion, Taste problems, Vision problems , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003556-4" qtype="exams and tests">How to diagnose Shingles ?</Question>
+			<Answer>Your health care provider can make the diagnosis by looking at your skin and asking about your medical history. Tests are rarely needed, but may include taking a skin sample to see if the skin is infected with the virus. Blood tests may show an increase in  white blood cells  and antibodies to the chickenpox virus. But the tests&#160;cannot confirm that the rash is due to shingles.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003556-5" qtype="treatment">What are the treatments for Shingles ?</Question>
+			<Answer>Your provider may prescribe a medicine that fights the virus, called an antiviral drug. This drug helps reduce pain, prevent complications, and shorten the course of the disease. The medicines are most effective when started within 72 hours of when you first feel pain or burning. It is best to start taking them before the blisters appear. The medicines are usually given in pill form. Some people may need to receive the medicine through a vein (by IV). Strong anti-inflammatory medicines called corticosteroids, such as prednisone, may be used to reduce swelling and pain. These medicines&#160;do not&#160;work in all people. Other medicines may include: Antihistamines to reduce itching (taken by mouth or applied to the skin) ,  Pain medicines ,  Zostrix, a cream containing capsaicin (an extract of pepper) to reduce pain ,  Follow your provider's instructions about  how to care for yourself at home . Other measures may include: Caring for your skin by applying cool, wet compresses to reduce pain, and taking soothing baths, Resting in bed until the fever goes down,  Stay away from people while your sores are oozing to avoid infecting those who have never had chickenpox -- especially pregnant women.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003556-6" qtype="outlook">What is the outlook for Shingles ?</Question>
+			<Answer>Herpes zoster usually clears in 2 to 3 weeks and rarely returns. If the virus affects the nerves that control movement (the motor nerves), you may have temporary or permanent weakness or paralysis. Sometimes the pain in the area where the shingles occurred may last from months to years. This pain is called  postherpetic neuralgia .  It occurs when the nerves have been damaged after an outbreak of shingles. Pain ranges from mild to very severe. Postherpetic neuralgia is more likely to occur in people age 60 or over.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003556-7" qtype="complications">What are the complications of Shingles ?</Question>
+			<Answer>Complications may include: Another attack of shingles, Bacterial skin infections, Blindness (if shingles occurs in the eye), Deafness, Infection, including  encephalitis  or  sepsis  (blood infection) in people with a weakened immune system,  Ramsay Hunt syndrome  if shingles affects the nerves of the face or ear , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003556-8" qtype="when to contact a medical professional">Do I need to see a doctor for Shingles ?</Question>
+			<Answer>Contact your provider if you have symptoms of shingles, particularly if you have a weakened immune system or if your symptoms persist or worsen. Shingles that affects the eye may lead to permanent blindness if you&#160;do not receive emergency medical care.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003556-9" qtype="prevention">How to prevent Shingles ?</Question>
+			<Answer>Do not touch the rash and blisters on people with shingles or chickenpox if you have never had chickenpox or the chickenpox vaccine. The  shingles vaccine  is different than the chickenpox vaccine. Older adults who receive the shingles vaccine are much less likely to have complications from the condition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

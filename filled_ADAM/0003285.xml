@@ -1,0 +1,16 @@
+<Document id="0003285" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000429.htm">
+ 
+<Focus>Pulling a patient up in bed</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Moving a patient in bed</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003285-1" qtype="information">Do you have information about Pulling a patient up in bed</Question>
+			<Answer>A patient's body may slowly slide when they are in bed for a long time. The patient may ask to be moved up higher for comfort or may need to be moved up so a health care provider can do an exam.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

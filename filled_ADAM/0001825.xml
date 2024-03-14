@@ -1,0 +1,57 @@
+<Document id="0001825" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000840.htm">
+ 
+<Focus>Head lice</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0030757</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pediculosis capitis - head lice</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001825-1" qtype="information">What is (are) Head lice ?</Question>
+			<Answer>Head lice are tiny insects that live on the skin covering the top of your head (scalp). Head lice may also be found in eyebrows and eyelashes. Lice spread by close contact with other people.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001825-2" qtype="causes">What causes Head lice ?</Question>
+			<Answer>Head lice infect hair on the head. Tiny eggs on the hair look like flakes of  dandruff . However, instead of flaking off the scalp, they stay in place. Head lice can live up to 30 days on a human. Their eggs can live for more than 2 weeks. Head lice spread easily, particularly among school children ages 3 to 11 years. Head lice are more common in close, overcrowded living conditions. You can get head lice if: You come in close contact with a person who has lice., You touch the clothing or bedding of someone who has lice., You share hats, towels, brushes, or combs of someone who has lice. ,  Having head lice causes intense itching but does not lead to serious medical problems. Unlike body lice, head lice never carry or spread diseases. Having head lice does not mean the person has poor hygiene or low social status.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001825-3" qtype="symptoms">What are the symptoms of Head lice ?</Question>
+			<Answer>Symptoms of head lice include: Very bad itching of the scalp, Small, red bumps on the scalp, neck, and shoulders (bumps may become crusty and ooze), Tiny white specks (eggs, or nits) on the bottom of each hair that are hard to get off , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001825-4" qtype="exams and tests">How to diagnose Head lice ?</Question>
+			<Answer>Head lice can be hard to see. You need to look closely. Use disposable gloves and look at the person's head under a bright light. Full sun or the brightest lights in your home during daylight hours work well. A magnifying glass can help. To look for head lice: Part the hair all the way down to the scalp in very small sections., Examine the scalp and hair for moving lice and eggs (nits)., Look at the whole head in the same way., Look closely around the top of the neck and ears (the most common locations for eggs). ,  Both children and adults should be treated right away if any lice or eggs are found.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001825-5" qtype="treatment">What are the treatments for Head lice ?</Question>
+			<Answer>Lotions and shampoos containing 1% permethrin (Nix) often work well. You can buy these medicines at the store without a prescription. If these products do not work, a health care provider can give you a prescription for stronger medicine. Always use the medicines exactly as directed. Using them too often or in the wrong way can cause side effects. To use the medicine shampoo: Rinse and dry the hair., Apply the medicine to the hair and scalp., Wait 10 minutes, then rinse it off., Check for lice and nits again in 8 to 12 hours., If you find active lice, talk to your provider before doing another treatment.,  You also need to get rid of the lice eggs (nits) to keep lice from coming back. To get rid of nits: You can use products that make the nits easier to remove. Some dishwashing detergents can help dissolve the "glue" that makes the nits stick to the hair shaft., Remove the eggs with a nit comb. Before doing this, rub olive oil in the hair or run the metal comb through beeswax. This helps make the nits easier to remove., Metal combs with very fine teeth are stronger and work better than plastic nit combs. These metal combs are easier to find in pet stores or on the Internet., Comb for nits again in 7 to 10 days.,  When treating lice, wash all clothes and bed linens in hot water with detergent. This also helps prevent head lice from spreading to others during the short period when head lice can survive off the human body. Ask your provider if people who share bedding or clothes with the person who has head lice need to be treated as well.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001825-6" qtype="outlook">What is the outlook for Head lice ?</Question>
+			<Answer>Most of the time, lice are killed with the proper treatment. However, lice can come back if you do not get rid of them at the source.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001825-7" qtype="complications">What are the complications of Head lice ?</Question>
+			<Answer>Some people will develop a skin infection from scratching. Antihistamines can help ease itching.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001825-8" qtype="when to contact a medical professional">Do I need to see a doctor for Head lice ?</Question>
+			<Answer>Call your provider if: You still have symptoms after home treatment., You develop areas of red, tender skin, which could signal an infection. , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001825-9" qtype="prevention">How to prevent Head lice ?</Question>
+			<Answer>Some of the steps to prevent head lice are: Never share hair brushes, combs, hair pieces, hats, bedding, towels, or clothing with someone who has head lice., If your child has lice, be sure to check policies at schools and daycare. Many places do not allow infected children to be at school until the lice have been completely treated., Some schools may have policies to make sure the environment is clear of lice. Cleaning of carpets and other surfaces often helps prevent spread of all types of infections, including head lice., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

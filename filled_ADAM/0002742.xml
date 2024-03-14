@@ -1,0 +1,17 @@
+<Document id="0002742" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003848.htm">
+ 
+<Focus>Nasal mucosal biopsy</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Biopsy - nasal mucosa</Synonym>
+		<Synonym>Nose biopsy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002742-1" qtype="information">Do you have information about Nasal mucosal biopsy</Question>
+			<Answer>A nasal mucosal biopsy is the removal of a small piece of tissue from the lining of the nose so that it can be checked for disease.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

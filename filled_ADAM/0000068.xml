@@ -1,0 +1,55 @@
+<Document id="0000068" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000827.htm">
+ 
+<Focus>Actinic keratosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022602</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Solar keratosis</Synonym>
+		<Synonym>Sun-induced skin changes - keratosis</Synonym>
+		<Synonym>Keratosis - actinic (solar)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000068-1" qtype="information">What is (are) Actinic keratosis ?</Question>
+			<Answer>Actinic keratosis is a small, rough, raised area on your skin. Often this area has been exposed to the sun over a long period of time. Some actinic keratoses may develop into a type of skin cancer.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000068-2" qtype="causes">What causes Actinic keratosis ?</Question>
+			<Answer>Actinic keratosis is caused by exposure to sunlight.  You are more likely to develop it if you: Have fair skin, blue or green eyes, or blond or red hair, Had a kidney or other organ transplant, Take medicines that suppress the immune system, Spend a lot of time each day in the sun (for example, if you work outdoors), Had many severe sunburns early in life, Are older , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000068-3" qtype="symptoms">What are the symptoms of Actinic keratosis ?</Question>
+			<Answer>Actinic keratosis is usually found on the face, scalp, back of the hands, chest, or places that are often in the sun.  The skin changes begin as flat and scaly areas. They often have a white or yellow crusty scale on top., The growths may be gray, pink, red, or the same color as your skin. Later, they may become hard and wart-like or gritty and rough., The affected areas may be easier to feel than see., </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000068-4" qtype="exams and tests">How to diagnose Actinic keratosis ?</Question>
+			<Answer>Your health care provider will look at your skin to diagnose this condition. A  skin biopsy  may be done to see if it is cancer. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000068-5" qtype="treatment">What are the treatments for Actinic keratosis ?</Question>
+			<Answer>Some actinic keratoses become  squamous cell skin cancer . Have your provider look at all skin growths as soon as you find them. Your provider will tell you how to treat them. Growths may be removed by: Burning (electrical cautery), Scraping away the lesion and using electricity to kill any remaining cells (called curettage and electrodesiccation), Cutting the tumor out and using stitches to place the skin back together (called excision), Freezing (cryotherapy, which freezes and kills the cells) ,  If you have many of these skin growths, your doctor may recommend: A special light treatment called  photodynamic therapy , Chemical peels, Skin creams, such as 5-fluorouracil (5-FU) and imiquimod , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000068-6" qtype="outlook">What is the outlook for Actinic keratosis ?</Question>
+			<Answer>A small number of these skin growths turn into squamous cell carcinoma. </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000068-7" qtype="when to contact a medical professional">Do I need to see a doctor for Actinic keratosis ?</Question>
+			<Answer>Contact your provider if you see or feel a rough or scaly spot on your skin, or if you notice any other skin changes.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000068-8" qtype="prevention">How to prevent Actinic keratosis ?</Question>
+			<Answer>The best way to lower your risk for actinic keratosis and skin cancer is to  learn how to protect your skin from sun and ultraviolet (UV) light . Things you can do to lower your exposure to sunlight include: Wear clothing such as hats, long-sleeved shirts, long skirts, or pants., Try to avoid being in the sun during midday, when ultraviolet light is most intense., Use high-quality sunscreens, preferably with a sun protection factor (SPF) rating of at least 30. Pick a broad-spectrum sunscreen that blocks both UVA and UVB light., Apply sunscreen before going out into the sun, and reapply often -- at least every 2 hours while in the sun., Use sunscreen year-round, including in the winter., Avoid sun lamps, tanning beds, and tanning salons. ,  Other things to know about sun exposure: Sun exposure is stronger in or near surfaces that reflect light, such as water, sand, snow, concrete, and areas painted white., Sunlight is more intense at the beginning of the summer., Skin burns faster at higher altitudes. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,39 @@
+<Document id="0003281" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003035.htm">
+ 
+<Focus>Ptosis - infants and children</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0033377</CUI>
+			<CUI>C0005745</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Blepharoptosis-children</Synonym>
+		<Synonym>Congenital ptosis</Synonym>
+		<Synonym>Eyelid drooping-children</Synonym>
+		<Synonym>Eyelid drooping-amblyopia</Synonym>
+		<Synonym>Eyelid drooping-astigmatism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003281-1" qtype="information">What is (are) Ptosis - infants and children ?</Question>
+			<Answer>Ptosis (eyelid drooping) in infants and children is when the upper eyelid is lower than it should be. This may occur in one or both eyes. Eyelid drooping that occurs at birth or within the first year is called congenital ptosis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003281-2" qtype="considerations">What to do for Ptosis - infants and children ?</Question>
+			<Answer>Ptosis in infants and children is often due to a problem with the muscle that raises the eyelid. A nerve problem in the eyelid can also cause it to droop. Ptosis may also occur due to other conditions. Some of these include: Trauma at birth (such as from the use of forceps), Eye movement disorders, Brain and nervous system problems, Eyelid tumors or growths,  Eyelid drooping that occurs later in  childhood or adulthood  may have other causes. SYMPTOMS Children with ptosis may tip their head back to see. They may raise their eyebrows to try to move the eyelid up. You may notice: Drooping of one or both eyelids,  Increased tearing , Blocked vision (from severe eyelid drooping),  EXAMS AND TESTS The health care provider will do a  physical exam  to determine the cause. The provider also may do certain tests: Slit-lamp examination , Ocular motility (eye movement) test,  Visual field testing ,  Other tests may be done to check for diseases or illnesses that may be causing ptosis. TREATMENT Eyelid lift surgery can repair drooping upper eyelids.  If vision is not affected, surgery can wait until age 3 to 4 when the child has grown a little bigger., In severe cases, surgery is needed right away to prevent  "lazy eye" (amblyopia) .,  The provider will also treat any eye problems from ptosis. Your child may need to: Wear an eye patch to strengthen vision in the weaker eye., Wear special glasses to correct an uneven curve of the cornea that causes blurred vision ( astigmatism ).,  Children with mild ptosis should have regular eye exams to make sure amblyopia does not develop. Surgery often works well to improve the look and function of the eye. Some children need more than one surgery.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003281-3" qtype="when to contact a medical professional">Do I need to see a doctor for Ptosis - infants and children ?</Question>
+			<Answer>Contact your provider if: You notice your child has a drooping eyelid, One eyelid suddenly droops or closes, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

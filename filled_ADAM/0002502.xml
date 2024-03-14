@@ -1,0 +1,26 @@
+<Document id="0002502" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000373.htm">
+ 
+<Focus>Making everyday tasks easier - arthritis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003864</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002502-1" qtype="information">What is (are) Making everyday tasks easier - arthritis ?</Question>
+			<Answer>As the pain from  arthritis  becomes worse, keeping up with everyday activities may become more difficult. Making changes around your home will take some stress off your joints, such as your knee or hip, and help relieve some of the pain. Your health care provider may suggest that you use a cane to make walking easier and less painful. If so, learn how to use the cane the right way.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002502-3" qtype="information">What is (are) Making everyday tasks easier - arthritis ?</Question>
+			<Answer>As the pain from  arthritis  becomes worse, keeping up with everyday activities may become more difficult. Making changes around your home will take some stress off your joints, such as your knee or hip, and help relieve some of the pain. Your health care provider may suggest that you use a cane to make walking easier and less painful. If so, learn how to use the cane the right way.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

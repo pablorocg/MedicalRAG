@@ -1,0 +1,26 @@
+<Document id="0004075" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003228.htm">
+ 
+<Focus>Ulcers</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0041582</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004075-1" qtype="information">What is (are) Ulcers ?</Question>
+			<Answer>An ulcer is a crater-like&#160;sore on the skin or  mucous membrane . Ulcers form when the top layers of skin or tissue&#160;have been removed. They can occur in&#160;the mouth, stomach, and other&#160;parts of the&#160;body.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004075-2" qtype="causes">What causes Ulcers ?</Question>
+			<Answer>Ulcers can be caused by inflammation, trauma, or infection. Some ulcers may be caused by a cancer.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

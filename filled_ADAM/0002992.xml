@@ -1,0 +1,19 @@
+<Document id="0002992" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007355.htm">
+ 
+<Focus>Pelvis MRI scan</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>MRI - pelvis</Synonym>
+		<Synonym>MRI - hips</Synonym>
+		<Synonym>Pelvic MRI with prostate probe</Synonym>
+		<Synonym>Magnetic resonance imaging - pelvis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002992-1" qtype="information">Do you have information about Pelvis MRI scan</Question>
+			<Answer>A pelvis MRI (magnetic resonance imaging) scan is an imaging test that uses a machine with powerful magnets and radio waves to create pictures of the area between the hip bones. This part of the body is called the pelvic area. Structures inside and near the pelvis include the bladder, prostate and other male reproductive organs, female reproductive organs, lymph nodes, large bowel, small bowel, and pelvic bones. An MRI does not use radiation. Single  MRI  images are called slices. The images are stored on a computer or printed on film. One exam produces dozens or sometimes hundreds of images.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,46 @@
+<Document id="0000220" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001122.htm">
+ 
+<Focus>Aneurysm</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002940</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000220-1" qtype="information">What is (are) Aneurysm ?</Question>
+			<Answer>An aneurysm is an abnormal widening or ballooning of a part of an artery due to weakness in the wall of the blood vessel.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000220-2" qtype="causes">What causes Aneurysm ?</Question>
+			<Answer>It is not clear exactly what causes aneurysms. Some aneurysms are present at birth (congenital). Defects in some parts of the artery wall may be a cause. Common locations for aneurysms include: Major artery from the heart such as the thoracic or abdominal  aorta , Brain ( cerebral aneurysm ), Behind the knee (popliteal artery aneurysm), Intestine (mesenteric artery aneurysm), Artery in the spleen (splenic artery aneurysm) ,  Certain factors or conditions may increase the risk for aneurysms including: High blood pressure (thoracic, abdominal and cerebral aneurysms), High cholesterol, Cigarette smoking, Illicit drug use (cocaine, amphetamines), Pregnancy (often linked to splenic artery aneurysms), Family history (sibling, parent, or child),  Inherited disorders that may increase the risk include: Fibromuscular dysplasia (abnormal cell growth in artery walls),  Polycystic kidney disease ,  Coarctation of the aorta ,  Cerebral arteriovenous malformation (AVM) , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000220-3" qtype="symptoms">What are the symptoms of Aneurysm ?</Question>
+			<Answer>The symptoms depend on where the aneurysm is located. If the aneurysm occurs near the body's surface, pain and swelling with a throbbing lump is often seen. Aneurysms in the body or brain often cause no symptoms. Aneurysms in the brain may expand without breaking open (rupturing). The expanded aneurysm may press on nerves and cause double vision, dizziness, or headaches. Some aneurysms may cause ringing in the ears. If an aneurysm ruptures, pain, low blood pressure, a rapid heart rate, and lightheadedness may occur. When a brain aneurysm ruptures, there is a sudden severe headache that some people say is the "worst headache of my life." The risk of neurologic injury, coma, or death after a rupture is high.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000220-4" qtype="exams and tests">How to diagnose Aneurysm ?</Question>
+			<Answer>The health care provider will perform a physical exam. Tests used to diagnose an aneurysm include: CT scan , CT angiogram, MRI, MRA,  Ultrasound ,  Angiogram , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000220-5" qtype="treatment">What are the treatments for Aneurysm ?</Question>
+			<Answer>Treatment depends on the size and location of the aneurysm. Your provider may only recommend regular checkups to see if the aneurysm is growing. Surgery may be done. The type of surgery that is done and when you need it depend on your symptoms and the size and type of aneurysm. Surgery may involve a large (open) surgical cut. Sometimes, a procedure called  endovascular embolization  is done. Coils or stents of metal are inserted into a brain aneurysm to make the aneurysm clot. This reduces the risk for rupture while keeping the artery open. Other brain aneurysms may need to have a clip placed on them to close them off and prevent a rupture. Aneurysms of the aorta may be reinforced with surgery to strengthen the blood vessel wall.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000220-6" qtype="when to contact a medical professional">Do I need to see a doctor for Aneurysm ?</Question>
+			<Answer>Call your provider if you develop a lump on your body, whether or not it is painful and throbbing. Go to the emergency room or call 911 or the local emergency number if you have: Pain in your belly or back that is very bad or does not go away, A sudden or severe headache, especially if you also have nausea, vomiting, seizures, or any other nervous system symptom,  If you are diagnosed with an aneurysm that has not bled, you will need to have regular testing to detect if it increases in size.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000220-7" qtype="prevention">How to prevent Aneurysm ?</Question>
+			<Answer>Controlling high blood pressure may help prevent many aneurysms. Follow a healthy diet, get regular exercise, and keep your cholesterol at a healthy level to help prevent aneurysms or their complications. Do not smoke. If you do smoke, quitting will lower your risk for an aneurysm.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

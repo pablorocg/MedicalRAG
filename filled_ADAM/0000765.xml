@@ -1,0 +1,62 @@
+<Document id="0000765" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000727.htm">
+ 
+<Focus>Charcot-Marie-Tooth disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007959</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Progressive neuropathic (peroneal) muscular atrophy</Synonym>
+		<Synonym>Hereditary peroneal nerve dysfunction</Synonym>
+		<Synonym>Neuropathy - peroneal (hereditary)</Synonym>
+		<Synonym>Hereditary motor and sensory neuropathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000765-1" qtype="information">What is (are) Charcot-Marie-Tooth disease ?</Question>
+			<Answer>Charcot-Marie-Tooth disease is a group of disorders passed down through families that affect the nerves outside the brain and spine. These are called the peripheral nerves.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000765-2" qtype="causes">What causes Charcot-Marie-Tooth disease ?</Question>
+			<Answer>Charcot-Marie-Tooth is one of the most common nerve-related disorders passed down through families (inherited). Changes to any of at least 40 genes can cause different forms of this disease. The disease leads to damage or destruction to the covering ( myelin  sheath) around nerve fibers.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000765-3" qtype="symptoms">What are the symptoms of Charcot-Marie-Tooth disease ?</Question>
+			<Answer>Nerves that stimulate movement (called the motor nerves) are most severely affected. The nerves in the legs are affected first and most severely. Symptoms most often begin between mid-childhood and early adulthood. They may include: Foot deformity (very high arch to feet), Foot drop (inability to point foot upward to hold it horizontal), Loss of lower leg muscle, which leads to skinny calves, Numbness in the foot or leg, "Slapping" gait (feet hit the floor hard when walking),  Weakness  of the hips, legs, or feet ,  Later, similar symptoms may appear in the arms and hands. These may include a claw-like hand.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000765-4" qtype="exams and tests">How to diagnose Charcot-Marie-Tooth disease ?</Question>
+			<Answer>A physical exam may show: Difficulty lifting up the foot and making toe-out movements (foot drop), Lack of stretch reflexes in the legs, Loss of muscle control and atrophy (shrinking of the muscles) in the foot or leg, Thickened nerve bundles under the skin of the legs ,  Nerve conduction tests are often done to identify different forms of the disorder. A nerve biopsy may confirm the diagnosis. Genetic testing is also available for most forms of the disease.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000765-5" qtype="treatment">What are the treatments for Charcot-Marie-Tooth disease ?</Question>
+			<Answer>There is no known cure. Orthopedic surgery or equipment (such as braces or orthopedic shoes) may make it easier to walk. Physical and occupational therapy may help maintain muscle strength and improve independent functioning.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000765-6" qtype="outlook">What is the outlook for Charcot-Marie-Tooth disease ?</Question>
+			<Answer>Charcot-Marie-Tooth disease slowly gets worse. Some parts of the body may become numb, and pain can range from mild to severe. Eventually the disease may cause disability.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000765-7" qtype="complications">What are the complications of Charcot-Marie-Tooth disease ?</Question>
+			<Answer>Complications may include: Progressive inability to walk
+   , Progressive weakness
+   , Injury to areas of the body that have decreased sensation, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000765-8" qtype="when to contact a medical professional">Do I need to see a doctor for Charcot-Marie-Tooth disease ?</Question>
+			<Answer>Contact your health care provider if there is ongoing weakness or decreased sensation in the feet or legs.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000765-9" qtype="prevention">How to prevent Charcot-Marie-Tooth disease ?</Question>
+			<Answer>Genetic counseling and testing is advised if there is a strong family history of the disorder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

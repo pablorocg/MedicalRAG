@@ -1,0 +1,18 @@
+<Document id="0003373" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003698.htm">
+ 
+<Focus>Renin blood test</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Plasma renin activity</Synonym>
+		<Synonym>Random plasma renin</Synonym>
+		<Synonym>PRA</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003373-1" qtype="information">Do you have information about Renin blood test</Question>
+			<Answer>The renin test measures the level of renin in blood.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

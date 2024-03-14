@@ -1,0 +1,53 @@
+<Document id="0003465" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000830.htm">
+ 
+<Focus>Scabies</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0036262</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sarcoptes scabiei</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003465-1" qtype="information">What is (are) Scabies ?</Question>
+			<Answer>Scabies is an easily-spread skin disease caused by a very small mite.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003465-2" qtype="causes">What causes Scabies ?</Question>
+			<Answer>Scabies is found among people of all groups and ages around the world.  Scabies spread by skin-to-skin contact with another person who has scabies., Scabies is easily spread among people who are in close contact. Whole families are often affected.,  Outbreaks of scabies are more common in nursing homes, nursing facilities, college dorms, and child care centers. The mites that cause scabies burrow into the skin and lay their eggs. This forms a burrow that looks like a pencil mark. Eggs hatch in 21 days. The itchy rash is an  allergic response  to the mite. Pets and animals usually do not spread human scabies. It is also very unlikely for scabies to be spread through swimming pools. It is difficult to spread scabies through clothing or bed linen. A type of scabies called crusted (Norwegian) scabies is a severe infestation with very large numbers of mites. People whose immune systems are weakened are most affected.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003465-3" qtype="symptoms">What are the symptoms of Scabies ?</Question>
+			<Answer>Symptoms of scabies include: Severe  itching , most often at night.,  Rashes , often between the fingers and toes, undersides of the wrists, armpits, women's breasts, and buttocks., Sores on the skin from scratching and digging., Thin lines (burrow marks) on the skin., Babies will likely have a rash all over the body, especially on the head, face, and neck, with sores on the palms and soles.,  Scabies doesn't affect the face except in babies and in people with crusted scabies.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003465-4" qtype="exams and tests">How to diagnose Scabies ?</Question>
+			<Answer>Your health care provider will examine the skin for signs of scabies. Tests that may done include: Scraping the skin burrows to remove mites, eggs, or mite feces to examine under the microscope., In some cases, a  skin biopsy  is done., </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003465-5" qtype="treatment">What are the treatments for Scabies ?</Question>
+			<Answer>HOME CARE Before treatment, wash clothes and underwear, towels, bedding and sleepwear in hot water and dry at 140&#176;F (60&#176;C) or higher. Dry cleaning also works. If washing or dry cleaning can't be done, keep these items away from the body for at least 72 hours. Away from the body, the mites will die., Vacuum carpets and upholstered furniture., Use calamine lotion or soak in a cool bath to ease itching., Take an oral antihistamine if your provider recommends it for very bad itching.,  MEDICINES FROM YOUR HEALTH CARE PROVIDER The whole family and sexual partners of infected people should be treated, even if they do not have symptoms. Creams or lotions prescribed by your provider are needed to treat scabies. The medicine most often used is permethrin 5%., Other medicines include benzyl benzoate, sulfur in petrolatum, and crotamiton.,  Apply the medicine all over your body. The treatment is typically repeated in 1 week. For hard to treat cases, your provider may also prescribe a pill known as ivermectin.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003465-6" qtype="outlook">What is the outlook for Scabies ?</Question>
+			<Answer>Itching may continue for 2 weeks or more after treatment ends. It will most likely disappear if you follow the provider's treatment plan. Most cases of scabies can be cured without any long-term problems. A severe case with a lot of scaling or crusting may be a sign that the person has a weakened immune system.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003465-7" qtype="complications">What are the complications of Scabies ?</Question>
+			<Answer>Intense scratching can cause a secondary skin infection, such as  impetigo .</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003465-8" qtype="when to contact a medical professional">Do I need to see a doctor for Scabies ?</Question>
+			<Answer>Contact your provider if: You have symptoms of scabies., A person you have been in close contact with has been diagnosed with scabies., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

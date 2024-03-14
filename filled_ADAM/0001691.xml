@@ -1,0 +1,56 @@
+<Document id="0001691" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001129.htm">
+ 
+<Focus>Gastrointestinal fistula</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0341212</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Entero-enteral fistula</Synonym>
+		<Synonym>Enterocutaneous fistula</Synonym>
+		<Synonym>Fistula - gastrointestinal</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001691-1" qtype="information">What is (are) Gastrointestinal fistula ?</Question>
+			<Answer>A gastrointestinal fistula is an abnormal opening in the stomach or intestines that allows the contents to leak to another part of the body. Leaks that go through to a part of the intestines are called entero-enteral fistulas., Leaks that go through to the skin are called enterocutaneous fistulas., Other organs can be involved, such as the bladder, vagina, anus, and colon., </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001691-2" qtype="causes">What causes Gastrointestinal fistula ?</Question>
+			<Answer>Most gastrointestinal fistulas occur after surgery. Other causes include: Blockage in the intestine, Infection (such as  diverticulitis ),  Crohn disease , Radiation to the abdomen (most often given as part of cancer treatment), Injury, such as deep wounds from stabbing or gunshot, Swallowing caustic substances (such as  lye ) , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001691-3" qtype="symptoms">What are the symptoms of Gastrointestinal fistula ?</Question>
+			<Answer>Depending on where the leak is, these fistulas may cause  diarrhea , and poor absorption of nutrients. Your body may not have as much water and fluids as it needs. Some fistulas may not cause symptoms., Other fistulas cause intestinal contents to leak through an opening in the skin., </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001691-4" qtype="exams and tests">How to diagnose Gastrointestinal fistula ?</Question>
+			<Answer>Tests may include: Barium swallow  to examine the stomach or small bowel,  Barium enema  to examine the colon,  CT scan  of the abdomen to look for fistulas between loops of the intestines or areas of infection, Fistulogram, in which contrast dye is injected into the opening of the skin of a fistula and x-rays are taken, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001691-5" qtype="treatment">What are the treatments for Gastrointestinal fistula ?</Question>
+			<Answer>Treatments may include: Antibiotics, Immune suppressing medicines if the fistula is a result of Crohn disease, Surgery to remove the fistula and part of the intestines if the fistula is not healing, Nutrition through a vein while the fistula heals (in some cases) ,  Some fistulas close on their own after a few weeks to months.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001691-6" qtype="outlook">What is the outlook for Gastrointestinal fistula ?</Question>
+			<Answer>The outlook depends on the person's overall health and how bad the fistula is. People who are otherwise healthy have a very good chance of recovery.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001691-7" qtype="complications">What are the complications of Gastrointestinal fistula ?</Question>
+			<Answer>Fistulas may result in malnutrition and dehydration, depending on their location in the intestine. They may also cause skin problems and infection.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001691-8" qtype="when to contact a medical professional">Do I need to see a doctor for Gastrointestinal fistula ?</Question>
+			<Answer>Contact your health care provider if you have: Very bad diarrhea or other major change in bowel habits, Leakage of fluid from an opening on the abdomen or near the anus, particularly if you have recently had abdominal surgery, </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

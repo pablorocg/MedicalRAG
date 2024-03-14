@@ -1,0 +1,58 @@
+<Document id="0001965" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001261.htm">
+ 
+<Focus>High arch</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3553704</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pes cavus</Synonym>
+		<Synonym>High foot arch</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001965-1" qtype="information">What is (are) High arch ?</Question>
+			<Answer>High arch is a foot arch that is raised more than normal. The arch runs from the toes to the heel on the bottom of the foot. It is also called pes cavus. High arch is the opposite of  flat feet .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001965-2" qtype="causes">What causes High arch ?</Question>
+			<Answer>High foot arches are much less common than flat feet. They can be caused by a bone (orthopedic) or nerve (neurological) condition. Unlike flat feet, highly arched feet tend to be painful. This is so because more stress is placed on the section of the foot between the ankle and toes (metatarsals). This condition can make it difficult to fit into shoes. People who have high arches most often need foot support. A high arch may cause disability.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001965-3" qtype="symptoms">What are the symptoms of High arch ?</Question>
+			<Answer>Symptoms include: Shortened foot length, Difficulty fitting shoes,  Foot pain  with walking, standing, and running (not everyone has this symptom) , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001965-4" qtype="exams and tests">How to diagnose High arch ?</Question>
+			<Answer>When the person stands on the foot, the instep looks hollow. Most of the weight is on the back and balls of the foot (metatarsals head). Your health care provider will check to see if the high arch is flexible, meaning it can be moved around. Tests that may be done include: X-ray  of the feet,  X-ray of the spine ,  Electromyography , MRI of the spine,  Nerve conduction studies , Genetic testing to look for hereditary genes that can pass on to your child, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001965-5" qtype="treatment">What are the treatments for High arch ?</Question>
+			<Answer>High arches, particularly ones that are flexible or well cared for, may not need any treatment. Corrective shoes may help relieve pain and improve walking. This includes changes to the shoes, such as an arch insert and a support insole. Surgery to flatten the foot is sometimes needed in severe cases. Any nerve problems that exist must be treated and monitored by specialists.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001965-6" qtype="outlook">What is the outlook for High arch ?</Question>
+			<Answer>The outlook depends on the condition causing high arches. In mild cases, wearing proper shoes and arch supports may provide relief.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001965-7" qtype="complications">What are the complications of High arch ?</Question>
+			<Answer>Complications may include: Chronic  pain,  Difficulty walking , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001965-8" qtype="when to contact a medical professional">Do I need to see a doctor for High arch ?</Question>
+			<Answer>Contact your provider if you think you have foot pain related to high arches.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001965-9" qtype="prevention">How to prevent High arch ?</Question>
+			<Answer>People with highly arched feet should be checked for nerve and bone conditions. Finding these other conditions may help prevent or reduce arch problems.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

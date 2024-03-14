@@ -1,0 +1,26 @@
+<Document id="0002591" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003326.htm">
+ 
+<Focus>Mental status testing</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0278060</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Mental status exam</Synonym>
+		<Synonym>Neurocognitive testing</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002591-1" qtype="information">What is (are) Mental status testing ?</Question>
+			<Answer>Mental status testing is done to check a person's thinking ability and to determine if any problems are getting better or worse. It is also called neurocognitive testing.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

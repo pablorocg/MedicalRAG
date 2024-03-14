@@ -1,0 +1,20 @@
+<Document id="0002983" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000900.htm">
+ 
+<Focus>PEG tube insertion - discharge</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Gastrostomy tube insertion-discharge</Synonym>
+		<Synonym>G-tube insertion-discharge</Synonym>
+		<Synonym>PEG tube insertion-discharge</Synonym>
+		<Synonym>Stomach tube insertion-discharge</Synonym>
+		<Synonym>Percutaneous endoscopic gastrostomy tube insertion-discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002983-1" qtype="information">Do you have information about PEG tube insertion - discharge</Question>
+			<Answer>A PEG (percutaneous endoscopic gastrostomy)  feeding tube insertion  is the placement of a feeding tube through the skin and the stomach wall. It goes directly into the stomach. PEG feeding tube insertion is done in part using a procedure called endoscopy. Feeding tubes are needed when you are unable to eat or drink. This may be due to stroke or other brain injury, problems with the esophagus, surgery of the head and neck, or other conditions. Your PEG tube is easy to use. You (or your caregiver) can learn to care for it on your own and even give yourself tube feedings.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

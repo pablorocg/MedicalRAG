@@ -1,0 +1,54 @@
+<Document id="0004057" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001310.htm">
+ 
+<Focus>Tumor</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3273930</CUI>
+			<CUI>C0027651</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Mass</Synonym>
+		<Synonym>Neoplasm</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004057-1" qtype="information">What is (are) Tumor ?</Question>
+			<Answer>A tumor is an abnormal growth of body tissue. Tumors can be cancerous (malignant) or noncancerous (benign).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004057-2" qtype="causes">What causes Tumor ?</Question>
+			<Answer>In general, tumors occur when cells divide and grow excessively in the body. Normally, the body controls cell growth and division. New cells are created to replace older ones or to perform new functions. Cells that are damaged or no longer needed die to make room for healthy replacements. If the balance of cell growth and death is disturbed, a tumor may form. Problems with the body's immune system can lead to tumors. Tobacco causes more deaths from cancer than any other environmental substance. Other risk factors for cancer include: 
+   Benzene and other chemicals and toxins, Drinking too much alcohol, Environmental toxins, such as certain poisonous mushrooms and a type of poison that can grow on peanut plants (aflatoxins), Excessive sunlight exposure, Genetic problems, Obesity, Radiation exposure, Viruses,  Types of tumors known to be caused by or linked with viruses are: Burkitt lymphoma (Epstein-Barr virus),  Cervical cancer  (human papillomavirus, also called HPV), Most anal cancers (HPV), Some throat cancers, including soft palate, base of tongue and tonsils (HPV), Some vaginal, vulvar, and penile cancers (HPV), Some liver cancers (hepatitis B and hepatitis C viruses), Kaposi sarcoma (human herpesvirus 8), Adult T-cell leukemia/lymphoma (human T-lymphotropic virus-1), Merkel cell carcinoma (Merkel cell polyomavirus), Nasopharyngeal cancer (Epstein-Barr virus), Non-Hodgkin lymphoma and Kaposi sarcoma (HIV) ,  Some tumors are more common in one sex than the other. Some are more common among children or older adults. Others are related to diet, environment, and family history.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004057-3" qtype="symptoms">What are the symptoms of Tumor ?</Question>
+			<Answer>Symptoms depend on the type and location of the tumor. For example, lung tumors may cause coughing, shortness of breath, or chest pain. Tumors of the colon can cause weight loss, diarrhea, constipation, iron deficiency anemia, and blood in the stool. Some tumors may not cause any symptoms. Others, such as esophageal or pancreatic cancer, MAY NOT cause symptoms until the disease has reached an advanced stage. The following symptoms may occur with tumors: 
+   Fever or  chills , Fatigue, Loss of appetite, Night sweats, Weight loss, Pain, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004057-4" qtype="exams and tests">How to diagnose Tumor ?</Question>
+			<Answer>Your health care provider might see a tumor, such as skin or oral cancer. But most cancers can't be seen during an exam because they are deep inside the body. When a tumor is found, a piece of the tissue is removed and examined under a microscope. This is called a  biopsy . It is done to determine if the tumor is noncancerous (benign) or cancerous (malignant). Depending on the location of the tumor, the biopsy may be a simple procedure or a serious operation. A  CT  or  MRI  scan can help determine the exact location of the tumor and how far it has spread. Another imaging test called positron emission tomography ( PET ) is used to find certain tumor types. Other tests that may be done include: Blood tests,  Bone marrow biopsy  (most often for lymphoma or leukemia),  Chest x-ray , Complete blood count ( CBC ),  Liver function tests , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004057-5" qtype="treatment">What are the treatments for Tumor ?</Question>
+			<Answer>Treatment varies based on: Type of tumor, Whether it is cancer, Location of the tumor,  You may not need treatment if the tumor is:  Noncancerous (benign), In a "safe" area where it will not cause symptoms or problems with the way an organ works ,  Sometimes benign tumors may be removed for cosmetic reasons or to improve symptoms. Benign tumors near or in the brain may be removed because of their location or harmful effect on the surrounding normal brain tissue. If a tumor is  cancer , possible treatments may&#160;include: Chemotherapy, Radiation, Surgery,  Targeted cancer therapy ,  Immunotherapy , Other treatment options, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004057-6" qtype="support groups">Where to find support for people with Tumor ?</Question>
+			<Answer>A cancer diagnosis often causes a lot of anxiety and can affect a person's entire life. There are many  resources for cancer patients . </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0004057-7" qtype="outlook">What is the outlook for Tumor ?</Question>
+			<Answer>The outlook varies greatly for different types of tumors. If the tumor is benign, the outlook is generally very good. But a benign tumor can sometimes cause severe problems, such as in or near the brain. If the tumor is cancerous, the outcome depends on the type and  stage  of the tumor at diagnosis. Some cancers can be cured. Some that are not curable can still be treated, and people can live for many years with the cancer. Still other tumors are quickly life threatening.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

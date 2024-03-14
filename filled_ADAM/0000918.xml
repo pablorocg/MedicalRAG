@@ -1,0 +1,22 @@
+<Document id="0000918" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003913.htm">
+ 
+<Focus>Colposcopy - directed biopsy</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Biopsy - colposcopy - directed</Synonym>
+		<Synonym>Biopsy - cervix - colposcopy</Synonym>
+		<Synonym>Endocervical curettage</Synonym>
+		<Synonym>ECC</Synonym>
+		<Synonym>Cervical punch biopsy</Synonym>
+		<Synonym>Biopsy - cervical punch</Synonym>
+		<Synonym>Cervical biopsy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000918-1" qtype="information">Do you have information about Colposcopy - directed biopsy</Question>
+			<Answer>A colposcopy is a special way of looking at the cervix. It uses a light and a low-powered microscope to make the cervix appear much larger. This helps your health care provider find and then  biopsy  abnormal areas in your cervix.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

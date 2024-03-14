@@ -1,0 +1,57 @@
+<Document id="0002320" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000276.htm">
+ 
+<Focus>Lactose intolerance</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022951</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lactase deficiency</Synonym>
+		<Synonym>Milk intolerance</Synonym>
+		<Synonym>Disaccharidase deficiency</Synonym>
+		<Synonym>Dairy product intolerance</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002320-1" qtype="information">What is (are) Lactose intolerance ?</Question>
+			<Answer>Lactose is a type of sugar found in milk and other dairy products. An enzyme called lactase is needed by the body to digest lactose. Lactose intolerance develops when the small intestine does not make enough of this enzyme.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002320-2" qtype="causes">What causes Lactose intolerance ?</Question>
+			<Answer>Babies' bodies make the lactase enzyme so they can digest milk, including breast milk. Babies born too early (premature) sometimes have lactose intolerance. , Children who were born at full term often do not show signs of the problem before they are 3 years old.,  Lactose intolerance is very common in adults. It is rarely dangerous. About 30 million American adults have some degree of lactose intolerance by age 20. In white people, lactose intolerance often develops in children older than age 5. This is the age when our bodies may stop making lactase., In African Americans, the problem can occur as early as age 2., The condition is very common among adults with Asian, African, or Native American heritage. , It is less common in people of northern or western European background, but still may occur. ,  An illness that involves or injures your small intestine may cause less of the lactase enzyme to be made. Treatment of these illnesses may improve the symptoms of lactose intolerance. These may include: Surgery of the small intestine, Infections in the small intestine (this is most often seen in children), Diseases that damage the small intestines, such as  celiac disease  or  Crohn disease , Any illness that causes diarrhea,  Babies may be born with a genetic defect which may make them unable to make any of the lactase enzyme.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002320-3" qtype="symptoms">What are the symptoms of Lactose intolerance ?</Question>
+			<Answer>Symptoms often occur 30 minutes to 2 hours after having milk products. Symptoms may be worse when you consume large amounts. Symptoms include: Abdominal bloating , Abdominal cramps, Diarrhea, Gas ( flatulence ), Nausea , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002320-4" qtype="exams and tests">How to diagnose Lactose intolerance ?</Question>
+			<Answer>Other intestinal problems, such as  irritable bowel syndrome , may cause the same symptoms as lactose intolerance. Tests to help diagnose lactose intolerance include: Lactose-hydrogen breath test,  Lactose tolerance test , Stool pH ,  Another method may be to challenge a patient with 25 to 50 grams of lactose in water. Symptoms are then assessed using a questionnaire. A 1 to 2 week trial of a completely lactose-free diet is also sometimes tried.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002320-5" qtype="treatment">What are the treatments for Lactose intolerance ?</Question>
+			<Answer>Cutting down your intake of milk products that contain lactose from your diet most often eases symptoms. Also look at food labels for hidden sources of lactose in nonmilk products (including some beers) and avoid these. Most people with low lactase level can drink up to one half cup of milk at one time (2 to 4 ounces or 60 to 120 milliliters) without having symptoms. Larger servings (more than 8 ounces or 240 mL) may cause problems for people with lactase deficiency. Milk products that may be easier to digest include: Buttermilk and cheeses (these foods contain less lactose than milk), Fermented milk products, such as yogurt, Goat's milk, Aged hard cheeses, Lactose-free milk and milk products, Lactase-treated cow's milk for older children and adults, Soy formulas for infants younger than 2 years, Soy or rice milk for toddlers ,  You can add lactase enzymes to regular milk. You can also take these enzymes as capsules or chewable tablets. There are also many lactose-free dairy products available. Not having milk and other dairy products in your diet can lead to a shortage of calcium, vitamin D, riboflavin, and protein. You need 1,000 to 1,500 mg of calcium each day depending on your age and sex. Some things you can do to get more calcium in your diet are: Take calcium supplements with Vitamin D. Talk to your health care provider about which ones to choose., Eat foods that have more calcium (such as leafy greens, oysters, sardines, canned salmon, shrimp, and broccoli)., Drink orange juice with added calcium. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002320-6" qtype="outlook">What is the outlook for Lactose intolerance ?</Question>
+			<Answer>Symptoms most often go away when you remove milk, other dairy products, and other sources of lactose from your diet. Without dietary changes, infants or children may have growth problems. If the lactose intolerance was caused by a temporary diarrheal illness, levels of lactase enzyme will return to normal within a few weeks.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002320-7" qtype="when to contact a medical professional">Do I need to see a doctor for Lactose intolerance ?</Question>
+			<Answer>Contact your provider if: 
+   You have an infant younger than 2 or 3 years old who has symptoms of lactose intolerance., Your child is growing slowly or not gaining weight., You or your child has symptoms of lactose intolerance and you need information about food substitutes., Your symptoms get worse or do not improve with treatment., You develop new symptoms., </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002320-8" qtype="prevention">How to prevent Lactose intolerance ?</Question>
+			<Answer>There is no known way to prevent lactose intolerance. You can prevent symptoms by avoiding foods with lactose.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

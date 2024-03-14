@@ -1,0 +1,51 @@
+<Document id="0003104" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001485.htm">
+ 
+<Focus>Placental insufficiency</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032051</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Placental dysfunction</Synonym>
+		<Synonym>Uteroplacental vascular insufficiency</Synonym>
+		<Synonym>Oligohydramnios</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003104-1" qtype="information">What is (are) Placental insufficiency ?</Question>
+			<Answer>The placenta is the link between you and your baby. When the placenta does not work as well as it should, your baby can get less oxygen and nutrients from you. As a result, your baby may: Not grow well, Show signs of fetal stress (this means the baby's heart does not work normally), Have a harder time during labor, </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003104-2" qtype="causes">What causes Placental insufficiency ?</Question>
+			<Answer>The placenta may not work well, either due to pregnancy problems or social habits. These may include:&#160; Diabetes ,  Going past your due date  , High blood pressure during pregnancy (called  preeclampsia ), Medical conditions that increase the mother's chances of blood clots, Smoking, Taking cocaine or other drugs , Anemia,  Certain medicines can also increase the risk for placental insufficiency. In some cases, the placenta: May have an abnormal shape, May not grow big enough (more likely if you are carrying twins or other multiples), Does not attach correctly to the surface of the womb, Breaks away from the surface of the womb or bleeds prematurely , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003104-3" qtype="symptoms">What are the symptoms of Placental insufficiency ?</Question>
+			<Answer>A woman with placental insufficiency usually does not have any symptoms. However, certain diseases, such as preeclampsia, which can be symptomatic, can cause placental insufficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003104-4" qtype="exams and tests">How to diagnose Placental insufficiency ?</Question>
+			<Answer>Your health care provider will measure the size of your growing womb (uterus) at each visit, starting about halfway through your pregnancy. If your uterus is not growing as expected, a  pregnancy ultrasound  will be done. This test will measure your baby's size and growth, and assess the size and placement of the placenta. Other times, problems with the placenta or your baby's growth may be found on a routine ultrasound that is done during your pregnancy. Either way, your provider will order tests to check how your baby is doing. The tests may show that your baby is active and healthy, and the amount of amniotic fluid is normal. Or, these tests can show that the baby is having problems. You may be asked to keep a daily record of how often your baby moves or kicks.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003104-5" qtype="treatment">What are the treatments for Placental insufficiency ?</Question>
+			<Answer>The next steps your provider will take depend on: The results of tests, Your due date, Other problems that may be present, such as high blood pressure or diabetes ,  If your pregnancy is less than 37 weeks and the tests show that your baby is not under too much stress, your provider may decide to wait longer. Sometimes you may need to get more rest. You will have tests often to make sure your baby is doing well. Treating high blood pressure or diabetes may also help improve your baby's growth. If your pregnancy is over 37 weeks or tests show your baby is not doing well, your provider may want to deliver your baby. Labor may be induced (you will be given medicine to make labor start), or you may need a  cesarean delivery (C-section) .</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003104-6" qtype="outlook">What is the outlook for Placental insufficiency ?</Question>
+			<Answer>Problems with the placenta can affect the developing baby's growth. The baby cannot grow and develop normally in the womb if it does not get enough oxygen and nutrients.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003104-7" qtype="prevention">How to prevent Placental insufficiency ?</Question>
+			<Answer>Getting prenatal care early in pregnancy will help make sure that the mother is as healthy as possible during the pregnancy. Smoking, alcohol, and other recreational drugs can interfere with the baby's growth. Avoiding these substances may help prevent placental insufficiency and other pregnancy complications.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

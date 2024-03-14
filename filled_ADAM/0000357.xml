@@ -1,0 +1,52 @@
+<Document id="0000357" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001551.htm">
+ 
+<Focus>Attention deficit hyperactivity disorder</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1263846</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ADD</Synonym>
+		<Synonym>ADHD</Synonym>
+		<Synonym>Childhood hyperkinesis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000357-1" qtype="information">What is (are) Attention deficit hyperactivity disorder ?</Question>
+			<Answer>Attention deficit hyperactivity disorder (ADHD) is a problem caused by the presence of one or more of these findings: Not being able to focus, Being overactive, Not being able to control behavior, </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000357-2" qtype="causes">What causes Attention deficit hyperactivity disorder ?</Question>
+			<Answer>ADHD often begins in childhood. But it may continue into the adult years. ADHD is diagnosed more often in boys than in girls. It is not clear what causes ADHD. It may be linked to genes and home or social factors. Experts have found that the brains of children with ADHD are different from those of children without ADHD. Brain chemicals are also different.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000357-3" qtype="symptoms">What are the symptoms of Attention deficit hyperactivity disorder ?</Question>
+			<Answer>ADHD symptoms fall into three groups: Not being able to focus (inattentiveness), Being extremely active ( hyperactivity ), Not being able to control behavior (impulsivity),  Some people with ADHD have mainly inattentive symptoms. Some have mainly hyperactive and impulsive symptoms. Others have a combination of these behaviors.  INATTENTIVE SYMPTOMS Doesn't pay attention to details or makes careless mistakes in schoolwork, Has problems focusing during tasks or play, Doesn't listen when spoken to directly, Doesn't follow through on instructions and doesn't finish schoolwork or chores, Has problems organizing tasks and activities, Avoids or doesn't like tasks that require mental effort (such as schoolwork), Often loses&#160;things, such as homework or toys, Is easily distracted, Is often forgetful,  HYPERACTIVITY SYMPTOMS Fidgets or squirms in seat, Leaves their seat when they&#160;should stay in their seat, Runs about or climbs when they shouldn't be doing so, Has problems playing or working quietly, Is often "on the go," acts as if "driven by a motor", Talks all the time,  IMPULSIVITY SYMPTOMS Blurts out answers before questions have been completed, Has problems awaiting their turn, Interrupts or intrudes on others (butts into conversations or games),  Many of the above findings are present in children as they grow. For these problems to be diagnosed as ADHD, they must be out of the normal range for a person's age and development.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000357-4" qtype="exams and tests">How to diagnose Attention deficit hyperactivity disorder ?</Question>
+			<Answer>There is no test that can diagnose ADHD. Diagnosis is based on a pattern of the symptoms listed above. When a child is suspected to have ADHD, parents and teachers are often involved during the evaluation. Most children with ADHD have at least one other developmental or mental health problem. This may be a mood, anxiety, or substance use disorder. Or, it may be a learning problem or a tic disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000357-5" qtype="treatment">What are the treatments for Attention deficit hyperactivity disorder ?</Question>
+			<Answer>Treating ADHD is a partnership between the health care provider and the person with ADHD. If it's a child, parents and often teachers are involved. For treatment to work, it is important to: Set specific goals that are right for the child., Start medicine or talk therapy, or both., Follow-up regularly with the provider to check on goals, results, and any side effects of medicines.,  If treatment does not seem to work, the provider will likely: Confirm the person has ADHD., Check for health problems that can cause similar symptoms., Make sure the treatment plan is being followed.,  MEDICINES Medicine  combined with behavioral treatment often works best. Different ADHD medicines can be used alone or combined with each other. The provider will decide which medicine is right, based on the person's symptoms and needs. Psychostimulants (also known as stimulants) are the most commonly used medicines. Although these drugs are called stimulants, they actually have a calming effect on people with ADHD. Follow the provider's instructions about how to take ADHD medicine. The provider needs to monitor if the medicine is working and if there are any problems with it. So, be sure to keep all appointments with the provider.
+ Some ADHD medicines have side effects. If the person has side effects, contact the provider right away. The dosage or medicine itself may need to be changed. THERAPY A common type of ADHD therapy is called behavioral therapy. It teaches children and parents healthy behaviors and how to manage disruptive behaviors. For mild ADHD, behavioral therapy alone (without medicine) may be effective. Other tips to help a child with ADHD include: Talk regularly with the child's teacher., Keep a daily schedule, including regular times for homework, meals, and activities. Make changes to the schedule ahead of time and not at the last moment., Limit distractions in the child's environment., Make sure the child gets a healthy, varied diet, with plenty of fiber and basic nutrients., Make sure the child gets enough sleep., Praise and reward good behavior., Provide clear and consistent rules for the child.,  There is little proof that alternative treatments for ADHD such as herbs, supplements, and chiropractic are helpful.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000357-6" qtype="outlook">What is the outlook for Attention deficit hyperactivity disorder ?</Question>
+			<Answer>ADHD is a long-term condition. ADHD may lead to: Drug and alcohol use, Not doing well in school, Problems keeping a job, Trouble with the law,  One third to one half of children with ADHD have symptoms of inattention or hyperactivity-impulsivity as adults. Adults with ADHD are often able to control behavior and mask problems.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000357-7" qtype="when to contact a medical professional">Do I need to see a doctor for Attention deficit hyperactivity disorder ?</Question>
+			<Answer>Contact the provider if you or your child's teachers suspect ADHD. You should also tell the provider about: Problems at home, school, and with peers, Side effects of ADHD medicine, Signs of  depression , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

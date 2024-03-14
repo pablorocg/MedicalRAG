@@ -1,0 +1,13 @@
+<Document id="0003949" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/002328.htm">
+ 
+<Focus>Titer</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003949-1" qtype="information">Do you have information about Titer</Question>
+			<Answer>Blood titer measurements can help determine medical treatment. Antibody titers show if a person is immune to diseases such as  measles , chickenpox, or  hepatitis . They can also help measure harmful antibodies related to lupus or other autoimmune diseases. A titer measurement is expressed as a ratio, such as 1:40.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

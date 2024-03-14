@@ -1,0 +1,62 @@
+<Document id="0001954" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000960.htm">
+ 
+<Focus>Hernia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019270</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hernia - inguinal</Synonym>
+		<Synonym>Inguinal hernia</Synonym>
+		<Synonym>Direct and indirect hernia</Synonym>
+		<Synonym>Rupture</Synonym>
+		<Synonym>Strangulation</Synonym>
+		<Synonym>Incarceration</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001954-1" qtype="information">What is (are) Hernia ?</Question>
+			<Answer>A hernia is a sac formed by the lining of the abdominal cavity (peritoneum). The sac comes through a hole or weak area in the strong layer of the belly wall that surrounds the muscle. This layer is called the fascia. Which type of hernia you have depends on where it is: Femoral hernia  is a bulge in the upper thigh, just below the groin. This type is more common in women than men.,  Hiatal hernia  occurs in the diaphragm muscle that separates the chest and abdomen. Part of the upper stomach pushes into the chest.,  Incisional hernia  can occur through a scar if you have had abdominal surgery in the past.,  Umbilical hernia  is a bulge around the belly button. It occurs when the muscle around the belly button does not close completely after birth.,  Inguinal hernia  is a bulge in the groin. It is more common in men. It may go all the way down into the scrotum., </Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001954-2" qtype="causes">What causes Hernia ?</Question>
+			<Answer>Usually, there is no clear cause of a hernia. Sometimes, hernias can occur due to: Heavy lifting, Straining while using the toilet, Any activity that raises the pressure inside the belly ,  Hernias may be present at birth, but the bulge may not be evident until later in life. Some people have a family history of hernias. Babies and children can get hernias. It happens when there is weakness in the belly wall. Inguinal hernias are common in boys. Some children do not have symptoms until they are adults. Any activity or medical problem that increases pressure on the tissue in the belly wall and muscles may lead to a hernia, including: Long-term (chronic) constipation and pushing hard (straining) to have a bowel movement, Chronic coughing or sneezing,  Cystic fibrosis ,  Enlarged prostate , straining to urinate, Extra weight, Fluid in the abdomen ( ascites ),  Peritoneal dialysis , Poor nutrition, Smoking, Overexertion,  Undescended testicles , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001954-3" qtype="symptoms">What are the symptoms of Hernia ?</Question>
+			<Answer>There are usually no symptoms other than a visible bulge. Some people have discomfort or pain. The discomfort may be worse when standing, straining, or lifting heavy objects. In time, the most common complaint is a bump that is sore and growing. When a hernia gets bigger, it may get stuck inside the hole and lose its blood supply. This is called strangulation. This causes pain and swelling at the site of strangulation. Symptoms may include: Nausea and vomiting, Not being able to pass gas or have bowel movements,  When this occurs, surgery is needed right away.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001954-4" qtype="exams and tests">How to diagnose Hernia ?</Question>
+			<Answer>The health care provider can usually see or feel a hernia when you are examined. You may be asked to cough, bend, push, or lift. The hernia may get bigger when you do this.  The hernia (bulge) may not be easily seen in infants and children, except when the child is crying or coughing.  Ultrasound  or  CT scan  may be done to look for a hernia. If there is a blockage in the bowel, an  x-ray of the abdomen  will likely be done. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001954-5" qtype="treatment">What are the treatments for Hernia ?</Question>
+			<Answer>Surgery is the only treatment that can permanently fix a hernia. Surgery may be more risky for people with serious medical problems.  Surgery repairs the weakened abdominal wall tissue (fascia) and closes any holes. Most hernias are closed with stitches and sometimes with mesh patches to plug the hole. An umbilical hernia that does not heal on its own by the time a child is 5 years old will likely be repaired.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001954-6" qtype="outlook">What is the outlook for Hernia ?</Question>
+			<Answer>The outcome for most hernias is usually good with treatment. It is rare for a hernia to come back. Incisional hernias are more likely to return.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001954-7" qtype="complications">What are the complications of Hernia ?</Question>
+			<Answer>In rare cases, inguinal hernia repair can damage structures involved in the function of a man's testicles. Another risk of hernia surgery is nerve damage, which can lead to numbness in the groin area. If a part of the bowel was trapped or strangulated before surgery,  bowel perforation  or dead bowel may result.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001954-8" qtype="when to contact a medical professional">Do I need to see a doctor for Hernia ?</Question>
+			<Answer>Contact your provider right away if you have: A painful hernia and the contents cannot be pushed back into the abdomen by lying down and using gentle pressure, Nausea, vomiting, or a fever along with a painful hernia, A hernia that becomes red, purple, dark, or discolored,  Contact your provider if you have: Groin pain, swelling, or a bulge., A bulge or swelling in the groin or belly button, or that is associated with a previous surgical cut., </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001954-9" qtype="prevention">How to prevent Hernia ?</Question>
+			<Answer>To prevent a hernia: Use proper lifting techniques., Lose weight if you are overweight., Relieve or avoid constipation by eating plenty of fiber, drinking lots of fluid, going to the bathroom as soon as you have the urge, and exercising regularly., Men should see their provider if they strain with urination. This may be a symptom of an enlarged prostate. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

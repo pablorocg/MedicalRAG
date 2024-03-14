@@ -1,0 +1,22 @@
+<Document id="0003214" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007441.htm">
+ 
+<Focus>Preventing food poisoning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0016479</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003214-1" qtype="information">What is (are) Preventing food poisoning ?</Question>
+			<Answer>To prevent  food poisoning , take the following steps when preparing food: Carefully wash your hands often, and always before cooking or cleaning. Always wash them again after touching raw meat., Clean dishes and utensils that have had any contact with raw meat, poultry, fish, or eggs., Use a thermometer when cooking. Cook beef to at least 160&#176;F (71&#176;C), poultry to at least 165&#176;F (73.8&#176;C), and fish to at least 145&#176;F (62.7&#176;C)., Do not place cooked meat or fish back onto the same plate or container that held the raw meat, unless the container has been completely washed., Refrigerate any perishable food or leftovers within 2 hours. Keep the refrigerator set to around 40&#176;F (4.4&#176;C) and your freezer at or below 0&#176;F (-18&#176;C). Do not eat meat, poultry, or fish that has been refrigerated uncooked for longer than 1 to 2 days., Cook frozen foods for the full time recommended on the package., Do not use outdated foods, packaged food with a broken seal, or cans that are bulging or have a dent., Do not use foods that have an unusual odor or a spoiled taste., Do not drink water from streams or wells that are not treated. Only drink water that has been treated or chlorinated. ,  Other steps to take: If you take care of young children, wash your hands often and dispose of diapers carefully so that bacteria can't spread to other surfaces or people., If you make canned food at home, be sure to follow proper canning techniques to prevent botulism., Do not feed honey to children less than 1 year of age., Do not eat wild mushrooms., When traveling where contamination is more likely, eat only hot, freshly cooked food. Drink water only if it has been boiled. Do not eat raw vegetables or unpeeled fruit., Do not eat shellfish that has been exposed to red tides., If you are pregnant or have a weakened immune system, do not eat soft cheeses, especially soft cheeses imported from countries outside the United States. ,  If other people may have eaten the food that made you sick, let them know. If you think the food was contaminated when you bought it from a store or restaurant, tell the store and your local health department.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

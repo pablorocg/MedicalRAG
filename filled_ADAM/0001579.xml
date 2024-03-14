@@ -1,0 +1,48 @@
+<Document id="0001579" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003090.htm">
+ 
+<Focus>Fever</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0424755</CUI>
+			<CUI>C0015967</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Elevated temperature</Synonym>
+		<Synonym>Hyperthermia</Synonym>
+		<Synonym>Pyrexia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001579-1" qtype="information">What is (are) Fever ?</Question>
+			<Answer>Fever is the temporary increase in the body's temperature in response to a disease or illness. A child has a fever when the temperature is at or above one of these levels: 100.4&#176;F (38&#176;C) measured in the bottom (rectally), 99.5&#176;F (37.5&#176;C) measured in the mouth (orally), 99&#176;F (37.2&#176;C) measured under the arm (axillary),  An adult probably has a fever when the temperature is above 99&#176;F to 99.5&#176;F (37.2&#176;C to 37.5&#176;C), depending on the time of day.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001579-2" qtype="considerations">What to do for Fever ?</Question>
+			<Answer>Normal body temperature may change during any given day. It is usually highest in the evening. Other factors that may affect body temperature are: A woman's menstrual cycle. In the second part of this cycle, her temperature may go up by 1 degree Fahrenheit or more., Physical activity, strong emotion, eating, heavy clothing, medicines, high room temperature, and high humidity can all increase body temperature.,  Fever is an important part of the body's defense against infection. Most bacteria and viruses that cause infections in people thrive best at 98.6&#176;F (37&#176;C). Many infants and children develop high fevers with mild viral illnesses. Although a fever signals that a battle might be going on in the body, the fever is fighting for, not against the person. Brain damage from a fever generally will not occur unless the fever is over 107.6&#176;F (42&#176;C). Untreated fevers caused by infection will seldom go over 105&#176;F (40.6&#176;C) unless the child is overdressed or in a hot place. Febrile seizures  do occur in some children. Most febrile seizures are over quickly and do not mean your child has epilepsy. These seizures also do not cause any permanent harm. Unexplained fevers that continue for days or weeks are called fevers of undetermined origin (FUO).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001579-3" qtype="causes">What causes Fever ?</Question>
+			<Answer>Almost any infection can cause a fever, including: Bone infections ( osteomyelitis ),  appendicitis , skin infections or  cellulitis , and  meningitis , Respiratory infections such as  colds  or  flu -like illnesses,  sore throats ,  ear infections ,  sinus infections ,  mononucleosis ,  bronchitis ,  pneumonia , and  tuberculosis ,  Urinary tract infections ,  Viral gastroenteritis  and  bacterial gastroenteritis ,  Children and adults may have a low-grade fever for 1 or 2 days after some  immunizations . Teething  may cause a slight increase in a child's temperature, but not higher than 100&#176;F (37.8&#176;C). Autoimmune or inflammatory disorders may also cause fevers. Some examples are: Arthritis  or connective tissue illnesses such as  rheumatoid arthritis  and  systemic lupus erythematosus ,  Ulcerative colitis  and  Crohn disease ,  Vasculitis  or  periarteritis nodosa ,  The first symptom of a cancer may be a fever. This is particularly true of  Hodgkin disease ,  non-Hodgkin lymphoma , and  leukemia . Other possible causes of fever include: Blood clots  or  thrombophlebitis , Medicines, such as some antibiotics, antihistamines, and seizure medicines , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001579-4" qtype="considerations">What to do for Fever ?</Question>
+			<Answer>Normal body temperature may change during any given day. It is usually highest in the evening. Other factors that may affect body temperature are: A woman's menstrual cycle. In the second part of this cycle, her temperature may go up by 1 degree Fahrenheit or more., Physical activity, strong emotion, eating, heavy clothing, medicines, high room temperature, and high humidity can all increase body temperature.,  Fever is an important part of the body's defense against infection. Most bacteria and viruses that cause infections in people thrive best at 98.6&#176;F (37&#176;C). Many infants and children develop high fevers with mild viral illnesses. Although a fever signals that a battle might be going on in the body, the fever is fighting for, not against the person. Brain damage from a fever generally will not occur unless the fever is over 107.6&#176;F (42&#176;C). Untreated fevers caused by infection will seldom go over 105&#176;F (40.6&#176;C) unless the child is overdressed or in a hot place. Febrile seizures  do occur in some children. Most febrile seizures are over quickly and do not mean your child has epilepsy. These seizures also do not cause any permanent harm. Unexplained fevers that continue for days or weeks are called fevers of undetermined origin (FUO).</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001579-5" qtype="when to contact a medical professional">Do I need to see a doctor for Fever ?</Question>
+			<Answer>Contact a provider right away if your child: Is 3 months or younger and has a rectal temperature of 100.4&#176;F (38&#176;C) or higher, Is 3 to 12 months old and has a fever of 102.2&#176;F (39&#176;C) or higher, Is 2 years or younger and has a fever that lasts longer than 24 to 48 hours, Is older and has a fever for longer than 48 to 72 hours, Has a fever of 105&#176;F (40.5&#176;C) or higher, unless it comes down readily with treatment and the person is comfortable, Has other symptoms that suggest an illness may need to be treated, such as a sore throat,  earache , or  cough , Has had fevers come and go for up to a week or more, even if these fevers are not very high, Has a serious medical illness, such as a heart problem, sickle cell anemia, diabetes, or cystic fibrosis, Recently had an immunization, Has a new rash or bruises, Has pain with urination, Has a weakened immune system (because of long-term [chronic] steroid therapy, a bone marrow or organ transplant, spleen removal, HIV/AIDS, or cancer treatment), Has recently traveled to another country,  Contact your provider right away if you are an adult and you: Have a fever of 105&#176;F (40.5&#176;C) or higher, unless it comes down readily with treatment and you are comfortable, Have a fever that stays at or keeps rising above 103&#176;F (39.4&#176;C), Have a fever for longer than 48 to 72 hours, Have had fevers come and go for up to a week or more, even if they are not very high, Have a serious medical illness, such as a  heart problem ,  sickle cell anemia ,  diabetes ,  cystic fibrosis ,  COPD , or other long-term (chronic) lung problems, Have a new rash or bruises, Have pain with urination, Have a weakened immune system (from chronic steroid therapy, a bone marrow or organ transplant, spleen removal,  HIV/AIDS , or cancer treatment), Have recently traveled to another country,  Call 911 or the local emergency number if you or your child has a fever and: Is crying and cannot be calmed (children), Cannot be awakened easily or at all, Seems confused, Cannot walk, Has difficulty breathing, even after the nose is cleared, Has blue lips, tongue, or nails, Has a very bad headache, Has a stiff neck, Refuses to move an arm or leg (children), Has a seizure, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001579-6" qtype="outlook">What is the outlook for Fever ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

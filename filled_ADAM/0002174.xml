@@ -1,0 +1,54 @@
+<Document id="0002174" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001384.htm">
+ 
+<Focus>Infant botulism</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0238027</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002174-1" qtype="information">What is (are) Infant botulism ?</Question>
+			<Answer>Infant botulism is a potentially life-threatening disease caused by a bacterium called  Clostridium botulinum . It grows inside a baby's gastrointestinal tract.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002174-2" qtype="causes">What causes Infant botulism ?</Question>
+			<Answer>Clostridium botulinum  is a spore-forming organism that is common in nature. The spores may be found in soil and certain foods (such as honey and some corn syrups). Infant botulism occurs mostly in young infants between 6 weeks and 6 months of age. It may occur as early as 6 days and as late as 1 year. Risk factors include swallowing honey as a baby, being around contaminated soil, and having less than one stool per day for a period greater than 2 months.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002174-3" qtype="symptoms">What are the symptoms of Infant botulism ?</Question>
+			<Answer>Symptoms may include: Breathing that stops or slows, Constipation, Eyelids that sag or partially close, "Floppy" body, Absence of gagging, Loss of head control, Paralysis that spreads downward, Poor feeding and weak suckling, Respiratory failure, Extreme tiredness (lethargy), Weak cry, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002174-4" qtype="exams and tests">How to diagnose Infant botulism ?</Question>
+			<Answer>The health care provider will do a physical exam. This may show a decreased muscle tone, a missing or decreased gag reflex, missing or decreased deep tendon reflexes, and eyelid drooping. A stool sample from the baby may be checked for the botulinum toxin or bacteria. Electromyography (EMG ) can be done to help tell the difference between muscle and neurological problems.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002174-5" qtype="treatment">What are the treatments for Infant botulism ?</Question>
+			<Answer>Botulism immune globulin is the main treatment for this condition. Infants that get this treatment have shorter hospital stays and milder illness. Any infant with botulism must receive supportive care during their recovery. This includes: Ensuring proper nutrition, Keeping the airway clear, Watching for breathing problems ,  If breathing problems develop, breathing support, including the use of a breathing machine, may be needed. Antibiotics do not appear to help the baby improve any faster. Therefore, they are not needed unless another bacterial infection such as pneumonia develops. The use of human-derived botulinum antitoxin may also be helpful.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002174-6" qtype="outlook">What is the outlook for Infant botulism ?</Question>
+			<Answer>When the condition is detected and treated early, the child most often makes a full recovery. Death or permanent disability may result in complicated cases.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002174-7" qtype="complications">What are the complications of Infant botulism ?</Question>
+			<Answer>Respiratory insufficiency can develop. This would require assistance with breathing (mechanical ventilation).</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002174-8" qtype="when to contact a medical professional">Do I need to see a doctor for Infant botulism ?</Question>
+			<Answer>Infant botulism can be life threatening. Go to the emergency room or call 911 or the local emergency number right away if your infant has symptoms of botulism.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002174-9" qtype="prevention">How to prevent Infant botulism ?</Question>
+			<Answer>In theory, the disease might be avoided by preventing exposure to spores. Clostridium spores are found in honey and corn syrup. These foods should not be fed to infants less than 1 year old.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,55 @@
+<Document id="0001590" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000977.htm">
+ 
+<Focus>Fifth disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085273</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Parvovirus B19</Synonym>
+		<Synonym>Erythema infectiosum</Synonym>
+		<Synonym>Slapped cheek rash</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001590-1" qtype="information">What is (are) Fifth disease ?</Question>
+			<Answer>Fifth disease is caused by a virus that leads to a rash on the cheeks, arms, and legs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001590-2" qtype="causes">What causes Fifth disease ?</Question>
+			<Answer>Fifth disease is caused by human parvovirus B19. It often affects preschoolers or school-age children during the spring. The disease spreads through the fluids in the nose and mouth when someone coughs or sneezes. The disease causes a tell-tale bright-red rash on the cheeks. The rash also spreads to the body and can cause other symptoms. You can get fifth disease and not have any symptoms. About 20% of people who get the virus do not have symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001590-3" qtype="symptoms">What are the symptoms of Fifth disease ?</Question>
+			<Answer>Early symptoms of fifth disease include: Fever, Headache, Runny nose ,  This is followed by a  rash  on the face and body: The tell-tale sign of this illness is bright-red cheeks. This is often called a "slapped-cheek" rash., The rash appears on the arms and legs and middle of the body, and it may itch., The rash comes and goes and most often disappears in about 2 weeks. It fades from the center outwards, so it looks lacy. ,  Some people also have  joint pain  and swelling. This more commonly occurs in adult women. </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001590-4" qtype="exams and tests">How to diagnose Fifth disease ?</Question>
+			<Answer>Your health care provider will examine the rash. Most often this is enough to diagnose the disease. Your provider can also do blood tests to look for signs of the virus, although it is not needed in most cases.  The provider may choose to do a blood test in certain situations, such as for pregnant women or people with anemia. </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001590-5" qtype="treatment">What are the treatments for Fifth disease ?</Question>
+			<Answer>There is no treatment for fifth disease. The virus will clear up on its own in a couple of weeks. If your child has joint pain or an itchy rash, talk with your child's provider about ways to ease symptoms. Acetaminophen (such as Tylenol) for children can help relieve joint pain.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001590-6" qtype="outlook">What is the outlook for Fifth disease ?</Question>
+			<Answer>Most children and adults have only mild symptoms and recover completely.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001590-7" qtype="complications">What are the complications of Fifth disease ?</Question>
+			<Answer>Fifth disease does not often cause complications in most people.  If you are pregnant and think you may have been exposed to someone with the virus, tell your provider. Usually there is no problem. Most pregnant women are immune to the virus. Your provider can test you to see if you are immune.  Women who are not immune most often only have mild symptoms. However, the virus can cause anemia in an unborn baby and even cause miscarriage. This is uncommon and occurs only in a small percentage of women. It is more likely in the first half of pregnancy. There is also a higher risk for complications in people with:  A weak immune system, such as from cancer, leukemia, or HIV infection, Certain blood problems such as sickle cell anemia ,  Fifth disease can cause severe  anemia , which will need treatment.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001590-8" qtype="when to contact a medical professional">Do I need to see a doctor for Fifth disease ?</Question>
+			<Answer>You should contact your provider if: Your child has symptoms of fifth disease., You are pregnant and think you may have been exposed to the virus or you have a rash., </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

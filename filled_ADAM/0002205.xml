@@ -1,0 +1,55 @@
+<Document id="0002205" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000477.htm">
+ 
+<Focus>Interstitial cystitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0600040</CUI>
+			<CUI>C0282488</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cystitis - interstitial</Synonym>
+		<Synonym>IC</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002205-1" qtype="information">What is (are) Interstitial cystitis ?</Question>
+			<Answer>Interstitial cystitis (IC) is a long-term (chronic) problem in which pain, pressure, or burning is present in the bladder. It is often associated with urinary frequency or urgency. It is also called painful bladder syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002205-2" qtype="causes">What causes Interstitial cystitis ?</Question>
+			<Answer>The bladder is a hollow organ that stores urine. It has a thin layer of muscle inside it. When your bladder fills up with urine, it sends a signal to your brain, telling the muscles to squeeze. Under normal conditions, these signals are not painful. If you have interstitial cystitis, the signals from the bladder are painful and may occur even when the bladder is not full. The condition most often occurs between ages 20 to 40, although it has been reported in younger people. Women are 10 times more likely to have IC than men. The exact cause of this condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002205-3" qtype="symptoms">What are the symptoms of Interstitial cystitis ?</Question>
+			<Answer>Symptoms of IC are chronic. Symptoms tend to come and go with periods of lesser or worse severity. Common symptoms include: Bladder pressure or discomfort (mild to severe),  Urge to urinate often , Burning pain in the pelvic area, Pain during intercourse ,  Many people who have long-term IC may also have other conditions such as endometriosis, fibromyalgia, irritable bowel syndrome, other chronic pain syndromes, anxiety, or depression.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002205-4" qtype="exams and tests">How to diagnose Interstitial cystitis ?</Question>
+			<Answer>Your health care provider will look for other causes of your symptoms. These include: Sexually transmitted infections, Bladder cancer, Bladder infections, Kidney or ureteral stones ,  Tests are done on your urine to look for infection or cells that suggest cancer inside the bladder. During a cystoscopy, the provider uses a special tube with a small camera on the end to look inside your bladder. A sample or biopsy of the lining of your bladder may be taken. Tests at your provider's office may also be done to show how well your bladder fills and how well it empties.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002205-5" qtype="treatment">What are the treatments for Interstitial cystitis ?</Question>
+			<Answer>There is no cure for IC, and there are no standard treatments. Treatment is based on trial and error until you find relief. Results vary from person to person. DIET AND LIFESTYLE CHANGES Some people find that making changes in their diet can help control symptoms. Try to avoid foods and beverages that can cause bladder irritation. Stop eating certain foods, one at a time, to see if your symptoms get better. Reduce or stop consuming caffeine, chocolate, carbonated beverages, citrus drinks, and spicy or acidic foods (such as those with high levels of vitamin C). Other foods that the  Interstitial Cystitis Association  lists as possibly causing bladder irritation are: Aged cheeses, Alcohol, Artificial sweeteners, Fava and lima beans, Meats that are cured, processed, smoked, canned, aged, or that contain nitrites, Acidic fruits (except blueberries, honeydew melon, and pears, which are OK.), Nuts, except almonds, cashews, and pine nuts, Onions, Rye bread, Seasonings that contain MSG, Sour cream, Sourdough bread, Soy, Tea, Tofu, Tomatoes, Yogurt ,  You and your provider should discuss methods you can use for bladder training. These may include training yourself to urinate at specific times or using pelvic floor physical therapy and biofeedback to relieve pelvic floor muscle tension and spasms. MEDICINES AND PROCEDURES Combination therapy may include medicines such as: Pentosan polysulfate sodium, the only medicine taken by mouth that is approved for treating IC, Tricyclic antidepressants, such as amitriptyline, to relieve pain and urinary frequency, Hydroxyzine (Vistaril), an antihistamine that can help reduce inflammation. It can cause sedation as a side effect,  Other therapies include: Over-filling the bladder with fluid while under  general anesthesia , called bladder hydrodistention, Medicines placed directly into the bladder, including dimethyl sulfoxide (DMSO), heparin, or lidocaine, Bladder removal (cystectomy) for extremely difficult cases, which is rarely done, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002205-6" qtype="support groups">Where to find support for people with Interstitial cystitis ?</Question>
+			<Answer>More information and support for people with interstitial cystitis and their families can be found at: Interstitial Cystitis Association:  www.ichelp.org/support/support-groups/  and others.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002205-7" qtype="outlook">What is the outlook for Interstitial cystitis ?</Question>
+			<Answer>Treatment results vary. Some people respond well to simple treatments and dietary changes. Others may require extensive treatments or surgery.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002205-8" qtype="when to contact a medical professional">Do I need to see a doctor for Interstitial cystitis ?</Question>
+			<Answer>Contact your provider if you have symptoms of IC. Be sure to mention that you suspect this disorder. It is not well recognized or easily diagnosed. It is often confused with having repeated urinary tract infection.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

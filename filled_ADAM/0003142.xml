@@ -1,0 +1,65 @@
+<Document id="0003142" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001402.htm">
+ 
+<Focus>Polio</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032371</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Poliomyelitis</Synonym>
+		<Synonym>Infantile paralysis</Synonym>
+		<Synonym>Post-polio syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003142-1" qtype="information">What is (are) Polio ?</Question>
+			<Answer>Polio is a viral disease that can affect nerves and can lead to partial or full  paralysis . The medical name for polio is poliomyelitis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003142-2" qtype="causes">What causes Polio ?</Question>
+			<Answer>Polio is a disease caused by infection with the poliovirus. The virus spreads by: 
+   Direct person-to-person contact
+   , 
+   Contact with infected mucus or phlegm from the nose or mouth
+   , 
+   Contact with infected feces
+   ,  The virus enters through the mouth and nose, multiplies in the throat and intestinal tract, and then is absorbed and spread through the blood and  lymph system . The time from being infected with the virus to developing symptoms of disease (incubation) ranges from 5 to 35 days (average 7 to 14 days). Most people do not develop symptoms. Risks factors include: Lack of immunization against polio, Travel to an area that has had a polio outbreak ,  As a result of a global vaccination campaign over the past 25 years, polio has largely been eliminated. The disease still exists in some countries (such as Pakistan and Afghanistan), with outbreaks occurring in groups of people who have not been vaccinated. For an updated list of these countries, visit the website:  www.polioeradication.org .</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003142-3" qtype="symptoms">What are the symptoms of Polio ?</Question>
+			<Answer>There are four basic patterns of polio infection: Inapparent infection, Abortive disease, Nonparalytic, Paralytic,  INAPPARENT INFECTION Most people infected with poliovirus have inapparent infections. They usually do not have symptoms. The only way to know if someone has the infection is by performing a blood test or other tests to find the virus in the stool or throat. ABORTIVE DISEASE People who have abortive disease develop symptoms about 1 to 2 weeks after getting infected with the virus. Symptoms may include: Fever  for 2 to 3 days, General discomfort or uneasiness ( malaise ), Headache, Sore throat,  Vomiting , Loss of appetite, Belly pain ,  These symptoms last up to 5 days and people recover completely. They have no signs of  nervous system  problems. NONPARALYTIC POLIO People with this form of polio have signs of abortive polio and their symptoms are more intense. Other symptoms may include: Stiff and sore muscles at the back of the neck, trunk, arms, and legs, Urinary problems and constipation, Changes in muscle reaction ( reflexes ) as the disease progresses ,  PARALYTIC POLIO This form of polio develops in a small percentage of people who are infected with the polio virus. Symptoms include those of abortive and nonparalytic polio. Other symptoms may include: Muscle weakness, paralysis, loss of muscle tissue, Breathing that is weak, Difficulty swallowing, Drooling, Hoarse voice, Severe constipation and urinary problems , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003142-4" qtype="exams and tests">How to diagnose Polio ?</Question>
+			<Answer>During a physical examination, your health care provider may find: Abnormal reflexes, Back stiffness, Difficulty lifting your head or legs when lying flat on your back, Stiff neck, Trouble bending your neck,  Tests that may be done include: Cultures of throat washings, stools, or spinal fluid, Spinal tap and examination of the spinal fluid ( CSF examination ) using polymerase chain reaction (PCR), Test for levels of  antibodies  to the polio virus, </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003142-5" qtype="treatment">What are the treatments for Polio ?</Question>
+			<Answer>The goal of treatment is to control symptoms while the infection runs its course. There is no specific treatment for this infection. People with severe cases may need lifesaving measures, such as help with breathing. Symptoms are treated based on how severe they are. Treatment may include: Antibiotics for  urinary tract infections , Moist heat (heating pads, warm towels) to reduce muscle pain and spasms, Painkillers to reduce headache, muscle pain, and spasms (narcotics are not usually given because they increase the risk of breathing trouble), Physical therapy, braces or corrective shoes, or orthopedic surgery to help recover muscle strength and function , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003142-6" qtype="outlook">What is the outlook for Polio ?</Question>
+			<Answer>The outlook depends on the form of the disease and the body area affected. Most of the time, complete recovery is likely if the spinal cord and brain are not involved. Brain or spinal cord involvement is a medical emergency that may result in paralysis or death (usually from  breathing  problems). Disability is more common than death. Infection that is located high in the spinal cord or in the brain increases the risk of breathing problems.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003142-7" qtype="complications">What are the complications of Polio ?</Question>
+			<Answer>Health problems that may result from polio include: Aspiration pneumonia ,  Cor pulmonale  (a form of heart failure found on the right side of the circulation system), Lack of movement, Lung problems,  Myocarditis &#160;(inflammation of the heart muscle),  Paralytic ileus  (loss of intestinal function), Permanent muscle paralysis, disability, deformity,  Pulmonary edema &#160;(abnormal buildup of fluid in the lungs),  Shock , Urinary tract infections,  Post-polio syndrome is a complication that develops in some people, usually 30 or more years after they are first infected. Muscles that were already weak may get weaker. Weakness may also develop in muscles that were not affected before.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0003142-8" qtype="when to contact a medical professional">Do I need to see a doctor for Polio ?</Question>
+			<Answer>Contact your provider if: Someone close to you has developed poliomyelitis and you haven't been vaccinated. ,  You develop symptoms of poliomyelitis. ,  Your child's polio immunization (vaccine) is not up to date. , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0003142-9" qtype="prevention">How to prevent Polio ?</Question>
+			<Answer>Polio immunization ( vaccine ) prevents poliomyelitis in most people (over 90% effective).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

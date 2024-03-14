@@ -1,0 +1,59 @@
+<Document id="0002719" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000149.htm">
+ 
+<Focus>Myocarditis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027059</CUI>
+			<CUI>C1962971</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Inflammation - heart muscle</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002719-1" qtype="information">What is (are) Myocarditis ?</Question>
+			<Answer>Myocarditis is inflammation of the heart muscle. The condition is called  pediatric myocarditis  when it occurs in children.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002719-2" qtype="causes">What causes Myocarditis ?</Question>
+			<Answer>Myocarditis is an uncommon disorder. Most of the time, it is caused by an infection that reaches the heart.  When you have an infection, your immune system produces special cells to fight off disease. If the infection affects your heart, the disease-fighting cells enter the heart. However, the chemicals made by these cells can also damage the heart muscle. As a result, the heart can become thick, swollen, and weak. Many cases are caused by a virus that reaches the heart. These can include the SARS-CoV-2 virus (the virus that causes  COVID-19 ), influenza (flu) virus, coxsackievirus, parvovirus,  cytomegalovirus , adenovirus, and others.  It may also be caused by bacterial infections such as Lyme disease, streptococcus, mycoplasma, and  chlamydia . Other causes of myocarditis include: Reactions to certain medicines, such as certain chemotherapy drugs, Exposure to chemicals in the environment, such as heavy metals, Infections due to fungus or parasites, Radiation, Autoimmune disorders that cause inflammation throughout the body , Myocarditis following COVID-19 vaccination has been reported, but is very rare,  Sometimes the exact cause may not be discovered. </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002719-3" qtype="symptoms">What are the symptoms of Myocarditis ?</Question>
+			<Answer>There may be no symptoms. Symptoms may be similar to the flu. If symptoms occur, they may include: Chest pain that may resemble a  heart attack , Fatigue or listlessness,  Fever  and other signs of infection including headache, muscle aches, sore throat, diarrhea, or rashes,  Joint pain  or swelling, Leg swelling, Pale, cool hands and feet (a sign of poor circulation), Rapid breathing, Rapid heart rate , Shortness of breath,  Other symptoms that may occur with this disease: Fainting , often related to irregular heart rhythms,  Low urine output , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002719-4" qtype="exams and tests">How to diagnose Myocarditis ?</Question>
+			<Answer>Myocarditis can be hard to diagnose because the signs and symptoms often mimic those of other heart and lung diseases, or a bad case of the flu. The health care provider may hear a  rapid heartbeat  or abnormal heart sounds while listening to the person's chest with a stethoscope. A physical exam may detect fluid in the lungs and swelling in the legs. There may be signs of infection, including fever and rashes. A  chest x-ray  can show enlargement (swelling) of the heart. If the provider suspects myocarditis based on the exam and chest x-ray, an  electrocardiogram  may also be done to help make the diagnosis.&#160;Heart biopsy is the most accurate way to confirm the diagnosis, but it is not always needed. Also, a heart biopsy may not reveal the diagnosis if the small piece of heart tissue that is removed does not contain the suspected organism or other indicators. Other tests that may be needed include: Blood cultures to check for infection, Blood tests to look for antibodies against viruses or the heart muscle itself, Blood tests to check liver and kidney function, Complete blood count, Special tests to check for the presence of viruses in the blood (viral PCR) , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002719-5" qtype="treatment">What are the treatments for Myocarditis ?</Question>
+			<Answer>Treatment is aimed at the cause of the problem, and may involve: Antibiotics to fight bacterial infection, Medicines called steroids to reduce swelling , Intravenous immunoglobulin (IVIG), a medicine made of substances (called antibodies) that the body produces to fight infection, to control the inflammatory process, Diuretics to remove excess water from the body , Low-salt diet , Reduced activity ,  If the heart muscle is weak, your provider will prescribe medicines to treat heart failure. Abnormal heart rhythms may require the use of other medicines. You may also need a device such as a pacemaker, or implantable cardioverter-defibrillator to correct a dangerous abnormal heartbeat. If a blood clot is in the heart chamber, you will also receive blood thinning medicine. Rarely, a heart transplant may be needed if the heart muscle has become too weak to function.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002719-6" qtype="outlook">What is the outlook for Myocarditis ?</Question>
+			<Answer>The outcome can vary, depending on the cause of the problem and a person&#8217;s overall health. Some people may recover completely. Others may have lasting heart failure.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002719-7" qtype="complications">What are the complications of Myocarditis ?</Question>
+			<Answer>Complications may include: Cardiomyopathy ,  Heart failure , Heart rhythm problems,  Pericarditis , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002719-8" qtype="when to contact a medical professional">Do I need to see a doctor for Myocarditis ?</Question>
+			<Answer>Contact your provider if you have symptoms of myocarditis, especially after a recent infection. Seek medical help right away if: Your symptoms are severe., You have been diagnosed with myocarditis, and you have increased  chest pain ,  swelling , or  breathing problems . , </Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002719-9" qtype="prevention">How to prevent Myocarditis ?</Question>
+			<Answer>Treat conditions that cause myocarditis promptly to reduce the risk.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

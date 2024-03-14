@@ -1,0 +1,37 @@
+<Document id="0001555" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003549.htm">
+ 
+<Focus>Febrile/cold agglutinins</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0015967</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cold agglutinins</Synonym>
+		<Synonym>Weil-Felix reaction</Synonym>
+		<Synonym>Widal's test</Synonym>
+		<Synonym>Warm agglutinins</Synonym>
+		<Synonym>Agglutinins</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001555-1" qtype="information">What is (are) Febrile/cold agglutinins ?</Question>
+			<Answer>Agglutinins are  antibodies  that cause the red blood cells to clump together. Cold agglutinins are active at cold temperatures. ,  Febrile (warm) agglutinins are active at normal body temperatures. ,  This article describes the blood test that is used to measure the level of these antibodies in the blood.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001555-8" qtype="susceptibility">Who is at risk for Febrile/cold agglutinins? ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001555-9" qtype="considerations">What to do for Febrile/cold agglutinins ?</Question>
+			<Answer>If a disease linked to cold agglutinin is suspected, the person needs to be kept warm.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

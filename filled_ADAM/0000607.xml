@@ -1,0 +1,24 @@
+<Document id="0000607" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003239.htm">
+ 
+<Focus>Bullae</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0241982</CUI>
+			<CUI>C0005758</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000607-1" qtype="information">What is (are) Bullae ?</Question>
+			<Answer>Bullae are large  blisters  on the skin that are filled with clear fluid. Many different skin conditions can cause bullae to form. They can be caused by infection or inflammation of the skin.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

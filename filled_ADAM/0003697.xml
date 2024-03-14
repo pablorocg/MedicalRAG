@@ -1,0 +1,47 @@
+<Document id="0003697" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000041.htm">
+ 
+<Focus>Sprains</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038045</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Joint sprain</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003697-1" qtype="information">What is (are) Sprains ?</Question>
+			<Answer>A sprain is an injury to the ligaments around a joint. Ligaments are strong, flexible fibers that hold bones together. When a ligament is stretched too far or tears, the area around the joint will become painful and swell.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003697-2" qtype="causes">What causes Sprains ?</Question>
+			<Answer>Sprains are caused when a joint is forced to move into an unnatural position. For example, "twisting" one's ankle causes a sprain to the ligaments around the ankle.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003697-3" qtype="symptoms">What are the symptoms of Sprains ?</Question>
+			<Answer>Symptoms of a sprain include: Joint pain  or  muscle pain ,  Swelling , Joint stiffness, Discoloration of the skin, especially  bruising , </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003697-4" qtype="considerations">What to do for Sprains ?</Question>
+			<Answer>No information found.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003697-5" qtype="when to contact a medical professional">Do I need to see a doctor for Sprains ?</Question>
+			<Answer>Go to the hospital right away or call 911 or the local emergency number if: You think you have a  broken bone ., The joint appears out of position., You have a serious injury or severe pain., You hear a popping sound and have immediate problems using the joint. ,  Contact your provider if: 
+   Swelling does not start to go away within 2 days., You have symptoms of infection, including red, warm, painful skin or a fever over 100&#176;F (38&#176;C)., The pain does not go away after several weeks., </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003697-6" qtype="prevention">How to prevent Sprains ?</Question>
+			<Answer>The following steps may lower your risk for a sprain: 
+ Wear protective footwear during activities that place stress on your ankle and other joints., Make sure that shoes fit your feet properly., Avoid high-heeled shoes., Always warm-up and stretch&#160;before doing&#160;exercise and sports., Avoid sports and activities for which you have not trained. , </Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,16 @@
+<Document id="0002811" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003355.htm">
+ 
+<Focus>Nitroblue tetrazolium blood test</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>NBT test</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002811-1" qtype="information">Do you have information about Nitroblue tetrazolium blood test</Question>
+			<Answer>The nitroblue tetrazolium test checks if certain immune system cells can change a colorless chemical called nitroblue tetrazolium (NBT) into a deep blue color.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

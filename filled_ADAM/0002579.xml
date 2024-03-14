@@ -1,0 +1,68 @@
+<Document id="0002579" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000612.htm">
+ 
+<Focus>Meningitis - H. influenzae</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0025289</CUI>
+			<CUI>C0018483</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T007</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>H. influenzae meningitis</Synonym>
+		<Synonym>H. flu meningitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002579-1" qtype="information">What is (are) Meningitis - H. influenzae ?</Question>
+			<Answer>Meningitis  is an infection of the membranes covering the brain and spinal cord. This covering is called the meninges. Bacteria are one type of germ that can cause meningitis.  Haemophilus influenzae  type b is one kind of bacteria that causes meningitis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002579-2" qtype="causes">What causes Meningitis - H. influenzae ?</Question>
+			<Answer>H influenzae  meningitis is caused by  Haemophilus influenzae  type b bacteria. This illness is not the same as the flu ( influenza ), which is caused by a virus. Before the Hib vaccine,  H influenzae  was the leading cause of bacterial meningitis in children under age 5. Since the vaccine became available in the United States, this type of meningitis occurs much less often in children in the United States.  H influenzae  meningitis may occur after an upper respiratory infection. The infection usually spreads from the lungs and airways to the blood, then to the brain area. Risk factors include: Attending day care,  Cancer , Ear infection ( otitis media ) with  H influenzae  infection, Family member with an  H influenzae  infection, Native American race, Pregnancy, Older age, Sinus infection ( sinusitis ), Sore throat ( pharyngitis ), Upper respiratory infection, Weakened immune system , </Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002579-3" qtype="symptoms">What are the symptoms of Meningitis - H. influenzae ?</Question>
+			<Answer>Symptoms usually come on quickly, and may include: Fever  and  chills ,  Mental status changes ,  Nausea and vomiting , Sensitivity to light ( photophobia ), Severe  headache , Stiff neck (meningismus) ,  Other symptoms that can occur include: Agitation ,  Bulging fontanelles  in infants, Decreased consciousness, Poor feeding and irritability in children, Rapid breathing, Unusual posture, with the head and neck arched backwards ( opisthotonos ), </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002579-4" qtype="exams and tests">How to diagnose Meningitis - H. influenzae ?</Question>
+			<Answer>The health care provider will perform a physical exam. Questions will focus on symptoms and possible exposure to someone who might have the same symptoms, such as a stiff neck and fever. If the doctor thinks meningitis is possible, a lumbar puncture ( spinal tap ) is done to take a sample of spinal fluid for testing. Other tests that may be done include: Blood culture ,  Chest x-ray ,  CT scan of the head , Gram stain or other special stains, and  culture of the spinal fluid , </Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002579-5" qtype="treatment">What are the treatments for Meningitis - H. influenzae ?</Question>
+			<Answer>Antibiotics will be given as soon as possible. Ceftriaxone is one of the most commonly used antibiotics. Ampicillin may sometimes be used. Corticosteroids may be used to fight inflammation. Unvaccinated people who are in close contact with someone who has  H influenzae  meningitis should be given antibiotics to prevent infection. Such people include: Household members, Roommates in dormitories, Those who come into close contact with an infected person, </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002579-6" qtype="outlook">What is the outlook for Meningitis - H. influenzae ?</Question>
+			<Answer>Meningitis is a dangerous infection and it can be deadly. The sooner it is treated, the better the chance for recovery. Young children and adults over age 50 have the highest risk for death.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0002579-7" qtype="complications">What are the complications of Meningitis - H. influenzae ?</Question>
+			<Answer>Long-term complications may include: Brain damage, Buildup of fluid between the skull and brain ( subdural effusion ), Buildup of fluid inside the skull that leads to brain swelling ( hydrocephalus ) ,  Hearing loss ,  Seizures , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002579-8" qtype="when to contact a medical professional">Do I need to see a doctor for Meningitis - H. influenzae ?</Question>
+			<Answer>Call 911 or the local emergency number or go to an emergency room if you suspect meningitis in a young child who has the following symptoms: 
+   Feeding problems
+   , 
+   High-pitched cry
+   , 
+   Irritability
+   , 
+   Persistent, unexplained fever
+   ,  Meningitis can quickly become a life-threatening illness.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0002579-9" qtype="prevention">How to prevent Meningitis - H. influenzae ?</Question>
+			<Answer>Infants and young children can be protected with the  Hib vaccine . Close contacts in the same household, school, or day care center should be watched for early signs of the disease as soon as the first person is diagnosed. All unvaccinated family members and close contacts of this person should begin antibiotic treatment as soon as possible to prevent spread of the infection. Ask your provider about antibiotics during the first visit. Always use good hygiene habits, such as washing hands before and after changing a diaper, and after using the bathroom.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

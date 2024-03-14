@@ -1,0 +1,55 @@
+<Document id="0000065" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000321.htm">
+ 
+<Focus>Acromegaly</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0001206</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Somatotroph adenoma</Synonym>
+		<Synonym>Growth hormone excess</Synonym>
+		<Synonym>Pituitary giant (in childhood)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000065-1" qtype="information">What is (are) Acromegaly ?</Question>
+			<Answer>Acromegaly is a condition in which there is too much growth hormone (GH) in your body.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000065-2" qtype="causes">What causes Acromegaly ?</Question>
+			<Answer>Acromegaly is a rare condition. It is caused when the pituitary gland makes too much GH. The pituitary gland is a small  endocrine gland  attached to the bottom of the brain. It controls, makes, and releases several hormones, including GH. Usually, a noncancerous (benign) tumor of the pituitary gland releases too much GH. In rare cases, pituitary tumors can be inherited. In children, too much GH causes  gigantism  rather than acromegaly.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000065-3" qtype="symptoms">What are the symptoms of Acromegaly ?</Question>
+			<Answer>Symptoms of acromegaly may include any of the following: Body odor, Blood in the stool,  Carpal tunnel syndrome , Decreased muscle strength ( weakness ), Decreased peripheral vision, Dental problems, gaps between the teeth, Easy  fatigue , Enlarged tongue, Excessive height (when excess&#160;GH production begins in childhood), Excessive sweating, Headache, Heart enlargement, which can cause fainting or shortness of breath,  Hoarseness , Jaw pain,  Joint pain , limited joint movement, swelling of the bony areas around a joint, Large bones of the face, large jaw and tongue, widely spaced teeth, Large feet (change in shoe size), large hands (change in ring or glove size), Large glands in the skin (sebaceous glands) causing oily skin, thickening of the skin, skin tags (growths),  Sleep apnea , Widened fingers or toes, with swelling, redness, and pain ,  Other symptoms that may occur with this disease: Colon polyps , Excess hair growth in females ( hirsutism ), High blood pressure, Type 2 diabetes, Thyroid enlargement, Weight gain, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000065-4" qtype="exams and tests">How to diagnose Acromegaly ?</Question>
+			<Answer>Your health care provider will perform a physical exam and ask about your symptoms. The following tests may be ordered to confirm the diagnosis of acromegaly and check for complications: Blood glucose ,  Growth hormone , Insulin-like growth factor 1 (IGF-1),  Prolactin ,  Spine x-ray ,  MRI of the brain , including the pituitary gland,  Echocardiogram ,  Colonoscopy , Sleep study,  Other tests may be ordered to check whether the rest of the pituitary gland is working normally. Often a  GH suppression test  is needed. This involves drawing blood from a vein 4 or 5 times over 2 hours before and after drinking a specific amount of a sugar solution. Glucose and GH are measured in the blood.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000065-5" qtype="treatment">What are the treatments for Acromegaly ?</Question>
+			<Answer>Surgery to remove the pituitary tumor that is causing this condition often corrects the abnormal GH. Sometimes, the tumor is too large to be removed completely and acromegaly is not cured. In this case, medicines and  radiation  (radiotherapy) may be used to treat acromegaly. Some people with tumors that are too complicated to remove by surgery are treated with medicines instead of surgery. These medicines may block the production of GH from the pituitary gland or prevent the action of GH in other parts of the body. After treatment, you will need to see your provider regularly to make sure that the pituitary gland is working normally and that acromegaly does not come back. Yearly evaluations are usually recommended.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000065-6" qtype="outlook">What is the outlook for Acromegaly ?</Question>
+			<Answer>Pituitary surgery is successful in most people, depending on the size of the  tumor  and the experience of the neurosurgeon with pituitary tumors. Without treatment, the symptoms will get worse. Conditions such as high blood pressure, diabetes, and heart disease may result.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000065-7" qtype="when to contact a medical professional">Do I need to see a doctor for Acromegaly ?</Question>
+			<Answer>Contact your provider if:  You have symptoms of acromegaly, Your symptoms do not improve with treatment, </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000065-8" qtype="prevention">How to prevent Acromegaly ?</Question>
+			<Answer>Acromegaly cannot be prevented. Early treatment may prevent the disease from getting worse and help to avoid complications.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,25 @@
+<Document id="0001066" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/000657.htm">
+ 
+<Focus>Culture-negative endocarditis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0340358</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Endocarditis (culture-negative)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001066-1" qtype="information">What is (are) Culture-negative endocarditis ?</Question>
+			<Answer>Culture-negative endocarditis is an infection and inflammation of the lining of one or more heart valves, but in which no endocarditis-causing germs can be found in a routine&#160; blood culture . This is because certain germs do not grow well in a laboratory setting, or some people have received antibiotics in the past that keep such germs from growing outside of the body. Endocarditis  is usually a result of a bloodstream infection. Bacteria can enter the bloodstream during certain medical procedures, including dental procedures or through intravenous injection using non-sterile needles. Then bacteria can travel to the heart, where they can settle on heart valves.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

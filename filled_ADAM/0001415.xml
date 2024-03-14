@@ -1,0 +1,61 @@
+<Document id="0001415" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001457.htm">
+ 
+<Focus>Epidermolysis bullosa</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014527</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Junctional epidermolysis bullosa</Synonym>
+		<Synonym>Dystrophic epidermolysis bullosa</Synonym>
+		<Synonym>Hemidesmosomal epidermolysis bullosa</Synonym>
+		<Synonym>Weber-Cockayne syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001415-1" qtype="information">What is (are) Epidermolysis bullosa ?</Question>
+			<Answer>Epidermolysis bullosa (EB) is a group of disorders in which skin blisters form after a minor injury. It is passed down in families.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001415-2" qtype="causes">What causes Epidermolysis bullosa ?</Question>
+			<Answer>There are 3 main types of EB. They are: Dystrophic epidermolysis bullosa, Epidermolysis bullosa simplex, Junctional epidermolysis bullosa,  EB can vary from minor to fatal. The minor forms causes blistering of the skin. The fatal forms affect other organs. Most types of this condition start at birth or soon after. It can be hard to identify the exact type of EB a person has, although specific genetic markers are now available for most. Family history is a risk factor. The risk is higher if a parent has this condition. Another rare type of EB is called epidermolysis bullosa acquisita. This form develops after birth. It is an autoimmune disorder, which means the body attacks itself.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001415-3" qtype="symptoms">What are the symptoms of Epidermolysis bullosa ?</Question>
+			<Answer>Depending on the form of EB, symptoms can include: Alopecia (hair loss),  Blisters  around the eyes and nose, Blisters in or around the mouth and throat, causing feeding problems or swallowing difficulty, Blisters on the skin as a result of minor injury or temperature change, especially of the feet, Blistering that is present at birth, Dental problems, such as tooth decay, Hoarse cry, cough, or other breathing problems, Tiny white bumps on previously injured skin, Nail loss or deformed nails , Mitten-like hands or feet, Thickening of skin on hands and feet, Muscle, heart, brain, gastrointestinal, bone, or kidney issues, </Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001415-4" qtype="exams and tests">How to diagnose Epidermolysis bullosa ?</Question>
+			<Answer>Your health care provider will look at your skin to diagnose EB. Tests that are used to confirm the diagnosis include: Genetic testing,  Skin biopsy , Special tests of skin samples under a microscope ,  Skin tests may be used to identify the form of EB. Other tests that may be done include: Blood test for anemia, Culture to check for bacterial infection if wounds are healing poorly, Imaging studies to look at other organs,  Growth rate will be checked often for a baby who has or may have EB.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001415-5" qtype="treatment">What are the treatments for Epidermolysis bullosa ?</Question>
+			<Answer>The goal of treatment is to prevent blisters from forming and avoiding complications. Other treatment will depend on how bad the condition is. HOME CARE Follow these guidelines at home: Take good care of your skin to prevent infections., Follow your provider's advice if blistered areas become crusted or raw. You might need regular whirlpool therapy and to apply antibiotic ointments to wound-like areas. Your provider will let you know if you need a bandage or dressing, and if so, what type to use., You may need to use oral steroid medicines for short periods of time if you have swallowing problems. You may also need to take medicine if you get a candida (yeast) infection in the mouth or throat., Take good care of your oral health and get regular dental check-ups. It is best to see a dentist who has experience treating people with EB., Eat a healthy diet. When you have a lot of skin injury, you may need extra calories and protein to help your skin heal. Choose soft foods and avoid nuts, chips, and other crunchy foods if you have sores in your mouth. A nutritionist can help you with your diet., Do exercises a physical therapist shows you to help keep your joints and muscles mobile.,  SURGERY Surgery to treat this condition may include: Skin grafting  in places where sores are deep, Dilation (widening) of the esophagus if there is a narrowing, Repair of hand deformities, Removal of any squamous cell carcinoma (a type of skin cancer) that develops,  OTHER TREATMENTS Other treatments for this condition may include: Medicines that suppress the immune system may be used for the autoimmune form of this condition., Protein and gene therapy and the use of the drug interferon are being studied. , </Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001415-6" qtype="outlook">What is the outlook for Epidermolysis bullosa ?</Question>
+			<Answer>The outlook depends on the severity of the illness.  Infection of the blistered areas is common. Mild forms of EB improve with age. Very serious forms of EB have a very high death rate. In the severe forms, scarring after blisters form may cause: Contracture deformities  (for example, at the fingers, elbows, and knees) and other deformities, Swallowing problems if the mouth and esophagus are affected, Fused fingers and toes, Limited mobility from scarring, </Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0001415-7" qtype="complications">What are the complications of Epidermolysis bullosa ?</Question>
+			<Answer>These complications may occur: Anemia , Reduced life span for severe forms of the condition,  Esophageal&#160;narrowing , Eye problems, including blindness, Infection, including  sepsis &#160;(infection in the blood or tissues), Loss of function in the hands and feet,  Muscular dystrophy ,  Periodontal disease , Cardiac problems, Kidney failure, Severe malnutrition caused by feeding difficulty, leading to  failure to thrive ,  Squamous cell skin cancer , </Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001415-8" qtype="when to contact a medical professional">Do I need to see a doctor for Epidermolysis bullosa ?</Question>
+			<Answer>If your infant has any blistering shortly after birth, contact your provider. If you have a family history of EB and plan to have children, you may want to have genetic counseling.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0001415-9" qtype="prevention">How to prevent Epidermolysis bullosa ?</Question>
+			<Answer>Genetic counseling is recommended for prospective parents who have a family history of any form of epidermolysis bullosa. During pregnancy, a test called  chorionic villus sampling  may be used to test the baby. For couples at high risk of having a child with EB, the test can be done as early as week 8 to 10 of pregnancy. Talk to your provider. To prevent skin damage and blistering, wear padding around injury-prone areas such as the elbows, knees, ankles, and buttocks. Avoid contact sports. If you have EB acquisita and are on steroids for longer than 1 month, you may need calcium and vitamin D supplements. These supplements may help prevent  osteoporosis  (thinning bones).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,60 @@
+<Document id="0000781" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001592.htm">
+ 
+<Focus>Chickenpox</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0008049</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Varicella</Synonym>
+		<Synonym>Chicken pox</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000781-1" qtype="information">What is (are) Chickenpox ?</Question>
+			<Answer>Chickenpox is a viral infection in which a person develops very itchy blisters all over the body. It was more common in the past. The illness is rare today because of the  chickenpox vaccine .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000781-2" qtype="causes">What causes Chickenpox ?</Question>
+			<Answer>Chickenpox is caused by the varicella-zoster virus. It is a member of the herpesvirus family. The same virus also causes  shingles  in adults. Chickenpox can be spread very easily to others from 1 to 2 days before blisters appear until all the blisters have crusted over. You may get chickenpox: From touching the fluids from a chickenpox blister, If someone with the disease coughs or sneezes near you,  Most cases of chickenpox occur in children younger than age 10. The disease is most often mild, although serious complications may occur. Adults and older children get sicker than younger children in most cases. Children whose mothers have had chickenpox or have received the chickenpox vaccine are not very likely to catch it before they are 1 year old. If they do catch chickenpox, they often have mild cases. This is because antibodies from their mothers' blood help protect them. Children under 1 year old whose mothers have not had chickenpox or the vaccine can get severe chickenpox. Severe chickenpox symptoms are more common in children whose immune system does not work well.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000781-3" qtype="symptoms">What are the symptoms of Chickenpox ?</Question>
+			<Answer>Most children with chickenpox have the following symptoms before the rash appears: Fever, Headache, Stomach ache,  The chickenpox rash occurs about 10 to 21 days after coming into contact with someone who had the disease. In most cases, a child will develop 250 to 500 small, itchy, fluid-filled blisters over red spots on the skin. The blisters are most often first seen on the face, middle of the body, or scalp., After a day or two, the blisters become cloudy and then scab. Meanwhile, new blisters form in groups. They often appear in the mouth, in the vagina, and on the eyelids., Children with skin problems, such as eczema, may get thousands of blisters.,  Most pox will not leave scars unless they become infected with bacteria that is made more likely by scratching. Some children who have had the vaccine will still develop a mild case of chickenpox. In most cases, they recover much more quickly and have only a few poxes (fewer than 30). These cases are often harder to diagnose. However, these children can still spread chickenpox to others.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000781-4" qtype="exams and tests">How to diagnose Chickenpox ?</Question>
+			<Answer>Your health care provider can most often diagnose chickenpox by looking at the rash and asking questions about the person's medical history. Small blisters on the scalp confirm the diagnosis in most cases. Lab tests can help confirm the diagnosis, if needed.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000781-5" qtype="treatment">What are the treatments for Chickenpox ?</Question>
+			<Answer>Treatment involves keeping the person as comfortable as possible. Here are things to try: Avoid scratching or rubbing the itchy areas. Keep fingernails short to avoid damaging the skin from scratching., Wear cool, light, loose bedclothes. Avoid wearing rough clothing, particularly wool, over an itchy area., Take lukewarm baths using little soap and rinse thoroughly. Try a skin-soothing oatmeal or cornstarch bath., Apply a soothing moisturizer after bathing to soften and cool the skin., Avoid prolonged exposure to excessive heat and humidity., Try over-the-counter oral antihistamines such as diphenhydramine (Benadryl), but be aware of possible side effects, such as drowsiness., Try over-the-counter hydrocortisone cream on itchy areas. ,  Medicines that fight the chickenpox virus are available, but not given to everyone. To work well, the medicine should be started within the first 24 hours of the rash. Antiviral medicines are not very often prescribed to otherwise healthy children who do not have severe symptoms. Adults and teens, who are at risk for more severe symptoms, may benefit from antiviral medicine if it is given early., Antiviral medicine may be very important for those who have skin conditions (such as eczema or recent sunburn), lung conditions (such as asthma), or who have recently taken steroids., Some providers also give antiviral medicines to people in the same household who also develop chickenpox, because they will most often develop more severe symptoms. ,  DO NOT give aspirin or ibuprofen to someone who may have chickenpox. Use of aspirin has been associated with a serious condition called  Reye syndrome . Ibuprofen has been associated with more severe secondary infections. Acetaminophen (Tylenol) may be used. A child with chickenpox should not return to school or play with other children until all chickenpox sores have crusted over or dried out. Adults should follow this same rule while considering when to return to work or be around others.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000781-6" qtype="outlook">What is the outlook for Chickenpox ?</Question>
+			<Answer>In most cases, a person recovers without complications. Once you have had chickenpox, the virus often remains dormant or asleep in your body for your lifetime. About 1 in 10 adults will have shingles when the virus re-emerges during a period of stress.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0000781-7" qtype="complications">What are the complications of Chickenpox ?</Question>
+			<Answer>Rarely, infection of the brain has occurred. Other problems may include:  
+ Reye syndrome 
+ , Infection of the heart muscle, Pneumonia, Joint pain or swelling,  Cerebellar ataxia  may appear during the recovery phase or later. This involves a very unsteady walk. Women who get chickenpox during pregnancy can pass the infection to the developing baby. Newborns are at risk for severe infection.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000781-8" qtype="when to contact a medical professional">Do I need to see a doctor for Chickenpox ?</Question>
+			<Answer>Contact your provider if you think that your child has chickenpox or if your child is over 12 months of age and has not been vaccinated against chickenpox.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question qid="0000781-9" qtype="prevention">How to prevent Chickenpox ?</Question>
+			<Answer>Because chickenpox is airborne and spreads very easily, even before the rash appears, it is hard to avoid. A vaccine to prevent chickenpox is part of a child's routine vaccine schedule. The vaccine often prevents the chickenpox disease completely or makes the illness very mild. Talk to your provider if you think your child might be at high risk for complications and might have been exposed. Taking preventive steps right away may be important. Giving the vaccine early after exposure may still reduce the severity of the disease.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

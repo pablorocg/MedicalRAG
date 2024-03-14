@@ -1,0 +1,16 @@
+<Document id="0004145" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003325.htm">
+ 
+<Focus>Uroflowmetry</Focus>
+<FocusAnnotations>
+	<Category>Other</Category>
+	<Synonyms>
+		<Synonym>Uroflow</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004145-1" qtype="information">Do you have information about Uroflowmetry</Question>
+			<Answer>Uroflowmetry is a test that measures the volume of urine released from the body, the speed with which it is released, and how long the release takes.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>
