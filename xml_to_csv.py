@@ -75,7 +75,7 @@ import os
 import xml.etree.ElementTree as ET
 
 def dictFromXML(filename):
-    QAdata = {'question': [], 'question_id': [], 'question_type': [], 'answer': []}
+    QAdata = {'question': [], 'question_id': [], 'question_type': [], 'answer': [], 'url': []}
     try:
         tree = ET.parse(filename)
         root = tree.getroot()
@@ -100,6 +100,7 @@ def dictFromXML(filename):
         QAdata['question_id'].append(i.find('Question').get('qid'))
         QAdata['question_type'].append(i.find('Question').get('qtype'))
         QAdata['answer'].append(i.find('Answer').text)
+        
 
     return QAdata
 
