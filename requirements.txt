@@ -2,3 +2,5 @@ requests
 lxml
 torch
 transformers
+joblib
+faiss-cpu

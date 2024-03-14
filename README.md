@@ -1,5 +1,7 @@
 # Práctica 1: Sistema de búsqueda de respuestas
-El objetivo de este trabajo es realizar un sistema de búsqueda de respuestas que combine técnicas de recuperación de información (comprensión del lenguaje) con modelos de texto generativo (generación de lenguaje). Este sistema, dado un corpus de documentos, permitirá al usuario realizar una consulta sobre él y obtener una respuesta presente en dicho corpus, que será elaborada por un modelo de lenguaje generativo. En este documento se detallará el proceso de obtencion de los datos 
+El objetivo de este trabajo es realizar un sistema de búsqueda de respuestas que combine técnicas de recuperación de información (comprensión del lenguaje) con modelos de texto generativo (generación de lenguaje). Este sistema, dado un corpus de documentos, permitirá al usuario realizar una consulta sobre él y obtener una respuesta presente en dicho corpus, que será elaborada por un modelo de lenguaje generativo. En este documento se detallará el proceso de obtencion de los datos.
+
+![alt text](imgs/rag-pipeline-2677068069.png)
 
 ## Configuracion del entorno de trabajo
 Para configurar el entorno necesario para este proyecto, es esencial instalar las bibliotecas listadas en el archivo requirements.txt. Esto se puede hacer ejecutando el siguiente comando en tu terminal:
@@ -26,5 +28,6 @@ Esto generará un nuevo directorio `filled_ADAM` que contiene archivos XML con l
     
     ```python medquad-scraper/scrape_Herbs.py dataset/MedQuAD-master/12_MPlusHerbsSupplements_QA```
     
+3) Convertir los ficheros xml a csv
 
 
