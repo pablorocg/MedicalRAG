@@ -1,7 +1,7 @@
 class CFG:
     embedding_model = 'TimKond/S-PubMedBert-MedQuAD'
     n_samples = None
-    with_na = True
+    with_na = False
     batch_size = 128
     device = 'cuda'
     log_embeddings = False
