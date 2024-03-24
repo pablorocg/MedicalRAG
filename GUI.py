@@ -14,29 +14,217 @@ from config import CFG
 import gradio as gr
 import requests
 import json
+from scipy.spatial.distance import cosine
 
-os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
+class MedicalChatBotGUI():
+    def __init__(self,model):
+        os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
+        self.model=model
 
 
-def read_processed_data(with_na=False, n_samples=None):
-    # List the files in the processed_data directory
-    files = os.listdir('dataset/processed_data')
 
-    # Read the files into a dataframe
-    for idx, file in enumerate(files):
-        if idx == 0:
-            df = pd.read_csv('dataset/processed_data/' + file, na_values=['', ' ', 'No information found.'])
-        else:
-            df = pd.concat([df, pd.read_csv('dataset/processed_data/' + file, na_values=['', ' ', 'No information found.'])], ignore_index=True)
-    
-    if not with_na:
-        df = df.dropna()
+    def read_processed_data(self,with_na=False, n_samples=None):
+        # List the files in the processed_data directory
+        files = os.listdir('dataset/processed_data')
 
-    if n_samples is not None:
-        df = df.sample(n_samples)
+        # Read the files into a dataframe
+        for idx, file in enumerate(files):
+            if idx == 0:
+                df = pd.read_csv('dataset/processed_data/' + file, na_values=['', ' ', 'No information found.'])
+            else:
+                df = pd.concat([df, pd.read_csv('dataset/processed_data/' + file, na_values=['', ' ', 'No information found.'])], ignore_index=True)
+        
+        if not with_na:
+            df = df.dropna()
 
-    return df
+        if n_samples is not None:
+            df = df.sample(n_samples)
 
+
+        return df
+    def collate_fn(self,batch, tokenizer=AutoTokenizer.from_pretrained(CFG.embedding_model)):
+        # Extrae las preguntas de los elementos del batch
+        questions = [item['Q'] for item in batch] # Lista de textos 
+        
+        # Tokeniza las preguntas en un lote
+        tokenized_questions = tokenizer(
+            questions,
+            return_tensors='pt',
+            truncation=True,
+            padding=True,
+            max_length=512
+        )
+        
+        # No hay necesidad de usar pad_sequence aquí, ya que tokenizer maneja el padding
+        return {
+            "input_ids": tokenized_questions['input_ids'],
+            "attention_mask": tokenized_questions['attention_mask']
+        }
+
+
+    def get_bert_embeddings(self,ds, batch_size=CFG.batch_size):
+        dataloader = DataLoader(ds, batch_size=batch_size, shuffle=False, collate_fn=self.collate_fn, drop_last=False)
+        model = AutoModel.from_pretrained(CFG.embedding_model)
+        model = model.to(CFG.device)
+        model.eval()
+        embeddings = []
+        with torch.no_grad():
+            for batch in tqdm(dataloader):
+                input_ids = batch['input_ids'].to(CFG.device)
+                attention_mask = batch['attention_mask'].to(CFG.device)
+                outputs = model(input_ids, attention_mask)
+                last_hidden_state = outputs.last_hidden_state
+                cls_embedding = last_hidden_state[:, 0, :]
+                embeddings.append(cls_embedding.cpu().numpy())
+        return np.concatenate(embeddings)
+
+
+    # Función para crear el índice FAISS
+    def create_faiss_index(self,embeddings):
+        dimension = embeddings.shape[1]
+        index = faiss.IndexFlatL2(dimension)
+        index.add(embeddings)
+        return index
+
+
+    # Función para obtener los embeddings de una consulta de texto
+    def get_query_embedding(self,query_text, device = CFG.device):
+        tokenizer = AutoTokenizer.from_pretrained(CFG.embedding_model)
+        model = AutoModel.from_pretrained(CFG.embedding_model).to(device)
+        inputs = tokenizer(query_text, return_tensors='pt', truncation=True, padding=True, max_length=512).to(device)
+        with torch.no_grad():
+            outputs = model(**inputs)
+        query_embedding = outputs.last_hidden_state.mean(1).squeeze().cpu().numpy()
+        return query_embedding
+
+
+    def get_retrieved_info(self,documents, I, D):
+        retrieved_info = dict()
+        for i, idx in enumerate(I[0], start=1):
+            retrieved_info[i] = {
+                "url": documents[idx]['U'],
+                "question": documents[idx]['Q'],
+                "answer": documents[idx]['A'],
+                "dissimilarity": D[0][i-1]
+            }
+        return retrieved_info
+
+
+    def format_retrieved_info(self,retrieved_info):
+        formatted_info = "\n"
+        for i, info in retrieved_info.items():
+            formatted_info += f"Question: {info['question']}\n"
+            formatted_info += f"Answer: {info['answer']}\n"
+            formatted_info += f"Source: {info['url']}\n\n"
+        return formatted_info
+
+
+    def generate_prompt(self,query_text, formatted_info):
+        prompt = """ 
+        You are a medical sciences bot tailored for precision and succinctness. 
+        Your programming dictates responding directly to the user's query with utmost brevity. 
+        Your key task is to evaluate the user's question against your vast database of documents. 
+        The lower the dissimilarity between the query and the document, the more emphasis you should place on that information in your response. 
+        Your recommendation should be concise, backed by a URL to the most pertinent document for user reference, serving as proof of the recommendation's validity. 
+        Swift and relevant information retrieval is your principal function.
+
+        Given the user's question: {query_text}
+
+        And taking into account the pertinent information: 
+        {formatted_info}
+
+        Formulate a targeted recommendation for the user. 
+        The recommendation should be aligned closely with their query.  
+        """
+        prompt = prompt.format(query_text=query_text, formatted_info=formatted_info)
+
+        return prompt
+
+
+    def answer_using_ollama(self,prompt,model):
+        
+        full_response = []
+        url = 'http://localhost:11434/api/generate'
+        data = {
+            "model": model, #Using llama2 7B params Q4 "gemma:2b" "gemma:7b"
+            "prompt": prompt
+        }
+        headers = {'Content-Type': 'application/json'}
+        response = requests.post(url, data=json.dumps(data), headers=headers, stream=True)
+
+        try:
+            for line in response.iter_lines():
+                if line:
+                    decoded_line = json.loads(line.decode('utf-8'))
+                    print(decoded_line['response'], end="")  # uncomment to results, token by token
+                    full_response.append(decoded_line['response'])
+        finally:
+            response.close()
+
+        # response as string 
+        return "".join(full_response)
+    def generate_faiss_db(self):
+        df = self.read_processed_data(with_na = CFG.with_na, n_samples=CFG.n_samples)
+        documents = TextDataset(df)
+        embeddings = self.get_bert_embeddings(documents, CFG.batch_size)
+        index = self.create_faiss_index(embeddings)# Crea el índice FAISS con los embeddings
+        write_index(index, 'faiss_index.faiss')# Guarda el índice FAISS en un archivo binario
+        return df
+
+    def get_source_answer(self, answer, retrieved_info):
+        # Obten el embedding de la respuesta
+        answer_embedding = self.get_query_embedding(answer)
+        
+        # Inicializa la menor distancia encontrada y la URL del documento más cercano
+        min_distance = float('inf')
+        closest_url = ""
+        
+        # Itera a través de la información recuperada para encontrar el documento más cercano
+        for info in retrieved_info.values():
+            document_embedding = self.get_query_embedding(info['answer']) # Podrías necesitar ajustar esto si ya tienes los embeddings
+            distance = cosine(answer_embedding, document_embedding)
+            
+            if distance < min_distance:
+                min_distance = distance
+                closest_url = info['url']
+        
+        return closest_url
+    def make_inference(self,query, hist):
+        df = self.read_processed_data(with_na = CFG.with_na, n_samples=CFG.n_samples)
+        documents = TextDataset(df)
+        # embeddings = get_bert_embeddings(documents, CFG.batch_size)
+        # index = create_faiss_index(embeddings)# Crea el índice FAISS con los embeddings
+        index = faiss.read_index("faiss_index.faiss")
+        query_embedding = self.get_query_embedding(query)
+        query_vector = np.expand_dims(query_embedding, axis=0)
+        D, I = index.search(query_vector, k=5)  # Busca los 5 documentos más similares
+        retrieved_info = self.get_retrieved_info(documents, I, D)
+        formatted_info = self.format_retrieved_info(retrieved_info)
+        prompt = self.generate_prompt(query, formatted_info)
+        answer = self.answer_using_ollama(prompt,self.model)
+        source = self.get_source_answer(answer,retrieved_info)
+        return answer + '\n source:'+ source 
+
+
+
+
+
+# CArga de datos y generacion de la BBDD vectorial
+
+
+
+
+
+
+
+# query_text = "What is the cause of diabetes?"
+# query_embedding = get_query_embedding(query_text)
+# query_vector = np.expand_dims(query_embedding, axis=0)
+# D, I = index.search(query_vector, k=5)  # Busca los 5 documentos más similares
+# retrieved_info = get_retrieved_info(documents, I, D)
+# formatted_info = format_retrieved_info(retrieved_info)
+# prompt = generate_prompt(query_text, formatted_info)
+# answer = answer_using_ollama(prompt)
 
 class TextDataset(Dataset):
     def __init__(self, df):# Input is a pandas dataframe
@@ -69,184 +257,4 @@ class TextDataset(Dataset):
                 'S_G': self.semantic_group[idx]}
     
 
-def collate_fn(batch, tokenizer=AutoTokenizer.from_pretrained(CFG.embedding_model)):
-    # Extrae las preguntas de los elementos del batch
-    questions = [item['Q'] for item in batch] # Lista de textos 
-    
-    # Tokeniza las preguntas en un lote
-    tokenized_questions = tokenizer(
-        questions,
-        return_tensors='pt',
-        truncation=True,
-        padding=True,
-        max_length=512
-    )
-    
-    # No hay necesidad de usar pad_sequence aquí, ya que tokenizer maneja el padding
-    return {
-        "input_ids": tokenized_questions['input_ids'],
-        "attention_mask": tokenized_questions['attention_mask']
-    }
 
-
-def get_bert_embeddings(ds, batch_size=CFG.batch_size):
-    dataloader = DataLoader(ds, batch_size=batch_size, shuffle=False, collate_fn=collate_fn, drop_last=False)
-    model = AutoModel.from_pretrained(CFG.embedding_model)
-    model = model.to(CFG.device)
-    model.eval()
-    embeddings = []
-    with torch.no_grad():
-        for batch in tqdm(dataloader):
-            input_ids = batch['input_ids'].to(CFG.device)
-            attention_mask = batch['attention_mask'].to(CFG.device)
-            outputs = model(input_ids, attention_mask)
-            last_hidden_state = outputs.last_hidden_state
-            cls_embedding = last_hidden_state[:, 0, :]
-            embeddings.append(cls_embedding.cpu().numpy())
-    return np.concatenate(embeddings)
-
-
-# Función para crear el índice FAISS
-def create_faiss_index(embeddings):
-    dimension = embeddings.shape[1]
-    index = faiss.IndexFlatL2(dimension)
-    index.add(embeddings)
-    return index
-
-
-# Función para obtener los embeddings de una consulta de texto
-def get_query_embedding(query_text, device = CFG.device):
-    tokenizer = AutoTokenizer.from_pretrained(CFG.embedding_model)
-    model = AutoModel.from_pretrained(CFG.embedding_model).to(device)
-    inputs = tokenizer(query_text, return_tensors='pt', truncation=True, padding=True, max_length=512).to(device)
-    with torch.no_grad():
-        outputs = model(**inputs)
-    query_embedding = outputs.last_hidden_state.mean(1).squeeze().cpu().numpy()
-    return query_embedding
-
-
-def get_retrieved_info(documents, I, D):
-    retrieved_info = dict()
-    for i, idx in enumerate(I[0], start=1):
-        retrieved_info[i] = {
-            "url": documents[idx]['U'],
-            "question": documents[idx]['Q'],
-            "answer": documents[idx]['A'],
-            "dissimilarity": D[0][i-1]
-        }
-    return retrieved_info
-
-
-def format_retrieved_info(retrieved_info):
-    formatted_info = "\n"
-    for i, info in retrieved_info.items():
-        formatted_info += f"Question: {info['question']}\n"
-        formatted_info += f"Answer: {info['answer']}\n"
-        formatted_info += f"Source: {info['url']}\n\n"
-    return formatted_info
-
-
-def generate_prompt(query_text, formatted_info):
-    prompt = """ 
-    You are a medical sciences bot tailored for precision and succinctness. 
-    Your programming dictates responding directly to the user's query with utmost brevity. 
-    Your key task is to evaluate the user's question against your vast database of documents. 
-    The lower the dissimilarity between the query and the document, the more emphasis you should place on that information in your response. 
-    Your recommendation should be concise, backed by a URL to the most pertinent document for user reference, serving as proof of the recommendation's validity. 
-    Swift and relevant information retrieval is your principal function.
-
-    Given the user's question: {query_text}
-
-    And taking into account the pertinent information: 
-    {formatted_info}
-
-    Formulate a targeted recommendation for the user. 
-    The recommendation should be aligned closely with their query, and provide the source (url) of the selected info that has been provided.  
-    """
-    prompt = prompt.format(query_text=query_text, formatted_info=formatted_info)
-
-    return prompt
-
-
-def answer_using_ollama(prompt):
-    
-    full_response = []
-    url = 'http://localhost:11434/api/generate'
-    data = {
-        "model": "llama2", #Using llama2 7B params Q4 "gemma:2b" "gemma:7b"
-        "prompt": prompt
-    }
-    headers = {'Content-Type': 'application/json'}
-    response = requests.post(url, data=json.dumps(data), headers=headers, stream=True)
-
-    try:
-        for line in response.iter_lines():
-            if line:
-                decoded_line = json.loads(line.decode('utf-8'))
-                print(decoded_line['response'], end="")  # uncomment to results, token by token
-                full_response.append(decoded_line['response'])
-    finally:
-        response.close()
-
-    # response as string 
-    return "".join(full_response)
-
-
-
-
-
-def generate_faiss_db():
-    df = read_processed_data(with_na = CFG.with_na, n_samples=CFG.n_samples)
-    documents = TextDataset(df)
-    embeddings = get_bert_embeddings(documents, CFG.batch_size)
-    index = create_faiss_index(embeddings)# Crea el índice FAISS con los embeddings
-    write_index(index, 'faiss_index.faiss')# Guarda el índice FAISS en un archivo binario
-    return df
-
-
-
-
-
-
-generate_faiss_db()
-# CArga de datos y generacion de la BBDD vectorial
-
-
-
-
-
-def make_inference(query, hist):
-    df = read_processed_data(with_na = CFG.with_na, n_samples=CFG.n_samples)
-    documents = TextDataset(df)
-    # embeddings = get_bert_embeddings(documents, CFG.batch_size)
-    # index = create_faiss_index(embeddings)# Crea el índice FAISS con los embeddings
-    index = faiss.read_index("faiss_index.faiss")
-    query_embedding = get_query_embedding(query)
-    query_vector = np.expand_dims(query_embedding, axis=0)
-    D, I = index.search(query_vector, k=5)  # Busca los 5 documentos más similares
-    retrieved_info = get_retrieved_info(documents, I, D)
-    formatted_info = format_retrieved_info(retrieved_info)
-    prompt = generate_prompt(query, formatted_info)
-    answer = answer_using_ollama(prompt)
-    return answer
-
-# query_text = "What is the cause of diabetes?"
-# query_embedding = get_query_embedding(query_text)
-# query_vector = np.expand_dims(query_embedding, axis=0)
-# D, I = index.search(query_vector, k=5)  # Busca los 5 documentos más similares
-# retrieved_info = get_retrieved_info(documents, I, D)
-# formatted_info = format_retrieved_info(retrieved_info)
-# prompt = generate_prompt(query_text, formatted_info)
-# answer = answer_using_ollama(prompt)
-
-
-
-
-demo = gr.ChatInterface(fn = make_inference, 
-                        examples = ["What is diabetes?", "Is ginseng good for diabetes?", "What are the symptoms of diabetes?"], 
-                        title = "Medical RAG Chatbot", 
-                        description = "Medical RAG Chatbot is a chatbot that can help you with your medical queries. It is a rule-based chatbot that can answer your queries based on the information it has. It is not a replacement for a doctor. Please consult a doctor for any medical advice.",
-                        )
-demo.launch()
-
-# additional_inputs = gr.Dropdown(choices=['llama2:7b', 'gemma:7b'], label="Selecciona una opción")
