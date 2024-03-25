@@ -34,6 +34,9 @@ class MedicalChatBotGUI():
         self.vector_store = None
         self.index = None
         self.storage_context = None
+        self.data_generator = None
+        self.index = None
+        self.documents = None
 
     def read_processed_data(self,with_na=False, n_samples=None):
         # List the files in the processed_data directory
@@ -176,10 +179,11 @@ class MedicalChatBotGUI():
         # response as string 
         return "".join(full_response)
     def generate_faiss_db(self):
+
         df = self.read_processed_data(with_na = CFG.with_na, n_samples=CFG.n_samples)
-        documents = TextDataset(df)
-        embeddings = self.get_bert_embeddings(documents, CFG.batch_size)
-        index = self.create_faiss_index(embeddings)# Crea el índice FAISS con los embeddings
+        self.documents = TextDataset(df)
+        embeddings = self.get_bert_embeddings(self.documents, CFG.batch_size)
+        self.index = self.create_faiss_index(embeddings)# Crea el índice FAISS con los embeddings
         # list_of_docs = df.question.tolist()
         # documents = [Document(text = t) for t in list_of_docs]
         # self.vector_store = FaissVectorStore(faiss_index=index)
@@ -188,7 +192,8 @@ class MedicalChatBotGUI():
         #     documents, storage_context=self.storage_context
         # )
         # llamaindex.storage_context.persist()
-        write_index(index, 'faiss_index.faiss')# Guarda el índice FAISS en un archivo binario
+        
+        write_index(self.index, 'faiss_index.faiss')# Guarda el índice FAISS en un archivo binario
         return df
 
     def get_source_answer(self, answer, retrieved_info):
@@ -218,9 +223,11 @@ class MedicalChatBotGUI():
         query_embedding = self.get_query_embedding(query)
         query_vector = np.expand_dims(query_embedding, axis=0)
         D, I = index.search(query_vector, k=5)  # Busca los 5 documentos más similares
+        print(D, I)
         retrieved_info = self.get_retrieved_info(documents, I, D)
         print(retrieved_info)
         formatted_info = self.format_retrieved_info(retrieved_info)
+        print(formatted_info)
         prompt = self.generate_prompt(query, formatted_info)
         answer = self.answer_using_ollama(prompt,self.model)
         source = self.get_source_answer(answer,retrieved_info)
