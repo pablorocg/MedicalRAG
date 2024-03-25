@@ -1,1 +1,3 @@
 /runs
+*.pyc
+dataset/QA-TestSet-LiveQA-Med-Qrels-2479-Answers/All-2479-Answers-retrieved-from-MedQuAD.csv

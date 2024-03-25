@@ -12,16 +12,28 @@ from torch.utils.data import DataLoader
 from tqdm import tqdm
 from config import CFG
 import gradio as gr
+
 import requests
 import json
 from scipy.spatial.distance import cosine
+
+from llama_index.core import (
+    load_index_from_storage,
+    VectorStoreIndex,
+    StorageContext,
+    SummaryIndex,
+    Document
+)
+
+from llama_index.vector_stores.faiss import FaissVectorStore
 
 class MedicalChatBotGUI():
     def __init__(self,model):
         os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
         self.model=model
-
-
+        self.vector_store = None
+        self.index = None
+        self.storage_context = None
 
     def read_processed_data(self,with_na=False, n_samples=None):
         # List the files in the processed_data directory
@@ -168,6 +180,14 @@ class MedicalChatBotGUI():
         documents = TextDataset(df)
         embeddings = self.get_bert_embeddings(documents, CFG.batch_size)
         index = self.create_faiss_index(embeddings)# Crea el índice FAISS con los embeddings
+        # list_of_docs = df.question.tolist()
+        # documents = [Document(text = t) for t in list_of_docs]
+        # self.vector_store = FaissVectorStore(faiss_index=index)
+        # self.storage_context = StorageContext.from_defaults(vector_store=self.vector_store, embed_model='local')
+        # llamaindex = VectorStoreIndex.from_documents(
+        #     documents, storage_context=self.storage_context
+        # )
+        # llamaindex.storage_context.persist()
         write_index(index, 'faiss_index.faiss')# Guarda el índice FAISS en un archivo binario
         return df
 
@@ -189,7 +209,7 @@ class MedicalChatBotGUI():
                 closest_url = info['url']
         
         return closest_url
-    def make_inference(self,query, hist):
+    def make_inference(self,query, hist=None):
         df = self.read_processed_data(with_na = CFG.with_na, n_samples=CFG.n_samples)
         documents = TextDataset(df)
         # embeddings = get_bert_embeddings(documents, CFG.batch_size)
@@ -199,24 +219,25 @@ class MedicalChatBotGUI():
         query_vector = np.expand_dims(query_embedding, axis=0)
         D, I = index.search(query_vector, k=5)  # Busca los 5 documentos más similares
         retrieved_info = self.get_retrieved_info(documents, I, D)
+        print(retrieved_info)
         formatted_info = self.format_retrieved_info(retrieved_info)
         prompt = self.generate_prompt(query, formatted_info)
         answer = self.answer_using_ollama(prompt,self.model)
         source = self.get_source_answer(answer,retrieved_info)
-        return answer + '\n source:'+ source 
+        return answer + ' \n Source: '+ source 
 
 
+    def get_index_from_local_storage(self):
+        self.vector_store = FaissVectorStore.from_persist_dir("faiss_index")
+        self.storage_context = StorageContext.from_defaults(
+            vector_store=self.vector_store, persist_dir="faiss_index"
+        )
+        self.index = load_index_from_storage(storage_context=self.storage_context)
 
 
 
 # CArga de datos y generacion de la BBDD vectorial
-
-
-
-
-
-
-
+        
 # query_text = "What is the cause of diabetes?"
 # query_embedding = get_query_embedding(query_text)
 # query_vector = np.expand_dims(query_embedding, axis=0)
@@ -255,6 +276,3 @@ class TextDataset(Dataset):
                 'C': self.cui[idx],
                 'S_T': self.semantic_type[idx],
                 'S_G': self.semantic_group[idx]}
-    
-
-
