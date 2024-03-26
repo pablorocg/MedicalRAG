@@ -147,22 +147,37 @@ def format_retrieved_info(retrieved_info):
 
 
 def generate_prompt(query_text, formatted_info):
+    # prompt = """ 
+    # You are a medical sciences bot tailored for precision and succinctness. 
+    # Your programming dictates responding directly to the user's query with utmost brevity. 
+    # Your key task is to evaluate the user's question against your vast database of documents. 
+    # The lower the dissimilarity between the query and the document, the more emphasis you should place on that information in your response. 
+    # Your recommendation should be concise, backed by a URL to the most pertinent document for user reference, serving as proof of the recommendation's validity. 
+    # Swift and relevant information retrieval is your principal function.
+
+    # Given the user's question: {query_text}
+
+    # And taking into account the pertinent information: 
+    # {formatted_info}
+
+    # Formulate a targeted recommendation for the user. 
+    # The recommendation should be aligned closely with their query, and provide the source (url) of the selected info that has been provided.  
+    # """
     prompt = """ 
-    You are a medical sciences bot tailored for precision and succinctness. 
-    Your programming dictates responding directly to the user's query with utmost brevity. 
-    Your key task is to evaluate the user's question against your vast database of documents. 
-    The lower the dissimilarity between the query and the document, the more emphasis you should place on that information in your response. 
-    Your recommendation should be concise, backed by a URL to the most pertinent document for user reference, serving as proof of the recommendation's validity. 
-    Swift and relevant information retrieval is your principal function.
-
-    Given the user's question: {query_text}
-
-    And taking into account the pertinent information: 
+    You are an advanced medical sciences bot designed for precision, succinctness, and adaptability. 
+    You specialize in providing recommendations from a curated database of documents, including peer-reviewed scientific journals, medical encyclopedias, and official health organization guidelines. 
+    Your programming includes algorithms for evaluating the similarity between user queries and documents, focusing on the most relevant information. 
+    When recommending, you provide a concise summary, the relevance score of the document, and a URL to the source for detailed reading. 
+    You also adapt your responses based on user feedback to improve the accuracy and relevance of future recommendations.
+    
+    Given the user's question: "{query_text}"
+    
+    And considering the following pertinent information: 
     {formatted_info}
-
-    Formulate a targeted recommendation for the user. 
-    The recommendation should be aligned closely with their query, and provide the source (url) of the selected info that has been provided.  
+    
+    Generate a targeted recommendation. Include a brief explanation of the document's relevance and the source URL. If uncertain, request further clarification from the user to refine your recommendation.
     """
+    
     prompt = prompt.format(query_text=query_text, formatted_info=formatted_info)
 
     return prompt
@@ -173,7 +188,7 @@ def answer_using_ollama(prompt):
     full_response = []
     url = 'http://localhost:11434/api/generate'
     data = {
-        "model": "llama2", #Using llama2 7B params Q4 "gemma:2b" "gemma:7b"
+        "model": CFG.llm, #Using llama2 7B params Q4 "gemma:2b" "gemma:7b"
         "prompt": prompt
     }
     headers = {'Content-Type': 'application/json'}
@@ -230,23 +245,12 @@ def make_inference(query, hist):
     answer = answer_using_ollama(prompt)
     return answer
 
-# query_text = "What is the cause of diabetes?"
-# query_embedding = get_query_embedding(query_text)
-# query_vector = np.expand_dims(query_embedding, axis=0)
-# D, I = index.search(query_vector, k=5)  # Busca los 5 documentos más similares
-# retrieved_info = get_retrieved_info(documents, I, D)
-# formatted_info = format_retrieved_info(retrieved_info)
-# prompt = generate_prompt(query_text, formatted_info)
-# answer = answer_using_ollama(prompt)
-
-
 
 
 demo = gr.ChatInterface(fn = make_inference, 
-                        examples = ["What is diabetes?", "Is ginseng good for diabetes?", "What are the symptoms of diabetes?"], 
-                        title = "Medical RAG Chatbot", 
+                        examples = ["What is diabetes?", "Is ginseng good for diabetes?", "What are the symptoms of diabetes?", "What are the symptoms of ABCD syndrome ?"], 
+                        title = "Medical Chatbot", 
                         description = "Medical RAG Chatbot is a chatbot that can help you with your medical queries. It is a rule-based chatbot that can answer your queries based on the information it has. It is not a replacement for a doctor. Please consult a doctor for any medical advice.",
                         )
 demo.launch()
 
-# additional_inputs = gr.Dropdown(choices=['llama2:7b', 'gemma:7b'], label="Selecciona una opción")
