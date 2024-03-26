@@ -14,6 +14,7 @@ from config import CFG
 import gradio as gr
 import requests
 import json
+from datasets import load_dataset
 
 os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
 
@@ -29,6 +30,14 @@ def read_processed_data(with_na=False, n_samples=None):
         else:
             df = pd.concat([df, pd.read_csv('dataset/processed_data/' + file, na_values=['', ' ', 'No information found.'])], ignore_index=True)
     
+
+    dataset = load_dataset("medalpaca/medical_meadow_medical_flashcards", split='train')
+    df_ds_2 = pd.DataFrame(dataset)
+    
+    d = [doc for doc in dataset['train'] if doc['input'] and doc['output']]# Delete all the documents with empty input or output
+    documents = [Document(text = f"Question: {doc['input']} Answer: {doc['output']}") for doc in dataset['train']]#
+    print('Documents created successfully')
+
     if not with_na:
         df = df.dropna()
 
