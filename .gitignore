@@ -1,3 +1,4 @@
 /runs
-faiss_index.faiss
-faiss_index.faiss
+/storage
+/__pycache__
+
