@@ -4,3 +4,12 @@ torch
 transformers
 joblib
 faiss-cpu
+tabulate
+rouge_score
+nltk
+gradio
+tqdm
+argparse
+pandas
+numpy
+json
