@@ -9,6 +9,8 @@ Para configurar el entorno necesario para este proyecto, es esencial instalar la
 
 ```pip install -r requirements.txt```
 
+Además, es necesario tener instalado Ollama. La instalación se puede realizar desde esta web: https://ollama.com/ 
+
 ## Obtencion del dataset
 El dataset utilizado es [MedQuAD database](https://github.com/abachaa/MedQuAD). Dado que por motivos de copyright se tuvo que eliminar las respuestas a las preguntas de las bases de datos 10, 11 y 12 se ha tenido que obtener dichas respuestas a traves de web scrapping de las webs. Para ello, se ha accedido al repositorio [MedQuAD scraper](https://github.com/glicerico/medquad-scraper) y se ha obtenido los scripts para poder obtener dichos datos. Para generar los documentos con las respuestas adecuadamente formadas se debe realizar los siguientes pasos.   
 
