@@ -1,7 +1,6 @@
 torch
 transformers
 faiss-cpu
-nltk
 gradio
 tqdm
 argparse

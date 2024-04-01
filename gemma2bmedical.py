@@ -5,7 +5,7 @@ from transformers import StoppingCriteria, TextIteratorStreamer
 from threading import Thread
 
 torch.set_num_threads(2)
-HF_TOKEN = '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'#os.environ.get("HF_TOKEN")
+HF_TOKEN = os.environ.get("HF_TOKEN")                #''
 
 # Loading the tokenizer and model from Hugging Face's model hub.
 tokenizer = AutoTokenizer.from_pretrained("google/gemma-2b-it", use_auth_token=HF_TOKEN)

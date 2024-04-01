@@ -13,6 +13,7 @@ from transformers import TextIteratorStreamer
 from threading import Thread
 
 torch.set_num_threads(2)
+HF_TOKEN = os.environ.get("SECRET_TOKEN")      
 
 
 # OBTENER EL DATASET________________________________________________________________________________
@@ -361,15 +362,20 @@ if __name__ == '__main__':
         index = faiss.read_index('./storage/faiss_index.faiss')
 
     # Load the model
-    quantization_config = BitsAndBytesConfig(
+    # quantization_config = BitsAndBytesConfig(
+    #     load_in_4bit=True,
+    #     bnb_4bit_use_double_quant=True,
+    #     bnb_4bit_quant_type="nf4",
+    #     bnb_4bit_compute_dtype=torch.bfloat16
+    # )
+    
+    nf4_config = BitsAndBytesConfig(
         load_in_4bit=True,
-        bnb_4bit_use_double_quant=True,
         bnb_4bit_quant_type="nf4",
-        bnb_4bit_compute_dtype=torch.bfloat16
     )
 
-    tokenizer = AutoTokenizer.from_pretrained("google/gemma-2b-it")
-    model = AutoModelForCausalLM.from_pretrained("google/gemma-2b-it", quantization_config=quantization_config, torch_dtype=torch.float16, low_cpu_mem_usage=True)
+    tokenizer = AutoTokenizer.from_pretrained("google/gemma-2b-it", token=HF_TOKEN)
+    model = AutoModelForCausalLM.from_pretrained("google/gemma-2b-it", token=HF_TOKEN)#quantization_config = nf4_config, quantization_config=quantization_config,
 
 
     def make_inference(query, hist):
