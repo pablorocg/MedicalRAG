@@ -1,4 +1,9 @@
 /runs
 /storage
-/__pycache__
+/__pycache__/*
 
+/runs
+/storage
+__pycache__/
+*.py[cod]
+*$py.class
